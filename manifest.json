@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.2",
+  "generated": "2026-02-04T21:32:51.851Z",
+  "source": "HMdb.org",
+  "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
+  "total_markers": 1829,
+  "total_regions": 1,
+  "cycle_days": 28,
+  "last_region_discovery": null,
+  "regions": [
+    {
+      "id": "us-az",
+      "name": "Arizona",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-az.json",
+      "markers": 1829,
+      "size_bytes": 549794,
+      "updated": "2026-02-04",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": "1829",
+        "removed": 0,
+        "modified": 0
+      }
+    }
+  ]
+}
