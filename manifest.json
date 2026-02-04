@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-02-04T22:07:23.081Z",
+  "generated": "2026-02-04T22:07:27.702Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 0,
-  "total_regions": 1,
+  "total_regions": 2,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -20,6 +20,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 1829,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-ok",
+      "name": "Oklahoma",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ok.json",
+      "markers": 0,
+      "size_bytes": 242,
+      "updated": "2026-02-04",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 2040,
         "removed": 0,
         "modified": 0
       }
