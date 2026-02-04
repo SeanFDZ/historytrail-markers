@@ -3,11 +3,11 @@
   "run_id": null,
   "cycle_day": 1,
   "regions_processed": [
-    "us-ok"
+    "us-az"
   ],
   "changes": {
-    "us-ok": {
-      "added": 2040,
+    "us-az": {
+      "added": 1829,
       "removed": 0,
       "modified": 0
     }
