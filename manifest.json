@@ -1,13 +1,29 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-02-04T22:09:13.540Z",
+  "generated": "2026-02-05T07:02:13.701Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 1829,
-  "total_regions": 2,
+  "total_markers": 3787,
+  "total_regions": 3,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
+    {
+      "id": "us-ar",
+      "name": "Arkansas",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ar.json",
+      "markers": 1958,
+      "size_bytes": 604341,
+      "updated": "2026-02-05",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 1958,
+        "removed": 0,
+        "modified": 0
+      }
+    },
     {
       "id": "us-az",
       "name": "Arizona",
