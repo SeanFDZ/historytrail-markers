@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-02-19T07:01:05.296Z",
+  "generated": "2026-02-20T07:01:09.640Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 3787,
@@ -16,7 +16,7 @@
       "file": "regions/us-ar.json",
       "markers": 1958,
       "size_bytes": 604341,
-      "updated": "2026-02-19",
+      "updated": "2026-02-20",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 1958,
