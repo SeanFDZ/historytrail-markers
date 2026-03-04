@@ -3,9 +3,9 @@
   "region_name": "Oregon",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-02-04T22:09:06.191Z",
-  "source_timestamp": "2026-02-04T22:09:06.191Z",
-  "marker_count": 1313,
+  "generated": "2026-03-04T07:02:50.226Z",
+  "source_timestamp": "2026-03-04T07:02:50.226Z",
+  "marker_count": 1314,
   "markers": [
     {
       "id": "100202",
@@ -10571,6 +10571,15 @@
       "longitude": -123.05005669,
       "directions": "On Wheatland Road Northwest, near Salem, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292786",
+      "photo_urls": []
+    },
+    {
+      "id": "294219",
+      "title": "Mitchell Monument",
+      "latitude": 42.43176789,
+      "longitude": -120.86080065,
+      "directions": "Near NF-348, near Bly, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294219",
       "photo_urls": []
     },
     {
