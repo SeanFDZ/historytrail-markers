@@ -3,9 +3,9 @@
   "region_name": "Arizona",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-02-04T22:09:06.115Z",
-  "source_timestamp": "2026-02-04T22:09:06.115Z",
-  "marker_count": 1829,
+  "generated": "2026-03-04T07:02:48.589Z",
+  "source_timestamp": "2026-03-04T07:02:48.589Z",
+  "marker_count": 1832,
   "markers": [
     {
       "id": "100022",
@@ -5133,7 +5133,7 @@
       "title": "Civilian Conservation Corps (The CCC)",
       "latitude": 32.29025953,
       "longitude": -111.20822467,
-      "directions": "On Signal Hill Road, near Tucson, ",
+      "directions": "On Signal Hill Trail, near Tucson, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=250010",
       "photo_urls": []
     },
@@ -6915,7 +6915,7 @@
       "title": "A Tithing Ranch",
       "latitude": 36.86362641,
       "longitude": -112.7393099,
-      "directions": "On North Pipe Spring Road, Kiabab, ",
+      "directions": "On North Pipe Spring Road, Kaibab, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=272727",
       "photo_urls": []
     },
@@ -8774,6 +8774,24 @@
       "photo_urls": []
     },
     {
+      "id": "293362",
+      "title": "American Ranch",
+      "latitude": 34.671551,
+      "longitude": -112.537046,
+      "directions": "On Scarlet Drive, near Prescott, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293362",
+      "photo_urls": []
+    },
+    {
+      "id": "293363",
+      "title": "Ehrenberg Road",
+      "latitude": 34.671549,
+      "longitude": -112.537056,
+      "directions": "On Scarlet Drive, Prescott, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293363",
+      "photo_urls": []
+    },
+    {
       "id": "29338",
       "title": "Commercial Steamship Transportation and Bullhead Community Park",
       "latitude": 35.14070667,
@@ -8852,6 +8870,15 @@
       "longitude": -114.06083333,
       "directions": "Near Grandview Avenue, Kingman, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29362",
+      "photo_urls": []
+    },
+    {
+      "id": "293656",
+      "title": "The Rose Bush Story",
+      "latitude": 31.71207093,
+      "longitude": -110.06722491,
+      "directions": "Near South 4th Street, Tombstone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293656",
       "photo_urls": []
     },
     {
@@ -13395,7 +13422,7 @@
       "title": "Ancient Landscapes",
       "latitude": 35.578411,
       "longitude": -111.469274,
-      "directions": "On Loop Road, Flagstaff, (On the right when traveling north)",
+      "directions": "On Lomaki Road, Cameron, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60105",
       "photo_urls": []
     },
