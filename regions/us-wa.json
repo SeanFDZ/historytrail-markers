@@ -3,9 +3,9 @@
   "region_name": "Washington",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-02-04T22:09:06.205Z",
-  "source_timestamp": "2026-02-04T22:09:06.205Z",
-  "marker_count": 1186,
+  "generated": "2026-03-04T07:02:51.031Z",
+  "source_timestamp": "2026-03-04T07:02:51.031Z",
+  "marker_count": 1238,
   "markers": [
     {
       "id": "102488",
@@ -7965,7 +7965,7 @@
     },
     {
       "id": "291158",
-      "title": "Civil War Memorial",
+      "title": "G.A.R. Civil War Memorial",
       "latitude": 47.69376,
       "longitude": -122.37097,
       "directions": "Near 12th Avenue Northwest, Seattle, (On the right when traveling north)",
@@ -8315,6 +8315,15 @@
       "photo_urls": []
     },
     {
+      "id": "292000",
+      "title": "Campbell Park",
+      "latitude": 48.7811288,
+      "longitude": -117.4182042,
+      "directions": "On Box Canyon Dam Road, Ione, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292000",
+      "photo_urls": []
+    },
+    {
       "id": "292006",
       "title": "Historic Tumwater",
       "latitude": 47.02070482,
@@ -8375,6 +8384,465 @@
       "longitude": -122.90487403,
       "directions": "On Deschutes Way, Tumwater, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292790",
+      "photo_urls": []
+    },
+    {
+      "id": "292867",
+      "title": "Roll of Honor World War",
+      "latitude": 48.53530669,
+      "longitude": -123.01534716,
+      "directions": "On Front Street, Friday Harbor, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292867",
+      "photo_urls": []
+    },
+    {
+      "id": "292958",
+      "title": "Market District",
+      "latitude": 47.050883,
+      "longitude": -122.9046521,
+      "directions": "Near Columbia Street Northwest, Olympia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292958",
+      "photo_urls": []
+    },
+    {
+      "id": "293107",
+      "title": "Gallagher House",
+      "latitude": 47.0391433,
+      "longitude": -122.8080235,
+      "directions": "Near Lacey Street Southeast, Lacey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293107",
+      "photo_urls": []
+    },
+    {
+      "id": "293110",
+      "title": "Lacey Women's Club",
+      "latitude": 47.0388878,
+      "longitude": -122.8070389,
+      "directions": "On Lacey Street Southeast, Lacey, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293110",
+      "photo_urls": []
+    },
+    {
+      "id": "293268",
+      "title": "From Chambers to Chalet",
+      "latitude": 47.0318918,
+      "longitude": -122.831399,
+      "directions": "On Circle Lane Southeast, Lacey, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293268",
+      "photo_urls": []
+    },
+    {
+      "id": "293280",
+      "title": "Jackson Family/Goose Pond History",
+      "latitude": 47.0356629,
+      "longitude": -122.7971828,
+      "directions": "On Woodland Trail (Lacey), Lacey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293280",
+      "photo_urls": []
+    },
+    {
+      "id": "293388",
+      "title": "Revolutionary War Patriots",
+      "latitude": 48.84984516,
+      "longitude": -122.53645725,
+      "directions": "Near Northwest Drive, Ferndale, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293388",
+      "photo_urls": []
+    },
+    {
+      "id": "293439",
+      "title": "The Liberty Tree",
+      "latitude": 47.65798959,
+      "longitude": -117.26802171,
+      "directions": "On North Balfour Road, Spokane Valley, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293439",
+      "photo_urls": []
+    },
+    {
+      "id": "293440",
+      "title": "American Legion Cenotaph",
+      "latitude": 47.66238511,
+      "longitude": -117.46368365,
+      "directions": "Near North Government Way, Spokane, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293440",
+      "photo_urls": []
+    },
+    {
+      "id": "293443",
+      "title": "Isabell \"Isabella\" Johnson Savage Conway",
+      "latitude": 47.67997214,
+      "longitude": -117.4218202,
+      "directions": "On North Wall Street, Spokane, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293443",
+      "photo_urls": []
+    },
+    {
+      "id": "293514",
+      "title": "A Legacy of Joy and Wonderful Memories",
+      "latitude": 47.70104122,
+      "longitude": -117.48781332,
+      "directions": "On Wellesley Ave, Spokane, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293514",
+      "photo_urls": []
+    },
+    {
+      "id": "293603",
+      "title": "Seth Thomas Woodard",
+      "latitude": 47.66042342,
+      "longitude": -117.47018401,
+      "directions": "On North Elliot Drive, Spokane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293603",
+      "photo_urls": []
+    },
+    {
+      "id": "293738",
+      "title": "Tshimakain",
+      "latitude": 47.9140112,
+      "longitude": -117.7995132,
+      "directions": "On State Route 231, Ford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293738",
+      "photo_urls": []
+    },
+    {
+      "id": "293740",
+      "title": "Fort Walla Walla",
+      "latitude": 46.06751091,
+      "longitude": -118.33761683,
+      "directions": "On East Main Street, Walla Walla, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293740",
+      "photo_urls": []
+    },
+    {
+      "id": "293752",
+      "title": "Walter Lawson",
+      "latitude": 47.6609426,
+      "longitude": -117.47000783,
+      "directions": "Near Government Way, Spokane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293752",
+      "photo_urls": []
+    },
+    {
+      "id": "293771",
+      "title": "Anna Mae Ericksen",
+      "latitude": 47.65753353,
+      "longitude": -117.47222118,
+      "directions": "On Government Way, Spokane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293771",
+      "photo_urls": []
+    },
+    {
+      "id": "293772",
+      "title": "Edward John \"E.J.\" Brickell",
+      "latitude": 47.65878,
+      "longitude": -117.46631,
+      "directions": "On North Government Way, Spokane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293772",
+      "photo_urls": []
+    },
+    {
+      "id": "293845",
+      "title": "George Washington Elm",
+      "latitude": 47.03799001,
+      "longitude": -122.90141695,
+      "directions": "On 11th Avenue Southwest, Olympia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293845",
+      "photo_urls": []
+    },
+    {
+      "id": "293851",
+      "title": "1903 Washington State Legislative Meeting Site",
+      "latitude": 47.04248702,
+      "longitude": -122.89745883,
+      "directions": "On 7th Avenue Southeast, Olympia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293851",
+      "photo_urls": []
+    },
+    {
+      "id": "293889",
+      "title": "Oregon Trail 1844",
+      "latitude": 46.00973239,
+      "longitude": -122.84510896,
+      "directions": "On North First Street, Kalama, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293889",
+      "photo_urls": []
+    },
+    {
+      "id": "294001",
+      "title": "Memory Wall",
+      "latitude": 47.59997671,
+      "longitude": -122.32601135,
+      "directions": "On South Main Street, Seattle, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294001",
+      "photo_urls": []
+    },
+    {
+      "id": "294019",
+      "title": "Developing the Market",
+      "latitude": 47.60909491,
+      "longitude": -122.34111085,
+      "directions": "On Pike Place, Seattle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294019",
+      "photo_urls": []
+    },
+    {
+      "id": "294021",
+      "title": "Welcome to The Public Market",
+      "latitude": 47.60908611,
+      "longitude": -122.34109444,
+      "directions": "On Pike Place, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294021",
+      "photo_urls": []
+    },
+    {
+      "id": "294034",
+      "title": "New Dungeness",
+      "latitude": 48.14999377,
+      "longitude": -123.15194472,
+      "directions": "On Marine Drive, Dungeness, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294034",
+      "photo_urls": []
+    },
+    {
+      "id": "294035",
+      "title": "Japantown",
+      "latitude": 47.59939533,
+      "longitude": -122.32498625,
+      "directions": "On Maynard Avenue S, Seattle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294035",
+      "photo_urls": []
+    },
+    {
+      "id": "294036",
+      "title": "What makes a city?",
+      "latitude": 47.59910575,
+      "longitude": -122.33025342,
+      "directions": "On S Jackson Street, Seattle, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294036",
+      "photo_urls": []
+    },
+    {
+      "id": "294042",
+      "title": "Why was “The Tenderloin” the first LGBTQ+ neighborhood in Seattle?",
+      "latitude": 47.60013323,
+      "longitude": -122.333306,
+      "directions": "On South Main Street, Seattle, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294042",
+      "photo_urls": []
+    },
+    {
+      "id": "294074",
+      "title": "Pioneer Square Historic District",
+      "latitude": 47.600202,
+      "longitude": -122.33339,
+      "directions": "On South Main Street, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294074",
+      "photo_urls": []
+    },
+    {
+      "id": "294075",
+      "title": "Information Booth",
+      "latitude": 47.600159,
+      "longitude": -122.3332,
+      "directions": "On Occidental Avenue South, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294075",
+      "photo_urls": []
+    },
+    {
+      "id": "294115",
+      "title": "Smith Tower",
+      "latitude": 47.6019,
+      "longitude": -122.33191,
+      "directions": "Near 2nd Avenue, Seattle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294115",
+      "photo_urls": []
+    },
+    {
+      "id": "294116",
+      "title": "Mutual Life Building",
+      "latitude": 47.60197687,
+      "longitude": -122.33435379,
+      "directions": "On 1st Avenue, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294116",
+      "photo_urls": []
+    },
+    {
+      "id": "294121",
+      "title": "America's Oldest Continually Operating Movie Theatre",
+      "latitude": 47.66879272,
+      "longitude": -122.38426208,
+      "directions": "On Northwest Market Street, Seattle, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294121",
+      "photo_urls": []
+    },
+    {
+      "id": "294122",
+      "title": "Joshua Green",
+      "latitude": 47.60705683,
+      "longitude": -122.342264,
+      "directions": "Near Alaskan Way, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294122",
+      "photo_urls": []
+    },
+    {
+      "id": "294127",
+      "title": "The Visit of President Theodore Roosevelt’s “Great White Fleet”",
+      "latitude": 47.607042,
+      "longitude": -122.341702,
+      "directions": "On Alaskan Way, Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294127",
+      "photo_urls": []
+    },
+    {
+      "id": "294129",
+      "title": "\"Ton of Gold\"",
+      "latitude": 47.606915,
+      "longitude": -122.34165,
+      "directions": "Near Akaskan Way, Seattle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294129",
+      "photo_urls": []
+    },
+    {
+      "id": "294130",
+      "title": "‘Miike Maru’",
+      "latitude": 47.606698,
+      "longitude": -122.3413,
+      "directions": "Near Alaskan Way, Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294130",
+      "photo_urls": []
+    },
+    {
+      "id": "294132",
+      "title": "Waterfront History",
+      "latitude": 47.607494,
+      "longitude": -122.342168,
+      "directions": "On Alaskan Way, Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294132",
+      "photo_urls": []
+    },
+    {
+      "id": "294136",
+      "title": "Why Are the Piers Angled?",
+      "latitude": 47.612062,
+      "longitude": -122.349964,
+      "directions": "On Alaskan Way, Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294136",
+      "photo_urls": []
+    },
+    {
+      "id": "294174",
+      "title": "Site of Galbraith Homestead",
+      "latitude": 48.71158252,
+      "longitude": -122.18586365,
+      "directions": "On Mosquito Lake Road, near Acme, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294174",
+      "photo_urls": []
+    },
+    {
+      "id": "294215",
+      "title": "Colman Dock",
+      "latitude": 47.60275,
+      "longitude": -122.33775,
+      "directions": "On Alaskan Way (State Route 519) , Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294215",
+      "photo_urls": []
+    },
+    {
+      "id": "294221",
+      "title": "Gold Star Mother Arbor",
+      "latitude": 48.84985,
+      "longitude": -122.53645,
+      "directions": "Near Northwest Drive, Ferndale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294221",
+      "photo_urls": []
+    },
+    {
+      "id": "294243",
+      "title": "Pickett Bridge",
+      "latitude": 48.75533333,
+      "longitude": -122.48133333,
+      "directions": "On DuPont Street, Bellingham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294243",
+      "photo_urls": []
+    },
+    {
+      "id": "294286",
+      "title": "1857 Pickett Bridge",
+      "latitude": 48.75508836,
+      "longitude": -122.48110783,
+      "directions": "Near Dupont Street, Bellingham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294286",
+      "photo_urls": []
+    },
+    {
+      "id": "294289",
+      "title": "Site of the Smaller Fort",
+      "latitude": 47.5999,
+      "longitude": -122.33273333,
+      "directions": "On South Main Street, Seattle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294289",
+      "photo_urls": []
+    },
+    {
+      "id": "294309",
+      "title": "Site of Old Indian Fort / First School of Kitsap County",
+      "latitude": 47.57083333,
+      "longitude": -122.61694444,
+      "directions": "On Wheaton Way, Bremerton, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294309",
+      "photo_urls": []
+    },
+    {
+      "id": "294375",
+      "title": "Chambers Prairie School / Old East Olympia School",
+      "latitude": 46.968396,
+      "longitude": -122.8363187,
+      "directions": "On Normandy Place Southeast, Olympia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294375",
+      "photo_urls": []
+    },
+    {
+      "id": "294377",
+      "title": "Steamer Idaho Wreckage",
+      "latitude": 47.600917,
+      "longitude": -122.336283,
+      "directions": "On Alaskan Way (State Route 99) , Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294377",
+      "photo_urls": []
+    },
+    {
+      "id": "294378",
+      "title": "Elliott Bay",
+      "latitude": 47.60517942,
+      "longitude": -122.34009064,
+      "directions": "On Alaskan Way, Seattle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294378",
+      "photo_urls": []
+    },
+    {
+      "id": "294435",
+      "title": "From Quarry to Public Pool",
+      "latitude": 46.8544903,
+      "longitude": -122.8531611,
+      "directions": "On West Park Avenue, Tenino, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294435",
+      "photo_urls": []
+    },
+    {
+      "id": "294439",
+      "title": "Going Native with Kinnikinnick",
+      "latitude": 47.1050025,
+      "longitude": -122.646037,
+      "directions": "On Center Drive, DuPont, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294439",
+      "photo_urls": []
+    },
+    {
+      "id": "294519",
+      "title": "The Battle of Seattle",
+      "latitude": 47.60214977,
+      "longitude": -122.33066398,
+      "directions": "On 3rd Avenue, Seattle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294519",
       "photo_urls": []
     },
     {
@@ -10323,7 +10791,7 @@
     },
     {
       "id": "88854",
-      "title": "Marking the End of the Oregon Trail 1844",
+      "title": "Marking the End of the Oregon Trail",
       "latitude": 47.043083,
       "longitude": -122.901132,
       "directions": "Near Capitol Way South, Olympia, ",
