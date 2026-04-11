@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-11T18:53:32.082Z",
+  "generated": "2026-04-11T18:54:35.308Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 3808,
-  "total_regions": 4,
+  "total_markers": 6684,
+  "total_regions": 5,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -52,6 +52,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 1829,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-ct",
+      "name": "Connecticut",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ct.json",
+      "markers": 2876,
+      "size_bytes": 888848,
+      "updated": "2026-04-11",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 2876,
         "removed": 0,
         "modified": 0
       }
