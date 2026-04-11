@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-11T19:15:59.038Z",
+  "generated": "2026-04-11T19:20:05.807Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 19299,
-  "total_regions": 6,
+  "total_markers": 22553,
+  "total_regions": 7,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -84,6 +84,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 2876,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-ms",
+      "name": "Mississippi",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ms.json",
+      "markers": 3254,
+      "size_bytes": 1001330,
+      "updated": "2026-04-11",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 3254,
         "removed": 0,
         "modified": 0
       }
