@@ -1,13 +1,29 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-11T18:53:17.947Z",
+  "generated": "2026-04-11T18:53:32.082Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 3787,
-  "total_regions": 3,
+  "total_markers": 3808,
+  "total_regions": 4,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
+    {
+      "id": "ba-toufor",
+      "name": "Touch for a list and map",
+      "type": "state",
+      "country": "Bahamas",
+      "file": "regions/ba-toufor.json",
+      "markers": 21,
+      "size_bytes": 6499,
+      "updated": "2026-04-11",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 21,
+        "removed": 0,
+        "modified": 0
+      }
+    },
     {
       "id": "us-ar",
       "name": "Arkansas",
