@@ -3,16 +3,16 @@
   "run_id": null,
   "cycle_day": 1,
   "regions_processed": [
-    "us-la"
+    "us-ok"
   ],
   "changes": {
-    "us-la": {
-      "added": 3521,
+    "us-ok": {
+      "added": 2040,
       "removed": 0,
       "modified": 0
     }
   },
-  "total_added": 51134,
+  "total_added": 101435,
   "total_removed": 0,
   "total_modified": 0
 }
