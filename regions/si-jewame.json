@@ -1,0 +1,992 @@
+{
+  "region_id": "si-jewame",
+  "region_name": "Jewish American Society for Historic Preservation.",
+  "region_type": "state",
+  "country": "Sint Eustatius",
+  "generated": "2026-04-11T18:53:08.454Z",
+  "source_timestamp": "2026-04-11T18:53:08.454Z",
+  "marker_count": 109,
+  "markers": [
+    {
+      "id": "13167",
+      "title": "Shangarai Chasset - Gates of Mercy",
+      "latitude": 29.958515,
+      "longitude": -90.0702,
+      "directions": "On North Rampart Street, New Orleans, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13167",
+      "photo_urls": []
+    },
+    {
+      "id": "134062",
+      "title": "Hiram Halle (1867-1944)",
+      "latitude": 41.20896944,
+      "longitude": -73.57485833,
+      "directions": "On , Pound Ridge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134062",
+      "photo_urls": []
+    },
+    {
+      "id": "134127",
+      "title": "The Cotopaxi Jewish Agricultural Colony 1882-1884",
+      "latitude": 38.3751,
+      "longitude": -105.691,
+      "directions": "On State Route 12, Cotopaxi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134127",
+      "photo_urls": []
+    },
+    {
+      "id": "134145",
+      "title": "Site of Minnesota's First Synagogue",
+      "latitude": 44.9506569,
+      "longitude": -93.0959,
+      "directions": "On 10th Street E., Saint Paul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134145",
+      "photo_urls": []
+    },
+    {
+      "id": "134326",
+      "title": "First Jewish House of Worship in Florida",
+      "latitude": 30.414446,
+      "longitude": -87.214139,
+      "directions": "On East Chase Street, Pensacola, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134326",
+      "photo_urls": []
+    },
+    {
+      "id": "134329",
+      "title": "B’er Chayim (Well of Life) Congregation",
+      "latitude": 39.65084761,
+      "longitude": -78.76062167,
+      "directions": "On West Union Street, Cumberland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134329",
+      "photo_urls": []
+    },
+    {
+      "id": "134635",
+      "title": "Exodus",
+      "latitude": 32.81350658,
+      "longitude": 35.02245457,
+      "directions": "On , Haifa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134635",
+      "photo_urls": []
+    },
+    {
+      "id": "134639",
+      "title": "Stephen Theodore Norman, 1918-1946. Last descendent of Theodor Herzl",
+      "latitude": 31.77472256,
+      "longitude": 35.17777741,
+      "directions": "On , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134639",
+      "photo_urls": []
+    },
+    {
+      "id": "134663",
+      "title": "Machal / &#1502;&#1495;\"&#1500;",
+      "latitude": 31.79747615,
+      "longitude": 35.22797494,
+      "directions": "On Machal Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134663",
+      "photo_urls": []
+    },
+    {
+      "id": "134670",
+      "title": "Rosa Parks",
+      "latitude": 32.420163,
+      "longitude": -85.69601389,
+      "directions": "On West Martin Luther King Highway (U.S. 80) , Tuskegee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134670",
+      "photo_urls": []
+    },
+    {
+      "id": "134671",
+      "title": "Julius Rosenwald",
+      "latitude": 32.4295835,
+      "longitude": -85.70862728,
+      "directions": "On Moton Drive, Tuskegee Institute, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134671",
+      "photo_urls": []
+    },
+    {
+      "id": "134674",
+      "title": "Lt. Col. John Henry Patterson",
+      "latitude": 32.35254365,
+      "longitude": 34.87314529,
+      "directions": "Near , Avihayil, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134674",
+      "photo_urls": []
+    },
+    {
+      "id": "134689",
+      "title": "Little Camp (Buchenwald Concentration Camp)",
+      "latitude": 51.02352696,
+      "longitude": 11.24594311,
+      "directions": "On Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134689",
+      "photo_urls": []
+    },
+    {
+      "id": "135690",
+      "title": "Temple Aaron 1889",
+      "latitude": 37.16643966,
+      "longitude": -104.50274809,
+      "directions": "On South Maple Street, Trinidad, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135690",
+      "photo_urls": []
+    },
+    {
+      "id": "135817",
+      "title": "Temple Israel: A Frontier Synagogue and Museum",
+      "latitude": 39.24645,
+      "longitude": -106.29356227,
+      "directions": "On West 4th Street, Leadville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135817",
+      "photo_urls": []
+    },
+    {
+      "id": "136757",
+      "title": "Georgia Anti-Lynching Memorial",
+      "latitude": 33.951197,
+      "longitude": -84.5173,
+      "directions": "On Roswell Road, Marietta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136757",
+      "photo_urls": []
+    },
+    {
+      "id": "139875",
+      "title": "Samuel \"Sammy\" Leamon Younge, Jr.",
+      "latitude": 32.42452222,
+      "longitude": -85.6893,
+      "directions": "On East Martin Luther King Highway (U.S. 80) , Tuskegee, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139875",
+      "photo_urls": []
+    },
+    {
+      "id": "139876",
+      "title": "\"Trade With Your Friends\"",
+      "latitude": 32.42373333,
+      "longitude": -85.69128333,
+      "directions": "On Westside Street, Tuskegee, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139876",
+      "photo_urls": []
+    },
+    {
+      "id": "139877",
+      "title": "William P. Mitchell",
+      "latitude": 32.424346,
+      "longitude": -85.692759,
+      "directions": "On North Elm Street, Tuskegee, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139877",
+      "photo_urls": []
+    },
+    {
+      "id": "139878",
+      "title": "Tuskegee High School",
+      "latitude": 32.42103333,
+      "longitude": -85.68819444,
+      "directions": "On South Main Street (U.S. 29) , Tuskegee, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139878",
+      "photo_urls": []
+    },
+    {
+      "id": "139880",
+      "title": "Mount Olive Missionary Baptist Church",
+      "latitude": 32.431312,
+      "longitude": -85.686338,
+      "directions": "On Cedar Street, Tuskegee, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139880",
+      "photo_urls": []
+    },
+    {
+      "id": "139884",
+      "title": "Area Churches That Hosted Important Civil Rights Meetings",
+      "latitude": 32.426061,
+      "longitude": -85.701073,
+      "directions": "On West Montgomery Road, Tuskegee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139884",
+      "photo_urls": []
+    },
+    {
+      "id": "139885",
+      "title": "Jessie Parkhurst Guzman",
+      "latitude": 32.427994,
+      "longitude": -85.707259,
+      "directions": "On NW Chambliss Street, Tuskegee Institute, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139885",
+      "photo_urls": []
+    },
+    {
+      "id": "139886",
+      "title": "The Tuskegee Institute Advancement League",
+      "latitude": 32.42956667,
+      "longitude": -85.70734444,
+      "directions": "On University Avenue, Tuskegee Institute, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139886",
+      "photo_urls": []
+    },
+    {
+      "id": "139890",
+      "title": "Amelia Boynton Robinson",
+      "latitude": 32.43133889,
+      "longitude": -85.71595,
+      "directions": "On Franklin Road, Tuskegee Institute, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139890",
+      "photo_urls": []
+    },
+    {
+      "id": "140006",
+      "title": "Charles Goode Gomillion",
+      "latitude": 32.420966,
+      "longitude": -85.71037,
+      "directions": "On Bibb Street, Tuskegee Institute, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140006",
+      "photo_urls": []
+    },
+    {
+      "id": "140422",
+      "title": "John Jacob Hays",
+      "latitude": 38.57018647,
+      "longitude": -90.19241003,
+      "directions": "On Elm Street, Cahokia Heights, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140422",
+      "photo_urls": []
+    },
+    {
+      "id": "147204",
+      "title": "Joseph Simon",
+      "latitude": 40.03953333,
+      "longitude": -76.30618333,
+      "directions": "On W. Orange St., Lancaster, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147204",
+      "photo_urls": []
+    },
+    {
+      "id": "16574",
+      "title": "Leo Frank Lynching",
+      "latitude": 33.951191,
+      "longitude": -84.51723,
+      "directions": "On Roswell Road (State Route 120) , Marietta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=16574",
+      "photo_urls": []
+    },
+    {
+      "id": "174575",
+      "title": "Admiral Max Horton",
+      "latitude": 53.22899284,
+      "longitude": -4.52280522,
+      "directions": "Near , Rhosneigr, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174575",
+      "photo_urls": []
+    },
+    {
+      "id": "174577",
+      "title": "Departure and Expulsion Memorial",
+      "latitude": 31.76154682,
+      "longitude": 35.22731585,
+      "directions": "Near Sherover Promenade, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174577",
+      "photo_urls": []
+    },
+    {
+      "id": "185958",
+      "title": "Operation Mincemeat",
+      "latitude": 51.54930649,
+      "longitude": -0.0539154,
+      "directions": "Near Lower Clapton Road, Hackney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185958",
+      "photo_urls": []
+    },
+    {
+      "id": "188335",
+      "title": "Captain Simmon Latutin",
+      "latitude": 51.54692767,
+      "longitude": -0.12981476,
+      "directions": "On North Villas, Camden, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188335",
+      "photo_urls": []
+    },
+    {
+      "id": "188400",
+      "title": "Frieda Salvendy",
+      "latitude": 52.10826992,
+      "longitude": -2.31236161,
+      "directions": "On Court Road, Barnard&#39;s Green, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188400",
+      "photo_urls": []
+    },
+    {
+      "id": "188406",
+      "title": "Marie Schmolka (1893-1940)",
+      "latitude": 51.57740855,
+      "longitude": -0.1941599,
+      "directions": "On Hoop Lane, Barnet, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188406",
+      "photo_urls": []
+    },
+    {
+      "id": "188414",
+      "title": "Reinhold Chrystman",
+      "latitude": 51.57743007,
+      "longitude": -0.1941659,
+      "directions": "On Hoop Lane, Barnet, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188414",
+      "photo_urls": []
+    },
+    {
+      "id": "190723",
+      "title": "Anne Frank Children's Human Rights Memorial",
+      "latitude": 14.5642687,
+      "longitude": -90.73696732,
+      "directions": "On Callejón San Sebastián, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190723",
+      "photo_urls": []
+    },
+    {
+      "id": "201062",
+      "title": "Whitechapel",
+      "latitude": 51.51529325,
+      "longitude": -0.06707028,
+      "directions": "On Adler Street, Tower Hamlets, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201062",
+      "photo_urls": []
+    },
+    {
+      "id": "201382",
+      "title": "The Shick House & Farm",
+      "latitude": 42.36763784,
+      "longitude": -71.14896745,
+      "directions": "On Grove Street, Watertown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201382",
+      "photo_urls": []
+    },
+    {
+      "id": "201592",
+      "title": "Kurt Theodor Goldschlager",
+      "latitude": 53.52994629,
+      "longitude": -2.20983982,
+      "directions": "Near Rochdale Road, Manchester, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201592",
+      "photo_urls": []
+    },
+    {
+      "id": "201654",
+      "title": "Barnett Lewis",
+      "latitude": 51.56057132,
+      "longitude": -0.072332,
+      "directions": "On Brooke Road, Hackney, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201654",
+      "photo_urls": []
+    },
+    {
+      "id": "201679",
+      "title": "Sir Arnold Wesker",
+      "latitude": 51.56268516,
+      "longitude": -0.06418404,
+      "directions": "On Northwold Road, Hackney, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201679",
+      "photo_urls": []
+    },
+    {
+      "id": "203193",
+      "title": "Vera Atkins",
+      "latitude": 51.49201059,
+      "longitude": -0.1645502,
+      "directions": "On Whitehead’s Grove, Kensington and Chelsea, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203193",
+      "photo_urls": []
+    },
+    {
+      "id": "205212",
+      "title": "Leopold (Leo) Samuel Marks, MBE",
+      "latitude": 51.51619517,
+      "longitude": -0.16516412,
+      "directions": "Near Park West, City of Westminster, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205212",
+      "photo_urls": []
+    },
+    {
+      "id": "206534",
+      "title": "Albert Reuss",
+      "latitude": 50.08943828,
+      "longitude": -5.54773496,
+      "directions": "Near Trungle Parc, Penzance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206534",
+      "photo_urls": []
+    },
+    {
+      "id": "210148",
+      "title": "St. Eustatius and the American Revolution",
+      "latitude": 17.48232816,
+      "longitude": -62.98637555,
+      "directions": "On Fort Oranjestraat, Oranjestad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210148",
+      "photo_urls": []
+    },
+    {
+      "id": "211224",
+      "title": "Lt. Marcus R. Bloom",
+      "latitude": 51.58489982,
+      "longitude": -0.17644098,
+      "directions": "On Lyttleton Road, Hampstead Garden Suburb, Barnet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211224",
+      "photo_urls": []
+    },
+    {
+      "id": "211398",
+      "title": "Louis Jacobs, RN,",
+      "latitude": 51.51892821,
+      "longitude": -0.04583669,
+      "directions": "On Stepney Green, Tower Hamlets, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211398",
+      "photo_urls": []
+    },
+    {
+      "id": "212184",
+      "title": "1947 United Nations Partition Resolution Memorial",
+      "latitude": 32.33935939,
+      "longitude": 34.87234062,
+      "directions": "On Baruch Spinoza Street, Netanya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212184",
+      "photo_urls": []
+    },
+    {
+      "id": "216002",
+      "title": "The 43 Group",
+      "latitude": 51.50935512,
+      "longitude": -0.13195395,
+      "directions": "On Panton Street, City of Westminster, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216002",
+      "photo_urls": []
+    },
+    {
+      "id": "218116",
+      "title": "Hedy Lemarr",
+      "latitude": 28.64905,
+      "longitude": -81.29055,
+      "directions": "Near Merivale Drive, Casselberry, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218116",
+      "photo_urls": []
+    },
+    {
+      "id": "220762",
+      "title": "Fl. Sgt. Jack Nissenthall, RAF",
+      "latitude": 51.52407961,
+      "longitude": -0.07497381,
+      "directions": "On Chance Street, Tower Hamlets, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220762",
+      "photo_urls": []
+    },
+    {
+      "id": "222723",
+      "title": "Captain Isidore Newman",
+      "latitude": 54.77607122,
+      "longitude": -1.58543517,
+      "directions": "On Hawthorn Terrace, Durham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222723",
+      "photo_urls": []
+    },
+    {
+      "id": "223346",
+      "title": "Rosenwald Schools in Palm Beach County",
+      "latitude": 26.53596938,
+      "longitude": -80.0645588,
+      "directions": "On Seacrest Boulevard, Boynton Beach, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223346",
+      "photo_urls": []
+    },
+    {
+      "id": "223722",
+      "title": "Borscht Belt - Monticello",
+      "latitude": 41.65544092,
+      "longitude": -74.68913366,
+      "directions": "On Broadway (State Route 42) , Monticello, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223722",
+      "photo_urls": []
+    },
+    {
+      "id": "223890",
+      "title": "The Day that Saved Israel",
+      "latitude": 31.7818508,
+      "longitude": 34.66967574,
+      "directions": "Near National Route 4, Ashdod, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223890",
+      "photo_urls": []
+    },
+    {
+      "id": "228001",
+      "title": "Wilfrid Israel",
+      "latitude": 51.57746656,
+      "longitude": -0.19415033,
+      "directions": "On Hoop Lane, Barnet, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228001",
+      "photo_urls": []
+    },
+    {
+      "id": "229343",
+      "title": "Hoxton Jewish Cemetery",
+      "latitude": 51.52946396,
+      "longitude": -0.07989669,
+      "directions": "On Hoxton Street, Hackney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229343",
+      "photo_urls": []
+    },
+    {
+      "id": "229475",
+      "title": "Lt. Col. Leo Genn, RA, Croix de Guerre",
+      "latitude": 51.56933525,
+      "longitude": -0.06837067,
+      "directions": "On Kyverdale Road, Hackney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229475",
+      "photo_urls": []
+    },
+    {
+      "id": "230329",
+      "title": "Congregation Agudas Achim",
+      "latitude": 41.90095615,
+      "longitude": -74.82388587,
+      "directions": "On Old Route 17, Livingston Manor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230329",
+      "photo_urls": []
+    },
+    {
+      "id": "230794",
+      "title": "Borscht Belt - Mountain Dale",
+      "latitude": 41.68999713,
+      "longitude": -74.53087502,
+      "directions": "On Post Hill Road, Mountain Dale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230794",
+      "photo_urls": []
+    },
+    {
+      "id": "231042",
+      "title": "Lt. Comm. Harold Newgass, GC, RNVR",
+      "latitude": 51.62936286,
+      "longitude": -0.16704904,
+      "directions": "On Oakleigh Road North, Barnet, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231042",
+      "photo_urls": []
+    },
+    {
+      "id": "231202",
+      "title": "Borscht Belt - Swan Lake",
+      "latitude": 41.75311681,
+      "longitude": -74.78312059,
+      "directions": "On Briscoe Road, Swan Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231202",
+      "photo_urls": []
+    },
+    {
+      "id": "231203",
+      "title": "Borscht Belt - Fallsburg",
+      "latitude": 41.73048771,
+      "longitude": -74.60446489,
+      "directions": "On Old Falls Road, Fallsburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231203",
+      "photo_urls": []
+    },
+    {
+      "id": "231217",
+      "title": "Captain Lionel Lee, MC, Cr. de Guerre",
+      "latitude": 51.53711759,
+      "longitude": -0.0441981,
+      "directions": "On Lauriston Road, Hackney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231217",
+      "photo_urls": []
+    },
+    {
+      "id": "231611",
+      "title": "Pvt. Benjamin B. Levy",
+      "latitude": 37.4463,
+      "longitude": -77.2425,
+      "directions": "On Darbytown Road, near Richmond, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231611",
+      "photo_urls": []
+    },
+    {
+      "id": "231612",
+      "title": "Kahal Kadosh Beth Shalome",
+      "latitude": 37.53621,
+      "longitude": -77.43119,
+      "directions": "On North 14th Street, Richmond, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231612",
+      "photo_urls": []
+    },
+    {
+      "id": "232622",
+      "title": "Temple Emanuel",
+      "latitude": 38.27958399,
+      "longitude": -104.61190427,
+      "directions": "On North Grand Avenue, Pueblo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232622",
+      "photo_urls": []
+    },
+    {
+      "id": "232664",
+      "title": "Dr. Kurt Erich Glauber",
+      "latitude": 52.0670052,
+      "longitude": 1.16945924,
+      "directions": "Near Belvedere Road, Ipswich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232664",
+      "photo_urls": []
+    },
+    {
+      "id": "237802",
+      "title": "The 43 Group",
+      "latitude": 51.54800534,
+      "longitude": -0.07521923,
+      "directions": "On Ridley Road, Hackney, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237802",
+      "photo_urls": []
+    },
+    {
+      "id": "238153",
+      "title": "Wilfrid Israel",
+      "latitude": 32.66323869,
+      "longitude": 35.10869553,
+      "directions": "Near Hairisim Street, Yokne&#39;am Illit, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238153",
+      "photo_urls": []
+    },
+    {
+      "id": "239342",
+      "title": "Hebrew Cemetery: Final Resting Place of Leadville Jews",
+      "latitude": 39.2490113,
+      "longitude": -106.30789337,
+      "directions": "Near County Road 4, Leadville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239342",
+      "photo_urls": []
+    },
+    {
+      "id": "240258",
+      "title": "The Lion's Trail - Nesher",
+      "latitude": 32.76870591,
+      "longitude": 35.03122904,
+      "directions": "Near HeHaruv Street, Nesher, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240258",
+      "photo_urls": []
+    },
+    {
+      "id": "240317",
+      "title": "The Lion's Trail - Bet Shean",
+      "latitude": 32.498725,
+      "longitude": 35.50473889,
+      "directions": "On Menachem Begin Boulevard (Route 90) , Beit She&#39;an, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240317",
+      "photo_urls": []
+    },
+    {
+      "id": "240388",
+      "title": "The Lion's Trail - Kiryat Shmona",
+      "latitude": 33.19219727,
+      "longitude": 35.56777156,
+      "directions": "On Route 90, Qiryat Shemona, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240388",
+      "photo_urls": []
+    },
+    {
+      "id": "240394",
+      "title": "The Lion's Trail - Gush Etzion",
+      "latitude": 31.68283869,
+      "longitude": 35.14492778,
+      "directions": "Near Sde Boaz Street, Neve Daniel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240394",
+      "photo_urls": []
+    },
+    {
+      "id": "242621",
+      "title": "The Lion's Trail - Yokneam",
+      "latitude": 32.65251089,
+      "longitude": 35.10720423,
+      "directions": "On Sderot Yitshak Rabin, Yokne&#39;am Illit, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=242621",
+      "photo_urls": []
+    },
+    {
+      "id": "245103",
+      "title": "Colonel Marcus M. Spiegel",
+      "latitude": 41.95309,
+      "longitude": -87.66033,
+      "directions": "On North Clark Street, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245103",
+      "photo_urls": []
+    },
+    {
+      "id": "245163",
+      "title": "Lion's Trail - Dimona",
+      "latitude": 31.061262,
+      "longitude": 35.019074,
+      "directions": "On , Dimona, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245163",
+      "photo_urls": []
+    },
+    {
+      "id": "246962",
+      "title": "Borscht Belt - South Fallsburg",
+      "latitude": 41.70970315,
+      "longitude": -74.631747,
+      "directions": "On Giff Court, South Fallsburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246962",
+      "photo_urls": []
+    },
+    {
+      "id": "248391",
+      "title": "The Lion's Trail - Beit Jann",
+      "latitude": 32.96527778,
+      "longitude": 35.37944444,
+      "directions": "On , Beit Jann, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248391",
+      "photo_urls": []
+    },
+    {
+      "id": "248709",
+      "title": "Borscht Belt - The Concord Hotel, Breezy Corners & Kiamesha Lake",
+      "latitude": 41.66003318,
+      "longitude": -74.64528446,
+      "directions": "On Resorts World Drive, Monticello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248709",
+      "photo_urls": []
+    },
+    {
+      "id": "251974",
+      "title": "Sub. Lt. Martin Solomon",
+      "latitude": 51.54006885,
+      "longitude": 0.65060613,
+      "directions": "On High Street, Southend-on-Sea, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251974",
+      "photo_urls": []
+    },
+    {
+      "id": "252055",
+      "title": "Borscht Belt - Hurleyville",
+      "latitude": 41.73611331,
+      "longitude": -74.67452553,
+      "directions": "On Railroad Avenue, Hurleyville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252055",
+      "photo_urls": []
+    },
+    {
+      "id": "254880",
+      "title": "Maharaja Jam Sahib of Nawanagar",
+      "latitude": 31.22123201,
+      "longitude": 34.88658453,
+      "directions": "Near Meshek Nevatim Street, Nevatim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254880",
+      "photo_urls": []
+    },
+    {
+      "id": "255413",
+      "title": "Borscht Belt - Woodridge",
+      "latitude": 41.71028762,
+      "longitude": -74.57427313,
+      "directions": "On Green Avenue, Woodridge, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255413",
+      "photo_urls": []
+    },
+    {
+      "id": "258452",
+      "title": "Worldwide Daffodil Project",
+      "latitude": 46.44786944,
+      "longitude": -90.18291389,
+      "directions": "On 303 Iron Street, Hurley, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258452",
+      "photo_urls": []
+    },
+    {
+      "id": "260637",
+      "title": "Mt. Nebo Elementary School",
+      "latitude": 32.47077368,
+      "longitude": -92.10801683,
+      "directions": "On Jackson Street, Monroe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260637",
+      "photo_urls": []
+    },
+    {
+      "id": "264457",
+      "title": "Captain John Danny",
+      "latitude": 51.55353992,
+      "longitude": -0.04977129,
+      "directions": "On Powerscroft Road, Hackney, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=264457",
+      "photo_urls": []
+    },
+    {
+      "id": "27083",
+      "title": "Shaarai Shomayim",
+      "latitude": 30.688153,
+      "longitude": -88.04932,
+      "directions": "On Government Street, Mobile, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27083",
+      "photo_urls": []
+    },
+    {
+      "id": "272751",
+      "title": "Gimbel's Department Store",
+      "latitude": 38.67984828,
+      "longitude": -87.53221056,
+      "directions": "On Main Street, Vincennes, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=272751",
+      "photo_urls": []
+    },
+    {
+      "id": "273684",
+      "title": "Borscht Belt - Greenfield Park & Ulster Heights",
+      "latitude": 41.72732049,
+      "longitude": -74.48974706,
+      "directions": "On State Route 52, Greenfield Park, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=273684",
+      "photo_urls": []
+    },
+    {
+      "id": "273698",
+      "title": "Borscht Belt - Ellenville",
+      "latitude": 41.71811502,
+      "longitude": -74.39763481,
+      "directions": "On Center Street, Ellenville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=273698",
+      "photo_urls": []
+    },
+    {
+      "id": "274792",
+      "title": "Lt. Leonard M. Keysor V.C.",
+      "latitude": 51.52686944,
+      "longitude": -0.17897399,
+      "directions": "On Maida Vale (Route A5) , City of Westminster, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274792",
+      "photo_urls": []
+    },
+    {
+      "id": "276027",
+      "title": "Take Me Out to the Ball Game",
+      "latitude": 41.67151604,
+      "longitude": -86.25581265,
+      "directions": "On South William Street, South Bend, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276027",
+      "photo_urls": []
+    },
+    {
+      "id": "278055",
+      "title": "The Daughters of Deborah",
+      "latitude": 32.08486303,
+      "longitude": 34.87125993,
+      "directions": "On Haim Arlozorov Street, Petah Tikva, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278055",
+      "photo_urls": []
+    },
+    {
+      "id": "279040",
+      "title": "Borscht Belt - Loch Sheldrake",
+      "latitude": 41.77005315,
+      "longitude": -74.6575071,
+      "directions": "On New York 52, Loch Sheldrake, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279040",
+      "photo_urls": []
+    },
+    {
+      "id": "279229",
+      "title": "The Griffin School / Rosenwald Schools",
+      "latitude": 33.25702405,
+      "longitude": -84.25796692,
+      "directions": "Near North 3rd Street, Griffin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279229",
+      "photo_urls": []
+    },
+    {
+      "id": "281571",
+      "title": "Governor Ralph Lawrence Carr",
+      "latitude": 38.74708707,
+      "longitude": -105.1722205,
+      "directions": "On East Bennett Avenue, Cripple Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=281571",
+      "photo_urls": []
+    },
+    {
+      "id": "282671",
+      "title": "Borscht Belt - Woodbourne",
+      "latitude": 41.75916135,
+      "longitude": -74.60106658,
+      "directions": "On Main Street, Woodbourne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282671",
+      "photo_urls": []
+    },
+    {
+      "id": "286561",
+      "title": "Borscht Belt - Livingston Manor",
+      "latitude": 41.900488,
+      "longitude": -74.828296,
+      "directions": "On Pearl Street, Living Manor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286561",
+      "photo_urls": []
+    },
+    {
+      "id": "287303",
+      "title": "The Kerem Shalom Lion",
+      "latitude": 31.22083333,
+      "longitude": 34.27055556,
+      "directions": "On , Kerem Shalom, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287303",
+      "photo_urls": []
+    },
+    {
+      "id": "287871",
+      "title": "1972 Munich Olympic Massacre",
+      "latitude": 51.54357906,
+      "longitude": -0.05698872,
+      "directions": "Near Richmond Road, Hackney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287871",
+      "photo_urls": []
+    },
+    {
+      "id": "290980",
+      "title": "Leon Lawrence Lewis / The Jewish Community of the Gogebic Range",
+      "latitude": 46.44799444,
+      "longitude": -90.183075,
+      "directions": "On Iron Street, Hurley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290980",
+      "photo_urls": []
+    },
+    {
+      "id": "292947",
+      "title": "Old Canterbury Jewish Cemetery",
+      "latitude": 51.28461,
+      "longitude": 1.07067,
+      "directions": "Near Whitstable Road, Canterbury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292947",
+      "photo_urls": []
+    },
+    {
+      "id": "84648",
+      "title": "Congregation B'Nai Israel",
+      "latitude": 35.151236,
+      "longitude": -90.050377,
+      "directions": "On Main Street, Memphis, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84648",
+      "photo_urls": []
+    },
+    {
+      "id": "93854",
+      "title": "Moses Elias Levy",
+      "latitude": 29.50521667,
+      "longitude": -82.27955,
+      "directions": "On NE Cholokka Boulevard, Micanopy, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93854",
+      "photo_urls": []
+    },
+    {
+      "id": "95997",
+      "title": "Borough of Roosevelt",
+      "latitude": 40.217949,
+      "longitude": -74.47486,
+      "directions": "On North Rochdale Avenue (County Route 571) , Roosevelt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95997",
+      "photo_urls": []
+    },
+    {
+      "id": "99371",
+      "title": "Gov. John M. Slaton",
+      "latitude": 33.84128889,
+      "longitude": -84.38491111,
+      "directions": "On Slaton Drive, NW, Atlanta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99371",
+      "photo_urls": []
+    }
+  ]
+}
