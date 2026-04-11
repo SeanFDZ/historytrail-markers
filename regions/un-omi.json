@@ -1,0 +1,38 @@
+{
+  "region_id": "un-omi",
+  "region_name": "Omit Inscription",
+  "region_type": "state",
+  "country": "United States of America",
+  "generated": "2026-04-11T18:53:08.486Z",
+  "source_timestamp": "2026-04-11T18:53:08.486Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "167729",
+      "title": "White Oak",
+      "latitude": 42.55498522,
+      "longitude": -84.19209288,
+      "directions": "On State Route 52, near Dansville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=167729",
+      "photo_urls": []
+    },
+    {
+      "id": "167810",
+      "title": "White Oak Township Hall",
+      "latitude": 42.55503174,
+      "longitude": -84.19208969,
+      "directions": "On State Route 52, near Dansville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=167810",
+      "photo_urls": []
+    },
+    {
+      "id": "210814",
+      "title": "Fairview Cemetery",
+      "latitude": 42.55575278,
+      "longitude": -84.29658611,
+      "directions": "On Mason Street (State Route 36) , Dansville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210814",
+      "photo_urls": []
+    }
+  ]
+}
