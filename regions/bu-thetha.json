@@ -1,0 +1,245 @@
+{
+  "region_id": "bu-thetha",
+  "region_name": "The Thailand-Burma Railway",
+  "region_type": "state",
+  "country": "Burma (Myanmar)",
+  "generated": "2026-04-11T18:53:08.454Z",
+  "source_timestamp": "2026-04-11T18:53:08.454Z",
+  "marker_count": 26,
+  "markers": [
+    {
+      "id": "119304",
+      "title": "Mobilization Site of Lost Battalion",
+      "latitude": 33.20595,
+      "longitude": -98.16411,
+      "directions": "On Park Road 61, Jacksboro, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119304",
+      "photo_urls": []
+    },
+    {
+      "id": "120043",
+      "title": "Burma Railway Memorial",
+      "latitude": 51.53494271,
+      "longitude": -0.13883807,
+      "directions": "On Camden High Street, Camden, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120043",
+      "photo_urls": []
+    },
+    {
+      "id": "225679",
+      "title": "VFW POW Kanchanaburi Memorial",
+      "latitude": 14.04177098,
+      "longitude": 99.50405336,
+      "directions": "On River Kwai Road, Tha Ma Kham, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225679",
+      "photo_urls": []
+    },
+    {
+      "id": "225680",
+      "title": "Thai-Anusorn",
+      "latitude": 14.04141744,
+      "longitude": 99.50550138,
+      "directions": "On River Kwai Road, Tha Ma Kham, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225680",
+      "photo_urls": []
+    },
+    {
+      "id": "225682",
+      "title": "The Tomb of 10,000 Souls",
+      "latitude": 14.02969186,
+      "longitude": 99.52672362,
+      "directions": "On Sangchuto Road (National Route 323) , Ban Tai, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225682",
+      "photo_urls": []
+    },
+    {
+      "id": "225683",
+      "title": "Imperial Japanese Army Soldiers Memorial Chedi",
+      "latitude": 13.81585928,
+      "longitude": 99.8814813,
+      "directions": "Near 160 / 3233 Sam Ngam (Local Route 3233) , Ban Pong, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225683",
+      "photo_urls": []
+    },
+    {
+      "id": "225684",
+      "title": "Don Toom Gate",
+      "latitude": 13.81505242,
+      "longitude": 99.88209703,
+      "directions": "Near 160 / 3233 Sam Ngan (Local Route 3233) , Ban Pong, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225684",
+      "photo_urls": []
+    },
+    {
+      "id": "225685",
+      "title": "Thai-Burma Railway Starting Station",
+      "latitude": 13.81787783,
+      "longitude": 99.91018367,
+      "directions": "Near , Nong Kop, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225685",
+      "photo_urls": []
+    },
+    {
+      "id": "226956",
+      "title": "Hellfire Pass Memorial",
+      "latitude": 14.35601133,
+      "longitude": 98.95253077,
+      "directions": "Near Sangchuto Road (National Route 323) , Tha Sao, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226956",
+      "photo_urls": []
+    },
+    {
+      "id": "226967",
+      "title": "Sir Edward “Weary” Dunlop",
+      "latitude": 14.35601133,
+      "longitude": 98.95253077,
+      "directions": "Near Sangchuto Road (National Route 323) , Tha Sao, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226967",
+      "photo_urls": []
+    },
+    {
+      "id": "227188",
+      "title": "Thai-Burma Railway Line",
+      "latitude": 14.04326111,
+      "longitude": 99.50518333,
+      "directions": "On New Zealand Aly, Tha Ma Kham, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227188",
+      "photo_urls": []
+    },
+    {
+      "id": "227908",
+      "title": "The Bridge Over the River Kwae",
+      "latitude": 14.04279047,
+      "longitude": 99.50485227,
+      "directions": "On New Zealand Alley, Tha Ma Kham, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227908",
+      "photo_urls": []
+    },
+    {
+      "id": "227953",
+      "title": "Burma-Thai Railway",
+      "latitude": 14.04170004,
+      "longitude": 99.50420714,
+      "directions": "On River Kwai Road, Tha Ma Kham, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227953",
+      "photo_urls": []
+    },
+    {
+      "id": "228251",
+      "title": "Memorial to Dutch Prisoners of War",
+      "latitude": 14.03070539,
+      "longitude": 99.52574087,
+      "directions": "Near Sangchuto Road (National Route 323) , Ban Tai, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228251",
+      "photo_urls": []
+    },
+    {
+      "id": "228307",
+      "title": "The Kanchanaburi Memorial",
+      "latitude": 14.03193649,
+      "longitude": 99.52574123,
+      "directions": "Near Sangchuto Road (National Route 323) , Ban Tai, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228307",
+      "photo_urls": []
+    },
+    {
+      "id": "228369",
+      "title": "That Valiant Company Who Perished While Building the Railway",
+      "latitude": 14.03188266,
+      "longitude": 99.5258079,
+      "directions": "Near Sangchuto Road (National Route 323) , Ban Tai, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228369",
+      "photo_urls": []
+    },
+    {
+      "id": "228740",
+      "title": "The Burma-Thailand Japanese Death Railway Began Here",
+      "latitude": 15.95582853,
+      "longitude": 97.72984022,
+      "directions": "On Thanbyuzayat-Ye Highway (National Route 8) , Thanbyuzayat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228740",
+      "photo_urls": []
+    },
+    {
+      "id": "230117",
+      "title": "Chungkai War Cemetery",
+      "latitude": 14.00575628,
+      "longitude": 99.51512768,
+      "directions": "On 3228 Road (Bannua Road), Tha Ma Kham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230117",
+      "photo_urls": []
+    },
+    {
+      "id": "230800",
+      "title": "Tribute to Royal Dutch East Indies Army and the Royal Netherlands Navy Personnel Who Perished",
+      "latitude": 14.0317724,
+      "longitude": 99.52598791,
+      "directions": "On Sangshuto Road (Route 323) , Ban Tai, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230800",
+      "photo_urls": []
+    },
+    {
+      "id": "231181",
+      "title": "Kanchanaburi War Cemetery",
+      "latitude": 14.03190594,
+      "longitude": 99.52578878,
+      "directions": "Near Sangchuto Road, Ban Tai, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231181",
+      "photo_urls": []
+    },
+    {
+      "id": "237945",
+      "title": "Ipoh War Memorial Monument",
+      "latitude": 4.59756256,
+      "longitude": 101.07422411,
+      "directions": "On Jalan Panglima Bukit Gantang Wahab, Ipoh, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237945",
+      "photo_urls": []
+    },
+    {
+      "id": "238330",
+      "title": "Takashi Nagase (Fujiwara)",
+      "latitude": 14.01629927,
+      "longitude": 99.53067183,
+      "directions": "Near Pakprak Road, Ban Tai, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238330",
+      "photo_urls": []
+    },
+    {
+      "id": "238334",
+      "title": "The JEATH War Museum",
+      "latitude": 14.01624156,
+      "longitude": 99.53072011,
+      "directions": "On Pakprak Rd, Ban Tai, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238334",
+      "photo_urls": []
+    },
+    {
+      "id": "290753",
+      "title": "The Lost Battalion",
+      "latitude": 33.9121051,
+      "longitude": -98.49472512,
+      "directions": "On 7th Street, Wichita Falls, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290753",
+      "photo_urls": []
+    },
+    {
+      "id": "66151",
+      "title": "1,000 Houstonians Join the Navy",
+      "latitude": 29.75633333,
+      "longitude": -95.3654,
+      "directions": "Near Main Street, Houston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=66151",
+      "photo_urls": []
+    },
+    {
+      "id": "79764",
+      "title": "Honoring E Battery Lost Battalion WWII",
+      "latitude": 32.445972,
+      "longitude": -99.732452,
+      "directions": "On Oak Street, Abilene, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79764",
+      "photo_urls": []
+    }
+  ]
+}
