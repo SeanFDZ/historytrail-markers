@@ -1,0 +1,3044 @@
+{
+  "region_id": "su-thehol",
+  "region_name": "The Holocaust",
+  "region_type": "state",
+  "country": "Suriname",
+  "generated": "2026-04-11T18:53:08.457Z",
+  "source_timestamp": "2026-04-11T18:53:08.457Z",
+  "marker_count": 337,
+  "markers": [
+    {
+      "id": "100089",
+      "title": "Schweinfurt Romany Memorial",
+      "latitude": 50.041795,
+      "longitude": 10.230704,
+      "directions": "Near Schultessstrasse, Schweinfurt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100089",
+      "photo_urls": []
+    },
+    {
+      "id": "100259",
+      "title": "Frankfurter Engel / Angel of Frankfurt",
+      "latitude": 50.116866,
+      "longitude": 8.685191,
+      "directions": "On Stephanstrasse, Frankfurt am Main, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100259",
+      "photo_urls": []
+    },
+    {
+      "id": "100273",
+      "title": "Frankfurt Romani Memorial",
+      "latitude": 50.111365,
+      "longitude": 8.683202,
+      "directions": "On Braubachstraße, Frankfurt am Main, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100273",
+      "photo_urls": []
+    },
+    {
+      "id": "100310",
+      "title": "Walter Süskind",
+      "latitude": 52.365889,
+      "longitude": 4.901994,
+      "directions": "On Amstel, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100310",
+      "photo_urls": []
+    },
+    {
+      "id": "100519",
+      "title": "Joods Verzetsmonument /Jewish Resistance Monument",
+      "latitude": 52.367623,
+      "longitude": 4.89888,
+      "directions": "On Amstel, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100519",
+      "photo_urls": []
+    },
+    {
+      "id": "101358",
+      "title": "Hunterdon County Holocaust Memorial",
+      "latitude": 40.512461,
+      "longitude": -74.865936,
+      "directions": "On Capner Street, Flemington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=101358",
+      "photo_urls": []
+    },
+    {
+      "id": "103081",
+      "title": "In Remembrance of the Holocaust",
+      "latitude": 41.411671,
+      "longitude": -75.655561,
+      "directions": "On Jefferson Avenue, Scranton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103081",
+      "photo_urls": []
+    },
+    {
+      "id": "103226",
+      "title": "Holocaust Memorial",
+      "latitude": 39.288022,
+      "longitude": -76.60834,
+      "directions": "On East Lombard Street, Baltimore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103226",
+      "photo_urls": []
+    },
+    {
+      "id": "104536",
+      "title": "The Anne Frank Tree",
+      "latitude": 40.70972222,
+      "longitude": -74.01335833,
+      "directions": "Near Albany Street, Manhattan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104536",
+      "photo_urls": []
+    },
+    {
+      "id": "105173",
+      "title": "de wereld bleef doof / The World Remained Deaf",
+      "latitude": 52.36639,
+      "longitude": 4.906189,
+      "directions": "On Hortusplantsoen, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105173",
+      "photo_urls": []
+    },
+    {
+      "id": "105335",
+      "title": "Site of Former Synagogue",
+      "latitude": 52.381685,
+      "longitude": 4.639048,
+      "directions": "On Wijde Apelaarsteeg, Oude Stad, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105335",
+      "photo_urls": []
+    },
+    {
+      "id": "105388",
+      "title": "Simon Philip de Vries",
+      "latitude": 52.382355,
+      "longitude": 4.640144,
+      "directions": "On Bakenessergracht, Oude Stad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105388",
+      "photo_urls": []
+    },
+    {
+      "id": "105758",
+      "title": "Former Synagogue",
+      "latitude": 49.7908,
+      "longitude": 9.93429,
+      "directions": "On Domerschulstraße, Würzburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105758",
+      "photo_urls": []
+    },
+    {
+      "id": "105868",
+      "title": "Vernieling Bevolkingsregister / The Attack on the Population Register",
+      "latitude": 52.366744,
+      "longitude": 4.912281,
+      "directions": "On Plantage Kerklaan, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105868",
+      "photo_urls": []
+    },
+    {
+      "id": "108562",
+      "title": "Moritz Perles",
+      "latitude": 48.207664,
+      "longitude": 16.371012,
+      "directions": "On Seilergasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108562",
+      "photo_urls": []
+    },
+    {
+      "id": "108582",
+      "title": "Adolf Frankl",
+      "latitude": 48.207825,
+      "longitude": 16.369747,
+      "directions": "On Dorotheergasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108582",
+      "photo_urls": []
+    },
+    {
+      "id": "108733",
+      "title": "E.J. van Det School Memorial",
+      "latitude": 52.366256,
+      "longitude": 4.90573,
+      "directions": "On Hortusplantsoen, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108733",
+      "photo_urls": []
+    },
+    {
+      "id": "108751",
+      "title": "J.C. Amman School Memorial",
+      "latitude": 52.366267,
+      "longitude": 4.905969,
+      "directions": "On Hortusplantsoen, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108751",
+      "photo_urls": []
+    },
+    {
+      "id": "108783",
+      "title": "Heusenstamm World War II Victims Memorial",
+      "latitude": 50.059941,
+      "longitude": 8.806803,
+      "directions": "On Schlossstrasse, Heusenstamm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108783",
+      "photo_urls": []
+    },
+    {
+      "id": "108805",
+      "title": "Feng Shan Ho",
+      "latitude": 48.202076,
+      "longitude": 16.376615,
+      "directions": "On Kantgasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108805",
+      "photo_urls": []
+    },
+    {
+      "id": "113355",
+      "title": "Mahnmal für die österreichischen jüdischen Opfer der Schoah / Judenplatz Holocaust Memorial",
+      "latitude": 48.211677,
+      "longitude": 16.369492,
+      "directions": "On Judenplatz, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113355",
+      "photo_urls": []
+    },
+    {
+      "id": "113425",
+      "title": "De Schaduwkade (Shadow Wall)",
+      "latitude": 52.364608,
+      "longitude": 4.902539,
+      "directions": "On Amstel, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113425",
+      "photo_urls": []
+    },
+    {
+      "id": "115788",
+      "title": "WWII - War In Europe",
+      "latitude": 30.22846427,
+      "longitude": -90.91302526,
+      "directions": "Near South Irma Boulevard, Gonzales, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115788",
+      "photo_urls": []
+    },
+    {
+      "id": "115794",
+      "title": "World War II",
+      "latitude": 30.22845958,
+      "longitude": -90.91304088,
+      "directions": "Near South Irma Boulevard, Gonzales, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115794",
+      "photo_urls": []
+    },
+    {
+      "id": "117258",
+      "title": "Children of the Kindertransport",
+      "latitude": 51.517651,
+      "longitude": -0.082553,
+      "directions": "On Liverpool Street, City of London, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117258",
+      "photo_urls": []
+    },
+    {
+      "id": "118767",
+      "title": "Willy Cohn",
+      "latitude": 51.110801,
+      "longitude": 17.032377,
+      "directions": "On Rynek, Wroc&#322;aw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118767",
+      "photo_urls": []
+    },
+    {
+      "id": "119909",
+      "title": "The Holocaust",
+      "latitude": 33.66563644,
+      "longitude": -78.94418878,
+      "directions": "On Crabtree Lane, Myrtle Beach, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119909",
+      "photo_urls": []
+    },
+    {
+      "id": "120826",
+      "title": "Defenders of Jewish Children World War II Memorial",
+      "latitude": 52.36685722,
+      "longitude": 4.91097486,
+      "directions": "On Plantage Middenlaan, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120826",
+      "photo_urls": []
+    },
+    {
+      "id": "123954",
+      "title": "Weiss Family Memorial",
+      "latitude": 54.79420973,
+      "longitude": 9.43139655,
+      "directions": "On Norderstrasse, Flensburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123954",
+      "photo_urls": []
+    },
+    {
+      "id": "123975",
+      "title": "Mahnmal Für Die Opfer Des Nationalsozialsmus / Monument for Victims of the Nazis",
+      "latitude": 54.81505568,
+      "longitude": 9.36233456,
+      "directions": "On Ochsenweg, Harrislee, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123975",
+      "photo_urls": []
+    },
+    {
+      "id": "124341",
+      "title": "Central Louisiana Connection",
+      "latitude": 31.31359741,
+      "longitude": -92.44850522,
+      "directions": "On Elliot Street, Alexandria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124341",
+      "photo_urls": []
+    },
+    {
+      "id": "125144",
+      "title": "Reflection of a Youth / We Must Not Forget",
+      "latitude": 31.31365452,
+      "longitude": -92.44853003,
+      "directions": "On Fourth Street, Alexandria, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125144",
+      "photo_urls": []
+    },
+    {
+      "id": "125273",
+      "title": "Würzburg Jewish Deportation Memorial",
+      "latitude": 49.79489318,
+      "longitude": 9.93456617,
+      "directions": "On Kardinal-Faulhaber-Platz, Würzburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125273",
+      "photo_urls": []
+    },
+    {
+      "id": "130107",
+      "title": "Tomb of the Unknown Concentration Camp Prisoner",
+      "latitude": 55.67887033,
+      "longitude": 12.57716671,
+      "directions": "On Amagertorv, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130107",
+      "photo_urls": []
+    },
+    {
+      "id": "130810",
+      "title": "1934: The Night of the Long Knives",
+      "latitude": 34.07474167,
+      "longitude": -118.35565833,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130810",
+      "photo_urls": []
+    },
+    {
+      "id": "134951",
+      "title": "Anne Frank Memorial",
+      "latitude": 52.37435897,
+      "longitude": 4.88355011,
+      "directions": "On Westermarkt, Amsterdam, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134951",
+      "photo_urls": []
+    },
+    {
+      "id": "135722",
+      "title": "Alte Synagoge / Former Synagogue",
+      "latitude": 49.73675704,
+      "longitude": 10.16461663,
+      "directions": "On Landwehrstrasse, Kitzingen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135722",
+      "photo_urls": []
+    },
+    {
+      "id": "135926",
+      "title": "Place of Meditation",
+      "latitude": 50.05287222,
+      "longitude": 19.94817222,
+      "directions": "Near , Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135926",
+      "photo_urls": []
+    },
+    {
+      "id": "136602",
+      "title": "The Daily Roll Call",
+      "latitude": 50.02721111,
+      "longitude": 19.204275,
+      "directions": "Near , O&#347;wi&#281;cim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136602",
+      "photo_urls": []
+    },
+    {
+      "id": "137158",
+      "title": "Kol Israel Foundation Holocaust Memorial",
+      "latitude": 41.41134564,
+      "longitude": -81.52578349,
+      "directions": "Near Northfield Road (State Route 8) , Bedford Heights, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137158",
+      "photo_urls": []
+    },
+    {
+      "id": "140236",
+      "title": "Platz der Jüdischen Deportierten",
+      "latitude": 53.56379444,
+      "longitude": 9.98558611,
+      "directions": "On Von-Melle-Park, Eimsbüttel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140236",
+      "photo_urls": []
+    },
+    {
+      "id": "141503",
+      "title": "Börneplatz Synagogue",
+      "latitude": 50.11213456,
+      "longitude": 8.68919082,
+      "directions": "On Battonnstraße, Frankfurt am Main, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141503",
+      "photo_urls": []
+    },
+    {
+      "id": "141589",
+      "title": "Städtische Bühnen / Municipal Theatre Company - Memorial for Victims of the Nazis",
+      "latitude": 50.10878802,
+      "longitude": 8.67387224,
+      "directions": "On Willy-Brandt-Platz, Frankfurt am Main, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141589",
+      "photo_urls": []
+    },
+    {
+      "id": "143548",
+      "title": "Entrechtet, Deportiert, Ermordet / Disenfranchised, Deported, Murdered",
+      "latitude": 49.71735121,
+      "longitude": 11.06010237,
+      "directions": "On Nürnberger Strasse, Forchheim, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143548",
+      "photo_urls": []
+    },
+    {
+      "id": "143990",
+      "title": "Mahnmal für den Widerstand gegen NS-Terror / Memorial for the Resistance Against Nazi Terror",
+      "latitude": 50.11129211,
+      "longitude": 8.68041814,
+      "directions": "On Berliner Strasse, Frankfurt am Main, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143990",
+      "photo_urls": []
+    },
+    {
+      "id": "144474",
+      "title": "Gisèle",
+      "latitude": 52.36787162,
+      "longitude": 4.88703059,
+      "directions": "On Herengracht, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144474",
+      "photo_urls": []
+    },
+    {
+      "id": "144477",
+      "title": "Auschwitzmonument (Spiegelmonument) / Auschwitz Monument (Mirror Monument)",
+      "latitude": 52.36789806,
+      "longitude": 4.90921799,
+      "directions": "Near Plantage Parklaan, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144477",
+      "photo_urls": []
+    },
+    {
+      "id": "146691",
+      "title": "Holocaust Memorial",
+      "latitude": 39.92714444,
+      "longitude": -75.05931944,
+      "directions": "On Park Boulevard, Cherry Hill, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146691",
+      "photo_urls": []
+    },
+    {
+      "id": "146692",
+      "title": "Raoul Wallenberg",
+      "latitude": 39.92700833,
+      "longitude": -75.0597,
+      "directions": "On Park Boulevard, Cherry Hill, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146692",
+      "photo_urls": []
+    },
+    {
+      "id": "151277",
+      "title": "Suriname Holocaust Memorial",
+      "latitude": 5.828284,
+      "longitude": -55.158978,
+      "directions": "On Keizer Street, Paramaribo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151277",
+      "photo_urls": []
+    },
+    {
+      "id": "156159",
+      "title": "Shearith Israel Memorial Park",
+      "latitude": 32.77934077,
+      "longitude": -96.73738332,
+      "directions": "On Dolphin Road, Dallas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=156159",
+      "photo_urls": []
+    },
+    {
+      "id": "159633",
+      "title": "“Never Again”",
+      "latitude": 40.26833333,
+      "longitude": -76.89326667,
+      "directions": "On North Front Street, Harrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=159633",
+      "photo_urls": []
+    },
+    {
+      "id": "160252",
+      "title": "Master Sgt. Roddie Edmonds",
+      "latitude": 35.96348384,
+      "longitude": -83.9184536,
+      "directions": "On Market Street, Knoxville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=160252",
+      "photo_urls": []
+    },
+    {
+      "id": "170513",
+      "title": "Warsaw Ghetto Memorial Plaza",
+      "latitude": 40.78812684,
+      "longitude": -73.98232788,
+      "directions": "Near Henry Hudson Parkway, Manhattan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=170513",
+      "photo_urls": []
+    },
+    {
+      "id": "171217",
+      "title": "Last WWII Concentration Camp",
+      "latitude": 41.29635949,
+      "longitude": -84.35923961,
+      "directions": "On N. Clinton Street (State Route 66) , Defiance, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171217",
+      "photo_urls": []
+    },
+    {
+      "id": "174633",
+      "title": "Anne Frank Children's Human Rights Memorial",
+      "latitude": 31.77717717,
+      "longitude": 35.30622198,
+      "directions": "Near Derech Kedem Street, Maaleh Adumim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174633",
+      "photo_urls": []
+    },
+    {
+      "id": "179611",
+      "title": "James Rives Childs",
+      "latitude": 37.42509167,
+      "longitude": -79.15291667,
+      "directions": "On Rivermont Avenue, Lynchburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=179611",
+      "photo_urls": []
+    },
+    {
+      "id": "181453",
+      "title": "We Remember The Holocaust And Say... Never Again",
+      "latitude": 40.75918522,
+      "longitude": -82.54092999,
+      "directions": "On Park Avenue West, Mansfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=181453",
+      "photo_urls": []
+    },
+    {
+      "id": "181756",
+      "title": "None Dare Forget",
+      "latitude": 39.90608324,
+      "longitude": -79.73815025,
+      "directions": "Near West Main Street (U.S. Business 40) , Uniontown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=181756",
+      "photo_urls": []
+    },
+    {
+      "id": "183360",
+      "title": "Baltimore's Holocaust Memorial",
+      "latitude": 39.28841561,
+      "longitude": -76.60817184,
+      "directions": "On East Lombard Street, Baltimore, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=183360",
+      "photo_urls": []
+    },
+    {
+      "id": "189187",
+      "title": "The Pink Triangle",
+      "latitude": 41.9412992,
+      "longitude": -87.64923101,
+      "directions": "On North Halsted Street, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=189187",
+      "photo_urls": []
+    },
+    {
+      "id": "192747",
+      "title": "Six Pillars",
+      "latitude": 39.95506389,
+      "longitude": -75.16730556,
+      "directions": "On Arch Street, Philadelphia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192747",
+      "photo_urls": []
+    },
+    {
+      "id": "192760",
+      "title": "Train Tracks from Treblinka",
+      "latitude": 39.95525833,
+      "longitude": -75.16731944,
+      "directions": "On Benjamin Franklin Parkway, Philadelphia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192760",
+      "photo_urls": []
+    },
+    {
+      "id": "192763",
+      "title": "<i>Monument to Six Million Jewish Martyrs</i>",
+      "latitude": 39.955075,
+      "longitude": -75.167,
+      "directions": "On Arch Street, Philadelphia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192763",
+      "photo_urls": []
+    },
+    {
+      "id": "192765",
+      "title": "Monument to Six Million Jewish Martyrs",
+      "latitude": 39.95505556,
+      "longitude": -75.16699167,
+      "directions": "On Arch Street, Philadelphia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192765",
+      "photo_urls": []
+    },
+    {
+      "id": "192769",
+      "title": "Monument to Six Million Jewish Martyrs",
+      "latitude": 39.95504444,
+      "longitude": -75.16696111,
+      "directions": "On Benjamin Franklin Parkway, Philadelphia, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192769",
+      "photo_urls": []
+    },
+    {
+      "id": "201228",
+      "title": "Holocaust Memorial",
+      "latitude": 39.97028056,
+      "longitude": -82.92738333,
+      "directions": "On East Broad Street (State Route 16) , Bexley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201228",
+      "photo_urls": []
+    },
+    {
+      "id": "202458",
+      "title": "Barcelona Holocaust Memorial",
+      "latitude": 41.38874775,
+      "longitude": 2.186113,
+      "directions": "Near , Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202458",
+      "photo_urls": []
+    },
+    {
+      "id": "202588",
+      "title": "Henk Hiensch",
+      "latitude": 52.38382346,
+      "longitude": 4.83513639,
+      "directions": "On Henk Hienschstraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202588",
+      "photo_urls": []
+    },
+    {
+      "id": "203187",
+      "title": "Station Naarden-Bussum",
+      "latitude": 52.28100251,
+      "longitude": 5.15812643,
+      "directions": "On Stationplein, Bussum, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203187",
+      "photo_urls": []
+    },
+    {
+      "id": "203219",
+      "title": "Oude Stadehuis / Old City Hall - Marktstraat 22 Naarden",
+      "latitude": 52.29574649,
+      "longitude": 5.16330478,
+      "directions": "On Sint Annastraat, Naarden, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203219",
+      "photo_urls": []
+    },
+    {
+      "id": "203372",
+      "title": "Henriette Voûte",
+      "latitude": 52.37773896,
+      "longitude": 4.83485793,
+      "directions": "On Henriette Voûte-Brug, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203372",
+      "photo_urls": []
+    },
+    {
+      "id": "203390",
+      "title": "Jacoba van Tongeren",
+      "latitude": 52.37818926,
+      "longitude": 4.83142701,
+      "directions": "On Burgemeester Fockstraat, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203390",
+      "photo_urls": []
+    },
+    {
+      "id": "203398",
+      "title": "Henriëtte Pimentel",
+      "latitude": 52.38425506,
+      "longitude": 4.82711417,
+      "directions": "On Anton Struikstraat, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203398",
+      "photo_urls": []
+    },
+    {
+      "id": "203435",
+      "title": "Hester van Lennep",
+      "latitude": 52.37873327,
+      "longitude": 4.82831906,
+      "directions": "On Freek Oxstraat, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203435",
+      "photo_urls": []
+    },
+    {
+      "id": "203631",
+      "title": "Hendrikus Rempe",
+      "latitude": 52.38423372,
+      "longitude": 4.83182711,
+      "directions": "On Hendrikus Rempestraat, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203631",
+      "photo_urls": []
+    },
+    {
+      "id": "203839",
+      "title": "Jan Karski",
+      "latitude": 40.7496168,
+      "longitude": -73.98122735,
+      "directions": "On East 37th Street, Manhattan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203839",
+      "photo_urls": []
+    },
+    {
+      "id": "203879",
+      "title": "The Ohio Holocaust and Liberators Memorial",
+      "latitude": 39.96049908,
+      "longitude": -82.99935058,
+      "directions": "On East State Street, Columbus, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203879",
+      "photo_urls": []
+    },
+    {
+      "id": "204881",
+      "title": "Unterlindau Synagoge",
+      "latitude": 50.11829637,
+      "longitude": 8.6680266,
+      "directions": "On Unterlindau, Frankfurt am Main, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204881",
+      "photo_urls": []
+    },
+    {
+      "id": "205194",
+      "title": "Würzburg Sinti Memorial",
+      "latitude": 49.79350813,
+      "longitude": 9.93351918,
+      "directions": "On Hofstrasse, Würzburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205194",
+      "photo_urls": []
+    },
+    {
+      "id": "205725",
+      "title": "Oskar Schindler",
+      "latitude": 50.10650348,
+      "longitude": 8.66552864,
+      "directions": "On Am Hauptbahnhof, Frankfurt am Main, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205725",
+      "photo_urls": []
+    },
+    {
+      "id": "205787",
+      "title": "Das Waisen-Karussel / The Orphan Carousel",
+      "latitude": 50.10917863,
+      "longitude": 8.67174023,
+      "directions": "On Kaiserstraße, Frankfurt am Main, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205787",
+      "photo_urls": []
+    },
+    {
+      "id": "206118",
+      "title": "Guiollettstrasse 62: Das Britische Konsulat / The British Consulate",
+      "latitude": 50.11461842,
+      "longitude": 8.66256724,
+      "directions": "On Guiollettstrasse, Frankfurt am Main, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206118",
+      "photo_urls": []
+    },
+    {
+      "id": "206153",
+      "title": "Anne Frank Geburtshaus / Place of Birth",
+      "latitude": 50.14029444,
+      "longitude": 8.67649444,
+      "directions": "On Marbachweg, Frankfurt am Main, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206153",
+      "photo_urls": []
+    },
+    {
+      "id": "206289",
+      "title": "Theodor Dannecker: Täter des Holocaust / Perpetrator of the Holocaust",
+      "latitude": 48.51981954,
+      "longitude": 9.05667635,
+      "directions": "On Bursagasse, Tübingen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206289",
+      "photo_urls": []
+    },
+    {
+      "id": "206314",
+      "title": "Willem Arondeus",
+      "latitude": 52.38302232,
+      "longitude": 4.82611352,
+      "directions": "On Arondeusstraat, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206314",
+      "photo_urls": []
+    },
+    {
+      "id": "206512",
+      "title": "Johannes Post",
+      "latitude": 52.38021111,
+      "longitude": 4.83501944,
+      "directions": "On Johannes Poststraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206512",
+      "photo_urls": []
+    },
+    {
+      "id": "206606",
+      "title": "Polizei und Verfolgung unter Nationalsozialismus / Police and Persecution under National Socialism",
+      "latitude": 48.51988796,
+      "longitude": 9.05563556,
+      "directions": "On Münzgasse, Tübingen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206606",
+      "photo_urls": []
+    },
+    {
+      "id": "206816",
+      "title": "An Example of \"Aryanization\": The Oppenheim and Schäfer Families Clothing Store",
+      "latitude": 48.52032307,
+      "longitude": 9.05638496,
+      "directions": "On Holzmarkt, Tübingen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206816",
+      "photo_urls": []
+    },
+    {
+      "id": "207498",
+      "title": "Tübingen Roma and Sinti Memorial",
+      "latitude": 48.52026824,
+      "longitude": 9.05636687,
+      "directions": "On Holzmarkt, Tübingen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=207498",
+      "photo_urls": []
+    },
+    {
+      "id": "207499",
+      "title": "University of Tübingen Holocaust Memorial",
+      "latitude": 48.52027444,
+      "longitude": 9.05639436,
+      "directions": "On Holzmarkt, Tübingen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=207499",
+      "photo_urls": []
+    },
+    {
+      "id": "207532",
+      "title": "David Vos",
+      "latitude": 52.38147457,
+      "longitude": 4.82427839,
+      "directions": "On David Vosstraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=207532",
+      "photo_urls": []
+    },
+    {
+      "id": "210139",
+      "title": "Elisa-Springer-Park",
+      "latitude": 48.20748136,
+      "longitude": 16.35130517,
+      "directions": "On Piaristengasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210139",
+      "photo_urls": []
+    },
+    {
+      "id": "210756",
+      "title": "Neudeggergasse Synagogue",
+      "latitude": 48.20710347,
+      "longitude": 16.35171796,
+      "directions": "On Neudeggergasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210756",
+      "photo_urls": []
+    },
+    {
+      "id": "212687",
+      "title": "Hendrik Dienske",
+      "latitude": 52.38372319,
+      "longitude": 4.83679368,
+      "directions": "On Hendrik Dienskestraat, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212687",
+      "photo_urls": []
+    },
+    {
+      "id": "212734",
+      "title": "Bertus van Grouw",
+      "latitude": 52.38308092,
+      "longitude": 4.83682646,
+      "directions": "On Bertus van Grouwstraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212734",
+      "photo_urls": []
+    },
+    {
+      "id": "213214",
+      "title": "We Must Never Forget",
+      "latitude": 36.1655911,
+      "longitude": -86.78314582,
+      "directions": "Near Charlotte Avenue, Nashville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213214",
+      "photo_urls": []
+    },
+    {
+      "id": "213255",
+      "title": "Antikvariát Steiner / Antiquarian Bookstore Steiner",
+      "latitude": 48.14354587,
+      "longitude": 17.10661756,
+      "directions": "On Ventúrska, Bratislava, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213255",
+      "photo_urls": []
+    },
+    {
+      "id": "213802",
+      "title": "Adolf Frankl",
+      "latitude": 48.14318069,
+      "longitude": 17.10659266,
+      "directions": "On Ventúrska, Bratislava, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213802",
+      "photo_urls": []
+    },
+    {
+      "id": "214662",
+      "title": "The Trials of Nazis at Nuremberg, Germany, 1945-49",
+      "latitude": 31.31363572,
+      "longitude": -92.44840228,
+      "directions": "On Elliott Street, Alexandria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214662",
+      "photo_urls": []
+    },
+    {
+      "id": "214797",
+      "title": "Transvaalbuurt Monument deportatie Joodse kinderen / Monument to Deported Jewish Children",
+      "latitude": 52.35375351,
+      "longitude": 4.91716382,
+      "directions": "On Joubertstraat, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214797",
+      "photo_urls": []
+    },
+    {
+      "id": "214798",
+      "title": "Middle School Public César Franck Jewish Children’s Deportation Memorial",
+      "latitude": 48.86530497,
+      "longitude": 2.34410718,
+      "directions": "On Rue de la Jussienne, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214798",
+      "photo_urls": []
+    },
+    {
+      "id": "214800",
+      "title": "Rafle du «Billet Vert » / Green Ticket Roundup",
+      "latitude": 48.85642811,
+      "longitude": 2.35375233,
+      "directions": "On Rue de Lobau, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214800",
+      "photo_urls": []
+    },
+    {
+      "id": "214801",
+      "title": "Square René-Viviani Jewish Children’s Memorial",
+      "latitude": 48.85214652,
+      "longitude": 2.34762661,
+      "directions": "Near Quai de Montebello, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214801",
+      "photo_urls": []
+    },
+    {
+      "id": "214803",
+      "title": "10ème Arrondissement Enfant Juifs / Tenth Arrondissement Jewish Children",
+      "latitude": 48.8748881,
+      "longitude": 2.36079638,
+      "directions": "Near Rue des Récollets, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214803",
+      "photo_urls": []
+    },
+    {
+      "id": "214829",
+      "title": "Concentratiebuurt / “Concentration”-hood",
+      "latitude": 52.35399604,
+      "longitude": 4.92343202,
+      "directions": "On Transvaalstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214829",
+      "photo_urls": []
+    },
+    {
+      "id": "214830",
+      "title": "Transvaalbuurt Jewish Deportation Memorial",
+      "latitude": 52.35399294,
+      "longitude": 4.92343747,
+      "directions": "On Transvaalstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214830",
+      "photo_urls": []
+    },
+    {
+      "id": "214834",
+      "title": "Weesp Jewish Deportation Memorial",
+      "latitude": 52.30808163,
+      "longitude": 5.04162234,
+      "directions": "On Hanensteeg, Weesp, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214834",
+      "photo_urls": []
+    },
+    {
+      "id": "214847",
+      "title": "Janusz Korczak (Henryk Goldszmit) Memorial",
+      "latitude": 48.45618621,
+      "longitude": 10.27669609,
+      "directions": "On Dominikus-Zimmermann-Straße, Günzburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214847",
+      "photo_urls": []
+    },
+    {
+      "id": "214850",
+      "title": "Jardin Villemin Jewish Children’s Memorial",
+      "latitude": 48.87497273,
+      "longitude": 2.36075968,
+      "directions": "Near Rue des Récollets, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214850",
+      "photo_urls": []
+    },
+    {
+      "id": "215601",
+      "title": "The New England Holocaust Memorial",
+      "latitude": 42.36070278,
+      "longitude": -71.057075,
+      "directions": "On Union Street, Boston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215601",
+      "photo_urls": []
+    },
+    {
+      "id": "215845",
+      "title": "Lycée Henri IV Jewish Students Memorial",
+      "latitude": 48.84632693,
+      "longitude": 2.34766445,
+      "directions": "On Rue Clovis, Paris, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215845",
+      "photo_urls": []
+    },
+    {
+      "id": "218029",
+      "title": "Etty Hillesum",
+      "latitude": 52.35231094,
+      "longitude": 4.8702658,
+      "directions": "On Emmastraat, Amsterdam, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218029",
+      "photo_urls": []
+    },
+    {
+      "id": "218580",
+      "title": "‘Hotel Gestapo’ - L’Albergo Regina",
+      "latitude": 45.46648801,
+      "longitude": 9.18911762,
+      "directions": "On Via Silvia Pellico, Milano, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218580",
+      "photo_urls": []
+    },
+    {
+      "id": "220554",
+      "title": "In Memory of the Soldiers of the XX Corps of the US 3rd Army",
+      "latitude": 51.01967732,
+      "longitude": 11.24859718,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220554",
+      "photo_urls": []
+    },
+    {
+      "id": "221136",
+      "title": "Morris & Rose Nortman Memorial",
+      "latitude": 26.29037778,
+      "longitude": -81.80084167,
+      "directions": "On Imperial Golf Course Blvd, Naples, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221136",
+      "photo_urls": []
+    },
+    {
+      "id": "222354",
+      "title": "Hannah Arendt",
+      "latitude": 40.80425221,
+      "longitude": -73.96848327,
+      "directions": "On Riverside Drive, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222354",
+      "photo_urls": []
+    },
+    {
+      "id": "222978",
+      "title": "Tineke Guilonard",
+      "latitude": 52.37796346,
+      "longitude": 4.82577989,
+      "directions": "On Burgemeester Eliasstraat, Amsterdam, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222978",
+      "photo_urls": []
+    },
+    {
+      "id": "224004",
+      "title": "The Dark Days of the Holocaust",
+      "latitude": 34.19158028,
+      "longitude": -79.77818599,
+      "directions": "On South Park Avenue, Florence, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224004",
+      "photo_urls": []
+    },
+    {
+      "id": "224567",
+      "title": "Piet Laroo",
+      "latitude": 52.38178877,
+      "longitude": 4.82820462,
+      "directions": "On Piet Laroostraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224567",
+      "photo_urls": []
+    },
+    {
+      "id": "224572",
+      "title": "Holocaust",
+      "latitude": 33.92145788,
+      "longitude": -80.34655111,
+      "directions": "On Church Street, Sumter, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224572",
+      "photo_urls": []
+    },
+    {
+      "id": "226101",
+      "title": "Cronologia del Holocausto / Holocaust Timeline",
+      "latitude": 18.46604588,
+      "longitude": -66.10638151,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226101",
+      "photo_urls": []
+    },
+    {
+      "id": "226103",
+      "title": "6 Millones Asesinados / 6 Million Murdered",
+      "latitude": 18.46601944,
+      "longitude": -66.10635278,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226103",
+      "photo_urls": []
+    },
+    {
+      "id": "226171",
+      "title": "Guetos / Ghettos",
+      "latitude": 18.46600278,
+      "longitude": -66.10635278,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226171",
+      "photo_urls": []
+    },
+    {
+      "id": "226179",
+      "title": "1.5 Millones de Niños / 1.5 Million Children",
+      "latitude": 18.46595833,
+      "longitude": -66.10643889,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226179",
+      "photo_urls": []
+    },
+    {
+      "id": "226180",
+      "title": "Millones de Otras Víctimas / Millions of Other Victims",
+      "latitude": 18.46595556,
+      "longitude": -66.10643889,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226180",
+      "photo_urls": []
+    },
+    {
+      "id": "226182",
+      "title": "Los Justos entre las Naciones / The Righteous Among the Nations",
+      "latitude": 18.46596944,
+      "longitude": -66.10646111,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226182",
+      "photo_urls": []
+    },
+    {
+      "id": "226186",
+      "title": "<i>En la Sombra de su Ausencia</i> / <i>In the Shadow of their Absence</i>",
+      "latitude": 18.46598056,
+      "longitude": -66.106475,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226186",
+      "photo_urls": []
+    },
+    {
+      "id": "226188",
+      "title": "Tolerancia / Tolerance",
+      "latitude": 18.46598056,
+      "longitude": -66.106475,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226188",
+      "photo_urls": []
+    },
+    {
+      "id": "226189",
+      "title": "Camino de los Justos / Path of the Righteous",
+      "latitude": 18.466025,
+      "longitude": -66.10649167,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226189",
+      "photo_urls": []
+    },
+    {
+      "id": "226201",
+      "title": "The Bilecki Family",
+      "latitude": 18.46596389,
+      "longitude": -66.10654444,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226201",
+      "photo_urls": []
+    },
+    {
+      "id": "226203",
+      "title": "Camino de los Justos / Path of the Righteous",
+      "latitude": 18.46592768,
+      "longitude": -66.106475,
+      "directions": "On Paseo Covadonga (Route 38) , San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226203",
+      "photo_urls": []
+    },
+    {
+      "id": "226487",
+      "title": "Teatro Olimpico",
+      "latitude": 45.54979002,
+      "longitude": 11.54954103,
+      "directions": "On Stradella del Teatro Olimpico, Vicenza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226487",
+      "photo_urls": []
+    },
+    {
+      "id": "22744",
+      "title": "Columbarium",
+      "latitude": 50.50611572,
+      "longitude": 14.14969459,
+      "directions": "On Bohušovická brána, Terezín, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22744",
+      "photo_urls": []
+    },
+    {
+      "id": "229008",
+      "title": "Benjamin Fondane",
+      "latitude": 48.84461394,
+      "longitude": 2.35167381,
+      "directions": "On Rue Rollin, Paris, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229008",
+      "photo_urls": []
+    },
+    {
+      "id": "229067",
+      "title": "De Joodse Invalide / The Jewish Invalid Society",
+      "latitude": 52.36232041,
+      "longitude": 4.90798116,
+      "directions": "On Weesperplein, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229067",
+      "photo_urls": []
+    },
+    {
+      "id": "229070",
+      "title": "De Joodsche Invalide",
+      "latitude": 52.3623265,
+      "longitude": 4.90798476,
+      "directions": "On Weesperplein, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229070",
+      "photo_urls": []
+    },
+    {
+      "id": "229388",
+      "title": "École Èlementaire Publique Saint-Jacques Jewish Children’s Deportation Memorial",
+      "latitude": 48.843789,
+      "longitude": 2.34165603,
+      "directions": "On Rue Saint-Jacques, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229388",
+      "photo_urls": []
+    },
+    {
+      "id": "229399",
+      "title": "Vrouwen van Ravensbrück 1940-1945 / Women of Ravensbrück 1940-1945 Memorial",
+      "latitude": 52.3569136,
+      "longitude": 4.88225893,
+      "directions": "On Museumplein, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229399",
+      "photo_urls": []
+    },
+    {
+      "id": "229799",
+      "title": "July 21, 1944 Jewish Deportation Memorial",
+      "latitude": 48.84109229,
+      "longitude": 2.34755891,
+      "directions": "On Rue Vauquelin, Paris, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229799",
+      "photo_urls": []
+    },
+    {
+      "id": "229821",
+      "title": "Hommage aux Justes / Ere van de Rechtvaardigen / Tribute to the Righteous",
+      "latitude": 50.84358928,
+      "longitude": 4.35768286,
+      "directions": "On Mont des Arts, Bruxelles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229821",
+      "photo_urls": []
+    },
+    {
+      "id": "229869",
+      "title": "Ecole Élémentaire Rollin Jewish Students Deportation Memorial",
+      "latitude": 48.84477855,
+      "longitude": 2.35075176,
+      "directions": "On Rue Rollin, Paris, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229869",
+      "photo_urls": []
+    },
+    {
+      "id": "229885",
+      "title": "Terlist Street Jewish Deportation Memorial",
+      "latitude": 51.21177484,
+      "longitude": 4.41936485,
+      "directions": "On Terliststraat, Antwerpen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229885",
+      "photo_urls": []
+    },
+    {
+      "id": "230255",
+      "title": "Mass Arrest of December 12, 1941",
+      "latitude": 48.85401765,
+      "longitude": 2.30582435,
+      "directions": "On Place Joffre, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230255",
+      "photo_urls": []
+    },
+    {
+      "id": "230337",
+      "title": "Etty Hillesum",
+      "latitude": 52.35601047,
+      "longitude": 4.88092697,
+      "directions": "On Gabriël Metsustraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230337",
+      "photo_urls": []
+    },
+    {
+      "id": "231001",
+      "title": "École Élémentaire Publique Chabrol Jewish Children Deportation Memorial",
+      "latitude": 48.87681553,
+      "longitude": 2.35307893,
+      "directions": "On Rue de Chabrol, Paris, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231001",
+      "photo_urls": []
+    },
+    {
+      "id": "231331",
+      "title": "Magasin Lévitan",
+      "latitude": 48.87285003,
+      "longitude": 2.35765085,
+      "directions": "On Rue du Faubourg Saint-Martin, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231331",
+      "photo_urls": []
+    },
+    {
+      "id": "231370",
+      "title": "École élémentaire d’Argenteuil Jewish Students Memorial",
+      "latitude": 48.86492869,
+      "longitude": 2.33383667,
+      "directions": "On Rue d&#39;Argenteuil, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231370",
+      "photo_urls": []
+    },
+    {
+      "id": "231509",
+      "title": "Marktbreit Holocaust Memorial",
+      "latitude": 49.66687586,
+      "longitude": 10.14496226,
+      "directions": "Near Schustergasse, Marktbreit, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231509",
+      "photo_urls": []
+    },
+    {
+      "id": "233284",
+      "title": "DenkOrt Deportationen 1941-1944 Gerolzhofen / Gerolzhofen Deportation 1941-44 Memorial",
+      "latitude": 49.90159719,
+      "longitude": 10.34772769,
+      "directions": "On Marktstraße, Gerolzhofen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233284",
+      "photo_urls": []
+    },
+    {
+      "id": "234062",
+      "title": "Rue Vaucanson Deported Jewish Children Memorial",
+      "latitude": 48.86702617,
+      "longitude": 2.35674211,
+      "directions": "On Rue Vaucanson, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234062",
+      "photo_urls": []
+    },
+    {
+      "id": "234080",
+      "title": "1933: The Nazification of Germany",
+      "latitude": 34.07470278,
+      "longitude": -118.35559722,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234080",
+      "photo_urls": []
+    },
+    {
+      "id": "234081",
+      "title": "1935: Legalization of Nazi Racism",
+      "latitude": 34.07474314,
+      "longitude": -118.3555966,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234081",
+      "photo_urls": []
+    },
+    {
+      "id": "234082",
+      "title": "1936: False Peace of The Berlin Olympics",
+      "latitude": 34.07471111,
+      "longitude": -118.35562222,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234082",
+      "photo_urls": []
+    },
+    {
+      "id": "234083",
+      "title": "1937",
+      "latitude": 34.07472885,
+      "longitude": -118.35559404,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234083",
+      "photo_urls": []
+    },
+    {
+      "id": "234085",
+      "title": "1938: Krystallnacht/Austria Annexed",
+      "latitude": 34.07473889,
+      "longitude": -118.35561389,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234085",
+      "photo_urls": []
+    },
+    {
+      "id": "234086",
+      "title": "1939: The Nazi Conquest of Europa",
+      "latitude": 34.07471944,
+      "longitude": -118.35561389,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234086",
+      "photo_urls": []
+    },
+    {
+      "id": "234088",
+      "title": "1940: Blizkrieg in West/Terror in East",
+      "latitude": 34.07473333,
+      "longitude": -118.35562778,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234088",
+      "photo_urls": []
+    },
+    {
+      "id": "234090",
+      "title": "1941: Barbarossa and Pearl Harbor",
+      "latitude": 34.07471389,
+      "longitude": -118.35564444,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234090",
+      "photo_urls": []
+    },
+    {
+      "id": "234091",
+      "title": "1942: Final Slaughter of Innocents",
+      "latitude": 34.07473889,
+      "longitude": -118.35561389,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234091",
+      "photo_urls": []
+    },
+    {
+      "id": "234092",
+      "title": "1943: Ghetto Revolts and Partisans",
+      "latitude": 34.07469167,
+      "longitude": -118.35566667,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234092",
+      "photo_urls": []
+    },
+    {
+      "id": "234093",
+      "title": "1944-1945: Death Marches and Liberation",
+      "latitude": 34.07474444,
+      "longitude": -118.35560556,
+      "directions": "Near The Grove Drive, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234093",
+      "photo_urls": []
+    },
+    {
+      "id": "234783",
+      "title": "Aachen Hauptbahnhof / Aachen Main Railway Station",
+      "latitude": 50.76833425,
+      "longitude": 6.09110087,
+      "directions": "On Bahnhofplatz, Aachen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234783",
+      "photo_urls": []
+    },
+    {
+      "id": "234879",
+      "title": "Mord an Behinderten / The Murder of the Disabled",
+      "latitude": 50.7685692,
+      "longitude": 6.09110221,
+      "directions": "On Römerstraße, Aachen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234879",
+      "photo_urls": []
+    },
+    {
+      "id": "234911",
+      "title": "Anne Frank",
+      "latitude": 50.77995242,
+      "longitude": 6.09276331,
+      "directions": "On Monheimsallee, Aachen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234911",
+      "photo_urls": []
+    },
+    {
+      "id": "235325",
+      "title": "Righteous Among the Nations: the Legacy of Raoul Wallenberg",
+      "latitude": 43.26561187,
+      "longitude": -79.90765842,
+      "directions": "On Oak Knoll Drive, Hamilton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235325",
+      "photo_urls": []
+    },
+    {
+      "id": "235379",
+      "title": "Maastricht Synagogue Holocaust Memorial",
+      "latitude": 50.8515991,
+      "longitude": 5.68806343,
+      "directions": "On Capucijnengang, Maastricht, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235379",
+      "photo_urls": []
+    },
+    {
+      "id": "237980",
+      "title": "Plaats van Deportatie / Ort der Deportation / Place of Deportation",
+      "latitude": 50.77155715,
+      "longitude": 6.02344425,
+      "directions": "On Maastrichterlaan, Vaals, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237980",
+      "photo_urls": []
+    },
+    {
+      "id": "240336",
+      "title": "École Publique Buffault Deported Jewish Students Memorial",
+      "latitude": 48.87630476,
+      "longitude": 2.34240245,
+      "directions": "On Rue Buffault, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240336",
+      "photo_urls": []
+    },
+    {
+      "id": "240337",
+      "title": "École Publique Buffault Deported Jewish Students Memorial II",
+      "latitude": 48.87637808,
+      "longitude": 2.342448,
+      "directions": "On Rue Buffault, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240337",
+      "photo_urls": []
+    },
+    {
+      "id": "240586",
+      "title": "E.M.P.U. Rue Blanche Deported Jewish Student Memorial",
+      "latitude": 48.87803253,
+      "longitude": 2.33179395,
+      "directions": "On Rue Blanche, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240586",
+      "photo_urls": []
+    },
+    {
+      "id": "240911",
+      "title": "Herdenkingsplein (05): Hakenkruizen in de Grote Staat / Swastikas over the Grote Staat",
+      "latitude": 50.8489226,
+      "longitude": 5.68214128,
+      "directions": "On Herdenkingsplein, Maastricht, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240911",
+      "photo_urls": []
+    },
+    {
+      "id": "242682",
+      "title": "Aachen Synagoge Mahnmal / Aachen Synagogue Memorial",
+      "latitude": 50.776386,
+      "longitude": 6.09261447,
+      "directions": "On Synagogenplatz, Aachen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=242682",
+      "photo_urls": []
+    },
+    {
+      "id": "242717",
+      "title": "Vaals Gedenkteken voor de Oorlogsslachtoffers / Vaals Victims of War Memorial",
+      "latitude": 50.77029014,
+      "longitude": 6.01972125,
+      "directions": "On Von Clermontplein, Vaals, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=242717",
+      "photo_urls": []
+    },
+    {
+      "id": "242890",
+      "title": "Die Klaussynagoge / The Klaus Synagogue",
+      "latitude": 49.48910341,
+      "longitude": 8.4663502,
+      "directions": "On F1, Mannheim, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=242890",
+      "photo_urls": []
+    },
+    {
+      "id": "243019",
+      "title": "Holocaust Memorial",
+      "latitude": 42.0256708,
+      "longitude": -87.75711693,
+      "directions": "Near Oakton Street, Skokie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243019",
+      "photo_urls": []
+    },
+    {
+      "id": "243367",
+      "title": "Branco van Dantzig",
+      "latitude": 51.91574057,
+      "longitude": 4.46151131,
+      "directions": "On Bellevoysstraat, Rotterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243367",
+      "photo_urls": []
+    },
+    {
+      "id": "243433",
+      "title": "Branco van Dantzig",
+      "latitude": 51.93345512,
+      "longitude": 4.48079673,
+      "directions": "On 1e Pijnackerstraat, Rotterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243433",
+      "photo_urls": []
+    },
+    {
+      "id": "244069",
+      "title": "Het Israëlietisch Weeshuis / The Jewish Orphanage",
+      "latitude": 51.91475128,
+      "longitude": 4.46404301,
+      "directions": "On Mathenesserlaan, Rotterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244069",
+      "photo_urls": []
+    },
+    {
+      "id": "244080",
+      "title": "Israëlietisch Oudeliedengesticht / Jewish Old Age Home",
+      "latitude": 51.9149945,
+      "longitude": 4.4597877,
+      "directions": "On Claes de Vrieselaan, Rotterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244080",
+      "photo_urls": []
+    },
+    {
+      "id": "244175",
+      "title": "Loods 24 / Warehouse 24",
+      "latitude": 51.90867222,
+      "longitude": 4.49677778,
+      "directions": "On Levie Vorstkade, Rotterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244175",
+      "photo_urls": []
+    },
+    {
+      "id": "244639",
+      "title": "Anton Hölzel",
+      "latitude": 52.35120278,
+      "longitude": 4.78654722,
+      "directions": "On Anton Hölzelsingel, Amsterdam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244639",
+      "photo_urls": []
+    },
+    {
+      "id": "244696",
+      "title": "Lycée Carnot Deported Jewish Students Memorial",
+      "latitude": 48.88452575,
+      "longitude": 2.30780348,
+      "directions": "On Boulevard Malesherbes, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244696",
+      "photo_urls": []
+    },
+    {
+      "id": "244883",
+      "title": "Monument Voor Joodse Oorlogslachtoffers / Jewish War Victims Memorial",
+      "latitude": 51.92296111,
+      "longitude": 4.47978889,
+      "directions": "Near Coolsingel, Rotterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244883",
+      "photo_urls": []
+    },
+    {
+      "id": "244885",
+      "title": "Laugier, Fourcroy, Renaudes Deported Jewish Student Memorial",
+      "latitude": 48.88080267,
+      "longitude": 2.29759578,
+      "directions": "On Rue des Renaudes, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244885",
+      "photo_urls": []
+    },
+    {
+      "id": "245117",
+      "title": "Nous sommes 900 Français / We are 900 Frenchmen (Convoy 73) Memorial",
+      "latitude": 48.86004898,
+      "longitude": 2.40015971,
+      "directions": "Near Avenue Circulaire, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245117",
+      "photo_urls": []
+    },
+    {
+      "id": "245140",
+      "title": "Natzweiler-Struthof Concentration Camp Memorial",
+      "latitude": 48.86028333,
+      "longitude": 2.39993333,
+      "directions": "On Avenue Circulaire, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245140",
+      "photo_urls": []
+    },
+    {
+      "id": "245211",
+      "title": "Ravensbruck Concentration Camp Memorial",
+      "latitude": 48.85973611,
+      "longitude": 2.39958611,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245211",
+      "photo_urls": []
+    },
+    {
+      "id": "245293",
+      "title": "Flossenbürg Concentration Camp Memorial",
+      "latitude": 48.85937222,
+      "longitude": 2.39906944,
+      "directions": "On Avenue Transversale No. 3, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245293",
+      "photo_urls": []
+    },
+    {
+      "id": "245350",
+      "title": "Neuengamme Concentration Camp Memorial",
+      "latitude": 48.85961111,
+      "longitude": 2.39952222,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245350",
+      "photo_urls": []
+    },
+    {
+      "id": "245433",
+      "title": "Mauthausen Concentration Camp Memorial",
+      "latitude": 48.85936667,
+      "longitude": 2.39910278,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245433",
+      "photo_urls": []
+    },
+    {
+      "id": "245486",
+      "title": "Auschwitz-Birkenau Extermination Camp Memorial",
+      "latitude": 48.86001667,
+      "longitude": 2.39986944,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245486",
+      "photo_urls": []
+    },
+    {
+      "id": "245617",
+      "title": "Auschwitz III Concentration Camp Memorial",
+      "latitude": 48.86035833,
+      "longitude": 2.39990278,
+      "directions": "On Avenue Circulaire, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245617",
+      "photo_urls": []
+    },
+    {
+      "id": "245788",
+      "title": "Écoles Elementaire Saint Lambert Deported Jewish Students Memorial",
+      "latitude": 48.83811216,
+      "longitude": 2.29097573,
+      "directions": "On Rue Saint-Lambert, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245788",
+      "photo_urls": []
+    },
+    {
+      "id": "246143",
+      "title": "École elementaire Jean Vilar Deported Jewish Students Memorial",
+      "latitude": 48.93438912,
+      "longitude": 2.35752645,
+      "directions": "On Rue des Boucheries, Saint-Denis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246143",
+      "photo_urls": []
+    },
+    {
+      "id": "246157",
+      "title": "Jewish Children Holocaust Memorial",
+      "latitude": 48.86040556,
+      "longitude": 2.39986667,
+      "directions": "On Avenue Circulaire, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246157",
+      "photo_urls": []
+    },
+    {
+      "id": "246166",
+      "title": "École elementaire Boulard Deported Jewish Students Memorial",
+      "latitude": 48.83261175,
+      "longitude": 2.32781255,
+      "directions": "On Rue Boulard, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246166",
+      "photo_urls": []
+    },
+    {
+      "id": "246176",
+      "title": "Communist Women’s Memorial",
+      "latitude": 48.85983333,
+      "longitude": 2.39973889,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246176",
+      "photo_urls": []
+    },
+    {
+      "id": "246187",
+      "title": "Sachsenhausen-Oranienburg Concentration Camp Memorial",
+      "latitude": 48.86032847,
+      "longitude": 2.39975192,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246187",
+      "photo_urls": []
+    },
+    {
+      "id": "246199",
+      "title": "Zigeunermonument Hel en vuur / Romani Monument Hell and Fire",
+      "latitude": 52.35652787,
+      "longitude": 4.88138303,
+      "directions": "On Museumplein, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246199",
+      "photo_urls": []
+    },
+    {
+      "id": "246224",
+      "title": "Saint-Denis Municipal Cemetery Holocaust Memorial",
+      "latitude": 48.93949308,
+      "longitude": 2.36416954,
+      "directions": "Near Boulevard de la Commune de Paris, Saint-Denis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246224",
+      "photo_urls": []
+    },
+    {
+      "id": "246238",
+      "title": "Drancy Internment Camp Deportation Monument",
+      "latitude": 48.91879202,
+      "longitude": 2.45415824,
+      "directions": "On Avenue Jean Jaurès, Drancy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246238",
+      "photo_urls": []
+    },
+    {
+      "id": "246246",
+      "title": "Loods 24 / Warehouse 24",
+      "latitude": 51.90955278,
+      "longitude": 4.49475,
+      "directions": "Near Stieltjesstraat, Rotterdam, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246246",
+      "photo_urls": []
+    },
+    {
+      "id": "246273",
+      "title": "École Rue de Sassure Deported Jewish Students Memorial",
+      "latitude": 48.88517128,
+      "longitude": 2.31530964,
+      "directions": "On Rue de Saussure, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246273",
+      "photo_urls": []
+    },
+    {
+      "id": "246285",
+      "title": "Buchenwald-Dora Concentration Camp Memorial",
+      "latitude": 48.86020278,
+      "longitude": 2.39982222,
+      "directions": "On Avenue Circulaire, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246285",
+      "photo_urls": []
+    },
+    {
+      "id": "247740",
+      "title": "Valkenburg Holocaust Memorial",
+      "latitude": 50.86118333,
+      "longitude": 5.82554722,
+      "directions": "On N590, Valkenburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247740",
+      "photo_urls": []
+    },
+    {
+      "id": "248192",
+      "title": "Joodse deportations / Jewish Deportations",
+      "latitude": 50.86899167,
+      "longitude": 5.832375,
+      "directions": "On Wehryweg, Valkenburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248192",
+      "photo_urls": []
+    },
+    {
+      "id": "248773",
+      "title": "Rue Vivienne Deported Jewish Children Memorial",
+      "latitude": 48.86798888,
+      "longitude": 2.33951521,
+      "directions": "On Rue Vivienne, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248773",
+      "photo_urls": []
+    },
+    {
+      "id": "248802",
+      "title": "Struikelstenen / “Stumbling Stones”",
+      "latitude": 50.86366264,
+      "longitude": 5.83209416,
+      "directions": "On Walravenstraat, Valkenburg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248802",
+      "photo_urls": []
+    },
+    {
+      "id": "249517",
+      "title": "Mörfelden Synagoge",
+      "latitude": 49.97511944,
+      "longitude": 8.568275,
+      "directions": "On Langgasse, Mörfelden-Walldorf, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249517",
+      "photo_urls": []
+    },
+    {
+      "id": "250246",
+      "title": "In Memory of Victims of Holocaust",
+      "latitude": 34.09265677,
+      "longitude": -118.35123562,
+      "directions": "Near Santa Monica Boulevard, West Hollywood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250246",
+      "photo_urls": []
+    },
+    {
+      "id": "250669",
+      "title": "736 Jøder / 736 Jews",
+      "latitude": 59.90351111,
+      "longitude": 10.74249167,
+      "directions": "On Vippetangen - Bleikøya, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250669",
+      "photo_urls": []
+    },
+    {
+      "id": "251348",
+      "title": "Joods Meisjesweeshuis / Orphanage for Jewish Girls",
+      "latitude": 52.36829722,
+      "longitude": 4.90614722,
+      "directions": "On Rapenburgerstraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251348",
+      "photo_urls": []
+    },
+    {
+      "id": "252844",
+      "title": "Vught Deported Jews Memorial",
+      "latitude": 51.65556506,
+      "longitude": 5.29206494,
+      "directions": "Near Stationsstraat, Vught, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252844",
+      "photo_urls": []
+    },
+    {
+      "id": "252922",
+      "title": "Nooit Echt Bevrijd / Never Genuinely Liberated / Nie Wirklich Befreit",
+      "latitude": 50.93848056,
+      "longitude": 5.79189722,
+      "directions": "On Maastrichterlaan, Beek, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252922",
+      "photo_urls": []
+    },
+    {
+      "id": "252924",
+      "title": "Sinti Monument",
+      "latitude": 50.93785,
+      "longitude": 5.79921944,
+      "directions": "On Stegen, Beek, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252924",
+      "photo_urls": []
+    },
+    {
+      "id": "252959",
+      "title": "Monument in memory of deported Jews",
+      "latitude": 59.90528611,
+      "longitude": 10.73721111,
+      "directions": "On Akershusstranda, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252959",
+      "photo_urls": []
+    },
+    {
+      "id": "253521",
+      "title": "Voormalig Hoofdkantoor Joodsche Raad / Former Headquarters of the Jewish Council",
+      "latitude": 52.36480764,
+      "longitude": 4.90468784,
+      "directions": "On Nieuwe Keizersgracht, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253521",
+      "photo_urls": []
+    },
+    {
+      "id": "254303",
+      "title": "The Butterfly Project",
+      "latitude": 32.920575,
+      "longitude": -117.21424722,
+      "directions": "On Carmel Mountain Road, San Diego, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254303",
+      "photo_urls": []
+    },
+    {
+      "id": "254404",
+      "title": "Holocaust Memorial",
+      "latitude": 40.58252778,
+      "longitude": -73.95358333,
+      "directions": "On Shore Boulevard, Brooklyn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254404",
+      "photo_urls": []
+    },
+    {
+      "id": "255600",
+      "title": "Monument van Joodse Erkentelijkheid / Monument of Jewish Recognition",
+      "latitude": 52.36187552,
+      "longitude": 4.90785107,
+      "directions": "On Weesperplein, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255600",
+      "photo_urls": []
+    },
+    {
+      "id": "256849",
+      "title": "Remember &#10017;&#65038; &#1494;&#1499;&#1493;&#1512;",
+      "latitude": 41.95550226,
+      "longitude": -70.67929729,
+      "directions": "Near Samoset Street, Plymouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256849",
+      "photo_urls": []
+    },
+    {
+      "id": "257865",
+      "title": "Anne Frank",
+      "latitude": 50.14536378,
+      "longitude": 8.66514847,
+      "directions": "On Ganghoferstraße, Frankfurt am Main, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=257865",
+      "photo_urls": []
+    },
+    {
+      "id": "257982",
+      "title": "École Rue de Picpus Jewish Student Deportation Memorial",
+      "latitude": 48.84341111,
+      "longitude": 2.39698056,
+      "directions": "On Rue de Picpus, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=257982",
+      "photo_urls": []
+    },
+    {
+      "id": "258072",
+      "title": "Anne Frank Children's Human Rights Memorial",
+      "latitude": -34.54113801,
+      "longitude": -58.46323576,
+      "directions": "On , Buenos Aires, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258072",
+      "photo_urls": []
+    },
+    {
+      "id": "258232",
+      "title": "Enfants du 12ème arrondissement déportés / 12th Arrondissement Deported Jewish Children Memorial",
+      "latitude": 48.84108607,
+      "longitude": 2.38775521,
+      "directions": "On Rue de Charenton, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258232",
+      "photo_urls": []
+    },
+    {
+      "id": "258285",
+      "title": "Le Gymnase Japy / The Japy Gymnasium",
+      "latitude": 48.85597523,
+      "longitude": 2.38241523,
+      "directions": "On Rue Japy, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258285",
+      "photo_urls": []
+    },
+    {
+      "id": "258457",
+      "title": "Juifs du 12ème arrondissement raflés / Jews of the 12th Arrondissement rounded up Memorial",
+      "latitude": 48.84103333,
+      "longitude": 2.38869444,
+      "directions": "On Rue Bignon, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258457",
+      "photo_urls": []
+    },
+    {
+      "id": "258695",
+      "title": "Lippmann, Rosenthal & Co. (LiRo Bank)",
+      "latitude": 52.36103139,
+      "longitude": 4.90651648,
+      "directions": "On Sarphatistraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258695",
+      "photo_urls": []
+    },
+    {
+      "id": "259167",
+      "title": "Gedenkstätte für die Opfer des Nationalsozialismus / Memorial for the Victims of National Socialism",
+      "latitude": 49.38524747,
+      "longitude": 8.57131561,
+      "directions": "On Schloßstraße, Schwetzingen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259167",
+      "photo_urls": []
+    },
+    {
+      "id": "259211",
+      "title": "Joods Lyceum / Jewish Lyceum",
+      "latitude": 52.36135889,
+      "longitude": 4.90491753,
+      "directions": "On Voormalige Stadstimmertuin, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259211",
+      "photo_urls": []
+    },
+    {
+      "id": "259279",
+      "title": "Holocaust Memorial",
+      "latitude": 41.85611554,
+      "longitude": -87.80629315,
+      "directions": "Near Greenberg Avenue (18th Street), Forest Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259279",
+      "photo_urls": []
+    },
+    {
+      "id": "259281",
+      "title": "Chenstochow Holocaust Memorial",
+      "latitude": 41.85503313,
+      "longitude": -87.80782752,
+      "directions": "Near Harlem Avenue (State Route 43) , Forest Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259281",
+      "photo_urls": []
+    },
+    {
+      "id": "259297",
+      "title": "Pinsk Holocaust Memorial",
+      "latitude": 41.8551209,
+      "longitude": -87.80780726,
+      "directions": "Near Harlem Drive (State Route 43) , Forest Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259297",
+      "photo_urls": []
+    },
+    {
+      "id": "259702",
+      "title": "Henriëtte Henriquez Pimentel",
+      "latitude": 52.36324145,
+      "longitude": 4.91988611,
+      "directions": "On Henriette Pimentelbrug, Amsterdam, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259702",
+      "photo_urls": []
+    },
+    {
+      "id": "259773",
+      "title": "Wilhelmina Catharinaschool",
+      "latitude": 52.3594838,
+      "longitude": 4.89726811,
+      "directions": "On Weteringschans, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259773",
+      "photo_urls": []
+    },
+    {
+      "id": "260515",
+      "title": "École Maternelle Chapon Deported Jewish Students Memorial",
+      "latitude": 48.86364965,
+      "longitude": 2.35512465,
+      "directions": "On Rue Chapon, Paris, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260515",
+      "photo_urls": []
+    },
+    {
+      "id": "260574",
+      "title": "Konzentrationslager Flossenbürg / Flossenbürg Concentration Camp",
+      "latitude": 49.73630262,
+      "longitude": 12.3552147,
+      "directions": "On Gedächtnisallee, Flossenbürg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260574",
+      "photo_urls": []
+    },
+    {
+      "id": "260706",
+      "title": "Raymonde Royale",
+      "latitude": 48.86458323,
+      "longitude": 2.35706179,
+      "directions": "On Rue au Maire, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260706",
+      "photo_urls": []
+    },
+    {
+      "id": "260749",
+      "title": "L‘École Élémentaire Vertus Jewish Student Deportation Memorial",
+      "latitude": 48.86420277,
+      "longitude": 2.35789141,
+      "directions": "On Rue des Vertus, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260749",
+      "photo_urls": []
+    },
+    {
+      "id": "261059",
+      "title": "Gemeinde Kz-Gedenkstätte / Concentration Camp Memorial Community",
+      "latitude": 49.73709584,
+      "longitude": 12.35451174,
+      "directions": "On Silberhüttenstraße, Flossenbürg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261059",
+      "photo_urls": []
+    },
+    {
+      "id": "261087",
+      "title": "École Élémentaire Barbanègre Deported Jewish Students Memorial",
+      "latitude": 48.89217778,
+      "longitude": 2.38284722,
+      "directions": "On Rue Barbanègre, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261087",
+      "photo_urls": []
+    },
+    {
+      "id": "261154",
+      "title": "Lycee Turgot Deported Jewish Student Memorial",
+      "latitude": 48.86624424,
+      "longitude": 2.35900527,
+      "directions": "On Rue de Turbigo, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261154",
+      "photo_urls": []
+    },
+    {
+      "id": "261196",
+      "title": "Anne Frank",
+      "latitude": 48.86146944,
+      "longitude": 2.35447222,
+      "directions": "On Impasse Berthaud, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261196",
+      "photo_urls": []
+    },
+    {
+      "id": "261325",
+      "title": "Lycée Nicolas Flamel Deported Jewish Students Memorial",
+      "latitude": 48.86268243,
+      "longitude": 2.35667942,
+      "directions": "On Rue de Montmorency, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261325",
+      "photo_urls": []
+    },
+    {
+      "id": "261620",
+      "title": "École maternelle Elisa Lemmonier Deported Jewish Students Memorial",
+      "latitude": 48.84083413,
+      "longitude": 2.38946334,
+      "directions": "On Rue Elisa Lemonnier, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261620",
+      "photo_urls": []
+    },
+    {
+      "id": "261681",
+      "title": "École Élémentaire rue de Pontoise Deported Jewish Students Memorial",
+      "latitude": 48.84876784,
+      "longitude": 2.35127132,
+      "directions": "On Rue de Pontoise, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261681",
+      "photo_urls": []
+    },
+    {
+      "id": "261745",
+      "title": "École Maternelle Armand Carrel Deported Jewish Student Memorial",
+      "latitude": 48.88266996,
+      "longitude": 2.37602416,
+      "directions": "On Rue Armand Carrel, Paris, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261745",
+      "photo_urls": []
+    },
+    {
+      "id": "261889",
+      "title": "Le Collège Rognoni Deported Jewish Student Memorial",
+      "latitude": 48.84822142,
+      "longitude": 2.35321396,
+      "directions": "On Rue du Cardinal Lemoine, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261889",
+      "photo_urls": []
+    },
+    {
+      "id": "262081",
+      "title": "École Rue Jomard Deported Jewish Students Memorial",
+      "latitude": 48.88975268,
+      "longitude": 2.37962576,
+      "directions": "On Rue Jomard, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262081",
+      "photo_urls": []
+    },
+    {
+      "id": "262160",
+      "title": "“Ze waren gewoon ineens weg” / “They were just suddenly gone”",
+      "latitude": 52.30816389,
+      "longitude": 5.04159444,
+      "directions": "On Nieuwstraat, Weesp, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262160",
+      "photo_urls": []
+    },
+    {
+      "id": "262217",
+      "title": "École Élémentaire Godefroy Cavaignac Deported Jewish Students Memorial",
+      "latitude": 48.85598456,
+      "longitude": 2.38056632,
+      "directions": "On Rue Godefroy Cavaignac, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262217",
+      "photo_urls": []
+    },
+    {
+      "id": "262353",
+      "title": "Collège Jean-Françoise Oeben Deported Jewish Students Memorial",
+      "latitude": 48.84850421,
+      "longitude": 2.38601384,
+      "directions": "On Rue de Reuilly, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262353",
+      "photo_urls": []
+    },
+    {
+      "id": "263367",
+      "title": "École Élémentaire Publique Bignon Deported Jewish Students Memorial",
+      "latitude": 48.8405508,
+      "longitude": 2.38864392,
+      "directions": "On Rue Bignon, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263367",
+      "photo_urls": []
+    },
+    {
+      "id": "263425",
+      "title": "Joods Monument Beek / Beek Holocaust Memorial",
+      "latitude": 50.93855278,
+      "longitude": 5.79580556,
+      "directions": "On Burgemeester Janssenstraat, Beek, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263425",
+      "photo_urls": []
+    },
+    {
+      "id": "265162",
+      "title": "Ecole Maternelle Publique Popincourt Deported Jewish Students Memorial",
+      "latitude": 48.85735818,
+      "longitude": 2.3773317,
+      "directions": "On Rue Popincourt, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265162",
+      "photo_urls": []
+    },
+    {
+      "id": "265330",
+      "title": "Le mémorial des martyrs de la Déportation / The Memorial to the Martyrs of the Deportation",
+      "latitude": 48.85185277,
+      "longitude": 2.35195154,
+      "directions": "On Quai de l&#39;Archevêché, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265330",
+      "photo_urls": []
+    },
+    {
+      "id": "265652",
+      "title": "Die Synagoge der Orthodoxen Jüdischen Gemeinde / Orthodox Jewish Synagogue",
+      "latitude": 49.87367342,
+      "longitude": 8.64844635,
+      "directions": "On Bleichstraße, Darmstadt, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265652",
+      "photo_urls": []
+    },
+    {
+      "id": "265969",
+      "title": "Jewish Deportation Memorial",
+      "latitude": 49.60000278,
+      "longitude": 6.13391389,
+      "directions": "Near Place de la Gare, Luxembourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265969",
+      "photo_urls": []
+    },
+    {
+      "id": "266150",
+      "title": "Virtuelle Rekonstruktion der Synagoge / Virtual Reconstruction of the Synagogue",
+      "latitude": 49.87380556,
+      "longitude": 8.64843889,
+      "directions": "On Bleichstraße, Darmstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266150",
+      "photo_urls": []
+    },
+    {
+      "id": "266370",
+      "title": "Holocaust Memorial",
+      "latitude": 32.78657,
+      "longitude": -79.93494,
+      "directions": "Near Calhoun Street, Charleston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266370",
+      "photo_urls": []
+    },
+    {
+      "id": "266405",
+      "title": "Wohnhaus der Kaufsmannsfamilie Friedrich Hirsch / Familial Residence of Merchant Friedrich Hirsch",
+      "latitude": 50.13744197,
+      "longitude": 8.92288467,
+      "directions": "On Sandeldamm, Hanau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266405",
+      "photo_urls": []
+    },
+    {
+      "id": "266412",
+      "title": "Darmstadt Sister City Occupation and Holocaust Memorial",
+      "latitude": 49.87381667,
+      "longitude": 8.64600556,
+      "directions": "Near Bleichstraße, Darmstadt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266412",
+      "photo_urls": []
+    },
+    {
+      "id": "266580",
+      "title": "Erinnerungsort Liberale Synagoge / Liberal Synagogue Memorial Site",
+      "latitude": 49.87381667,
+      "longitude": 8.64571667,
+      "directions": "On Bleichstraße, Darmstadt, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266580",
+      "photo_urls": []
+    },
+    {
+      "id": "266593",
+      "title": "Déi Zweet Synagog / La Seconde Synagogue / The Second Synagogue",
+      "latitude": 49.60999108,
+      "longitude": 6.12719489,
+      "directions": "On Rue Notre Dame, Luxembourg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266593",
+      "photo_urls": []
+    },
+    {
+      "id": "266914",
+      "title": "Villa Pauly Holocaust Memorial",
+      "latitude": 49.60602375,
+      "longitude": 6.12522466,
+      "directions": "On Boulevard de la Pétrusse, Luxembourg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266914",
+      "photo_urls": []
+    },
+    {
+      "id": "267038",
+      "title": "The Second Synagogue",
+      "latitude": 49.60997997,
+      "longitude": 6.1272195,
+      "directions": "On Rue Notre Dame, Luxembourg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267038",
+      "photo_urls": []
+    },
+    {
+      "id": "267108",
+      "title": "Ehemaliges Kaufhaus Rothschild / Former Rothschild Department Store",
+      "latitude": 49.87266389,
+      "longitude": 8.65437013,
+      "directions": "On Marktplatz, Darmstadt, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267108",
+      "photo_urls": []
+    },
+    {
+      "id": "267203",
+      "title": "Hanau Synagogue Memorial",
+      "latitude": 50.13633333,
+      "longitude": 8.91999722,
+      "directions": "On Nordstraße, Hanau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267203",
+      "photo_urls": []
+    },
+    {
+      "id": "267211",
+      "title": "Zum Gedenken an die Jüdischen Gemeinde Hanau / In memory of the Jewish Community of Hanau II",
+      "latitude": 50.13637222,
+      "longitude": 8.92005278,
+      "directions": "On Nordstraße, Hanau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267211",
+      "photo_urls": []
+    },
+    {
+      "id": "267571",
+      "title": "Rue Olivier de Serres Deported Jewish Students Memorial",
+      "latitude": 48.83558333,
+      "longitude": 2.29687778,
+      "directions": "On Rue Olivier de Serres, Paris, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267571",
+      "photo_urls": []
+    },
+    {
+      "id": "267953",
+      "title": "Kaddish Monument",
+      "latitude": 49.6090262,
+      "longitude": 6.13163656,
+      "directions": "On Boulevard Franklin Delano Roosevelt, Luxembourg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267953",
+      "photo_urls": []
+    },
+    {
+      "id": "268626",
+      "title": "Jewish Deportation Memorial",
+      "latitude": 52.64492541,
+      "longitude": 5.05414061,
+      "directions": "On Stationsweg, Hoorn, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=268626",
+      "photo_urls": []
+    },
+    {
+      "id": "268730",
+      "title": "De Ruijterkade 127",
+      "latitude": 52.37762355,
+      "longitude": 4.90702254,
+      "directions": "On De Ruijterkade, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=268730",
+      "photo_urls": []
+    },
+    {
+      "id": "269388",
+      "title": "Monnickendam Jewish Deportation Memorial",
+      "latitude": 52.45979825,
+      "longitude": 5.03559637,
+      "directions": "On Noordeinde, Monnickendam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269388",
+      "photo_urls": []
+    },
+    {
+      "id": "270427",
+      "title": "Deported Jewish Families Convoy 76 Memorial",
+      "latitude": 48.89050959,
+      "longitude": 2.34035263,
+      "directions": "On Rue des Saules, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270427",
+      "photo_urls": []
+    },
+    {
+      "id": "270844",
+      "title": "Memorial to All Victims of the Holocaust",
+      "latitude": 40.74242279,
+      "longitude": -73.98670057,
+      "directions": "On Madison Avenue, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270844",
+      "photo_urls": []
+    },
+    {
+      "id": "271162",
+      "title": "Lycee Jules Ferry Deported Jewish Students Memorial",
+      "latitude": 48.88385992,
+      "longitude": 2.32884005,
+      "directions": "On Rue de Douai, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271162",
+      "photo_urls": []
+    },
+    {
+      "id": "271620",
+      "title": "Square Michel-Caldaguès Jewish Children’s Memorial",
+      "latitude": 48.86018889,
+      "longitude": 2.340775,
+      "directions": "On Rue de l&#39;Amiral de Coligny, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271620",
+      "photo_urls": []
+    },
+    {
+      "id": "272646",
+      "title": "Sparrenwegschool Joodse Herinnering / Sparrenweg School Jewish Memorial",
+      "latitude": 52.35728566,
+      "longitude": 4.9161615,
+      "directions": "On Sparrenweg, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=272646",
+      "photo_urls": []
+    },
+    {
+      "id": "272802",
+      "title": "Bremen-Minsk Jewish Deportation Memorial",
+      "latitude": 53.08276389,
+      "longitude": 8.81269167,
+      "directions": "On Bahnhofsplatz, Bremen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=272802",
+      "photo_urls": []
+    },
+    {
+      "id": "273129",
+      "title": "Familie-Schwarz-Platz",
+      "latitude": 53.08819167,
+      "longitude": 8.80990833,
+      "directions": "Near Findorffstraße, Bremen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=273129",
+      "photo_urls": []
+    },
+    {
+      "id": "273184",
+      "title": "Bremen Roma and Sinti Deportation Memorial",
+      "latitude": 53.08816223,
+      "longitude": 8.80980595,
+      "directions": "Near Findorffstraße, Bremen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=273184",
+      "photo_urls": []
+    },
+    {
+      "id": "274920",
+      "title": "Bremen Kristalnacht Victims Memorial",
+      "latitude": 53.07396944,
+      "longitude": 8.80916111,
+      "directions": "On Dechanatstraße, Bremen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274920",
+      "photo_urls": []
+    },
+    {
+      "id": "277061",
+      "title": "‘The Hiding Place’",
+      "latitude": 52.38228856,
+      "longitude": 4.63537547,
+      "directions": "On Schoutensteeg, Haarlem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277061",
+      "photo_urls": []
+    },
+    {
+      "id": "278174",
+      "title": "Moses",
+      "latitude": 40.771175,
+      "longitude": -73.98376389,
+      "directions": "On West 62nd Street, Manhattan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278174",
+      "photo_urls": []
+    },
+    {
+      "id": "278317",
+      "title": "Gouda Synagogue Holocaust Memorial",
+      "latitude": 52.01195452,
+      "longitude": 4.70823362,
+      "directions": "On Turfmarkt, Gouda, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278317",
+      "photo_urls": []
+    },
+    {
+      "id": "280828",
+      "title": "Metaheerhuis / Tahara (Ritual Washing) House",
+      "latitude": 52.00913611,
+      "longitude": 4.71221389,
+      "directions": "On Oosthaven, Gouda, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280828",
+      "photo_urls": []
+    },
+    {
+      "id": "282662",
+      "title": "Herdenkingsmonument voor gedeporteerde joden / Memorial for Deported Jews",
+      "latitude": 52.34905,
+      "longitude": 4.87388333,
+      "directions": "On Gerrit van der Veenstraat, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282662",
+      "photo_urls": []
+    },
+    {
+      "id": "283593",
+      "title": "Campo dei Fiori",
+      "latitude": 41.89527622,
+      "longitude": 12.47262997,
+      "directions": "On Campo de&#39; Fiori, Roma, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=283593",
+      "photo_urls": []
+    },
+    {
+      "id": "284525",
+      "title": "Settimio Calò",
+      "latitude": 41.8926011,
+      "longitude": 12.47807823,
+      "directions": "On Via del Portico d&#39;Ottavia, Roma, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284525",
+      "photo_urls": []
+    },
+    {
+      "id": "285552",
+      "title": "Züge in das Leben / Trains to Life",
+      "latitude": 52.51961111,
+      "longitude": 13.38779722,
+      "directions": "On Friedrichstraße, Berlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285552",
+      "photo_urls": []
+    },
+    {
+      "id": "287194",
+      "title": "Bremen Synagoge / Bremen Synagogue",
+      "latitude": 53.0734867,
+      "longitude": 8.80911495,
+      "directions": "On Kolpingstraße, Bremen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287194",
+      "photo_urls": []
+    },
+    {
+      "id": "288251",
+      "title": "Castricum Holocaust Memorial",
+      "latitude": 52.54681111,
+      "longitude": 4.66455,
+      "directions": "Near Dorpsstraat, Castricum, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288251",
+      "photo_urls": []
+    },
+    {
+      "id": "289011",
+      "title": "École 62 Rue Lepic Deported Jewish Students Memorial",
+      "latitude": 48.88696666,
+      "longitude": 2.33398425,
+      "directions": "On Rue Lepic, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289011",
+      "photo_urls": []
+    },
+    {
+      "id": "290248",
+      "title": "École maternelle Constantin Pecquer Deported Jewish Students Memorial",
+      "latitude": 48.88887243,
+      "longitude": 2.33796801,
+      "directions": "On Place Constantin Pecqueur, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290248",
+      "photo_urls": []
+    },
+    {
+      "id": "290302",
+      "title": "Bad Homburg vor der Höhe Holocaust Memorial",
+      "latitude": 50.23053056,
+      "longitude": 8.61268333,
+      "directions": "On Elisabethenstraße, Bad Homburg vor der Höhe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290302",
+      "photo_urls": []
+    },
+    {
+      "id": "290316",
+      "title": "Dachau Memorial",
+      "latitude": 48.86023333,
+      "longitude": 2.40002222,
+      "directions": "On Avenue Circulaire, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290316",
+      "photo_urls": []
+    },
+    {
+      "id": "290348",
+      "title": "Bergen-Belsen Concentration Camp Memorial",
+      "latitude": 48.86014677,
+      "longitude": 2.40014215,
+      "directions": "On Avenue Circulaire, Paris, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290348",
+      "photo_urls": []
+    },
+    {
+      "id": "290472",
+      "title": "Tunnel au camp de Drancy / The Drancy Escape Tunnel",
+      "latitude": 48.91914315,
+      "longitude": 2.45396053,
+      "directions": "On Avenue Jean Jaurès, Drancy, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290472",
+      "photo_urls": []
+    },
+    {
+      "id": "291456",
+      "title": "Rue Vauvenargues Deported Jewish Students Memorial",
+      "latitude": 48.89203333,
+      "longitude": 2.33465278,
+      "directions": "On Rue Vauvenargues, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291456",
+      "photo_urls": []
+    },
+    {
+      "id": "291962",
+      "title": "Gates of Repentance",
+      "latitude": 33.47036111,
+      "longitude": -81.96149444,
+      "directions": "On Telfair Street, Augusta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291962",
+      "photo_urls": []
+    },
+    {
+      "id": "292607",
+      "title": "École de Orsel Deported Jewish Students Memorial",
+      "latitude": 48.88356133,
+      "longitude": 2.340875,
+      "directions": "On Rue d&#39;Orsel, Paris, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292607",
+      "photo_urls": []
+    },
+    {
+      "id": "292622",
+      "title": "Rothschild Hospital Holocaust Memorial",
+      "latitude": 48.84198316,
+      "longitude": 2.39777671,
+      "directions": "On Rue de Picpus, Paris, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292622",
+      "photo_urls": []
+    },
+    {
+      "id": "292909",
+      "title": "Malka and Marcus Mandel",
+      "latitude": 49.47979444,
+      "longitude": 10.98711944,
+      "directions": "On Marktplatz, Fürth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292909",
+      "photo_urls": []
+    },
+    {
+      "id": "44184",
+      "title": "The Columbia (S.C.) Holocaust Memorial",
+      "latitude": 34.002561,
+      "longitude": -81.042613,
+      "directions": "On Hampton Street, Columbia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44184",
+      "photo_urls": []
+    },
+    {
+      "id": "56540",
+      "title": "\"The Holocaust\"",
+      "latitude": 37.785607,
+      "longitude": -122.499954,
+      "directions": "Near 34th Avenue, San Francisco, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=56540",
+      "photo_urls": []
+    },
+    {
+      "id": "58963",
+      "title": "The Decline of the Jewish Community of Gerolzhofen from January 30, 1933",
+      "latitude": 49.899742,
+      "longitude": 10.352372,
+      "directions": "On Schuhstrasse, Gerolzhofen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=58963",
+      "photo_urls": []
+    },
+    {
+      "id": "60289",
+      "title": "Un Convoi de Déportation de Résistants",
+      "latitude": 43.61116,
+      "longitude": 1.45353,
+      "directions": "On Boulevard Pierre Semard, Toulouse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60289",
+      "photo_urls": []
+    },
+    {
+      "id": "62946",
+      "title": "Holocaust",
+      "latitude": 40.878876,
+      "longitude": -74.044248,
+      "directions": "On Main Street, Hackensack, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62946",
+      "photo_urls": []
+    },
+    {
+      "id": "63374",
+      "title": "Holocaust and World War II Memorial",
+      "latitude": 40.936189,
+      "longitude": -74.13195,
+      "directions": "On Parmelee Ave, Fair Lawn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63374",
+      "photo_urls": []
+    },
+    {
+      "id": "74268",
+      "title": "Emek Sholom Holocaust Memorial",
+      "latitude": 37.592419,
+      "longitude": -77.437152,
+      "directions": "Near Alma Avenue, near Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74268",
+      "photo_urls": []
+    },
+    {
+      "id": "75980",
+      "title": "Holocaust Survivors",
+      "latitude": 43.467755,
+      "longitude": -76.507064,
+      "directions": "Near E 4th Street, Oswego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75980",
+      "photo_urls": []
+    },
+    {
+      "id": "76529",
+      "title": "Camp Headquarters / Lagerkommandantur",
+      "latitude": 51.020684,
+      "longitude": 11.249715,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76529",
+      "photo_urls": []
+    },
+    {
+      "id": "76531",
+      "title": "Gate building / Torgebäude",
+      "latitude": 51.021107,
+      "longitude": 11.249138,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76531",
+      "photo_urls": []
+    },
+    {
+      "id": "76537",
+      "title": "Inmates’ living quarters / Häftlingsunterkünfte",
+      "latitude": 51.021633,
+      "longitude": 11.249628,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76537",
+      "photo_urls": []
+    },
+    {
+      "id": "76538",
+      "title": "Polish Patriots / Polischen Patrioten",
+      "latitude": 51.02181,
+      "longitude": 11.25031,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76538",
+      "photo_urls": []
+    },
+    {
+      "id": "76539",
+      "title": "Crematorium / Krematorium",
+      "latitude": 51.021716,
+      "longitude": 11.250849,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76539",
+      "photo_urls": []
+    },
+    {
+      "id": "76540",
+      "title": "Ernst Thälmann",
+      "latitude": 51.021703,
+      "longitude": 11.251254,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76540",
+      "photo_urls": []
+    },
+    {
+      "id": "76556",
+      "title": "Stake and Cart / Pfahl und Karren",
+      "latitude": 51.022145,
+      "longitude": 11.251038,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76556",
+      "photo_urls": []
+    },
+    {
+      "id": "76557",
+      "title": "Female Victims of Buchenwald",
+      "latitude": 51.022411,
+      "longitude": 11.250983,
+      "directions": "On Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76557",
+      "photo_urls": []
+    },
+    {
+      "id": "76559",
+      "title": "Inmates' Laundry and \"Goethe Oak\"",
+      "latitude": 51.023062,
+      "longitude": 11.251315,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76559",
+      "photo_urls": []
+    },
+    {
+      "id": "76560",
+      "title": "Storage Cellar / Vorratskeller",
+      "latitude": 51.023015,
+      "longitude": 11.251611,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76560",
+      "photo_urls": []
+    },
+    {
+      "id": "76565",
+      "title": "Depot / Kammergebäude",
+      "latitude": 51.02349,
+      "longitude": 11.251567,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76565",
+      "photo_urls": []
+    },
+    {
+      "id": "76729",
+      "title": "Camp Road / Lagerstraße",
+      "latitude": 51.02352,
+      "longitude": 11.251262,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76729",
+      "photo_urls": []
+    },
+    {
+      "id": "76730",
+      "title": "Bulgarian Political Prisoners / Bulgarische politische Häftlinge",
+      "latitude": 51.023623,
+      "longitude": 11.251241,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76730",
+      "photo_urls": []
+    },
+    {
+      "id": "76813",
+      "title": "Sinti and Roma Memorial / Sinti und Roma Denkmal",
+      "latitude": 51.022665,
+      "longitude": 11.247198,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76813",
+      "photo_urls": []
+    },
+    {
+      "id": "76862",
+      "title": "Soviet Prisoners of War / Sowjetische Kriegsgefangene",
+      "latitude": 51.022334,
+      "longitude": 11.247234,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76862",
+      "photo_urls": []
+    },
+    {
+      "id": "76865",
+      "title": "Soviet Prisoners of War Memorial",
+      "latitude": 51.022091,
+      "longitude": 11.246925,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76865",
+      "photo_urls": []
+    },
+    {
+      "id": "76916",
+      "title": "SS Guard Detail Splinter Protection Trench",
+      "latitude": 51.021119,
+      "longitude": 11.246849,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76916",
+      "photo_urls": []
+    },
+    {
+      "id": "76920",
+      "title": "Camp Fence and the Watchtowers 3, 4 and 5, April 1945",
+      "latitude": 51.021119,
+      "longitude": 11.246861,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76920",
+      "photo_urls": []
+    },
+    {
+      "id": "76921",
+      "title": "Guard Path of the SS Guard Detail",
+      "latitude": 51.021112,
+      "longitude": 11.246874,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76921",
+      "photo_urls": []
+    },
+    {
+      "id": "76927",
+      "title": "Dog Compound / Hundezwinger",
+      "latitude": 51.020424,
+      "longitude": 11.248988,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76927",
+      "photo_urls": []
+    },
+    {
+      "id": "76929",
+      "title": "SS Guard Detachment Barracks",
+      "latitude": 51.019545,
+      "longitude": 11.248213,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76929",
+      "photo_urls": []
+    },
+    {
+      "id": "76953",
+      "title": "National Buchenwald Memorial",
+      "latitude": 51.010883,
+      "longitude": 11.258994,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76953",
+      "photo_urls": []
+    },
+    {
+      "id": "80867",
+      "title": "Jewish Memorial / Jüdisches Mahnmal",
+      "latitude": 51.023074,
+      "longitude": 11.249198,
+      "directions": "Near Buchenwald, Weimar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80867",
+      "photo_urls": []
+    },
+    {
+      "id": "86568",
+      "title": "Jewish Student Memorial",
+      "latitude": 48.880433,
+      "longitude": 2.345299,
+      "directions": "On Rue Turgot, Paris, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=86568",
+      "photo_urls": []
+    }
+  ]
+}
