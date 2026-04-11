@@ -1,0 +1,3071 @@
+{
+  "region_id": "us-hi",
+  "region_name": "Hawaii",
+  "region_type": "state",
+  "country": "United States",
+  "generated": "2026-04-11T19:15:04.021Z",
+  "source_timestamp": "2026-04-11T19:15:04.021Z",
+  "marker_count": 340,
+  "markers": [
+    {
+      "id": "104768",
+      "title": "Kilauea",
+      "latitude": 19.42952,
+      "longitude": -155.25726,
+      "directions": "On Crater Rim Drive, Volcano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104768",
+      "photo_urls": []
+    },
+    {
+      "id": "104804",
+      "title": "Fall and Rise of the Fleet",
+      "latitude": 21.36732,
+      "longitude": -157.93958,
+      "directions": "On Arizona Memorial Plaza, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104804",
+      "photo_urls": []
+    },
+    {
+      "id": "108940",
+      "title": "Camp Tarawa 1943-1945",
+      "latitude": 20.013088,
+      "longitude": -155.675854,
+      "directions": "On Mamalahoa Highway (State Route 190) , near Waimea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108940",
+      "photo_urls": []
+    },
+    {
+      "id": "108949",
+      "title": "The Hawaiian Cowboys",
+      "latitude": 20.0211,
+      "longitude": -155.6676,
+      "directions": "On Mamalahoa Highway (State Route 19) , Waimea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108949",
+      "photo_urls": []
+    },
+    {
+      "id": "108951",
+      "title": "Kamehameha III",
+      "latitude": 19.917052,
+      "longitude": -155.883,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108951",
+      "photo_urls": []
+    },
+    {
+      "id": "108952",
+      "title": "Kamehameha IV",
+      "latitude": 19.91705,
+      "longitude": -155.883087,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108952",
+      "photo_urls": []
+    },
+    {
+      "id": "108954",
+      "title": "Kamehameha I",
+      "latitude": 19.917052,
+      "longitude": -155.883083,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108954",
+      "photo_urls": []
+    },
+    {
+      "id": "108956",
+      "title": "Kamehameha II",
+      "latitude": 19.917054,
+      "longitude": -155.883086,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108956",
+      "photo_urls": []
+    },
+    {
+      "id": "108957",
+      "title": "Kamehameha V",
+      "latitude": 19.917052,
+      "longitude": -155.8831,
+      "directions": "On Waikoloa Beach Drive, Waikoloa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108957",
+      "photo_urls": []
+    },
+    {
+      "id": "108964",
+      "title": "William Charles Lunalilo",
+      "latitude": 19.917052,
+      "longitude": -155.8832,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108964",
+      "photo_urls": []
+    },
+    {
+      "id": "110292",
+      "title": "Birthplace of Kauikeaouli",
+      "latitude": 19.5616,
+      "longitude": -155.961875,
+      "directions": "On Kaleiopapa Street, Keauhou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110292",
+      "photo_urls": []
+    },
+    {
+      "id": "110296",
+      "title": "Kauikeaouli, Kamehameha III",
+      "latitude": 19.561619,
+      "longitude": -155.961874,
+      "directions": "On Kaleiopapa Street, Keauhou, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110296",
+      "photo_urls": []
+    },
+    {
+      "id": "110300",
+      "title": "Kauikeaouli and N&#257;hi'ena'ena",
+      "latitude": 19.561358,
+      "longitude": -155.961724,
+      "directions": "Near Kaleiopapa Street, Keauhou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110300",
+      "photo_urls": []
+    },
+    {
+      "id": "110302",
+      "title": "The Kamehameha Dynasty",
+      "latitude": 19.561221,
+      "longitude": -155.961724,
+      "directions": "On Kaleiopapa Street, Keauhou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110302",
+      "photo_urls": []
+    },
+    {
+      "id": "110308",
+      "title": "Royal Center at Keauhou Bay",
+      "latitude": 19.560788,
+      "longitude": -155.962033,
+      "directions": "On Kaleiopapa Street, Keauhou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110308",
+      "photo_urls": []
+    },
+    {
+      "id": "110310",
+      "title": "Keauhou Bay",
+      "latitude": 19.561507,
+      "longitude": -155.962133,
+      "directions": "Near Kaleiopapa Street, Keauhou, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110310",
+      "photo_urls": []
+    },
+    {
+      "id": "110324",
+      "title": "Farming the Land, Fishing the Sea",
+      "latitude": 20.1753,
+      "longitude": -155.8976,
+      "directions": "Near Akoni Pule Highway (State Route 270) , Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110324",
+      "photo_urls": []
+    },
+    {
+      "id": "110325",
+      "title": "Clues from the Past... The Archaeology of Lapakahi",
+      "latitude": 20.175272,
+      "longitude": -155.897946,
+      "directions": "Near Akoni Pule Highway (State Route 270) , near Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110325",
+      "photo_urls": []
+    },
+    {
+      "id": "110328",
+      "title": "1st BN., 141st Infantry Regiment",
+      "latitude": 20.230299,
+      "longitude": -155.798384,
+      "directions": "On Akoni Pule Highway (State Route 279) , Kapaau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110328",
+      "photo_urls": []
+    },
+    {
+      "id": "110330",
+      "title": "Pu'ukohl&#257; Heiau",
+      "latitude": 20.027321,
+      "longitude": -155.822106,
+      "directions": "Near Kawaihae Road, near Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110330",
+      "photo_urls": []
+    },
+    {
+      "id": "110367",
+      "title": "Mailekini Heiau",
+      "latitude": 20.027724,
+      "longitude": -155.822437,
+      "directions": "Near Kawaihae Road (State Route 270) , Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110367",
+      "photo_urls": []
+    },
+    {
+      "id": "110369",
+      "title": "Pelekane",
+      "latitude": 20.028049,
+      "longitude": -155.822934,
+      "directions": "Near Kawaihae Road (Route 270) , near Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110369",
+      "photo_urls": []
+    },
+    {
+      "id": "110377",
+      "title": "Hale o Kapuni Heiau",
+      "latitude": 20.027761,
+      "longitude": -155.822833,
+      "directions": "Near Kawaihae Road, near Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110377",
+      "photo_urls": []
+    },
+    {
+      "id": "110378",
+      "title": "Camp Henry C. Drewes",
+      "latitude": 19.9911,
+      "longitude": -155.8245,
+      "directions": "Near Old Puako Road, Waimea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110378",
+      "photo_urls": []
+    },
+    {
+      "id": "110403",
+      "title": "Ancient Foot Trail",
+      "latitude": 19.92255,
+      "longitude": -155.876108,
+      "directions": "On Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110403",
+      "photo_urls": []
+    },
+    {
+      "id": "110407",
+      "title": "Kuhina Nui Ka'ahumanu",
+      "latitude": 19.914116,
+      "longitude": -155.879243,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110407",
+      "photo_urls": []
+    },
+    {
+      "id": "110408",
+      "title": "High Chiefess Ke&#333;p&#363;olani",
+      "latitude": 19.914106,
+      "longitude": -155.879253,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110408",
+      "photo_urls": []
+    },
+    {
+      "id": "110409",
+      "title": "Queen Victoria Kam&#257;malu",
+      "latitude": 19.914126,
+      "longitude": -155.879233,
+      "directions": "On Waikoloa Beach Drive, Waikoloa Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110409",
+      "photo_urls": []
+    },
+    {
+      "id": "110410",
+      "title": "Queen Kalama",
+      "latitude": 19.914146,
+      "longitude": -155.879253,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110410",
+      "photo_urls": []
+    },
+    {
+      "id": "110412",
+      "title": "Queen Emma",
+      "latitude": 19.914021,
+      "longitude": -155.879344,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110412",
+      "photo_urls": []
+    },
+    {
+      "id": "110418",
+      "title": "Queen Kapi'olani",
+      "latitude": 19.91411,
+      "longitude": -155.879354,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110418",
+      "photo_urls": []
+    },
+    {
+      "id": "110419",
+      "title": "Princess Bernice Pauahi",
+      "latitude": 19.914031,
+      "longitude": -155.879364,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110419",
+      "photo_urls": []
+    },
+    {
+      "id": "110420",
+      "title": "Queen Lili'uokalani",
+      "latitude": 19.914041,
+      "longitude": -155.879364,
+      "directions": "Near Waikoloa Beach Drive, Waikoloa Village, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110420",
+      "photo_urls": []
+    },
+    {
+      "id": "110501",
+      "title": "Ala Loa",
+      "latitude": 19.822345,
+      "longitude": -155.997022,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110501",
+      "photo_urls": []
+    },
+    {
+      "id": "110502",
+      "title": "Waiulu K&#299;puka",
+      "latitude": 19.823958,
+      "longitude": -155.997134,
+      "directions": "On Kaupulehu Drive, near Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110502",
+      "photo_urls": []
+    },
+    {
+      "id": "110503",
+      "title": "Waiulu K&#299;puka",
+      "latitude": 19.823958,
+      "longitude": -155.997144,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110503",
+      "photo_urls": []
+    },
+    {
+      "id": "110504",
+      "title": "Habitation Site",
+      "latitude": 19.8244,
+      "longitude": -155.9974,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110504",
+      "photo_urls": []
+    },
+    {
+      "id": "110506",
+      "title": "Hawaiian Trail",
+      "latitude": 19.8264,
+      "longitude": -155.9958,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110506",
+      "photo_urls": []
+    },
+    {
+      "id": "110507",
+      "title": "Kumukea/Kumuk&#275;hu Point",
+      "latitude": 19.826447,
+      "longitude": -155.99567,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110507",
+      "photo_urls": []
+    },
+    {
+      "id": "110582",
+      "title": "Imu Fishing Area",
+      "latitude": 19.826432,
+      "longitude": -155.99561,
+      "directions": "Near Kaupulehu Drive, near Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110582",
+      "photo_urls": []
+    },
+    {
+      "id": "110583",
+      "title": "Kupe'e Concentration",
+      "latitude": 19.826442,
+      "longitude": -155.99571,
+      "directions": "On Kaupulehu Drive, near Kailua-Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110583",
+      "photo_urls": []
+    },
+    {
+      "id": "110585",
+      "title": "Offshore Ko'a Moi",
+      "latitude": 19.826332,
+      "longitude": -155.99561,
+      "directions": "On Kaupulehu Drive, near Kailua-Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110585",
+      "photo_urls": []
+    },
+    {
+      "id": "110586",
+      "title": "Niumalu Beach / Kailua Bay",
+      "latitude": 19.639801,
+      "longitude": -155.9948,
+      "directions": "On Ali&#39;i Drive, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110586",
+      "photo_urls": []
+    },
+    {
+      "id": "110592",
+      "title": "Kamakahonu",
+      "latitude": 19.639916,
+      "longitude": -155.997604,
+      "directions": "Near Palani Road, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110592",
+      "photo_urls": []
+    },
+    {
+      "id": "110665",
+      "title": "Kamakahonu / Kailua Pier",
+      "latitude": 19.639772,
+      "longitude": -155.997806,
+      "directions": "On Kaahumanu Place, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110665",
+      "photo_urls": []
+    },
+    {
+      "id": "110669",
+      "title": "Ahu'ena Heiau",
+      "latitude": 19.639087,
+      "longitude": -155.9977,
+      "directions": "Near Kaahumanu Place, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110669",
+      "photo_urls": []
+    },
+    {
+      "id": "110675",
+      "title": "Kuemanu Heiau",
+      "latitude": 19.581456,
+      "longitude": -155.96705,
+      "directions": "On Ali&#39;i Drive, near Kailua-Kona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110675",
+      "photo_urls": []
+    },
+    {
+      "id": "110787",
+      "title": "Humu'ula Sheep Station",
+      "latitude": 19.6888,
+      "longitude": -155.4665,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (State Route 200) , near Waimea, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110787",
+      "photo_urls": []
+    },
+    {
+      "id": "110790",
+      "title": "Pu'uhuluhulu",
+      "latitude": 19.6888,
+      "longitude": -155.4665,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (Route 200) , near Waimea, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110790",
+      "photo_urls": []
+    },
+    {
+      "id": "110792",
+      "title": "Humu'ula and Kala''i'eh&#257;",
+      "latitude": 19.686766,
+      "longitude": -155.447698,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (Route 200) , near Waimea, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110792",
+      "photo_urls": []
+    },
+    {
+      "id": "110793",
+      "title": "Hilo -- Pu'u'&#333;'&#333; Trail (Ka'&#363;mana Trail)",
+      "latitude": 19.6722,
+      "longitude": -155.3454,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (State Route 200) , near Hilo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110793",
+      "photo_urls": []
+    },
+    {
+      "id": "110794",
+      "title": "First Christian Service in Hawaii",
+      "latitude": 19.4755,
+      "longitude": -155.9196,
+      "directions": "Near Puuhonua Road, Captain Cook, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110794",
+      "photo_urls": []
+    },
+    {
+      "id": "110857",
+      "title": "Pu'u'&#333;'&#333; - Volcano Trail",
+      "latitude": 19.67703,
+      "longitude": -155.384346,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (State Route 200) , near Hilo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110857",
+      "photo_urls": []
+    },
+    {
+      "id": "110859",
+      "title": "Remembrance Bell",
+      "latitude": 19.810536,
+      "longitude": -155.096032,
+      "directions": "Near Old Mamalahoa Highway, near Papaikou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110859",
+      "photo_urls": []
+    },
+    {
+      "id": "110860",
+      "title": "\"KU\" - Hawaiian God",
+      "latitude": 19.809834,
+      "longitude": -155.094434,
+      "directions": "Near Old Mamalahoa Highway, near Papaikou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110860",
+      "photo_urls": []
+    },
+    {
+      "id": "110862",
+      "title": "The Legend of Twin Rocks",
+      "latitude": 19.808468,
+      "longitude": -155.092731,
+      "directions": "Near Old Mamalahoa Highway, near Papaikou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110862",
+      "photo_urls": []
+    },
+    {
+      "id": "110863",
+      "title": "Onomea Bay",
+      "latitude": 19.808197,
+      "longitude": -155.092791,
+      "directions": "Near Old Mamalahoa Highway, near Papaikou, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110863",
+      "photo_urls": []
+    },
+    {
+      "id": "110924",
+      "title": "Waiakea Social Settlement Clock",
+      "latitude": 19.7229,
+      "longitude": -155.0676,
+      "directions": "On Kamehameha Avenue, Hilo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110924",
+      "photo_urls": []
+    },
+    {
+      "id": "110928",
+      "title": "Waiakea Town (Yashijima)",
+      "latitude": 19.7228,
+      "longitude": -155.0675,
+      "directions": "On Kamehameha Avenue, Hilo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110928",
+      "photo_urls": []
+    },
+    {
+      "id": "110970",
+      "title": "Once in their lifetime, silverswords erupt in flowers",
+      "latitude": 19.492655,
+      "longitude": -155.385355,
+      "directions": "On Mauna Loa Road, near Volcano, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110970",
+      "photo_urls": []
+    },
+    {
+      "id": "110973",
+      "title": "Preserved within Pu'uloa are the stories and memories of the Native Hawaiian people",
+      "latitude": 19.289121,
+      "longitude": -155.129711,
+      "directions": "On Chain of Craters Road, near P&#257;hoa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110973",
+      "photo_urls": []
+    },
+    {
+      "id": "110974",
+      "title": "Hawaiians learned to survive on this harsh volcanic land",
+      "latitude": 19.291274,
+      "longitude": -155.125671,
+      "directions": "Near Chain of Craters Road, near P&#257;hoa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110974",
+      "photo_urls": []
+    },
+    {
+      "id": "110976",
+      "title": "The spirit of Pu'uloa now surrounds you",
+      "latitude": 19.292605,
+      "longitude": -155.122251,
+      "directions": "Near Chain of Craters Road, near P&#257;hoa, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110976",
+      "photo_urls": []
+    },
+    {
+      "id": "110978",
+      "title": "These simple impressions embody the essence of Pu'uloa",
+      "latitude": 19.292759,
+      "longitude": -155.121845,
+      "directions": "Near Chain of Craters Road, near P&#257;hoa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110978",
+      "photo_urls": []
+    },
+    {
+      "id": "111010",
+      "title": "Nature's Untamed Forces Unite to Sculpt Sea Arches",
+      "latitude": 19.294713,
+      "longitude": -155.097875,
+      "directions": "On Chain of Craters Road, P&#257;hoa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111010",
+      "photo_urls": []
+    },
+    {
+      "id": "111011",
+      "title": "The islands of Hawai'i begin here",
+      "latitude": 19.2953,
+      "longitude": -155.0978,
+      "directions": "Near Chain of Craters Road, near P&#257;hoa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111011",
+      "photo_urls": []
+    },
+    {
+      "id": "111014",
+      "title": "Mokumanamana is a place of spiritual and geologic transition",
+      "latitude": 19.2954,
+      "longitude": -155.0979,
+      "directions": "Near Chain of Craters Road, near P&#257;hoa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111014",
+      "photo_urls": []
+    },
+    {
+      "id": "111016",
+      "title": "Vast coral reefs create a world of abundance",
+      "latitude": 19.2952,
+      "longitude": -155.0977,
+      "directions": "Near Chain of Craters Road, P&#257;hoa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111016",
+      "photo_urls": []
+    },
+    {
+      "id": "111017",
+      "title": "Mauna Ulu",
+      "latitude": 19.3271,
+      "longitude": -155.1926,
+      "directions": "On Chain of Craters Road, near P&#257;hoa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111017",
+      "photo_urls": []
+    },
+    {
+      "id": "111040",
+      "title": "Mauna Loa",
+      "latitude": 19.4198,
+      "longitude": -155.2882,
+      "directions": "Near Crater Rim Drive, near Volcano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111040",
+      "photo_urls": []
+    },
+    {
+      "id": "111041",
+      "title": "Explosive eruptions rock K&#299;lauea volcano",
+      "latitude": 19.4233,
+      "longitude": -155.2842,
+      "directions": "Near Crater Rim Drive, Volcano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111041",
+      "photo_urls": []
+    },
+    {
+      "id": "111042",
+      "title": "The '&#332;hi'a Wing will soon be home to the park's collection of artwork and artifacts",
+      "latitude": 19.4288,
+      "longitude": -155.2576,
+      "directions": "Near Crater Rim Drive, Mountain View, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111042",
+      "photo_urls": []
+    },
+    {
+      "id": "111114",
+      "title": "The Spiritual Power of Stones",
+      "latitude": 19.724455,
+      "longitude": -155.09055,
+      "directions": "On Waianuenue Avenue (County Route 200) , Hilo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111114",
+      "photo_urls": []
+    },
+    {
+      "id": "111115",
+      "title": "Hilo Town Plantation Bell Tower",
+      "latitude": 19.723637,
+      "longitude": -155.084785,
+      "directions": "On Kamehameha Avenue, Hilo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111115",
+      "photo_urls": []
+    },
+    {
+      "id": "111116",
+      "title": "Lyman House Memorial",
+      "latitude": 19.721911,
+      "longitude": -155.091015,
+      "directions": "On Haili Street, Hilo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111116",
+      "photo_urls": []
+    },
+    {
+      "id": "111117",
+      "title": "The Volcano House reigns as one of America's great lodges",
+      "latitude": 19.428737,
+      "longitude": -155.258051,
+      "directions": "Near Crater Rim Drive, near Volcano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111117",
+      "photo_urls": []
+    },
+    {
+      "id": "111118",
+      "title": "Saddle House - Hale Noho Lio",
+      "latitude": 19.6762,
+      "longitude": -155.3765,
+      "directions": "On Daniel K. Inouye Highway (Saddle Road) (State Route 200) , near Hilo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111118",
+      "photo_urls": []
+    },
+    {
+      "id": "111170",
+      "title": "Amelia Earhart",
+      "latitude": 21.256129,
+      "longitude": -157.804766,
+      "directions": "On Diamond Head Rd, near Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111170",
+      "photo_urls": []
+    },
+    {
+      "id": "111209",
+      "title": "USS <i>Arizona</i> Anchor",
+      "latitude": 21.3677,
+      "longitude": -157.939255,
+      "directions": "Near Arizona Memorial Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111209",
+      "photo_urls": []
+    },
+    {
+      "id": "111210",
+      "title": "The Lone Sailor",
+      "latitude": 21.367663,
+      "longitude": -157.939175,
+      "directions": "Near Arizona Memorial Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111210",
+      "photo_urls": []
+    },
+    {
+      "id": "111233",
+      "title": "Mo'oheau Park and Bandstand",
+      "latitude": 19.724,
+      "longitude": -155.0842,
+      "directions": "On Kamehameha Avenue, Hilo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111233",
+      "photo_urls": []
+    },
+    {
+      "id": "111235",
+      "title": "Kamehameha at Hilo Bay",
+      "latitude": 19.7209,
+      "longitude": -155.0768,
+      "directions": "On Mamalahoa Highway (State Route 19) , Hilo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111235",
+      "photo_urls": []
+    },
+    {
+      "id": "111236",
+      "title": "Hilo Bay: In the days of Kamehameha",
+      "latitude": 19.7208,
+      "longitude": -155.0767,
+      "directions": "On Mamalahoa Highway (State Route 19) , Hilo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111236",
+      "photo_urls": []
+    },
+    {
+      "id": "111324",
+      "title": "Diamond Head Lighthouse",
+      "latitude": 21.25594,
+      "longitude": -157.809398,
+      "directions": "On Diamond Head Rd, near Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111324",
+      "photo_urls": []
+    },
+    {
+      "id": "111326",
+      "title": "Le’Ahi Beach Park",
+      "latitude": 21.256891,
+      "longitude": -157.815167,
+      "directions": "On Diamond Head Rd, near Honolulu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111326",
+      "photo_urls": []
+    },
+    {
+      "id": "111519",
+      "title": "Mission School",
+      "latitude": 21.649381,
+      "longitude": -157.930096,
+      "directions": "On Lanihuli St, Laie, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111519",
+      "photo_urls": []
+    },
+    {
+      "id": "111520",
+      "title": "Breaking Ground with a Vision: An Inspired Beginning",
+      "latitude": 21.643303,
+      "longitude": -157.927141,
+      "directions": "Near Kulanui St, Laie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111520",
+      "photo_urls": []
+    },
+    {
+      "id": "111524",
+      "title": "U.S.S. Arizona Memorial",
+      "latitude": 21.365103,
+      "longitude": -157.95018,
+      "directions": "Near Langley Avenue, near Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111524",
+      "photo_urls": []
+    },
+    {
+      "id": "111672",
+      "title": "United States Marine Corps",
+      "latitude": 21.367957,
+      "longitude": -157.939187,
+      "directions": "Near Arizona Memorial Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111672",
+      "photo_urls": []
+    },
+    {
+      "id": "111762",
+      "title": "Regulus",
+      "latitude": 21.368391,
+      "longitude": -157.938758,
+      "directions": "Near Arizona Memorial Drive, near Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111762",
+      "photo_urls": []
+    },
+    {
+      "id": "111960",
+      "title": "Pohakuloa Amtrac Memorial",
+      "latitude": 21.437796,
+      "longitude": -157.756718,
+      "directions": "On G Street (Intrastate H 3 ), Kailua, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111960",
+      "photo_urls": []
+    },
+    {
+      "id": "111972",
+      "title": "He Ho‘Omana‘o",
+      "latitude": 21.436359,
+      "longitude": -157.756505,
+      "directions": "On G Street (Intrastate H 3 ) John A. Burns Frwy, Kailua, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111972",
+      "photo_urls": []
+    },
+    {
+      "id": "112023",
+      "title": "Millennium Peace Garden",
+      "latitude": 21.267268,
+      "longitude": -157.799746,
+      "directions": "On Diamond Head Rd, near Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112023",
+      "photo_urls": []
+    },
+    {
+      "id": "112231",
+      "title": "The Golden Anchor",
+      "latitude": 21.362797,
+      "longitude": -157.954095,
+      "directions": "On Cowpens St., Honolulu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112231",
+      "photo_urls": []
+    },
+    {
+      "id": "123291",
+      "title": "Ki'ope Pond",
+      "latitude": 19.63898496,
+      "longitude": -155.99413505,
+      "directions": "Near Alii Drive, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123291",
+      "photo_urls": []
+    },
+    {
+      "id": "123293",
+      "title": "Greenwell Store",
+      "latitude": 19.51047402,
+      "longitude": -155.92032379,
+      "directions": "Near Mamalahoa Highway (State Route 11) , Kealakekua, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123293",
+      "photo_urls": []
+    },
+    {
+      "id": "123294",
+      "title": "Marine Life",
+      "latitude": 19.63630121,
+      "longitude": -155.99254031,
+      "directions": "Near Ali&#39;i Drive, Kailua-Kona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123294",
+      "photo_urls": []
+    },
+    {
+      "id": "12764",
+      "title": "Spouting Horn Park",
+      "latitude": 21.88495,
+      "longitude": -159.4938,
+      "directions": "On Lawai Road, near Poipu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12764",
+      "photo_urls": []
+    },
+    {
+      "id": "12778",
+      "title": "Prince K&#363;hi&#333; Birthplace & Park",
+      "latitude": 21.8812,
+      "longitude": -159.4741,
+      "directions": "On Lawai Road, Poipu, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12778",
+      "photo_urls": []
+    },
+    {
+      "id": "12787",
+      "title": "Hanaka‘ape Bay & K&#333;loa Landing",
+      "latitude": 21.879,
+      "longitude": -159.46855,
+      "directions": "On Hoonani Road, Poipu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12787",
+      "photo_urls": []
+    },
+    {
+      "id": "12797",
+      "title": "P&#257;‘&#363; a Laka (Moir Gardens)",
+      "latitude": 21.87666667,
+      "longitude": -159.46,
+      "directions": "Near Hoonani Road, Poipu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12797",
+      "photo_urls": []
+    },
+    {
+      "id": "12803",
+      "title": "Kih&#257;houna Heiau",
+      "latitude": 21.87388889,
+      "longitude": -159.45694444,
+      "directions": "Near Poipu Road, Poipu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12803",
+      "photo_urls": []
+    },
+    {
+      "id": "12805",
+      "title": "Po‘ip&#363; Beach Park",
+      "latitude": 21.87361111,
+      "longitude": -159.45416667,
+      "directions": "On Hoone Road, Poipu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12805",
+      "photo_urls": []
+    },
+    {
+      "id": "12806",
+      "title": "Keoneloa Bay",
+      "latitude": 21.87297,
+      "longitude": -159.44186,
+      "directions": "Near Pe‘e Road, Poipu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12806",
+      "photo_urls": []
+    },
+    {
+      "id": "12807",
+      "title": "Sacred Fishing Grounds",
+      "latitude": 21.8729,
+      "longitude": -159.4418,
+      "directions": "Near Pe‘e Road, Poipu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12807",
+      "photo_urls": []
+    },
+    {
+      "id": "12859",
+      "title": "Makawehi & P&#257;‘&#257; Dunes",
+      "latitude": 21.8748,
+      "longitude": -159.4379,
+      "directions": "Near Ainako Street, Poipu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12859",
+      "photo_urls": []
+    },
+    {
+      "id": "12864",
+      "title": "Pu‘uwanawana Volcanic Cone",
+      "latitude": 21.8816,
+      "longitude": -159.449,
+      "directions": "On Ala Kinolike Highway, near Poipu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12864",
+      "photo_urls": []
+    },
+    {
+      "id": "12866",
+      "title": "Hapa Road",
+      "latitude": 21.87833333,
+      "longitude": -159.4575,
+      "directions": "On Poipu Road, Poipu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=12866",
+      "photo_urls": []
+    },
+    {
+      "id": "129454",
+      "title": "Kauila and the Sea Turtles of Punalu'u",
+      "latitude": 19.1342046,
+      "longitude": -155.5054744,
+      "directions": "Near Ninole Loop Road, Naalehu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129454",
+      "photo_urls": []
+    },
+    {
+      "id": "13007",
+      "title": "K&#333;loa Jodo Mission",
+      "latitude": 21.905,
+      "longitude": -159.4625,
+      "directions": "On Waikomo Road, Koloa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13007",
+      "photo_urls": []
+    },
+    {
+      "id": "13010",
+      "title": "Yamamoto Store & K&#333;loa Hotel",
+      "latitude": 21.90361111,
+      "longitude": -159.46583333,
+      "directions": "On Koloa Road (State Route 530) , Koloa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13010",
+      "photo_urls": []
+    },
+    {
+      "id": "13023",
+      "title": "K&#333;loa Missionary Church",
+      "latitude": 21.90138889,
+      "longitude": -159.46611111,
+      "directions": "On Poipu Road (State Route 520) , Koloa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13023",
+      "photo_urls": []
+    },
+    {
+      "id": "13082",
+      "title": "Rainbow Tower & Hilton Lagoon",
+      "latitude": 21.28194444,
+      "longitude": -157.83861111,
+      "directions": "Near Holomoana Street, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13082",
+      "photo_urls": []
+    },
+    {
+      "id": "13127",
+      "title": "K&#257;lia Bay",
+      "latitude": 21.28361111,
+      "longitude": -157.83911,
+      "directions": "Near Holomoana Street, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13127",
+      "photo_urls": []
+    },
+    {
+      "id": "13188",
+      "title": "Duke Kahanamoku",
+      "latitude": 21.28138889,
+      "longitude": -157.83722222,
+      "directions": "On Paoa Place, Honolulu, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13188",
+      "photo_urls": []
+    },
+    {
+      "id": "13196",
+      "title": "The Ala Wai Canal",
+      "latitude": 21.28916667,
+      "longitude": -157.8351,
+      "directions": "On Kalahaua AVenue, Honolulu, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13196",
+      "photo_urls": []
+    },
+    {
+      "id": "13200",
+      "title": "The Story of K&#257;lia",
+      "latitude": 21.28427,
+      "longitude": -157.83587,
+      "directions": "On Ala Moana Boulevard (State Route 92) , Honolulu, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13200",
+      "photo_urls": []
+    },
+    {
+      "id": "13219",
+      "title": "Fort DeRussy",
+      "latitude": 21.2855,
+      "longitude": -157.8333,
+      "directions": "On Ala Moana Boulevard, Honolulu, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13219",
+      "photo_urls": []
+    },
+    {
+      "id": "13225",
+      "title": "Kawehewehe",
+      "latitude": 21.2775,
+      "longitude": -157.83277778,
+      "directions": "Near Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13225",
+      "photo_urls": []
+    },
+    {
+      "id": "13256",
+      "title": "Kuroda Field",
+      "latitude": 21.28255,
+      "longitude": -157.83385,
+      "directions": "On Kalia Road, Honolulu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13256",
+      "photo_urls": []
+    },
+    {
+      "id": "13485",
+      "title": "Father Damien",
+      "latitude": 21.307644,
+      "longitude": -157.85695,
+      "directions": "On South Beretania Street, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13485",
+      "photo_urls": []
+    },
+    {
+      "id": "13569",
+      "title": "Aliiolani Hale",
+      "latitude": 21.30555556,
+      "longitude": -157.85986,
+      "directions": "On South King Street, Honolulu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13569",
+      "photo_urls": []
+    },
+    {
+      "id": "13581",
+      "title": "<i>King Kamehameha I</i>",
+      "latitude": 21.30575,
+      "longitude": -157.85958,
+      "directions": "On South King Street, Honolulu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13581",
+      "photo_urls": []
+    },
+    {
+      "id": "13586",
+      "title": "King David Kal&#257;kaua",
+      "latitude": 21.28391,
+      "longitude": -157.83166,
+      "directions": "On Kalakalua Avenue, Waikiki, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13586",
+      "photo_urls": []
+    },
+    {
+      "id": "13788",
+      "title": "King William Charles Lunalilo",
+      "latitude": 21.30472222,
+      "longitude": -157.85822,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13788",
+      "photo_urls": []
+    },
+    {
+      "id": "13800",
+      "title": "Hiram Bingham",
+      "latitude": 21.30454,
+      "longitude": -157.85789,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13800",
+      "photo_urls": []
+    },
+    {
+      "id": "13809",
+      "title": "Kawaiaha‘o Landmark",
+      "latitude": 21.3048,
+      "longitude": -157.85805556,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=13809",
+      "photo_urls": []
+    },
+    {
+      "id": "143290",
+      "title": "U.S.S. Arizona",
+      "latitude": 21.365759,
+      "longitude": -157.951013,
+      "directions": "On Langley Avenue, Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143290",
+      "photo_urls": []
+    },
+    {
+      "id": "154431",
+      "title": "Opana Radar Site",
+      "latitude": 21.704422,
+      "longitude": -157.998754,
+      "directions": "Near Kuilima Drive, near Kahuku, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=154431",
+      "photo_urls": []
+    },
+    {
+      "id": "154432",
+      "title": "Opana Radar Site",
+      "latitude": 21.704424,
+      "longitude": -157.998736,
+      "directions": "Near Kuilima Drive, Kahuku, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=154432",
+      "photo_urls": []
+    },
+    {
+      "id": "156376",
+      "title": "Nuuanu Pali Lookout",
+      "latitude": 21.367124,
+      "longitude": -157.792982,
+      "directions": "On Nuuanu Pali Drive, Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=156376",
+      "photo_urls": []
+    },
+    {
+      "id": "172848",
+      "title": "Birthplace of Kauikeaouli, Kamehameha III",
+      "latitude": 19.5616,
+      "longitude": -155.96186667,
+      "directions": "Near Kaleiopapa Street, Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=172848",
+      "photo_urls": []
+    },
+    {
+      "id": "172849",
+      "title": "Pu'ukohol&#257; Heiau",
+      "latitude": 20.02680853,
+      "longitude": -155.82239138,
+      "directions": "Near Spencer Beach Park Road, Waimea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=172849",
+      "photo_urls": []
+    },
+    {
+      "id": "184696",
+      "title": "St. Philomena Church and Cemetery",
+      "latitude": 21.177021,
+      "longitude": -156.948285,
+      "directions": "Near Damien Road, Kalawao, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184696",
+      "photo_urls": []
+    },
+    {
+      "id": "184697",
+      "title": "The Baldwin Home",
+      "latitude": 21.17694898,
+      "longitude": -156.94843604,
+      "directions": "On Damien Road, Kalawao, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184697",
+      "photo_urls": []
+    },
+    {
+      "id": "18760",
+      "title": "Koloa, Birthplace of the Hawaiian Sugar Industry",
+      "latitude": 21.90444444,
+      "longitude": -159.46555556,
+      "directions": "On Maluhia Road (State Route 520) , Koloa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=18760",
+      "photo_urls": []
+    },
+    {
+      "id": "190118",
+      "title": "Mokuaikaua Church",
+      "latitude": 19.6397,
+      "longitude": -155.99376667,
+      "directions": "Near Ali‘i Drive, Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190118",
+      "photo_urls": []
+    },
+    {
+      "id": "190119",
+      "title": "Hula Kahiko",
+      "latitude": 19.7353376,
+      "longitude": -156.04132164,
+      "directions": "Near Kupipi Street, Kailua-Kona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190119",
+      "photo_urls": []
+    },
+    {
+      "id": "190121",
+      "title": "The Lei Makers",
+      "latitude": 19.73711667,
+      "longitude": -156.04135,
+      "directions": "Near Kupipi Street, Kailua-Kona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190121",
+      "photo_urls": []
+    },
+    {
+      "id": "190122",
+      "title": "Stephen Tyng Mather",
+      "latitude": 19.42946487,
+      "longitude": -155.25707138,
+      "directions": "Near Crater Rim Drive, near Volcano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190122",
+      "photo_urls": []
+    },
+    {
+      "id": "190123",
+      "title": "Waiomina Centennial",
+      "latitude": 20.02205,
+      "longitude": -155.66698333,
+      "directions": "On Hawai&#39;i Belt Road (State Route 19) , Waimea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190123",
+      "photo_urls": []
+    },
+    {
+      "id": "19077",
+      "title": "Rainbow Mural",
+      "latitude": 21.283516,
+      "longitude": -157.838,
+      "directions": "Near Ala Moana Boulevard (State Route 92) , Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=19077",
+      "photo_urls": []
+    },
+    {
+      "id": "226784",
+      "title": "Bombers Over Battleship Row",
+      "latitude": 21.36711,
+      "longitude": -157.93981,
+      "directions": "Near Arizona Memorial Place, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226784",
+      "photo_urls": []
+    },
+    {
+      "id": "2314",
+      "title": "South Point Complex",
+      "latitude": 18.92086667,
+      "longitude": -155.67196667,
+      "directions": "On South Point Road, near Naalehu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=2314",
+      "photo_urls": []
+    },
+    {
+      "id": "235476",
+      "title": "Hawaii Volcanoes National Park",
+      "latitude": 19.42946667,
+      "longitude": -155.25706667,
+      "directions": "On Crater Rim Drive, near Volcano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235476",
+      "photo_urls": []
+    },
+    {
+      "id": "247319",
+      "title": "Captain Robert Brown",
+      "latitude": 19.05856671,
+      "longitude": -155.6845833,
+      "directions": "On Mamalahoa Highway, near Ocean View, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247319",
+      "photo_urls": []
+    },
+    {
+      "id": "26233",
+      "title": "The \"Firepit\" of Halema'uma'u",
+      "latitude": 19.402933,
+      "longitude": -155.281255,
+      "directions": "Near Crater Rim Road, near Volcano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26233",
+      "photo_urls": []
+    },
+    {
+      "id": "26939",
+      "title": "“Brothers in Valor” Memorial",
+      "latitude": 21.28266,
+      "longitude": -157.83165,
+      "directions": "On Kalakaua Avenue, Waikiki, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26939",
+      "photo_urls": []
+    },
+    {
+      "id": "27062",
+      "title": "Hanalei Schoolhouse",
+      "latitude": 22.2027329,
+      "longitude": -159.4960248,
+      "directions": "On Kuhio Highway, Hanalei, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27062",
+      "photo_urls": []
+    },
+    {
+      "id": "274612",
+      "title": "Maui Nisei Veteran KIAs",
+      "latitude": 20.9012795,
+      "longitude": -156.48258948,
+      "directions": "Near Kahului Beach Road (State Route 3400) , Wailuku, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274612",
+      "photo_urls": []
+    },
+    {
+      "id": "27646",
+      "title": "Menehune Ditch",
+      "latitude": 21.96973,
+      "longitude": -159.65663,
+      "directions": "On Menehune Road, Waimea, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27646",
+      "photo_urls": []
+    },
+    {
+      "id": "276610",
+      "title": "Fred Baldwin Memorial Home",
+      "latitude": 20.88690312,
+      "longitude": -156.34541029,
+      "directions": "Near Baldwin Avenue, Makawao, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276610",
+      "photo_urls": []
+    },
+    {
+      "id": "290068",
+      "title": "Lahaina Court and Custom House",
+      "latitude": 20.87186069,
+      "longitude": -156.67801292,
+      "directions": "On Wharf Street, Lahaina, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290068",
+      "photo_urls": []
+    },
+    {
+      "id": "290069",
+      "title": "Hauola Stone (Pohaku O Hauola)",
+      "latitude": 20.87263336,
+      "longitude": -156.67880501,
+      "directions": "Near Wharf Street, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290069",
+      "photo_urls": []
+    },
+    {
+      "id": "290070",
+      "title": "Kalaupapa",
+      "latitude": 21.17699444,
+      "longitude": -157.00500142,
+      "directions": "On Kalae Highway (County Route 470) , Ho&#39;olehua, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290070",
+      "photo_urls": []
+    },
+    {
+      "id": "290073",
+      "title": "Niihau",
+      "latitude": 22.10885656,
+      "longitude": -159.6693787,
+      "directions": "Near Kokee Road, Waimea, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290073",
+      "photo_urls": []
+    },
+    {
+      "id": "290106",
+      "title": "Sun Yat-sen Memorial",
+      "latitude": 21.33130452,
+      "longitude": -157.92017705,
+      "directions": "Near Rodgers Boulevard, Honolulu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290106",
+      "photo_urls": []
+    },
+    {
+      "id": "290120",
+      "title": "The Stones of Moemoe and Wahine O Manua",
+      "latitude": 20.92531935,
+      "longitude": -156.69100891,
+      "directions": "On Kekaa Drive, Kaanapali, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290120",
+      "photo_urls": []
+    },
+    {
+      "id": "290122",
+      "title": "Keka'a Landing Pier",
+      "latitude": 20.92852303,
+      "longitude": -156.69481692,
+      "directions": "Near Kaanapali Parkway, Lahaina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290122",
+      "photo_urls": []
+    },
+    {
+      "id": "290124",
+      "title": "Koko O Na Moku Race Track",
+      "latitude": 20.92097122,
+      "longitude": -156.69589701,
+      "directions": "Near K&#257;&#39;anapali Beachwalk, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290124",
+      "photo_urls": []
+    },
+    {
+      "id": "290125",
+      "title": "Pu'u Keka'a and Chief Kahekili",
+      "latitude": 20.92507568,
+      "longitude": -156.69492966,
+      "directions": "On K&#257;&#39;anapali Beachwalk, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290125",
+      "photo_urls": []
+    },
+    {
+      "id": "290127",
+      "title": "Behold, Hawai'i",
+      "latitude": 20.75936312,
+      "longitude": -156.24679608,
+      "directions": "Near Haleakala Highway, Kula, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290127",
+      "photo_urls": []
+    },
+    {
+      "id": "290129",
+      "title": "Guardian of Sea-Going People",
+      "latitude": 20.79213281,
+      "longitude": -156.51178862,
+      "directions": "On Maalaea Road, Wailuku, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290129",
+      "photo_urls": []
+    },
+    {
+      "id": "290130",
+      "title": "The Mahele - One Family's Story",
+      "latitude": 20.66283729,
+      "longitude": -156.04384276,
+      "directions": "On Kuloa Point Loop Trail, Hana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290130",
+      "photo_urls": []
+    },
+    {
+      "id": "290132",
+      "title": "The Mahele",
+      "latitude": 20.66312724,
+      "longitude": -156.04377373,
+      "directions": "On Kuloa Point Loop Trail, Hana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290132",
+      "photo_urls": []
+    },
+    {
+      "id": "290142",
+      "title": "Ola I Ka Wai O Ka 'Opua or There is Life in the Water From the Clouds",
+      "latitude": 20.66235102,
+      "longitude": -156.04171752,
+      "directions": "On Kuloa Point Loop Trail, Hana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290142",
+      "photo_urls": []
+    },
+    {
+      "id": "290154",
+      "title": "Kai uli, The Deep Blue Sea",
+      "latitude": 20.66219512,
+      "longitude": -156.04181454,
+      "directions": "On Kuloa Point Loop Trail, Hana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290154",
+      "photo_urls": []
+    },
+    {
+      "id": "290250",
+      "title": "Old Police Station 1930",
+      "latitude": 21.30965715,
+      "longitude": -157.86355349,
+      "directions": "On Bethel Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290250",
+      "photo_urls": []
+    },
+    {
+      "id": "290260",
+      "title": "Mother Marianne Cope's Grave & Monument",
+      "latitude": 21.18817943,
+      "longitude": -156.98284025,
+      "directions": "On Bishop Road, Kalaupapa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290260",
+      "photo_urls": []
+    },
+    {
+      "id": "290276",
+      "title": "Imiola Congregational Church",
+      "latitude": 20.02572753,
+      "longitude": -155.66306573,
+      "directions": "On Church Road, Waimea, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290276",
+      "photo_urls": []
+    },
+    {
+      "id": "290277",
+      "title": "Kamehameha I",
+      "latitude": 20.23043732,
+      "longitude": -155.79852213,
+      "directions": "On Hawi-Niulii Road, Kapaau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290277",
+      "photo_urls": []
+    },
+    {
+      "id": "290284",
+      "title": "Kamehameha I",
+      "latitude": 20.23027794,
+      "longitude": -155.79831946,
+      "directions": "On Hawi-Niulii Road, Kapaau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290284",
+      "photo_urls": []
+    },
+    {
+      "id": "290326",
+      "title": "Hawaii Theatre 1922",
+      "latitude": 21.31102825,
+      "longitude": -157.86106311,
+      "directions": "On South Pauahi Street, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290326",
+      "photo_urls": []
+    },
+    {
+      "id": "290329",
+      "title": "Kamehameha V Post Office 1870",
+      "latitude": 21.30966282,
+      "longitude": -157.86321469,
+      "directions": "On Bethel Street, Honolulu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290329",
+      "photo_urls": []
+    },
+    {
+      "id": "290359",
+      "title": "Kalaupapa Overlook",
+      "latitude": 21.17555064,
+      "longitude": -157.00515363,
+      "directions": "On Kalae Highway (State Route 470) , Ho&#39;olehua, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290359",
+      "photo_urls": []
+    },
+    {
+      "id": "291259",
+      "title": "U.S.S. Missouri",
+      "latitude": 21.36230851,
+      "longitude": -157.95317273,
+      "directions": "Near Cowpens Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291259",
+      "photo_urls": []
+    },
+    {
+      "id": "291741",
+      "title": "Restoring the Hala Forest",
+      "latitude": 20.66201083,
+      "longitude": -156.04311772,
+      "directions": "Near Kuloa Point Loop Trail, Hana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291741",
+      "photo_urls": []
+    },
+    {
+      "id": "291750",
+      "title": "He Huliau ma Kipahulu or Change in Kipahulu",
+      "latitude": 20.66221003,
+      "longitude": -156.0436518,
+      "directions": "On Kuloa Point Loop Trail, Hana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291750",
+      "photo_urls": []
+    },
+    {
+      "id": "291751",
+      "title": "Hale Halawai - A House for Meeting, Eating, and Exchanging",
+      "latitude": 20.66241799,
+      "longitude": -156.04458144,
+      "directions": "Near Pipiwai Trail, Hana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291751",
+      "photo_urls": []
+    },
+    {
+      "id": "292184",
+      "title": "Capt. James Cook",
+      "latitude": 21.30613351,
+      "longitude": -157.85801209,
+      "directions": "Near Lifelike Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292184",
+      "photo_urls": []
+    },
+    {
+      "id": "292202",
+      "title": "Paepae Kapu o Liloa or The sacred threshold of Liloa",
+      "latitude": 21.30614973,
+      "longitude": -157.85803321,
+      "directions": "Near Likelike Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292202",
+      "photo_urls": []
+    },
+    {
+      "id": "292203",
+      "title": "Site of the First Royal Mausoleum and Crypt",
+      "latitude": 21.30586811,
+      "longitude": -157.85850829,
+      "directions": "Near South King Street, Honolulu, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292203",
+      "photo_urls": []
+    },
+    {
+      "id": "292204",
+      "title": "Multiple All Up Round Canister (MAC)",
+      "latitude": 21.36893433,
+      "longitude": -157.93836412,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292204",
+      "photo_urls": []
+    },
+    {
+      "id": "292205",
+      "title": "Submarine Rocket (SUBROC)",
+      "latitude": 21.3688766,
+      "longitude": -157.93845795,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292205",
+      "photo_urls": []
+    },
+    {
+      "id": "292207",
+      "title": "Mark 45 Nuclear Capable Torpedo",
+      "latitude": 21.3688847,
+      "longitude": -157.93849709,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292207",
+      "photo_urls": []
+    },
+    {
+      "id": "292208",
+      "title": "Mark 37 Electric Torpedo",
+      "latitude": 21.36889695,
+      "longitude": -157.9385556,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292208",
+      "photo_urls": []
+    },
+    {
+      "id": "292209",
+      "title": "Mark 27 Torpedo",
+      "latitude": 21.36890581,
+      "longitude": -157.93859686,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292209",
+      "photo_urls": []
+    },
+    {
+      "id": "292210",
+      "title": "A Desperate Measure",
+      "latitude": 21.36897171,
+      "longitude": -157.93857651,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292210",
+      "photo_urls": []
+    },
+    {
+      "id": "292211",
+      "title": "Top Secret Kaiten: Suicide Weapon",
+      "latitude": 21.36894697,
+      "longitude": -157.93852079,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292211",
+      "photo_urls": []
+    },
+    {
+      "id": "292212",
+      "title": "Bofors 40MM Quad Gun",
+      "latitude": 21.3690915,
+      "longitude": -157.93865687,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292212",
+      "photo_urls": []
+    },
+    {
+      "id": "292213",
+      "title": "Submarine Rescue Chamber (SRC)",
+      "latitude": 21.36906559,
+      "longitude": -157.93859088,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292213",
+      "photo_urls": []
+    },
+    {
+      "id": "292215",
+      "title": "40 MM Quad Gun Assembly",
+      "latitude": 21.3689,
+      "longitude": -157.9383,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292215",
+      "photo_urls": []
+    },
+    {
+      "id": "292233",
+      "title": "Inside a Kaiten",
+      "latitude": 21.36896996,
+      "longitude": -157.9385198,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292233",
+      "photo_urls": []
+    },
+    {
+      "id": "292235",
+      "title": "Kaiten",
+      "latitude": 21.3689,
+      "longitude": -157.9385,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292235",
+      "photo_urls": []
+    },
+    {
+      "id": "292238",
+      "title": "USS Parche",
+      "latitude": 21.36891109,
+      "longitude": -157.93862845,
+      "directions": "Near Arizona Memorial Rd, near Aiea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292238",
+      "photo_urls": []
+    },
+    {
+      "id": "292240",
+      "title": "Mark 14 Steam-Driven Torpedo",
+      "latitude": 21.3686,
+      "longitude": -157.9388,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292240",
+      "photo_urls": []
+    },
+    {
+      "id": "292241",
+      "title": "Mark 14 Torpedo",
+      "latitude": 21.36868868,
+      "longitude": -157.93891707,
+      "directions": "Near Arizona Memorial Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292241",
+      "photo_urls": []
+    },
+    {
+      "id": "292247",
+      "title": "Harpoon Missile",
+      "latitude": 21.36917746,
+      "longitude": -157.93878672,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292247",
+      "photo_urls": []
+    },
+    {
+      "id": "292248",
+      "title": "Submarine Propeller USS <i>Darter</i> (SS-576)",
+      "latitude": 21.36904058,
+      "longitude": -157.9387813,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292248",
+      "photo_urls": []
+    },
+    {
+      "id": "292251",
+      "title": "Tomahawk Land Attack Missile (TLAM)",
+      "latitude": 21.36900545,
+      "longitude": -157.93883149,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292251",
+      "photo_urls": []
+    },
+    {
+      "id": "292255",
+      "title": "Harpoon Capsule",
+      "latitude": 21.36900014,
+      "longitude": -157.93886091,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292255",
+      "photo_urls": []
+    },
+    {
+      "id": "292256",
+      "title": "3\"/50 Deck Gun",
+      "latitude": 21.36895235,
+      "longitude": -157.93884802,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292256",
+      "photo_urls": []
+    },
+    {
+      "id": "292259",
+      "title": "Mark 14 Torpedo",
+      "latitude": 21.36881054,
+      "longitude": -157.93875152,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292259",
+      "photo_urls": []
+    },
+    {
+      "id": "292260",
+      "title": "Mark 14: Early Failures",
+      "latitude": 21.36889384,
+      "longitude": -157.93871907,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292260",
+      "photo_urls": []
+    },
+    {
+      "id": "292318",
+      "title": "Battle Stations Surface! 31 July 1944",
+      "latitude": 21.36895336,
+      "longitude": -157.93870975,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292318",
+      "photo_urls": []
+    },
+    {
+      "id": "292319",
+      "title": "A Legacy of Service",
+      "latitude": 21.36877088,
+      "longitude": -157.93878089,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292319",
+      "photo_urls": []
+    },
+    {
+      "id": "292322",
+      "title": "MK 14 Exercise Torpedo",
+      "latitude": 21.36877712,
+      "longitude": -157.93869869,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292322",
+      "photo_urls": []
+    },
+    {
+      "id": "292323",
+      "title": "USS <i>Bowfin</i> (SS-287) WWII Fleet Submarine",
+      "latitude": 21.36866645,
+      "longitude": -157.93881237,
+      "directions": "Near Arizona Memorial Road, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292323",
+      "photo_urls": []
+    },
+    {
+      "id": "292326",
+      "title": "Regulus Cruise Missile",
+      "latitude": 21.36837865,
+      "longitude": -157.93876342,
+      "directions": "Near Arizona Memorial Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292326",
+      "photo_urls": []
+    },
+    {
+      "id": "292328",
+      "title": "Mark 37 Electric Torpedo",
+      "latitude": 21.3683,
+      "longitude": -157.9388,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292328",
+      "photo_urls": []
+    },
+    {
+      "id": "292342",
+      "title": "USS Scamp (SS-277)",
+      "latitude": 21.36826217,
+      "longitude": -157.93909318,
+      "directions": "Near Arizona Memorial Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292342",
+      "photo_urls": []
+    },
+    {
+      "id": "292356",
+      "title": "Waterfront Memorial",
+      "latitude": 21.36832594,
+      "longitude": -157.93895626,
+      "directions": "Near Arizona Memorial Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292356",
+      "photo_urls": []
+    },
+    {
+      "id": "292632",
+      "title": "The 1967 Kipahulu Expedition",
+      "latitude": 20.66186927,
+      "longitude": -156.04456574,
+      "directions": "Near Kuloa Point Loop Trail, Hana, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292632",
+      "photo_urls": []
+    },
+    {
+      "id": "292633",
+      "title": "'Ike Aku, 'Ike Mai, Kokua Aku, Kokua Mai, Pela Ka Nohona 'Ohana",
+      "latitude": 20.66178513,
+      "longitude": -156.04464702,
+      "directions": "Near Kuloa Point Loop Trail, Hana, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292633",
+      "photo_urls": []
+    },
+    {
+      "id": "292635",
+      "title": "<i>Ma Ka Hana Ka 'Ike</i> / Insight Through Experience",
+      "latitude": 20.66176858,
+      "longitude": -156.04470564,
+      "directions": "Near Kuloa Point Loop Trail, Hana, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292635",
+      "photo_urls": []
+    },
+    {
+      "id": "292636",
+      "title": "Wahi Kapu (Sacred Place) - Mokae Cove - Hamoa Beach",
+      "latitude": 20.71999406,
+      "longitude": -155.98704979,
+      "directions": "Near Haneoo Road, Hana, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292636",
+      "photo_urls": []
+    },
+    {
+      "id": "292637",
+      "title": "In Memoriam",
+      "latitude": 20.75509404,
+      "longitude": -155.98335866,
+      "directions": "On Keawa Place, Hana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292637",
+      "photo_urls": []
+    },
+    {
+      "id": "292638",
+      "title": "Queen Ka'Ahumanu",
+      "latitude": 20.75509365,
+      "longitude": -155.98333612,
+      "directions": "On Keawa Place, Hana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292638",
+      "photo_urls": []
+    },
+    {
+      "id": "292719",
+      "title": "On Foot...By Horse... ...Then Carriages and Cars",
+      "latitude": 20.79175299,
+      "longitude": -156.56386978,
+      "directions": "Near Lahaina Pali Trail - eastern half, Wailuku, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292719",
+      "photo_urls": []
+    },
+    {
+      "id": "292720",
+      "title": "Welcome to the Lahaina Pali Trail",
+      "latitude": 20.79175556,
+      "longitude": -156.56387167,
+      "directions": "Near Lahaina Pali Trail - eastern half, Wailuku, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292720",
+      "photo_urls": []
+    },
+    {
+      "id": "292722",
+      "title": "Portuguese Exhibit",
+      "latitude": 20.88330906,
+      "longitude": -156.53521341,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292722",
+      "photo_urls": []
+    },
+    {
+      "id": "292723",
+      "title": "History of African Americans in Hawai'i",
+      "latitude": 20.88272313,
+      "longitude": -156.53480907,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292723",
+      "photo_urls": []
+    },
+    {
+      "id": "292724",
+      "title": "726 Fraternal Association, Inc.",
+      "latitude": 20.88271165,
+      "longitude": -156.53486922,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292724",
+      "photo_urls": []
+    },
+    {
+      "id": "292725",
+      "title": "New England Exhibit",
+      "latitude": 20.88282943,
+      "longitude": -156.53489356,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292725",
+      "photo_urls": []
+    },
+    {
+      "id": "292726",
+      "title": "Korean Emigrants",
+      "latitude": 20.88311386,
+      "longitude": -156.53533143,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292726",
+      "photo_urls": []
+    },
+    {
+      "id": "292727",
+      "title": "In Commeration of the Arrival of the First Japanese Immigrants to Hawai'i",
+      "latitude": 20.88319667,
+      "longitude": -156.53579361,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292727",
+      "photo_urls": []
+    },
+    {
+      "id": "292728",
+      "title": "Dedicated to the victims of the March 11, 2011 earthquake and tsunami in Japan",
+      "latitude": 20.88312222,
+      "longitude": -156.53619444,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292728",
+      "photo_urls": []
+    },
+    {
+      "id": "292742",
+      "title": "Japanese Exhibit",
+      "latitude": 20.88339579,
+      "longitude": -156.53553259,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292742",
+      "photo_urls": []
+    },
+    {
+      "id": "292743",
+      "title": "Japanese Immigrants",
+      "latitude": 20.88341584,
+      "longitude": -156.53598361,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292743",
+      "photo_urls": []
+    },
+    {
+      "id": "292744",
+      "title": "Japanese Centennial Monument",
+      "latitude": 20.88338953,
+      "longitude": -156.53605696,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292744",
+      "photo_urls": []
+    },
+    {
+      "id": "292745",
+      "title": "Kapaniwai Chinese Heritage Garden / Sun Yat Sen Bronze Statue",
+      "latitude": 20.88343087,
+      "longitude": -156.5359425,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292745",
+      "photo_urls": []
+    },
+    {
+      "id": "292746",
+      "title": "Early Chinese Immigration to Tan Heong Shan: The Sandalwood Mountains",
+      "latitude": 20.88334801,
+      "longitude": -156.53583397,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292746",
+      "photo_urls": []
+    },
+    {
+      "id": "292747",
+      "title": "Sun of Maui",
+      "latitude": 20.88335765,
+      "longitude": -156.5358382,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292747",
+      "photo_urls": []
+    },
+    {
+      "id": "292749",
+      "title": "Chinese Exhibit",
+      "latitude": 20.88338554,
+      "longitude": -156.5356898,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292749",
+      "photo_urls": []
+    },
+    {
+      "id": "292750",
+      "title": "In Commemmoration of the 200 Years Since the First Arrival of the Chinese in Hawaii",
+      "latitude": 20.8833369,
+      "longitude": -156.5357123,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292750",
+      "photo_urls": []
+    },
+    {
+      "id": "292751",
+      "title": "Arrival of Puerto Ricans in Hawaii",
+      "latitude": 20.88309198,
+      "longitude": -156.53571408,
+      "directions": "Near Iao Valley Road, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292751",
+      "photo_urls": []
+    },
+    {
+      "id": "292777",
+      "title": "K&#363;ka'emoku - '&#298;ao Needle",
+      "latitude": 20.8805126,
+      "longitude": -156.54676434,
+      "directions": "Near &#39;Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292777",
+      "photo_urls": []
+    },
+    {
+      "id": "292778",
+      "title": "N&#257; Wai 'Eh&#257; - The Four Waters of Maui",
+      "latitude": 20.88044437,
+      "longitude": -156.54656988,
+      "directions": "Near &#39;Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292778",
+      "photo_urls": []
+    },
+    {
+      "id": "292779",
+      "title": "Battle of Kepaniwai - Uniting the Islands",
+      "latitude": 20.8802031,
+      "longitude": -156.54636335,
+      "directions": "Near Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292779",
+      "photo_urls": []
+    },
+    {
+      "id": "292780",
+      "title": "L&#257;'au - The Plants of 'I&#772;ao",
+      "latitude": 20.88064793,
+      "longitude": -156.54620242,
+      "directions": "On Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292780",
+      "photo_urls": []
+    },
+    {
+      "id": "292781",
+      "title": "Wahi Pana o Na&#772; Ali'i (Sacred Place of the Chiefs)",
+      "latitude": 20.88068426,
+      "longitude": -156.54553187,
+      "directions": "On Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292781",
+      "photo_urls": []
+    },
+    {
+      "id": "292782",
+      "title": "Ka 'Ikena o 'I&#772;ao - Sites of 'I&#772;ao",
+      "latitude": 20.88068855,
+      "longitude": -156.54553252,
+      "directions": "On Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292782",
+      "photo_urls": []
+    },
+    {
+      "id": "292783",
+      "title": "Ka Wai Ola O Ka&#772;ne (The Living Waters of Ka&#772;ne)",
+      "latitude": 20.88069039,
+      "longitude": -156.54553125,
+      "directions": "Near Iao Needle Lookout Trail and Ethnobotanical Loop, Wailuku, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292783",
+      "photo_urls": []
+    },
+    {
+      "id": "292784",
+      "title": "St. Anthony Church Catholic Cemetery",
+      "latitude": 20.89112601,
+      "longitude": -156.49603082,
+      "directions": "On Lower Main Street, Wailuku, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292784",
+      "photo_urls": []
+    },
+    {
+      "id": "292785",
+      "title": "Cook Pine Trees",
+      "latitude": 20.99846845,
+      "longitude": -156.65795082,
+      "directions": "On Pineapple Drive, Lahaina, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292785",
+      "photo_urls": []
+    },
+    {
+      "id": "292787",
+      "title": "D.T. Fleming Aloe Patch",
+      "latitude": 20.99890506,
+      "longitude": -156.66362885,
+      "directions": "On Kapalua Drive, Lahaina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292787",
+      "photo_urls": []
+    },
+    {
+      "id": "2980",
+      "title": "Site of Hawaiian Volcano Observatory",
+      "latitude": 19.42911667,
+      "longitude": -155.25828333,
+      "directions": "Near Crater Belt Road, Volcano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=2980",
+      "photo_urls": []
+    },
+    {
+      "id": "2981",
+      "title": "Pu‘uhona O H&#333;naunau - Place of Refuge",
+      "latitude": 19.42168333,
+      "longitude": -155.91083333,
+      "directions": "Near Route 160, Honaunau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=2981",
+      "photo_urls": []
+    },
+    {
+      "id": "302",
+      "title": "Hulihe‘e Palace",
+      "latitude": 19.63891667,
+      "longitude": -155.9939,
+      "directions": "On Alii Drive, Kailua-Kona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302",
+      "photo_urls": []
+    },
+    {
+      "id": "3029",
+      "title": "Puak&#333; Petroglyph Archaeological District",
+      "latitude": 19.95513333,
+      "longitude": -155.85921667,
+      "directions": "On Holoholokai Beach Park Road, Waikoloa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=3029",
+      "photo_urls": []
+    },
+    {
+      "id": "31540",
+      "title": "K&#363;ka‘emoku",
+      "latitude": 20.8807,
+      "longitude": -156.54531,
+      "directions": "Near Iao Valley Road (State Route 32) , Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31540",
+      "photo_urls": []
+    },
+    {
+      "id": "39305",
+      "title": "Inikiwai Ku'ula Heiau",
+      "latitude": 19.570887,
+      "longitude": -155.967042,
+      "directions": "Near Alii Drive, Keauhou, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39305",
+      "photo_urls": []
+    },
+    {
+      "id": "39409",
+      "title": "Lonoikamakahiki Residence",
+      "latitude": 19.572828,
+      "longitude": -155.96687,
+      "directions": "Near Alii Drive, Keauhou, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39409",
+      "photo_urls": []
+    },
+    {
+      "id": "39410",
+      "title": "Hale Mua",
+      "latitude": 19.573293,
+      "longitude": -155.967321,
+      "directions": "Near Alii Drive, Keauhou, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39410",
+      "photo_urls": []
+    },
+    {
+      "id": "39424",
+      "title": "Hulihe‘e Palace / Moku‘aikaua Church",
+      "latitude": 19.639553,
+      "longitude": -155.993993,
+      "directions": "On Alii Drive, Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39424",
+      "photo_urls": []
+    },
+    {
+      "id": "39438",
+      "title": "Keauhou - Kahalu‘u Heritage Corridor",
+      "latitude": 19.569038,
+      "longitude": -155.962472,
+      "directions": "On Alii Drive, Keauhou, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39438",
+      "photo_urls": []
+    },
+    {
+      "id": "39440",
+      "title": "The First Hawaiian Christian",
+      "latitude": 19.639545,
+      "longitude": -155.993994,
+      "directions": "On Alii Drive, Kailua-Kona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=39440",
+      "photo_urls": []
+    },
+    {
+      "id": "40423",
+      "title": "Roxy Theater",
+      "latitude": 22.07537235,
+      "longitude": -159.3188595,
+      "directions": "On Kuhio Highway, Kapaa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40423",
+      "photo_urls": []
+    },
+    {
+      "id": "40453",
+      "title": "Albert S. Morgan Sr.'s Lydgate Pools",
+      "latitude": 22.0411119,
+      "longitude": -159.3352076,
+      "directions": "Near Nalu Road, Wailua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40453",
+      "photo_urls": []
+    },
+    {
+      "id": "4247",
+      "title": "The Waikoloa Petroglyph Field",
+      "latitude": 19.91768333,
+      "longitude": -155.87948333,
+      "directions": "On King&#39;s Trail, Waikoloa Village, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=4247",
+      "photo_urls": []
+    },
+    {
+      "id": "4248",
+      "title": "Honokohau Settlement",
+      "latitude": 19.66995,
+      "longitude": -156.01833333,
+      "directions": "On Kealakehe Parkway, Kailua-Kona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=4248",
+      "photo_urls": []
+    },
+    {
+      "id": "4504",
+      "title": "The Honolulu Memorial at the National Memorial Cemetery of the Pacific",
+      "latitude": 21.313499,
+      "longitude": -157.847314,
+      "directions": "Near Puowaina Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=4504",
+      "photo_urls": []
+    },
+    {
+      "id": "4526",
+      "title": "U.S. Naval Base Pearl Harbor",
+      "latitude": 21.364775,
+      "longitude": -157.95011111,
+      "directions": "Near Langley Avenue, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=4526",
+      "photo_urls": []
+    },
+    {
+      "id": "49676",
+      "title": "Afong Villa",
+      "latitude": 21.27805556,
+      "longitude": -157.83361111,
+      "directions": "Near Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49676",
+      "photo_urls": []
+    },
+    {
+      "id": "49677",
+      "title": "U.S.S. Missouri",
+      "latitude": 21.362132,
+      "longitude": -157.95338,
+      "directions": "Near Kamehameha Highway (State Route 99) , Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49677",
+      "photo_urls": []
+    },
+    {
+      "id": "60044",
+      "title": "USS Utah Memorial",
+      "latitude": 21.368807,
+      "longitude": -157.962135,
+      "directions": "On Saratoga Boulevard, Honolulu, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60044",
+      "photo_urls": []
+    },
+    {
+      "id": "60071",
+      "title": "USS Utah Memorial",
+      "latitude": 21.368864,
+      "longitude": -157.962067,
+      "directions": "On Saratoga Boulevard, Honolulu, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60071",
+      "photo_urls": []
+    },
+    {
+      "id": "60157",
+      "title": "USS Arizona Memorial",
+      "latitude": 21.36574444,
+      "longitude": -157.95104722,
+      "directions": "On Langley Avenue, Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60157",
+      "photo_urls": []
+    },
+    {
+      "id": "60158",
+      "title": "USS West Virginia Memorial",
+      "latitude": 21.363386,
+      "longitude": -157.952752,
+      "directions": "Near Cowpens Street, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60158",
+      "photo_urls": []
+    },
+    {
+      "id": "60161",
+      "title": "USS Utah Memorial",
+      "latitude": 21.368637,
+      "longitude": -157.961863,
+      "directions": "On Saratoga Blvd, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60161",
+      "photo_urls": []
+    },
+    {
+      "id": "60945",
+      "title": "First Hawaiian Printing",
+      "latitude": 21.30399,
+      "longitude": -157.8568,
+      "directions": "On South King Street, Honolulu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60945",
+      "photo_urls": []
+    },
+    {
+      "id": "62199",
+      "title": "Haleakala National Park",
+      "latitude": 20.647,
+      "longitude": -156.0869,
+      "directions": "On Hana Highway, Hana, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62199",
+      "photo_urls": []
+    },
+    {
+      "id": "65754",
+      "title": "Houola",
+      "latitude": 22.04340744,
+      "longitude": -159.33558655,
+      "directions": "On Nalu Road, Kapaa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65754",
+      "photo_urls": []
+    },
+    {
+      "id": "65776",
+      "title": "Daniel K. Inouye",
+      "latitude": 22.231545,
+      "longitude": -159.40202667,
+      "directions": "Near Kilauea Road, near Kilauea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65776",
+      "photo_urls": []
+    },
+    {
+      "id": "65777",
+      "title": "Captain Cook Monument",
+      "latitude": 21.95477,
+      "longitude": -159.66709833,
+      "directions": "On State Route 50, Waimea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65777",
+      "photo_urls": []
+    },
+    {
+      "id": "65778",
+      "title": "Russian Fort Elizabeth",
+      "latitude": 21.952085,
+      "longitude": -159.66517333,
+      "directions": "On State Route 50, Waimea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65778",
+      "photo_urls": []
+    },
+    {
+      "id": "65794",
+      "title": "Wai'ale'ale",
+      "latitude": 22.04610333,
+      "longitude": -159.35921333,
+      "directions": "Near State Route 580, near Kapaa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65794",
+      "photo_urls": []
+    },
+    {
+      "id": "65795",
+      "title": "Maunakapu and Wailua River",
+      "latitude": 22.04610667,
+      "longitude": -159.35924667,
+      "directions": "Near State Route 580, near Kapaa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65795",
+      "photo_urls": []
+    },
+    {
+      "id": "65809",
+      "title": "Poli'auh Heiau",
+      "latitude": 22.04662133,
+      "longitude": -159.35508728,
+      "directions": "On Route 580, near Kapaa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65809",
+      "photo_urls": []
+    },
+    {
+      "id": "65811",
+      "title": "Russian Fort Alexander",
+      "latitude": 22.22125625,
+      "longitude": -159.4969635,
+      "directions": "Near Ka Haka Road, Princeville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65811",
+      "photo_urls": []
+    },
+    {
+      "id": "71610",
+      "title": "Island of Oahu",
+      "latitude": 21.3671,
+      "longitude": -157.9396,
+      "directions": "On Arizona Memorial Place, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71610",
+      "photo_urls": []
+    },
+    {
+      "id": "71617",
+      "title": "Sunday Morning",
+      "latitude": 21.36706,
+      "longitude": -157.93982,
+      "directions": "Near Arizona Memorial Place, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71617",
+      "photo_urls": []
+    },
+    {
+      "id": "71619",
+      "title": "Pearl Harbor Panorama-West",
+      "latitude": 21.36704,
+      "longitude": -157.93983,
+      "directions": "On Arizona Memorial Place, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71619",
+      "photo_urls": []
+    },
+    {
+      "id": "71620",
+      "title": "Pearl Harbor Panorama-North",
+      "latitude": 21.36697,
+      "longitude": -157.93984,
+      "directions": "Near Arizona Memorial Place, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71620",
+      "photo_urls": []
+    },
+    {
+      "id": "71753",
+      "title": "Haleakal&#257; National Park",
+      "latitude": 20.7147,
+      "longitude": -156.2506,
+      "directions": "On Crater Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71753",
+      "photo_urls": []
+    },
+    {
+      "id": "71754",
+      "title": "Hawaiian Goose or Nene (Nay-Nay)",
+      "latitude": 20.7595,
+      "longitude": -156.2463,
+      "directions": "On Crater Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71754",
+      "photo_urls": []
+    },
+    {
+      "id": "71756",
+      "title": "Wind, Wave and Wings-Oodemas maulense-",
+      "latitude": 20.7595,
+      "longitude": -156.2463,
+      "directions": "On Carter Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71756",
+      "photo_urls": []
+    },
+    {
+      "id": "71762",
+      "title": "Ranch Wall",
+      "latitude": 20.744,
+      "longitude": -156.2299,
+      "directions": "On Crater Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71762",
+      "photo_urls": []
+    },
+    {
+      "id": "71765",
+      "title": "Pa Ka‘oao",
+      "latitude": 20.7138,
+      "longitude": -156.2501,
+      "directions": "On Crater Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71765",
+      "photo_urls": []
+    },
+    {
+      "id": "71770",
+      "title": "Holy Ghost Catholic Church",
+      "latitude": 20.7629,
+      "longitude": -156.3271,
+      "directions": "On Lower Kula Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71770",
+      "photo_urls": []
+    },
+    {
+      "id": "71842",
+      "title": "Palapala Hoomau Congregational Church",
+      "latitude": 20.6514,
+      "longitude": -156.0551,
+      "directions": "On South Hana Highway, Kipahulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71842",
+      "photo_urls": []
+    },
+    {
+      "id": "71861",
+      "title": "Master Navigators",
+      "latitude": 20.7924,
+      "longitude": -156.5125,
+      "directions": "On Maalaea Road, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71861",
+      "photo_urls": []
+    },
+    {
+      "id": "71864",
+      "title": "Haleki'i and Pihanakalani Heiaus",
+      "latitude": 20.9052,
+      "longitude": -156.4914,
+      "directions": "On Hea Place, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71864",
+      "photo_urls": []
+    },
+    {
+      "id": "71874",
+      "title": "Pu'ukohola Heiau National Historic Site",
+      "latitude": 20.0255,
+      "longitude": -155.8216,
+      "directions": "On Kawaihae Road (SR270), Kawaihae, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71874",
+      "photo_urls": []
+    },
+    {
+      "id": "71886",
+      "title": "Pu'ukohola Heiau",
+      "latitude": 20.0277,
+      "longitude": -155.8228,
+      "directions": "On Kawaihae Road (SR270), Kawaihae, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71886",
+      "photo_urls": []
+    },
+    {
+      "id": "71922",
+      "title": "Kaha ha &#699;lo me n&#257; Makani",
+      "latitude": 21.28464,
+      "longitude": -157.8359,
+      "directions": "On Ala Moana Boulevard (State Route 92) , Honolulu, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71922",
+      "photo_urls": []
+    },
+    {
+      "id": "71999",
+      "title": "Discovering Kaloko-Honokohau",
+      "latitude": 19.6786,
+      "longitude": -156.0217,
+      "directions": "On Queen Kaahumanu Highway (SR 19), Kailua-Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71999",
+      "photo_urls": []
+    },
+    {
+      "id": "72000",
+      "title": "A Sanctuary for Humpback Whales",
+      "latitude": 19.6786,
+      "longitude": -156.0217,
+      "directions": "On Queen Kaahumanu Highway (SR 19), Kailua-Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72000",
+      "photo_urls": []
+    },
+    {
+      "id": "72001",
+      "title": "Ala Mauka Makai",
+      "latitude": 19.6786,
+      "longitude": -156.0217,
+      "directions": "On Queen Kaahumanu Highway (SR 19), Kailua-Kona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72001",
+      "photo_urls": []
+    },
+    {
+      "id": "72497",
+      "title": "In Memory of Captain James Cook, R.N.",
+      "latitude": 19.481293,
+      "longitude": -155.933441,
+      "directions": "Near Kealakekua Bay, near Captain Cook, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72497",
+      "photo_urls": []
+    },
+    {
+      "id": "73113",
+      "title": "Kãlia Fishponds",
+      "latitude": 21.28141,
+      "longitude": -157.833398,
+      "directions": "On Kaila Road, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73113",
+      "photo_urls": []
+    },
+    {
+      "id": "73114",
+      "title": "The First Lady of Waikiki",
+      "latitude": 21.276598,
+      "longitude": -157.826588,
+      "directions": "On Kalakaua Avenue, Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73114",
+      "photo_urls": []
+    },
+    {
+      "id": "73116",
+      "title": "The Stones Of Life",
+      "latitude": 21.275788,
+      "longitude": -157.825677,
+      "directions": "On Kalaukaua Ave, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73116",
+      "photo_urls": []
+    },
+    {
+      "id": "73117",
+      "title": "Prince Jonah Kuhio Kalaniana’ole",
+      "latitude": 21.273338,
+      "longitude": -157.823871,
+      "directions": "On Kalakaua Avenue, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73117",
+      "photo_urls": []
+    },
+    {
+      "id": "73119",
+      "title": "Waikiki",
+      "latitude": 21.271542,
+      "longitude": -157.822896,
+      "directions": "On Kalaukaua Ave, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73119",
+      "photo_urls": []
+    },
+    {
+      "id": "73122",
+      "title": "The Beaches of Waikiki",
+      "latitude": 21.270586,
+      "longitude": -157.822556,
+      "directions": "On Kalaukaua Ave, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73122",
+      "photo_urls": []
+    },
+    {
+      "id": "73127",
+      "title": "Fleet Admiral Chester W. Nimitz, USN",
+      "latitude": 21.362577,
+      "longitude": -157.95383,
+      "directions": "On Cowpens Street, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73127",
+      "photo_urls": []
+    },
+    {
+      "id": "73188",
+      "title": "Scandinavian Migration to Hawaii",
+      "latitude": 20.77766667,
+      "longitude": -156.5232,
+      "directions": "On Honoapiilani Highwary (Route 30) , Lahaina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73188",
+      "photo_urls": []
+    },
+    {
+      "id": "73191",
+      "title": "Monument of Christian Faith",
+      "latitude": 20.88315,
+      "longitude": -156.53548333,
+      "directions": "Near Iao Valley Road, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73191",
+      "photo_urls": []
+    },
+    {
+      "id": "73229",
+      "title": "Victoria Kawekiu F Lunalilo Kalaninuiahilapalapu Ka’iulani Cleghorn",
+      "latitude": 21.277603,
+      "longitude": -157.824531,
+      "directions": "On Kuhio Avenue, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73229",
+      "photo_urls": []
+    },
+    {
+      "id": "73230",
+      "title": "This Sacred Site",
+      "latitude": 21.36467,
+      "longitude": -157.949796,
+      "directions": "Near Pearl Harbor, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73230",
+      "photo_urls": []
+    },
+    {
+      "id": "73257",
+      "title": "Duke Paoa Kahanamoku",
+      "latitude": 21.275526,
+      "longitude": -157.825317,
+      "directions": "On Kalakaua Avenue, Honolulu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73257",
+      "photo_urls": []
+    },
+    {
+      "id": "73416",
+      "title": "Helumoa",
+      "latitude": 21.280911,
+      "longitude": -157.830436,
+      "directions": "On Beachwalk, Honolulu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73416",
+      "photo_urls": []
+    },
+    {
+      "id": "73554",
+      "title": "Pali Road – From Trail to Highway",
+      "latitude": 21.367049,
+      "longitude": -157.792962,
+      "directions": "On Nuuanu Pali Drive, Honolulu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73554",
+      "photo_urls": []
+    },
+    {
+      "id": "73555",
+      "title": "Pali Road",
+      "latitude": 21.36714,
+      "longitude": -157.79325,
+      "directions": "On Nuuanu Pali Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73555",
+      "photo_urls": []
+    },
+    {
+      "id": "73557",
+      "title": "Battle of Nu’uanu – Uniting the Islands",
+      "latitude": 21.367142,
+      "longitude": -157.793168,
+      "directions": "On Nuuanu Pali Drive, Honolulu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73557",
+      "photo_urls": []
+    },
+    {
+      "id": "74144",
+      "title": "Kawaiaha'o Landmark",
+      "latitude": 21.304479,
+      "longitude": -157.857651,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74144",
+      "photo_urls": []
+    },
+    {
+      "id": "74145",
+      "title": "Kawaiaha'o Church",
+      "latitude": 21.304459,
+      "longitude": -157.857986,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74145",
+      "photo_urls": []
+    },
+    {
+      "id": "74147",
+      "title": "Reverend James Kekela",
+      "latitude": 21.304164,
+      "longitude": -157.85741,
+      "directions": "On Punchbowl Street, Honolulu, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74147",
+      "photo_urls": []
+    },
+    {
+      "id": "74148",
+      "title": "Iolani Palace",
+      "latitude": 21.306693,
+      "longitude": -157.858928,
+      "directions": "On South King Street, Honolulu, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74148",
+      "photo_urls": []
+    },
+    {
+      "id": "75626",
+      "title": "Mahiole",
+      "latitude": 21.27861111,
+      "longitude": -157.83166667,
+      "directions": "On Kalia Road, Waikiki, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75626",
+      "photo_urls": []
+    },
+    {
+      "id": "81310",
+      "title": "Major General John M. Schofield",
+      "latitude": 21.491,
+      "longitude": -158.0515,
+      "directions": "On Waianae Ave, Wahiawa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81310",
+      "photo_urls": []
+    },
+    {
+      "id": "81311",
+      "title": "U.S. Medium Tank",
+      "latitude": 21.4912,
+      "longitude": -158.0513,
+      "directions": "On Waianae Ave, Wahiawa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81311",
+      "photo_urls": []
+    },
+    {
+      "id": "81377",
+      "title": "U.S.S. Bowfin (SS287)",
+      "latitude": 21.3687,
+      "longitude": -157.9388,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81377",
+      "photo_urls": []
+    },
+    {
+      "id": "81389",
+      "title": "Lost Submarine Memorial",
+      "latitude": 21.3687,
+      "longitude": -157.9389,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81389",
+      "photo_urls": []
+    },
+    {
+      "id": "81417",
+      "title": "USS Seawolf (SS-197)",
+      "latitude": 21.3683,
+      "longitude": -157.9391,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81417",
+      "photo_urls": []
+    },
+    {
+      "id": "81419",
+      "title": "USS Swordfish (SS-193)",
+      "latitude": 21.3683,
+      "longitude": -157.9391,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81419",
+      "photo_urls": []
+    },
+    {
+      "id": "81473",
+      "title": "USS Tang (SS-306)",
+      "latitude": 21.3683,
+      "longitude": -157.9391,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81473",
+      "photo_urls": []
+    },
+    {
+      "id": "81474",
+      "title": "USS Wahoo (SS-238)",
+      "latitude": 21.3683,
+      "longitude": -157.9391,
+      "directions": "On Arizona Memorial Drive, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81474",
+      "photo_urls": []
+    },
+    {
+      "id": "82121",
+      "title": "U.S. Prefabricated Pill Box",
+      "latitude": 21.2791,
+      "longitude": -157.8337,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82121",
+      "photo_urls": []
+    },
+    {
+      "id": "82123",
+      "title": "Japanese Light Tank",
+      "latitude": 21.279,
+      "longitude": -157.8336,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82123",
+      "photo_urls": []
+    },
+    {
+      "id": "82124",
+      "title": "U.S. Light Tank, M24",
+      "latitude": 21.2791,
+      "longitude": -157.8337,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82124",
+      "photo_urls": []
+    },
+    {
+      "id": "82125",
+      "title": "U.S. 105mm Howitzer M3",
+      "latitude": 21.279,
+      "longitude": -157.8336,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82125",
+      "photo_urls": []
+    },
+    {
+      "id": "82127",
+      "title": "Japanese Type 1 (1941)",
+      "latitude": 21.279,
+      "longitude": -157.8336,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82127",
+      "photo_urls": []
+    },
+    {
+      "id": "82128",
+      "title": "Monarchy Cannon",
+      "latitude": 21.2791,
+      "longitude": -157.8337,
+      "directions": "On Kalia Road, Honolulu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82128",
+      "photo_urls": []
+    },
+    {
+      "id": "82138",
+      "title": "Wolphin Kekaimalu",
+      "latitude": 21.314,
+      "longitude": -157.6627,
+      "directions": "On Kalanianaole Highway (State Route 72) , Waimanalo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82138",
+      "photo_urls": []
+    },
+    {
+      "id": "94338",
+      "title": "Laupahoehoe Point",
+      "latitude": 19.98533333,
+      "longitude": -155.23608333,
+      "directions": "On Highway 19 (State Route 19) , Laupahoehoe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94338",
+      "photo_urls": []
+    },
+    {
+      "id": "94340",
+      "title": "Countless are the Accomplishments of Roosevelt's Trusty \"Tree Army\"",
+      "latitude": 19.42961667,
+      "longitude": -155.25718333,
+      "directions": "Near Crater Rim Drive, Volcano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94340",
+      "photo_urls": []
+    },
+    {
+      "id": "9786",
+      "title": "The Kapa<small>'</small>a Japanese Stone Lantern (Ishidoro)",
+      "latitude": 22.077453,
+      "longitude": -159.31662,
+      "directions": "On State Route 56, Kapaa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9786",
+      "photo_urls": []
+    },
+    {
+      "id": "9804",
+      "title": "Waioli Mission Hall",
+      "latitude": 22.201342,
+      "longitude": -159.50172,
+      "directions": "Near Kuhio Highway (State Route 560) , Hanalei, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9804",
+      "photo_urls": []
+    }
+  ]
+}
