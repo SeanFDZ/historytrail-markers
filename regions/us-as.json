@@ -1,0 +1,29 @@
+{
+  "region_id": "us-as",
+  "region_name": "American Samoa",
+  "region_type": "territory",
+  "country": "United States",
+  "generated": "2026-04-11T18:53:08.597Z",
+  "source_timestamp": "2026-04-11T18:53:08.597Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "184698",
+      "title": "Blunts Point Naval Gun Site",
+      "latitude": -14.285446,
+      "longitude": -170.677067,
+      "directions": "Near State Route 001, Utulei, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184698",
+      "photo_urls": []
+    },
+    {
+      "id": "185282",
+      "title": "Vai'ava Strait",
+      "latitude": -14.24085,
+      "longitude": -170.67124,
+      "directions": "Near American Samoa Route 006, near Vatia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185282",
+      "photo_urls": []
+    }
+  ]
+}
