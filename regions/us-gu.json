@@ -1,0 +1,110 @@
+{
+  "region_id": "us-gu",
+  "region_name": "Guam",
+  "region_type": "territory",
+  "country": "United States",
+  "generated": "2026-04-11T19:15:04.021Z",
+  "source_timestamp": "2026-04-11T19:15:04.021Z",
+  "marker_count": 11,
+  "markers": [
+    {
+      "id": "185659",
+      "title": "War in the Pacific National Historical Park",
+      "latitude": 13.472462,
+      "longitude": 144.70972,
+      "directions": "Near Marine Corps Drive (Route 1) , Asan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185659",
+      "photo_urls": []
+    },
+    {
+      "id": "185669",
+      "title": "Banzai Charges",
+      "latitude": 13.460285,
+      "longitude": 144.715519,
+      "directions": "Near Route 6, Asan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185669",
+      "photo_urls": []
+    },
+    {
+      "id": "185670",
+      "title": "The Inland Offensive",
+      "latitude": 13.46028,
+      "longitude": 144.715508,
+      "directions": "Near Route 6, Asan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185670",
+      "photo_urls": []
+    },
+    {
+      "id": "185671",
+      "title": "Attack, Occupation, Liberation",
+      "latitude": 13.459895,
+      "longitude": 144.715217,
+      "directions": "Near Route 6, Asan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185671",
+      "photo_urls": []
+    },
+    {
+      "id": "185672",
+      "title": "Japanese Two-Man Submarine",
+      "latitude": 13.422277,
+      "longitude": 144.67559,
+      "directions": "Near Marine Corps Drive (Route 1) , Santa Rita, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185672",
+      "photo_urls": []
+    },
+    {
+      "id": "185702",
+      "title": "Magellan's Landing",
+      "latitude": 13.29891,
+      "longitude": 144.66294,
+      "directions": "Near Route 2, Umatac, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185702",
+      "photo_urls": []
+    },
+    {
+      "id": "185838",
+      "title": "Guam 1941-1944",
+      "latitude": 13.460193,
+      "longitude": 144.715434,
+      "directions": "Near Route 6, Asan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185838",
+      "photo_urls": []
+    },
+    {
+      "id": "185842",
+      "title": "Hidden Defenses",
+      "latitude": 13.40218278,
+      "longitude": 144.66278449,
+      "directions": "Near Shoreline Drive, Santa Rita, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185842",
+      "photo_urls": []
+    },
+    {
+      "id": "185852",
+      "title": "Japanese Anti-Aircraft Gun",
+      "latitude": 13.38753889,
+      "longitude": 144.65774444,
+      "directions": "Near Route 2, Agat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185852",
+      "photo_urls": []
+    },
+    {
+      "id": "185858",
+      "title": "Fort Nuestra de la Soledad, 1810",
+      "latitude": 13.295224,
+      "longitude": 144.660042,
+      "directions": "Near Soledad Drive, Umatac, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185858",
+      "photo_urls": []
+    },
+    {
+      "id": "185864",
+      "title": "Silent Guns",
+      "latitude": 13.46172222,
+      "longitude": 144.69465556,
+      "directions": "Near Assumption Drive, Piti, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185864",
+      "photo_urls": []
+    }
+  ]
+}
