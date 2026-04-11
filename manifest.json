@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-11T19:22:01.457Z",
+  "generated": "2026-04-11T19:22:44.267Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 28107,
-  "total_regions": 8,
+  "total_markers": 29203,
+  "total_regions": 9,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -116,6 +116,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 3254,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-nv",
+      "name": "Nevada",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-nv.json",
+      "markers": 1096,
+      "size_bytes": 330693,
+      "updated": "2026-04-11",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 1096,
         "removed": 0,
         "modified": 0
       }
