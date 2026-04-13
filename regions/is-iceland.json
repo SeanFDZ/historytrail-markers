@@ -1,0 +1,605 @@
+{
+  "region_id": "is-iceland",
+  "region_name": "Iceland",
+  "region_type": "country",
+  "country": "Iceland",
+  "generated": "2026-04-13T12:43:55.581Z",
+  "source_timestamp": "2026-04-13T12:43:55.581Z",
+  "marker_count": 66,
+  "markers": [
+    {
+      "id": "105322",
+      "title": "Sjúkrahús Hvítabandsins / White Ribbon Hospital",
+      "latitude": 64.143164,
+      "longitude": -21.928568,
+      "directions": "On Skólavörðustígur, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105322",
+      "photo_urls": []
+    },
+    {
+      "id": "105325",
+      "title": "Bankastræti 10",
+      "latitude": 64.146568,
+      "longitude": -21.933718,
+      "directions": "On Inggólfstraeti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105325",
+      "photo_urls": []
+    },
+    {
+      "id": "105326",
+      "title": "Torfhildur Hólm",
+      "latitude": 64.14534,
+      "longitude": -21.934948,
+      "directions": "On Ingólfsstræti, Reykjavík, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105326",
+      "photo_urls": []
+    },
+    {
+      "id": "105359",
+      "title": "Vaktarabærinn",
+      "latitude": 64.148071,
+      "longitude": -21.944253,
+      "directions": "On Garðastræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105359",
+      "photo_urls": []
+    },
+    {
+      "id": "105364",
+      "title": "Einar Benediktsson",
+      "latitude": 64.146505,
+      "longitude": -21.906363,
+      "directions": "On Fjörutún, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105364",
+      "photo_urls": []
+    },
+    {
+      "id": "105379",
+      "title": "Theodóra Thoroddsen",
+      "latitude": 64.147172,
+      "longitude": -21.942046,
+      "directions": "On Kirkjustræti, Reykjavík, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105379",
+      "photo_urls": []
+    },
+    {
+      "id": "105383",
+      "title": "Einar Benediktsson",
+      "latitude": 64.148964,
+      "longitude": -21.942242,
+      "directions": "On Vesturgata, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105383",
+      "photo_urls": []
+    },
+    {
+      "id": "105422",
+      "title": "Málfríður Einarsdóttir",
+      "latitude": 64.147554,
+      "longitude": -21.938177,
+      "directions": "On Austurstræti, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105422",
+      "photo_urls": []
+    },
+    {
+      "id": "105439",
+      "title": "Hressingarskálinn",
+      "latitude": 64.147395,
+      "longitude": -21.93753,
+      "directions": "On Austurstræti, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105439",
+      "photo_urls": []
+    },
+    {
+      "id": "105442",
+      "title": "Adlon",
+      "latitude": 64.148022,
+      "longitude": -21.941892,
+      "directions": "On Aðalstræti, Reykjavík, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105442",
+      "photo_urls": []
+    },
+    {
+      "id": "105483",
+      "title": "Laufey Jakobsdóttir",
+      "latitude": 64.147866,
+      "longitude": -21.943777,
+      "directions": "On Grjótagata, Reykjavík, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105483",
+      "photo_urls": []
+    },
+    {
+      "id": "105531",
+      "title": "Louisa Matthíasdóttir",
+      "latitude": 64.146417,
+      "longitude": -21.90595,
+      "directions": "On Fjörutún, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105531",
+      "photo_urls": []
+    },
+    {
+      "id": "105736",
+      "title": "Skólavörðustígur 13",
+      "latitude": 64.144985,
+      "longitude": -21.931048,
+      "directions": "On Skólavörðustígur, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105736",
+      "photo_urls": []
+    },
+    {
+      "id": "112161",
+      "title": "Forsætisráðuneytið / Prime Minister's Office",
+      "latitude": 64.147381,
+      "longitude": -21.935537,
+      "directions": "On Lækjargata, Reykjavík, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112161",
+      "photo_urls": []
+    },
+    {
+      "id": "117937",
+      "title": "Svava Jakobsdóttir",
+      "latitude": 64.146862,
+      "longitude": -21.939199,
+      "directions": "On Pósthússtræti, Reykjavík, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117937",
+      "photo_urls": []
+    },
+    {
+      "id": "117940",
+      "title": "Founding of the Reykjavik Water Utility / Uphaf vatnsveitu",
+      "latitude": 64.145426,
+      "longitude": -21.927308,
+      "directions": "On Laugavegur, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117940",
+      "photo_urls": []
+    },
+    {
+      "id": "118099",
+      "title": "Laugavegur",
+      "latitude": 64.146562,
+      "longitude": -21.933075,
+      "directions": "On Laugavegur, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118099",
+      "photo_urls": []
+    },
+    {
+      "id": "118111",
+      "title": "Neighbourhood of the Gods / Goðahverfið",
+      "latitude": 64.14246,
+      "longitude": -21.928356,
+      "directions": "On Njarðargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118111",
+      "photo_urls": []
+    },
+    {
+      "id": "118122",
+      "title": "The Culture House / Safnahúsið\t",
+      "latitude": 64.147216,
+      "longitude": -21.932218,
+      "directions": "On Hverfisgata, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118122",
+      "photo_urls": []
+    },
+    {
+      "id": "118125",
+      "title": "The Mothers' Garden / Mæðragarðurinn",
+      "latitude": 64.14561,
+      "longitude": -21.938396,
+      "directions": "On Lækjargata, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118125",
+      "photo_urls": []
+    },
+    {
+      "id": "118145",
+      "title": "Dr. Gunnlaugur Clæssen",
+      "latitude": 64.147107,
+      "longitude": -21.932917,
+      "directions": "On Hverfisgata, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118145",
+      "photo_urls": []
+    },
+    {
+      "id": "118183",
+      "title": "Gimli",
+      "latitude": 64.146693,
+      "longitude": -21.936125,
+      "directions": "Near Lækjargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118183",
+      "photo_urls": []
+    },
+    {
+      "id": "118233",
+      "title": "Þingholtsstræti 13",
+      "latitude": 64.14581,
+      "longitude": -21.93507,
+      "directions": "On Þingholtsstræti, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118233",
+      "photo_urls": []
+    },
+    {
+      "id": "118390",
+      "title": "Hallargarðurinn",
+      "latitude": 64.14381,
+      "longitude": -21.939507,
+      "directions": "Near Fríkirkjuvegur, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118390",
+      "photo_urls": []
+    },
+    {
+      "id": "118402",
+      "title": "Landlæknihúsið",
+      "latitude": 64.146325,
+      "longitude": -21.936066,
+      "directions": "Near Lækjargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118402",
+      "photo_urls": []
+    },
+    {
+      "id": "118409",
+      "title": "Hverfisgata 45",
+      "latitude": 64.14614,
+      "longitude": -21.927163,
+      "directions": "On Hverfisgata, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118409",
+      "photo_urls": []
+    },
+    {
+      "id": "118802",
+      "title": "Laugavegur 15",
+      "latitude": 64.146015,
+      "longitude": -21.93041,
+      "directions": "On Laugavegur, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118802",
+      "photo_urls": []
+    },
+    {
+      "id": "121373",
+      "title": "The Settlement of Reykjavík",
+      "latitude": 64.14737364,
+      "longitude": -21.94206256,
+      "directions": "Near Aðalstræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121373",
+      "photo_urls": []
+    },
+    {
+      "id": "121467",
+      "title": "Túngata 6",
+      "latitude": 64.14749454,
+      "longitude": -21.94383665,
+      "directions": "On Túngata, Reykjavík, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121467",
+      "photo_urls": []
+    },
+    {
+      "id": "121510",
+      "title": "Hljómskálagarðurinn / Pavilion Park",
+      "latitude": 64.14248739,
+      "longitude": -21.94069846,
+      "directions": "On Sóleyjargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121510",
+      "photo_urls": []
+    },
+    {
+      "id": "121548",
+      "title": "Bújarðir í Reykjavík / Farmsteads in Reykjavík",
+      "latitude": 64.13981977,
+      "longitude": -21.91550447,
+      "directions": "On Háteigsvegur, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121548",
+      "photo_urls": []
+    },
+    {
+      "id": "121583",
+      "title": "Höfði House",
+      "latitude": 64.14631005,
+      "longitude": -21.90596789,
+      "directions": "Near Borgartún, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121583",
+      "photo_urls": []
+    },
+    {
+      "id": "121616",
+      "title": "Grjógata 4",
+      "latitude": 64.14768184,
+      "longitude": -21.94254919,
+      "directions": "On Grjótagata, Garðabær, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121616",
+      "photo_urls": []
+    },
+    {
+      "id": "122623",
+      "title": "Bernhöftstorfan / Bernhöft's Sward",
+      "latitude": 64.14696783,
+      "longitude": -21.93629504,
+      "directions": "On Lækjargata, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122623",
+      "photo_urls": []
+    },
+    {
+      "id": "122662",
+      "title": "Tobbukot",
+      "latitude": 64.14522235,
+      "longitude": -21.93126647,
+      "directions": "On Skólavörðustígur, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122662",
+      "photo_urls": []
+    },
+    {
+      "id": "122880",
+      "title": "Arnarhóll Arnarhólstraðir",
+      "latitude": 64.14757142,
+      "longitude": -21.93331227,
+      "directions": "On Hverfisgata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122880",
+      "photo_urls": []
+    },
+    {
+      "id": "123006",
+      "title": "Ingólfur Arnarson",
+      "latitude": 64.14797064,
+      "longitude": -21.93382664,
+      "directions": "Near Laekjargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123006",
+      "photo_urls": []
+    },
+    {
+      "id": "123080",
+      "title": "Bakaríið / Bakery",
+      "latitude": 64.14679707,
+      "longitude": -21.93605364,
+      "directions": "Near Lækjargata, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123080",
+      "photo_urls": []
+    },
+    {
+      "id": "123154",
+      "title": "Aðalstræti 2 - Ingólfsnaust",
+      "latitude": 64.14850338,
+      "longitude": -21.9415514,
+      "directions": "On Aðalstræti, Reykjavík, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123154",
+      "photo_urls": []
+    },
+    {
+      "id": "144963",
+      "title": "Þjóðfundurinn 1851 / The National Assembly of 1851",
+      "latitude": 64.14617385,
+      "longitude": -21.93763608,
+      "directions": "On Lækjargata, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144963",
+      "photo_urls": []
+    },
+    {
+      "id": "144982",
+      "title": "Austurstræti 12A",
+      "latitude": 64.14762361,
+      "longitude": -21.93908025,
+      "directions": "On Austurstræti, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144982",
+      "photo_urls": []
+    },
+    {
+      "id": "145032",
+      "title": "Ingibjörg H. Bjarnason",
+      "latitude": 64.14691275,
+      "longitude": -21.94066714,
+      "directions": "On Kirkjustræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145032",
+      "photo_urls": []
+    },
+    {
+      "id": "145033",
+      "title": "Arnarhólstraðir / The Arnar Hill Path",
+      "latitude": 64.14766445,
+      "longitude": -21.93326606,
+      "directions": "Near Hverfisgata, Reykjavík, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145033",
+      "photo_urls": []
+    },
+    {
+      "id": "145037",
+      "title": "Þingholtsstræti 17",
+      "latitude": 64.14544713,
+      "longitude": -21.93534941,
+      "directions": "On Þingholtsstræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145037",
+      "photo_urls": []
+    },
+    {
+      "id": "145042",
+      "title": "Menntaskólinn í Reykjavík / High School in Reykjavík",
+      "latitude": 64.14625515,
+      "longitude": -21.93748035,
+      "directions": "On Lækjargata, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145042",
+      "photo_urls": []
+    },
+    {
+      "id": "145044",
+      "title": "Vik Church Altar",
+      "latitude": 64.14732235,
+      "longitude": -21.94202883,
+      "directions": "Near Aðalstræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145044",
+      "photo_urls": []
+    },
+    {
+      "id": "145110",
+      "title": "Austurstræti 14",
+      "latitude": 64.1475766,
+      "longitude": -21.93873309,
+      "directions": "On Austurstræti, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145110",
+      "photo_urls": []
+    },
+    {
+      "id": "145118",
+      "title": "Austurstræti 12",
+      "latitude": 64.14763732,
+      "longitude": -21.93924665,
+      "directions": "On Austurstræti, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145118",
+      "photo_urls": []
+    },
+    {
+      "id": "145131",
+      "title": "Austurstræti 8",
+      "latitude": 64.14763068,
+      "longitude": -21.93911552,
+      "directions": "On Austurstræti, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145131",
+      "photo_urls": []
+    },
+    {
+      "id": "145133",
+      "title": "Aðalstræti 12 - Ísafold",
+      "latitude": 64.14770403,
+      "longitude": -21.94213275,
+      "directions": "On Aðalstræti, Reykjavík, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145133",
+      "photo_urls": []
+    },
+    {
+      "id": "145134",
+      "title": "Aðalstræti 16",
+      "latitude": 64.14745058,
+      "longitude": -21.94235421,
+      "directions": "On Aðalstræti, Reykjavík, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145134",
+      "photo_urls": []
+    },
+    {
+      "id": "145137",
+      "title": "Bernhöftshús",
+      "latitude": 64.14695501,
+      "longitude": -21.93589797,
+      "directions": "On Bankastræti, Reykjavík, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145137",
+      "photo_urls": []
+    },
+    {
+      "id": "145147",
+      "title": "Skólavörðustígur 11",
+      "latitude": 64.14522875,
+      "longitude": -21.93124099,
+      "directions": "On Skólavörðustígur, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145147",
+      "photo_urls": []
+    },
+    {
+      "id": "145175",
+      "title": "Grjótaþorp",
+      "latitude": 64.14780889,
+      "longitude": -21.94350405,
+      "directions": "On Grjótagata, Garðabær, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145175",
+      "photo_urls": []
+    },
+    {
+      "id": "145327",
+      "title": "Upphaf Frjálsra Fjarskipta Á Íslandi / The Beginning of Telecommunications in Iceland",
+      "latitude": 64.14666566,
+      "longitude": -21.90618183,
+      "directions": "Near Borgartún, Reykjavík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145327",
+      "photo_urls": []
+    },
+    {
+      "id": "174822",
+      "title": "The Jón Forseti RE 108 Accident",
+      "latitude": 63.97180747,
+      "longitude": -22.74886164,
+      "directions": "Near Stafnesvegur, near Sandgerði, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174822",
+      "photo_urls": []
+    },
+    {
+      "id": "174961",
+      "title": "Seljavallalaug Swimming Pool",
+      "latitude": 63.56625045,
+      "longitude": -19.60700074,
+      "directions": "Near Seljavellir, near Eyvindarholar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174961",
+      "photo_urls": []
+    },
+    {
+      "id": "174988",
+      "title": "The Turf Houses of Hjarðarhagi Farm",
+      "latitude": 65.35093653,
+      "longitude": -14.97880911,
+      "directions": "On Þjóðvegur (Route 1) , near Hofteigur, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=174988",
+      "photo_urls": []
+    },
+    {
+      "id": "175011",
+      "title": "Epine - Grimsby",
+      "latitude": 64.75322592,
+      "longitude": -23.8990725,
+      "directions": "Near Dritvíkurvegur (Route 572) , near Dritvík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=175011",
+      "photo_urls": []
+    },
+    {
+      "id": "175048",
+      "title": "The Last Great Auk",
+      "latitude": 63.81239007,
+      "longitude": -22.71519021,
+      "directions": "Near Reykjanesvitavegur, near Hafnir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=175048",
+      "photo_urls": []
+    },
+    {
+      "id": "175068",
+      "title": "Steinahellir Cave",
+      "latitude": 63.54539238,
+      "longitude": -19.72695276,
+      "directions": "On Þjóðvegur (Route 1) , near Holt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=175068",
+      "photo_urls": []
+    },
+    {
+      "id": "175106",
+      "title": "Lifting Stones",
+      "latitude": 64.75330553,
+      "longitude": -23.89868325,
+      "directions": "Near Dritvíkurvegur (Route 572) , Dritvík, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=175106",
+      "photo_urls": []
+    },
+    {
+      "id": "227856",
+      "title": "Fallen But Not Forgotten",
+      "latitude": 63.96256182,
+      "longitude": -22.42076143,
+      "directions": "On National Route 43, near Vogar, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227856",
+      "photo_urls": []
+    },
+    {
+      "id": "279393",
+      "title": "Sigídur í Brattholti",
+      "latitude": 64.32573323,
+      "longitude": -20.12437797,
+      "directions": "Near Gullfossvegur (Route 35) , near Fluðir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279393",
+      "photo_urls": []
+    },
+    {
+      "id": "290891",
+      "title": "Franski Spítalinn / The French Hospital",
+      "latitude": 64.14602272,
+      "longitude": -21.92362534,
+      "directions": "On Lindargata, Reykjavík, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290891",
+      "photo_urls": []
+    },
+    {
+      "id": "290896",
+      "title": "Gullfoss",
+      "latitude": 64.32563569,
+      "longitude": -20.12591949,
+      "directions": "Near Route 35, near Fluðir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290896",
+      "photo_urls": []
+    }
+  ]
+}
