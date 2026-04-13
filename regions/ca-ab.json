@@ -1,0 +1,2072 @@
+{
+  "region_id": "ca-ab",
+  "region_name": "Alberta",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-13T12:43:55.540Z",
+  "source_timestamp": "2026-04-13T12:43:55.540Z",
+  "marker_count": 229,
+  "markers": [
+    {
+      "id": "100084",
+      "title": "Banff Springs Hotel",
+      "latitude": 51.163508,
+      "longitude": -115.561701,
+      "directions": "On Spray Avenue, Banff, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100084",
+      "photo_urls": []
+    },
+    {
+      "id": "100085",
+      "title": "Nikka Yuko Centennial Garden",
+      "latitude": 49.6878,
+      "longitude": -112.8054,
+      "directions": "On Mayor Magrath Drive, South, Lethbridge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100085",
+      "photo_urls": []
+    },
+    {
+      "id": "100116",
+      "title": "Lake Louise-Welcome",
+      "latitude": 51.4261,
+      "longitude": -116.179,
+      "directions": "On Village Road, Lake Louise, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100116",
+      "photo_urls": []
+    },
+    {
+      "id": "108632",
+      "title": "John Murray Gibbon",
+      "latitude": 51.17352838,
+      "longitude": -115.56273535,
+      "directions": "Near Saint Julien Way, Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108632",
+      "photo_urls": []
+    },
+    {
+      "id": "108634",
+      "title": "Gateway to a Community and a Park",
+      "latitude": 52.8761563,
+      "longitude": -118.079786,
+      "directions": "On Connaught Drive (State Route Alternate 16A) , Jasper, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108634",
+      "photo_urls": []
+    },
+    {
+      "id": "108876",
+      "title": "Arthur Oliver Wheeler",
+      "latitude": 52.220311,
+      "longitude": -117.224866,
+      "directions": "Near Icefields Parkway (State Route 93) , near Jasper, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108876",
+      "photo_urls": []
+    },
+    {
+      "id": "108877",
+      "title": "The Cave and Basin",
+      "latitude": 51.169778,
+      "longitude": -115.588727,
+      "directions": "Near Cave Avenue, near Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108877",
+      "photo_urls": []
+    },
+    {
+      "id": "109003",
+      "title": "Castle Camp",
+      "latitude": 51.291328,
+      "longitude": -115.967796,
+      "directions": "On Bow Valley Parkway (State Route 1A) , near Castle Junction, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109003",
+      "photo_urls": []
+    },
+    {
+      "id": "109415",
+      "title": "Chateau Lake Louise",
+      "latitude": 51.41750602,
+      "longitude": -116.21688187,
+      "directions": "Near Lake Louise Drive, Lake Louise, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109415",
+      "photo_urls": []
+    },
+    {
+      "id": "109422",
+      "title": "Sulphur Mountain Cosmic Ray Station",
+      "latitude": 51.14715243,
+      "longitude": -115.57891846,
+      "directions": "Near , near Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109422",
+      "photo_urls": []
+    },
+    {
+      "id": "177899",
+      "title": "Parting of the Waters",
+      "latitude": 51.4509157,
+      "longitude": -116.179133,
+      "directions": "Near The former Highway 1A (the old Trans-Canada), Lake Louise, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=177899",
+      "photo_urls": []
+    },
+    {
+      "id": "196933",
+      "title": "Finlay Bridge",
+      "latitude": 50.04197926,
+      "longitude": -110.67780303,
+      "directions": "On 6th Avenue SE, Medicine Hat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196933",
+      "photo_urls": []
+    },
+    {
+      "id": "196935",
+      "title": "Finlay Bridge",
+      "latitude": 50.041933,
+      "longitude": -110.677783,
+      "directions": "On 6th Avenue SE, Medicine Hat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196935",
+      "photo_urls": []
+    },
+    {
+      "id": "196937",
+      "title": "The Brooks Aqueduct/L’aqueduc de Brooks",
+      "latitude": 50.5318184,
+      "longitude": -111.838077,
+      "directions": "Near Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196937",
+      "photo_urls": []
+    },
+    {
+      "id": "196941",
+      "title": "Welcome to the Brooks Aqueduct",
+      "latitude": 50.531816,
+      "longitude": -111.838084,
+      "directions": "Near Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196941",
+      "photo_urls": []
+    },
+    {
+      "id": "196947",
+      "title": "River in the Sky",
+      "latitude": 50.5318,
+      "longitude": -111.83751,
+      "directions": "On Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196947",
+      "photo_urls": []
+    },
+    {
+      "id": "196950",
+      "title": "The River Runs Dry",
+      "latitude": 50.53181,
+      "longitude": -111.83751,
+      "directions": "On Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196950",
+      "photo_urls": []
+    },
+    {
+      "id": "196952",
+      "title": "River in the Sky",
+      "latitude": 50.531818,
+      "longitude": -111.837517,
+      "directions": "On Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196952",
+      "photo_urls": []
+    },
+    {
+      "id": "196954",
+      "title": "River in the Sky",
+      "latitude": 50.52835,
+      "longitude": -111.85693,
+      "directions": "On Brooks Aqueduct trail, near Brooks, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196954",
+      "photo_urls": []
+    },
+    {
+      "id": "196955",
+      "title": "River in the Sky",
+      "latitude": 50.52839,
+      "longitude": -111.85695,
+      "directions": "On Brooks Aqueduct trail, near Brooks, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196955",
+      "photo_urls": []
+    },
+    {
+      "id": "196961",
+      "title": "Lethbridge Viaduct",
+      "latitude": 49.6975,
+      "longitude": -112.85307,
+      "directions": "On the Crowsnest Highway off-ramp to 1st Avenue South, Lethbridge, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196961",
+      "photo_urls": []
+    },
+    {
+      "id": "196963",
+      "title": "The Construction of the Lethbridge Viaduct / La construction du Viaduc de Lethbridge",
+      "latitude": 49.69741693,
+      "longitude": -112.85258151,
+      "directions": "On the Crowsnest Highway off-ramp to 1st Avenue South, Lethbridge, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196963",
+      "photo_urls": []
+    },
+    {
+      "id": "196966",
+      "title": "Canadian Pacific Railway Union Station",
+      "latitude": 49.69814712,
+      "longitude": -112.83601107,
+      "directions": "On 1 Avenue South, Lethbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196966",
+      "photo_urls": []
+    },
+    {
+      "id": "196970",
+      "title": "Firehall No. 1",
+      "latitude": 49.69660703,
+      "longitude": -112.84155107,
+      "directions": "On 2 Avenue South, Lethbridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196970",
+      "photo_urls": []
+    },
+    {
+      "id": "196972",
+      "title": "Lethbridge Public Library / Southern Alberta Art Gallery",
+      "latitude": 49.69603052,
+      "longitude": -112.83867073,
+      "directions": "On 3 Avenue South, Lethbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196972",
+      "photo_urls": []
+    },
+    {
+      "id": "196976",
+      "title": "Manual Training School / Bowman Elementary / Bowman Art Centre",
+      "latitude": 49.69323009,
+      "longitude": -112.83443766,
+      "directions": "On 5 Avenue South, Lethbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196976",
+      "photo_urls": []
+    },
+    {
+      "id": "196980",
+      "title": "MacKenzie Bridge",
+      "latitude": 49.731,
+      "longitude": -113.39734,
+      "directions": "On 6 Avenue (State Route 811) , Fort Macleod, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196980",
+      "photo_urls": []
+    },
+    {
+      "id": "196983",
+      "title": "Territorial Court House/L’ancien palais de justice",
+      "latitude": 49.72454566,
+      "longitude": -113.40735023,
+      "directions": "On Crowsnest Highway (State Route 3) , Fort Macleod, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196983",
+      "photo_urls": []
+    },
+    {
+      "id": "196986",
+      "title": "Claresholm Train Station",
+      "latitude": 50.02773045,
+      "longitude": -113.58223988,
+      "directions": "On 1 Street West (State Route 2) , Claresholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196986",
+      "photo_urls": []
+    },
+    {
+      "id": "196990",
+      "title": "Calgary World War I Memorial",
+      "latitude": 51.04111,
+      "longitude": -114.0686,
+      "directions": "On 2 Street Southwest, Calgary, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196990",
+      "photo_urls": []
+    },
+    {
+      "id": "196993",
+      "title": "Mewata Armoury / Le manege militaire Mewata",
+      "latitude": 51.04621,
+      "longitude": -114.08885,
+      "directions": "On 11 Street Southwest, Calgary, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196993",
+      "photo_urls": []
+    },
+    {
+      "id": "196995",
+      "title": "The Bridge",
+      "latitude": 51.07879416,
+      "longitude": -114.17211288,
+      "directions": "On Bow River Pathway Bridge at Bowness, Calgary, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196995",
+      "photo_urls": []
+    },
+    {
+      "id": "196996",
+      "title": "Atlas No. 3 Coal Mine/La mine de charbon Atlas numéro trois",
+      "latitude": 51.32893,
+      "longitude": -112.48154,
+      "directions": "Near Century Drive West, Drumheller, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196996",
+      "photo_urls": []
+    },
+    {
+      "id": "196998",
+      "title": "The Star Mine Suspension Bridge",
+      "latitude": 51.419571,
+      "longitude": -112.615589,
+      "directions": "On Mabbott Road, Drumheller, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196998",
+      "photo_urls": []
+    },
+    {
+      "id": "197000",
+      "title": "Red Deer Cenotaph",
+      "latitude": 52.269007,
+      "longitude": -113.812225,
+      "directions": "On 50 Street, Red Deer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197000",
+      "photo_urls": []
+    },
+    {
+      "id": "197003",
+      "title": "Old Court House",
+      "latitude": 52.26919,
+      "longitude": -113.81114,
+      "directions": "On 50 Street, Red Deer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197003",
+      "photo_urls": []
+    },
+    {
+      "id": "197005",
+      "title": "Former Post Office/Federal Building",
+      "latitude": 52.2688,
+      "longitude": -113.81177,
+      "directions": "On State Route 2A, Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197005",
+      "photo_urls": []
+    },
+    {
+      "id": "197012",
+      "title": "Red Deer Armoury/Fire Hall",
+      "latitude": 52.26831,
+      "longitude": -113.80918,
+      "directions": "On 48th Avenue, Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197012",
+      "photo_urls": []
+    },
+    {
+      "id": "197013",
+      "title": "Locomotive Turntable",
+      "latitude": 52.03282,
+      "longitude": -112.74912,
+      "directions": "Near Railway Avenue South, Big Valley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197013",
+      "photo_urls": []
+    },
+    {
+      "id": "197014",
+      "title": "The Roundhouse",
+      "latitude": 52.03285,
+      "longitude": -112.74881,
+      "directions": "Near Railway Avenue South, Big Valley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197014",
+      "photo_urls": []
+    },
+    {
+      "id": "197015",
+      "title": "Meeting Creek",
+      "latitude": 52.68147,
+      "longitude": -112.72862,
+      "directions": "On 50th Avenue, Meeting Creek, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197015",
+      "photo_urls": []
+    },
+    {
+      "id": "197022",
+      "title": "Wetaskiwin Court House/La Palais de Justice de Wetaskiwin",
+      "latitude": 52.96865,
+      "longitude": -113.36687,
+      "directions": "On 50th Avenue, Wetaskiwin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197022",
+      "photo_urls": []
+    },
+    {
+      "id": "197029",
+      "title": "Wetaskiwin Post Office",
+      "latitude": 52.96979,
+      "longitude": -113.37498,
+      "directions": "On 50th Avenue, Wetaskiwin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197029",
+      "photo_urls": []
+    },
+    {
+      "id": "197030",
+      "title": "Wetaskiwin Water Tower",
+      "latitude": 52.97158,
+      "longitude": -113.38988,
+      "directions": "On 56th Street (State Route 2A) , Wetaskiwin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197030",
+      "photo_urls": []
+    },
+    {
+      "id": "197033",
+      "title": "The Battle River Trestle",
+      "latitude": 52.87653,
+      "longitude": -111.04844,
+      "directions": "On Viewpoint Road, Fabyan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197033",
+      "photo_urls": []
+    },
+    {
+      "id": "197037",
+      "title": "The Battle River Trestle",
+      "latitude": 52.87651,
+      "longitude": -111.04846,
+      "directions": "On Viewpoint Road, Fabyan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197037",
+      "photo_urls": []
+    },
+    {
+      "id": "197041",
+      "title": "Wainwright Old Town Hall",
+      "latitude": 52.83332,
+      "longitude": -110.86004,
+      "directions": "On 2 Avenue, Wainwright, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197041",
+      "photo_urls": []
+    },
+    {
+      "id": "197042",
+      "title": "Wainwright Memorial Clock Tower",
+      "latitude": 52.83350916,
+      "longitude": -110.86104519,
+      "directions": "On 10 Street, Wainwright, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197042",
+      "photo_urls": []
+    },
+    {
+      "id": "197045",
+      "title": "CNR Water Tank",
+      "latitude": 53.76693,
+      "longitude": -110.52155,
+      "directions": "On Township Road 553B, Heinsburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197045",
+      "photo_urls": []
+    },
+    {
+      "id": "197046",
+      "title": "Strathcona Public Library",
+      "latitude": 53.51984,
+      "longitude": -113.4972,
+      "directions": "On 104 Street Northwest, Edmonton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197046",
+      "photo_urls": []
+    },
+    {
+      "id": "197047",
+      "title": "Strathcona Fire Hall Number 1",
+      "latitude": 53.5192,
+      "longitude": -113.4961,
+      "directions": "On 83 Avenue Northwest, Edmonton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197047",
+      "photo_urls": []
+    },
+    {
+      "id": "197048",
+      "title": "Fire Hall No. 6",
+      "latitude": 53.5192,
+      "longitude": -113.49616,
+      "directions": "On 83 Avenue Northwest, Edmonton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197048",
+      "photo_urls": []
+    },
+    {
+      "id": "197052",
+      "title": "The High Level Bridge",
+      "latitude": 53.53257,
+      "longitude": -113.50937,
+      "directions": "On 109 Street Northwest, Edmonton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197052",
+      "photo_urls": []
+    },
+    {
+      "id": "197056",
+      "title": "Low Level Bridge",
+      "latitude": 53.53755494,
+      "longitude": -113.48532707,
+      "directions": "On Connors Road Northwest, Edmonton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197056",
+      "photo_urls": []
+    },
+    {
+      "id": "197059",
+      "title": "Jasper Information Centre/Le centre d'information de Jasper",
+      "latitude": 52.8771,
+      "longitude": -118.080033,
+      "directions": "On Connaught Drive (State Route 16A) , Jasper, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197059",
+      "photo_urls": []
+    },
+    {
+      "id": "197062",
+      "title": "An Architectural Landmark",
+      "latitude": 51.18161,
+      "longitude": -115.57608,
+      "directions": "On Railway Avenue, Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197062",
+      "photo_urls": []
+    },
+    {
+      "id": "197082",
+      "title": "Coal Train Comin'",
+      "latitude": 51.09164736,
+      "longitude": -115.36939521,
+      "directions": "On Spur Line Trail, Canmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197082",
+      "photo_urls": []
+    },
+    {
+      "id": "201700",
+      "title": "First Air Crossing of the Canadian Rockies / Première traversée des Rocheuses en avion",
+      "latitude": 49.69652795,
+      "longitude": -112.83918972,
+      "directions": "Near 3 Avenue South, Lethbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201700",
+      "photo_urls": []
+    },
+    {
+      "id": "201753",
+      "title": "The Murder of Constable Graburn",
+      "latitude": 49.96442791,
+      "longitude": -110.36250748,
+      "directions": "On Trans-Canada Highway (Buffalo Trail) (State Route 1/41) , near Irvine, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201753",
+      "photo_urls": []
+    },
+    {
+      "id": "201765",
+      "title": "Home of the First Pivot Irrigation System in Canada",
+      "latitude": 49.82924211,
+      "longitude": -111.52135007,
+      "directions": "On Crowsnest Highway (State Route 3) , Burdett, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201765",
+      "photo_urls": []
+    },
+    {
+      "id": "201774",
+      "title": "Mennonite Settlement",
+      "latitude": 49.73791823,
+      "longitude": -112.56738767,
+      "directions": "On Crowsnest Highway (State Route 3) , Coaldale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201774",
+      "photo_urls": []
+    },
+    {
+      "id": "202450",
+      "title": "Rt. Hon. Richard Bedford Bennett",
+      "latitude": 51.04089041,
+      "longitude": -114.0690692,
+      "directions": "On 13 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202450",
+      "photo_urls": []
+    },
+    {
+      "id": "202487",
+      "title": "From Tank 77 to Taber Today",
+      "latitude": 49.78240079,
+      "longitude": -112.15006458,
+      "directions": "On 50 Street, Taber, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202487",
+      "photo_urls": []
+    },
+    {
+      "id": "202492",
+      "title": "Gleichen's Count Albert Gleichen",
+      "latitude": 50.86535709,
+      "longitude": -113.05271779,
+      "directions": "On 5 Avenue, Gleichen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202492",
+      "photo_urls": []
+    },
+    {
+      "id": "202496",
+      "title": "St Andrew's Church • 1909",
+      "latitude": 51.18864211,
+      "longitude": -114.46515087,
+      "directions": "On 1 Street East, Cochrane, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202496",
+      "photo_urls": []
+    },
+    {
+      "id": "202599",
+      "title": "Henry House",
+      "latitude": 52.87695409,
+      "longitude": -118.0721769,
+      "directions": "On Yellowhead Highway (State Route 16) , Jasper, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202599",
+      "photo_urls": []
+    },
+    {
+      "id": "202627",
+      "title": "Calgary City Hall / Hôtel de ville de Calgary",
+      "latitude": 51.0459142,
+      "longitude": -114.05776612,
+      "directions": "On Macleod Trail Southeast, Calgary, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202627",
+      "photo_urls": []
+    },
+    {
+      "id": "203491",
+      "title": "Dead Man's Flats",
+      "latitude": 51.0392758,
+      "longitude": -115.26708912,
+      "directions": "On 1 Avenue, Dead Man&#39;s Flats, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203491",
+      "photo_urls": []
+    },
+    {
+      "id": "203570",
+      "title": "Tae G&#365;h They Hunch",
+      "latitude": 51.03927109,
+      "longitude": -115.26711497,
+      "directions": "On 1 Avenue, Dead Man&#39;s Flats, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203570",
+      "photo_urls": []
+    },
+    {
+      "id": "203626",
+      "title": "Yellowhead / Tête Jaune",
+      "latitude": 53.2390995,
+      "longitude": -117.79420182,
+      "directions": "On Yellowhead Highway (State Route 16) , near Pocahontas, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203626",
+      "photo_urls": []
+    },
+    {
+      "id": "203680",
+      "title": "Jasper House",
+      "latitude": 53.14588822,
+      "longitude": -117.97728807,
+      "directions": "On Yellowhead Highway (State Route 16) , Devona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203680",
+      "photo_urls": []
+    },
+    {
+      "id": "203686",
+      "title": "David Thompson",
+      "latitude": 52.7173192,
+      "longitude": -117.8749769,
+      "directions": "On Icefields Parkway (State Route 93) , near Jasper, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203686",
+      "photo_urls": []
+    },
+    {
+      "id": "203692",
+      "title": "The Overlanders of 1862 / Les Argonautes de 1862",
+      "latitude": 52.94321349,
+      "longitude": -118.03902581,
+      "directions": "On Yellowhead Highway (State Route 16) , Jasper, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203692",
+      "photo_urls": []
+    },
+    {
+      "id": "204235",
+      "title": "Ukrainian Settlement",
+      "latitude": 53.56964726,
+      "longitude": -112.61873224,
+      "directions": "Near Yellowhead Highway (State Route 16) , Hilliard, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204235",
+      "photo_urls": []
+    },
+    {
+      "id": "205223",
+      "title": "\"Grande Cache\" / astatchiko-uwin",
+      "latitude": 53.88565842,
+      "longitude": -119.10938228,
+      "directions": "On 100 Street (State Route 40) , Grande Cache, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205223",
+      "photo_urls": []
+    },
+    {
+      "id": "205301",
+      "title": "Medicine Hat Flood Memorial",
+      "latitude": 50.04208,
+      "longitude": -110.676429,
+      "directions": "On First Street (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205301",
+      "photo_urls": []
+    },
+    {
+      "id": "205303",
+      "title": "Dutch Canadian Society of Medicine Hat and District",
+      "latitude": 50.042136,
+      "longitude": -110.675986,
+      "directions": "On First Street (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205303",
+      "photo_urls": []
+    },
+    {
+      "id": "205307",
+      "title": "Canadian Pacific Railway",
+      "latitude": 50.04245,
+      "longitude": -110.67577,
+      "directions": "On First Street (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205307",
+      "photo_urls": []
+    },
+    {
+      "id": "205308",
+      "title": "Medicine Hat Sherman Tank",
+      "latitude": 50.042366,
+      "longitude": -110.675462,
+      "directions": "On First Street (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205308",
+      "photo_urls": []
+    },
+    {
+      "id": "205310",
+      "title": "Medicine Hat Veterans Memorial",
+      "latitude": 50.041994,
+      "longitude": -110.676673,
+      "directions": "On 1st Street SE (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205310",
+      "photo_urls": []
+    },
+    {
+      "id": "205323",
+      "title": "Medicine Hat WW I 1914 - 1918 Veterans Memorial",
+      "latitude": 50.042107,
+      "longitude": -110.676613,
+      "directions": "On 1st Street SE (National Route 41) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205323",
+      "photo_urls": []
+    },
+    {
+      "id": "205357",
+      "title": "Central Motors, Empress Theater, Medicine Hat News",
+      "latitude": 50.041772,
+      "longitude": -110.677506,
+      "directions": "On 6th Street, Medicine Hat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205357",
+      "photo_urls": []
+    },
+    {
+      "id": "205412",
+      "title": "The Potteries of Medicine Hat",
+      "latitude": 50.01203288,
+      "longitude": -110.684835,
+      "directions": "Near Southridge Drive Southeast, Medicine Hat, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205412",
+      "photo_urls": []
+    },
+    {
+      "id": "206184",
+      "title": "Creation of the Province of Alberta / Création de la province d'Alberta",
+      "latitude": 53.53413017,
+      "longitude": -113.50502718,
+      "directions": "On Legislature Building Road Northwest, Edmonton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206184",
+      "photo_urls": []
+    },
+    {
+      "id": "206503",
+      "title": "Old Mannville",
+      "latitude": 53.33444243,
+      "longitude": -111.17550434,
+      "directions": "On 47 Street (State Route 881) , Mannville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206503",
+      "photo_urls": []
+    },
+    {
+      "id": "206506",
+      "title": "Maskipeton",
+      "latitude": 52.82934868,
+      "longitude": -113.44797428,
+      "directions": "On State Route 2A, Maskwacis, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206506",
+      "photo_urls": []
+    },
+    {
+      "id": "206513",
+      "title": "Railway Station",
+      "latitude": 52.97038183,
+      "longitude": -113.37338179,
+      "directions": "On 50 Street, Wetaskiwin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206513",
+      "photo_urls": []
+    },
+    {
+      "id": "206552",
+      "title": "St. Patrick's Roman Catholic Church / L'Église Catholique St. Patrick",
+      "latitude": 50.04524974,
+      "longitude": -110.68082582,
+      "directions": "On 2 Street Northeast, Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206552",
+      "photo_urls": []
+    },
+    {
+      "id": "206559",
+      "title": "Courthouse",
+      "latitude": 50.04067175,
+      "longitude": -110.67990939,
+      "directions": "On 1 Street Southeast (State Route 41A) , Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206559",
+      "photo_urls": []
+    },
+    {
+      "id": "206564",
+      "title": "Ewart Duggan House",
+      "latitude": 50.04027571,
+      "longitude": -110.68023218,
+      "directions": "On 1 Street Southeast (State Route 41A) , Medicine Hat, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206564",
+      "photo_urls": []
+    },
+    {
+      "id": "206574",
+      "title": "Toronto Street School",
+      "latitude": 50.03867116,
+      "longitude": -110.67909015,
+      "directions": "On 3rd Street Southeast, Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206574",
+      "photo_urls": []
+    },
+    {
+      "id": "206575",
+      "title": "River Road — \"Gunter's Folly\"",
+      "latitude": 50.04207506,
+      "longitude": -110.67866682,
+      "directions": "On River Road Southeast, Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206575",
+      "photo_urls": []
+    },
+    {
+      "id": "206609",
+      "title": "Canadian Pacific Railway Station",
+      "latitude": 52.26907995,
+      "longitude": -113.81629783,
+      "directions": "On 51 Avenue (State Route 2A) , Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206609",
+      "photo_urls": []
+    },
+    {
+      "id": "206611",
+      "title": "Brumpton Store",
+      "latitude": 52.26888551,
+      "longitude": -113.81433293,
+      "directions": "On 50 Street, Red Deer, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206611",
+      "photo_urls": []
+    },
+    {
+      "id": "206637",
+      "title": "A. P. Burns House and Gas City Planing Mill",
+      "latitude": 50.04118102,
+      "longitude": -110.67832183,
+      "directions": "On 1 Street Southeast (State Route 41A) , Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206637",
+      "photo_urls": []
+    },
+    {
+      "id": "206682",
+      "title": "Site of Medicine Hat's First Radio Station",
+      "latitude": 50.04118694,
+      "longitude": -110.67867381,
+      "directions": "On 1 Street Southeast (State Route 41A) , Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206682",
+      "photo_urls": []
+    },
+    {
+      "id": "206688",
+      "title": "Historical Reflections",
+      "latitude": 50.04231629,
+      "longitude": -110.67612947,
+      "directions": "Near 1 Street Southeast (State Route 41A) , Medicine Hat, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206688",
+      "photo_urls": []
+    },
+    {
+      "id": "206694",
+      "title": "Club Café",
+      "latitude": 52.26889806,
+      "longitude": -113.81489515,
+      "directions": "On 50 Street, Red Deer, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206694",
+      "photo_urls": []
+    },
+    {
+      "id": "206712",
+      "title": "Greene Block",
+      "latitude": 52.26880178,
+      "longitude": -113.81420848,
+      "directions": "On Gaetz Avenue (50 Avenue), Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206712",
+      "photo_urls": []
+    },
+    {
+      "id": "206759",
+      "title": "Builders' Hardware",
+      "latitude": 52.27012329,
+      "longitude": -113.81420378,
+      "directions": "On Gaetz Avenue (50 Avenue), Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206759",
+      "photo_urls": []
+    },
+    {
+      "id": "206763",
+      "title": "Farthing Block",
+      "latitude": 52.26915959,
+      "longitude": -113.81324036,
+      "directions": "On 50 Street, Red Deer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206763",
+      "photo_urls": []
+    },
+    {
+      "id": "206778",
+      "title": "Home Grill",
+      "latitude": 52.26918899,
+      "longitude": -113.81366777,
+      "directions": "On 50 Street, Red Deer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206778",
+      "photo_urls": []
+    },
+    {
+      "id": "206783",
+      "title": "Hargrave Sissons Block and Grocery Warehouse Addition",
+      "latitude": 50.04117458,
+      "longitude": -110.6743621,
+      "directions": "On 2 Street Southeast, Medicine Hat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206783",
+      "photo_urls": []
+    },
+    {
+      "id": "206785",
+      "title": "Hull Block",
+      "latitude": 50.03962861,
+      "longitude": -110.67572007,
+      "directions": "On 3rd Street Southeast, Medicine Hat, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206785",
+      "photo_urls": []
+    },
+    {
+      "id": "206841",
+      "title": "Horsley Block",
+      "latitude": 52.26935453,
+      "longitude": -113.81390621,
+      "directions": "On Gaetz Avenue (50 Avenue), Red Deer, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206841",
+      "photo_urls": []
+    },
+    {
+      "id": "206876",
+      "title": "Maurice Shoe Shop",
+      "latitude": 52.26918549,
+      "longitude": -113.81378908,
+      "directions": "On 50 Street, Red Deer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206876",
+      "photo_urls": []
+    },
+    {
+      "id": "206882",
+      "title": "Rollis Block",
+      "latitude": 52.2694976,
+      "longitude": -113.81391278,
+      "directions": "On Gaetz Avenue (50 Avenue), Red Deer, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206882",
+      "photo_urls": []
+    },
+    {
+      "id": "206902",
+      "title": "Merchants Bank of Canada",
+      "latitude": 50.04104274,
+      "longitude": -110.67470296,
+      "directions": "On 2 Street Southeast, Medicine Hat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206902",
+      "photo_urls": []
+    },
+    {
+      "id": "206913",
+      "title": "Monarch Theatre",
+      "latitude": 50.04060667,
+      "longitude": -110.67593284,
+      "directions": "On 2nd Street Southeast, Medicine Hat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206913",
+      "photo_urls": []
+    },
+    {
+      "id": "206914",
+      "title": "First Street South Municipal Historic Area",
+      "latitude": 50.0398704,
+      "longitude": -110.68248392,
+      "directions": "On 1 Street Southeast, Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206914",
+      "photo_urls": []
+    },
+    {
+      "id": "206970",
+      "title": "Reverend Dr. Leonard Gaetz",
+      "latitude": 52.26893047,
+      "longitude": -113.81428499,
+      "directions": "On 50 Street, Red Deer, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206970",
+      "photo_urls": []
+    },
+    {
+      "id": "206972",
+      "title": "Snell-Dodds Block",
+      "latitude": 52.2687445,
+      "longitude": -113.814208,
+      "directions": "On Gaetz Avenue (50 Avenue), Red Deer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206972",
+      "photo_urls": []
+    },
+    {
+      "id": "206986",
+      "title": "Fifth Avenue Memorial United Church",
+      "latitude": 50.03817378,
+      "longitude": -110.67742987,
+      "directions": "On 4 Street Southeast, Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206986",
+      "photo_urls": []
+    },
+    {
+      "id": "206995",
+      "title": "St. John's Presbyterian Church",
+      "latitude": 50.04002855,
+      "longitude": -110.67847978,
+      "directions": "On 2 Street Southeast, Medicine Hat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206995",
+      "photo_urls": []
+    },
+    {
+      "id": "212197",
+      "title": "History of Vermilion",
+      "latitude": 53.34999304,
+      "longitude": -110.85821154,
+      "directions": "On Buffalo Trail (State Route 41) , Vermilion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212197",
+      "photo_urls": []
+    },
+    {
+      "id": "212400",
+      "title": "The Yellowhead Route",
+      "latitude": 53.27835995,
+      "longitude": -110.00597002,
+      "directions": "On Meridian Avenue (50 Avenue) (State Route 17) , Lloydminster, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212400",
+      "photo_urls": []
+    },
+    {
+      "id": "212401",
+      "title": "City Hall",
+      "latitude": 53.27892377,
+      "longitude": -110.00641974,
+      "directions": "On Meridian Avenue (50 Avenue) (State Route 17) , Lloydminster, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212401",
+      "photo_urls": []
+    },
+    {
+      "id": "212446",
+      "title": "The Pioneer Store",
+      "latitude": 52.37887861,
+      "longitude": -113.79521397,
+      "directions": "On Broadway Avenue, Blackfalds, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212446",
+      "photo_urls": []
+    },
+    {
+      "id": "212479",
+      "title": "Fort Saskatchewan",
+      "latitude": 53.71224667,
+      "longitude": -113.21737,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212479",
+      "photo_urls": []
+    },
+    {
+      "id": "212495",
+      "title": "Jarvis Memorial Park",
+      "latitude": 53.71187016,
+      "longitude": -113.2153355,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212495",
+      "photo_urls": []
+    },
+    {
+      "id": "212496",
+      "title": "The Native Peoples",
+      "latitude": 53.71185698,
+      "longitude": -113.21521161,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212496",
+      "photo_urls": []
+    },
+    {
+      "id": "212497",
+      "title": "The First Missionaries",
+      "latitude": 53.71192704,
+      "longitude": -113.21528731,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212497",
+      "photo_urls": []
+    },
+    {
+      "id": "212498",
+      "title": "The First Settlers",
+      "latitude": 53.7119022,
+      "longitude": -113.21537947,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212498",
+      "photo_urls": []
+    },
+    {
+      "id": "212499",
+      "title": "The North-West Mounted Police",
+      "latitude": 53.71182704,
+      "longitude": -113.21529829,
+      "directions": "Near 101 Street, Fort Saskatchewan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212499",
+      "photo_urls": []
+    },
+    {
+      "id": "212500",
+      "title": "Wabamun CNR Train Station",
+      "latitude": 53.55754643,
+      "longitude": -114.47177581,
+      "directions": "On 51 Avenue, Wabamun, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212500",
+      "photo_urls": []
+    },
+    {
+      "id": "212533",
+      "title": "Era of the Automobile / L'ère de l'automobile",
+      "latitude": 51.22320268,
+      "longitude": -115.78350869,
+      "directions": "On Bow Valley Parkway (State Route 1A) , near Massive, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212533",
+      "photo_urls": []
+    },
+    {
+      "id": "213002",
+      "title": "The First Bank in Leduc",
+      "latitude": 53.26386411,
+      "longitude": -113.54807621,
+      "directions": "On 49 Avenue, Leduc, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213002",
+      "photo_urls": []
+    },
+    {
+      "id": "213003",
+      "title": "George Ambrose Liggins",
+      "latitude": 53.26325448,
+      "longitude": -113.54629695,
+      "directions": "Near 47 Street, Leduc, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213003",
+      "photo_urls": []
+    },
+    {
+      "id": "214276",
+      "title": "The Stoney People",
+      "latitude": 51.18699999,
+      "longitude": -114.825009,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214276",
+      "photo_urls": []
+    },
+    {
+      "id": "214278",
+      "title": "The Methodist Missionaries",
+      "latitude": 51.18701997,
+      "longitude": -114.82502465,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214278",
+      "photo_urls": []
+    },
+    {
+      "id": "214291",
+      "title": "Rev. George MacDougall",
+      "latitude": 51.18708841,
+      "longitude": -114.82499265,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214291",
+      "photo_urls": []
+    },
+    {
+      "id": "214296",
+      "title": "Restoring the Church",
+      "latitude": 51.18675179,
+      "longitude": -114.82477979,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214296",
+      "photo_urls": []
+    },
+    {
+      "id": "214297",
+      "title": "McDougall Memorial",
+      "latitude": 51.18811661,
+      "longitude": -114.82609855,
+      "directions": "On Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214297",
+      "photo_urls": []
+    },
+    {
+      "id": "214298",
+      "title": "Establishing Morleyville",
+      "latitude": 51.18697994,
+      "longitude": -114.82499693,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214298",
+      "photo_urls": []
+    },
+    {
+      "id": "214299",
+      "title": "Building A Church",
+      "latitude": 51.18677698,
+      "longitude": -114.82479854,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214299",
+      "photo_urls": []
+    },
+    {
+      "id": "214300",
+      "title": "Morleyville Historic Mission",
+      "latitude": 51.18788435,
+      "longitude": -114.82582303,
+      "directions": "On Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214300",
+      "photo_urls": []
+    },
+    {
+      "id": "214301",
+      "title": "Caretaker's Cabin",
+      "latitude": 51.18673383,
+      "longitude": -114.82476097,
+      "directions": "Near Bow Valley Trail (State Route 1A) , near Morley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214301",
+      "photo_urls": []
+    },
+    {
+      "id": "214848",
+      "title": "Calgary and Edmonton Railway",
+      "latitude": 53.09458032,
+      "longitude": -113.47098975,
+      "directions": "On 50 Street (State Route 2A) , Millet, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214848",
+      "photo_urls": []
+    },
+    {
+      "id": "220697",
+      "title": "First Coal Mine in Alberta / La première houillère de L'Alberta",
+      "latitude": 49.69656338,
+      "longitude": -112.83843583,
+      "directions": "Near 3 Avenue South, Lethbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220697",
+      "photo_urls": []
+    },
+    {
+      "id": "220698",
+      "title": "John Rowand",
+      "latitude": 53.5319887,
+      "longitude": -113.50670146,
+      "directions": "Near Fortway Drive Northwest, Edmonton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220698",
+      "photo_urls": []
+    },
+    {
+      "id": "220699",
+      "title": "Stephen Avenue / L'avenue Stephen",
+      "latitude": 51.04567101,
+      "longitude": -114.06429646,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220699",
+      "photo_urls": []
+    },
+    {
+      "id": "220807",
+      "title": "The Palace Theatre / Le Théâtre Palace",
+      "latitude": 51.04555133,
+      "longitude": -114.06658469,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220807",
+      "photo_urls": []
+    },
+    {
+      "id": "220809",
+      "title": "The Clarence Block ~ 1900",
+      "latitude": 51.04568968,
+      "longitude": -114.06449285,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220809",
+      "photo_urls": []
+    },
+    {
+      "id": "220858",
+      "title": "The Builders",
+      "latitude": 51.04572352,
+      "longitude": -114.0677109,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220858",
+      "photo_urls": []
+    },
+    {
+      "id": "220862",
+      "title": "Lougheed Home",
+      "latitude": 51.04569845,
+      "longitude": -114.06472725,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220862",
+      "photo_urls": []
+    },
+    {
+      "id": "220868",
+      "title": "The Buildings",
+      "latitude": 51.04556704,
+      "longitude": -114.06576911,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220868",
+      "photo_urls": []
+    },
+    {
+      "id": "220894",
+      "title": "The Meeting Place",
+      "latitude": 51.04565692,
+      "longitude": -114.06524568,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220894",
+      "photo_urls": []
+    },
+    {
+      "id": "220895",
+      "title": "Sitting Eagle",
+      "latitude": 51.04668046,
+      "longitude": -114.07608502,
+      "directions": "On 6 Street Southwest, Calgary, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220895",
+      "photo_urls": []
+    },
+    {
+      "id": "220896",
+      "title": "Western Canada High School",
+      "latitude": 51.03730964,
+      "longitude": -114.07672148,
+      "directions": "Near 17 Avenue Southwest, Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220896",
+      "photo_urls": []
+    },
+    {
+      "id": "220897",
+      "title": "Central High School",
+      "latitude": 51.04132296,
+      "longitude": -114.08260668,
+      "directions": "On 13 Avenue Southwest, Calgary, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220897",
+      "photo_urls": []
+    },
+    {
+      "id": "220899",
+      "title": "Scollen Bridge",
+      "latitude": 51.03031286,
+      "longitude": -114.06394946,
+      "directions": "On 25 Avenue Southwest, Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220899",
+      "photo_urls": []
+    },
+    {
+      "id": "220900",
+      "title": "Cathedral Church of the Redeemer",
+      "latitude": 51.04663941,
+      "longitude": -114.06022912,
+      "directions": "On 7 Avenue Southeast, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220900",
+      "photo_urls": []
+    },
+    {
+      "id": "220992",
+      "title": "North-West Travellers Building",
+      "latitude": 51.04796217,
+      "longitude": -114.06055045,
+      "directions": "On 1 Street Southeast (Macleod Trail), Calgary, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220992",
+      "photo_urls": []
+    },
+    {
+      "id": "220995",
+      "title": "Molson Bank ~ 1911",
+      "latitude": 51.04566455,
+      "longitude": -114.06404313,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220995",
+      "photo_urls": []
+    },
+    {
+      "id": "220996",
+      "title": "Doll Block",
+      "latitude": 51.04559501,
+      "longitude": -114.06213999,
+      "directions": "On 8 Avenue Southeast (Stephen Avenue), Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220996",
+      "photo_urls": []
+    },
+    {
+      "id": "220997",
+      "title": "This Cairn is Erected to Commemorate the Following",
+      "latitude": 51.04658865,
+      "longitude": -114.05963694,
+      "directions": "On 7 Avenue Southeast, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220997",
+      "photo_urls": []
+    },
+    {
+      "id": "220998",
+      "title": "Thomson Block ~ 1893",
+      "latitude": 51.04560512,
+      "longitude": -114.06226066,
+      "directions": "On 8 Avenue Southeast (Stephen Avenue), Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220998",
+      "photo_urls": []
+    },
+    {
+      "id": "220999",
+      "title": "Hudson's Block",
+      "latitude": 51.04565989,
+      "longitude": -114.06338519,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220999",
+      "photo_urls": []
+    },
+    {
+      "id": "221000",
+      "title": "Site of Calgary's Original Court House",
+      "latitude": 51.04718316,
+      "longitude": -114.07269527,
+      "directions": "Near 4 Street Southwest, Calgary, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221000",
+      "photo_urls": []
+    },
+    {
+      "id": "221143",
+      "title": "Cathedral Church of the Redeemer",
+      "latitude": 51.0466479,
+      "longitude": -114.0602346,
+      "directions": "On 7 Avenue Southeast, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221143",
+      "photo_urls": []
+    },
+    {
+      "id": "221264",
+      "title": "T.C. Power & Bro.",
+      "latitude": 51.04550068,
+      "longitude": -114.06493478,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221264",
+      "photo_urls": []
+    },
+    {
+      "id": "221349",
+      "title": "Imperial Bank of Canada ~ Ca. 1910",
+      "latitude": 51.04563103,
+      "longitude": -114.06289709,
+      "directions": "On 8 Avenue Southeast (Stephen Avenue), Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221349",
+      "photo_urls": []
+    },
+    {
+      "id": "221429",
+      "title": "Calgary City Hall",
+      "latitude": 51.0460606,
+      "longitude": -114.05769884,
+      "directions": "Near Macleod Trail Southeast, Calgary, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221429",
+      "photo_urls": []
+    },
+    {
+      "id": "221447",
+      "title": "Raoul Wallenberg Corner",
+      "latitude": 51.04621737,
+      "longitude": -114.05781007,
+      "directions": "On Macleod Trail Southeast, Calgary, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221447",
+      "photo_urls": []
+    },
+    {
+      "id": "221483",
+      "title": "Calgary World War Memorial",
+      "latitude": 51.04604601,
+      "longitude": -114.05768542,
+      "directions": "On Macleod Trail Southeast, Calgary, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221483",
+      "photo_urls": []
+    },
+    {
+      "id": "221490",
+      "title": "The View",
+      "latitude": 51.04564344,
+      "longitude": -114.06826467,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221490",
+      "photo_urls": []
+    },
+    {
+      "id": "221492",
+      "title": "The Great White Way",
+      "latitude": 51.0458152,
+      "longitude": -114.07068853,
+      "directions": "On 8 Avenue Southwest (Stephen Avenue), Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221492",
+      "photo_urls": []
+    },
+    {
+      "id": "221493",
+      "title": "The T. Eaton Co. Limited",
+      "latitude": 51.04588014,
+      "longitude": -114.07092749,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221493",
+      "photo_urls": []
+    },
+    {
+      "id": "221494",
+      "title": "Annie Gale",
+      "latitude": 51.04693141,
+      "longitude": -114.072427,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221494",
+      "photo_urls": []
+    },
+    {
+      "id": "221495",
+      "title": "Sir James Alexander Lougheed",
+      "latitude": 51.046931,
+      "longitude": -114.07237154,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221495",
+      "photo_urls": []
+    },
+    {
+      "id": "221496",
+      "title": "Grant MacEwan",
+      "latitude": 51.04693004,
+      "longitude": -114.07231736,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221496",
+      "photo_urls": []
+    },
+    {
+      "id": "221497",
+      "title": "W. O. Mitchell",
+      "latitude": 51.04692993,
+      "longitude": -114.07224722,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221497",
+      "photo_urls": []
+    },
+    {
+      "id": "221498",
+      "title": "Maude Riley",
+      "latitude": 51.04692982,
+      "longitude": -114.07218077,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221498",
+      "photo_urls": []
+    },
+    {
+      "id": "221499",
+      "title": "Arthur Ryan Smith",
+      "latitude": 51.04692971,
+      "longitude": -114.07212758,
+      "directions": "Near 7 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221499",
+      "photo_urls": []
+    },
+    {
+      "id": "221500",
+      "title": "Keeping Memory Alive: The Rock",
+      "latitude": 51.0441312,
+      "longitude": -114.04802182,
+      "directions": "On 9 Avenue Southeast, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221500",
+      "photo_urls": []
+    },
+    {
+      "id": "221648",
+      "title": "Connections",
+      "latitude": 51.04495846,
+      "longitude": -114.04477259,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221648",
+      "photo_urls": []
+    },
+    {
+      "id": "221687",
+      "title": "Early Explorers",
+      "latitude": 51.0447279,
+      "longitude": -114.04461587,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221687",
+      "photo_urls": []
+    },
+    {
+      "id": "221698",
+      "title": "Nitsitapi",
+      "latitude": 51.04474262,
+      "longitude": -114.04462584,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221698",
+      "photo_urls": []
+    },
+    {
+      "id": "221699",
+      "title": "Métis, Whiskey Traders, Missionaries and Settlers",
+      "latitude": 51.04476172,
+      "longitude": -114.0446397,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221699",
+      "photo_urls": []
+    },
+    {
+      "id": "221700",
+      "title": "The City of Calgary",
+      "latitude": 51.04488016,
+      "longitude": -114.04469552,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221700",
+      "photo_urls": []
+    },
+    {
+      "id": "221750",
+      "title": "The North West Mounted Police",
+      "latitude": 51.04480483,
+      "longitude": -114.04464455,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221750",
+      "photo_urls": []
+    },
+    {
+      "id": "221775",
+      "title": "The North West Territories",
+      "latitude": 51.04481948,
+      "longitude": -114.04463818,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221775",
+      "photo_urls": []
+    },
+    {
+      "id": "221784",
+      "title": "The North West Mounted Police March West",
+      "latitude": 51.04483219,
+      "longitude": -114.04463167,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221784",
+      "photo_urls": []
+    },
+    {
+      "id": "221791",
+      "title": "An Outpost on the Bow River",
+      "latitude": 51.04484603,
+      "longitude": -114.04462462,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221791",
+      "photo_urls": []
+    },
+    {
+      "id": "221799",
+      "title": "The Train Arrives in Calgary",
+      "latitude": 51.04485992,
+      "longitude": -114.04461535,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221799",
+      "photo_urls": []
+    },
+    {
+      "id": "221800",
+      "title": "The NWMP Build Calgary Barracks",
+      "latitude": 51.04487516,
+      "longitude": -114.04460901,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221800",
+      "photo_urls": []
+    },
+    {
+      "id": "221801",
+      "title": "The Mounties Sell Calgary Barracks",
+      "latitude": 51.04487346,
+      "longitude": -114.04464843,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221801",
+      "photo_urls": []
+    },
+    {
+      "id": "221802",
+      "title": "The Frontier Community Disappears",
+      "latitude": 51.04487755,
+      "longitude": -114.04467305,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221802",
+      "photo_urls": []
+    },
+    {
+      "id": "221970",
+      "title": "Wars, Depression and Oil",
+      "latitude": 51.04490353,
+      "longitude": -114.04471949,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221970",
+      "photo_urls": []
+    },
+    {
+      "id": "222014",
+      "title": "Calgarians Rediscover Fort Calgary",
+      "latitude": 51.04492849,
+      "longitude": -114.04474226,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222014",
+      "photo_urls": []
+    },
+    {
+      "id": "222035",
+      "title": "John Ayer",
+      "latitude": 51.0453899,
+      "longitude": -114.04490393,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222035",
+      "photo_urls": []
+    },
+    {
+      "id": "222036",
+      "title": "Fort Calgary's Railway Era",
+      "latitude": 51.04540613,
+      "longitude": -114.04492121,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222036",
+      "photo_urls": []
+    },
+    {
+      "id": "222037",
+      "title": "Building The Ideal City",
+      "latitude": 51.04541982,
+      "longitude": -114.04489403,
+      "directions": "Near 9 Avenue Southeast, Calgary, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222037",
+      "photo_urls": []
+    },
+    {
+      "id": "222137",
+      "title": "Mewata Armoury",
+      "latitude": 51.04625657,
+      "longitude": -114.08910111,
+      "directions": "On 11 Street Southwest, Calgary, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222137",
+      "photo_urls": []
+    },
+    {
+      "id": "222177",
+      "title": "Soldiers Memorial",
+      "latitude": 51.04659735,
+      "longitude": -114.08892251,
+      "directions": "On 11 Street Southwest, Calgary, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222177",
+      "photo_urls": []
+    },
+    {
+      "id": "222195",
+      "title": "The Lancaster Building ~ 1911",
+      "latitude": 51.04582563,
+      "longitude": -114.06846303,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222195",
+      "photo_urls": []
+    },
+    {
+      "id": "222208",
+      "title": "Curtis Block",
+      "latitude": 51.04116137,
+      "longitude": -114.05866478,
+      "directions": "On Macleod Trail Southeast, Calgary, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222208",
+      "photo_urls": []
+    },
+    {
+      "id": "222468",
+      "title": "Remembrance Day Ceremonies inside Mewata Armouries, 1953",
+      "latitude": 51.04616825,
+      "longitude": -114.0884362,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222468",
+      "photo_urls": []
+    },
+    {
+      "id": "222472",
+      "title": "Grace Dewis and boys in front of Mewata Armouries",
+      "latitude": 51.04617936,
+      "longitude": -114.08843698,
+      "directions": "On 8 Avenue Southwest, Calgary, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222472",
+      "photo_urls": []
+    },
+    {
+      "id": "242308",
+      "title": "Western Canada's 1st Producing Oil Well",
+      "latitude": 49.071223,
+      "longitude": -113.987044,
+      "directions": "Near Akamina Parkway, near Waterton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=242308",
+      "photo_urls": []
+    },
+    {
+      "id": "250743",
+      "title": "Canmore Coal Mining",
+      "latitude": 51.08978333,
+      "longitude": -115.35905,
+      "directions": "Near 9 Street, Canmore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250743",
+      "photo_urls": []
+    },
+    {
+      "id": "252885",
+      "title": "Rumbles of Excitement / À Fond de Train",
+      "latitude": 51.42935,
+      "longitude": -116.18825,
+      "directions": "On Sentinel Road, Lake Louise, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252885",
+      "photo_urls": []
+    },
+    {
+      "id": "275458",
+      "title": "Coal Mines of Beverly",
+      "latitude": 53.564912,
+      "longitude": -113.38710649,
+      "directions": "On 30 Street Northwest, Edmonton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=275458",
+      "photo_urls": []
+    },
+    {
+      "id": "280600",
+      "title": "Imperial Bank of Canada (1909)",
+      "latitude": 52.96949777,
+      "longitude": -113.37480504,
+      "directions": "On 50 Avenue, Wetaskiwin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280600",
+      "photo_urls": []
+    },
+    {
+      "id": "285692",
+      "title": "Canadian Rocky Mountain Parks",
+      "latitude": 51.41650605,
+      "longitude": -116.2170895,
+      "directions": "Near Lake Louise Drive, Lake Louise, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285692",
+      "photo_urls": []
+    },
+    {
+      "id": "288970",
+      "title": "The Windsor Hotel",
+      "latitude": 49.58720492,
+      "longitude": -114.16290418,
+      "directions": "On Breckenridge Avenue, Lundbreck, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288970",
+      "photo_urls": []
+    },
+    {
+      "id": "289171",
+      "title": "St. Luke's Anglican Church",
+      "latitude": 53.53186038,
+      "longitude": -113.45700237,
+      "directions": "On 95 Avenue Northwest, Edmonton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289171",
+      "photo_urls": []
+    },
+    {
+      "id": "289872",
+      "title": "Henrietta Muir Edwards",
+      "latitude": 49.72420457,
+      "longitude": -113.40847522,
+      "directions": "On 2 Avenue, Fort Macleod, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289872",
+      "photo_urls": []
+    },
+    {
+      "id": "289875",
+      "title": "Louise Crummy McKinney",
+      "latitude": 50.02573571,
+      "longitude": -113.5842662,
+      "directions": "On 50 Avenue West, Claresholm, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289875",
+      "photo_urls": []
+    },
+    {
+      "id": "289876",
+      "title": "Canadian Pacific Rail Station",
+      "latitude": 50.72394442,
+      "longitude": -113.96791209,
+      "directions": "On North Railway Street, Okotoks, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289876",
+      "photo_urls": []
+    },
+    {
+      "id": "293643",
+      "title": "Tunnel Mountain - What’s in a name?",
+      "latitude": 51.18973889,
+      "longitude": -115.53049444,
+      "directions": "On Tunnel Mountain Road, Banff, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293643",
+      "photo_urls": []
+    },
+    {
+      "id": "294220",
+      "title": "A Piece of Jasper's History / Témoin de l’Histoire de Jasper",
+      "latitude": 52.92484167,
+      "longitude": -118.09785556,
+      "directions": "On Pyramid Island, Jasper, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294220",
+      "photo_urls": []
+    },
+    {
+      "id": "294229",
+      "title": "A Zoo in Banff",
+      "latitude": 51.17388611,
+      "longitude": -115.57219722,
+      "directions": "On Banff Avenue, Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294229",
+      "photo_urls": []
+    },
+    {
+      "id": "294230",
+      "title": "Norman Sanson",
+      "latitude": 51.17391111,
+      "longitude": -115.571525,
+      "directions": "On Banff Avenue, Banff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294230",
+      "photo_urls": []
+    },
+    {
+      "id": "294328",
+      "title": "Amisk Wacîw Mêskanaw Trail / Beaver Hill Road Trail",
+      "latitude": 53.47992222,
+      "longitude": -113.59960278,
+      "directions": "Near Rooney Crescent Northwest, Edmonton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294328",
+      "photo_urls": []
+    },
+    {
+      "id": "70443",
+      "title": "Canadian Pacific Railway Stone Monument",
+      "latitude": 51.424014,
+      "longitude": -116.179133,
+      "directions": "On Lake Louise Drive, Lake Louise, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70443",
+      "photo_urls": []
+    },
+    {
+      "id": "70445",
+      "title": "Defining the Boundary of the Great Divide",
+      "latitude": 51.424014,
+      "longitude": -116.179133,
+      "directions": "Near Lake Louise Drive, Lake Louise, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70445",
+      "photo_urls": []
+    },
+    {
+      "id": "82917",
+      "title": "Storm Mountain",
+      "latitude": 51.282052,
+      "longitude": -115.944273,
+      "directions": "On Bow Valley Parkway (State Route 1A) , near Castle Junction, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82917",
+      "photo_urls": []
+    },
+    {
+      "id": "82962",
+      "title": "Waterton",
+      "latitude": 49.051321,
+      "longitude": -113.916235,
+      "directions": "On Evergreen Avenue, Waterton Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82962",
+      "photo_urls": []
+    },
+    {
+      "id": "82964",
+      "title": "Oil & Architecture",
+      "latitude": 49.051313,
+      "longitude": -113.916202,
+      "directions": "On Evergreen Avenue, Waterton Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82964",
+      "photo_urls": []
+    },
+    {
+      "id": "82965",
+      "title": "Dream Town",
+      "latitude": 49.065106,
+      "longitude": -114.0006888,
+      "directions": "On Akamina Parkway (Local Route 14A) , near Waterton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82965",
+      "photo_urls": []
+    },
+    {
+      "id": "8813",
+      "title": "The Pyrogy – Pyrohy",
+      "latitude": 54.25271,
+      "longitude": -111.15403,
+      "directions": "On Pyrogy Drive (State Route 882) , Glendon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8813",
+      "photo_urls": []
+    },
+    {
+      "id": "8814",
+      "title": "Methye Portage",
+      "latitude": 56.73111,
+      "longitude": -111.37233,
+      "directions": "On Morimoto Drive, Fort McMurray, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8814",
+      "photo_urls": []
+    },
+    {
+      "id": "8825",
+      "title": "Turner Valley Gas Plant",
+      "latitude": 50.67488,
+      "longitude": -114.27834,
+      "directions": "On Main Street (State Route 22) , Turner Valley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8825",
+      "photo_urls": []
+    },
+    {
+      "id": "8827",
+      "title": "Castle Mountain Internment Camp",
+      "latitude": 51.2913302,
+      "longitude": -115.96768856,
+      "directions": "On Bow Valley Parkway (State Route 1A) , near Castle Junction, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8827",
+      "photo_urls": []
+    },
+    {
+      "id": "8836",
+      "title": "Banff Park Museum",
+      "latitude": 51.17349,
+      "longitude": -115.57122,
+      "directions": "On Banff Avenue, Banff, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8836",
+      "photo_urls": []
+    },
+    {
+      "id": "8837",
+      "title": "Athabasca Landing",
+      "latitude": 54.721262,
+      "longitude": -113.282797,
+      "directions": "On 49 Avenue (State Route 55) , Athabasca, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8837",
+      "photo_urls": []
+    },
+    {
+      "id": "8856",
+      "title": "Leduc-Woodbend Oil Field",
+      "latitude": 53.32997,
+      "longitude": -113.72903,
+      "directions": "Near State Route 60, near Devon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8856",
+      "photo_urls": []
+    },
+    {
+      "id": "9204",
+      "title": "Turner Valley Oilfield",
+      "latitude": 50.67484,
+      "longitude": -114.2784,
+      "directions": "On Main Street Northwest (State Route 22) , Turner Valley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9204",
+      "photo_urls": []
+    }
+  ]
+}
