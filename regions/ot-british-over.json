@@ -1,0 +1,551 @@
+{
+  "region_id": "ot-british-over",
+  "region_name": "British Overseas Territories",
+  "region_type": "country",
+  "country": "British Overseas Territories",
+  "generated": "2026-04-13T12:43:55.616Z",
+  "source_timestamp": "2026-04-13T12:43:55.616Z",
+  "marker_count": 60,
+  "markers": [
+    {
+      "id": "106348",
+      "title": "Midshipman Richard Sutherland Dale",
+      "latitude": 32.381191,
+      "longitude": -64.676874,
+      "directions": "On King Square, St.George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106348",
+      "photo_urls": []
+    },
+    {
+      "id": "106350",
+      "title": "First Government House",
+      "latitude": 32.381307,
+      "longitude": -64.677319,
+      "directions": "On York Street, St.George&#39;s, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106350",
+      "photo_urls": []
+    },
+    {
+      "id": "106353",
+      "title": "Settlement of Bermuda",
+      "latitude": 32.381959,
+      "longitude": -64.676125,
+      "directions": "On York Street, St.George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106353",
+      "photo_urls": []
+    },
+    {
+      "id": "106355",
+      "title": "Thomas Moore",
+      "latitude": 32.381367,
+      "longitude": -64.676167,
+      "directions": "On King Street, St.George&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106355",
+      "photo_urls": []
+    },
+    {
+      "id": "106359",
+      "title": "John Till",
+      "latitude": 32.38162,
+      "longitude": -64.677629,
+      "directions": "Near York Street, St. George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106359",
+      "photo_urls": []
+    },
+    {
+      "id": "107315",
+      "title": "Victualling Yard",
+      "latitude": 32.327864,
+      "longitude": -64.833696,
+      "directions": "Near Maritime Lane, Sandys, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107315",
+      "photo_urls": []
+    },
+    {
+      "id": "107317",
+      "title": "The Great Western Storehouse",
+      "latitude": 32.325944,
+      "longitude": -64.835472,
+      "directions": "On Camber Road, Sandys, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107317",
+      "photo_urls": []
+    },
+    {
+      "id": "107322",
+      "title": "North Rock Beacon",
+      "latitude": 32.326047,
+      "longitude": -64.835003,
+      "directions": "On Camber Road, Sandys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107322",
+      "photo_urls": []
+    },
+    {
+      "id": "163619",
+      "title": "American Prisoners of the War of 1812 who died in Bermuda",
+      "latitude": 32.38125192,
+      "longitude": -64.67683869,
+      "directions": "On King Street, St.George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=163619",
+      "photo_urls": []
+    },
+    {
+      "id": "166462",
+      "title": "Pilot Darrell's House",
+      "latitude": 32.3818013,
+      "longitude": -64.67867,
+      "directions": "On Aunt Peggy&#39;s Lane, St. George&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=166462",
+      "photo_urls": []
+    },
+    {
+      "id": "219631",
+      "title": "Shipwrecked",
+      "latitude": 21.78781948,
+      "longitude": -72.19539723,
+      "directions": "Near Lower Bight Road, The Bight Settlement, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219631",
+      "photo_urls": []
+    },
+    {
+      "id": "219778",
+      "title": "Welcome to Port Royal",
+      "latitude": 21.78789171,
+      "longitude": -72.19565555,
+      "directions": "Near Lower Bight Road, The Bight Settlement, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219778",
+      "photo_urls": []
+    },
+    {
+      "id": "219861",
+      "title": "Edward Thatch",
+      "latitude": 21.7881361,
+      "longitude": -72.195275,
+      "directions": "Near , The Bight Settlement, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219861",
+      "photo_urls": []
+    },
+    {
+      "id": "241708",
+      "title": "The Broad Arrow",
+      "latitude": 32.326781,
+      "longitude": -64.832639,
+      "directions": "On North Arm, Sandys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241708",
+      "photo_urls": []
+    },
+    {
+      "id": "265824",
+      "title": "Grand Turk and Salt Cay, World Leaders in Salting",
+      "latitude": 21.42794804,
+      "longitude": -71.14446502,
+      "directions": "On , Cockburn Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265824",
+      "photo_urls": []
+    },
+    {
+      "id": "265838",
+      "title": "Lookout Post",
+      "latitude": 19.29502784,
+      "longitude": -81.38304829,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265838",
+      "photo_urls": []
+    },
+    {
+      "id": "265842",
+      "title": "Fort George",
+      "latitude": 19.29673779,
+      "longitude": -81.38298573,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265842",
+      "photo_urls": []
+    },
+    {
+      "id": "265843",
+      "title": "Easter Regatta",
+      "latitude": 19.29675482,
+      "longitude": -81.38293415,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265843",
+      "photo_urls": []
+    },
+    {
+      "id": "265844",
+      "title": "Spanish Attack",
+      "latitude": 19.29675355,
+      "longitude": -81.38293281,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265844",
+      "photo_urls": []
+    },
+    {
+      "id": "265847",
+      "title": "World War II",
+      "latitude": 19.29673287,
+      "longitude": -81.38303036,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265847",
+      "photo_urls": []
+    },
+    {
+      "id": "265850",
+      "title": "The Home Guard",
+      "latitude": 19.2967036,
+      "longitude": -81.38299468,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265850",
+      "photo_urls": []
+    },
+    {
+      "id": "265851",
+      "title": "The U.S. Naval Base",
+      "latitude": 19.29673409,
+      "longitude": -81.38305179,
+      "directions": "On Harbor Drive, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265851",
+      "photo_urls": []
+    },
+    {
+      "id": "266415",
+      "title": "Plantation Era Burial Ground",
+      "latitude": 18.4525799,
+      "longitude": -64.4366494,
+      "directions": "On Little Road, Spanish Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266415",
+      "photo_urls": []
+    },
+    {
+      "id": "266521",
+      "title": "Honourable James (Jim) Manoah Bodden",
+      "latitude": 19.29646914,
+      "longitude": -81.38183859,
+      "directions": "On Fort Street, George Town, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266521",
+      "photo_urls": []
+    },
+    {
+      "id": "266522",
+      "title": "Hon. Ormond Lauder Panton, OBE",
+      "latitude": 19.29649392,
+      "longitude": -81.38165043,
+      "directions": "On Fort Street, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266522",
+      "photo_urls": []
+    },
+    {
+      "id": "266523",
+      "title": "Hon. William Warren Conolly, OBE, JP",
+      "latitude": 19.29647574,
+      "longitude": -81.38163888,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266523",
+      "photo_urls": []
+    },
+    {
+      "id": "266524",
+      "title": "Honourable Leila Elberta Ross-Shier, Cert. Hon.",
+      "latitude": 19.29646149,
+      "longitude": -81.38163196,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266524",
+      "photo_urls": []
+    },
+    {
+      "id": "266525",
+      "title": "Hon. Sybil Joyce Hylton, MBE",
+      "latitude": 19.29647319,
+      "longitude": -81.38179434,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266525",
+      "photo_urls": []
+    },
+    {
+      "id": "266526",
+      "title": "Hon. Desmond Vere Watler, CBE",
+      "latitude": 19.2964532,
+      "longitude": -81.3818097,
+      "directions": "On Fort Street, George Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266526",
+      "photo_urls": []
+    },
+    {
+      "id": "266527",
+      "title": "Hon. Sybil Ione McLaughlin, MBE, JP",
+      "latitude": 19.29644051,
+      "longitude": -81.3818238,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266527",
+      "photo_urls": []
+    },
+    {
+      "id": "266528",
+      "title": "Hon. Thomas William Farrington, CBE, JP",
+      "latitude": 19.29623929,
+      "longitude": -81.38163271,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266528",
+      "photo_urls": []
+    },
+    {
+      "id": "266529",
+      "title": "Hon. Mary Evelyn Wood, Cert. Hon.",
+      "latitude": 19.29626116,
+      "longitude": -81.38161703,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266529",
+      "photo_urls": []
+    },
+    {
+      "id": "266530",
+      "title": "Hon. Dr. Roy Edison McTaggart",
+      "latitude": 19.29627669,
+      "longitude": -81.38159894,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266530",
+      "photo_urls": []
+    },
+    {
+      "id": "266531",
+      "title": "Caymanian Catboat",
+      "latitude": 19.29624354,
+      "longitude": -81.38159378,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266531",
+      "photo_urls": []
+    },
+    {
+      "id": "266617",
+      "title": "Steps to Equality",
+      "latitude": 19.29649438,
+      "longitude": -81.38161009,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266617",
+      "photo_urls": []
+    },
+    {
+      "id": "266623",
+      "title": "Women's Suffrage",
+      "latitude": 19.29672055,
+      "longitude": -81.38153476,
+      "directions": "On Fort Street, George Town, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266623",
+      "photo_urls": []
+    },
+    {
+      "id": "266624",
+      "title": "Fort Knock",
+      "latitude": 19.29656477,
+      "longitude": -81.38229403,
+      "directions": "On Fort Street, George Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266624",
+      "photo_urls": []
+    },
+    {
+      "id": "270210",
+      "title": "United States Navy Anchor",
+      "latitude": 32.37958049,
+      "longitude": -64.6789232,
+      "directions": "On Pennos Drive, St. George&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270210",
+      "photo_urls": []
+    },
+    {
+      "id": "293648",
+      "title": "Grand Turk Historic Lighthouse",
+      "latitude": 21.51158889,
+      "longitude": -71.13351389,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293648",
+      "photo_urls": []
+    },
+    {
+      "id": "293650",
+      "title": "Grand Turk: The Original Columbus Landfall?",
+      "latitude": 21.51192222,
+      "longitude": -71.1335,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293650",
+      "photo_urls": []
+    },
+    {
+      "id": "293652",
+      "title": "Horatio Nelson Lookout Point",
+      "latitude": 21.51206944,
+      "longitude": -71.13374444,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293652",
+      "photo_urls": []
+    },
+    {
+      "id": "30354",
+      "title": "Victoria Public Library",
+      "latitude": 21.468475,
+      "longitude": -71.146635,
+      "directions": "On Front Street, Cockburn Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=30354",
+      "photo_urls": []
+    },
+    {
+      "id": "30404",
+      "title": "Sunnyside",
+      "latitude": 21.470952,
+      "longitude": -71.147423,
+      "directions": "On Front Street, Cockburn Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=30404",
+      "photo_urls": []
+    },
+    {
+      "id": "30674",
+      "title": "St. Mary’s Anglican Pro-Cathedral Church",
+      "latitude": 21.467522,
+      "longitude": -71.14657,
+      "directions": "On Front Street / Queen Street, Cockburn Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=30674",
+      "photo_urls": []
+    },
+    {
+      "id": "31453",
+      "title": "Todds",
+      "latitude": 21.470056,
+      "longitude": -71.147091,
+      "directions": "On Front Street, Cockburn Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31453",
+      "photo_urls": []
+    },
+    {
+      "id": "40274",
+      "title": "Free Mason's Lodge",
+      "latitude": 21.470799,
+      "longitude": -71.147386,
+      "directions": "On Front Street, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40274",
+      "photo_urls": []
+    },
+    {
+      "id": "40288",
+      "title": "Miramar",
+      "latitude": 21.47189,
+      "longitude": -71.147611,
+      "directions": "On Front Street, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40288",
+      "photo_urls": []
+    },
+    {
+      "id": "40293",
+      "title": "Timco",
+      "latitude": 21.470155,
+      "longitude": -71.147131,
+      "directions": "On Front Street, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40293",
+      "photo_urls": []
+    },
+    {
+      "id": "40296",
+      "title": "Crofton Coverley House",
+      "latitude": 21.470328,
+      "longitude": -71.147177,
+      "directions": "On Front Street, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40296",
+      "photo_urls": []
+    },
+    {
+      "id": "40297",
+      "title": "Grant Building",
+      "latitude": 21.470298,
+      "longitude": -71.147155,
+      "directions": "On Front Street, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40297",
+      "photo_urls": []
+    },
+    {
+      "id": "40351",
+      "title": "The History of the West",
+      "latitude": 21.471276,
+      "longitude": -71.1476,
+      "directions": "On Front Street, Cockburn Town, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40351",
+      "photo_urls": []
+    },
+    {
+      "id": "40367",
+      "title": "Grand Turk Historic Lighthouse",
+      "latitude": 21.511432,
+      "longitude": -71.133449,
+      "directions": "On Lighthouse Road, Cockburn Town, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40367",
+      "photo_urls": []
+    },
+    {
+      "id": "40454",
+      "title": "Grand Turk Historic Lighthouse",
+      "latitude": 21.511617,
+      "longitude": -71.133422,
+      "directions": "Near Lighthouse Road, Cockburn Town, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40454",
+      "photo_urls": []
+    },
+    {
+      "id": "40544",
+      "title": "Grand Turk: The Original Columbus Landfall?",
+      "latitude": 21.512011,
+      "longitude": -71.133728,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40544",
+      "photo_urls": []
+    },
+    {
+      "id": "40602",
+      "title": "The Northeast Reef",
+      "latitude": 21.512036,
+      "longitude": -71.133567,
+      "directions": "On Lighthouse Road, Cockburn Town, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40602",
+      "photo_urls": []
+    },
+    {
+      "id": "40663",
+      "title": "Horatio Nelson Lookout Point",
+      "latitude": 21.511984,
+      "longitude": -71.133833,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40663",
+      "photo_urls": []
+    },
+    {
+      "id": "40764",
+      "title": "Trouvadore Shipwreck",
+      "latitude": 21.512146,
+      "longitude": -71.133307,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40764",
+      "photo_urls": []
+    },
+    {
+      "id": "40793",
+      "title": "Lighthouse Keeper's Residence & Bermuda Kitchen",
+      "latitude": 21.511747,
+      "longitude": -71.132854,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40793",
+      "photo_urls": []
+    },
+    {
+      "id": "40833",
+      "title": "U.S. Naval Facility",
+      "latitude": 21.512306,
+      "longitude": -71.13287,
+      "directions": "On Lighthouse Road, Cockburn Town, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40833",
+      "photo_urls": []
+    },
+    {
+      "id": "80425",
+      "title": "Splashdown Grand Turk",
+      "latitude": 21.426595,
+      "longitude": -71.14454,
+      "directions": "On , Cockburn Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80425",
+      "photo_urls": []
+    }
+  ]
+}
