@@ -1,0 +1,92 @@
+{
+  "region_id": "li-liechtenstei",
+  "region_name": "Liechtenstein",
+  "region_type": "country",
+  "country": "Liechtenstein",
+  "generated": "2026-04-13T12:43:55.582Z",
+  "source_timestamp": "2026-04-13T12:43:55.582Z",
+  "marker_count": 9,
+  "markers": [
+    {
+      "id": "255122",
+      "title": "Km.0.+0.Km.",
+      "latitude": 47.13842161,
+      "longitude": 9.52257165,
+      "directions": "On Städtle, Vaduz, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255122",
+      "photo_urls": []
+    },
+    {
+      "id": "255401",
+      "title": "Vaduz",
+      "latitude": 47.14081464,
+      "longitude": 9.52196297,
+      "directions": "On Städtle, Vaduz, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255401",
+      "photo_urls": []
+    },
+    {
+      "id": "255479",
+      "title": "Areal der ehemalige Kapelle St. Florin / Site of the former chapel of St. Florin",
+      "latitude": 47.13646667,
+      "longitude": 9.52276667,
+      "directions": "On Sankt Florinsgasse, Vaduz, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255479",
+      "photo_urls": []
+    },
+    {
+      "id": "255584",
+      "title": "Rathaus der Gemeinde Vaduz / Vaduz City Hall",
+      "latitude": 47.14074444,
+      "longitude": 9.52207825,
+      "directions": "On Städtle, Vaduz, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255584",
+      "photo_urls": []
+    },
+    {
+      "id": "256191",
+      "title": "Johann Wolfgang von Goethe",
+      "latitude": 47.14075469,
+      "longitude": 9.52207883,
+      "directions": "On Städtle, Vaduz, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256191",
+      "photo_urls": []
+    },
+    {
+      "id": "256212",
+      "title": "Schloss Vaduz / Castle Vaduz",
+      "latitude": 47.13861111,
+      "longitude": 9.52266944,
+      "directions": "On Städtle, Vaduz, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256212",
+      "photo_urls": []
+    },
+    {
+      "id": "78072",
+      "title": "City Hall / Former School",
+      "latitude": 47.165849,
+      "longitude": 9.509637,
+      "directions": "On Schulgass, Schaan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78072",
+      "photo_urls": []
+    },
+    {
+      "id": "78135",
+      "title": "I Had a Comrade",
+      "latitude": 47.168258,
+      "longitude": 9.513239,
+      "directions": "Near Feldkircher Strasse, Schaan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78135",
+      "photo_urls": []
+    },
+    {
+      "id": "78885",
+      "title": "Theater",
+      "latitude": 47.167244,
+      "longitude": 9.511766,
+      "directions": "On Reberastrasse, Schaan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78885",
+      "photo_urls": []
+    }
+  ]
+}
