@@ -3,11 +3,11 @@
   "run_id": 103,
   "cycle_day": 19,
   "regions_processed": [
-    "un-omi"
+    "ca-ab"
   ],
   "changes": {
-    "un-omi": {
-      "added": 50,
+    "ca-ab": {
+      "added": 229,
       "removed": 0,
       "modified": 0
     }
