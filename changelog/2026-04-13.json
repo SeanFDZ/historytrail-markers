@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-13",
+  "run_id": 103,
+  "cycle_day": 19,
+  "regions_processed": [
+    "un-omi"
+  ],
+  "changes": {
+    "un-omi": {
+      "added": 50,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 6280,
+  "total_removed": 0,
+  "total_modified": 0
+}
