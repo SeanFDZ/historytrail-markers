@@ -1,0 +1,128 @@
+{
+  "region_id": "za-south-africa",
+  "region_name": "South Africa",
+  "region_type": "country",
+  "country": "South Africa",
+  "generated": "2026-04-13T12:43:55.618Z",
+  "source_timestamp": "2026-04-13T12:43:55.618Z",
+  "marker_count": 13,
+  "markers": [
+    {
+      "id": "62618",
+      "title": "Andrew Geddes Bain, Road Builder and Geologist",
+      "latitude": -33.22861111,
+      "longitude": 26.63305556,
+      "directions": "On County Route 67, near Grahamstown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62618",
+      "photo_urls": []
+    },
+    {
+      "id": "62619",
+      "title": "The Bible",
+      "latitude": -33.29833333,
+      "longitude": 26.49805556,
+      "directions": "Near Strowan Road, near Grahamstown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62619",
+      "photo_urls": []
+    },
+    {
+      "id": "62646",
+      "title": "Schönland Building",
+      "latitude": -33.31444444,
+      "longitude": 26.52,
+      "directions": "Near Lucas Avenue, Grahamstown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62646",
+      "photo_urls": []
+    },
+    {
+      "id": "62647",
+      "title": "The Old Provost",
+      "latitude": -33.31472222,
+      "longitude": 26.51972222,
+      "directions": "On Lucas Avenue, Grahamstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62647",
+      "photo_urls": []
+    },
+    {
+      "id": "62648",
+      "title": "Drostdy Gateway",
+      "latitude": -33.31277778,
+      "longitude": 26.52166667,
+      "directions": "On Somerset Street, Grahamstown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62648",
+      "photo_urls": []
+    },
+    {
+      "id": "62649",
+      "title": "The Yellow House",
+      "latitude": -33.3125,
+      "longitude": 26.52305556,
+      "directions": "On High Street, Grahamstown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62649",
+      "photo_urls": []
+    },
+    {
+      "id": "63632",
+      "title": "Arc of the Meridian",
+      "latitude": -32.69835,
+      "longitude": 18.47866667,
+      "directions": "On Pastorie Street, near Aurora, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63632",
+      "photo_urls": []
+    },
+    {
+      "id": "90917",
+      "title": "Prince Impérial Memorial",
+      "latitude": -28.132134,
+      "longitude": 30.797145,
+      "directions": "Near an unnamed road, near Loss, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=90917",
+      "photo_urls": []
+    },
+    {
+      "id": "91005",
+      "title": "The Death of the Prince Imperial",
+      "latitude": -28.13259,
+      "longitude": 30.797026,
+      "directions": "On an unnamed road, near Uqweqwe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91005",
+      "photo_urls": []
+    },
+    {
+      "id": "91009",
+      "title": "Rorkes Drift",
+      "latitude": -28.347757,
+      "longitude": 30.536446,
+      "directions": "On Route D30, Rorke&#39;s Drift, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91009",
+      "photo_urls": []
+    },
+    {
+      "id": "91079",
+      "title": "Memorial to the Zulu Dead",
+      "latitude": -28.358567,
+      "longitude": 30.537265,
+      "directions": "On the road near the visitor&#39;s center, Rorke&#39;s Drift, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91079",
+      "photo_urls": []
+    },
+    {
+      "id": "91081",
+      "title": "Rorke's Drift Memorial",
+      "latitude": -28.358041,
+      "longitude": 30.537189,
+      "directions": "On , Rorke&#39;s Drift, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91081",
+      "photo_urls": []
+    },
+    {
+      "id": "91732",
+      "title": "Fugitives Drift Memorial",
+      "latitude": -28.386359,
+      "longitude": 30.601326,
+      "directions": "Near Route D31, Rorke&#39;s Drift, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91732",
+      "photo_urls": []
+    }
+  ]
+}
