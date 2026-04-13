@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-11T19:23:52.304Z",
+  "generated": "2026-04-13T12:44:00.765Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 32691,
-  "total_regions": 10,
+  "total_markers": 32694,
+  "total_regions": 11,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -20,6 +20,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 21,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "un-omi",
+      "name": "Omit Inscription",
+      "type": "state",
+      "country": "United States of America",
+      "file": "regions/un-omi.json",
+      "markers": 3,
+      "size_bytes": 1200,
+      "updated": "2026-04-13",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 50,
         "removed": 0,
         "modified": 0
       }
