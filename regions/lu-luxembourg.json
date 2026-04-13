@@ -1,0 +1,245 @@
+{
+  "region_id": "lu-luxembourg",
+  "region_name": "Luxembourg",
+  "region_type": "country",
+  "country": "Luxembourg",
+  "generated": "2026-04-13T12:43:55.582Z",
+  "source_timestamp": "2026-04-13T12:43:55.582Z",
+  "marker_count": 26,
+  "markers": [
+    {
+      "id": "265859",
+      "title": "Aerial Bomb / Bomb d’Avion",
+      "latitude": 49.77294279,
+      "longitude": 6.34138899,
+      "directions": "On CR137, Consdorf, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265859",
+      "photo_urls": []
+    },
+    {
+      "id": "265946",
+      "title": "Otto Rienermann",
+      "latitude": 49.71423984,
+      "longitude": 6.50242529,
+      "directions": "On Rue des Batâliers, Mertert, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265946",
+      "photo_urls": []
+    },
+    {
+      "id": "265948",
+      "title": "Paul Eyschen",
+      "latitude": 49.61071667,
+      "longitude": 6.12995556,
+      "directions": "On Place Guillaume II, Luxembourg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265948",
+      "photo_urls": []
+    },
+    {
+      "id": "265949",
+      "title": "Der éischter Synagog / La Première Synagogue / The First Synagogue",
+      "latitude": 49.60932068,
+      "longitude": 6.13237595,
+      "directions": "On Rue de la Congregation, Luxembourg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265949",
+      "photo_urls": []
+    },
+    {
+      "id": "266010",
+      "title": "Les Écoles Sainte-Sophie / Sainte-Sophie Schools",
+      "latitude": 49.60962366,
+      "longitude": 6.13265677,
+      "directions": "On Rue de la Congrégation, Luxembourg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266010",
+      "photo_urls": []
+    },
+    {
+      "id": "266090",
+      "title": "Ernest Hemingway",
+      "latitude": 49.68541667,
+      "longitude": 6.29374167,
+      "directions": "On Rue de Wormeldange (State Route 122) , Junglinster, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266090",
+      "photo_urls": []
+    },
+    {
+      "id": "266115",
+      "title": "Antoine Meyer",
+      "latitude": 49.61086009,
+      "longitude": 6.12971677,
+      "directions": "On Rue Chimay, Luxembourg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266115",
+      "photo_urls": []
+    },
+    {
+      "id": "266116",
+      "title": "Franz Liszt",
+      "latitude": 49.60985439,
+      "longitude": 6.12713635,
+      "directions": "On Rue Notre Dame, Luxembourg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266116",
+      "photo_urls": []
+    },
+    {
+      "id": "266124",
+      "title": "U.S. Fifth Armored Division Memorial",
+      "latitude": 49.61730818,
+      "longitude": 6.21352423,
+      "directions": "On Rue de la Chapelle, Sandweiler, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266124",
+      "photo_urls": []
+    },
+    {
+      "id": "266132",
+      "title": "Female Conscripted Labor Memorial",
+      "latitude": 49.59979632,
+      "longitude": 6.13392174,
+      "directions": "Near Place de la Gare, Luxembourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266132",
+      "photo_urls": []
+    },
+    {
+      "id": "266146",
+      "title": "Wartime Refuge Memorial",
+      "latitude": 49.71364484,
+      "longitude": 6.49878363,
+      "directions": "Near Grand-Rue, Mertert, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266146",
+      "photo_urls": []
+    },
+    {
+      "id": "266172",
+      "title": "Edmond de la Fontaine",
+      "latitude": 49.61100936,
+      "longitude": 6.13151409,
+      "directions": "On Place Guillaume II, Luxembourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266172",
+      "photo_urls": []
+    },
+    {
+      "id": "266174",
+      "title": "Corps de la Garde-Ducale / Grand Ducal Guard",
+      "latitude": 49.6067771,
+      "longitude": 6.13406883,
+      "directions": "On Viaduc (Local Route 57) , Luxembourg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266174",
+      "photo_urls": []
+    },
+    {
+      "id": "266176",
+      "title": "Jean Racine",
+      "latitude": 49.609308,
+      "longitude": 6.1324318,
+      "directions": "On Rue de la Congregation, Luxembourg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266176",
+      "photo_urls": []
+    },
+    {
+      "id": "266195",
+      "title": "Liberatioun 1944 / Liberation 1944",
+      "latitude": 49.61731929,
+      "longitude": 6.21364052,
+      "directions": "On Rue de la Chapelle, Sandweiler, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266195",
+      "photo_urls": []
+    },
+    {
+      "id": "266385",
+      "title": "Kapell um Kapellebierg / Chapel on Kapellebierg",
+      "latitude": 49.61743056,
+      "longitude": 6.21163889,
+      "directions": "On Rue de la Chapelle, Sandweiler, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266385",
+      "photo_urls": []
+    },
+    {
+      "id": "266613",
+      "title": "Emmanuel Servais",
+      "latitude": 49.60935786,
+      "longitude": 6.13257131,
+      "directions": "On Rue de la Congrégation, Luxembourg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266613",
+      "photo_urls": []
+    },
+    {
+      "id": "266619",
+      "title": "Luxembourg Armed Forces Memorial",
+      "latitude": 49.60675556,
+      "longitude": 6.13399167,
+      "directions": "On Boulevard Franklin Delano Roosevelt, Luxembourg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266619",
+      "photo_urls": []
+    },
+    {
+      "id": "266852",
+      "title": "Haaptstrooss / Main Street",
+      "latitude": 49.61628244,
+      "longitude": 6.21899949,
+      "directions": "On Rue Principale, Sandweiler, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266852",
+      "photo_urls": []
+    },
+    {
+      "id": "266896",
+      "title": "Alliance Internationale de Tourisme",
+      "latitude": 49.60983869,
+      "longitude": 6.12694954,
+      "directions": "On Rue Notre Dame, Luxembourg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266896",
+      "photo_urls": []
+    },
+    {
+      "id": "266950",
+      "title": "Villa Pauly Nazi Terror Memorial",
+      "latitude": 49.60602457,
+      "longitude": 6.12518039,
+      "directions": "On Boulevard de la Pétrusse, Luxembourg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266950",
+      "photo_urls": []
+    },
+    {
+      "id": "266991",
+      "title": "Monument National de la Solidarité Luxembourgeoise / National Monument of Luxembourg Solidarity",
+      "latitude": 49.60698395,
+      "longitude": 6.13406136,
+      "directions": "On Boulevard Franklin Delano Roosevelt, Luxembourg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266991",
+      "photo_urls": []
+    },
+    {
+      "id": "267090",
+      "title": "Lucien Do Rego",
+      "latitude": 49.59940113,
+      "longitude": 6.13384992,
+      "directions": "Near Place de la Gare, Luxembourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267090",
+      "photo_urls": []
+    },
+    {
+      "id": "267945",
+      "title": "“CHARLY” Narrow-Gauge Railway (1904-1954)",
+      "latitude": 49.77304444,
+      "longitude": 6.34159444,
+      "directions": "On Route de Luxembourg (Route 137) , Consdorf, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267945",
+      "photo_urls": []
+    },
+    {
+      "id": "92183",
+      "title": "Luxembourg American Cemetery and Memorial",
+      "latitude": 49.6125,
+      "longitude": 6.1852,
+      "directions": "On Val du Scheid, Luxembourg City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92183",
+      "photo_urls": []
+    },
+    {
+      "id": "92185",
+      "title": "Military Operations in Western Europe",
+      "latitude": 49.61223,
+      "longitude": 6.1851,
+      "directions": "On Val du Scheid, Luxembourg City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92185",
+      "photo_urls": []
+    }
+  ]
+}
