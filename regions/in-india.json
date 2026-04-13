@@ -1,0 +1,191 @@
+{
+  "region_id": "in-india",
+  "region_name": "India",
+  "region_type": "country",
+  "country": "India",
+  "generated": "2026-04-13T12:43:55.581Z",
+  "source_timestamp": "2026-04-13T12:43:55.581Z",
+  "marker_count": 20,
+  "markers": [
+    {
+      "id": "137909",
+      "title": "Paradesi Synagogue",
+      "latitude": 9.95751158,
+      "longitude": 76.25946155,
+      "directions": "On Synagogue Lane, Kochi, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137909",
+      "photo_urls": []
+    },
+    {
+      "id": "138465",
+      "title": "Great War Memorial at St. Francis Catholic Church",
+      "latitude": 9.96608768,
+      "longitude": 76.24074814,
+      "directions": "On St. Francis Church Road, Kochi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138465",
+      "photo_urls": []
+    },
+    {
+      "id": "144418",
+      "title": "Chhatrapati Shivaji Maharaj (formerly Victoria) Terminus",
+      "latitude": 18.93976543,
+      "longitude": 72.83506773,
+      "directions": "On Dr. Dadabhai Naoroji Road, Mumbai, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144418",
+      "photo_urls": []
+    },
+    {
+      "id": "144465",
+      "title": "Cave No. 1 / &#2327;&#2369;&#2347;&#2366; &#2325;&#2364;. 1",
+      "latitude": 20.5524596,
+      "longitude": 75.70223929,
+      "directions": "On Caves Trail, Ajanta, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144465",
+      "photo_urls": []
+    },
+    {
+      "id": "144748",
+      "title": "The Taj Mahal",
+      "latitude": 27.17136626,
+      "longitude": 78.04192699,
+      "directions": "Near , Agra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144748",
+      "photo_urls": []
+    },
+    {
+      "id": "144850",
+      "title": "Diwan-i-Khas",
+      "latitude": 28.65643516,
+      "longitude": 77.24343816,
+      "directions": "Near , New Delhi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144850",
+      "photo_urls": []
+    },
+    {
+      "id": "144852",
+      "title": "Naubat Khana",
+      "latitude": 28.65588668,
+      "longitude": 77.24094071,
+      "directions": "Near , New Delhi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144852",
+      "photo_urls": []
+    },
+    {
+      "id": "144910",
+      "title": "Diw&#257;n-i-Kh&#257;s",
+      "latitude": 26.98553836,
+      "longitude": 75.85079755,
+      "directions": "Near Amer Road, Amer, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144910",
+      "photo_urls": []
+    },
+    {
+      "id": "144911",
+      "title": "Rathores of Marwar - Jodhpur",
+      "latitude": 26.29960096,
+      "longitude": 73.01988604,
+      "directions": "On , Jodhpur, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144911",
+      "photo_urls": []
+    },
+    {
+      "id": "144953",
+      "title": "Iron Pillar",
+      "latitude": 28.52472863,
+      "longitude": 77.18501956,
+      "directions": "Near Kalka Das Marg, Near Qutub Minar, New Delhi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144953",
+      "photo_urls": []
+    },
+    {
+      "id": "216887",
+      "title": "Aguada Fortress (Upper) Candolim",
+      "latitude": 15.4920861,
+      "longitude": 73.7746264,
+      "directions": "Near Fort Aguada Road, Candolim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216887",
+      "photo_urls": []
+    },
+    {
+      "id": "216919",
+      "title": "Upper Fort, Aguada",
+      "latitude": 15.49202169,
+      "longitude": 73.77456208,
+      "directions": "Near Fort Aguada Road, Candolim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216919",
+      "photo_urls": []
+    },
+    {
+      "id": "217002",
+      "title": "Site of the Temple of Saptakoteshwar",
+      "latitude": 15.53151762,
+      "longitude": 73.92619658,
+      "directions": "On , near Naroa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217002",
+      "photo_urls": []
+    },
+    {
+      "id": "220739",
+      "title": "The Tower of the Church of St. Augustine",
+      "latitude": 15.50050362,
+      "longitude": 73.9064674,
+      "directions": "Near , Velha Goa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220739",
+      "photo_urls": []
+    },
+    {
+      "id": "243135",
+      "title": "History of Railway Board Building",
+      "latitude": 31.10540222,
+      "longitude": 77.16490529,
+      "directions": "On Mall Road, Shimla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243135",
+      "photo_urls": []
+    },
+    {
+      "id": "253744",
+      "title": "Tibetan National Martyrs' Memorial",
+      "latitude": 32.23252354,
+      "longitude": 76.3248105,
+      "directions": "On Temple Road, Dharamshala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253744",
+      "photo_urls": []
+    },
+    {
+      "id": "265817",
+      "title": "The Speech of the Maharaja of Cochin",
+      "latitude": 9.94373199,
+      "longitude": 76.34279354,
+      "directions": "Near Kalikotta Palace Road, Kochi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265817",
+      "photo_urls": []
+    },
+    {
+      "id": "292620",
+      "title": "Travancore marker - Puthenmalika Palace",
+      "latitude": 8.48199858,
+      "longitude": 76.94533427,
+      "directions": "Near Bhajanapura Palace Road, Thiruvananthapuram, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292620",
+      "photo_urls": []
+    },
+    {
+      "id": "293360",
+      "title": "Jewish Historical Trade and the Great Port of Bharuch",
+      "latitude": 21.69152281,
+      "longitude": 72.97971681,
+      "directions": "On Tower Road, Bharuch, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293360",
+      "photo_urls": []
+    },
+    {
+      "id": "293896",
+      "title": "Swami Shrihariprasad",
+      "latitude": 13.04791,
+      "longitude": 80.24226,
+      "directions": "On New Giri Road, Chennai, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293896",
+      "photo_urls": []
+    }
+  ]
+}
