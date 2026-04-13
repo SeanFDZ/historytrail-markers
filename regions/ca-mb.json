@@ -1,0 +1,1307 @@
+{
+  "region_id": "ca-mb",
+  "region_name": "Manitoba",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-13T12:43:55.547Z",
+  "source_timestamp": "2026-04-13T12:43:55.547Z",
+  "marker_count": 144,
+  "markers": [
+    {
+      "id": "106418",
+      "title": "The Path of Time",
+      "latitude": 49.889249,
+      "longitude": -97.128486,
+      "directions": "Near River Walk, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106418",
+      "photo_urls": []
+    },
+    {
+      "id": "106447",
+      "title": "Forks of the Red and Assiniboine",
+      "latitude": 49.88909,
+      "longitude": -97.128108,
+      "directions": "Near Israel Asper Way, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106447",
+      "photo_urls": []
+    },
+    {
+      "id": "106489",
+      "title": "The Creation of Manitoba",
+      "latitude": 49.889021,
+      "longitude": -97.128139,
+      "directions": "Near Israel Asper Way, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106489",
+      "photo_urls": []
+    },
+    {
+      "id": "106490",
+      "title": "Canadian Northern Railway Freight Lift Bridge, East Yard",
+      "latitude": 49.885888,
+      "longitude": -97.129385,
+      "directions": "Near River Walk, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106490",
+      "photo_urls": []
+    },
+    {
+      "id": "106491",
+      "title": "The Five Saint Boniface Cathedrals",
+      "latitude": 49.888951,
+      "longitude": -97.123607,
+      "directions": "On Tache Avenue, Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106491",
+      "photo_urls": []
+    },
+    {
+      "id": "200467",
+      "title": "Kemnay Pioneer Memorial",
+      "latitude": 49.84279276,
+      "longitude": -100.13272185,
+      "directions": "On Sandison Street, Kemnay, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200467",
+      "photo_urls": []
+    },
+    {
+      "id": "200468",
+      "title": "Sir Clifford Sifton",
+      "latitude": 49.84294799,
+      "longitude": -99.95027323,
+      "directions": "On 9th Street, Brandon, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200468",
+      "photo_urls": []
+    },
+    {
+      "id": "200584",
+      "title": "The RM of Sifton and Area",
+      "latitude": 49.76612651,
+      "longitude": -100.63340642,
+      "directions": "On North Railway Street, Oak Lake, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200584",
+      "photo_urls": []
+    },
+    {
+      "id": "200587",
+      "title": "Virden's Oil Heritage",
+      "latitude": 49.84728352,
+      "longitude": -100.92998582,
+      "directions": "On Lyons Street West, Virden, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200587",
+      "photo_urls": []
+    },
+    {
+      "id": "200592",
+      "title": "The Fifty-Millionth Barrel of Crude Oil",
+      "latitude": 49.84899896,
+      "longitude": -100.93126573,
+      "directions": "On Wellington Street West, Virden, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200592",
+      "photo_urls": []
+    },
+    {
+      "id": "200595",
+      "title": "George Bryce",
+      "latitude": 49.890854,
+      "longitude": -97.15289244,
+      "directions": "On Balmoral Street, Winnipeg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200595",
+      "photo_urls": []
+    },
+    {
+      "id": "200606",
+      "title": "Portage la Prairie Public Building / Édifice public de Portage la Prairie",
+      "latitude": 49.97283895,
+      "longitude": -98.29024966,
+      "directions": "On East Saskatchewan Avenue (National Route 1A) , Portage la Prairie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200606",
+      "photo_urls": []
+    },
+    {
+      "id": "200618",
+      "title": "A.C. Emmett and the Development of Manitoba's Highways",
+      "latitude": 50.0305287,
+      "longitude": -101.3692869,
+      "directions": "Near Trans-Canada Highway (National Route 1) , Kirkella, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200618",
+      "photo_urls": []
+    },
+    {
+      "id": "201689",
+      "title": "Ernest Thompson Seton",
+      "latitude": 49.8680004,
+      "longitude": -99.35900175,
+      "directions": "On Main Street, Carberry, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201689",
+      "photo_urls": []
+    },
+    {
+      "id": "203574",
+      "title": "Dencross Manitoba",
+      "latitude": 50.2667868,
+      "longitude": -96.48960283,
+      "directions": "On Provincial Trunk Hwy 12, near Libau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203574",
+      "photo_urls": []
+    },
+    {
+      "id": "203648",
+      "title": "The Saints Peter & Paul Parish Community",
+      "latitude": 50.18737,
+      "longitude": -96.496982,
+      "directions": "On State Route 12, near Beausejour, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203648",
+      "photo_urls": []
+    },
+    {
+      "id": "203707",
+      "title": "St. Thomas the Apostle Roman Catholic Church (1936 - 1994)",
+      "latitude": 50.208281,
+      "longitude": -96.364694,
+      "directions": "On Foxlane Road (Parish Route 82) , Allegra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203707",
+      "photo_urls": []
+    },
+    {
+      "id": "203713",
+      "title": "Lac Du Bonnet Veterans Memorial",
+      "latitude": 50.253678,
+      "longitude": -96.058565,
+      "directions": "On Park Avenue, Lac Du Bonnet, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203713",
+      "photo_urls": []
+    },
+    {
+      "id": "203816",
+      "title": "First Airmail / James Richardson / Bush Pilots",
+      "latitude": 50.255976,
+      "longitude": -96.058489,
+      "directions": "On Park Avenue, Seven Sisters Falls, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203816",
+      "photo_urls": []
+    },
+    {
+      "id": "203817",
+      "title": "Lac du Bonnet Cemetery War Memorial and Honour Rolls",
+      "latitude": 50.255725,
+      "longitude": -96.072318,
+      "directions": "On Smith Road, near Lac du Bonnet, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203817",
+      "photo_urls": []
+    },
+    {
+      "id": "203900",
+      "title": "Ella Cora Hind",
+      "latitude": 49.89343715,
+      "longitude": -97.14646099,
+      "directions": "On Carlton Street (State Route 57) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203900",
+      "photo_urls": []
+    },
+    {
+      "id": "204207",
+      "title": "Winnipeg River",
+      "latitude": 50.283711,
+      "longitude": -95.998824,
+      "directions": "On Provincial Road 313 (State Route 313) , near Lac du Bonnet, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204207",
+      "photo_urls": []
+    },
+    {
+      "id": "204282",
+      "title": "Fort Maurepas",
+      "latitude": 50.609055,
+      "longitude": -96.293337,
+      "directions": "On Southshore Road (State Route 11) , near Fort Alexander, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204282",
+      "photo_urls": []
+    },
+    {
+      "id": "204328",
+      "title": "Pine Falls Veterans Memorial",
+      "latitude": 50.566776,
+      "longitude": -96.219157,
+      "directions": "On Pine Street (State Route 11) , Powerview-Pine Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204328",
+      "photo_urls": []
+    },
+    {
+      "id": "204379",
+      "title": "St Mary’s Polish Catholic Church",
+      "latitude": 50.255008,
+      "longitude": -96.062174,
+      "directions": "On McArthur Ave, Lac du Bonnet, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204379",
+      "photo_urls": []
+    },
+    {
+      "id": "204539",
+      "title": "Holy Trinity Ukrainian Catholic Church",
+      "latitude": 50.237637,
+      "longitude": -96.474266,
+      "directions": "On Parish Route 84, near Brokenhead, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204539",
+      "photo_urls": []
+    },
+    {
+      "id": "204540",
+      "title": "St. John the Baptist Ukrainian Catholic Church",
+      "latitude": 50.253606,
+      "longitude": -96.351505,
+      "directions": "On Lowland Road (Parish Route 84) , near Lowland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204540",
+      "photo_urls": []
+    },
+    {
+      "id": "204698",
+      "title": "Brandon College",
+      "latitude": 49.845416,
+      "longitude": -99.9626729,
+      "directions": "On 18th Street (National Route 10) , Brandon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204698",
+      "photo_urls": []
+    },
+    {
+      "id": "204700",
+      "title": "Prairie College",
+      "latitude": 49.845412,
+      "longitude": -99.9626729,
+      "directions": "On 18th Street (National Route 10) , Brandon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204700",
+      "photo_urls": []
+    },
+    {
+      "id": "204701",
+      "title": "Thomas Mayne Daly",
+      "latitude": 49.84792,
+      "longitude": -99.962111,
+      "directions": "On 18th Street (National Route 10) , Brandon, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204701",
+      "photo_urls": []
+    },
+    {
+      "id": "204703",
+      "title": "Coronation Park",
+      "latitude": 49.844192,
+      "longitude": -99.969625,
+      "directions": "On Louise Avenue, Brandon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204703",
+      "photo_urls": []
+    },
+    {
+      "id": "204710",
+      "title": "Elkhorn Veterans Memorial",
+      "latitude": 49.975112,
+      "longitude": -101.240048,
+      "directions": "On Richhill Avenue (County Route 66N) , Elkhorn, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204710",
+      "photo_urls": []
+    },
+    {
+      "id": "204875",
+      "title": "Daly House",
+      "latitude": 49.84786655,
+      "longitude": -99.96227469,
+      "directions": "On 18th Street (State Route 10) , Brandon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204875",
+      "photo_urls": []
+    },
+    {
+      "id": "204876",
+      "title": "Central Fire Station #1",
+      "latitude": 49.84704506,
+      "longitude": -99.94684382,
+      "directions": "On Princess Avenue, Brandon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204876",
+      "photo_urls": []
+    },
+    {
+      "id": "214576",
+      "title": "Holy Trinity Anglican Church / L'église anglicane Holy Trinity",
+      "latitude": 49.89233867,
+      "longitude": -97.14258309,
+      "directions": "On Donald Street, Winnipeg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214576",
+      "photo_urls": []
+    },
+    {
+      "id": "214599",
+      "title": "Abraham Albert Heaps",
+      "latitude": 49.89976872,
+      "longitude": -97.13970813,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214599",
+      "photo_urls": []
+    },
+    {
+      "id": "214600",
+      "title": "The Royal Manitoba Theatre Centre",
+      "latitude": 49.89859833,
+      "longitude": -97.13664333,
+      "directions": "On Market Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214600",
+      "photo_urls": []
+    },
+    {
+      "id": "214893",
+      "title": "Bank of Hamilton",
+      "latitude": 49.89695327,
+      "longitude": -97.13850911,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214893",
+      "photo_urls": []
+    },
+    {
+      "id": "214896",
+      "title": "The Confederation Building / L'édifice de la Confédération",
+      "latitude": 49.89866238,
+      "longitude": -97.13878729,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214896",
+      "photo_urls": []
+    },
+    {
+      "id": "214897",
+      "title": "Union Bank Building",
+      "latitude": 49.89885923,
+      "longitude": -97.1393068,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214897",
+      "photo_urls": []
+    },
+    {
+      "id": "214898",
+      "title": "Court House",
+      "latitude": 49.89860045,
+      "longitude": -97.13955831,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214898",
+      "photo_urls": []
+    },
+    {
+      "id": "214899",
+      "title": "West Clements Block (Bijou Theatre)",
+      "latitude": 49.89862833,
+      "longitude": -97.13949833,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214899",
+      "photo_urls": []
+    },
+    {
+      "id": "214900",
+      "title": "Early Skyscrapers in Winnipeg / Les gratte-ciel de Winnipeg",
+      "latitude": 49.89730703,
+      "longitude": -97.13920549,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214900",
+      "photo_urls": []
+    },
+    {
+      "id": "215036",
+      "title": "First Headquarters • International Brotherhood of Magicians",
+      "latitude": 49.89890567,
+      "longitude": -97.13932888,
+      "directions": "On William Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215036",
+      "photo_urls": []
+    },
+    {
+      "id": "215158",
+      "title": "Union Bank Building / L’édifice de la Union Bank",
+      "latitude": 49.89868557,
+      "longitude": -97.13945006,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215158",
+      "photo_urls": []
+    },
+    {
+      "id": "215232",
+      "title": "Union Tower",
+      "latitude": 49.8964666,
+      "longitude": -97.13837846,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215232",
+      "photo_urls": []
+    },
+    {
+      "id": "215238",
+      "title": "Northern Light Lodge",
+      "latitude": 49.89645794,
+      "longitude": -97.13829378,
+      "directions": "On Lombard Avenue, Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215238",
+      "photo_urls": []
+    },
+    {
+      "id": "215273",
+      "title": "The Exchange District / L'Arrondissement de la Bourse",
+      "latitude": 49.89907504,
+      "longitude": -97.14021829,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215273",
+      "photo_urls": []
+    },
+    {
+      "id": "215293",
+      "title": "First Masonic Temple Site",
+      "latitude": 49.89498665,
+      "longitude": -97.14394821,
+      "directions": "On Ellice Avenue, Winnipeg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215293",
+      "photo_urls": []
+    },
+    {
+      "id": "215302",
+      "title": "Fairchild Building",
+      "latitude": 49.89901827,
+      "longitude": -97.14197429,
+      "directions": "On Princess Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215302",
+      "photo_urls": []
+    },
+    {
+      "id": "215335",
+      "title": "Exchange Building",
+      "latitude": 49.9002578,
+      "longitude": -97.141108,
+      "directions": "On Princess Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215335",
+      "photo_urls": []
+    },
+    {
+      "id": "215339",
+      "title": "Pantages Theatre",
+      "latitude": 49.89899344,
+      "longitude": -97.13769073,
+      "directions": "On Market Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215339",
+      "photo_urls": []
+    },
+    {
+      "id": "215343",
+      "title": "Bloody Saturday",
+      "latitude": 49.89907564,
+      "longitude": -97.13836445,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215343",
+      "photo_urls": []
+    },
+    {
+      "id": "215378",
+      "title": "Rowand Block / Canada Life Building",
+      "latitude": 49.89804643,
+      "longitude": -97.13850718,
+      "directions": "On Bannatyne Avenue, Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215378",
+      "photo_urls": []
+    },
+    {
+      "id": "215379",
+      "title": "Imperial Bank of Canada",
+      "latitude": 49.89805653,
+      "longitude": -97.13879511,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215379",
+      "photo_urls": []
+    },
+    {
+      "id": "215394",
+      "title": "Traveller's Block",
+      "latitude": 49.89839255,
+      "longitude": -97.14109181,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215394",
+      "photo_urls": []
+    },
+    {
+      "id": "215398",
+      "title": "Gault Building",
+      "latitude": 49.89814697,
+      "longitude": -97.1409696,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215398",
+      "photo_urls": []
+    },
+    {
+      "id": "215399",
+      "title": "Whitla Building",
+      "latitude": 49.89721337,
+      "longitude": -97.14124437,
+      "directions": "On Arthur Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215399",
+      "photo_urls": []
+    },
+    {
+      "id": "215400",
+      "title": "Nicolaus Copernicus / Miko&#322;aj Kopernik",
+      "latitude": 49.90026115,
+      "longitude": -97.13730983,
+      "directions": "On Main Street (State Route 42/52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215400",
+      "photo_urls": []
+    },
+    {
+      "id": "215506",
+      "title": "The Nor'Wester",
+      "latitude": 49.89354946,
+      "longitude": -97.13709118,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215506",
+      "photo_urls": []
+    },
+    {
+      "id": "215555",
+      "title": "Robert Atkinson Davis",
+      "latitude": 49.89681487,
+      "longitude": -97.13907933,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215555",
+      "photo_urls": []
+    },
+    {
+      "id": "215586",
+      "title": "The Great-West Life Building / L’édifice de la Great-West",
+      "latitude": 49.8963992,
+      "longitude": -97.1377498,
+      "directions": "On Lombard Avenue, Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215586",
+      "photo_urls": []
+    },
+    {
+      "id": "215595",
+      "title": "No. 1 Northern",
+      "latitude": 49.89428417,
+      "longitude": -97.13719292,
+      "directions": "On Main Street (State Route 52) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215595",
+      "photo_urls": []
+    },
+    {
+      "id": "215596",
+      "title": "Winnipeg Public Library System",
+      "latitude": 49.89206481,
+      "longitude": -97.14222591,
+      "directions": "On Graham Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215596",
+      "photo_urls": []
+    },
+    {
+      "id": "215597",
+      "title": "Winnipeg Centennial Library",
+      "latitude": 49.89207651,
+      "longitude": -97.14218788,
+      "directions": "On Graham Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215597",
+      "photo_urls": []
+    },
+    {
+      "id": "215598",
+      "title": "First Winnipeg Meeting of the T. Eaton Company Directors",
+      "latitude": 49.89329298,
+      "longitude": -97.14346147,
+      "directions": "On Donald Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215598",
+      "photo_urls": []
+    },
+    {
+      "id": "215599",
+      "title": "Commemorating Manitoba Theatre Centre's 50th Anniversary",
+      "latitude": 49.89859498,
+      "longitude": -97.13634496,
+      "directions": "On Market Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215599",
+      "photo_urls": []
+    },
+    {
+      "id": "215600",
+      "title": "Old City Hall",
+      "latitude": 49.89967959,
+      "longitude": -97.13956636,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215600",
+      "photo_urls": []
+    },
+    {
+      "id": "215695",
+      "title": "Recalling Brown's Creek / Revisiter le ruisseau Brown's",
+      "latitude": 49.8981084,
+      "longitude": -97.13624224,
+      "directions": "On John Hirsch Place, Winnipeg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215695",
+      "photo_urls": []
+    },
+    {
+      "id": "215696",
+      "title": "First Salvation Army Meeting West of the Great Lakes",
+      "latitude": 49.899835,
+      "longitude": -97.13967,
+      "directions": "On King Street (State Route 42) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215696",
+      "photo_urls": []
+    },
+    {
+      "id": "218681",
+      "title": "Camp Hughes — Overview / Tour d'horizon du Camp Hughes",
+      "latitude": 49.88486932,
+      "longitude": -99.55327705,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218681",
+      "photo_urls": []
+    },
+    {
+      "id": "218684",
+      "title": "The Soldier's Recreation / Les moments de loisir des soldats",
+      "latitude": 49.88490542,
+      "longitude": -99.55330874,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218684",
+      "photo_urls": []
+    },
+    {
+      "id": "218697",
+      "title": "The Parade Ground / La terrain de parade",
+      "latitude": 49.88493925,
+      "longitude": -99.55329448,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218697",
+      "photo_urls": []
+    },
+    {
+      "id": "218698",
+      "title": "Camp Hughes Railway Station / Depot / Railhead Area",
+      "latitude": 49.88506376,
+      "longitude": -99.55277717,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218698",
+      "photo_urls": []
+    },
+    {
+      "id": "218699",
+      "title": "Headquarters, Administration and Logistics Area",
+      "latitude": 49.88504765,
+      "longitude": -99.55276782,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218699",
+      "photo_urls": []
+    },
+    {
+      "id": "218700",
+      "title": "Camp Hughes / Le Camp Hughes",
+      "latitude": 49.88011592,
+      "longitude": -99.5572507,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218700",
+      "photo_urls": []
+    },
+    {
+      "id": "218701",
+      "title": "Camp Hughes",
+      "latitude": 49.88015727,
+      "longitude": -99.55725916,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218701",
+      "photo_urls": []
+    },
+    {
+      "id": "218702",
+      "title": "Camp Hughes National Historic Site of Canada / Le camp Hughes Lieu historique national du Canada",
+      "latitude": 49.8802355,
+      "longitude": -99.5573976,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218702",
+      "photo_urls": []
+    },
+    {
+      "id": "218704",
+      "title": "The Hospital / L'hôpital",
+      "latitude": 49.87948277,
+      "longitude": -99.55267258,
+      "directions": "On Camp Hughes Road (Route 91 W) , Camp Hughes, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218704",
+      "photo_urls": []
+    },
+    {
+      "id": "218705",
+      "title": "Trench Warfare / La guerre de tranchées",
+      "latitude": 49.88024313,
+      "longitude": -99.55745137,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218705",
+      "photo_urls": []
+    },
+    {
+      "id": "218707",
+      "title": "Training For War / L'entraînement de guerre",
+      "latitude": 49.88027166,
+      "longitude": -99.55743947,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218707",
+      "photo_urls": []
+    },
+    {
+      "id": "218708",
+      "title": "Camp Life / La vie de camp",
+      "latitude": 49.88026755,
+      "longitude": -99.55739234,
+      "directions": "Near Camp Hughes Road (Route 91 W) , Camp Hughes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218708",
+      "photo_urls": []
+    },
+    {
+      "id": "218997",
+      "title": "Les Soeurs Nolin / Nolin Sisters",
+      "latitude": 49.88780313,
+      "longitude": -97.12352898,
+      "directions": "Near Tache Avenue, Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218997",
+      "photo_urls": []
+    },
+    {
+      "id": "218998",
+      "title": "Sister Marguerite d’Youville / Sœur Marguerite d’Youville",
+      "latitude": 49.88773033,
+      "longitude": -97.12350806,
+      "directions": "Near Tache Avenue, Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218998",
+      "photo_urls": []
+    },
+    {
+      "id": "218999",
+      "title": "St. Boniface / Saint-Boniface",
+      "latitude": 49.89277051,
+      "longitude": -97.12056376,
+      "directions": "On Provencher Boulevard (State Route 57) , Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218999",
+      "photo_urls": []
+    },
+    {
+      "id": "219000",
+      "title": "The Royal Winnipeg Ballet / Le Royal Winnipeg Ballet",
+      "latitude": 49.89117216,
+      "longitude": -97.1462692,
+      "directions": "On Graham Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219000",
+      "photo_urls": []
+    },
+    {
+      "id": "219001",
+      "title": "Chief One Arrow",
+      "latitude": 49.88950167,
+      "longitude": -97.12293833,
+      "directions": "On Avenue de la Cathedrale, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219001",
+      "photo_urls": []
+    },
+    {
+      "id": "219199",
+      "title": "Jean Baptiste La Vérendrye and Jean-Pierre Aulneau",
+      "latitude": 49.889395,
+      "longitude": -97.12264333,
+      "directions": "Near Avenue de la Cathedrale, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219199",
+      "photo_urls": []
+    },
+    {
+      "id": "219200",
+      "title": "Le Couvent des Soeurs Grises / Grey Nuns' Convent",
+      "latitude": 49.88773088,
+      "longitude": -97.12352499,
+      "directions": "Near Tache Avenue, Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219200",
+      "photo_urls": []
+    },
+    {
+      "id": "219658",
+      "title": "Joseph Royal",
+      "latitude": 49.89152845,
+      "longitude": -97.12559513,
+      "directions": "Near Tache Avenue, Winnipeg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219658",
+      "photo_urls": []
+    },
+    {
+      "id": "219685",
+      "title": "Dr. John Maxwell Bowman",
+      "latitude": 49.81011547,
+      "longitude": -97.13317532,
+      "directions": "Near Chancellors Circle, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219685",
+      "photo_urls": []
+    },
+    {
+      "id": "219690",
+      "title": "Dr. H. Bruce Chown",
+      "latitude": 49.81013197,
+      "longitude": -97.13316791,
+      "directions": "Near Chancellors Circle, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219690",
+      "photo_urls": []
+    },
+    {
+      "id": "219692",
+      "title": "Dr. Baldur Rosmund Stefansson",
+      "latitude": 49.81014579,
+      "longitude": -97.13314979,
+      "directions": "Near Chancellors Circle, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219692",
+      "photo_urls": []
+    },
+    {
+      "id": "219698",
+      "title": "Arthur Henry Reginald Buller (1874-1944)",
+      "latitude": 49.81038019,
+      "longitude": -97.13336048,
+      "directions": "Near Chancellors Circle, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219698",
+      "photo_urls": []
+    },
+    {
+      "id": "219699",
+      "title": "Carol Ann Shields (née Warner)",
+      "latitude": 49.81015627,
+      "longitude": -97.13312215,
+      "directions": "Near Chancellors Circle, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219699",
+      "photo_urls": []
+    },
+    {
+      "id": "219700",
+      "title": "Cal Murphy",
+      "latitude": 49.809155,
+      "longitude": -97.14209997,
+      "directions": "On University Crescent, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219700",
+      "photo_urls": []
+    },
+    {
+      "id": "220128",
+      "title": "Pierre Gaultier de La Vérendrye",
+      "latitude": 49.88581209,
+      "longitude": -97.13455914,
+      "directions": "Near Assiniboine Avenue, Winnipeg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220128",
+      "photo_urls": []
+    },
+    {
+      "id": "220204",
+      "title": "Fort Garry — Fort Edmonton Trail",
+      "latitude": 49.88797488,
+      "longitude": -97.13575166,
+      "directions": "Near Main Street (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220204",
+      "photo_urls": []
+    },
+    {
+      "id": "220224",
+      "title": "Ambroise-Didyme Lépine",
+      "latitude": 49.88798336,
+      "longitude": -97.13565918,
+      "directions": "Near Main Street (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220224",
+      "photo_urls": []
+    },
+    {
+      "id": "220398",
+      "title": "The Fort Garry Hotel / L'hôtel Fort Garry",
+      "latitude": 49.88810487,
+      "longitude": -97.13679393,
+      "directions": "Near Broadway (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220398",
+      "photo_urls": []
+    },
+    {
+      "id": "220399",
+      "title": "The Fort Garry",
+      "latitude": 49.88809108,
+      "longitude": -97.13679655,
+      "directions": "Near Broadway (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220399",
+      "photo_urls": []
+    },
+    {
+      "id": "220400",
+      "title": "Thomas Douglas",
+      "latitude": 49.89023966,
+      "longitude": -97.15068854,
+      "directions": "On Memorial Boulevard (State Route 62) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220400",
+      "photo_urls": []
+    },
+    {
+      "id": "220450",
+      "title": "Upper Fort Garry Gateway / Porte d'entrée d'Upper Fort Garry",
+      "latitude": 49.88795241,
+      "longitude": -97.13539979,
+      "directions": "Near Main Street (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220450",
+      "photo_urls": []
+    },
+    {
+      "id": "220485",
+      "title": "Pierre Gaultier de Varennes et de La Vérendrye",
+      "latitude": 49.88662047,
+      "longitude": -97.12832372,
+      "directions": "Near Forks Market Road, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220485",
+      "photo_urls": []
+    },
+    {
+      "id": "220491",
+      "title": "Bonnycastle Park",
+      "latitude": 49.88589996,
+      "longitude": -97.13632336,
+      "directions": "Near Assiniboine Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220491",
+      "photo_urls": []
+    },
+    {
+      "id": "220514",
+      "title": "John Norquay",
+      "latitude": 49.88291026,
+      "longitude": -97.14574498,
+      "directions": "Near Assiniboine Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220514",
+      "photo_urls": []
+    },
+    {
+      "id": "220564",
+      "title": "Noël-Joseph Ritchot",
+      "latitude": 49.88282075,
+      "longitude": -97.14617228,
+      "directions": "Near Assiniboine Avenue, Winnipeg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220564",
+      "photo_urls": []
+    },
+    {
+      "id": "220569",
+      "title": "Winnipeg Law Courts / Le Palais de Justice de Winnipeg",
+      "latitude": 49.8866688,
+      "longitude": -97.14585701,
+      "directions": "On Kennedy Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220569",
+      "photo_urls": []
+    },
+    {
+      "id": "220603",
+      "title": "Marc-Amable Girard",
+      "latitude": 49.88608801,
+      "longitude": -97.14843702,
+      "directions": "On Broadway (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220603",
+      "photo_urls": []
+    },
+    {
+      "id": "220672",
+      "title": "Government House",
+      "latitude": 49.88458841,
+      "longitude": -97.14461449,
+      "directions": "On Kennedy Street, Winnipeg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220672",
+      "photo_urls": []
+    },
+    {
+      "id": "220675",
+      "title": "Isbister School",
+      "latitude": 49.89240583,
+      "longitude": -97.1510929,
+      "directions": "Near Colony Street (State Route 62) , Winnipeg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220675",
+      "photo_urls": []
+    },
+    {
+      "id": "220677",
+      "title": "Knox Church",
+      "latitude": 49.89543819,
+      "longitude": -97.14909274,
+      "directions": "On Qu&#39;Appelle Avenue, Winnipeg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220677",
+      "photo_urls": []
+    },
+    {
+      "id": "220700",
+      "title": "Dr. Amelia Yeomans / Le Docteur Amelia Yeomans",
+      "latitude": 49.8875403,
+      "longitude": -97.14062344,
+      "directions": "On Broadway (Trans-Canada Highway) (State Route 1) , Winnipeg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220700",
+      "photo_urls": []
+    },
+    {
+      "id": "229428",
+      "title": "Ukrainian Catholic Church of the Resurrection / L'Église Catholique Ukrainienne de la Résurrection",
+      "latitude": 51.14197897,
+      "longitude": -100.06208324,
+      "directions": "On 1 Street Southwest, Dauphin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229428",
+      "photo_urls": []
+    },
+    {
+      "id": "288747",
+      "title": "Emerson Court House and Town Hall",
+      "latitude": 49.00569074,
+      "longitude": -97.21390231,
+      "directions": "On Church Street, Emerson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288747",
+      "photo_urls": []
+    },
+    {
+      "id": "288748",
+      "title": "Pembina - Emerson Area",
+      "latitude": 49.00510686,
+      "longitude": -97.2339347,
+      "directions": "On Dallas Avenue, Emerson, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288748",
+      "photo_urls": []
+    },
+    {
+      "id": "288750",
+      "title": "Fort Dufferin",
+      "latitude": 49.031604,
+      "longitude": -97.20524418,
+      "directions": "On Manchester Avenue, Emerson, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288750",
+      "photo_urls": []
+    },
+    {
+      "id": "288751",
+      "title": "Origin of the Name \"Manitoba\"",
+      "latitude": 51.08217339,
+      "longitude": -98.77861489,
+      "directions": "On Skinny Dip Drive, Oakview, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288751",
+      "photo_urls": []
+    },
+    {
+      "id": "288753",
+      "title": "St. Paul's Middlechurch",
+      "latitude": 49.97992468,
+      "longitude": -97.06394678,
+      "directions": "On Balderstone Road, West St Paul, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288753",
+      "photo_urls": []
+    },
+    {
+      "id": "288755",
+      "title": "The Beautiful Plains County Court Building",
+      "latitude": 50.22826349,
+      "longitude": -99.46545901,
+      "directions": "On Hamilton Street, Neepawa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288755",
+      "photo_urls": []
+    },
+    {
+      "id": "288756",
+      "title": "Beautiful Plains County Court Building",
+      "latitude": 50.22832532,
+      "longitude": -99.4654617,
+      "directions": "On Hamilton Street, Neepawa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288756",
+      "photo_urls": []
+    },
+    {
+      "id": "288757",
+      "title": "The Assiniboine River",
+      "latitude": 49.88857957,
+      "longitude": -97.50585079,
+      "directions": "On Jones Drive, Saint François Xavier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288757",
+      "photo_urls": []
+    },
+    {
+      "id": "288760",
+      "title": "Duncan McRae",
+      "latitude": 50.10292869,
+      "longitude": -96.93977283,
+      "directions": "On Provincial Trunk Highway 9, Lockport, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288760",
+      "photo_urls": []
+    },
+    {
+      "id": "288820",
+      "title": "Postage Stamp Province / La Province Timbre-Poste",
+      "latitude": 49.00067828,
+      "longitude": -95.97844415,
+      "directions": "On Manitoba 89, Piney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288820",
+      "photo_urls": []
+    },
+    {
+      "id": "288854",
+      "title": "Inglis Grain Elevators",
+      "latitude": 50.94496417,
+      "longitude": -101.24896135,
+      "directions": "On Anzac Avenue, Inglis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288854",
+      "photo_urls": []
+    },
+    {
+      "id": "289837",
+      "title": "Brandon Courthouse and Gaol",
+      "latitude": 49.84321838,
+      "longitude": -99.93154804,
+      "directions": "On Victoria Avenue East, Brandon, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289837",
+      "photo_urls": []
+    },
+    {
+      "id": "289840",
+      "title": "Paterson-Matheson House",
+      "latitude": 49.84390767,
+      "longitude": -99.95255008,
+      "directions": "On Louise Avenue, Brandon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289840",
+      "photo_urls": []
+    },
+    {
+      "id": "289843",
+      "title": "Postage Stamp Province",
+      "latitude": 50.50669529,
+      "longitude": -96.96883589,
+      "directions": "On Prospect Street, Winnipeg Beach, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289843",
+      "photo_urls": []
+    },
+    {
+      "id": "289845",
+      "title": "Dauphin Railway Station / Gare de Dauphin",
+      "latitude": 51.15036273,
+      "longitude": -100.05219519,
+      "directions": "On 1 Avenue Northwest, Dauphin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289845",
+      "photo_urls": []
+    },
+    {
+      "id": "290251",
+      "title": "Burchill & Howey Block",
+      "latitude": 49.84835131,
+      "longitude": -99.95040884,
+      "directions": "On Rosser Avenue, Brandon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290251",
+      "photo_urls": []
+    },
+    {
+      "id": "290283",
+      "title": "Former Merchants Bank Building / Édifice de L'ancienne Merchants Bank",
+      "latitude": 49.84856225,
+      "longitude": -99.95245403,
+      "directions": "On Rosser Avenue, Brandon, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290283",
+      "photo_urls": []
+    },
+    {
+      "id": "290929",
+      "title": "Hartley T. Richardson",
+      "latitude": 49.87197778,
+      "longitude": -97.23007222,
+      "directions": "On Pavilion Crescent, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290929",
+      "photo_urls": []
+    },
+    {
+      "id": "290930",
+      "title": "Order of Manitoba / Ordre du Manitoba",
+      "latitude": 49.87131111,
+      "longitude": -97.22863889,
+      "directions": "On Locomotive Drive, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290930",
+      "photo_urls": []
+    },
+    {
+      "id": "290936",
+      "title": "Dr. Louis Slotin (1910 - 1946)",
+      "latitude": 49.92306944,
+      "longitude": -97.11335833,
+      "directions": "On Luxton Avenue, Winnipeg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290936",
+      "photo_urls": []
+    },
+    {
+      "id": "291367",
+      "title": "1871-1971",
+      "latitude": 49.89038217,
+      "longitude": -97.15311337,
+      "directions": "On Portage Avenue (Route 85) , Winnipeg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291367",
+      "photo_urls": []
+    },
+    {
+      "id": "296627",
+      "title": "St Michael's Ukrainian Orthodox Church",
+      "latitude": 49.07161204,
+      "longitude": -96.74090782,
+      "directions": "On Road 32 East, Gardenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296627",
+      "photo_urls": []
+    },
+    {
+      "id": "8421",
+      "title": "St. Michael’s Ukrainian Orthodox Church",
+      "latitude": 49.07165,
+      "longitude": -96.74142,
+      "directions": "Near State Route 209, near Gardenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8421",
+      "photo_urls": []
+    },
+    {
+      "id": "8445",
+      "title": "St. Andrews Anglican Church",
+      "latitude": 50.06636,
+      "longitude": -96.97675,
+      "directions": "On River Road (State Route 238) , Saint Andrews, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8445",
+      "photo_urls": []
+    },
+    {
+      "id": "8449",
+      "title": "St. Andrew’s Rectory",
+      "latitude": 50.06641,
+      "longitude": -96.97772,
+      "directions": "On River Road (State Route 238) , Saint Andrews, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8449",
+      "photo_urls": []
+    },
+    {
+      "id": "8450",
+      "title": "Twin Oaks",
+      "latitude": 50.05554,
+      "longitude": -96.98768,
+      "directions": "On River Road (State Route 238) , Saint Andrews, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8450",
+      "photo_urls": []
+    },
+    {
+      "id": "8453",
+      "title": "New Iceland",
+      "latitude": 50.62919,
+      "longitude": -96.98582,
+      "directions": "On Second Avenue, Gimli, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8453",
+      "photo_urls": []
+    },
+    {
+      "id": "8489",
+      "title": "Dominion Lands Survey System",
+      "latitude": 49.8817,
+      "longitude": -97.45956,
+      "directions": "On Transcanada Highway (National Route 1) , Saint Eustache, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8489",
+      "photo_urls": []
+    },
+    {
+      "id": "8491",
+      "title": "Inglis Grain Elevators",
+      "latitude": 50.94509,
+      "longitude": -101.2489,
+      "directions": "On Railway Avenue, Inglis, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8491",
+      "photo_urls": []
+    },
+    {
+      "id": "9205",
+      "title": "St. Andrews Caméré Curtain Dam",
+      "latitude": 50.082434,
+      "longitude": -96.9418,
+      "directions": "On River Road (State Route 238) , near Gimli, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9205",
+      "photo_urls": []
+    }
+  ]
+}
