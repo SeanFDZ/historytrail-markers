@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-13T12:44:00.765Z",
+  "generated": "2026-04-13T12:44:14.874Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 32694,
-  "total_regions": 11,
+  "total_markers": 32923,
+  "total_regions": 12,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -20,6 +20,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 21,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "ca-ab",
+      "name": "Alberta",
+      "type": "province",
+      "country": "Canada",
+      "file": "regions/ca-ab.json",
+      "markers": 229,
+      "size_bytes": 72552,
+      "updated": "2026-04-13",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 229,
         "removed": 0,
         "modified": 0
       }
