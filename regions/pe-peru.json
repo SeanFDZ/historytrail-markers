@@ -1,0 +1,56 @@
+{
+  "region_id": "pe-peru",
+  "region_name": "Peru",
+  "region_type": "country",
+  "country": "Peru",
+  "generated": "2026-04-13T12:43:55.616Z",
+  "source_timestamp": "2026-04-13T12:43:55.616Z",
+  "marker_count": 5,
+  "markers": [
+    {
+      "id": "192194",
+      "title": "Colonel Francisco Bolognesi Cervantes",
+      "latitude": -12.13843868,
+      "longitude": -77.02462077,
+      "directions": "On Jirón Las Mimosas, Barranco, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192194",
+      "photo_urls": []
+    },
+    {
+      "id": "192208",
+      "title": "Admiral Miguel Grau Seminario",
+      "latitude": -12.13855055,
+      "longitude": -77.02477598,
+      "directions": "On Jirón Las Mimosas, Barranco, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192208",
+      "photo_urls": []
+    },
+    {
+      "id": "192312",
+      "title": "José Matías Delgado",
+      "latitude": -12.11886072,
+      "longitude": -77.04282334,
+      "directions": "On Avenida José Pardo, Miraflores, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=192312",
+      "photo_urls": []
+    },
+    {
+      "id": "193713",
+      "title": "General Francisco Morazán",
+      "latitude": -12.11896729,
+      "longitude": -77.04270593,
+      "directions": "On Avenida José Pardo, Miraflores, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193713",
+      "photo_urls": []
+    },
+    {
+      "id": "194832",
+      "title": "Foundation of the Scouts in Peru",
+      "latitude": -12.150626,
+      "longitude": -77.0221,
+      "directions": "On Auxiliar Avenida Pedro de Osma, Barranco, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=194832",
+      "photo_urls": []
+    }
+  ]
+}
