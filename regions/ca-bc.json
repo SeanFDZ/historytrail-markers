@@ -1,0 +1,4493 @@
+{
+  "region_id": "ca-bc",
+  "region_name": "British Columbia",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-13T12:43:55.542Z",
+  "source_timestamp": "2026-04-13T12:43:55.542Z",
+  "marker_count": 498,
+  "markers": [
+    {
+      "id": "100115",
+      "title": "Fort Steele",
+      "latitude": 49.6157,
+      "longitude": -115.6303,
+      "directions": "On State Route 93/95, Fort Steele, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100115",
+      "photo_urls": []
+    },
+    {
+      "id": "108665",
+      "title": "Glacier House",
+      "latitude": 51.26211559,
+      "longitude": -117.4935329,
+      "directions": "Near Trans-Canada Highway (State Route 1) , near Rogers Pass, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108665",
+      "photo_urls": []
+    },
+    {
+      "id": "110556",
+      "title": "The Loops",
+      "latitude": 51.25947805,
+      "longitude": -117.53777325,
+      "directions": "On Trans-Canada Highway (State Route 1) , near Rogers Pass, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110556",
+      "photo_urls": []
+    },
+    {
+      "id": "118545",
+      "title": "Canadian Pacific Marine Terminal Building",
+      "latitude": 48.42104183,
+      "longitude": -123.371632,
+      "directions": "On Belleville St, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118545",
+      "photo_urls": []
+    },
+    {
+      "id": "135256",
+      "title": "Alaska Highway / La Route De L’Alaska",
+      "latitude": 55.758877,
+      "longitude": -120.225086,
+      "directions": "On Alaska Ave (National Route 2) , Dawson Creek, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135256",
+      "photo_urls": []
+    },
+    {
+      "id": "155664",
+      "title": "The Netherlands Carillon / History of the Carillon",
+      "latitude": 48.420429,
+      "longitude": -123.368422,
+      "directions": "On Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=155664",
+      "photo_urls": []
+    },
+    {
+      "id": "161724",
+      "title": "The Hope Slide",
+      "latitude": 49.29849566,
+      "longitude": -121.26247969,
+      "directions": "Near Crowsnest Highway, Hope, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=161724",
+      "photo_urls": []
+    },
+    {
+      "id": "187813",
+      "title": "Canadian Northern Pacific's Last Spike",
+      "latitude": 50.57035,
+      "longitude": -121.3069,
+      "directions": "On Trans-Canada Highway (National Route 1) , near Ashcroft, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187813",
+      "photo_urls": []
+    },
+    {
+      "id": "187873",
+      "title": "Craigflower Manor",
+      "latitude": 48.45188,
+      "longitude": -123.42487,
+      "directions": "Near Island Highway, View Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187873",
+      "photo_urls": []
+    },
+    {
+      "id": "187874",
+      "title": "Cretaceous Trackway",
+      "latitude": 55.114386,
+      "longitude": -120.983124,
+      "directions": "On Don Phillips Way (State Route 29) , Tumbler Ridge, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187874",
+      "photo_urls": []
+    },
+    {
+      "id": "187875",
+      "title": "Yellowhead Blue River",
+      "latitude": 53.035183,
+      "longitude": -119.227433,
+      "directions": "Near Viewpoint Road, Mount Robson, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187875",
+      "photo_urls": []
+    },
+    {
+      "id": "187877",
+      "title": "Kamloops Indian Residential School",
+      "latitude": 50.67941862,
+      "longitude": -120.29515549,
+      "directions": "On Chief Alex Thomas Way, Kamloops, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187877",
+      "photo_urls": []
+    },
+    {
+      "id": "187878",
+      "title": "Great Train Robbery",
+      "latitude": 50.65463,
+      "longitude": -120.0792,
+      "directions": "Near Dallas Drive, Kamloops, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187878",
+      "photo_urls": []
+    },
+    {
+      "id": "187879",
+      "title": "McAbee Fossil Beds",
+      "latitude": 50.79320024,
+      "longitude": -121.14057339,
+      "directions": "On Trans-Canada Highway (State Route 1/97) , near Ashcroft, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187879",
+      "photo_urls": []
+    },
+    {
+      "id": "187881",
+      "title": "Gur Sikh Temple",
+      "latitude": 49.05086,
+      "longitude": -122.30771,
+      "directions": "On South Fraser Way, Abbotsford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187881",
+      "photo_urls": []
+    },
+    {
+      "id": "187882",
+      "title": "Patrick Lumber Co.",
+      "latitude": 49.44452,
+      "longitude": -117.55731,
+      "directions": "On British Columbia 6, near Castlegar, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187882",
+      "photo_urls": []
+    },
+    {
+      "id": "187883",
+      "title": "Western Speedway",
+      "latitude": 48.47288717,
+      "longitude": -123.50021287,
+      "directions": "Near Millstream Road, near Langford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187883",
+      "photo_urls": []
+    },
+    {
+      "id": "187884",
+      "title": "The Doukhobors",
+      "latitude": 49.0069547,
+      "longitude": -118.27085719,
+      "directions": "On Crowsnest Highway (State Route 3) , near Grand Forks, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187884",
+      "photo_urls": []
+    },
+    {
+      "id": "187887",
+      "title": "Canoe River Tragedy",
+      "latitude": 52.742083,
+      "longitude": -119.266083,
+      "directions": "On Southern Yellowhead Highway (State Route 5) , near Canoe River, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187887",
+      "photo_urls": []
+    },
+    {
+      "id": "187888",
+      "title": "Yorke Island",
+      "latitude": 50.39805214,
+      "longitude": -125.96111604,
+      "directions": "Near Sayward Road, Sayward, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187888",
+      "photo_urls": []
+    },
+    {
+      "id": "187889",
+      "title": "diitiida",
+      "latitude": 48.42008862,
+      "longitude": -124.04757839,
+      "directions": "On West Coast Road (State Route 14) , Jordan River, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187889",
+      "photo_urls": []
+    },
+    {
+      "id": "187890",
+      "title": "East Lillooet",
+      "latitude": 50.677297,
+      "longitude": -121.914347,
+      "directions": "On Lytton-Lillooet Highway (State Route 12) , Lillooet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187890",
+      "photo_urls": []
+    },
+    {
+      "id": "187891",
+      "title": "The 49th Parallel",
+      "latitude": 48.99727481,
+      "longitude": -123.82378462,
+      "directions": "On 1st Avenue, Ladysmith, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187891",
+      "photo_urls": []
+    },
+    {
+      "id": "187893",
+      "title": "The First Flight",
+      "latitude": 48.44596944,
+      "longitude": -123.32965833,
+      "directions": "On Lansdowne Road, Victoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187893",
+      "photo_urls": []
+    },
+    {
+      "id": "187894",
+      "title": "Harry Manson",
+      "latitude": 49.15726389,
+      "longitude": -123.93144167,
+      "directions": "On Irwin Street, Nanaimo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187894",
+      "photo_urls": []
+    },
+    {
+      "id": "187902",
+      "title": "Tashme",
+      "latitude": 49.27577,
+      "longitude": -121.23542,
+      "directions": "On Sumallo River Road, near Hope, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187902",
+      "photo_urls": []
+    },
+    {
+      "id": "187904",
+      "title": "George Mercer Dawson (1849-1901)",
+      "latitude": 49.67947,
+      "longitude": -114.88937,
+      "directions": "On Crowsnest Highway (State Route 3) , Sparwood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187904",
+      "photo_urls": []
+    },
+    {
+      "id": "187906",
+      "title": "Early Chinese",
+      "latitude": 49.51302,
+      "longitude": -121.41513,
+      "directions": "On Emory Creek Park Road, near Squeah, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187906",
+      "photo_urls": []
+    },
+    {
+      "id": "187908",
+      "title": "Eholt",
+      "latitude": 49.15426,
+      "longitude": -118.54563,
+      "directions": "On Crowsnest Highway (State Route 3) , Eholt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187908",
+      "photo_urls": []
+    },
+    {
+      "id": "187909",
+      "title": "Father Pandosy O.M.I.",
+      "latitude": 49.84991,
+      "longitude": -119.468052,
+      "directions": "On Benvoulin Road, Kelowna, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187909",
+      "photo_urls": []
+    },
+    {
+      "id": "187910",
+      "title": "Eagle Valley",
+      "latitude": 49.15095,
+      "longitude": -119.73627,
+      "directions": "On Crowsnest Highway (State Route 3) , Cawston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187910",
+      "photo_urls": []
+    },
+    {
+      "id": "187911",
+      "title": "Early Anglicans",
+      "latitude": 49.32822,
+      "longitude": -124.34408,
+      "directions": "Near Church Road, Parksville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187911",
+      "photo_urls": []
+    },
+    {
+      "id": "187913",
+      "title": "Dewdney Trail & Moyie",
+      "latitude": 49.282,
+      "longitude": -115.832033,
+      "directions": "On Crowsnest Highway (State Route 3/95) , Moyie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187913",
+      "photo_urls": []
+    },
+    {
+      "id": "187914",
+      "title": "Copper Street",
+      "latitude": 49.079,
+      "longitude": -118.6847,
+      "directions": "On Smelter Viewpoint, near Greenwood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187914",
+      "photo_urls": []
+    },
+    {
+      "id": "187915",
+      "title": "Cascade",
+      "latitude": 49.020367,
+      "longitude": -118.217633,
+      "directions": "On British Columbia 395, near Christina Lake, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187915",
+      "photo_urls": []
+    },
+    {
+      "id": "187916",
+      "title": "Cassiar Gold Rush",
+      "latitude": 59.27529176,
+      "longitude": -129.41348415,
+      "directions": "On Dease Lake Highway/Stewart-Cassiar Highway (State Route 37) , Centreville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187916",
+      "photo_urls": []
+    },
+    {
+      "id": "187917",
+      "title": "Boundary Falls Smelter",
+      "latitude": 49.0393631,
+      "longitude": -118.7045134,
+      "directions": "On Crowsnest Highway (State Route 3) , Boundary Falls, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187917",
+      "photo_urls": []
+    },
+    {
+      "id": "187918",
+      "title": "Railway Centennial",
+      "latitude": 49.50954875,
+      "longitude": -115.77606489,
+      "directions": "On Van Horne Street South (State Route 3) , Cranbrook, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187918",
+      "photo_urls": []
+    },
+    {
+      "id": "187919",
+      "title": "Blue Bell Mine",
+      "latitude": 49.7614892,
+      "longitude": -116.85651085,
+      "directions": "On Eastman Avenue, Riondel, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187919",
+      "photo_urls": []
+    },
+    {
+      "id": "187920",
+      "title": "An American Railroad",
+      "latitude": 49.208917,
+      "longitude": -119.892483,
+      "directions": "On Crowsnest Highway (State Route 3) , near Keremeos, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187920",
+      "photo_urls": []
+    },
+    {
+      "id": "187921",
+      "title": "Ashcroft Manor",
+      "latitude": 50.71865,
+      "longitude": -121.32865278,
+      "directions": "On Trans-Canada Highway (State Route 1) , near Ashcroft, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187921",
+      "photo_urls": []
+    },
+    {
+      "id": "187922",
+      "title": "Baker Street",
+      "latitude": 49.48574,
+      "longitude": -117.31043,
+      "directions": "On Nelson Nelway Highway (State Route 3A) , near Nelson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187922",
+      "photo_urls": []
+    },
+    {
+      "id": "187923",
+      "title": "Salmon!",
+      "latitude": 49.17697417,
+      "longitude": -122.91434973,
+      "directions": "On Gunderson Road, Delta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187923",
+      "photo_urls": []
+    },
+    {
+      "id": "187925",
+      "title": "Yukon Telegraph",
+      "latitude": 56.92336664,
+      "longitude": -130.17174827,
+      "directions": "On Dease Lake Highway/Stewart-Cassiar Highway (State Route 37) , near Bob Quinn Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187925",
+      "photo_urls": []
+    },
+    {
+      "id": "187927",
+      "title": "Spotted Lake",
+      "latitude": 49.08434499,
+      "longitude": -119.59416341,
+      "directions": "On Crowsnest Highway (State Route 3) , near Osoyoos, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187927",
+      "photo_urls": []
+    },
+    {
+      "id": "187928",
+      "title": "St. Eugene Mine",
+      "latitude": 49.2822399,
+      "longitude": -115.83185915,
+      "directions": "On Crowsnest Highway (State Route 3/95) , Moyie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187928",
+      "photo_urls": []
+    },
+    {
+      "id": "187929",
+      "title": "Spallumcheen Valley",
+      "latitude": 50.454483,
+      "longitude": -119.166233,
+      "directions": "On Vernon-Sicamous Highway (State Route 97A) , near Vernon, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187929",
+      "photo_urls": []
+    },
+    {
+      "id": "187930",
+      "title": "Southern Crossroads",
+      "latitude": 49.0130889,
+      "longitude": -119.40020938,
+      "directions": "On Crowsnest Highway (State Route 3) , near Osoyoos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187930",
+      "photo_urls": []
+    },
+    {
+      "id": "187931",
+      "title": "Salmo",
+      "latitude": 49.15514,
+      "longitude": -117.26796,
+      "directions": "On Crowsnest Highway (State Route 3) , Salmo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187931",
+      "photo_urls": []
+    },
+    {
+      "id": "187933",
+      "title": "People of the Skeena",
+      "latitude": 55.24753,
+      "longitude": -127.59459,
+      "directions": "Near 9 Avenue, New Hazelton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187933",
+      "photo_urls": []
+    },
+    {
+      "id": "187935",
+      "title": "Natal, Michel and Middletown (1898-1976)",
+      "latitude": 49.7182,
+      "longitude": -114.8409,
+      "directions": "On Crowsnest Highway (State Route 3) , Sparwood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187935",
+      "photo_urls": []
+    },
+    {
+      "id": "187938",
+      "title": "Midway",
+      "latitude": 49.00562998,
+      "longitude": -118.77627189,
+      "directions": "On 5th Avenue, Midway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187938",
+      "photo_urls": []
+    },
+    {
+      "id": "187939",
+      "title": "Kootenay River and Lumber Mills",
+      "latitude": 49.4160356,
+      "longitude": -115.4218226,
+      "directions": "On Laurier Street, Wardner, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187939",
+      "photo_urls": []
+    },
+    {
+      "id": "187940",
+      "title": "Ginger Goodwin",
+      "latitude": 49.63688,
+      "longitude": -125.00804,
+      "directions": "Near Minto Road, near Cumberland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187940",
+      "photo_urls": []
+    },
+    {
+      "id": "187941",
+      "title": "Kettle Valley Railroad",
+      "latitude": 49.01123851,
+      "longitude": -118.78558739,
+      "directions": "On Crowsnest Highway (State Route 3) , Midway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187941",
+      "photo_urls": []
+    },
+    {
+      "id": "187943",
+      "title": "Yellowhead Pass",
+      "latitude": 52.88218049,
+      "longitude": -118.45106376,
+      "directions": "Near Yellowhead Highway (State Route 16) , near Jasper, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187943",
+      "photo_urls": []
+    },
+    {
+      "id": "187944",
+      "title": "Yukon Cattle Drive",
+      "latitude": 51.93650951,
+      "longitude": -122.98717439,
+      "directions": "On Chilcotin-Bella Coola Highway (State Route 20) , near Hanceville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187944",
+      "photo_urls": []
+    },
+    {
+      "id": "187945",
+      "title": "The Yale Convention",
+      "latitude": 49.56273,
+      "longitude": -121.4327,
+      "directions": "Near Douglas Street, Yale, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187945",
+      "photo_urls": []
+    },
+    {
+      "id": "187946",
+      "title": "West Kootenay Power",
+      "latitude": 49.46315375,
+      "longitude": -117.4950874,
+      "directions": "On Nelson Nelway Highway (State Route 3A) , Bonnington Falls, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187946",
+      "photo_urls": []
+    },
+    {
+      "id": "187948",
+      "title": "Wellington",
+      "latitude": 49.20895,
+      "longitude": -124.021333,
+      "directions": "On Island Highway N, Nanaimo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187948",
+      "photo_urls": []
+    },
+    {
+      "id": "187949",
+      "title": "Vernon Military Camp",
+      "latitude": 50.24613,
+      "longitude": -119.27805,
+      "directions": "On Okanagan Highway, Vernon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187949",
+      "photo_urls": []
+    },
+    {
+      "id": "187952",
+      "title": "The Slocan Mines",
+      "latitude": 49.9758,
+      "longitude": -117.2278,
+      "directions": "On Slocan Star Street, Sandon, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187952",
+      "photo_urls": []
+    },
+    {
+      "id": "187953",
+      "title": "The Rossland Mines",
+      "latitude": 49.07870402,
+      "longitude": -117.81568901,
+      "directions": "On State Route 3B, Rossland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187953",
+      "photo_urls": []
+    },
+    {
+      "id": "187955",
+      "title": "The Last Spike",
+      "latitude": 50.9754853,
+      "longitude": -118.72392066,
+      "directions": "Near Trans-Canada Highway (State Route 1) , near Craigellachie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187955",
+      "photo_urls": []
+    },
+    {
+      "id": "187957",
+      "title": "The First Premier",
+      "latitude": 50.287317,
+      "longitude": -125.645973,
+      "directions": "On Rock Bay Road, near Blind Channel, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187957",
+      "photo_urls": []
+    },
+    {
+      "id": "187958",
+      "title": "The First Highway",
+      "latitude": 56.094517,
+      "longitude": -120.642683,
+      "directions": "On Alaska Highway (State Route 97) , near Taylor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187958",
+      "photo_urls": []
+    },
+    {
+      "id": "187959",
+      "title": "The Dewdney Trail",
+      "latitude": 49.020478,
+      "longitude": -117.844934,
+      "directions": "Near Paterson-Trail Highway (State Route 22) , near Silica, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187959",
+      "photo_urls": []
+    },
+    {
+      "id": "187960",
+      "title": "Sumas Lake Reclamation",
+      "latitude": 49.05646,
+      "longitude": -122.17833,
+      "directions": "Near Cole Road, Abbotsford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187960",
+      "photo_urls": []
+    },
+    {
+      "id": "187961",
+      "title": "Steamboat Saga",
+      "latitude": 50.75040375,
+      "longitude": -120.72633845,
+      "directions": "On Trans-Canada Highway (State Route 1) , near Kamloops, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187961",
+      "photo_urls": []
+    },
+    {
+      "id": "187962",
+      "title": "Spruce Capital",
+      "latitude": 53.91158,
+      "longitude": -122.74431,
+      "directions": "On Caine Drive, Prince George, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187962",
+      "photo_urls": []
+    },
+    {
+      "id": "187963",
+      "title": "Skeena River Boats",
+      "latitude": 54.909536,
+      "longitude": -128.379484,
+      "directions": "On Yellowhead Highway (State Route 16) , near Cedarvale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187963",
+      "photo_urls": []
+    },
+    {
+      "id": "187966",
+      "title": "River of the West",
+      "latitude": 51.04429376,
+      "longitude": -118.20270291,
+      "directions": "Near Big Bend Highway (State Route 23) , Revelstoke, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187966",
+      "photo_urls": []
+    },
+    {
+      "id": "187970",
+      "title": "Powell River",
+      "latitude": 49.8747195,
+      "longitude": -124.55092473,
+      "directions": "On Marine Avenue, Powell River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187970",
+      "photo_urls": []
+    },
+    {
+      "id": "187971",
+      "title": "Port Moody",
+      "latitude": 49.28156,
+      "longitude": -122.84992,
+      "directions": "On Esplanade Avenue, Port Moody, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187971",
+      "photo_urls": []
+    },
+    {
+      "id": "187975",
+      "title": "Passage by Sail",
+      "latitude": 49.956433,
+      "longitude": -125.2058,
+      "directions": "On South Island Highway (National Route 19A) , near Campbell River, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187975",
+      "photo_urls": []
+    },
+    {
+      "id": "187977",
+      "title": "Paddlewheels North",
+      "latitude": 52.43902983,
+      "longitude": -122.39509897,
+      "directions": "On Cariboo Highway (State Route 97) , near Macalister, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187977",
+      "photo_urls": []
+    },
+    {
+      "id": "187979",
+      "title": "\"Overlanders\" of 1862",
+      "latitude": 51.10143282,
+      "longitude": -120.14191627,
+      "directions": "On Southern Yellowhead Highway (State Route 5) , near Louis Creek, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187979",
+      "photo_urls": []
+    },
+    {
+      "id": "187980",
+      "title": "Overland Telegraph",
+      "latitude": 54.66736013,
+      "longitude": -126.99571805,
+      "directions": "On Yellowhead Highway (State Route 16) , near Telkwa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187980",
+      "photo_urls": []
+    },
+    {
+      "id": "187981",
+      "title": "O'Keefe Ranch",
+      "latitude": 50.3637832,
+      "longitude": -119.28253224,
+      "directions": "On Okanagan Highway (State Route 97) , near Vernon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187981",
+      "photo_urls": []
+    },
+    {
+      "id": "187982",
+      "title": "The Okanagan Mountain Fire of 2003",
+      "latitude": 49.73966286,
+      "longitude": -119.76444346,
+      "directions": "On Okanagan Highway (State Route 97) , Peachland, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187982",
+      "photo_urls": []
+    },
+    {
+      "id": "187983",
+      "title": "No. 1 Mine",
+      "latitude": 49.165833,
+      "longitude": -123.934617,
+      "directions": "On Front Street, Nanaimo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187983",
+      "photo_urls": []
+    },
+    {
+      "id": "187984",
+      "title": "Lillooet",
+      "latitude": 50.70157,
+      "longitude": -121.91495,
+      "directions": "On State Route 99, near Lillooet, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187984",
+      "photo_urls": []
+    },
+    {
+      "id": "187985",
+      "title": "Ladysmith",
+      "latitude": 48.99245345,
+      "longitude": -123.81639624,
+      "directions": "On 1st Avenue, Ladysmith, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187985",
+      "photo_urls": []
+    },
+    {
+      "id": "187987",
+      "title": "Kootenay Steamboats",
+      "latitude": 49.47326759,
+      "longitude": -115.51143536,
+      "directions": "On Kootenay Highway (State Route 3) , near Mayook, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187987",
+      "photo_urls": []
+    },
+    {
+      "id": "187988",
+      "title": "J.M. Robinson",
+      "latitude": 49.63297,
+      "longitude": -119.68045,
+      "directions": "On Bridgeman Road, Summerland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187988",
+      "photo_urls": []
+    },
+    {
+      "id": "187990",
+      "title": "J.W. Trutch",
+      "latitude": 49.707435,
+      "longitude": -121.414193,
+      "directions": "Near Trans-Canada Highway (State Route 1) , near Yale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187990",
+      "photo_urls": []
+    },
+    {
+      "id": "187991",
+      "title": "James Sinclair",
+      "latitude": 50.60101,
+      "longitude": -116.0587,
+      "directions": "On Kootenay Highway (State Route 93) , near Radium Hot Springs, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187991",
+      "photo_urls": []
+    },
+    {
+      "id": "187992",
+      "title": "Irving House",
+      "latitude": 49.20798999,
+      "longitude": -122.90624958,
+      "directions": "On Royal Avenue, New Westminster, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187992",
+      "photo_urls": []
+    },
+    {
+      "id": "187995",
+      "title": "Incredible Forests",
+      "latitude": 48.80257,
+      "longitude": -123.71064,
+      "directions": "Near Drinkwater Road, Duncan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187995",
+      "photo_urls": []
+    },
+    {
+      "id": "187996",
+      "title": "Historic Yale",
+      "latitude": 49.562717,
+      "longitude": -121.4323,
+      "directions": "Near Douglas Street, Yale, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187996",
+      "photo_urls": []
+    },
+    {
+      "id": "187998",
+      "title": "Greenwood Smelter",
+      "latitude": 49.07912614,
+      "longitude": -118.68460988,
+      "directions": "On Smelter Viewpoint, near Greenwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187998",
+      "photo_urls": []
+    },
+    {
+      "id": "187999",
+      "title": "Grand Trunk Pacific",
+      "latitude": 54.05912024,
+      "longitude": -124.53717599,
+      "directions": "On Fourth Avenue/Yellowhead Highway (State Route 16) , Fort Fraser, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=187999",
+      "photo_urls": []
+    },
+    {
+      "id": "188006",
+      "title": "Golden Sikhs",
+      "latitude": 51.30066059,
+      "longitude": -116.95374508,
+      "directions": "Near Golden View Road, Golden, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188006",
+      "photo_urls": []
+    },
+    {
+      "id": "188007",
+      "title": "Gold in Nickel Plate",
+      "latitude": 49.35638951,
+      "longitude": -120.07790182,
+      "directions": "On Daly Avenue, Hedley, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188007",
+      "photo_urls": []
+    },
+    {
+      "id": "188008",
+      "title": "Ghost of Walhachin",
+      "latitude": 50.79736,
+      "longitude": -121.10927,
+      "directions": "On Trans-Canada Highway (State Route 1) , near Ashcroft, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188008",
+      "photo_urls": []
+    },
+    {
+      "id": "188009",
+      "title": "Fur, Gold and Cattle",
+      "latitude": 50.67355,
+      "longitude": -120.35328,
+      "directions": "Near Columbia Street West, Kamloops, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188009",
+      "photo_urls": []
+    },
+    {
+      "id": "188011",
+      "title": "Fairview Gold",
+      "latitude": 49.173883,
+      "longitude": -119.597133,
+      "directions": "On Fairview Road, Fairview, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188011",
+      "photo_urls": []
+    },
+    {
+      "id": "188013",
+      "title": "Empire of Grass",
+      "latitude": 50.40561836,
+      "longitude": -120.31292921,
+      "directions": "On Princeton-Kamloops Highway (State Route 5A) , near Stump Lake, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188013",
+      "photo_urls": []
+    },
+    {
+      "id": "188017",
+      "title": "The Dewdney Trail",
+      "latitude": 49.23068572,
+      "longitude": -121.05605705,
+      "directions": "Near Crowsnest Highway (State Route 3) , near Manning Park, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188017",
+      "photo_urls": []
+    },
+    {
+      "id": "188018",
+      "title": "Dawson Creek",
+      "latitude": 55.76664181,
+      "longitude": -120.30538754,
+      "directions": "On John Hart Highway (State Route 97) , near Pouce Coupe, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188018",
+      "photo_urls": []
+    },
+    {
+      "id": "188020",
+      "title": "Coldstream Valley",
+      "latitude": 50.22091,
+      "longitude": -119.28778,
+      "directions": "On Kalamalka Lakeview Drive, near Vernon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188020",
+      "photo_urls": []
+    },
+    {
+      "id": "188022",
+      "title": "Canal Flat",
+      "latitude": 50.16119888,
+      "longitude": -115.84223993,
+      "directions": "On Kootenay Highway (State Route 93/95) , near Canal Flats, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188022",
+      "photo_urls": []
+    },
+    {
+      "id": "188023",
+      "title": "Campbell River Fire",
+      "latitude": 50.038816,
+      "longitude": -125.330237,
+      "directions": "Near Elk Falls Park Road, near Campbell River, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188023",
+      "photo_urls": []
+    },
+    {
+      "id": "188024",
+      "title": "Britannia Mine",
+      "latitude": 49.63455,
+      "longitude": -123.21024,
+      "directions": "On Sea-to-Sky Highway (State Route 99) , Britannia Beach, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188024",
+      "photo_urls": []
+    },
+    {
+      "id": "188025",
+      "title": "Bridge River Gold",
+      "latitude": 50.785807,
+      "longitude": -122.829637,
+      "directions": "On Lillooet Pioneer Road, near Ogden, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188025",
+      "photo_urls": []
+    },
+    {
+      "id": "188026",
+      "title": "Bridging the Cottonwood",
+      "latitude": 53.094444,
+      "longitude": -122.367778,
+      "directions": "Near Cariboo Highway (State Route 97) , near Ten Mile Lake, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188026",
+      "photo_urls": []
+    },
+    {
+      "id": "188028",
+      "title": "Alexander Mackenzie",
+      "latitude": 56.01211768,
+      "longitude": -122.18846449,
+      "directions": "Near Canyon Drive, near Hudson&#39;s Hope., (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188028",
+      "photo_urls": []
+    },
+    {
+      "id": "188029",
+      "title": "Atlin Cemetery",
+      "latitude": 59.581053,
+      "longitude": -133.670512,
+      "directions": "On Surprise Lake Road, Atlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188029",
+      "photo_urls": []
+    },
+    {
+      "id": "188030",
+      "title": "A Versatile Pioneer",
+      "latitude": 49.279283,
+      "longitude": -125.113967,
+      "directions": "On Pacific Rim Highway (State Route 4) , near Great Central, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188030",
+      "photo_urls": []
+    },
+    {
+      "id": "188032",
+      "title": "A Dream Fulfilled",
+      "latitude": 49.14574176,
+      "longitude": -116.53356002,
+      "directions": "On Highway 3A, near Creston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188032",
+      "photo_urls": []
+    },
+    {
+      "id": "197112",
+      "title": "Nelson Post Office/Customs House",
+      "latitude": 49.49275962,
+      "longitude": -117.2943251,
+      "directions": "On Vernon Street, Nelson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197112",
+      "photo_urls": []
+    },
+    {
+      "id": "197114",
+      "title": "Doukhobor Suspension Bridge",
+      "latitude": 49.31759286,
+      "longitude": -117.62968876,
+      "directions": "On Brilliant Road, near Castlegar, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197114",
+      "photo_urls": []
+    },
+    {
+      "id": "198545",
+      "title": "The Old Bridge",
+      "latitude": 50.71168,
+      "longitude": -121.91281,
+      "directions": "On Old Bridge Road, Lillooet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198545",
+      "photo_urls": []
+    },
+    {
+      "id": "198549",
+      "title": "Eagle Pass",
+      "latitude": 50.97545,
+      "longitude": -118.72378,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Craigellachie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198549",
+      "photo_urls": []
+    },
+    {
+      "id": "198556",
+      "title": "The Hagwilget Bridges",
+      "latitude": 55.25690958,
+      "longitude": -127.60040121,
+      "directions": "On Highway 62, Hagwilget, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198556",
+      "photo_urls": []
+    },
+    {
+      "id": "198567",
+      "title": "1906 Amphitrite Point Lighthouse",
+      "latitude": 48.9213424,
+      "longitude": -125.5410146,
+      "directions": "Near Coast Guard Drive, near Ucluelet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198567",
+      "photo_urls": []
+    },
+    {
+      "id": "198577",
+      "title": "Point Atkinson Lighthouse / Le phare de Point Atkinson",
+      "latitude": 49.33098708,
+      "longitude": -123.26401031,
+      "directions": "Near Beacon Lane, West Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198577",
+      "photo_urls": []
+    },
+    {
+      "id": "198587",
+      "title": "Point Atkinson Lighthouse",
+      "latitude": 49.3314687,
+      "longitude": -123.2643783,
+      "directions": "Near Beacon Lane, West Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198587",
+      "photo_urls": []
+    },
+    {
+      "id": "198590",
+      "title": "Creating a Vancouver Icon: the Lions Gate Bridge",
+      "latitude": 49.30085979,
+      "longitude": -123.11711583,
+      "directions": "Near Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198590",
+      "photo_urls": []
+    },
+    {
+      "id": "198610",
+      "title": "The Lions' Gate Bridge / Le pont Lions' Gate",
+      "latitude": 49.3118619,
+      "longitude": -123.141858,
+      "directions": "Near Lions Gate Bridge (State Route 99) , Vancouver, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198610",
+      "photo_urls": []
+    },
+    {
+      "id": "198611",
+      "title": "Disasters and Narrow Escapes",
+      "latitude": 49.3140141,
+      "longitude": -123.1413231,
+      "directions": "Near Stanley Park Drive, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198611",
+      "photo_urls": []
+    },
+    {
+      "id": "198612",
+      "title": "Beacon of Maritime Safety",
+      "latitude": 49.30085994,
+      "longitude": -123.11701546,
+      "directions": "Near Stanley Park Drive, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198612",
+      "photo_urls": []
+    },
+    {
+      "id": "201674",
+      "title": "Sir George Simpson",
+      "latitude": 50.97211781,
+      "longitude": -115.94735411,
+      "directions": "On Kootenay Highway (State Route 93) , near Vermilion Crossing, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201674",
+      "photo_urls": []
+    },
+    {
+      "id": "202600",
+      "title": "The Yellowhead Pass / Le col Tête-Jaune",
+      "latitude": 52.88218251,
+      "longitude": -118.45116115,
+      "directions": "On Yellowhead Highway (State Route 16) , near Lucerne, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202600",
+      "photo_urls": []
+    },
+    {
+      "id": "203579",
+      "title": "Kicking Horse Canyon",
+      "latitude": 51.28884668,
+      "longitude": -116.82602308,
+      "directions": "Near Trans-Canada Highway (State Route 1) , near Golden, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203579",
+      "photo_urls": []
+    },
+    {
+      "id": "203580",
+      "title": "Mount Stephen House: The Early Years/Les premières années",
+      "latitude": 51.39754195,
+      "longitude": -116.49152359,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Field, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203580",
+      "photo_urls": []
+    },
+    {
+      "id": "203581",
+      "title": "Mount Stephen House: The Heyday/Les beaux jours",
+      "latitude": 51.39752331,
+      "longitude": -116.49155111,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Field, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203581",
+      "photo_urls": []
+    },
+    {
+      "id": "203582",
+      "title": "Mount Stephen House: The Later Years/Les dernières années",
+      "latitude": 51.39750519,
+      "longitude": -116.49157228,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Field, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203582",
+      "photo_urls": []
+    },
+    {
+      "id": "231567",
+      "title": "The Parade of Ships",
+      "latitude": 48.42181,
+      "longitude": -123.36887,
+      "directions": "On Goverment Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231567",
+      "photo_urls": []
+    },
+    {
+      "id": "235881",
+      "title": "Canadian Northern Railway Station",
+      "latitude": 49.27378056,
+      "longitude": -123.09806111,
+      "directions": "On Station Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235881",
+      "photo_urls": []
+    },
+    {
+      "id": "235892",
+      "title": "First West Vancouver Ferry",
+      "latitude": 49.29361111,
+      "longitude": -123.13250833,
+      "directions": "On Denman Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235892",
+      "photo_urls": []
+    },
+    {
+      "id": "235893",
+      "title": "From Coal Seams to Park",
+      "latitude": 49.29345,
+      "longitude": -123.13453056,
+      "directions": "On Gilford Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235893",
+      "photo_urls": []
+    },
+    {
+      "id": "235907",
+      "title": "Robert Burns",
+      "latitude": 49.29718056,
+      "longitude": -123.13469722,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235907",
+      "photo_urls": []
+    },
+    {
+      "id": "235996",
+      "title": "Warren G. Harding Memorial",
+      "latitude": 49.29913333,
+      "longitude": -123.13342222,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235996",
+      "photo_urls": []
+    },
+    {
+      "id": "236009",
+      "title": "Japanese Canadian War Memorial",
+      "latitude": 49.30099167,
+      "longitude": -123.13217222,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236009",
+      "photo_urls": []
+    },
+    {
+      "id": "236022",
+      "title": "A Position of Honour",
+      "latitude": 49.30254722,
+      "longitude": -123.13021111,
+      "directions": "On Stanley Park Drive, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236022",
+      "photo_urls": []
+    },
+    {
+      "id": "236027",
+      "title": "Harry Winston Jerome",
+      "latitude": 49.29828611,
+      "longitude": -123.11920833,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236027",
+      "photo_urls": []
+    },
+    {
+      "id": "236125",
+      "title": "Chehalis Cross",
+      "latitude": 49.29941111,
+      "longitude": -123.11904167,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236125",
+      "photo_urls": []
+    },
+    {
+      "id": "236126",
+      "title": "Downtown Skyline",
+      "latitude": 49.29849722,
+      "longitude": -123.1212,
+      "directions": "On Stanley Park Seawall Path, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236126",
+      "photo_urls": []
+    },
+    {
+      "id": "236127",
+      "title": "Windstorm of December 2006",
+      "latitude": 49.31313611,
+      "longitude": -123.14300556,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236127",
+      "photo_urls": []
+    },
+    {
+      "id": "236128",
+      "title": "Welcome to Lowden's Lookout",
+      "latitude": 49.31356944,
+      "longitude": -123.142525,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236128",
+      "photo_urls": []
+    },
+    {
+      "id": "236186",
+      "title": "Indian Totem Poles",
+      "latitude": 49.29908056,
+      "longitude": -123.12099444,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236186",
+      "photo_urls": []
+    },
+    {
+      "id": "236187",
+      "title": "Chief Skedans Mortuary Pole",
+      "latitude": 49.29906944,
+      "longitude": -123.12095556,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236187",
+      "photo_urls": []
+    },
+    {
+      "id": "236188",
+      "title": "Ga'akstalas",
+      "latitude": 49.29910556,
+      "longitude": -123.121025,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236188",
+      "photo_urls": []
+    },
+    {
+      "id": "236189",
+      "title": "Thunderbird House Post",
+      "latitude": 49.29917778,
+      "longitude": -123.12101667,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236189",
+      "photo_urls": []
+    },
+    {
+      "id": "236190",
+      "title": "Oscar Maltipi Pole",
+      "latitude": 49.29932778,
+      "longitude": -123.12107222,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236190",
+      "photo_urls": []
+    },
+    {
+      "id": "236191",
+      "title": "Sky Chief Pole",
+      "latitude": 49.29918611,
+      "longitude": -123.12101667,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236191",
+      "photo_urls": []
+    },
+    {
+      "id": "236192",
+      "title": "Beaver Crest Pole",
+      "latitude": 49.29936667,
+      "longitude": -123.12109444,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236192",
+      "photo_urls": []
+    },
+    {
+      "id": "236193",
+      "title": "Chief Wakas Pole",
+      "latitude": 49.29923889,
+      "longitude": -123.12110833,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236193",
+      "photo_urls": []
+    },
+    {
+      "id": "236194",
+      "title": "Kakaso'las",
+      "latitude": 49.29922222,
+      "longitude": -123.12107778,
+      "directions": "On Brockton Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236194",
+      "photo_urls": []
+    },
+    {
+      "id": "236197",
+      "title": "Her Majesty's Canadian Ship Discovery",
+      "latitude": 49.29771389,
+      "longitude": -123.12358889,
+      "directions": "On Stanley Park Seawall Path, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236197",
+      "photo_urls": []
+    },
+    {
+      "id": "236203",
+      "title": "Shakespeare Garden",
+      "latitude": 49.29962222,
+      "longitude": -123.13690278,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236203",
+      "photo_urls": []
+    },
+    {
+      "id": "236204",
+      "title": "Stanley Park Rock Garden",
+      "latitude": 49.29963333,
+      "longitude": -123.13341389,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236204",
+      "photo_urls": []
+    },
+    {
+      "id": "236206",
+      "title": "Beaver",
+      "latitude": 49.31402222,
+      "longitude": -123.14220556,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236206",
+      "photo_urls": []
+    },
+    {
+      "id": "236209",
+      "title": "Hallelujah Point",
+      "latitude": 49.29835833,
+      "longitude": -123.11972778,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236209",
+      "photo_urls": []
+    },
+    {
+      "id": "236211",
+      "title": "First Known AIDS Memorial",
+      "latitude": 49.29469722,
+      "longitude": -123.133775,
+      "directions": "On Denman Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236211",
+      "photo_urls": []
+    },
+    {
+      "id": "236212",
+      "title": "Jack Poole Plaza",
+      "latitude": 49.28920278,
+      "longitude": -123.11763056,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236212",
+      "photo_urls": []
+    },
+    {
+      "id": "236213",
+      "title": "The Olympic Cauldron",
+      "latitude": 49.28928056,
+      "longitude": -123.11790556,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236213",
+      "photo_urls": []
+    },
+    {
+      "id": "236306",
+      "title": "Wind Wheel Mobile",
+      "latitude": 49.29036667,
+      "longitude": -123.11772222,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236306",
+      "photo_urls": []
+    },
+    {
+      "id": "236307",
+      "title": "Unstable Politics",
+      "latitude": 49.29026944,
+      "longitude": -123.11792778,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236307",
+      "photo_urls": []
+    },
+    {
+      "id": "236308",
+      "title": "Canada Place",
+      "latitude": 49.28886389,
+      "longitude": -123.11169444,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236308",
+      "photo_urls": []
+    },
+    {
+      "id": "236311",
+      "title": "Komagata Maru",
+      "latitude": 49.28973889,
+      "longitude": -123.11972778,
+      "directions": "On West Waterfront Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236311",
+      "photo_urls": []
+    },
+    {
+      "id": "236312",
+      "title": "Canada Pacific Railway Station",
+      "latitude": 49.285275,
+      "longitude": -123.11245,
+      "directions": "On Seymour Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236312",
+      "photo_urls": []
+    },
+    {
+      "id": "236313",
+      "title": "Financial District",
+      "latitude": 49.28509586,
+      "longitude": -123.11378539,
+      "directions": "On West Hastings Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236313",
+      "photo_urls": []
+    },
+    {
+      "id": "236318",
+      "title": "Hotel Vancouver",
+      "latitude": 49.28358878,
+      "longitude": -123.12055228,
+      "directions": "On Hornby Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236318",
+      "photo_urls": []
+    },
+    {
+      "id": "236323",
+      "title": "Hotel Georgia",
+      "latitude": 49.28328913,
+      "longitude": -123.11909578,
+      "directions": "On West Georgia Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236323",
+      "photo_urls": []
+    },
+    {
+      "id": "236348",
+      "title": "Roedde House",
+      "latitude": 49.28682778,
+      "longitude": -123.13228611,
+      "directions": "On Barclay Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236348",
+      "photo_urls": []
+    },
+    {
+      "id": "236351",
+      "title": "Inukshuk",
+      "latitude": 49.28430556,
+      "longitude": -123.1437,
+      "directions": "On Beach Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236351",
+      "photo_urls": []
+    },
+    {
+      "id": "236361",
+      "title": "Three English Greenhorns",
+      "latitude": 49.28734722,
+      "longitude": -123.14268611,
+      "directions": "Near Denman Street, Vancouver, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236361",
+      "photo_urls": []
+    },
+    {
+      "id": "236365",
+      "title": "Before the Lagoon Was Lost",
+      "latitude": 49.29441389,
+      "longitude": -123.13774167,
+      "directions": "On Lost Lagoon Path, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236365",
+      "photo_urls": []
+    },
+    {
+      "id": "236378",
+      "title": "Canada Pavillion",
+      "latitude": 49.28786389,
+      "longitude": -123.11398333,
+      "directions": "On Canada Place, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236378",
+      "photo_urls": []
+    },
+    {
+      "id": "236389",
+      "title": "Gastown",
+      "latitude": 49.28443889,
+      "longitude": -123.10886389,
+      "directions": "On Water Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236389",
+      "photo_urls": []
+    },
+    {
+      "id": "236391",
+      "title": "The Gastown Steam Clock",
+      "latitude": 49.28443889,
+      "longitude": -123.10884722,
+      "directions": "On Water Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236391",
+      "photo_urls": []
+    },
+    {
+      "id": "236396",
+      "title": "Greenshields Building",
+      "latitude": 49.28466944,
+      "longitude": -123.10980278,
+      "directions": "On Water Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236396",
+      "photo_urls": []
+    },
+    {
+      "id": "236398",
+      "title": "Taylor Building",
+      "latitude": 49.28428524,
+      "longitude": -123.10927659,
+      "directions": "On Water Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236398",
+      "photo_urls": []
+    },
+    {
+      "id": "236401",
+      "title": "Edward Hotel",
+      "latitude": 49.28427541,
+      "longitude": -123.10906777,
+      "directions": "On Water Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236401",
+      "photo_urls": []
+    },
+    {
+      "id": "236403",
+      "title": "Robinson Block / Rene Building",
+      "latitude": 49.28358278,
+      "longitude": -123.10548082,
+      "directions": "On Water Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236403",
+      "photo_urls": []
+    },
+    {
+      "id": "236408",
+      "title": "3rd Malkin Warehouse",
+      "latitude": 49.28384084,
+      "longitude": -123.10553692,
+      "directions": "On Water Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236408",
+      "photo_urls": []
+    },
+    {
+      "id": "236409",
+      "title": "The Grand Hotel / The Terminus Hotel",
+      "latitude": 49.28357137,
+      "longitude": -123.10521699,
+      "directions": "On Water Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236409",
+      "photo_urls": []
+    },
+    {
+      "id": "236411",
+      "title": "Cordage Building",
+      "latitude": 49.2835027,
+      "longitude": -123.10508306,
+      "directions": "On Water Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236411",
+      "photo_urls": []
+    },
+    {
+      "id": "236412",
+      "title": "Nagle Bros. Garage",
+      "latitude": 49.28349468,
+      "longitude": -123.1047867,
+      "directions": "On Water Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236412",
+      "photo_urls": []
+    },
+    {
+      "id": "236457",
+      "title": "The Packing House",
+      "latitude": 49.28371111,
+      "longitude": -123.10475278,
+      "directions": "On Water Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236457",
+      "photo_urls": []
+    },
+    {
+      "id": "236463",
+      "title": "Byrnes Block",
+      "latitude": 49.28340941,
+      "longitude": -123.10441648,
+      "directions": "On Carrall Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236463",
+      "photo_urls": []
+    },
+    {
+      "id": "236472",
+      "title": "Abrams Block",
+      "latitude": 49.28285556,
+      "longitude": -123.10421667,
+      "directions": "On Carrall Street, Vancouver, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236472",
+      "photo_urls": []
+    },
+    {
+      "id": "236478",
+      "title": "Chinatown Memorial Monument",
+      "latitude": 49.27951944,
+      "longitude": -123.10200556,
+      "directions": "On Keefer Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236478",
+      "photo_urls": []
+    },
+    {
+      "id": "236487",
+      "title": "Drs. James Till & Ernest McCulloch",
+      "latitude": 49.27322778,
+      "longitude": -123.10260833,
+      "directions": "On Quebec Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236487",
+      "photo_urls": []
+    },
+    {
+      "id": "236639",
+      "title": "150 West 10th Avenue",
+      "latitude": 49.26209444,
+      "longitude": -123.10868889,
+      "directions": "On West 10th Avenue, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236639",
+      "photo_urls": []
+    },
+    {
+      "id": "236641",
+      "title": "148 West 10th Avenue",
+      "latitude": 49.26208611,
+      "longitude": -123.10855833,
+      "directions": "On West 10th Avenue, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236641",
+      "photo_urls": []
+    },
+    {
+      "id": "236645",
+      "title": "144 West 10th Avenue",
+      "latitude": 49.26206667,
+      "longitude": -123.10841389,
+      "directions": "On West 10th Avenue, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236645",
+      "photo_urls": []
+    },
+    {
+      "id": "236647",
+      "title": "Grauer Residence",
+      "latitude": 49.26213611,
+      "longitude": -123.11256389,
+      "directions": "On West 10th Avenue, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236647",
+      "photo_urls": []
+    },
+    {
+      "id": "236648",
+      "title": "Helena Gutteridge",
+      "latitude": 49.26153611,
+      "longitude": -123.11329722,
+      "directions": "On Yukon Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236648",
+      "photo_urls": []
+    },
+    {
+      "id": "236650",
+      "title": "Captain George Vancouver R.N.",
+      "latitude": 49.26126944,
+      "longitude": -123.11399167,
+      "directions": "On West 12th Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236650",
+      "photo_urls": []
+    },
+    {
+      "id": "236651",
+      "title": "Vancouver City Hall",
+      "latitude": 49.26068056,
+      "longitude": -123.11402222,
+      "directions": "Near West 12th Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236651",
+      "photo_urls": []
+    },
+    {
+      "id": "236652",
+      "title": "Manzo Nagano (1853 - 1924)",
+      "latitude": 49.261475,
+      "longitude": -123.11382222,
+      "directions": "On Yukon Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236652",
+      "photo_urls": []
+    },
+    {
+      "id": "236687",
+      "title": "Model School",
+      "latitude": 49.26104444,
+      "longitude": -123.116525,
+      "directions": "On West 12th Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236687",
+      "photo_urls": []
+    },
+    {
+      "id": "236689",
+      "title": "Normal School",
+      "latitude": 49.26093889,
+      "longitude": -123.11638611,
+      "directions": "On West 12th Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236689",
+      "photo_urls": []
+    },
+    {
+      "id": "236698",
+      "title": "Shaw House",
+      "latitude": 49.264725,
+      "longitude": -123.11740833,
+      "directions": "On Ash Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236698",
+      "photo_urls": []
+    },
+    {
+      "id": "236701",
+      "title": "Nye's Gas Station",
+      "latitude": 49.26680278,
+      "longitude": -123.11412778,
+      "directions": "On West 2nd Avenue, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236701",
+      "photo_urls": []
+    },
+    {
+      "id": "236703",
+      "title": "The Centennial Rocket",
+      "latitude": 49.26603056,
+      "longitude": -123.11535556,
+      "directions": "On West 2nd Avenue, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236703",
+      "photo_urls": []
+    },
+    {
+      "id": "236708",
+      "title": "Barbara Howard",
+      "latitude": 49.26606944,
+      "longitude": -123.11531944,
+      "directions": "On West 6th Avenue, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236708",
+      "photo_urls": []
+    },
+    {
+      "id": "236709",
+      "title": "The Southeast False Creek Neighbourhood Energy Utility",
+      "latitude": 49.26843611,
+      "longitude": -123.114625,
+      "directions": "On Cambie Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236709",
+      "photo_urls": []
+    },
+    {
+      "id": "236713",
+      "title": "Percy Williams Statue",
+      "latitude": 49.27760278,
+      "longitude": -123.11283889,
+      "directions": "On Expo Boulevard, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236713",
+      "photo_urls": []
+    },
+    {
+      "id": "236717",
+      "title": "Terry Fox Plaza",
+      "latitude": 49.27740278,
+      "longitude": -123.11373889,
+      "directions": "On Beatty Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236717",
+      "photo_urls": []
+    },
+    {
+      "id": "236733",
+      "title": "Orpheum Theatre",
+      "latitude": 49.28047886,
+      "longitude": -123.1209727,
+      "directions": "On Granville Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236733",
+      "photo_urls": []
+    },
+    {
+      "id": "236740",
+      "title": "Vogue Theatre / Le Théâtre Vogue",
+      "latitude": 49.27989525,
+      "longitude": -123.12181056,
+      "directions": "On Granville Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236740",
+      "photo_urls": []
+    },
+    {
+      "id": "236743",
+      "title": "The First Mail Delivery",
+      "latitude": 49.27969617,
+      "longitude": -123.12397355,
+      "directions": "On Nelson Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236743",
+      "photo_urls": []
+    },
+    {
+      "id": "236746",
+      "title": "George Leslie's Lane Cottage",
+      "latitude": 49.28143935,
+      "longitude": -123.13045152,
+      "directions": "On Pendrell Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236746",
+      "photo_urls": []
+    },
+    {
+      "id": "236747",
+      "title": "Thomas Fee House",
+      "latitude": 49.28455556,
+      "longitude": -123.13522222,
+      "directions": "On Broughton Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236747",
+      "photo_urls": []
+    },
+    {
+      "id": "236749",
+      "title": "St. Paul's Anglican Episcopal Church",
+      "latitude": 49.28335278,
+      "longitude": -123.13386667,
+      "directions": "On Jervis Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236749",
+      "photo_urls": []
+    },
+    {
+      "id": "236768",
+      "title": "\"O Canada\" House",
+      "latitude": 49.28346944,
+      "longitude": -123.127525,
+      "directions": "On Barclay Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236768",
+      "photo_urls": []
+    },
+    {
+      "id": "236783",
+      "title": "Ceperley Rounsefell Building",
+      "latitude": 49.28628718,
+      "longitude": -123.11561893,
+      "directions": "On West Hastings Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236783",
+      "photo_urls": []
+    },
+    {
+      "id": "236785",
+      "title": "BC & Yukon Chamber of Mines",
+      "latitude": 49.28624605,
+      "longitude": -123.11557343,
+      "directions": "On West Hastings Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236785",
+      "photo_urls": []
+    },
+    {
+      "id": "236789",
+      "title": "Lions Gate Bridge",
+      "latitude": 49.31116944,
+      "longitude": -123.14255556,
+      "directions": "On Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236789",
+      "photo_urls": []
+    },
+    {
+      "id": "236865",
+      "title": "Vancouver's First Entertainment Hub",
+      "latitude": 49.29949167,
+      "longitude": -123.13399444,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236865",
+      "photo_urls": []
+    },
+    {
+      "id": "236867",
+      "title": "The Rose Garden",
+      "latitude": 49.29898889,
+      "longitude": -123.13614722,
+      "directions": "On Pipeline Road, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236867",
+      "photo_urls": []
+    },
+    {
+      "id": "244058",
+      "title": "\"Tomorrow Run 91\"",
+      "latitude": 48.409026,
+      "longitude": -123.368914,
+      "directions": "On Douglas Street (National Route 1) , Victoria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244058",
+      "photo_urls": []
+    },
+    {
+      "id": "244082",
+      "title": "Beacon Hill Park",
+      "latitude": 48.410196,
+      "longitude": -123.365062,
+      "directions": "Near Beacon Hill Loop, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244082",
+      "photo_urls": []
+    },
+    {
+      "id": "248642",
+      "title": "Fraser",
+      "latitude": 59.71795967,
+      "longitude": -135.04366787,
+      "directions": "On Klondike Highway, Fraser, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248642",
+      "photo_urls": []
+    },
+    {
+      "id": "248649",
+      "title": "Fraser",
+      "latitude": 59.7157357,
+      "longitude": -135.0467958,
+      "directions": "On Klondike Highway, Fraser, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248649",
+      "photo_urls": []
+    },
+    {
+      "id": "248888",
+      "title": "Welcome / Bienvenue",
+      "latitude": 59.84515979,
+      "longitude": -134.99751091,
+      "directions": "Near Chilkoot Trail (State Route 98) , Bennett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248888",
+      "photo_urls": []
+    },
+    {
+      "id": "248890",
+      "title": "Chilkoot Trail National Historic Site / Lieu historique national de la Piste-Chilkoot",
+      "latitude": 59.84515979,
+      "longitude": -134.99751091,
+      "directions": "Near Chilkoot Trail (State Route 98) , Bennett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248890",
+      "photo_urls": []
+    },
+    {
+      "id": "248891",
+      "title": "End of Trail / Fin de la piste",
+      "latitude": 59.84515979,
+      "longitude": -134.99751091,
+      "directions": "Near Chilkoot Trail (State Route 98) , Bennett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248891",
+      "photo_urls": []
+    },
+    {
+      "id": "248963",
+      "title": "Names on the land / Noms de la terre",
+      "latitude": 59.84515979,
+      "longitude": -134.99751091,
+      "directions": "Near Chilkoot Trail (State Route 98) , Bennett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248963",
+      "photo_urls": []
+    },
+    {
+      "id": "248964",
+      "title": "A Precious Place / Un endroit préciux",
+      "latitude": 59.76728748,
+      "longitude": -135.11050701,
+      "directions": "On Chilkoot Trail, near Lindeman, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248964",
+      "photo_urls": []
+    },
+    {
+      "id": "248966",
+      "title": "Me`n Cho`Bennett Lake",
+      "latitude": 59.6253612,
+      "longitude": -135.13871059,
+      "directions": "On , Atlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248966",
+      "photo_urls": []
+    },
+    {
+      "id": "248972",
+      "title": "St. Andrew's Church",
+      "latitude": 59.62517456,
+      "longitude": -135.13862793,
+      "directions": "On no nearby road, Atlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248972",
+      "photo_urls": []
+    },
+    {
+      "id": "248978",
+      "title": "Bennett",
+      "latitude": 59.6249962,
+      "longitude": -135.13853073,
+      "directions": "Near State Route 2, near Atlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248978",
+      "photo_urls": []
+    },
+    {
+      "id": "251343",
+      "title": "Canadian Pacific Railway Log Houses - circa 1928",
+      "latitude": 51.39708597,
+      "longitude": -116.48826021,
+      "directions": "On Burgess Street, Field, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251343",
+      "photo_urls": []
+    },
+    {
+      "id": "255434",
+      "title": "New International Terminal and Third Runway",
+      "latitude": 49.19494711,
+      "longitude": -123.1781319,
+      "directions": "On Grant McConachie Way, Richmond, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255434",
+      "photo_urls": []
+    },
+    {
+      "id": "255436",
+      "title": "B.C. Hydro Helped The YVR Expansion Take Flight",
+      "latitude": 49.19491247,
+      "longitude": -123.17825059,
+      "directions": "On Grant McConachie Way, Richmond, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255436",
+      "photo_urls": []
+    },
+    {
+      "id": "255437",
+      "title": "Vancouver Control Tower / La tour de contrôle de Vancouver",
+      "latitude": 49.19491247,
+      "longitude": -123.17825059,
+      "directions": "On Grant McConachie Way, Richmond, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255437",
+      "photo_urls": []
+    },
+    {
+      "id": "255441",
+      "title": "Victory Square Cenotaph",
+      "latitude": 49.2824834,
+      "longitude": -123.10993143,
+      "directions": "On Hastings Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255441",
+      "photo_urls": []
+    },
+    {
+      "id": "255442",
+      "title": "Victory Square",
+      "latitude": 49.28229395,
+      "longitude": -123.10982261,
+      "directions": "On Cambie Street, Vancouver, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255442",
+      "photo_urls": []
+    },
+    {
+      "id": "255444",
+      "title": "Edgett Building",
+      "latitude": 49.28162555,
+      "longitude": -123.10979976,
+      "directions": "On Cambie Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255444",
+      "photo_urls": []
+    },
+    {
+      "id": "255465",
+      "title": "Sun Tower",
+      "latitude": 49.28109112,
+      "longitude": -123.10848677,
+      "directions": "On Pender Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255465",
+      "photo_urls": []
+    },
+    {
+      "id": "255467",
+      "title": "Bank of Toronto",
+      "latitude": 49.28450463,
+      "longitude": -123.11289212,
+      "directions": "On Hastings Street (State Route 7A) , Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255467",
+      "photo_urls": []
+    },
+    {
+      "id": "255469",
+      "title": "Chinese Cultural Centre",
+      "latitude": 49.28026545,
+      "longitude": -123.10323224,
+      "directions": "On Pender Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255469",
+      "photo_urls": []
+    },
+    {
+      "id": "255472",
+      "title": "Vancouver Daily Province 67 Years",
+      "latitude": 49.28195979,
+      "longitude": -123.11036381,
+      "directions": "On Pender Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255472",
+      "photo_urls": []
+    },
+    {
+      "id": "255482",
+      "title": "Royal Bank of Canada Building",
+      "latitude": 49.28349447,
+      "longitude": -123.11131949,
+      "directions": "On Hastings Street (State Route 7A) , Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255482",
+      "photo_urls": []
+    },
+    {
+      "id": "262193",
+      "title": "Thanks and Remembrance",
+      "latitude": 49.19490833,
+      "longitude": -123.17819167,
+      "directions": "On Grant McConachie Way, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262193",
+      "photo_urls": []
+    },
+    {
+      "id": "267942",
+      "title": "St. Andrew's Church / Église St. Andrew's",
+      "latitude": 59.84540833,
+      "longitude": -134.99911389,
+      "directions": "On Chilkoot Trail, Bennett, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267942",
+      "photo_urls": []
+    },
+    {
+      "id": "27450",
+      "title": "Peace Arch",
+      "latitude": 49.002096,
+      "longitude": -122.756231,
+      "directions": "On 0 Avenue (Interstate 5) , near Surrey, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27450",
+      "photo_urls": []
+    },
+    {
+      "id": "276496",
+      "title": "Collins’ Overland International Telegraph / Le Reseau Telegraphique International Collins 1864-1867",
+      "latitude": 52.97531,
+      "longitude": -122.49811,
+      "directions": "On Front Street (State Route 97) , Quesnel, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276496",
+      "photo_urls": []
+    },
+    {
+      "id": "277574",
+      "title": "Angel of Victory, CPR Station Bronze War Memorial",
+      "latitude": 49.28527434,
+      "longitude": -123.11148812,
+      "directions": "On West Cordova Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277574",
+      "photo_urls": []
+    },
+    {
+      "id": "284470",
+      "title": "David Douglas (1799-1834)",
+      "latitude": 49.29108403,
+      "longitude": -124.66274353,
+      "directions": "On Alberni Highway (BC-4), near Port Alberni, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284470",
+      "photo_urls": []
+    },
+    {
+      "id": "284484",
+      "title": "Fort Langley",
+      "latitude": 49.1687564,
+      "longitude": -122.57304727,
+      "directions": "On Mavis Ave, Langley Twp, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284484",
+      "photo_urls": []
+    },
+    {
+      "id": "284485",
+      "title": "West Coast Fishery / La Pêche Sur La Côte Ouest",
+      "latitude": 49.12476672,
+      "longitude": -123.18651343,
+      "directions": "On Fourth Avenue, Richmond, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284485",
+      "photo_urls": []
+    },
+    {
+      "id": "284486",
+      "title": "Japanese Fisherman Monument",
+      "latitude": 49.12138524,
+      "longitude": -123.17271352,
+      "directions": "Near Railway Avenue, Richmond, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284486",
+      "photo_urls": []
+    },
+    {
+      "id": "284732",
+      "title": "Marine Building",
+      "latitude": 49.28742746,
+      "longitude": -123.11704695,
+      "directions": "On Burrard Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284732",
+      "photo_urls": []
+    },
+    {
+      "id": "285298",
+      "title": "Power Block",
+      "latitude": 49.2812688,
+      "longitude": -123.1202005,
+      "directions": "On Granville Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285298",
+      "photo_urls": []
+    },
+    {
+      "id": "288764",
+      "title": "Fisherville- The Town that Sat on a Gold Mine",
+      "latitude": 49.62070184,
+      "longitude": -115.62182247,
+      "directions": "On Wardner Fort Steele Road, Fort Steele, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288764",
+      "photo_urls": []
+    },
+    {
+      "id": "288765",
+      "title": "Wild Horse Creek",
+      "latitude": 49.62074354,
+      "longitude": -115.6219928,
+      "directions": "On Wardner Fort Steele Road, Fort Steele, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288765",
+      "photo_urls": []
+    },
+    {
+      "id": "288767",
+      "title": "Crowsnest Pass",
+      "latitude": 49.63947638,
+      "longitude": -114.69429951,
+      "directions": "On Crowsnest Highway (State Route 3) , near Sparwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288767",
+      "photo_urls": []
+    },
+    {
+      "id": "288768",
+      "title": "Fernie Coal",
+      "latitude": 49.50655739,
+      "longitude": -115.06477907,
+      "directions": "On 7 Street, Fernie, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288768",
+      "photo_urls": []
+    },
+    {
+      "id": "292190",
+      "title": "Anglo-Russian Treaty of 1825",
+      "latitude": 55.93723324,
+      "longitude": -129.99344132,
+      "directions": "On Columbia St, Stewart, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292190",
+      "photo_urls": []
+    },
+    {
+      "id": "31941",
+      "title": "Vancouver Rowing Club",
+      "latitude": 49.29674447,
+      "longitude": -123.13425064,
+      "directions": "Near Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31941",
+      "photo_urls": []
+    },
+    {
+      "id": "31979",
+      "title": "Pacific Great Eastern Railway Station",
+      "latitude": 49.31028826,
+      "longitude": -123.0805045,
+      "directions": "Near Lonsdale Avenue, North Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31979",
+      "photo_urls": []
+    },
+    {
+      "id": "32130",
+      "title": "Carnegie Library",
+      "latitude": 49.203609,
+      "longitude": -122.91005015,
+      "directions": "On Carnavon Street, New Westminster, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32130",
+      "photo_urls": []
+    },
+    {
+      "id": "32209",
+      "title": "The Great Fire",
+      "latitude": 49.204469,
+      "longitude": -122.905742,
+      "directions": "On Columbia Street, New Westminster, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32209",
+      "photo_urls": []
+    },
+    {
+      "id": "32318",
+      "title": "Carnegie Library",
+      "latitude": 49.2812338,
+      "longitude": -123.09997,
+      "directions": "Near Main Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32318",
+      "photo_urls": []
+    },
+    {
+      "id": "32348",
+      "title": "B.C. Electric Building",
+      "latitude": 49.2813,
+      "longitude": -123.12546667,
+      "directions": "On Burrard Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32348",
+      "photo_urls": []
+    },
+    {
+      "id": "32481",
+      "title": "St. Paul's Church",
+      "latitude": 49.315819,
+      "longitude": -123.0882185,
+      "directions": "On Esplanade West, near North Vancouver, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32481",
+      "photo_urls": []
+    },
+    {
+      "id": "32970",
+      "title": "Meet You Under the Clock",
+      "latitude": 49.285146,
+      "longitude": -123.113927,
+      "directions": "On Granville Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32970",
+      "photo_urls": []
+    },
+    {
+      "id": "33025",
+      "title": "Canadian Bank of Commerce Building",
+      "latitude": 49.2850725,
+      "longitude": -123.1140133,
+      "directions": "On Granville Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=33025",
+      "photo_urls": []
+    },
+    {
+      "id": "33185",
+      "title": "The New Westminster Court House and Land Registry Office",
+      "latitude": 49.2030745,
+      "longitude": -122.9103612,
+      "directions": "Near Carnavon Street, New Westminster, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=33185",
+      "photo_urls": []
+    },
+    {
+      "id": "33868",
+      "title": "Nine O'Clock Gun",
+      "latitude": 49.29807383,
+      "longitude": -123.11756193,
+      "directions": "Near Stanley Park Drive, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=33868",
+      "photo_urls": []
+    },
+    {
+      "id": "40204",
+      "title": "\"Gassy Jack\"",
+      "latitude": 49.2833439,
+      "longitude": -123.104317,
+      "directions": "On Powell Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40204",
+      "photo_urls": []
+    },
+    {
+      "id": "40645",
+      "title": "Here Stood Hamilton",
+      "latitude": 49.2827822,
+      "longitude": -123.1101912,
+      "directions": "On West Hastings Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40645",
+      "photo_urls": []
+    },
+    {
+      "id": "41554",
+      "title": "The Old Maple",
+      "latitude": 49.28334131,
+      "longitude": -123.10431719,
+      "directions": "On Powell Street, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41554",
+      "photo_urls": []
+    },
+    {
+      "id": "41926",
+      "title": "Deutschesland Café",
+      "latitude": 49.28282429,
+      "longitude": -123.11585336,
+      "directions": "On Seymour Street, Vancouver, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41926",
+      "photo_urls": []
+    },
+    {
+      "id": "41988",
+      "title": "St. Regis Hotel",
+      "latitude": 49.28309198,
+      "longitude": -123.115732,
+      "directions": "On Dunsmuir Street, Vancouver, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41988",
+      "photo_urls": []
+    },
+    {
+      "id": "42533",
+      "title": "Chee Kung Tong Building",
+      "latitude": 53.06534,
+      "longitude": -121.51866,
+      "directions": "On Barkerville Highway (State Route 26) , Barkerville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42533",
+      "photo_urls": []
+    },
+    {
+      "id": "42710",
+      "title": "Cornish Wheel & Pump",
+      "latitude": 53.06529,
+      "longitude": -121.51733,
+      "directions": "Near Barkerville Highway (Route 26) , Barkerville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42710",
+      "photo_urls": []
+    },
+    {
+      "id": "42712",
+      "title": "Cariboo Gold Fields",
+      "latitude": 53.069,
+      "longitude": -121.5151,
+      "directions": "Near Barkerville Highway (State Route 26) , Barkerville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42712",
+      "photo_urls": []
+    },
+    {
+      "id": "42736",
+      "title": "Fort St. James",
+      "latitude": 54.439304,
+      "longitude": -124.256141,
+      "directions": "On Kwah Road West, Fort St. James, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42736",
+      "photo_urls": []
+    },
+    {
+      "id": "42763",
+      "title": "Richfield Courthouse",
+      "latitude": 53.05274,
+      "longitude": -121.52134,
+      "directions": "On Barkerville Highway (State Route 26) , near Barkerville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42763",
+      "photo_urls": []
+    },
+    {
+      "id": "42766",
+      "title": "Cottonwood House",
+      "latitude": 53.0533,
+      "longitude": -122.1693,
+      "directions": "On Sorum Road, near Quesnel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42766",
+      "photo_urls": []
+    },
+    {
+      "id": "44339",
+      "title": "Baldwin #7717 Steam Locomotive",
+      "latitude": 51.42081667,
+      "longitude": -116.42583333,
+      "directions": "Near Trans Canada Highway (Route 1) , Field, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44339",
+      "photo_urls": []
+    },
+    {
+      "id": "46691",
+      "title": "Sadie Marks",
+      "latitude": 49.28111482,
+      "longitude": -123.0929151,
+      "directions": "On East Hastings Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=46691",
+      "photo_urls": []
+    },
+    {
+      "id": "48477",
+      "title": "Cast Iron Panels",
+      "latitude": 48.428499,
+      "longitude": -123.36717,
+      "directions": "On Pandora Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48477",
+      "photo_urls": []
+    },
+    {
+      "id": "48478",
+      "title": "Market Square’s Main Gate Fountain",
+      "latitude": 48.427698,
+      "longitude": -123.368426,
+      "directions": "On Johnson Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48478",
+      "photo_urls": []
+    },
+    {
+      "id": "48479",
+      "title": "Salvation Army",
+      "latitude": 48.426563,
+      "longitude": -123.367573,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48479",
+      "photo_urls": []
+    },
+    {
+      "id": "48480",
+      "title": "Percy Leonard James",
+      "latitude": 48.426029,
+      "longitude": -123.367707,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48480",
+      "photo_urls": []
+    },
+    {
+      "id": "48509",
+      "title": "Fort Victoria",
+      "latitude": 48.425773,
+      "longitude": -123.36775,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48509",
+      "photo_urls": []
+    },
+    {
+      "id": "48511",
+      "title": "The Bastion",
+      "latitude": 48.42568,
+      "longitude": -123.36775,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48511",
+      "photo_urls": []
+    },
+    {
+      "id": "48519",
+      "title": "The Bastion Cannons",
+      "latitude": 48.425662,
+      "longitude": -123.367712,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48519",
+      "photo_urls": []
+    },
+    {
+      "id": "48520",
+      "title": "Fort Victoria",
+      "latitude": 48.425391,
+      "longitude": -123.367809,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48520",
+      "photo_urls": []
+    },
+    {
+      "id": "48521",
+      "title": "First British Columbia School",
+      "latitude": 48.425381,
+      "longitude": -123.367809,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48521",
+      "photo_urls": []
+    },
+    {
+      "id": "48522",
+      "title": "The Bank Building",
+      "latitude": 48.425871,
+      "longitude": -123.367809,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48522",
+      "photo_urls": []
+    },
+    {
+      "id": "48542",
+      "title": "Fort Victoria",
+      "latitude": 48.424431,
+      "longitude": -123.3681,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48542",
+      "photo_urls": []
+    },
+    {
+      "id": "48543",
+      "title": "Vancouver Island Wallmap Mural",
+      "latitude": 48.42432,
+      "longitude": -123.368174,
+      "directions": "On Broughton Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48543",
+      "photo_urls": []
+    },
+    {
+      "id": "48544",
+      "title": "Customs House",
+      "latitude": 48.423391,
+      "longitude": -123.3685,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48544",
+      "photo_urls": []
+    },
+    {
+      "id": "48546",
+      "title": "Capt. James Cook, R.N.",
+      "latitude": 48.421682,
+      "longitude": -123.36891,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48546",
+      "photo_urls": []
+    },
+    {
+      "id": "48547",
+      "title": "Fort Victoria",
+      "latitude": 48.420956,
+      "longitude": -123.36904,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48547",
+      "photo_urls": []
+    },
+    {
+      "id": "48715",
+      "title": "Tsukuba",
+      "latitude": 48.420913,
+      "longitude": -123.369108,
+      "directions": "Near Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48715",
+      "photo_urls": []
+    },
+    {
+      "id": "48716",
+      "title": "Royal Canadian Navy",
+      "latitude": 48.422551,
+      "longitude": -123.368658,
+      "directions": "Near Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48716",
+      "photo_urls": []
+    },
+    {
+      "id": "48717",
+      "title": "Windsor Hotel",
+      "latitude": 48.423776,
+      "longitude": -123.368315,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48717",
+      "photo_urls": []
+    },
+    {
+      "id": "48748",
+      "title": "713 Johnson",
+      "latitude": 48.427065,
+      "longitude": -123.364002,
+      "directions": "On Johnson Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48748",
+      "photo_urls": []
+    },
+    {
+      "id": "48749",
+      "title": "The Birthplace of Victoria",
+      "latitude": 48.424366,
+      "longitude": -123.3704,
+      "directions": "Near Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48749",
+      "photo_urls": []
+    },
+    {
+      "id": "48765",
+      "title": "Elliot Street Square",
+      "latitude": 48.419443,
+      "longitude": -123.367052,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48765",
+      "photo_urls": []
+    },
+    {
+      "id": "48767",
+      "title": "The Sisters of St. Ann",
+      "latitude": 48.419404,
+      "longitude": -123.366972,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48767",
+      "photo_urls": []
+    },
+    {
+      "id": "48768",
+      "title": "St. Ann’s Schoolhouse",
+      "latitude": 48.419406,
+      "longitude": -123.366893,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48768",
+      "photo_urls": []
+    },
+    {
+      "id": "48769",
+      "title": "Sir James Douglas",
+      "latitude": 48.419427,
+      "longitude": -123.36674,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48769",
+      "photo_urls": []
+    },
+    {
+      "id": "48864",
+      "title": "St. Ann’s Pioneer Schoolhouse",
+      "latitude": 48.419333,
+      "longitude": -123.36701,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48864",
+      "photo_urls": []
+    },
+    {
+      "id": "48865",
+      "title": "Doctor John Sebastian Helmcken",
+      "latitude": 48.419518,
+      "longitude": -123.366934,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48865",
+      "photo_urls": []
+    },
+    {
+      "id": "48866",
+      "title": "Log Cabin to Victorian Parlour",
+      "latitude": 48.419543,
+      "longitude": -123.366892,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48866",
+      "photo_urls": []
+    },
+    {
+      "id": "48928",
+      "title": "Cecilia Helmcken",
+      "latitude": 48.419579,
+      "longitude": -123.366849,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48928",
+      "photo_urls": []
+    },
+    {
+      "id": "48929",
+      "title": "The Old Man’s Garden",
+      "latitude": 48.41969,
+      "longitude": -123.366959,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48929",
+      "photo_urls": []
+    },
+    {
+      "id": "48930",
+      "title": "The Children’s Graves",
+      "latitude": 48.419612,
+      "longitude": -123.366729,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48930",
+      "photo_urls": []
+    },
+    {
+      "id": "48933",
+      "title": "To Our Glorious Dead",
+      "latitude": 48.420597,
+      "longitude": -123.369107,
+      "directions": "On Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48933",
+      "photo_urls": []
+    },
+    {
+      "id": "48937",
+      "title": "In Commemoration of the Treaty Between Great Britain and the Russian Empire",
+      "latitude": 48.420956,
+      "longitude": -123.37088,
+      "directions": "On Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48937",
+      "photo_urls": []
+    },
+    {
+      "id": "48992",
+      "title": "Dr John Sebastian Helmcken",
+      "latitude": 48.419457,
+      "longitude": -123.366977,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=48992",
+      "photo_urls": []
+    },
+    {
+      "id": "49036",
+      "title": "Juan Francisco de la Bodega y Quadra",
+      "latitude": 48.421511,
+      "longitude": -123.374085,
+      "directions": "On Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49036",
+      "photo_urls": []
+    },
+    {
+      "id": "49038",
+      "title": "Creation of the Province of British Columbia",
+      "latitude": 48.420429,
+      "longitude": -123.371467,
+      "directions": "On Menzies Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49038",
+      "photo_urls": []
+    },
+    {
+      "id": "49040",
+      "title": "The Mackenzie Papineau Battalion of the International Brigades",
+      "latitude": 48.420493,
+      "longitude": -123.371467,
+      "directions": "On Menzies Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49040",
+      "photo_urls": []
+    },
+    {
+      "id": "49043",
+      "title": "Knowledge Totem",
+      "latitude": 48.420486,
+      "longitude": -123.370609,
+      "directions": "On Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49043",
+      "photo_urls": []
+    },
+    {
+      "id": "49045",
+      "title": "Figures and Medallions of the Library Wing of Parliament Building",
+      "latitude": 48.418628,
+      "longitude": -123.37122,
+      "directions": "On Superior Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49045",
+      "photo_urls": []
+    },
+    {
+      "id": "49074",
+      "title": "The Victoria Centennial Fountain",
+      "latitude": 48.418457,
+      "longitude": -123.370534,
+      "directions": "On Superior Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49074",
+      "photo_urls": []
+    },
+    {
+      "id": "49075",
+      "title": "100th Anniversary of the Canadian Navy",
+      "latitude": 48.423135,
+      "longitude": -123.369251,
+      "directions": "On Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49075",
+      "photo_urls": []
+    },
+    {
+      "id": "49076",
+      "title": "The “Veteran Sailor”",
+      "latitude": 48.423217,
+      "longitude": -123.369782,
+      "directions": "On Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49076",
+      "photo_urls": []
+    },
+    {
+      "id": "49077",
+      "title": "Old Victoria Custom House",
+      "latitude": 48.424423,
+      "longitude": -123.369803,
+      "directions": "On Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49077",
+      "photo_urls": []
+    },
+    {
+      "id": "49078",
+      "title": "The 75th Anniversary of the Canadian Navy",
+      "latitude": 48.42458,
+      "longitude": -123.369959,
+      "directions": "On Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49078",
+      "photo_urls": []
+    },
+    {
+      "id": "49079",
+      "title": "Amor De Cosmos, 1825-1897",
+      "latitude": 48.426047,
+      "longitude": -123.369803,
+      "directions": "On Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49079",
+      "photo_urls": []
+    },
+    {
+      "id": "49080",
+      "title": "The Signing Post",
+      "latitude": 48.425976,
+      "longitude": -123.369685,
+      "directions": "Near Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49080",
+      "photo_urls": []
+    },
+    {
+      "id": "49081",
+      "title": "Mizzen Mast – H.M.S. Algerine",
+      "latitude": 48.426008,
+      "longitude": -123.369449,
+      "directions": "Near Wharf Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49081",
+      "photo_urls": []
+    },
+    {
+      "id": "49082",
+      "title": "Sir Matthew Baillie Begbie",
+      "latitude": 48.425876,
+      "longitude": -123.369047,
+      "directions": "Near Langley Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49082",
+      "photo_urls": []
+    },
+    {
+      "id": "49098",
+      "title": "Former Victoria Law Courts",
+      "latitude": 48.425908,
+      "longitude": -123.369084,
+      "directions": "Near Langley Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49098",
+      "photo_urls": []
+    },
+    {
+      "id": "49099",
+      "title": "Thomas Earle Warehouse",
+      "latitude": 48.426922,
+      "longitude": -123.369336,
+      "directions": "On Yates Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49099",
+      "photo_urls": []
+    },
+    {
+      "id": "49100",
+      "title": "Waddington Alley",
+      "latitude": 48.426937,
+      "longitude": -123.369615,
+      "directions": "On Yates Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49100",
+      "photo_urls": []
+    },
+    {
+      "id": "49101",
+      "title": "Leiser Building",
+      "latitude": 48.426915,
+      "longitude": -123.369583,
+      "directions": "On Yates Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49101",
+      "photo_urls": []
+    },
+    {
+      "id": "49102",
+      "title": "S.J. Pitts, Importer",
+      "latitude": 48.42694,
+      "longitude": -123.36977,
+      "directions": "On Yates Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49102",
+      "photo_urls": []
+    },
+    {
+      "id": "49103",
+      "title": "The Oriental Hotel",
+      "latitude": 48.426944,
+      "longitude": -123.369139,
+      "directions": "On Yates Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49103",
+      "photo_urls": []
+    },
+    {
+      "id": "49124",
+      "title": "Shop/Warehouse",
+      "latitude": 48.426873,
+      "longitude": -123.368645,
+      "directions": "On Yates Street, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49124",
+      "photo_urls": []
+    },
+    {
+      "id": "49125",
+      "title": "The Majestic Theatre",
+      "latitude": 48.426801,
+      "longitude": -123.368066,
+      "directions": "On Yates Street, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49125",
+      "photo_urls": []
+    },
+    {
+      "id": "49126",
+      "title": "Victoria City Hall",
+      "latitude": 48.428752,
+      "longitude": -123.364761,
+      "directions": "Near Douglas Street / Trans-Canada Highway (National Route 1) , Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49126",
+      "photo_urls": []
+    },
+    {
+      "id": "49127",
+      "title": "Japanese Internment",
+      "latitude": 48.428752,
+      "longitude": -123.365373,
+      "directions": "Near Douglas Street / Trans-Canada Highway (National Route 1) , Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49127",
+      "photo_urls": []
+    },
+    {
+      "id": "49128",
+      "title": "Victoria Fire Department Headquarters",
+      "latitude": 48.428482,
+      "longitude": -123.365276,
+      "directions": "Near Douglas Street / Trans-Canada Highway (National Route 1) , Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49128",
+      "photo_urls": []
+    },
+    {
+      "id": "49129",
+      "title": "McPherson Playhouse",
+      "latitude": 48.428617,
+      "longitude": -123.366596,
+      "directions": "On Pandora Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49129",
+      "photo_urls": []
+    },
+    {
+      "id": "49152",
+      "title": "Wesleyan Methodist Church",
+      "latitude": 48.428061,
+      "longitude": -123.366001,
+      "directions": "On Broad Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49152",
+      "photo_urls": []
+    },
+    {
+      "id": "49153",
+      "title": "Fifth Regiment of Garrison Artillery",
+      "latitude": 48.428346,
+      "longitude": -123.36689,
+      "directions": "On Pandora Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49153",
+      "photo_urls": []
+    },
+    {
+      "id": "49154",
+      "title": "Chinese General Store",
+      "latitude": 48.428389,
+      "longitude": -123.36704,
+      "directions": "On Pandora Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49154",
+      "photo_urls": []
+    },
+    {
+      "id": "49155",
+      "title": "Dragon Alley",
+      "latitude": 48.429443,
+      "longitude": -123.368388,
+      "directions": "Near Fisgard Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49155",
+      "photo_urls": []
+    },
+    {
+      "id": "49157",
+      "title": "Lee Mong Kow",
+      "latitude": 48.42935,
+      "longitude": -123.369386,
+      "directions": "On Fisgard Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49157",
+      "photo_urls": []
+    },
+    {
+      "id": "49225",
+      "title": "Victoria, B.C.",
+      "latitude": 48.427549,
+      "longitude": -123.369386,
+      "directions": "Near Waddington Alley, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49225",
+      "photo_urls": []
+    },
+    {
+      "id": "49226",
+      "title": "Boomerang Court and Chancery Lane",
+      "latitude": 48.425947,
+      "longitude": -123.369138,
+      "directions": "On Langley Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49226",
+      "photo_urls": []
+    },
+    {
+      "id": "49227",
+      "title": "The Bell Tower",
+      "latitude": 48.425776,
+      "longitude": -123.368532,
+      "directions": "On Langley Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49227",
+      "photo_urls": []
+    },
+    {
+      "id": "49228",
+      "title": "Le Legs De La Famille Côté",
+      "latitude": 48.409797,
+      "longitude": -123.369203,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49228",
+      "photo_urls": []
+    },
+    {
+      "id": "49229",
+      "title": "Terry Fox",
+      "latitude": 48.408978,
+      "longitude": -123.369237,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49229",
+      "photo_urls": []
+    },
+    {
+      "id": "49230",
+      "title": "“Journey For Lives”",
+      "latitude": 48.408893,
+      "longitude": -123.369216,
+      "directions": "On Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49230",
+      "photo_urls": []
+    },
+    {
+      "id": "49238",
+      "title": "Empress Hotel",
+      "latitude": 48.421742,
+      "longitude": -123.368371,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49238",
+      "photo_urls": []
+    },
+    {
+      "id": "49241",
+      "title": "Emily Carr",
+      "latitude": 48.413807,
+      "longitude": -123.370082,
+      "directions": "On Government Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49241",
+      "photo_urls": []
+    },
+    {
+      "id": "49244",
+      "title": "Finlayson Point",
+      "latitude": 48.407298,
+      "longitude": -123.364279,
+      "directions": "Near Dallas Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49244",
+      "photo_urls": []
+    },
+    {
+      "id": "49247",
+      "title": "Miss Marilyn Bell",
+      "latitude": 48.407511,
+      "longitude": -123.361983,
+      "directions": "Near Dallas Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49247",
+      "photo_urls": []
+    },
+    {
+      "id": "49250",
+      "title": "World’s Tallest Totem Pole",
+      "latitude": 48.409228,
+      "longitude": -123.360867,
+      "directions": "On Camas Circle, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49250",
+      "photo_urls": []
+    },
+    {
+      "id": "49255",
+      "title": "Beacon Hill",
+      "latitude": 48.408708,
+      "longitude": -123.365976,
+      "directions": "On Dallas Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49255",
+      "photo_urls": []
+    },
+    {
+      "id": "52980",
+      "title": "Victoria’s Chinatown",
+      "latitude": 48.429279,
+      "longitude": -123.367841,
+      "directions": "On Fisgard Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=52980",
+      "photo_urls": []
+    },
+    {
+      "id": "53619",
+      "title": "Flack Block",
+      "latitude": 49.282483,
+      "longitude": -123.109338,
+      "directions": "On West Hastings Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53619",
+      "photo_urls": []
+    },
+    {
+      "id": "53798",
+      "title": "Chinese Freemasons Building",
+      "latitude": 49.28066,
+      "longitude": -123.10465,
+      "directions": "On West Pender Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53798",
+      "photo_urls": []
+    },
+    {
+      "id": "53894",
+      "title": "64 Pounder Guns",
+      "latitude": 49.279627,
+      "longitude": -123.110678,
+      "directions": "On Beatty Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53894",
+      "photo_urls": []
+    },
+    {
+      "id": "53942",
+      "title": "Sherman",
+      "latitude": 49.279585,
+      "longitude": -123.110759,
+      "directions": "On Beatty Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53942",
+      "photo_urls": []
+    },
+    {
+      "id": "54225",
+      "title": "Drill Hall",
+      "latitude": 49.279488,
+      "longitude": -123.110873,
+      "directions": "On Beatty Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54225",
+      "photo_urls": []
+    },
+    {
+      "id": "54263",
+      "title": "Ram Mk II",
+      "latitude": 49.279393,
+      "longitude": -123.111082,
+      "directions": "On Beatty Street, Vancouver, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54263",
+      "photo_urls": []
+    },
+    {
+      "id": "54360",
+      "title": "Dominion Building",
+      "latitude": 49.28277,
+      "longitude": -123.109765,
+      "directions": "On West Hastings Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54360",
+      "photo_urls": []
+    },
+    {
+      "id": "54517",
+      "title": "326 West Pender Street",
+      "latitude": 49.282352,
+      "longitude": -123.111457,
+      "directions": "On West Pender Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54517",
+      "photo_urls": []
+    },
+    {
+      "id": "54523",
+      "title": "BC Permanent Building",
+      "latitude": 49.28241,
+      "longitude": -123.111559,
+      "directions": "On West Pender Street, Vancouver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54523",
+      "photo_urls": []
+    },
+    {
+      "id": "54578",
+      "title": "Ferguson Point",
+      "latitude": 49.301136,
+      "longitude": -123.157959,
+      "directions": "On Stanley Park Drive, Vancouver, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54578",
+      "photo_urls": []
+    },
+    {
+      "id": "54834",
+      "title": "Randall Building",
+      "latitude": 49.281498,
+      "longitude": -123.116325,
+      "directions": "On West Georgia Street, Vancouver, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54834",
+      "photo_urls": []
+    },
+    {
+      "id": "60820",
+      "title": "The Semiahmoo Trail",
+      "latitude": 49.068763,
+      "longitude": -122.82562,
+      "directions": "On Elgin Road, Surrey, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60820",
+      "photo_urls": []
+    },
+    {
+      "id": "60900",
+      "title": "Historic Elgin",
+      "latitude": 49.066964,
+      "longitude": -122.82747,
+      "directions": "On Crescent Road, Surrey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60900",
+      "photo_urls": []
+    },
+    {
+      "id": "60901",
+      "title": "Historic Stewart Farmhouse",
+      "latitude": 49.064915,
+      "longitude": -122.84217,
+      "directions": "Near Crescent Road, Surrey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60901",
+      "photo_urls": []
+    },
+    {
+      "id": "61051",
+      "title": "Farming History",
+      "latitude": 49.064785,
+      "longitude": -122.84221,
+      "directions": "Near Crescent Road, Surrey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=61051",
+      "photo_urls": []
+    },
+    {
+      "id": "61525",
+      "title": "Historic McMillan Expedition",
+      "latitude": 49.056693,
+      "longitude": -122.88714,
+      "directions": "On Sullivan Street, Surrey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=61525",
+      "photo_urls": []
+    },
+    {
+      "id": "63715",
+      "title": "Historic Port Elgin",
+      "latitude": 49.069058,
+      "longitude": -122.82586,
+      "directions": "Near Elgin Road, Surrey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63715",
+      "photo_urls": []
+    },
+    {
+      "id": "70867",
+      "title": "Metchosin Schoolhouse",
+      "latitude": 48.3805,
+      "longitude": -123.5335,
+      "directions": "On Happy Valley Road, Metchosin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70867",
+      "photo_urls": []
+    },
+    {
+      "id": "70876",
+      "title": "Fisgard Lighthouse",
+      "latitude": 48.43033333,
+      "longitude": -123.44783333,
+      "directions": "Near Fort Rodd Hill Road, Colwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70876",
+      "photo_urls": []
+    },
+    {
+      "id": "70881",
+      "title": "St. Andrew's Roman Catholic Cathedral",
+      "latitude": 48.425442,
+      "longitude": -123.362487,
+      "directions": "On Blanshard Street, Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70881",
+      "photo_urls": []
+    },
+    {
+      "id": "72867",
+      "title": "Esquimalt Naval Sites",
+      "latitude": 48.43612778,
+      "longitude": -123.42089722,
+      "directions": "Near Belim Street, Esquimalt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72867",
+      "photo_urls": []
+    },
+    {
+      "id": "72868",
+      "title": "Black Pioneers in British Columbia",
+      "latitude": 48.57716667,
+      "longitude": -123.407,
+      "directions": "Near East Saanich Road, Central Saanich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72868",
+      "photo_urls": []
+    },
+    {
+      "id": "72869",
+      "title": "Colwood Pioneer Cemetery",
+      "latitude": 48.4383,
+      "longitude": -123.4878,
+      "directions": "Near Glencairn Lane, Colwood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72869",
+      "photo_urls": []
+    },
+    {
+      "id": "72870",
+      "title": "Hatley Park",
+      "latitude": 48.43516667,
+      "longitude": -123.473,
+      "directions": "Near College Drive, Colwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72870",
+      "photo_urls": []
+    },
+    {
+      "id": "72871",
+      "title": "Royal Roads",
+      "latitude": 48.42955,
+      "longitude": -123.45855,
+      "directions": "On Ocean Boulevard, Colwood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72871",
+      "photo_urls": []
+    },
+    {
+      "id": "72872",
+      "title": "Victoria-Esquimalt Fortifications",
+      "latitude": 48.4335,
+      "longitude": -123.45366667,
+      "directions": "Near Fort Rodd Hill Road, Colwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72872",
+      "photo_urls": []
+    },
+    {
+      "id": "72873",
+      "title": "The Canadian Women's Army Corps (CWAC)",
+      "latitude": 48.43634167,
+      "longitude": -123.42148611,
+      "directions": "Near Belim Street, Esquimalt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72873",
+      "photo_urls": []
+    },
+    {
+      "id": "72874",
+      "title": "Chinese Cemetery",
+      "latitude": 48.40766667,
+      "longitude": -123.3235,
+      "directions": "On Crescent Road, Oak Bay, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72874",
+      "photo_urls": []
+    },
+    {
+      "id": "72875",
+      "title": "Congregation Emanu-El",
+      "latitude": 48.42757778,
+      "longitude": -123.36142778,
+      "directions": "On Blanshard Street, Victoria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72875",
+      "photo_urls": []
+    },
+    {
+      "id": "72876",
+      "title": "Craigdarroch",
+      "latitude": 48.42278611,
+      "longitude": -123.34368889,
+      "directions": "Near Joan Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72876",
+      "photo_urls": []
+    },
+    {
+      "id": "72877",
+      "title": "Esquimalt and Nanaimo Railway Roundhouse",
+      "latitude": 48.42908611,
+      "longitude": -123.38063056,
+      "directions": "Near Sitkum Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72877",
+      "photo_urls": []
+    },
+    {
+      "id": "72878",
+      "title": "Estate of the Lieutenant Governor of British Columbia",
+      "latitude": 48.41821667,
+      "longitude": -123.34024167,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72878",
+      "photo_urls": []
+    },
+    {
+      "id": "72879",
+      "title": "Modeste Demers",
+      "latitude": 48.41916667,
+      "longitude": -123.36333333,
+      "directions": "Near Academy Close, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72879",
+      "photo_urls": []
+    },
+    {
+      "id": "72880",
+      "title": "Robert Dunsmuir",
+      "latitude": 48.4228,
+      "longitude": -123.3437,
+      "directions": "Near Joan Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72880",
+      "photo_urls": []
+    },
+    {
+      "id": "72881",
+      "title": "Royal Theatre",
+      "latitude": 48.42341667,
+      "longitude": -123.36248333,
+      "directions": "On Broughton Street, Victoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72881",
+      "photo_urls": []
+    },
+    {
+      "id": "72882",
+      "title": "Sir Anthony Musgrave",
+      "latitude": 48.41912778,
+      "longitude": -123.34277222,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72882",
+      "photo_urls": []
+    },
+    {
+      "id": "72883",
+      "title": "St. Ann's Academy",
+      "latitude": 48.41933333,
+      "longitude": -123.3635,
+      "directions": "Near Humboldt Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72883",
+      "photo_urls": []
+    },
+    {
+      "id": "72884",
+      "title": "The Church of Our Lord",
+      "latitude": 48.4205,
+      "longitude": -123.36433333,
+      "directions": "On Blanshard Street, Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72884",
+      "photo_urls": []
+    },
+    {
+      "id": "72885",
+      "title": "Tiger Company Fire Hall",
+      "latitude": 48.42825,
+      "longitude": -123.36523333,
+      "directions": "On Pandora Avenue, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72885",
+      "photo_urls": []
+    },
+    {
+      "id": "74135",
+      "title": "Twinning of Morioka, Japan and Victoria",
+      "latitude": 48.408008,
+      "longitude": -123.365923,
+      "directions": "On Dallas Road, Victoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74135",
+      "photo_urls": []
+    },
+    {
+      "id": "74139",
+      "title": "British Columbia Indians World Wars Memorial",
+      "latitude": 48.409138,
+      "longitude": -123.360401,
+      "directions": "On Camas Circle, Victoria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74139",
+      "photo_urls": []
+    },
+    {
+      "id": "74141",
+      "title": "Giants Rooted Among Us",
+      "latitude": 48.411983,
+      "longitude": -123.363694,
+      "directions": "On Circle Drive, Victoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74141",
+      "photo_urls": []
+    },
+    {
+      "id": "74378",
+      "title": "Signs of Lekwungen",
+      "latitude": 48.409878,
+      "longitude": -123.364282,
+      "directions": "On Beacon Hill Loop, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74378",
+      "photo_urls": []
+    },
+    {
+      "id": "74383",
+      "title": "A Natural Harbour",
+      "latitude": 48.421728,
+      "longitude": -123.381935,
+      "directions": "Near Saint Lawrence Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74383",
+      "photo_urls": []
+    },
+    {
+      "id": "74385",
+      "title": "From Mudflat to Rain Garden",
+      "latitude": 48.421728,
+      "longitude": -123.381935,
+      "directions": "Near Saint Lawrence Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74385",
+      "photo_urls": []
+    },
+    {
+      "id": "74399",
+      "title": "Kwakiutl Bear Pole",
+      "latitude": 48.4208,
+      "longitude": -123.369237,
+      "directions": "On Belleville Street, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74399",
+      "photo_urls": []
+    },
+    {
+      "id": "74400",
+      "title": "Emily Carr",
+      "latitude": 48.420736,
+      "longitude": -123.368551,
+      "directions": "On Government Street, Victoria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74400",
+      "photo_urls": []
+    },
+    {
+      "id": "74403",
+      "title": "Arbutus Tree (Arbutus menziesii)",
+      "latitude": 48.422468,
+      "longitude": -123.367942,
+      "directions": "On Government Street, Victoria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74403",
+      "photo_urls": []
+    },
+    {
+      "id": "74419",
+      "title": "The Butchart Gardens / Les Jardins Butchart",
+      "latitude": 48.563659,
+      "longitude": -123.46865,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74419",
+      "photo_urls": []
+    },
+    {
+      "id": "74428",
+      "title": "The Sunken Garden",
+      "latitude": 48.56456,
+      "longitude": -123.468566,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74428",
+      "photo_urls": []
+    },
+    {
+      "id": "74432",
+      "title": "Sunken Garden Lake Sit-in",
+      "latitude": 48.563158,
+      "longitude": -123.468338,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74432",
+      "photo_urls": []
+    },
+    {
+      "id": "74437",
+      "title": "The Quarry Walls",
+      "latitude": 48.563097,
+      "longitude": -123.468392,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74437",
+      "photo_urls": []
+    },
+    {
+      "id": "74438",
+      "title": "The Sunken Garden Lake",
+      "latitude": 48.562817,
+      "longitude": -123.468931,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74438",
+      "photo_urls": []
+    },
+    {
+      "id": "74441",
+      "title": "Ross Fountain Lookout",
+      "latitude": 48.56265,
+      "longitude": -123.468749,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74441",
+      "photo_urls": []
+    },
+    {
+      "id": "74444",
+      "title": "Ross Fountain Lookout",
+      "latitude": 48.562513,
+      "longitude": -123.468926,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74444",
+      "photo_urls": []
+    },
+    {
+      "id": "74447",
+      "title": "Soda Fountain Sit-In",
+      "latitude": 48.562723,
+      "longitude": -123.469521,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74447",
+      "photo_urls": []
+    },
+    {
+      "id": "74451",
+      "title": "Above The Sunken Garden",
+      "latitude": 48.564272,
+      "longitude": -123.469194,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74451",
+      "photo_urls": []
+    },
+    {
+      "id": "74456",
+      "title": "Coast Salish Totem Poles",
+      "latitude": 48.564617,
+      "longitude": -123.470913,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74456",
+      "photo_urls": []
+    },
+    {
+      "id": "74459",
+      "title": "Seed & Fireworks Fields",
+      "latitude": 48.564828,
+      "longitude": -123.470943,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74459",
+      "photo_urls": []
+    },
+    {
+      "id": "74461",
+      "title": "Concert Lawn",
+      "latitude": 48.564842,
+      "longitude": -123.470776,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74461",
+      "photo_urls": []
+    },
+    {
+      "id": "74479",
+      "title": "Organ Pavillion",
+      "latitude": 48.565013,
+      "longitude": -123.470688,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74479",
+      "photo_urls": []
+    },
+    {
+      "id": "74483",
+      "title": "Rose Garden History",
+      "latitude": 48.56543,
+      "longitude": -123.469894,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74483",
+      "photo_urls": []
+    },
+    {
+      "id": "74485",
+      "title": "Fountain of the Three Sturgeons",
+      "latitude": 48.565836,
+      "longitude": -123.469288,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74485",
+      "photo_urls": []
+    },
+    {
+      "id": "74513",
+      "title": "The Japanese Garden",
+      "latitude": 48.565966,
+      "longitude": -123.469237,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74513",
+      "photo_urls": []
+    },
+    {
+      "id": "74545",
+      "title": "Kicking Horse Pass / Le Col du Cheval-Qui-Rue",
+      "latitude": 51.453489,
+      "longitude": -116.28662,
+      "directions": "On Transcanada Highway (National Route 1) , near Field, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74545",
+      "photo_urls": []
+    },
+    {
+      "id": "74549",
+      "title": "Star Pond",
+      "latitude": 48.565857,
+      "longitude": -123.468727,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74549",
+      "photo_urls": []
+    },
+    {
+      "id": "74551",
+      "title": "The Italian Garden",
+      "latitude": 48.565778,
+      "longitude": -123.468411,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74551",
+      "photo_urls": []
+    },
+    {
+      "id": "74552",
+      "title": "The Butchart Boar",
+      "latitude": 48.565156,
+      "longitude": -123.468083,
+      "directions": "Near Benvenuto Avenue, near Brentwood Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74552",
+      "photo_urls": []
+    },
+    {
+      "id": "74695",
+      "title": "Kakehashi",
+      "latitude": 48.410224,
+      "longitude": -123.342384,
+      "directions": "Near Fairfield Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74695",
+      "photo_urls": []
+    },
+    {
+      "id": "74701",
+      "title": "Minnie Victoria Robertson",
+      "latitude": 48.411111,
+      "longitude": -123.341641,
+      "directions": "Near Fairfield Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74701",
+      "photo_urls": []
+    },
+    {
+      "id": "74706",
+      "title": "George and Isabella Pottinger",
+      "latitude": 48.411938,
+      "longitude": -123.340336,
+      "directions": "Near Fairfield Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74706",
+      "photo_urls": []
+    },
+    {
+      "id": "74750",
+      "title": "William Edgar Oliver",
+      "latitude": 48.412092,
+      "longitude": -123.339745,
+      "directions": "Near Fairfield Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74750",
+      "photo_urls": []
+    },
+    {
+      "id": "74752",
+      "title": "Right Reverend George Hills, D.D.",
+      "latitude": 48.411328,
+      "longitude": -123.339262,
+      "directions": "Near Memorial Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74752",
+      "photo_urls": []
+    },
+    {
+      "id": "74825",
+      "title": "Isabella Mainville Ross",
+      "latitude": 48.410648,
+      "longitude": -123.340056,
+      "directions": "Near Memorial Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74825",
+      "photo_urls": []
+    },
+    {
+      "id": "74827",
+      "title": "William (Billy) Barker",
+      "latitude": 48.410561,
+      "longitude": -123.340635,
+      "directions": "Near Memorial Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74827",
+      "photo_urls": []
+    },
+    {
+      "id": "74829",
+      "title": "Lorne Lewis",
+      "latitude": 48.409646,
+      "longitude": -123.343422,
+      "directions": "Near Memorial Crescent, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74829",
+      "photo_urls": []
+    },
+    {
+      "id": "74878",
+      "title": "The People and the Lieutenant Governor",
+      "latitude": 48.419699,
+      "longitude": -123.342212,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74878",
+      "photo_urls": []
+    },
+    {
+      "id": "74940",
+      "title": "The Role of the Lieutenant Governor",
+      "latitude": 48.419662,
+      "longitude": -123.342103,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74940",
+      "photo_urls": []
+    },
+    {
+      "id": "74991",
+      "title": "Government House",
+      "latitude": 48.418596,
+      "longitude": -123.342328,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74991",
+      "photo_urls": []
+    },
+    {
+      "id": "74992",
+      "title": "Sir James Douglas, KCB",
+      "latitude": 48.418831,
+      "longitude": -123.342251,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74992",
+      "photo_urls": []
+    },
+    {
+      "id": "75001",
+      "title": "Stone Boundary Marker",
+      "latitude": 48.418912,
+      "longitude": -123.34254,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75001",
+      "photo_urls": []
+    },
+    {
+      "id": "75002",
+      "title": "<i>Hosaqami</i>",
+      "latitude": 48.418923,
+      "longitude": -123.342637,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75002",
+      "photo_urls": []
+    },
+    {
+      "id": "75023",
+      "title": "Order of Canada / Ordre du Canada",
+      "latitude": 48.419126,
+      "longitude": -123.342421,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75023",
+      "photo_urls": []
+    },
+    {
+      "id": "75026",
+      "title": "Royal and Distinguished Visitors",
+      "latitude": 48.419242,
+      "longitude": -123.342394,
+      "directions": "Near Rockland Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75026",
+      "photo_urls": []
+    },
+    {
+      "id": "75028",
+      "title": "Rockland Cairn",
+      "latitude": 48.420706,
+      "longitude": -123.346295,
+      "directions": "On Rockland Avenue, Victoria, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75028",
+      "photo_urls": []
+    },
+    {
+      "id": "75031",
+      "title": "90 mm Anti-Aircraft Gun",
+      "latitude": 48.434059,
+      "longitude": -123.453645,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75031",
+      "photo_urls": []
+    },
+    {
+      "id": "75210",
+      "title": "Coast Defence Artillery Positions: 1878-1956",
+      "latitude": 48.433426,
+      "longitude": -123.453532,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75210",
+      "photo_urls": []
+    },
+    {
+      "id": "75216",
+      "title": "Upper, Lower, Belmont Batteries",
+      "latitude": 48.433287,
+      "longitude": -123.453683,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75216",
+      "photo_urls": []
+    },
+    {
+      "id": "75218",
+      "title": "Fisgard Lighthouse National Historic Site",
+      "latitude": 48.433169,
+      "longitude": -123.453704,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75218",
+      "photo_urls": []
+    },
+    {
+      "id": "75248",
+      "title": "Upper Battery / Batterie supérieure",
+      "latitude": 48.432915,
+      "longitude": -123.453581,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75248",
+      "photo_urls": []
+    },
+    {
+      "id": "75253",
+      "title": "Abkhazi Garden",
+      "latitude": 48.415662,
+      "longitude": -123.32616,
+      "directions": "On Fairfield Road, Victoria, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75253",
+      "photo_urls": []
+    },
+    {
+      "id": "75297",
+      "title": "Abkhazi Garden House",
+      "latitude": 48.416101,
+      "longitude": -123.326417,
+      "directions": "Near Fairfield Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75297",
+      "photo_urls": []
+    },
+    {
+      "id": "75298",
+      "title": "Oak Bay Grocery",
+      "latitude": 48.426379,
+      "longitude": -123.314919,
+      "directions": "On Oak Bay Avenue, Victoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75298",
+      "photo_urls": []
+    },
+    {
+      "id": "75299",
+      "title": "\"Summerdyne\"",
+      "latitude": 48.426571,
+      "longitude": -123.315296,
+      "directions": "On Oak Bay Avenue, Victoria, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75299",
+      "photo_urls": []
+    },
+    {
+      "id": "75313",
+      "title": "Sahsima",
+      "latitude": 48.406472,
+      "longitude": -123.322159,
+      "directions": "On Penzance Road, Victoria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75313",
+      "photo_urls": []
+    },
+    {
+      "id": "75329",
+      "title": "Spewhung",
+      "latitude": 48.422507,
+      "longitude": -123.301312,
+      "directions": "On Beach Drive, Victoria, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75329",
+      "photo_urls": []
+    },
+    {
+      "id": "75340",
+      "title": "Tlikwaynung",
+      "latitude": 48.411226,
+      "longitude": -123.307169,
+      "directions": "On Beach Drive, Victoria, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75340",
+      "photo_urls": []
+    },
+    {
+      "id": "75341",
+      "title": "Port of Entry Beacon",
+      "latitude": 48.648838,
+      "longitude": -123.39418,
+      "directions": "On Beacon Avenue, Sidney, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75341",
+      "photo_urls": []
+    },
+    {
+      "id": "75449",
+      "title": "Chinese Cemetery",
+      "latitude": 48.406664,
+      "longitude": -123.323205,
+      "directions": "On Penzance Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75449",
+      "photo_urls": []
+    },
+    {
+      "id": "75463",
+      "title": "Year of the Ocean",
+      "latitude": 48.648264,
+      "longitude": -123.395505,
+      "directions": "On 1st Street, Sidney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75463",
+      "photo_urls": []
+    },
+    {
+      "id": "75464",
+      "title": "Mayor's Community Builder Awardees at Beacon Park Pavilion",
+      "latitude": 48.649168,
+      "longitude": -123.393757,
+      "directions": "On Beacon Avenue, Sidney, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75464",
+      "photo_urls": []
+    },
+    {
+      "id": "75465",
+      "title": "Waterfront Industries",
+      "latitude": 48.649354,
+      "longitude": -123.393437,
+      "directions": "Near Beacon Avenue, Sidney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75465",
+      "photo_urls": []
+    },
+    {
+      "id": "75469",
+      "title": "War Memorial",
+      "latitude": 48.649722,
+      "longitude": -123.393946,
+      "directions": "Near Seaport Place, Sidney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75469",
+      "photo_urls": []
+    },
+    {
+      "id": "75480",
+      "title": "War Memorial",
+      "latitude": 48.650319,
+      "longitude": -123.398466,
+      "directions": "On Sidney Avenue, Sidney, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75480",
+      "photo_urls": []
+    },
+    {
+      "id": "75775",
+      "title": "The Guardhouse / Corps de garde",
+      "latitude": 48.432876,
+      "longitude": -123.453734,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=75775",
+      "photo_urls": []
+    },
+    {
+      "id": "76336",
+      "title": "Gun Emplacement / Emplacement du canon",
+      "latitude": 48.432487,
+      "longitude": -123.454144,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=76336",
+      "photo_urls": []
+    },
+    {
+      "id": "80552",
+      "title": "European exploration in the Strait of Juan de Fuca",
+      "latitude": 48.41138889,
+      "longitude": -123.32055556,
+      "directions": "Near Denison Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80552",
+      "photo_urls": []
+    },
+    {
+      "id": "8855",
+      "title": "Ootsa Lake Nechako Reservoir",
+      "latitude": 53.805,
+      "longitude": -126.0427,
+      "directions": "On Ootsa Lake Road, near Southbank, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8855",
+      "photo_urls": []
+    },
+    {
+      "id": "8857",
+      "title": "To the Goldfields!",
+      "latitude": 51.93889,
+      "longitude": -121.77111,
+      "directions": "On State Route 97, near 150 Mile House, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8857",
+      "photo_urls": []
+    },
+    {
+      "id": "9072",
+      "title": "Moricetown Canyon",
+      "latitude": 55.01293,
+      "longitude": -127.33104,
+      "directions": "On Yellowhead Highway (National Route 16) , Moricetown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9072",
+      "photo_urls": []
+    },
+    {
+      "id": "9073",
+      "title": "Hazelton",
+      "latitude": 55.25737,
+      "longitude": -127.67568,
+      "directions": "On Government Street, Hazelton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9073",
+      "photo_urls": []
+    },
+    {
+      "id": "9074",
+      "title": "“K-Shian” – The Skeena",
+      "latitude": 54.20229,
+      "longitude": -129.95083,
+      "directions": "On Yellowhead Highway (National Route 16) , near Tyee, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9074",
+      "photo_urls": []
+    },
+    {
+      "id": "9075",
+      "title": "Inverness Cannery",
+      "latitude": 54.198,
+      "longitude": -130.25524,
+      "directions": "On Skeena Drive, near Port Edward, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9075",
+      "photo_urls": []
+    },
+    {
+      "id": "9077",
+      "title": "Seymour Narrows",
+      "latitude": 50.11182,
+      "longitude": -125.34335,
+      "directions": "On State Route 19, near Campbell River, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9077",
+      "photo_urls": []
+    },
+    {
+      "id": "9155",
+      "title": "Bicentennial of the Spanish Expeditions to the Northwest Coasts of America",
+      "latitude": 49.23446,
+      "longitude": -124.81599,
+      "directions": "Near Alberni Harbour Quay, Port Alberni, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9155",
+      "photo_urls": []
+    },
+    {
+      "id": "9192",
+      "title": "Forest Industry in British Columbia / L’Industrie Forestiere en Colombie-Britannique",
+      "latitude": 49.23468,
+      "longitude": -124.81601,
+      "directions": "Near Alberni Harbour Quay, Port Alberni, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9192",
+      "photo_urls": []
+    },
+    {
+      "id": "9195",
+      "title": "Fort Victoria",
+      "latitude": 48.42476,
+      "longitude": -123.36992,
+      "directions": "On Wharf Street, Victoria, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9195",
+      "photo_urls": []
+    },
+    {
+      "id": "9196",
+      "title": "“The Birdcages”",
+      "latitude": 48.41825,
+      "longitude": -123.37041,
+      "directions": "On Superior Street, Victoria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9196",
+      "photo_urls": []
+    },
+    {
+      "id": "9203",
+      "title": "North Pacific Cannery",
+      "latitude": 54.1947,
+      "longitude": -130.22478,
+      "directions": "On Skeena Drive, near Port Edward, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=9203",
+      "photo_urls": []
+    },
+    {
+      "id": "96724",
+      "title": "Helmcken House Historic Site",
+      "latitude": 48.419706,
+      "longitude": -123.367128,
+      "directions": "Near Douglas Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96724",
+      "photo_urls": []
+    },
+    {
+      "id": "96725",
+      "title": "Pendray House",
+      "latitude": 48.421931,
+      "longitude": -123.375008,
+      "directions": "Near Belleville Street, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96725",
+      "photo_urls": []
+    },
+    {
+      "id": "98860",
+      "title": "Canteen / Cantine",
+      "latitude": 48.432057,
+      "longitude": -123.450963,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98860",
+      "photo_urls": []
+    },
+    {
+      "id": "98994",
+      "title": "Searchlight Emplacement / Emplacement de projecteur",
+      "latitude": 48.431368,
+      "longitude": -123.451133,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98994",
+      "photo_urls": []
+    },
+    {
+      "id": "98995",
+      "title": "Harbour Mouth Defences / Défense de l'entrée du port",
+      "latitude": 48.431338,
+      "longitude": -123.450578,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98995",
+      "photo_urls": []
+    },
+    {
+      "id": "98996",
+      "title": "\"Ack Ack\" (Anti-Aircraft) Artillery",
+      "latitude": 48.433471,
+      "longitude": -123.45332,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98996",
+      "photo_urls": []
+    },
+    {
+      "id": "99057",
+      "title": "Underground Magazine / Magasin souterrain",
+      "latitude": 48.432116,
+      "longitude": -123.450497,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99057",
+      "photo_urls": []
+    },
+    {
+      "id": "99058",
+      "title": "Team Work / Travail d'equipe",
+      "latitude": 48.43195,
+      "longitude": -123.45063,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99058",
+      "photo_urls": []
+    },
+    {
+      "id": "99060",
+      "title": "The Lightkeeper's Boat / L'embarcation du gardien de phare",
+      "latitude": 48.430536,
+      "longitude": -123.447846,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99060",
+      "photo_urls": []
+    },
+    {
+      "id": "99180",
+      "title": "Get Your Bearings / S'Orienter",
+      "latitude": 48.431414,
+      "longitude": -123.448923,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99180",
+      "photo_urls": []
+    },
+    {
+      "id": "99182",
+      "title": "Fisgard Lighthouse / Phare de Fisgard",
+      "latitude": 48.431783,
+      "longitude": -123.449268,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99182",
+      "photo_urls": []
+    },
+    {
+      "id": "99204",
+      "title": "Wisdom on the Water / Prudence en Mer",
+      "latitude": 48.431838,
+      "longitude": -123.449246,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99204",
+      "photo_urls": []
+    },
+    {
+      "id": "99207",
+      "title": "Repository / Manoeuvre du \"repository\"",
+      "latitude": 48.432234,
+      "longitude": -123.45039,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99207",
+      "photo_urls": []
+    },
+    {
+      "id": "99233",
+      "title": "Lower Battery / Batterie inférieure",
+      "latitude": 48.432179,
+      "longitude": -123.450503,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99233",
+      "photo_urls": []
+    },
+    {
+      "id": "99236",
+      "title": "Second World War Temporary Buildings",
+      "latitude": 48.432576,
+      "longitude": -123.451405,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99236",
+      "photo_urls": []
+    },
+    {
+      "id": "99253",
+      "title": "Warrant Officers Married Quarters / Logement de l'adjudant",
+      "latitude": 48.432547,
+      "longitude": -123.452155,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99253",
+      "photo_urls": []
+    },
+    {
+      "id": "99346",
+      "title": "1942 Willys Jeep",
+      "latitude": 48.432766,
+      "longitude": -123.45235,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99346",
+      "photo_urls": []
+    },
+    {
+      "id": "99359",
+      "title": "Officer's Quarters / Logements des officiers",
+      "latitude": 48.432752,
+      "longitude": -123.452553,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99359",
+      "photo_urls": []
+    },
+    {
+      "id": "99395",
+      "title": "Defensible Wall / Mur défensif",
+      "latitude": 48.433021,
+      "longitude": -123.454097,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99395",
+      "photo_urls": []
+    },
+    {
+      "id": "99419",
+      "title": "Heavy Metal and Drugs-in 1912? / La machinerie lourde en 1912...",
+      "latitude": 48.433005,
+      "longitude": -123.452944,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99419",
+      "photo_urls": []
+    },
+    {
+      "id": "99440",
+      "title": "Defence Electric Light Directing Station",
+      "latitude": 48.432431,
+      "longitude": -123.454592,
+      "directions": "Near Ocean Boulevard, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99440",
+      "photo_urls": []
+    },
+    {
+      "id": "99460",
+      "title": "The Victoria and Esquimalt Coast Defences",
+      "latitude": 48.432698,
+      "longitude": -123.454318,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99460",
+      "photo_urls": []
+    },
+    {
+      "id": "99461",
+      "title": "Naval Defence: Yesterday and Today",
+      "latitude": 48.432777,
+      "longitude": -123.448893,
+      "directions": "Near Fort Rodd Hill Road, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99461",
+      "photo_urls": []
+    }
+  ]
+}
