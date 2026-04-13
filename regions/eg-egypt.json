@@ -1,0 +1,569 @@
+{
+  "region_id": "eg-egypt",
+  "region_name": "Egypt",
+  "region_type": "country",
+  "country": "Egypt",
+  "generated": "2026-04-13T12:43:55.580Z",
+  "source_timestamp": "2026-04-13T12:43:55.580Z",
+  "marker_count": 62,
+  "markers": [
+    {
+      "id": "106725",
+      "title": "The Two Obelisques Of Queen Hatshepsut",
+      "latitude": 25.71861111,
+      "longitude": 32.65861111,
+      "directions": "Near Tariaq Bedon Esm, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106725",
+      "photo_urls": []
+    },
+    {
+      "id": "132514",
+      "title": "Tomb of Thutmosis III",
+      "latitude": 25.73777994,
+      "longitude": 32.60070493,
+      "directions": "Near , Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132514",
+      "photo_urls": []
+    },
+    {
+      "id": "264448",
+      "title": "The Tomb of Mereruka",
+      "latitude": 29.8755622,
+      "longitude": 31.2210875,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=264448",
+      "photo_urls": []
+    },
+    {
+      "id": "287881",
+      "title": "The Funerary Complex of King Teti",
+      "latitude": 29.87569308,
+      "longitude": 31.22169667,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287881",
+      "photo_urls": []
+    },
+    {
+      "id": "287885",
+      "title": "Tomb of Kagemni / &#1605;&#1602;&#1576;&#1585;&#1577; &#1603;&#1575;&#1580;&#1605;&#1606;&#1610;",
+      "latitude": 29.87584665,
+      "longitude": 31.22161884,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287885",
+      "photo_urls": []
+    },
+    {
+      "id": "287888",
+      "title": "Step Pyramid Complex",
+      "latitude": 29.86900783,
+      "longitude": 31.21814817,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287888",
+      "photo_urls": []
+    },
+    {
+      "id": "287889",
+      "title": "Enclosure Wall",
+      "latitude": 29.86909631,
+      "longitude": 31.2177884,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287889",
+      "photo_urls": []
+    },
+    {
+      "id": "287894",
+      "title": "The Step Pyramid / &#1575;&#1604;&#1607;&#1585;&#1605; &#1575;&#1604;&#1605;&#1583;&#1585;&#1580;",
+      "latitude": 29.86914243,
+      "longitude": 31.21670786,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287894",
+      "photo_urls": []
+    },
+    {
+      "id": "287900",
+      "title": "South Court",
+      "latitude": 29.86918482,
+      "longitude": 31.21695246,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287900",
+      "photo_urls": []
+    },
+    {
+      "id": "287902",
+      "title": "The Southern Tomb",
+      "latitude": 29.86914011,
+      "longitude": 31.21655091,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287902",
+      "photo_urls": []
+    },
+    {
+      "id": "287904",
+      "title": "South Entrance of The Step Pyramid",
+      "latitude": 29.87056026,
+      "longitude": 31.2165271,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287904",
+      "photo_urls": []
+    },
+    {
+      "id": "287914",
+      "title": "Khafre's Valley Temple",
+      "latitude": 29.97486205,
+      "longitude": 31.13854887,
+      "directions": "On Al Haram, Nazlet El-Semman, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287914",
+      "photo_urls": []
+    },
+    {
+      "id": "287916",
+      "title": "Great Forecourt / Grande Cour",
+      "latitude": 25.71910778,
+      "longitude": 32.65689662,
+      "directions": "On El-Shaikh Mousa, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287916",
+      "photo_urls": []
+    },
+    {
+      "id": "287954",
+      "title": "Excavations at Kom El-Fakhry",
+      "latitude": 29.8496099,
+      "longitude": 31.25438608,
+      "directions": "On Tariaq Bedon Esm, Mit-Rahineh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287954",
+      "photo_urls": []
+    },
+    {
+      "id": "287966",
+      "title": "Memphis",
+      "latitude": 29.84960988,
+      "longitude": 31.25441589,
+      "directions": "On Tariaq Bedon Esm, Mit-Rahineh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287966",
+      "photo_urls": []
+    },
+    {
+      "id": "287967",
+      "title": "Apries Stela",
+      "latitude": 29.84943073,
+      "longitude": 31.25457711,
+      "directions": "On Tariaq Bedon Esm, Mit-Rahineh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287967",
+      "photo_urls": []
+    },
+    {
+      "id": "287969",
+      "title": "Colonnade Entrance",
+      "latitude": 29.86911923,
+      "longitude": 31.21766241,
+      "directions": "On Pyramid of Djoser Road, Saqarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287969",
+      "photo_urls": []
+    },
+    {
+      "id": "287974",
+      "title": "Temple of Khonsu / &#1605;&#1593;&#1576;&#1583; &#1582;&#1608;&#1606;&#1587;&#1608;",
+      "latitude": 25.71626435,
+      "longitude": 32.65564702,
+      "directions": "On Mabad Al Karnak, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=287974",
+      "photo_urls": []
+    },
+    {
+      "id": "288006",
+      "title": "Hypostyle Hall / Salle Hypostyle",
+      "latitude": 25.71868607,
+      "longitude": 32.65768905,
+      "directions": "On Tariaq Bedon Esm, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288006",
+      "photo_urls": []
+    },
+    {
+      "id": "288016",
+      "title": "Courtyard of the Third Pylon / Cour du III&#7497;&#7504;&#7497; Pylône",
+      "latitude": 25.71846131,
+      "longitude": 32.65816251,
+      "directions": "On Tariaq Bedon Esm, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288016",
+      "photo_urls": []
+    },
+    {
+      "id": "288023",
+      "title": "Wadjyt / Ouadjyt",
+      "latitude": 25.71832994,
+      "longitude": 32.65849473,
+      "directions": "On Tariaq Bedon Esm, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288023",
+      "photo_urls": []
+    },
+    {
+      "id": "288033",
+      "title": "Sacred Lake / Lac sacré",
+      "latitude": 25.7174814,
+      "longitude": 32.6583199,
+      "directions": "On El-Shaikh Mousa, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288033",
+      "photo_urls": []
+    },
+    {
+      "id": "288041",
+      "title": "Cachette courtyard / Cour de la cachette",
+      "latitude": 25.7179308,
+      "longitude": 32.65789166,
+      "directions": "On Tariaq Bedon Esm, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288041",
+      "photo_urls": []
+    },
+    {
+      "id": "288433",
+      "title": "Ancient Luxor / &#1605;&#1583;&#1610;&#1606;&#1577; &#1575;&#1604;&#1575;&#1602;&#1589;&#1585;",
+      "latitude": 25.70053159,
+      "longitude": 32.64060173,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288433",
+      "photo_urls": []
+    },
+    {
+      "id": "288434",
+      "title": "Avenue of Sphinxes/ &#1591;&#1585;&#1610;&#1602; &#1575;&#1604;&#1603;&#1576;&#1575;&#1588;",
+      "latitude": 25.70065553,
+      "longitude": 32.64023857,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288434",
+      "photo_urls": []
+    },
+    {
+      "id": "288436",
+      "title": "Ramesses II Court",
+      "latitude": 25.70017995,
+      "longitude": 32.63963708,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288436",
+      "photo_urls": []
+    },
+    {
+      "id": "288444",
+      "title": "Great Colonnade Hall",
+      "latitude": 25.69976196,
+      "longitude": 32.63923246,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288444",
+      "photo_urls": []
+    },
+    {
+      "id": "288450",
+      "title": "Roman Luxor Temple",
+      "latitude": 25.69888325,
+      "longitude": 32.63849735,
+      "directions": "On Kornish Al Nile, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288450",
+      "photo_urls": []
+    },
+    {
+      "id": "288451",
+      "title": "Sanctuary Area",
+      "latitude": 25.69879776,
+      "longitude": 32.63841766,
+      "directions": "On Kornish Al Nile, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288451",
+      "photo_urls": []
+    },
+    {
+      "id": "288454",
+      "title": "Pylon of Ramesses II",
+      "latitude": 25.70050823,
+      "longitude": 32.63962232,
+      "directions": "On Kornish Al Nile, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288454",
+      "photo_urls": []
+    },
+    {
+      "id": "288456",
+      "title": "Luxor Temple / &#1605;&#1593;&#1576;&#1583; &#1575;&#1604;&#1571;&#1602;&#1589;&#1585;",
+      "latitude": 25.70051949,
+      "longitude": 32.63964297,
+      "directions": "On Kornish Al Nile, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288456",
+      "photo_urls": []
+    },
+    {
+      "id": "288460",
+      "title": "Nectanebo I",
+      "latitude": 25.70079795,
+      "longitude": 32.6400774,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288460",
+      "photo_urls": []
+    },
+    {
+      "id": "288462",
+      "title": "Pinedjem I",
+      "latitude": 25.70078717,
+      "longitude": 32.64009116,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288462",
+      "photo_urls": []
+    },
+    {
+      "id": "288463",
+      "title": "Ramses II",
+      "latitude": 25.70078217,
+      "longitude": 32.64010099,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288463",
+      "photo_urls": []
+    },
+    {
+      "id": "288464",
+      "title": "Tutankhamun",
+      "latitude": 25.70076959,
+      "longitude": 32.640114,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288464",
+      "photo_urls": []
+    },
+    {
+      "id": "288465",
+      "title": "Amenhotep III",
+      "latitude": 25.70076221,
+      "longitude": 32.64012295,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288465",
+      "photo_urls": []
+    },
+    {
+      "id": "288466",
+      "title": "Hatshepsut",
+      "latitude": 25.70074814,
+      "longitude": 32.64013747,
+      "directions": "On Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288466",
+      "photo_urls": []
+    },
+    {
+      "id": "288881",
+      "title": "Birth House / &#1576;&#1610;&#1578; &#1575;&#1604;&#1608;&#1604;&#1575;&#1583;&#1577;",
+      "latitude": 24.9767522,
+      "longitude": 32.87280746,
+      "directions": "On Ragab Lane, Edfu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288881",
+      "photo_urls": []
+    },
+    {
+      "id": "288882",
+      "title": "Edfu Temple / &#1605;&#1593;&#1576;&#1583; &#1573;&#1583;&#1601;&#1608;",
+      "latitude": 24.97728247,
+      "longitude": 32.87379662,
+      "directions": "On Ragab Lane, Edfu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288882",
+      "photo_urls": []
+    },
+    {
+      "id": "288885",
+      "title": "Kom Ombo Temple / &#1605;&#1593;&#1576;&#1583; &#1603;&#1608;&#1605; &#1575;&#1605;&#1576;&#1608;",
+      "latitude": 24.45150323,
+      "longitude": 32.92817685,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288885",
+      "photo_urls": []
+    },
+    {
+      "id": "288886",
+      "title": "Gate and Pylon",
+      "latitude": 24.45147971,
+      "longitude": 32.92827939,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288886",
+      "photo_urls": []
+    },
+    {
+      "id": "288893",
+      "title": "Chapel of Hathor / &#1605;&#1602;&#1589;&#1608;&#1585;&#1577; &#1581;&#1578;&#1581;&#1608;&#1585;",
+      "latitude": 24.45159555,
+      "longitude": 32.92841361,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288893",
+      "photo_urls": []
+    },
+    {
+      "id": "288905",
+      "title": "The Open-Air Courtyard",
+      "latitude": 24.45181353,
+      "longitude": 32.92812836,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288905",
+      "photo_urls": []
+    },
+    {
+      "id": "288908",
+      "title": "The Temple of Ombos / Le temple d’Ombos",
+      "latitude": 24.45190931,
+      "longitude": 32.92829437,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288908",
+      "photo_urls": []
+    },
+    {
+      "id": "288910",
+      "title": "Outer Hypostyle Hall",
+      "latitude": 24.45194674,
+      "longitude": 32.92830068,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288910",
+      "photo_urls": []
+    },
+    {
+      "id": "288912",
+      "title": "Inner Hypostyle Hall",
+      "latitude": 24.45203159,
+      "longitude": 32.92841199,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288912",
+      "photo_urls": []
+    },
+    {
+      "id": "288921",
+      "title": "Inner Halls and Twin Sanctuaries",
+      "latitude": 24.45220588,
+      "longitude": 32.92848468,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288921",
+      "photo_urls": []
+    },
+    {
+      "id": "288923",
+      "title": "Festival Calendars",
+      "latitude": 24.45221173,
+      "longitude": 32.9285202,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288923",
+      "photo_urls": []
+    },
+    {
+      "id": "288924",
+      "title": "The Surgical Instruments Scene",
+      "latitude": 24.45233865,
+      "longitude": 32.9284352,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288924",
+      "photo_urls": []
+    },
+    {
+      "id": "288925",
+      "title": "The Surgical Instruments Scene",
+      "latitude": 24.45251994,
+      "longitude": 32.92857111,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288925",
+      "photo_urls": []
+    },
+    {
+      "id": "288927",
+      "title": "Chapel of the Hearing Ear",
+      "latitude": 24.45237124,
+      "longitude": 32.9286989,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288927",
+      "photo_urls": []
+    },
+    {
+      "id": "288928",
+      "title": "Birth House / &#1576;&#1610;&#1578; &#1575;&#1604;&#1608;&#1604;&#1575;&#1583;&#1577;",
+      "latitude": 24.45194907,
+      "longitude": 32.92787931,
+      "directions": "On Tariaq Bedon Esm, Izbat Al Bayyarah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288928",
+      "photo_urls": []
+    },
+    {
+      "id": "289482",
+      "title": "The Architectural Description of the Temple",
+      "latitude": 24.97789991,
+      "longitude": 32.87365333,
+      "directions": "On Ragab Lane, Edfu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289482",
+      "photo_urls": []
+    },
+    {
+      "id": "289503",
+      "title": "The Great Temple of Abu Simbel",
+      "latitude": 22.33704509,
+      "longitude": 31.62577908,
+      "directions": "On Ramsis, Abu Simbel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289503",
+      "photo_urls": []
+    },
+    {
+      "id": "289507",
+      "title": "The Small Temple of Abu Simbel",
+      "latitude": 22.33742177,
+      "longitude": 31.62666744,
+      "directions": "On Tariaq Bedon Esm, Abu Simbel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289507",
+      "photo_urls": []
+    },
+    {
+      "id": "289511",
+      "title": "The Salvage of Abu Simbel Temples",
+      "latitude": 22.33552954,
+      "longitude": 31.62580778,
+      "directions": "On Tariaq Bedon Esm, Abu Simbel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289511",
+      "photo_urls": []
+    },
+    {
+      "id": "289512",
+      "title": "The Unfinished Obelisk",
+      "latitude": 24.07723296,
+      "longitude": 32.89441743,
+      "directions": "On Doctor Abd Al Rady Hanafe&#39;, Aswan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289512",
+      "photo_urls": []
+    },
+    {
+      "id": "289516",
+      "title": "The Granite Quarries of Aswan",
+      "latitude": 24.07749654,
+      "longitude": 32.89468188,
+      "directions": "On Doctor Abd Al Rady Hanafe&#39;, Aswan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289516",
+      "photo_urls": []
+    },
+    {
+      "id": "289518",
+      "title": "How Obelisks Were Made: Converting Stone into a Monument",
+      "latitude": 24.07752586,
+      "longitude": 32.894697,
+      "directions": "On Doctor Abd Al Rady Hanafe&#39;, Aswan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289518",
+      "photo_urls": []
+    },
+    {
+      "id": "292381",
+      "title": "Royal Stelae",
+      "latitude": 24.6501435,
+      "longitude": 32.92994296,
+      "directions": "Near , Al Kagoug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292381",
+      "photo_urls": []
+    },
+    {
+      "id": "292626",
+      "title": "Luxor Temple Fragment Conservation Project & Open Air Museum",
+      "latitude": 25.69929662,
+      "longitude": 32.63946793,
+      "directions": "Near Mabad Al Oksor, Luxor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292626",
+      "photo_urls": []
+    },
+    {
+      "id": "59921",
+      "title": "Pompey's Pillar",
+      "latitude": 31.18249444,
+      "longitude": 29.89645278,
+      "directions": "On Karmooz [Pompey&#39;s Pillar], Alexandria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=59921",
+      "photo_urls": []
+    }
+  ]
+}
