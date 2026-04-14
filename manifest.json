@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-13T12:44:14.874Z",
+  "generated": "2026-04-14T06:08:57.352Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 32923,
-  "total_regions": 12,
+  "total_markers": 33142,
+  "total_regions": 13,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -52,6 +52,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 50,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "un-unk",
+      "name": "►",
+      "type": "state",
+      "country": "United States of America",
+      "file": "regions/un-unk.json",
+      "markers": 219,
+      "size_bytes": 67436,
+      "updated": "2026-04-14",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 70,
         "removed": 0,
         "modified": 0
       }
