@@ -3,11 +3,11 @@
   "run_id": 104,
   "cycle_day": 20,
   "regions_processed": [
-    "un-unk"
+    "al-albania"
   ],
   "changes": {
-    "un-unk": {
-      "added": 70,
+    "al-albania": {
+      "added": 16,
       "removed": 0,
       "modified": 0
     }
