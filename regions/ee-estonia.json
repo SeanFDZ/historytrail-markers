@@ -1,0 +1,92 @@
+{
+  "region_id": "ee-estonia",
+  "region_name": "Estonia",
+  "region_type": "country",
+  "country": "Estonia",
+  "generated": "2026-04-14T06:08:54.396Z",
+  "source_timestamp": "2026-04-14T06:08:54.396Z",
+  "marker_count": 9,
+  "markers": [
+    {
+      "id": "56996",
+      "title": "<i>Suurgildi Hoone</i>",
+      "latitude": 59.43827,
+      "longitude": 24.745327,
+      "directions": "On Pikk Street, Vanalinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=56996",
+      "photo_urls": []
+    },
+    {
+      "id": "57007",
+      "title": "<i>Mustpeade Maja</i>",
+      "latitude": 59.438867,
+      "longitude": 24.7464,
+      "directions": "On Pikk Street, Tallinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57007",
+      "photo_urls": []
+    },
+    {
+      "id": "57027",
+      "title": "<i>Toompea Loss</i>",
+      "latitude": 59.434754,
+      "longitude": 24.739132,
+      "directions": "On Lossi Plats/Toompea, Vanalinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57027",
+      "photo_urls": []
+    },
+    {
+      "id": "57129",
+      "title": "Tallinn Town Hall - <i>Anno 1404</i>",
+      "latitude": 59.437092,
+      "longitude": 24.745469,
+      "directions": "On Raekoja plats, Tallinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57129",
+      "photo_urls": []
+    },
+    {
+      "id": "57227",
+      "title": "Residence of Konstantin Päts",
+      "latitude": 59.436984,
+      "longitude": 24.740522,
+      "directions": "On Kohtu Street, Tallinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57227",
+      "photo_urls": []
+    },
+    {
+      "id": "57484",
+      "title": "Polish Submarine \"ORZE&#321;\" - September 1939",
+      "latitude": 59.44255,
+      "longitude": 24.749408,
+      "directions": "On Pikk Street, Tallinn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57484",
+      "photo_urls": []
+    },
+    {
+      "id": "57529",
+      "title": "The Historic Centre (Old Town) of Tallinn",
+      "latitude": 59.437063,
+      "longitude": 24.745079,
+      "directions": "On Raekoja plats, Tallinn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57529",
+      "photo_urls": []
+    },
+    {
+      "id": "61331",
+      "title": "<i>Mälestusmärk “Katkenud Liin”</i> / “Broken Line”",
+      "latitude": 59.442161,
+      "longitude": 24.751886,
+      "directions": "On Rannamäe tee, Kesklinna, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=61331",
+      "photo_urls": []
+    },
+    {
+      "id": "61360",
+      "title": "British Royal Navy in the Estonian War of Independence",
+      "latitude": 59.4422061,
+      "longitude": 24.74929,
+      "directions": "On Pikk Street, Vanalinn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=61360",
+      "photo_urls": []
+    }
+  ]
+}
