@@ -1,0 +1,2693 @@
+{
+  "region_id": "ca-nb",
+  "region_name": "New Brunswick",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-14T06:08:54.393Z",
+  "source_timestamp": "2026-04-14T06:08:54.393Z",
+  "marker_count": 298,
+  "markers": [
+    {
+      "id": "106339",
+      "title": "Methodist Chapel 1790",
+      "latitude": 45.919267,
+      "longitude": -64.365742,
+      "directions": "On Main Street (State Route 940) , Middle Sackville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106339",
+      "photo_urls": []
+    },
+    {
+      "id": "106381",
+      "title": "Yorkshire 2000",
+      "latitude": 45.919194,
+      "longitude": -64.365666,
+      "directions": "On Main Street (State Route 940) , Middle Sackville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106381",
+      "photo_urls": []
+    },
+    {
+      "id": "106382",
+      "title": "1919 Booster Pump",
+      "latitude": 45.906184,
+      "longitude": -64.3735,
+      "directions": "On Main Street (State Route 940) , Sackville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106382",
+      "photo_urls": []
+    },
+    {
+      "id": "106390",
+      "title": "Anglican Church Rectory",
+      "latitude": 45.900505,
+      "longitude": -64.371372,
+      "directions": "On Main Street (State Route 940) , Sackville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106390",
+      "photo_urls": []
+    },
+    {
+      "id": "106421",
+      "title": "St. Paul's Anglican Church",
+      "latitude": 45.899725,
+      "longitude": -64.368869,
+      "directions": "On Main Street (State Route 940) , Sackville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106421",
+      "photo_urls": []
+    },
+    {
+      "id": "106426",
+      "title": "Miller Block",
+      "latitude": 45.895732,
+      "longitude": -64.369778,
+      "directions": "On Main Street (State Route 106) , Sackville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106426",
+      "photo_urls": []
+    },
+    {
+      "id": "106430",
+      "title": "George F. G. Stanley",
+      "latitude": 45.896194,
+      "longitude": -64.369761,
+      "directions": "On Main Street (State Route 106) , Sackville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106430",
+      "photo_urls": []
+    },
+    {
+      "id": "106470",
+      "title": "The Ford Block",
+      "latitude": 45.897556,
+      "longitude": -64.36861,
+      "directions": "On Main Street (State Route 106) , Sackville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106470",
+      "photo_urls": []
+    },
+    {
+      "id": "106472",
+      "title": "Copp Block",
+      "latitude": 45.897608,
+      "longitude": -64.367789,
+      "directions": "On Bridge Street, Sackville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106472",
+      "photo_urls": []
+    },
+    {
+      "id": "106473",
+      "title": "The Henderson Block",
+      "latitude": 45.897637,
+      "longitude": -64.367886,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106473",
+      "photo_urls": []
+    },
+    {
+      "id": "106476",
+      "title": "Town Hall",
+      "latitude": 45.897936,
+      "longitude": -64.3684,
+      "directions": "On Main Street (State Route 940) , Sackville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106476",
+      "photo_urls": []
+    },
+    {
+      "id": "106479",
+      "title": "Harold Geddes",
+      "latitude": 45.89788,
+      "longitude": -64.367996,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106479",
+      "photo_urls": []
+    },
+    {
+      "id": "106521",
+      "title": "The Wood Block / L'Edifice Wood",
+      "latitude": 45.897855,
+      "longitude": -64.367843,
+      "directions": "On Bridge Street (State Route 109) , Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106521",
+      "photo_urls": []
+    },
+    {
+      "id": "106525",
+      "title": "Marshlands Inn",
+      "latitude": 45.8967,
+      "longitude": -64.363995,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106525",
+      "photo_urls": []
+    },
+    {
+      "id": "106526",
+      "title": "Dr. Copp's House",
+      "latitude": 45.896968,
+      "longitude": -64.364906,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106526",
+      "photo_urls": []
+    },
+    {
+      "id": "106527",
+      "title": "St. Andrew's Presbyterian Church",
+      "latitude": 45.897362,
+      "longitude": -64.365303,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106527",
+      "photo_urls": []
+    },
+    {
+      "id": "106550",
+      "title": "The Royal Canadian Air Force",
+      "latitude": 45.897737,
+      "longitude": -64.365416,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106550",
+      "photo_urls": []
+    },
+    {
+      "id": "106554",
+      "title": "8th Canadian Hussars (Princess Louise's) Ferret Armored Car",
+      "latitude": 45.897485,
+      "longitude": -64.365752,
+      "directions": "On Bridge Street, Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106554",
+      "photo_urls": []
+    },
+    {
+      "id": "106556",
+      "title": "War Memorial",
+      "latitude": 45.897714,
+      "longitude": -64.365778,
+      "directions": "On Bridge Street, Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106556",
+      "photo_urls": []
+    },
+    {
+      "id": "106592",
+      "title": "Battle of Normandy",
+      "latitude": 45.897729,
+      "longitude": -64.365424,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106592",
+      "photo_urls": []
+    },
+    {
+      "id": "106595",
+      "title": "HMCS/NCSM Sackville",
+      "latitude": 45.897628,
+      "longitude": -64.365465,
+      "directions": "On Bridge Street (State Route 106) , Sackville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106595",
+      "photo_urls": []
+    },
+    {
+      "id": "106601",
+      "title": "Armenian Genocide Centennial Memorial",
+      "latitude": 46.089614,
+      "longitude": -64.770902,
+      "directions": "On Bendview Court, Moncton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106601",
+      "photo_urls": []
+    },
+    {
+      "id": "106603",
+      "title": "First Settlers / Premiers Colons",
+      "latitude": 46.090243,
+      "longitude": -64.770838,
+      "directions": "On Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106603",
+      "photo_urls": []
+    },
+    {
+      "id": "106613",
+      "title": "Joseph Salter Moncton 100 Monument",
+      "latitude": 46.089875,
+      "longitude": -64.770729,
+      "directions": "On Bendview Court, Moncton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106613",
+      "photo_urls": []
+    },
+    {
+      "id": "106630",
+      "title": "Combat of the Petitcodiac / Combat du Petitcodiac",
+      "latitude": 45.923025,
+      "longitude": -64.64557,
+      "directions": "On Main Street (State Route 114) , Hillsborough, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106630",
+      "photo_urls": []
+    },
+    {
+      "id": "106632",
+      "title": "WWI 10cm K 14 German Field Gun",
+      "latitude": 45.848708,
+      "longitude": -64.576851,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106632",
+      "photo_urls": []
+    },
+    {
+      "id": "106638",
+      "title": "18th Century Anchor",
+      "latitude": 45.849079,
+      "longitude": -64.576993,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106638",
+      "photo_urls": []
+    },
+    {
+      "id": "106641",
+      "title": "Silver Jubilee Lodge <i>and</i> Library",
+      "latitude": 45.849014,
+      "longitude": -64.577042,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106641",
+      "photo_urls": []
+    },
+    {
+      "id": "106646",
+      "title": "County Records Office / <i>Le</i> bureau <i>des</i> archives <i>du</i> comté",
+      "latitude": 45.848764,
+      "longitude": -64.57721,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106646",
+      "photo_urls": []
+    },
+    {
+      "id": "106705",
+      "title": "County Tax Office / <i>La</i> perception <i>du</i> comté",
+      "latitude": 45.848575,
+      "longitude": -64.577065,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106705",
+      "photo_urls": []
+    },
+    {
+      "id": "106707",
+      "title": "Right Honourable Richard Bedford Bennett",
+      "latitude": 45.848788,
+      "longitude": -64.576923,
+      "directions": "On Main Street (State Route 114) , Hopewell Cape, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106707",
+      "photo_urls": []
+    },
+    {
+      "id": "106749",
+      "title": "Hopewell Cape Community Hall",
+      "latitude": 45.848734,
+      "longitude": -64.577525,
+      "directions": "Near New Brunswick Route 114, Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106749",
+      "photo_urls": []
+    },
+    {
+      "id": "106750",
+      "title": "Albert County Court House",
+      "latitude": 45.848674,
+      "longitude": -64.578098,
+      "directions": "Near New Brunswick Route 114, Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106750",
+      "photo_urls": []
+    },
+    {
+      "id": "106769",
+      "title": "County Gaol / <i>La</i> prison <i>du</i> comté",
+      "latitude": 45.849065,
+      "longitude": -64.578469,
+      "directions": "Near New Brunswick Route 114, Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106769",
+      "photo_urls": []
+    },
+    {
+      "id": "106770",
+      "title": "Albert County Museum / <i>M</i>usée <i>du</i> comté <i>d</i>'Albert",
+      "latitude": 45.848882,
+      "longitude": -64.577757,
+      "directions": "Near New Brunswick Route 114, Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106770",
+      "photo_urls": []
+    },
+    {
+      "id": "106812",
+      "title": "<i>the</i> Flowerpots / <i>les pots de</i> Fleurs",
+      "latitude": 45.82158,
+      "longitude": -64.57285,
+      "directions": "Near Discovery Road, near Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106812",
+      "photo_urls": []
+    },
+    {
+      "id": "106860",
+      "title": "<i>the ebb and flow of</i> Fundy / <i>flux et reflux des eaux de</i> Fundy",
+      "latitude": 45.821585,
+      "longitude": -64.572797,
+      "directions": "Near Discovery Road, near Hopewell Cape, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106860",
+      "photo_urls": []
+    },
+    {
+      "id": "106862",
+      "title": "Early Irish Families to Albert County",
+      "latitude": 45.753538,
+      "longitude": -64.726056,
+      "directions": "On King Street (State Route 114) , Riverside-Albert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106862",
+      "photo_urls": []
+    },
+    {
+      "id": "106865",
+      "title": "War Memorial",
+      "latitude": 45.753635,
+      "longitude": -64.725972,
+      "directions": "On King Street (State Route 114) , Riverside-Albert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106865",
+      "photo_urls": []
+    },
+    {
+      "id": "106867",
+      "title": "Abner Reid McClelan",
+      "latitude": 45.753654,
+      "longitude": -64.725918,
+      "directions": "On King Street (State Route 114) , Riverside-Albert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106867",
+      "photo_urls": []
+    },
+    {
+      "id": "106869",
+      "title": "Dominion Building",
+      "latitude": 45.723629,
+      "longitude": -65.511139,
+      "directions": "On Main Street (State Route 121) , Sussex, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106869",
+      "photo_urls": []
+    },
+    {
+      "id": "106903",
+      "title": "Site of One of the First Irving Service Stations",
+      "latitude": 45.723523,
+      "longitude": -65.513599,
+      "directions": "On Queen Street, Sussex, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106903",
+      "photo_urls": []
+    },
+    {
+      "id": "106906",
+      "title": "War Memorial",
+      "latitude": 45.722748,
+      "longitude": -65.512814,
+      "directions": "On Broad Street, Sussex, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106906",
+      "photo_urls": []
+    },
+    {
+      "id": "106908",
+      "title": "War Memorial",
+      "latitude": 45.722748,
+      "longitude": -65.512814,
+      "directions": "On Broad Street, Sussex, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106908",
+      "photo_urls": []
+    },
+    {
+      "id": "106917",
+      "title": "A whale of a tale / Historie de cétacé",
+      "latitude": 45.206276,
+      "longitude": -67.271469,
+      "directions": "On St. Stephen Drive (County Route 3) , St. Stephen, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106917",
+      "photo_urls": []
+    },
+    {
+      "id": "120628",
+      "title": "Carleton Martello Tower / Tour Martello Carleton",
+      "latitude": 45.25202655,
+      "longitude": -66.07634025,
+      "directions": "Near Whipple Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120628",
+      "photo_urls": []
+    },
+    {
+      "id": "125285",
+      "title": "Nellie Cunningham",
+      "latitude": 45.89124964,
+      "longitude": -67.46374743,
+      "directions": "On Main Street (State Route 122) , Canterbury, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125285",
+      "photo_urls": []
+    },
+    {
+      "id": "125286",
+      "title": "War Memorial",
+      "latitude": 45.89502367,
+      "longitude": -67.46163665,
+      "directions": "On Main Street (State Route 122) , Canterbury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125286",
+      "photo_urls": []
+    },
+    {
+      "id": "125312",
+      "title": "Fort Carleton",
+      "latitude": 47.04701081,
+      "longitude": -67.7418845,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125312",
+      "photo_urls": []
+    },
+    {
+      "id": "125313",
+      "title": "Veterans Memorial",
+      "latitude": 47.04698355,
+      "longitude": -67.74184422,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125313",
+      "photo_urls": []
+    },
+    {
+      "id": "125314",
+      "title": "World Wars Memorial",
+      "latitude": 47.04704012,
+      "longitude": -67.74172201,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125314",
+      "photo_urls": []
+    },
+    {
+      "id": "125346",
+      "title": "Acadia of the Lands and Forests / l'Acadie des terres et forêts",
+      "latitude": 47.04855405,
+      "longitude": -67.73884708,
+      "directions": "On Broadway Boulevard, Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125346",
+      "photo_urls": []
+    },
+    {
+      "id": "125421",
+      "title": "World War I Memorial",
+      "latitude": 47.04893977,
+      "longitude": -67.7381069,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125421",
+      "photo_urls": []
+    },
+    {
+      "id": "125422",
+      "title": "World War II Memorial",
+      "latitude": 47.04893977,
+      "longitude": -67.7381069,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125422",
+      "photo_urls": []
+    },
+    {
+      "id": "125423",
+      "title": "German 77mm Gun",
+      "latitude": 47.04897712,
+      "longitude": -67.7380357,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125423",
+      "photo_urls": []
+    },
+    {
+      "id": "125516",
+      "title": "O. B. Davis Park and Lovers' Lane",
+      "latitude": 47.05035268,
+      "longitude": -67.73673118,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125516",
+      "photo_urls": []
+    },
+    {
+      "id": "125518",
+      "title": "Bridges and Piers / Ponts et piliers",
+      "latitude": 47.05037227,
+      "longitude": -67.73665867,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125518",
+      "photo_urls": []
+    },
+    {
+      "id": "125521",
+      "title": "A Changing Waterfall / Une chute au debit varie",
+      "latitude": 47.05167617,
+      "longitude": -67.73815884,
+      "directions": "Near chemin Madawaska, Grand Falls, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125521",
+      "photo_urls": []
+    },
+    {
+      "id": "125526",
+      "title": "Veterans Memorial",
+      "latitude": 47.51151689,
+      "longitude": -67.39157695,
+      "directions": "On rue Deschênes, Saint-Quentin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125526",
+      "photo_urls": []
+    },
+    {
+      "id": "125537",
+      "title": "Saint-Quentin Hommage militaire / Military Tribute",
+      "latitude": 47.51147623,
+      "longitude": -67.39169033,
+      "directions": "On rue Deschênes, Saint-Quentin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125537",
+      "photo_urls": []
+    },
+    {
+      "id": "125680",
+      "title": "La croix et le coq du clocher / The Steeple Cross and Rooster Vane",
+      "latitude": 47.51086226,
+      "longitude": -67.39199153,
+      "directions": "On rue Canada (State Route 17) , Saint-Quentin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125680",
+      "photo_urls": []
+    },
+    {
+      "id": "125684",
+      "title": "Le monument aux fondateurs / The Founders Monument",
+      "latitude": 47.51089426,
+      "longitude": -67.39198773,
+      "directions": "On rue Canada (State Route 17) , Saint-Quentin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125684",
+      "photo_urls": []
+    },
+    {
+      "id": "125694",
+      "title": "M114 155mm Howitzer",
+      "latitude": 47.6460469,
+      "longitude": -67.35899769,
+      "directions": "On rue Notre Dame (State Route 17) , Kedgwick, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125694",
+      "photo_urls": []
+    },
+    {
+      "id": "125732",
+      "title": "Veterans Memorial",
+      "latitude": 47.64605928,
+      "longitude": -67.35866447,
+      "directions": "On rue Notre Dame (State Route 17) , Kedgwick, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125732",
+      "photo_urls": []
+    },
+    {
+      "id": "137447",
+      "title": "Archibald Fraser",
+      "latitude": 47.36639882,
+      "longitude": -68.32272659,
+      "directions": "On Rue Victoria, Edmundston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137447",
+      "photo_urls": []
+    },
+    {
+      "id": "137469",
+      "title": "The Village of Jewett's Mills",
+      "latitude": 45.97550362,
+      "longitude": -66.89105625,
+      "directions": "On Route 105, Mactaquac, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137469",
+      "photo_urls": []
+    },
+    {
+      "id": "137483",
+      "title": "Carleton County Court House / Palais je Justice du comté de Carleton",
+      "latitude": 46.15220298,
+      "longitude": -67.57290592,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137483",
+      "photo_urls": []
+    },
+    {
+      "id": "137515",
+      "title": "Greenock Church / L’Église Greenock",
+      "latitude": 45.07679429,
+      "longitude": -67.05372011,
+      "directions": "On Montague Street, St. Andrews, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137515",
+      "photo_urls": []
+    },
+    {
+      "id": "137519",
+      "title": "Prince William Streetscape",
+      "latitude": 45.27136948,
+      "longitude": -66.06200039,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137519",
+      "photo_urls": []
+    },
+    {
+      "id": "137643",
+      "title": "Shipbuilding in New Brunswick / L’Industrie de la Construction Navale au Nouveau-Brunswick",
+      "latitude": 45.35802395,
+      "longitude": -65.5336255,
+      "directions": "On Main Street, St. Martins, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137643",
+      "photo_urls": []
+    },
+    {
+      "id": "137651",
+      "title": "Leonard's Gate",
+      "latitude": 45.72331389,
+      "longitude": -65.50839059,
+      "directions": "On Main Street (State Route 121) , Sussex, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137651",
+      "photo_urls": []
+    },
+    {
+      "id": "138866",
+      "title": "Woodstock World War II Memorial",
+      "latitude": 46.14908889,
+      "longitude": -67.57318056,
+      "directions": "On King Street, Woodstock, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138866",
+      "photo_urls": []
+    },
+    {
+      "id": "138868",
+      "title": "L. P. Fisher Library/Bibliothèque L. P. Fisher",
+      "latitude": 46.15138611,
+      "longitude": -67.573075,
+      "directions": "On Main Street, Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138868",
+      "photo_urls": []
+    },
+    {
+      "id": "138887",
+      "title": "Menahkwesk \"Saint John\"",
+      "latitude": 45.27334389,
+      "longitude": -66.07275548,
+      "directions": "Near Fort Latour Drive, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138887",
+      "photo_urls": []
+    },
+    {
+      "id": "138888",
+      "title": "Fort La Tour",
+      "latitude": 45.27335968,
+      "longitude": -66.07275602,
+      "directions": "Near Fort Latour Drive, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138888",
+      "photo_urls": []
+    },
+    {
+      "id": "138894",
+      "title": "The Marco Polo / Le Marco Polo",
+      "latitude": 45.26740687,
+      "longitude": -66.06079015,
+      "directions": "On Water Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138894",
+      "photo_urls": []
+    },
+    {
+      "id": "138895",
+      "title": "Carlisle Hotel / Hôtel Carlisle",
+      "latitude": 46.15031697,
+      "longitude": -67.57318306,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138895",
+      "photo_urls": []
+    },
+    {
+      "id": "138896",
+      "title": "Woodstock Baptist Church / Église Baptiste de Woodstock",
+      "latitude": 46.15235737,
+      "longitude": -67.57254437,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138896",
+      "photo_urls": []
+    },
+    {
+      "id": "138897",
+      "title": "St. Luke's Anglican Church / Église anglicane St. Luke's",
+      "latitude": 46.15176692,
+      "longitude": -67.57268837,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138897",
+      "photo_urls": []
+    },
+    {
+      "id": "138898",
+      "title": "Newnham & Slipp Pharmacy / Pharmacie Newnham & Slipp",
+      "latitude": 46.14921865,
+      "longitude": -67.57336751,
+      "directions": "On King Street, Woodstock, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138898",
+      "photo_urls": []
+    },
+    {
+      "id": "138899",
+      "title": "Dr. Prescott Private Hospital / Hôpital privé Dr Prescott",
+      "latitude": 46.15362327,
+      "longitude": -67.57241473,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138899",
+      "photo_urls": []
+    },
+    {
+      "id": "138900",
+      "title": "Carleton County Gaol / Prison du Comté de Carleton",
+      "latitude": 46.15224902,
+      "longitude": -67.573687,
+      "directions": "On Maple Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138900",
+      "photo_urls": []
+    },
+    {
+      "id": "138908",
+      "title": "Atherton's Harness Store/Magasin de harnais de F.L. Atherton",
+      "latitude": 46.14953889,
+      "longitude": -67.57368333,
+      "directions": "On Main Street, Woodstock, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138908",
+      "photo_urls": []
+    },
+    {
+      "id": "138990",
+      "title": "L.P. Fisher Vocational School / École professionnelle L.P. Fisher",
+      "latitude": 46.15257752,
+      "longitude": -67.57809869,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138990",
+      "photo_urls": []
+    },
+    {
+      "id": "138992",
+      "title": "Saint James United Church / Église unie Saint James",
+      "latitude": 46.15200463,
+      "longitude": -67.57548946,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138992",
+      "photo_urls": []
+    },
+    {
+      "id": "138993",
+      "title": "Judge Jones House / Maison du Juge Jones",
+      "latitude": 46.15183125,
+      "longitude": -67.57553817,
+      "directions": "On Chappel Street, Woodstock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138993",
+      "photo_urls": []
+    },
+    {
+      "id": "138994",
+      "title": "7.7cm Feldkanone (Field Cannon) / Canon de terrain",
+      "latitude": 46.15238085,
+      "longitude": -67.57290986,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138994",
+      "photo_urls": []
+    },
+    {
+      "id": "138995",
+      "title": "St. Peter's Anglican Church and Cemetery",
+      "latitude": 45.96641103,
+      "longitude": -66.74030345,
+      "directions": "On Woodstock Road (Route 102) , near Fredericton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138995",
+      "photo_urls": []
+    },
+    {
+      "id": "138996",
+      "title": "Hartland Salmon Pool / Fosse à saumon de Hartland",
+      "latitude": 46.29892795,
+      "longitude": -67.52882363,
+      "directions": "On Main Street (Route 105) , Hartland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138996",
+      "photo_urls": []
+    },
+    {
+      "id": "138997",
+      "title": "St. John River",
+      "latitude": 46.29773114,
+      "longitude": -67.52855477,
+      "directions": "Near Main Street (Route 105) , Hartland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138997",
+      "photo_urls": []
+    },
+    {
+      "id": "138999",
+      "title": "Town of Hartland",
+      "latitude": 46.30252331,
+      "longitude": -67.52909929,
+      "directions": "Near Main Street (Route 105) , Hartland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138999",
+      "photo_urls": []
+    },
+    {
+      "id": "139000",
+      "title": "Clarence Bourgoin",
+      "latitude": 47.16501595,
+      "longitude": -67.92286154,
+      "directions": "On Rue Saint Jean (State Route 17) , Saint Leonard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139000",
+      "photo_urls": []
+    },
+    {
+      "id": "139106",
+      "title": "George Connell House / Maison George Connell",
+      "latitude": 46.15060556,
+      "longitude": -67.57471389,
+      "directions": "On Connell Street (State Route 550) , Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139106",
+      "photo_urls": []
+    },
+    {
+      "id": "139149",
+      "title": "Connell House/Maison Connell",
+      "latitude": 46.15071944,
+      "longitude": -67.57521111,
+      "directions": "On Connell Street (State Route 550) , Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139149",
+      "photo_urls": []
+    },
+    {
+      "id": "139176",
+      "title": "Hon. Charles Connell House/La maison Charles Connell",
+      "latitude": 46.15072222,
+      "longitude": -67.57513333,
+      "directions": "On Connell Street (State Route 550) , Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139176",
+      "photo_urls": []
+    },
+    {
+      "id": "139183",
+      "title": "Hay House/La maison Hay",
+      "latitude": 46.15092222,
+      "longitude": -67.57609444,
+      "directions": "On Connell Street (State Route 550) , Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139183",
+      "photo_urls": []
+    },
+    {
+      "id": "139193",
+      "title": "Methodist Parsonage / Presbytère méthodiste",
+      "latitude": 46.15244862,
+      "longitude": -67.57741343,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139193",
+      "photo_urls": []
+    },
+    {
+      "id": "139194",
+      "title": "3rd Field Artillery Regiment, RCA",
+      "latitude": 46.15137747,
+      "longitude": -67.57404832,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139194",
+      "photo_urls": []
+    },
+    {
+      "id": "139195",
+      "title": "Flemming House / La Maison Flemming",
+      "latitude": 46.15227774,
+      "longitude": -67.57671252,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139195",
+      "photo_urls": []
+    },
+    {
+      "id": "139196",
+      "title": "Women's Institute Home / Maison de l'Institut féminin",
+      "latitude": 46.15223467,
+      "longitude": -67.57732957,
+      "directions": "On Chapel Street, Woodstock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139196",
+      "photo_urls": []
+    },
+    {
+      "id": "139197",
+      "title": "Wolverton House / Maison Wolverton",
+      "latitude": 46.15201689,
+      "longitude": -67.57632889,
+      "directions": "On Chapel Street, Woodstock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139197",
+      "photo_urls": []
+    },
+    {
+      "id": "139198",
+      "title": "Dr. W.D. Rankin House / Maison du Dr. W.D. Rankin",
+      "latitude": 46.15534072,
+      "longitude": -67.57283866,
+      "directions": "On Main Street (Route 103) , Woodstock, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139198",
+      "photo_urls": []
+    },
+    {
+      "id": "139199",
+      "title": "Dr. Brown House / Maison du Dr. Brown",
+      "latitude": 46.15200549,
+      "longitude": -67.57619377,
+      "directions": "On Chapel Street, Woodstock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139199",
+      "photo_urls": []
+    },
+    {
+      "id": "139577",
+      "title": "McLean Dairy / Laiterie McLean",
+      "latitude": 46.15220929,
+      "longitude": -67.57706704,
+      "directions": "On Chapel Street, Woodstock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139577",
+      "photo_urls": []
+    },
+    {
+      "id": "139701",
+      "title": "Cocagne",
+      "latitude": 46.33559891,
+      "longitude": -64.6153874,
+      "directions": "On State Route 134, Cocagne, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139701",
+      "photo_urls": []
+    },
+    {
+      "id": "139702",
+      "title": "Marcel-François Richard",
+      "latitude": 46.74185757,
+      "longitude": -64.98092142,
+      "directions": "On Rue Principale (Main Street) (State Route 134) , Saint-Louis-de-Kent, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139702",
+      "photo_urls": []
+    },
+    {
+      "id": "139703",
+      "title": "Millstones",
+      "latitude": 46.73799914,
+      "longitude": -65.82849354,
+      "directions": "Near Main Street (State Route 8) , Blackville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139703",
+      "photo_urls": []
+    },
+    {
+      "id": "139798",
+      "title": "Legend of the Dungarvon Whooper",
+      "latitude": 46.73824351,
+      "longitude": -65.82962089,
+      "directions": "Near Main Street (State Route 8) , Blackville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139798",
+      "photo_urls": []
+    },
+    {
+      "id": "139799",
+      "title": "York County Court House / Le Palais de Justice du Comté de York",
+      "latitude": 45.96086823,
+      "longitude": -66.63749824,
+      "directions": "On Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139799",
+      "photo_urls": []
+    },
+    {
+      "id": "139800",
+      "title": "Fredericton City Hall / L'Hôtel de ville de Fredericton",
+      "latitude": 45.96335773,
+      "longitude": -66.64318317,
+      "directions": "On York Street, Fredericton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139800",
+      "photo_urls": []
+    },
+    {
+      "id": "139856",
+      "title": "Legislative Assembly Block / Complexe de L'Assemblée Législative",
+      "latitude": 45.9594446,
+      "longitude": -66.63615966,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139856",
+      "photo_urls": []
+    },
+    {
+      "id": "139896",
+      "title": "K.C. Irving",
+      "latitude": 46.47434012,
+      "longitude": -64.71841351,
+      "directions": "On Rue Évangéline (State Route 134) , Bouctouche, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139896",
+      "photo_urls": []
+    },
+    {
+      "id": "139897",
+      "title": "Lemuel Allan Wilmot",
+      "latitude": 45.95963341,
+      "longitude": -66.63657442,
+      "directions": "Near St. John Street, Fredericton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139897",
+      "photo_urls": []
+    },
+    {
+      "id": "139898",
+      "title": "Sir Howard Douglas",
+      "latitude": 45.95963631,
+      "longitude": -66.63656449,
+      "directions": "Near St. John Street, Fredericton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139898",
+      "photo_urls": []
+    },
+    {
+      "id": "139899",
+      "title": "First Ministry of Health / Le Premier Ministère de la Santé",
+      "latitude": 45.9596446,
+      "longitude": -66.63656685,
+      "directions": "Near St. John Street, Fredericton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139899",
+      "photo_urls": []
+    },
+    {
+      "id": "139900",
+      "title": "Charles Fisher",
+      "latitude": 45.95964168,
+      "longitude": -66.63657805,
+      "directions": "Near St. John Street, Fredericton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139900",
+      "photo_urls": []
+    },
+    {
+      "id": "139980",
+      "title": "St. Paul's United Church",
+      "latitude": 45.95999347,
+      "longitude": -66.64553124,
+      "directions": "On George Street, Fredericton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139980",
+      "photo_urls": []
+    },
+    {
+      "id": "139987",
+      "title": "Christ Church Cathedral / Cathédrale Christ Church",
+      "latitude": 45.95786462,
+      "longitude": -66.63514627,
+      "directions": "On Church Street, Fredericton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139987",
+      "photo_urls": []
+    },
+    {
+      "id": "139995",
+      "title": "The 104th Regiment / Le 104e Régiment",
+      "latitude": 45.96248045,
+      "longitude": -66.64136311,
+      "directions": "On Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139995",
+      "photo_urls": []
+    },
+    {
+      "id": "139996",
+      "title": "Fredericton Military Compound / Le Complexe Militaire de Frédéricton",
+      "latitude": 45.96260575,
+      "longitude": -66.6406897,
+      "directions": "On Rue Carleton Street, Fredericton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139996",
+      "photo_urls": []
+    },
+    {
+      "id": "139997",
+      "title": "Alexander \"Boss\" Gibson",
+      "latitude": 45.95793753,
+      "longitude": -66.62476933,
+      "directions": "Near Union Street (State Route 105) , Fredericton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139997",
+      "photo_urls": []
+    },
+    {
+      "id": "139998",
+      "title": "Fort La Tour",
+      "latitude": 45.27308497,
+      "longitude": -66.07309082,
+      "directions": "Near Fort Latour Drive, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139998",
+      "photo_urls": []
+    },
+    {
+      "id": "139999",
+      "title": "Loyalist House",
+      "latitude": 45.27457598,
+      "longitude": -66.06130949,
+      "directions": "On Union Street, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139999",
+      "photo_urls": []
+    },
+    {
+      "id": "140105",
+      "title": "St. John’s (stone) Church",
+      "latitude": 45.2760292,
+      "longitude": -66.06159612,
+      "directions": "On Carleton Street, Saint John, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140105",
+      "photo_urls": []
+    },
+    {
+      "id": "140107",
+      "title": "1 Chipman Hill",
+      "latitude": 45.27425558,
+      "longitude": -66.06294888,
+      "directions": "On Chipman Hill, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140107",
+      "photo_urls": []
+    },
+    {
+      "id": "140137",
+      "title": "Bailey House / Maison Bailey",
+      "latitude": 46.15238602,
+      "longitude": -67.57722385,
+      "directions": "On Chapel Street, Woodstock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140137",
+      "photo_urls": []
+    },
+    {
+      "id": "141298",
+      "title": "Wolastoq Park",
+      "latitude": 45.25738546,
+      "longitude": -66.08916818,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141298",
+      "photo_urls": []
+    },
+    {
+      "id": "141299",
+      "title": "Samuel de Champlain",
+      "latitude": 45.25733676,
+      "longitude": -66.0895052,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141299",
+      "photo_urls": []
+    },
+    {
+      "id": "141443",
+      "title": "Land of the Dawn",
+      "latitude": 45.25746849,
+      "longitude": -66.08926451,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141443",
+      "photo_urls": []
+    },
+    {
+      "id": "141909",
+      "title": "Koluskap and Beaver",
+      "latitude": 45.25753495,
+      "longitude": -66.08931963,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141909",
+      "photo_urls": []
+    },
+    {
+      "id": "141988",
+      "title": "Françoise Marie Jacquelin",
+      "latitude": 45.25725398,
+      "longitude": -66.08975303,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141988",
+      "photo_urls": []
+    },
+    {
+      "id": "141989",
+      "title": "The New Community of Saint John",
+      "latitude": 45.25711248,
+      "longitude": -66.08971563,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141989",
+      "photo_urls": []
+    },
+    {
+      "id": "141990",
+      "title": "Rebels Attack",
+      "latitude": 45.25694948,
+      "longitude": -66.08970331,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141990",
+      "photo_urls": []
+    },
+    {
+      "id": "141991",
+      "title": "Simonds, Hazen and White",
+      "latitude": 45.25678373,
+      "longitude": -66.08979465,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141991",
+      "photo_urls": []
+    },
+    {
+      "id": "141992",
+      "title": "Colonel Gabriel G. Ludlow",
+      "latitude": 45.25655063,
+      "longitude": -66.09008902,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141992",
+      "photo_urls": []
+    },
+    {
+      "id": "141993",
+      "title": "Benedict Arnold",
+      "latitude": 45.25660412,
+      "longitude": -66.09027407,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141993",
+      "photo_urls": []
+    },
+    {
+      "id": "141994",
+      "title": "John Robertson",
+      "latitude": 45.25666173,
+      "longitude": -66.09042862,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141994",
+      "photo_urls": []
+    },
+    {
+      "id": "141995",
+      "title": "George B. Oland",
+      "latitude": 45.25699523,
+      "longitude": -66.09083899,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141995",
+      "photo_urls": []
+    },
+    {
+      "id": "141996",
+      "title": "Thomas Stockwell Simms",
+      "latitude": 45.25699526,
+      "longitude": -66.0908388,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141996",
+      "photo_urls": []
+    },
+    {
+      "id": "141997",
+      "title": "Sir Samuel Leonard Tilley",
+      "latitude": 45.25695883,
+      "longitude": -66.09053607,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141997",
+      "photo_urls": []
+    },
+    {
+      "id": "141998",
+      "title": "Robert Foulis",
+      "latitude": 45.25706177,
+      "longitude": -66.09037336,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141998",
+      "photo_urls": []
+    },
+    {
+      "id": "142000",
+      "title": "K.C. Irving",
+      "latitude": 45.25684312,
+      "longitude": -66.09014177,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142000",
+      "photo_urls": []
+    },
+    {
+      "id": "142001",
+      "title": "William Kilby Reynolds",
+      "latitude": 45.25704915,
+      "longitude": -66.09027982,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142001",
+      "photo_urls": []
+    },
+    {
+      "id": "142002",
+      "title": "Charles Gorman",
+      "latitude": 45.25714821,
+      "longitude": -66.09016961,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142002",
+      "photo_urls": []
+    },
+    {
+      "id": "142003",
+      "title": "Mills at Union Point",
+      "latitude": 45.2573563,
+      "longitude": -66.08985405,
+      "directions": "Near Lancaster Avenue, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142003",
+      "photo_urls": []
+    },
+    {
+      "id": "142004",
+      "title": "The Honorable Daniel Lionel Hanington",
+      "latitude": 46.21837439,
+      "longitude": -64.55619885,
+      "directions": "Near Main Street (State Route 133) , Shediac, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142004",
+      "photo_urls": []
+    },
+    {
+      "id": "142218",
+      "title": "Edward Richard McDonald",
+      "latitude": 46.21839914,
+      "longitude": -64.55594663,
+      "directions": "Near Main Street (State Route 133) , Shediac, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142218",
+      "photo_urls": []
+    },
+    {
+      "id": "142230",
+      "title": "Lord Beaverbrook",
+      "latitude": 47.03022178,
+      "longitude": -65.4707947,
+      "directions": "Near Loggie Drive, Miramichi, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142230",
+      "photo_urls": []
+    },
+    {
+      "id": "144129",
+      "title": "The Black Refugees Arrived in Saint John",
+      "latitude": 45.3284095,
+      "longitude": -65.81480115,
+      "directions": "On Saint Martins Road (State Route 111) , Willow Grove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144129",
+      "photo_urls": []
+    },
+    {
+      "id": "144495",
+      "title": "Saint Croix Island International Historic Site / Lieu historique international de l'Île Sainte-Croix",
+      "latitude": 45.13461532,
+      "longitude": -67.1123239,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144495",
+      "photo_urls": []
+    },
+    {
+      "id": "144496",
+      "title": "The River Flows On... / La rivière poursuit son cours...",
+      "latitude": 45.13439724,
+      "longitude": -67.11230676,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144496",
+      "photo_urls": []
+    },
+    {
+      "id": "144497",
+      "title": "Where Two Worlds Met / Rencontre de deux mondes",
+      "latitude": 45.13440088,
+      "longitude": -67.11279423,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144497",
+      "photo_urls": []
+    },
+    {
+      "id": "144498",
+      "title": "A Place to Settle / Un endroit où s’établir",
+      "latitude": 45.13441088,
+      "longitude": -67.11281433,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144498",
+      "photo_urls": []
+    },
+    {
+      "id": "144499",
+      "title": "A French Colony in Acadie / Une colonie française en Acadie",
+      "latitude": 45.13442339,
+      "longitude": -67.11281343,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144499",
+      "photo_urls": []
+    },
+    {
+      "id": "144500",
+      "title": "In Champlain’s Footsteps / Sur les traces de Champlain",
+      "latitude": 45.13485026,
+      "longitude": -67.11298923,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144500",
+      "photo_urls": []
+    },
+    {
+      "id": "144501",
+      "title": "A Winter of Despair / Un hiver de désespoir",
+      "latitude": 45.13457473,
+      "longitude": -67.11314439,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144501",
+      "photo_urls": []
+    },
+    {
+      "id": "144502",
+      "title": "Moving on / Le déménagement",
+      "latitude": 45.13459218,
+      "longitude": -67.1131414,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144502",
+      "photo_urls": []
+    },
+    {
+      "id": "144503",
+      "title": "A Checkered History / Une historie mouvementée",
+      "latitude": 45.13497425,
+      "longitude": -67.11284815,
+      "directions": "Near New Brunswick Highway 127 (State Route 127) , Bayside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144503",
+      "photo_urls": []
+    },
+    {
+      "id": "145394",
+      "title": "Saint John – The Working Port",
+      "latitude": 45.27479335,
+      "longitude": -66.06776675,
+      "directions": "On Long Wharf, Saint John, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145394",
+      "photo_urls": []
+    },
+    {
+      "id": "145395",
+      "title": "Electrifying the Uptown",
+      "latitude": 45.2740549,
+      "longitude": -66.0668629,
+      "directions": "Near Union Street, Saint John, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145395",
+      "photo_urls": []
+    },
+    {
+      "id": "145396",
+      "title": "Oland Family Breweries",
+      "latitude": 45.272761,
+      "longitude": -66.06388938,
+      "directions": "Near Market Square (North Market Wharf), Saint John, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145396",
+      "photo_urls": []
+    },
+    {
+      "id": "145397",
+      "title": "A Portal to the New World",
+      "latitude": 45.26687226,
+      "longitude": -66.060428,
+      "directions": "On Water Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145397",
+      "photo_urls": []
+    },
+    {
+      "id": "145398",
+      "title": "West meets East",
+      "latitude": 45.27059084,
+      "longitude": -66.06241835,
+      "directions": "On Water Street, Saint John, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145398",
+      "photo_urls": []
+    },
+    {
+      "id": "145399",
+      "title": "Clearing Customs in Style",
+      "latitude": 45.26959989,
+      "longitude": -66.06211547,
+      "directions": "On Water Street, Saint John, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145399",
+      "photo_urls": []
+    },
+    {
+      "id": "145400",
+      "title": "The Largest in British North America",
+      "latitude": 45.26726182,
+      "longitude": -66.06121803,
+      "directions": "On Water Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145400",
+      "photo_urls": []
+    },
+    {
+      "id": "145582",
+      "title": "A Legacy of Tea | Du thé en héritage",
+      "latitude": 45.27267343,
+      "longitude": -66.06252349,
+      "directions": "On Market Square, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145582",
+      "photo_urls": []
+    },
+    {
+      "id": "145591",
+      "title": "Defending the Harbour",
+      "latitude": 45.273732,
+      "longitude": -66.06695076,
+      "directions": "On Union Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145591",
+      "photo_urls": []
+    },
+    {
+      "id": "145596",
+      "title": "Partridge Island",
+      "latitude": 45.27246872,
+      "longitude": -66.06582989,
+      "directions": "Near Smythe Street, Saint John, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145596",
+      "photo_urls": []
+    },
+    {
+      "id": "145597",
+      "title": "Saint John Harbour Defensive Network",
+      "latitude": 45.27371655,
+      "longitude": -66.06696425,
+      "directions": "On Union Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145597",
+      "photo_urls": []
+    },
+    {
+      "id": "145598",
+      "title": "The \"Three Lamps\"",
+      "latitude": 45.26714903,
+      "longitude": -66.06038924,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145598",
+      "photo_urls": []
+    },
+    {
+      "id": "145599",
+      "title": "An Island Abounding With Life",
+      "latitude": 45.2671518,
+      "longitude": -66.06043469,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145599",
+      "photo_urls": []
+    },
+    {
+      "id": "145600",
+      "title": "Shedding Light on the Three Sisters Mystery",
+      "latitude": 45.26717886,
+      "longitude": -66.06048593,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145600",
+      "photo_urls": []
+    },
+    {
+      "id": "147794",
+      "title": "Ancient Life",
+      "latitude": 45.2680043,
+      "longitude": -66.07821107,
+      "directions": "Near Chesley Drive (State Route 100) , Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147794",
+      "photo_urls": []
+    },
+    {
+      "id": "147795",
+      "title": "Fishing the Harbour",
+      "latitude": 45.26994741,
+      "longitude": -66.07705347,
+      "directions": "Near Chesley Drive (State Route 100) , Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147795",
+      "photo_urls": []
+    },
+    {
+      "id": "147796",
+      "title": "The Saint John Harbour Bridge | Le pont du port de Saint John",
+      "latitude": 45.27104167,
+      "longitude": -66.07507167,
+      "directions": "Near Navy Way, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147796",
+      "photo_urls": []
+    },
+    {
+      "id": "147797",
+      "title": "The Shards of Time",
+      "latitude": 45.27261237,
+      "longitude": -66.07368308,
+      "directions": "Near Fort Latour Drive, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147797",
+      "photo_urls": []
+    },
+    {
+      "id": "147798",
+      "title": "Touch Two Ancient Continents",
+      "latitude": 45.25966043,
+      "longitude": -66.08574607,
+      "directions": "Near Chesley Drive (State Route 100) , Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147798",
+      "photo_urls": []
+    },
+    {
+      "id": "147799",
+      "title": "Fossil Hunters",
+      "latitude": 45.26799917,
+      "longitude": -66.07820861,
+      "directions": "Near Chesley Drive (State Route 100) , Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147799",
+      "photo_urls": []
+    },
+    {
+      "id": "147800",
+      "title": "The Tides of Fundy",
+      "latitude": 45.271105,
+      "longitude": -66.075065,
+      "directions": "Near Navy Way, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147800",
+      "photo_urls": []
+    },
+    {
+      "id": "147874",
+      "title": "Navy Island (Ouigoudy Island)",
+      "latitude": 45.26990948,
+      "longitude": -66.07707658,
+      "directions": "Near Chesley Drive (State Route 100) , Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147874",
+      "photo_urls": []
+    },
+    {
+      "id": "147887",
+      "title": "Here Stood the House Occupied by Benedict Arnold",
+      "latitude": 45.27278523,
+      "longitude": -66.06148041,
+      "directions": "On Canterbury Street, Saint John, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147887",
+      "photo_urls": []
+    },
+    {
+      "id": "147895",
+      "title": "Saint John 225th Anniversary Clock",
+      "latitude": 45.27273801,
+      "longitude": -66.06213177,
+      "directions": "On King Street, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147895",
+      "photo_urls": []
+    },
+    {
+      "id": "150291",
+      "title": "Albion House 1871",
+      "latitude": 45.96207377,
+      "longitude": -66.64352296,
+      "directions": "On King Street, Fredericton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150291",
+      "photo_urls": []
+    },
+    {
+      "id": "150497",
+      "title": "The Honourable Shawn Michael Graham",
+      "latitude": 46.64299768,
+      "longitude": -64.86990548,
+      "directions": "Near Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150497",
+      "photo_urls": []
+    },
+    {
+      "id": "150498",
+      "title": "Dr. William Francis Kenney and Dr. Francis William Kenney",
+      "latitude": 46.64274963,
+      "longitude": -64.87029923,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150498",
+      "photo_urls": []
+    },
+    {
+      "id": "150499",
+      "title": "Saint John's the Evangelist Anglican Church",
+      "latitude": 46.64250268,
+      "longitude": -64.868848,
+      "directions": "On Queen Street, Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150499",
+      "photo_urls": []
+    },
+    {
+      "id": "150500",
+      "title": "The Bridges / Les Ponts",
+      "latitude": 46.64376127,
+      "longitude": -64.87206334,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150500",
+      "photo_urls": []
+    },
+    {
+      "id": "150501",
+      "title": "The Masts / Les Mâts",
+      "latitude": 46.64777162,
+      "longitude": -64.87178743,
+      "directions": "Near North Street, Rexton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150501",
+      "photo_urls": []
+    },
+    {
+      "id": "150502",
+      "title": "Le Village Historique de Rexton",
+      "latitude": 46.64796923,
+      "longitude": -64.87091639,
+      "directions": "Near North Street, Rexton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150502",
+      "photo_urls": []
+    },
+    {
+      "id": "150503",
+      "title": "The Historic Village of Rexton",
+      "latitude": 46.64794164,
+      "longitude": -64.87100685,
+      "directions": "Near North Street, Rexton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150503",
+      "photo_urls": []
+    },
+    {
+      "id": "150504",
+      "title": "Wooden Ships and Iron Men / Navires en Bois et Hommes de Fer",
+      "latitude": 46.64792617,
+      "longitude": -64.87094098,
+      "directions": "Near North Street, Rexton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150504",
+      "photo_urls": []
+    },
+    {
+      "id": "150505",
+      "title": "Hannay's Limited",
+      "latitude": 46.64740969,
+      "longitude": -64.87538266,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150505",
+      "photo_urls": []
+    },
+    {
+      "id": "150506",
+      "title": "Old Kingston Hall",
+      "latitude": 46.65193948,
+      "longitude": -64.87727998,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150506",
+      "photo_urls": []
+    },
+    {
+      "id": "150507",
+      "title": "Village Historique de Rexton / Rexton Historic Village",
+      "latitude": 46.6519669,
+      "longitude": -64.87729347,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150507",
+      "photo_urls": []
+    },
+    {
+      "id": "150643",
+      "title": "MacNarin Family History",
+      "latitude": 46.6472898,
+      "longitude": -64.8757705,
+      "directions": "On Rue Main (State Route 134) , Rexton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150643",
+      "photo_urls": []
+    },
+    {
+      "id": "150940",
+      "title": "The Grand Dérangement",
+      "latitude": 46.09260482,
+      "longitude": -64.76139754,
+      "directions": "Near Champlain Street (State Route 106) , Dieppe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150940",
+      "photo_urls": []
+    },
+    {
+      "id": "150960",
+      "title": "The Tidal Bore / le mascaret",
+      "latitude": 46.09255094,
+      "longitude": -64.76381081,
+      "directions": "Near Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150960",
+      "photo_urls": []
+    },
+    {
+      "id": "150964",
+      "title": "Capitol Theatre / Théâtre Capitol",
+      "latitude": 46.08841016,
+      "longitude": -64.77910895,
+      "directions": "On Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150964",
+      "photo_urls": []
+    },
+    {
+      "id": "150975",
+      "title": "Les Acadiens / The Acadians",
+      "latitude": 46.09265098,
+      "longitude": -64.76149173,
+      "directions": "Near Champlain Street (State Route 106) , Dieppe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150975",
+      "photo_urls": []
+    },
+    {
+      "id": "150981",
+      "title": "The Shipbuilding Era / La construction navale",
+      "latitude": 46.08703806,
+      "longitude": -64.77322595,
+      "directions": "Near Assomption Boulevard, Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150981",
+      "photo_urls": []
+    },
+    {
+      "id": "150985",
+      "title": "Aquatic Species / Les espèces aquatiques",
+      "latitude": 46.08673297,
+      "longitude": -64.77378173,
+      "directions": "Near Assomption Boulevard, Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150985",
+      "photo_urls": []
+    },
+    {
+      "id": "150992",
+      "title": "An Economic Engine / Un moteur économique",
+      "latitude": 46.08560477,
+      "longitude": -64.77490565,
+      "directions": "Near Westmorland Street, Moncton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150992",
+      "photo_urls": []
+    },
+    {
+      "id": "150993",
+      "title": "St. Bernards Church",
+      "latitude": 46.09056844,
+      "longitude": -64.77634539,
+      "directions": "On Botsford Street (State Route 134) , Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150993",
+      "photo_urls": []
+    },
+    {
+      "id": "150994",
+      "title": "The Transcript Building",
+      "latitude": 46.08810187,
+      "longitude": -64.77852811,
+      "directions": "On Westmorland Street, Moncton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150994",
+      "photo_urls": []
+    },
+    {
+      "id": "150995",
+      "title": "Downing Place",
+      "latitude": 46.08769476,
+      "longitude": -64.77427599,
+      "directions": "On Downing Street, Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150995",
+      "photo_urls": []
+    },
+    {
+      "id": "150996",
+      "title": "Bilingual Banking / Une Banque Bilingue",
+      "latitude": 46.08861137,
+      "longitude": -64.77512949,
+      "directions": "On Downing Street, Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150996",
+      "photo_urls": []
+    },
+    {
+      "id": "150997",
+      "title": "The Art of Advertising / L’art de la publicité",
+      "latitude": 46.08844718,
+      "longitude": -64.77496968,
+      "directions": "On Downing Street, Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150997",
+      "photo_urls": []
+    },
+    {
+      "id": "150998",
+      "title": "From River to Firm Land / De la rivière à la terre ferme",
+      "latitude": 46.08802107,
+      "longitude": -64.77459253,
+      "directions": "On Downing Street, Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150998",
+      "photo_urls": []
+    },
+    {
+      "id": "150999",
+      "title": "Over the Years / Au fil des ans",
+      "latitude": 46.08773817,
+      "longitude": -64.7743115,
+      "directions": "On Downing Street, Moncton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150999",
+      "photo_urls": []
+    },
+    {
+      "id": "151000",
+      "title": "Settlers Landing",
+      "latitude": 46.0924697,
+      "longitude": -64.76483627,
+      "directions": "Near Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151000",
+      "photo_urls": []
+    },
+    {
+      "id": "151001",
+      "title": "Journey to a New Country",
+      "latitude": 46.09229553,
+      "longitude": -64.76471333,
+      "directions": "Near Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151001",
+      "photo_urls": []
+    },
+    {
+      "id": "151002",
+      "title": "Arrival and Survival",
+      "latitude": 46.09247978,
+      "longitude": -64.76472503,
+      "directions": "Near Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151002",
+      "photo_urls": []
+    },
+    {
+      "id": "151003",
+      "title": "The Moncton Settlement",
+      "latitude": 46.09243333,
+      "longitude": -64.76483,
+      "directions": "Near Main Street (State Route 106) , Moncton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151003",
+      "photo_urls": []
+    },
+    {
+      "id": "151005",
+      "title": "First Moncton United Baptist Church",
+      "latitude": 46.089709,
+      "longitude": -64.77893842,
+      "directions": "On Queen Street, Moncton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151005",
+      "photo_urls": []
+    },
+    {
+      "id": "151152",
+      "title": "Masonic Temple / Temple de l’Ordre maçonnique",
+      "latitude": 46.09003511,
+      "longitude": -64.77776203,
+      "directions": "Near Queen Street, Moncton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151152",
+      "photo_urls": []
+    },
+    {
+      "id": "151214",
+      "title": "Methodism in Moncton",
+      "latitude": 46.08948238,
+      "longitude": -64.77872402,
+      "directions": "On Queen Street, Moncton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151214",
+      "photo_urls": []
+    },
+    {
+      "id": "151247",
+      "title": "Louis J. Robichaud",
+      "latitude": 46.3643587,
+      "longitude": -64.75325757,
+      "directions": "Near Rue Principale (Route 115) , Saint-Antoine, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151247",
+      "photo_urls": []
+    },
+    {
+      "id": "152385",
+      "title": "Fort La Tour",
+      "latitude": 45.27309094,
+      "longitude": -66.07308908,
+      "directions": "Near Fort Latour Drive, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152385",
+      "photo_urls": []
+    },
+    {
+      "id": "152392",
+      "title": "The Right Honourable William Maxwell Lord Beaverbrook",
+      "latitude": 45.961775,
+      "longitude": -66.63882667,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152392",
+      "photo_urls": []
+    },
+    {
+      "id": "152393",
+      "title": "New Brunswick's 104th Regiment of Foot",
+      "latitude": 45.96149223,
+      "longitude": -66.6390902,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152393",
+      "photo_urls": []
+    },
+    {
+      "id": "152395",
+      "title": "Epic Winter March of New Brunswick Soldiers in the War of 1812",
+      "latitude": 45.96176279,
+      "longitude": -66.63952786,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152395",
+      "photo_urls": []
+    },
+    {
+      "id": "152396",
+      "title": "Birthplace of the Canadian Army",
+      "latitude": 45.96179142,
+      "longitude": -66.63950629,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152396",
+      "photo_urls": []
+    },
+    {
+      "id": "152397",
+      "title": "Juliana Horatia (Gatty) Ewing",
+      "latitude": 45.9618082,
+      "longitude": -66.63948895,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152397",
+      "photo_urls": []
+    },
+    {
+      "id": "152398",
+      "title": "Charles Rainsford's Brave Rescue",
+      "latitude": 45.96182364,
+      "longitude": -66.63947769,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152398",
+      "photo_urls": []
+    },
+    {
+      "id": "152399",
+      "title": "Anatomy of the Guard",
+      "latitude": 45.96184478,
+      "longitude": -66.63946029,
+      "directions": "Near Queen Street (State Route 102) , Fredericton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152399",
+      "photo_urls": []
+    },
+    {
+      "id": "193181",
+      "title": "Chandler House (Rocklyn) / Maison Chandler",
+      "latitude": 45.89872492,
+      "longitude": -64.51570625,
+      "directions": "On Main Street (State Route 106) , Dorchester, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193181",
+      "photo_urls": []
+    },
+    {
+      "id": "193194",
+      "title": "Sir Albert James Smith",
+      "latitude": 45.89969696,
+      "longitude": -64.51642216,
+      "directions": "Near Woodlawn Road, Dorchester, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193194",
+      "photo_urls": []
+    },
+    {
+      "id": "193196",
+      "title": "400th Anniversary of 1st Acadian Settlement",
+      "latitude": 45.89966412,
+      "longitude": -64.51655358,
+      "directions": "On Main Street (State Route 106) , Dorchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193196",
+      "photo_urls": []
+    },
+    {
+      "id": "193198",
+      "title": "Freedom of the Village of Dorchester",
+      "latitude": 45.89978559,
+      "longitude": -64.51636365,
+      "directions": "Near Woodlawn Road, Dorchester, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193198",
+      "photo_urls": []
+    },
+    {
+      "id": "193199",
+      "title": "Methodist Church",
+      "latitude": 45.90751529,
+      "longitude": -64.5147755,
+      "directions": "Near Main Street (State Route 106) , Dorchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193199",
+      "photo_urls": []
+    },
+    {
+      "id": "193200",
+      "title": "Bell Inn / Auberge Bell",
+      "latitude": 45.89893802,
+      "longitude": -64.51681011,
+      "directions": "On Cape Road (State Route 935) , Dorchester, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193200",
+      "photo_urls": []
+    },
+    {
+      "id": "198784",
+      "title": "Sawmill Creek Bridge / Le Pont Sawmill Creek",
+      "latitude": 45.76469,
+      "longitude": -64.69227,
+      "directions": "Near Main Street (State Route 114) , Hopewell Hill, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198784",
+      "photo_urls": []
+    },
+    {
+      "id": "230388",
+      "title": "Kings Landing Historical Settlement 1790-1890",
+      "latitude": 45.87678914,
+      "longitude": -66.97815747,
+      "directions": "Near New Brunswick 102, Prince William, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230388",
+      "photo_urls": []
+    },
+    {
+      "id": "250902",
+      "title": "Ron Turcotte",
+      "latitude": 47.04530353,
+      "longitude": -67.74503239,
+      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250902",
+      "photo_urls": []
+    },
+    {
+      "id": "25394",
+      "title": "Roosevelt Campobello Park",
+      "latitude": 44.87483,
+      "longitude": -66.959266,
+      "directions": "On Glensevern Road (State Route 774) , Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25394",
+      "photo_urls": []
+    },
+    {
+      "id": "269197",
+      "title": "L'Odyssée acadienne / The Acadian Odyssey",
+      "latitude": 45.97923439,
+      "longitude": -64.56713748,
+      "directions": "Near Rue Centrale Street, Memramcook, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269197",
+      "photo_urls": []
+    },
+    {
+      "id": "269199",
+      "title": "Le Monument-Lefebvre",
+      "latitude": 45.97922577,
+      "longitude": -64.56713428,
+      "directions": "Near Rue Centrale Street, Memramcook, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269199",
+      "photo_urls": []
+    },
+    {
+      "id": "269299",
+      "title": "Monument-Lefebvre National Historic Site / Lieu historique national du Monument-Lefebvre",
+      "latitude": 45.97920449,
+      "longitude": -64.5671595,
+      "directions": "Near Rue Centrale Street, Memramcook, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269299",
+      "photo_urls": []
+    },
+    {
+      "id": "284474",
+      "title": "Hartland Covered Bridge / Le Pont Couvert de Hartland",
+      "latitude": 46.29702788,
+      "longitude": -67.5278777,
+      "directions": "On Hartland Hill Bridge Road, Hartland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284474",
+      "photo_urls": []
+    },
+    {
+      "id": "286172",
+      "title": "Queens County Courthouse / Palais de Justice du Comté de Queens",
+      "latitude": 45.7855755,
+      "longitude": -66.14878088,
+      "directions": "On Court House, Gagetown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286172",
+      "photo_urls": []
+    },
+    {
+      "id": "292618",
+      "title": "St. Croix River / La Rivière Sainte-Croix",
+      "latitude": 45.073181,
+      "longitude": -67.05304,
+      "directions": "Near Water Street, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292618",
+      "photo_urls": []
+    },
+    {
+      "id": "293334",
+      "title": "Campobello's Resort Hotels",
+      "latitude": 44.876628,
+      "longitude": -66.958633,
+      "directions": "Near NB-774 (State Route 774) , Campobello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293334",
+      "photo_urls": []
+    },
+    {
+      "id": "293335",
+      "title": "Summer Activities",
+      "latitude": 44.876628,
+      "longitude": -66.958633,
+      "directions": "Near NB-774 (State Route 774) , Campobello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293335",
+      "photo_urls": []
+    },
+    {
+      "id": "293339",
+      "title": "The Summer Colony",
+      "latitude": 44.876628,
+      "longitude": -66.958633,
+      "directions": "Near NB-774 (State Route 774) , Campobello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293339",
+      "photo_urls": []
+    },
+    {
+      "id": "293356",
+      "title": "Roosevelt Campobello International Park / Le Parc International Roosevelt de Campobello",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near Sycamore Street Northwest (State Route 774) , near Welshpool, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293356",
+      "photo_urls": []
+    },
+    {
+      "id": "293357",
+      "title": "James and Sara Roosevelt Cottage",
+      "latitude": 44.8766213,
+      "longitude": -66.95863933,
+      "directions": "Near Glensevern Road (State Route 774) , Campobello, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293357",
+      "photo_urls": []
+    },
+    {
+      "id": "294972",
+      "title": "Charlotte County Court House",
+      "latitude": 45.0756231,
+      "longitude": -67.04936357,
+      "directions": "On Frederick Street, St Andrews, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294972",
+      "photo_urls": []
+    },
+    {
+      "id": "54783",
+      "title": "President Franklin Delano Roosevelt",
+      "latitude": 44.876124,
+      "longitude": -66.959125,
+      "directions": "Near New Brunswick 774, near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54783",
+      "photo_urls": []
+    },
+    {
+      "id": "54894",
+      "title": "Mulholland Point / La pointe Mulholland",
+      "latitude": 44.863116,
+      "longitude": -66.979614,
+      "directions": "Near Narrows Road, near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54894",
+      "photo_urls": []
+    },
+    {
+      "id": "54938",
+      "title": "World War II Memorial",
+      "latitude": 44.931953,
+      "longitude": -66.937573,
+      "directions": "On Route 774 (State Route 774) , Wilson&#39;s Beach, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54938",
+      "photo_urls": []
+    },
+    {
+      "id": "54939",
+      "title": "St. Anne's Anglican Church",
+      "latitude": 44.889549,
+      "longitude": -66.953824,
+      "directions": "On N Road, Welshpool, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54939",
+      "photo_urls": []
+    },
+    {
+      "id": "54995",
+      "title": "Lubec, Maine",
+      "latitude": 44.863086,
+      "longitude": -66.979344,
+      "directions": "Near Narrows Road, near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=54995",
+      "photo_urls": []
+    },
+    {
+      "id": "55023",
+      "title": "Lubec, Maine",
+      "latitude": 44.863086,
+      "longitude": -66.979344,
+      "directions": "Near Narrows Road, near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=55023",
+      "photo_urls": []
+    },
+    {
+      "id": "63593",
+      "title": "Mulholland Point / La Pointe Mulholland",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63593",
+      "photo_urls": []
+    },
+    {
+      "id": "63611",
+      "title": "Passamaquoddy Tidal Power Project",
+      "latitude": 44.87623758,
+      "longitude": -66.97189233,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63611",
+      "photo_urls": []
+    },
+    {
+      "id": "63617",
+      "title": "Passamaquoddy Tribe / La Tribu Passamaquoddy",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63617",
+      "photo_urls": []
+    },
+    {
+      "id": "63629",
+      "title": "Friar's Head / Le Cap Friar",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63629",
+      "photo_urls": []
+    },
+    {
+      "id": "63639",
+      "title": "Campobello Company and Hotels",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63639",
+      "photo_urls": []
+    },
+    {
+      "id": "63641",
+      "title": "Panoramic View of Cottages",
+      "latitude": 44.87625,
+      "longitude": -66.971919,
+      "directions": "Near , near Welshpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63641",
+      "photo_urls": []
+    },
+    {
+      "id": "77234",
+      "title": "The Milltown Cotton Mill Workers Monument",
+      "latitude": 45.174817,
+      "longitude": -67.295246,
+      "directions": "On Milltown Boulevard (State Route 170) , St. Stephen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77234",
+      "photo_urls": []
+    },
+    {
+      "id": "77238",
+      "title": "St. Stephen Post Office",
+      "latitude": 45.192556,
+      "longitude": -67.277395,
+      "directions": "On Milltown Boulevard (State Route 170) , St. Stephen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77238",
+      "photo_urls": []
+    },
+    {
+      "id": "77240",
+      "title": "St. Andrews Blockhouse",
+      "latitude": 45.077104,
+      "longitude": -67.062024,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77240",
+      "photo_urls": []
+    },
+    {
+      "id": "77241",
+      "title": "Two hundred years and counting",
+      "latitude": 45.077024,
+      "longitude": -67.061989,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77241",
+      "photo_urls": []
+    },
+    {
+      "id": "77361",
+      "title": "Welcome, Enjoy your visit!",
+      "latitude": 45.076885,
+      "longitude": -67.062142,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77361",
+      "photo_urls": []
+    },
+    {
+      "id": "77362",
+      "title": "Wartime legacies",
+      "latitude": 45.076909,
+      "longitude": -67.062166,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77362",
+      "photo_urls": []
+    },
+    {
+      "id": "77363",
+      "title": "War of 1812: Defending St. Andrews",
+      "latitude": 45.07703045,
+      "longitude": -67.06184152,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77363",
+      "photo_urls": []
+    },
+    {
+      "id": "77366",
+      "title": "Blockhouse 101",
+      "latitude": 45.077038,
+      "longitude": -67.061856,
+      "directions": "On Joes Point Road, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77366",
+      "photo_urls": []
+    },
+    {
+      "id": "77394",
+      "title": "Lest We Forget",
+      "latitude": 45.073371,
+      "longitude": -67.052868,
+      "directions": "Near Water Street, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77394",
+      "photo_urls": []
+    },
+    {
+      "id": "77397",
+      "title": "The 200 Million Year Wait is Over!",
+      "latitude": 45.079512,
+      "longitude": -67.048553,
+      "directions": "Near King Street, St. Andrews, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77397",
+      "photo_urls": []
+    },
+    {
+      "id": "77398",
+      "title": "St. Andrews Historic District",
+      "latitude": 45.073506,
+      "longitude": -67.052704,
+      "directions": "On Water Street, St. Andrews, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77398",
+      "photo_urls": []
+    },
+    {
+      "id": "77428",
+      "title": "First Marine Compound Engine",
+      "latitude": 45.27167,
+      "longitude": -66.062746,
+      "directions": "On Peters Wharf, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77428",
+      "photo_urls": []
+    },
+    {
+      "id": "77430",
+      "title": "First Steam Fog Horn",
+      "latitude": 45.271692,
+      "longitude": -66.062736,
+      "directions": "On Peters Wharf, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77430",
+      "photo_urls": []
+    },
+    {
+      "id": "77432",
+      "title": "The Landing of the Loyalists / Débarquement des Loyalistes",
+      "latitude": 45.27263,
+      "longitude": -66.063576,
+      "directions": "Near Market Square, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77432",
+      "photo_urls": []
+    },
+    {
+      "id": "77433",
+      "title": "Task Force Afghanistan",
+      "latitude": 45.079251,
+      "longitude": -67.046875,
+      "directions": "Near Frederick Street, St. Andrews, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77433",
+      "photo_urls": []
+    },
+    {
+      "id": "77456",
+      "title": "The <i>Marco Polo</i>",
+      "latitude": 45.272923,
+      "longitude": -66.062668,
+      "directions": "On Market Square, Saint John, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77456",
+      "photo_urls": []
+    },
+    {
+      "id": "77457",
+      "title": "Centerbeam Place",
+      "latitude": 45.272725,
+      "longitude": -66.062177,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77457",
+      "photo_urls": []
+    },
+    {
+      "id": "77458",
+      "title": "Scottish Strength",
+      "latitude": 45.272625,
+      "longitude": -66.062687,
+      "directions": "On Market Square, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77458",
+      "photo_urls": []
+    },
+    {
+      "id": "77459",
+      "title": "The Troop Fleet in the Days of Sail",
+      "latitude": 45.270178,
+      "longitude": -66.061346,
+      "directions": "On Prince William Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77459",
+      "photo_urls": []
+    },
+    {
+      "id": "77480",
+      "title": "Prince William Street - Before and After the 1877 Fire",
+      "latitude": 45.272596,
+      "longitude": -66.062336,
+      "directions": "On Prince William Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77480",
+      "photo_urls": []
+    },
+    {
+      "id": "77482",
+      "title": "New Brunswick’s First School of Law",
+      "latitude": 45.271585,
+      "longitude": -66.061053,
+      "directions": "On Canterbury Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77482",
+      "photo_urls": []
+    },
+    {
+      "id": "77483",
+      "title": "Church of Saint Andrew and Saint David",
+      "latitude": 45.270431,
+      "longitude": -66.059611,
+      "directions": "On Germain Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77483",
+      "photo_urls": []
+    },
+    {
+      "id": "77484",
+      "title": "Saint John’s First Wind Grist Mill",
+      "latitude": 45.27294,
+      "longitude": -66.058098,
+      "directions": "On Kings Square South, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77484",
+      "photo_urls": []
+    },
+    {
+      "id": "77506",
+      "title": "Imperial Theatre",
+      "latitude": 45.273025,
+      "longitude": -66.057636,
+      "directions": "On Kings Square South, Saint John, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77506",
+      "photo_urls": []
+    },
+    {
+      "id": "77508",
+      "title": "No. 2 Mechanics’ Volunteer Company Engine House",
+      "latitude": 45.273492,
+      "longitude": -66.057032,
+      "directions": "On Sydney Street, Saint John, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77508",
+      "photo_urls": []
+    },
+    {
+      "id": "77518",
+      "title": "Saint John’s Original Burial Ground",
+      "latitude": 45.273492,
+      "longitude": -66.057032,
+      "directions": "Near Sydney Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77518",
+      "photo_urls": []
+    },
+    {
+      "id": "77519",
+      "title": "Founding of New Brunswick",
+      "latitude": 45.273492,
+      "longitude": -66.057032,
+      "directions": "On Sydney Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77519",
+      "photo_urls": []
+    },
+    {
+      "id": "77531",
+      "title": "King Edward VII Memorial Bandstand",
+      "latitude": 45.273563,
+      "longitude": -66.058771,
+      "directions": "On Charlotte Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77531",
+      "photo_urls": []
+    },
+    {
+      "id": "77534",
+      "title": "King’s Square",
+      "latitude": 45.273447,
+      "longitude": -66.058694,
+      "directions": "On Charlotte Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77534",
+      "photo_urls": []
+    },
+    {
+      "id": "77535",
+      "title": "Saint John City Market",
+      "latitude": 45.274021,
+      "longitude": -66.059142,
+      "directions": "On Charlotte Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77535",
+      "photo_urls": []
+    },
+    {
+      "id": "77537",
+      "title": "Fort Howe",
+      "latitude": 45.276454,
+      "longitude": -66.072997,
+      "directions": "On Magazine Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77537",
+      "photo_urls": []
+    },
+    {
+      "id": "77558",
+      "title": "Dock Street Generating Station",
+      "latitude": 45.272744,
+      "longitude": -66.066243,
+      "directions": "Near Smythe Street, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77558",
+      "photo_urls": []
+    },
+    {
+      "id": "77568",
+      "title": "Canada’s Original City",
+      "latitude": 45.272457,
+      "longitude": -66.065663,
+      "directions": "Near North Market Wharf, Saint John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77568",
+      "photo_urls": []
+    },
+    {
+      "id": "77570",
+      "title": "The Great Fire of 1877 | L’incendie de 1877",
+      "latitude": 45.273121,
+      "longitude": -66.060533,
+      "directions": "On King Street, Saint John, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77570",
+      "photo_urls": []
+    },
+    {
+      "id": "78253",
+      "title": "Irish Immigrant Memorial",
+      "latitude": 45.26686389,
+      "longitude": -66.06033611,
+      "directions": "On Water Street, Saint John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78253",
+      "photo_urls": []
+    },
+    {
+      "id": "80578",
+      "title": "Men of Letters",
+      "latitude": 46.218556,
+      "longitude": -64.555319,
+      "directions": "On Main Street, Shediac, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80578",
+      "photo_urls": []
+    },
+    {
+      "id": "80579",
+      "title": "The Return of the Acadians",
+      "latitude": 47.773486,
+      "longitude": -65.012544,
+      "directions": "On West St. Peter Boulevard (State Route 11) , Caraquet, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80579",
+      "photo_urls": []
+    },
+    {
+      "id": "80580",
+      "title": "Le Grand Dérangement",
+      "latitude": 47.774028,
+      "longitude": -65.011322,
+      "directions": "Near West St. Peter Boulevard (State Route 11) , near Caraquet, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80580",
+      "photo_urls": []
+    },
+    {
+      "id": "80581",
+      "title": "K.C. Irving",
+      "latitude": 46.475027,
+      "longitude": -64.716466,
+      "directions": "On Couvent Way (County Route 475) , Bouctouche, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80581",
+      "photo_urls": []
+    }
+  ]
+}
