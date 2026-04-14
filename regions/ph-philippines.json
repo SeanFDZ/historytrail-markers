@@ -1,0 +1,1532 @@
+{
+  "region_id": "ph-philippines",
+  "region_name": "Philippines",
+  "region_type": "country",
+  "country": "Philippines",
+  "generated": "2026-04-14T06:08:54.405Z",
+  "source_timestamp": "2026-04-14T06:08:54.405Z",
+  "marker_count": 169,
+  "markers": [
+    {
+      "id": "209425",
+      "title": "Our Lady of the Most Holy Rosary Parish Church",
+      "latitude": 14.599967,
+      "longitude": 120.974439,
+      "directions": "On Plaza Lorenzo Ruiz [Quintin Paredes Street], Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209425",
+      "photo_urls": []
+    },
+    {
+      "id": "209467",
+      "title": "Plaza de Roma",
+      "latitude": 14.59213383,
+      "longitude": 120.97310901,
+      "directions": "On Andres Soriano Jr. Street, Manila, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209467",
+      "photo_urls": []
+    },
+    {
+      "id": "239105",
+      "title": "Jose Rizal National Monument",
+      "latitude": 14.58156261,
+      "longitude": 120.97673729,
+      "directions": "On Roxas Boulevard, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239105",
+      "photo_urls": []
+    },
+    {
+      "id": "239106",
+      "title": "Jose Marti y Perez",
+      "latitude": 14.58420904,
+      "longitude": 120.97530037,
+      "directions": "On Bonifacio Drive (Route R1) , Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239106",
+      "photo_urls": []
+    },
+    {
+      "id": "239107",
+      "title": "Basilica of Our Lady of Charity",
+      "latitude": 16.32296068,
+      "longitude": 120.36745548,
+      "directions": "On MacArthur Highway, Agoo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239107",
+      "photo_urls": []
+    },
+    {
+      "id": "239109",
+      "title": "Leona Florentino",
+      "latitude": 17.57351287,
+      "longitude": 120.38913041,
+      "directions": "On Crisologo, Vigan City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239109",
+      "photo_urls": []
+    },
+    {
+      "id": "239127",
+      "title": "Simbahan Ng Sta. Maria",
+      "latitude": 17.3668886,
+      "longitude": 120.4830766,
+      "directions": "Near Santa Maria - Burgos Road, Santa Maria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239127",
+      "photo_urls": []
+    },
+    {
+      "id": "240004",
+      "title": "Juan M. Sumulong",
+      "latitude": 14.58714615,
+      "longitude": 121.17594168,
+      "directions": "Near M.L. Quezon Street, Antipolo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240004",
+      "photo_urls": []
+    },
+    {
+      "id": "240484",
+      "title": "Malcolm Square",
+      "latitude": 16.4138762,
+      "longitude": 120.59565211,
+      "directions": "On Magsaysay Avenue, Baguio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240484",
+      "photo_urls": []
+    },
+    {
+      "id": "240510",
+      "title": "Elpidio R. Quirino",
+      "latitude": 17.57559044,
+      "longitude": 120.38721934,
+      "directions": "On Quezon Avenue, Vigan City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240510",
+      "photo_urls": []
+    },
+    {
+      "id": "240518",
+      "title": "Hon. Vicente Singson Encarnacion",
+      "latitude": 17.57527795,
+      "longitude": 120.38701274,
+      "directions": "On Quezon Avenue, Vigan City, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240518",
+      "photo_urls": []
+    },
+    {
+      "id": "240522",
+      "title": "Simbahan ng Navotas / Church of Navotas",
+      "latitude": 14.66280313,
+      "longitude": 120.94474196,
+      "directions": "On M. Naval Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240522",
+      "photo_urls": []
+    },
+    {
+      "id": "240550",
+      "title": "Birthplace of Jose Rizal",
+      "latitude": 14.21371807,
+      "longitude": 121.16664648,
+      "directions": "On JP Rizal Street, Calamba, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240550",
+      "photo_urls": []
+    },
+    {
+      "id": "240553",
+      "title": "Jose Rizal (1861 - 1896)",
+      "latitude": 14.21373887,
+      "longitude": 121.16749138,
+      "directions": "Near JP Rizal Street, Calamba, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240553",
+      "photo_urls": []
+    },
+    {
+      "id": "240563",
+      "title": "Church of Antipolo",
+      "latitude": 14.58778081,
+      "longitude": 121.17639899,
+      "directions": "Near P. Oliveros Street, Antipolo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240563",
+      "photo_urls": []
+    },
+    {
+      "id": "240564",
+      "title": "Nuestra Señora de la Paz y Buen Viaje",
+      "latitude": 14.58757056,
+      "longitude": 121.1763896,
+      "directions": "Near , Antipolo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240564",
+      "photo_urls": []
+    },
+    {
+      "id": "240565",
+      "title": "Campana de Sto. Cristo del Tosoro",
+      "latitude": 14.57121539,
+      "longitude": 121.13224747,
+      "directions": "Near Kadalagahan, Taytay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240565",
+      "photo_urls": []
+    },
+    {
+      "id": "240566",
+      "title": "Campana de Santiago Apostol",
+      "latitude": 14.57121441,
+      "longitude": 121.13217734,
+      "directions": "Near Kadalagahan, Taytay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240566",
+      "photo_urls": []
+    },
+    {
+      "id": "240665",
+      "title": "Church of San Bartolome",
+      "latitude": 14.65851639,
+      "longitude": 120.95163792,
+      "directions": "On Rizal Avenue Extension, Malabon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240665",
+      "photo_urls": []
+    },
+    {
+      "id": "240668",
+      "title": "Simbahan ng Nuestra Señora de la Asuncion / Church of Nuestra Señora de la Asuncion",
+      "latitude": 17.36681089,
+      "longitude": 120.48314475,
+      "directions": "Near Santa Maria - Burgos Road, Santa Maria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240668",
+      "photo_urls": []
+    },
+    {
+      "id": "240670",
+      "title": "Isabelo F. De Los Reyes",
+      "latitude": 17.57362078,
+      "longitude": 120.3892508,
+      "directions": "On Crisologo, Vigan City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240670",
+      "photo_urls": []
+    },
+    {
+      "id": "25021",
+      "title": "Roman Ongpin",
+      "latitude": 14.59979098,
+      "longitude": 120.9747532,
+      "directions": "On Quintin Paredes Road, Manila, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25021",
+      "photo_urls": []
+    },
+    {
+      "id": "25024",
+      "title": "Ang Simbahan ng Binondo",
+      "latitude": 14.59997267,
+      "longitude": 120.97451985,
+      "directions": "On Quintin Paredes Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25024",
+      "photo_urls": []
+    },
+    {
+      "id": "25025",
+      "title": "Ang Tahanan ng Kaanak ni Rizal 1903 Daang San Fernando, Maynila",
+      "latitude": 14.59902009,
+      "longitude": 120.97258598,
+      "directions": "On San Fernando Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25025",
+      "photo_urls": []
+    },
+    {
+      "id": "25027",
+      "title": "William J. Burke",
+      "latitude": 14.59849058,
+      "longitude": 120.97913861,
+      "directions": "On Escolta Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25027",
+      "photo_urls": []
+    },
+    {
+      "id": "25029",
+      "title": "Sinilangang Pook ni Heneral Antonio Luna",
+      "latitude": 14.59825438,
+      "longitude": 120.97226143,
+      "directions": "On Urbiztondo Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25029",
+      "photo_urls": []
+    },
+    {
+      "id": "25040",
+      "title": "Church of San Agustin",
+      "latitude": 14.58932527,
+      "longitude": 120.97485781,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25040",
+      "photo_urls": []
+    },
+    {
+      "id": "25042",
+      "title": "Church of San Vicente de Paul",
+      "latitude": 14.58519024,
+      "longitude": 120.98537743,
+      "directions": "Near San Marcelino Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25042",
+      "photo_urls": []
+    },
+    {
+      "id": "25045",
+      "title": "Central United Methodist Church",
+      "latitude": 14.58271386,
+      "longitude": 120.98355889,
+      "directions": "On Teodoro M. Kalaw Sr. Street, Manila, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25045",
+      "photo_urls": []
+    },
+    {
+      "id": "25077",
+      "title": "Plaza Olivia Salamanca",
+      "latitude": 14.58323043,
+      "longitude": 120.98393172,
+      "directions": "On Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25077",
+      "photo_urls": []
+    },
+    {
+      "id": "25078",
+      "title": "Philippine General Hospital",
+      "latitude": 14.57793234,
+      "longitude": 120.98629206,
+      "directions": "Near Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25078",
+      "photo_urls": []
+    },
+    {
+      "id": "25079",
+      "title": "Andres Bonifacio",
+      "latitude": 14.59454781,
+      "longitude": 120.97934514,
+      "directions": "On Quezon Boulevard, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25079",
+      "photo_urls": []
+    },
+    {
+      "id": "25080",
+      "title": "Philippine Post Office",
+      "latitude": 14.59535246,
+      "longitude": 120.97920835,
+      "directions": "Near Magallanes Drive, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25080",
+      "photo_urls": []
+    },
+    {
+      "id": "25090",
+      "title": "Manila Metropolitan Theater",
+      "latitude": 14.59408837,
+      "longitude": 120.98050117,
+      "directions": "On Quezon Boulevard, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25090",
+      "photo_urls": []
+    },
+    {
+      "id": "25093",
+      "title": "Sa mga Bayani ng Lungsod ng Maynila",
+      "latitude": 14.58781196,
+      "longitude": 120.98190933,
+      "directions": "On Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25093",
+      "photo_urls": []
+    },
+    {
+      "id": "25094",
+      "title": "Ang Simbahan ng Nuestra Señora de Guia",
+      "latitude": 14.57880455,
+      "longitude": 120.98005325,
+      "directions": "On Marcelo H. Del Pilar Street, Manila, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25094",
+      "photo_urls": []
+    },
+    {
+      "id": "25095",
+      "title": "Associacion Feminista Filipina",
+      "latitude": 14.57813222,
+      "longitude": 120.98962873,
+      "directions": "On Josefa Llanes Escoda Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25095",
+      "photo_urls": []
+    },
+    {
+      "id": "25096",
+      "title": "Grand Lodge of Free and Accepted Masons of the Philippines",
+      "latitude": 14.57916537,
+      "longitude": 120.98966092,
+      "directions": "On San Marcelino Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25096",
+      "photo_urls": []
+    },
+    {
+      "id": "25103",
+      "title": "Cosmopolitan Church",
+      "latitude": 14.5781452,
+      "longitude": 120.98733544,
+      "directions": "Near Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25103",
+      "photo_urls": []
+    },
+    {
+      "id": "25153",
+      "title": "Manila Cathedral",
+      "latitude": 14.59169516,
+      "longitude": 120.97338259,
+      "directions": "On Sto. Tomas Street, Manila, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25153",
+      "photo_urls": []
+    },
+    {
+      "id": "25157",
+      "title": "Ayuntamiento",
+      "latitude": 14.5925102,
+      "longitude": 120.97340405,
+      "directions": "On Cabildo Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25157",
+      "photo_urls": []
+    },
+    {
+      "id": "25158",
+      "title": "Padre Jose A. Burgos",
+      "latitude": 14.59205855,
+      "longitude": 120.97384393,
+      "directions": "On Cabildo Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25158",
+      "photo_urls": []
+    },
+    {
+      "id": "25160",
+      "title": "Palacio Arzobispal",
+      "latitude": 14.59041028,
+      "longitude": 120.9730956,
+      "directions": "On Arzobispo Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25160",
+      "photo_urls": []
+    },
+    {
+      "id": "25161",
+      "title": "San Ignacio Church",
+      "latitude": 14.5899742,
+      "longitude": 120.97345769,
+      "directions": "On Arzobispo Street, Manila, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25161",
+      "photo_urls": []
+    },
+    {
+      "id": "25162",
+      "title": "Ateneo de Manila",
+      "latitude": 14.58967829,
+      "longitude": 120.9734416,
+      "directions": "On Arzobispo Street, Manila, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25162",
+      "photo_urls": []
+    },
+    {
+      "id": "25163",
+      "title": "Colegio de Santa Isabel",
+      "latitude": 14.59023896,
+      "longitude": 120.97407997,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25163",
+      "photo_urls": []
+    },
+    {
+      "id": "25164",
+      "title": "Plazuela de Santa Isabel",
+      "latitude": 14.59041807,
+      "longitude": 120.97435355,
+      "directions": "On Anda Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25164",
+      "photo_urls": []
+    },
+    {
+      "id": "25221",
+      "title": "Where “Ang Kalayaan” Was Printed",
+      "latitude": 14.60032308,
+      "longitude": 120.96974283,
+      "directions": "On Lavezares Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25221",
+      "photo_urls": []
+    },
+    {
+      "id": "25227",
+      "title": "Cuartel de Santa Lucia",
+      "latitude": 14.58747711,
+      "longitude": 120.97472906,
+      "directions": "On Sta. Lucia Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25227",
+      "photo_urls": []
+    },
+    {
+      "id": "25228",
+      "title": "U.S. Forces Liberate Manila",
+      "latitude": 14.58781196,
+      "longitude": 120.98190933,
+      "directions": "On Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25228",
+      "photo_urls": []
+    },
+    {
+      "id": "25230",
+      "title": "Beaterio de la Compañia de Jesus",
+      "latitude": 14.58687749,
+      "longitude": 120.97526282,
+      "directions": "On Santa Lucia Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25230",
+      "photo_urls": []
+    },
+    {
+      "id": "25232",
+      "title": "The Jesuit Compound",
+      "latitude": 14.58654004,
+      "longitude": 120.97751856,
+      "directions": "On Muralla Street, Manila, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25232",
+      "photo_urls": []
+    },
+    {
+      "id": "25233",
+      "title": "Simbahan at Kumbento ng Recoletos",
+      "latitude": 14.58855174,
+      "longitude": 120.97873628,
+      "directions": "On Recoletos Street, Manila, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25233",
+      "photo_urls": []
+    },
+    {
+      "id": "25235",
+      "title": "Manila High School",
+      "latitude": 14.58956927,
+      "longitude": 120.97879797,
+      "directions": "On Victoria Street, Manila, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25235",
+      "photo_urls": []
+    },
+    {
+      "id": "25236",
+      "title": "San Francisco Church and Convent",
+      "latitude": 14.59035318,
+      "longitude": 120.9787631,
+      "directions": "On Muralla Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25236",
+      "photo_urls": []
+    },
+    {
+      "id": "25237",
+      "title": "Chapel of the Franciscan Venerable Third Order",
+      "latitude": 14.59087751,
+      "longitude": 120.97855121,
+      "directions": "On Muralla Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25237",
+      "photo_urls": []
+    },
+    {
+      "id": "25241",
+      "title": "No. 1 Victoria St.",
+      "latitude": 14.58676341,
+      "longitude": 120.97478799,
+      "directions": "On Victoria Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25241",
+      "photo_urls": []
+    },
+    {
+      "id": "25242",
+      "title": "Lourdes Church and Convent",
+      "latitude": 14.58756796,
+      "longitude": 120.97691774,
+      "directions": "On General Luna Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25242",
+      "photo_urls": []
+    },
+    {
+      "id": "25243",
+      "title": "Hospital de San Juan de Dios",
+      "latitude": 14.59205855,
+      "longitude": 120.97801477,
+      "directions": "On Muralla Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25243",
+      "photo_urls": []
+    },
+    {
+      "id": "25274",
+      "title": "College of San Juan de Letran",
+      "latitude": 14.59373277,
+      "longitude": 120.97719133,
+      "directions": "On Muralla Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25274",
+      "photo_urls": []
+    },
+    {
+      "id": "25275",
+      "title": "Beaterio-Colegio de Santa Catalina",
+      "latitude": 14.59350954,
+      "longitude": 120.97631961,
+      "directions": "On Beaterio Street, Manila, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25275",
+      "photo_urls": []
+    },
+    {
+      "id": "25282",
+      "title": "Colegio de Santa Rosa",
+      "latitude": 14.5927542,
+      "longitude": 120.97449034,
+      "directions": "On Santo Tomas Street, Manila, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25282",
+      "photo_urls": []
+    },
+    {
+      "id": "25285",
+      "title": "Plaza Santo Tomas",
+      "latitude": 14.59288398,
+      "longitude": 120.97445011,
+      "directions": "On Santo Tomas Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25285",
+      "photo_urls": []
+    },
+    {
+      "id": "25286",
+      "title": "University of Santo Tomas",
+      "latitude": 14.59334861,
+      "longitude": 120.97432137,
+      "directions": "On Solana Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25286",
+      "photo_urls": []
+    },
+    {
+      "id": "25287",
+      "title": "Santo Domingo Church and Convent",
+      "latitude": 14.5935303,
+      "longitude": 120.97476393,
+      "directions": "On Magallanes Drive, Manila, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25287",
+      "photo_urls": []
+    },
+    {
+      "id": "25288",
+      "title": "Plaza de España",
+      "latitude": 14.59344465,
+      "longitude": 120.97481757,
+      "directions": "On Solana Street, Manila, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25288",
+      "photo_urls": []
+    },
+    {
+      "id": "25290",
+      "title": "Cruceiro",
+      "latitude": 14.59399753,
+      "longitude": 120.97517163,
+      "directions": "On Magallanes Drive, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25290",
+      "photo_urls": []
+    },
+    {
+      "id": "25291",
+      "title": "Mother Francisca del Espiritu Santo",
+      "latitude": 14.59378987,
+      "longitude": 120.97736031,
+      "directions": "On Muralla Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25291",
+      "photo_urls": []
+    },
+    {
+      "id": "25293",
+      "title": "Tomas Mapua",
+      "latitude": 14.59036615,
+      "longitude": 120.97877383,
+      "directions": "On Muralla Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25293",
+      "photo_urls": []
+    },
+    {
+      "id": "253784",
+      "title": "Benguet State University",
+      "latitude": 16.45111111,
+      "longitude": 120.59027778,
+      "directions": "On Benguet Provincial National Road, La Trinidad, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253784",
+      "photo_urls": []
+    },
+    {
+      "id": "253787",
+      "title": "Ang Pagpapalaya ng Maynila / The Liberation of Manila",
+      "latitude": 14.59101119,
+      "longitude": 120.97247869,
+      "directions": "On Postigo Lucia Street, Manila, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253787",
+      "photo_urls": []
+    },
+    {
+      "id": "253929",
+      "title": "The Inauguration of the Commonwealth of the Philippines",
+      "latitude": 14.58694444,
+      "longitude": 120.98055556,
+      "directions": "On Padre Burgos Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253929",
+      "photo_urls": []
+    },
+    {
+      "id": "25517",
+      "title": "Memorare-Manila 1945",
+      "latitude": 14.59041807,
+      "longitude": 120.97435355,
+      "directions": "On Anda Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25517",
+      "photo_urls": []
+    },
+    {
+      "id": "262161",
+      "title": "Nielson Tower",
+      "latitude": 14.55584885,
+      "longitude": 121.02465256,
+      "directions": "On Makati Avenue, Makati City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262161",
+      "photo_urls": []
+    },
+    {
+      "id": "293405",
+      "title": "Sergio Osmeña",
+      "latitude": 14.58688889,
+      "longitude": 120.98097222,
+      "directions": "On Padre Burgos Avenue, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293405",
+      "photo_urls": []
+    },
+    {
+      "id": "293406",
+      "title": "Filipino Entrepreneurs",
+      "latitude": 14.56152631,
+      "longitude": 121.01815497,
+      "directions": "On Sen. Gil J. Puyat Avenue, Makati City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293406",
+      "photo_urls": []
+    },
+    {
+      "id": "293408",
+      "title": "Fr. George J. Willmann, S.J.",
+      "latitude": 14.58872222,
+      "longitude": 120.97585278,
+      "directions": "On General Luna Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293408",
+      "photo_urls": []
+    },
+    {
+      "id": "293409",
+      "title": "San Agustin Church",
+      "latitude": 14.58932222,
+      "longitude": 120.97499167,
+      "directions": "On Real Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293409",
+      "photo_urls": []
+    },
+    {
+      "id": "293410",
+      "title": "Ad Maiorem Beatæ Mariæ Virginis Gloriam",
+      "latitude": 14.58916667,
+      "longitude": 120.97506667,
+      "directions": "Near General Luna Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293410",
+      "photo_urls": []
+    },
+    {
+      "id": "293434",
+      "title": "First Plenary Council of the Philippines",
+      "latitude": 14.58915278,
+      "longitude": 120.97504444,
+      "directions": "Near General Luna Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293434",
+      "photo_urls": []
+    },
+    {
+      "id": "293447",
+      "title": "The White Cross",
+      "latitude": 14.59485833,
+      "longitude": 120.96968889,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293447",
+      "photo_urls": []
+    },
+    {
+      "id": "293448",
+      "title": "Fort Santiago",
+      "latitude": 14.59276111,
+      "longitude": 120.97171111,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293448",
+      "photo_urls": []
+    },
+    {
+      "id": "293450",
+      "title": "Plaza Moriones",
+      "latitude": 14.59291667,
+      "longitude": 120.97161111,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293450",
+      "photo_urls": []
+    },
+    {
+      "id": "293451",
+      "title": "Baluartillo de San Francisco",
+      "latitude": 14.59283056,
+      "longitude": 120.97102222,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293451",
+      "photo_urls": []
+    },
+    {
+      "id": "293453",
+      "title": "Ruins of The American Barracks",
+      "latitude": 14.59319444,
+      "longitude": 120.97083333,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293453",
+      "photo_urls": []
+    },
+    {
+      "id": "293454",
+      "title": "Baluarte de San Miguel",
+      "latitude": 14.59386944,
+      "longitude": 120.97018333,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293454",
+      "photo_urls": []
+    },
+    {
+      "id": "293456",
+      "title": "Plaza de Armas",
+      "latitude": 14.59433611,
+      "longitude": 120.97029167,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293456",
+      "photo_urls": []
+    },
+    {
+      "id": "293457",
+      "title": "Rotary Club of Manila Lamps",
+      "latitude": 14.59439444,
+      "longitude": 120.97010833,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293457",
+      "photo_urls": []
+    },
+    {
+      "id": "293458",
+      "title": "Shrine of Jose Rizal",
+      "latitude": 14.59443056,
+      "longitude": 120.96997778,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293458",
+      "photo_urls": []
+    },
+    {
+      "id": "293459",
+      "title": "Rajah Sulayman Theatre",
+      "latitude": 14.59466944,
+      "longitude": 120.97021389,
+      "directions": "On Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293459",
+      "photo_urls": []
+    },
+    {
+      "id": "293460",
+      "title": "Dr. Jose Rizal's Last Walk to Martyrdom Trail",
+      "latitude": 14.59490278,
+      "longitude": 120.969925,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293460",
+      "photo_urls": []
+    },
+    {
+      "id": "293461",
+      "title": "Postigo del Nuestra Señora de Soledad",
+      "latitude": 14.59497778,
+      "longitude": 120.96996944,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293461",
+      "photo_urls": []
+    },
+    {
+      "id": "293462",
+      "title": "Gate of Fort Santiago",
+      "latitude": 14.59414444,
+      "longitude": 120.97043611,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293462",
+      "photo_urls": []
+    },
+    {
+      "id": "293463",
+      "title": "The Bamboo Garden",
+      "latitude": 14.59399722,
+      "longitude": 120.97123611,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293463",
+      "photo_urls": []
+    },
+    {
+      "id": "293464",
+      "title": "Baluarte Maestranza Herrerias",
+      "latitude": 14.59436389,
+      "longitude": 120.97126667,
+      "directions": "On Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293464",
+      "photo_urls": []
+    },
+    {
+      "id": "293465",
+      "title": "Ruins of The Almacenes Reales",
+      "latitude": 14.59314444,
+      "longitude": 120.97167222,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293465",
+      "photo_urls": []
+    },
+    {
+      "id": "293466",
+      "title": "Baluarte de Santa Barbara",
+      "latitude": 14.595025,
+      "longitude": 120.96961944,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293466",
+      "photo_urls": []
+    },
+    {
+      "id": "293467",
+      "title": "Falsabraga Media Naranja",
+      "latitude": 14.59524722,
+      "longitude": 120.96965833,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293467",
+      "photo_urls": []
+    },
+    {
+      "id": "293469",
+      "title": "The Church of Our Lady of Lourdes",
+      "latitude": 14.58740833,
+      "longitude": 120.97695278,
+      "directions": "On General Luna Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293469",
+      "photo_urls": []
+    },
+    {
+      "id": "293470",
+      "title": "Manuel L. Quezon",
+      "latitude": 14.58712222,
+      "longitude": 120.98101111,
+      "directions": "On Padre Burgos Avenue, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293470",
+      "photo_urls": []
+    },
+    {
+      "id": "293471",
+      "title": "Gusaling Corazon Cojuangco Aquino",
+      "latitude": 14.58679444,
+      "longitude": 120.97731111,
+      "directions": "On General Luna Street, Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293471",
+      "photo_urls": []
+    },
+    {
+      "id": "293472",
+      "title": "The Martyrdom of Dr. Jose Rizal",
+      "latitude": 14.58241389,
+      "longitude": 120.97676111,
+      "directions": "Near Rizal Park, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293472",
+      "photo_urls": []
+    },
+    {
+      "id": "293474",
+      "title": "The First Jesuit Compound",
+      "latitude": 14.58785556,
+      "longitude": 120.97648611,
+      "directions": "On General Luna Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293474",
+      "photo_urls": []
+    },
+    {
+      "id": "293515",
+      "title": "Intramuros",
+      "latitude": 14.586475,
+      "longitude": 120.97779167,
+      "directions": "On General Luna Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293515",
+      "photo_urls": []
+    },
+    {
+      "id": "293595",
+      "title": "The Gomburza",
+      "latitude": 14.58698889,
+      "longitude": 120.98023333,
+      "directions": "On Padre Burgos Avenue, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293595",
+      "photo_urls": []
+    },
+    {
+      "id": "293597",
+      "title": "Lapu-Lapu",
+      "latitude": 14.58276389,
+      "longitude": 120.97946944,
+      "directions": "Near Ma. Orosa Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293597",
+      "photo_urls": []
+    },
+    {
+      "id": "293647",
+      "title": "Mateo Cariño",
+      "latitude": 14.58226389,
+      "longitude": 120.97858333,
+      "directions": "Near Roxas Boulevard (Local Route 120) , Manila, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293647",
+      "photo_urls": []
+    },
+    {
+      "id": "293649",
+      "title": "Plaza San Luis Complex",
+      "latitude": 14.58959167,
+      "longitude": 120.97502222,
+      "directions": "On General Luna Street, Manila, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293649",
+      "photo_urls": []
+    },
+    {
+      "id": "293651",
+      "title": "The Escuela Nautica de Manila",
+      "latitude": 14.59139444,
+      "longitude": 120.97434167,
+      "directions": "On Cabildo Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293651",
+      "photo_urls": []
+    },
+    {
+      "id": "293668",
+      "title": "Pope John Paul II",
+      "latitude": 14.59176667,
+      "longitude": 120.97325,
+      "directions": "On Santo Tomas, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293668",
+      "photo_urls": []
+    },
+    {
+      "id": "293670",
+      "title": "Jaime L. Cardinal Sin Ground Belfry",
+      "latitude": 14.591875,
+      "longitude": 120.97353333,
+      "directions": "Near Santo Tomas, Manila, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293670",
+      "photo_urls": []
+    },
+    {
+      "id": "293677",
+      "title": "Manila Cathedral-Basilica Carillon Bells",
+      "latitude": 14.59184444,
+      "longitude": 120.97357222,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293677",
+      "photo_urls": []
+    },
+    {
+      "id": "293678",
+      "title": "Casa del Castellano / The Dungeons of Fort Santiago",
+      "latitude": 14.59503889,
+      "longitude": 120.96964167,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293678",
+      "photo_urls": []
+    },
+    {
+      "id": "293679",
+      "title": "The Royal Audience of Manila",
+      "latitude": 14.59219722,
+      "longitude": 120.97241111,
+      "directions": "On Soriano Avenue, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293679",
+      "photo_urls": []
+    },
+    {
+      "id": "293723",
+      "title": "In Grateful Recognition of the Generous Donations by the People of the Philippines",
+      "latitude": 14.59189167,
+      "longitude": 120.97342778,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293723",
+      "photo_urls": []
+    },
+    {
+      "id": "293724",
+      "title": "In Recognition of the Generous Donation by the Japanese People",
+      "latitude": 14.591925,
+      "longitude": 120.97347222,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293724",
+      "photo_urls": []
+    },
+    {
+      "id": "293725",
+      "title": "In Grateful Acknowledgment of the Generous Donation by the People of the United States of America",
+      "latitude": 14.59191111,
+      "longitude": 120.97346389,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293725",
+      "photo_urls": []
+    },
+    {
+      "id": "293727",
+      "title": "In Gratitude for the Generous Financial Support by the People of Spain",
+      "latitude": 14.5919,
+      "longitude": 120.97343333,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293727",
+      "photo_urls": []
+    },
+    {
+      "id": "293728",
+      "title": "Philippine Merchant Marine Academy",
+      "latitude": 14.59145556,
+      "longitude": 120.974275,
+      "directions": "On Cabildo Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293728",
+      "photo_urls": []
+    },
+    {
+      "id": "293868",
+      "title": "Pope Francis Hall",
+      "latitude": 14.59172778,
+      "longitude": 120.97380833,
+      "directions": "Near 132 Beaterio Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293868",
+      "photo_urls": []
+    },
+    {
+      "id": "293870",
+      "title": "The Saint Paul Hospital and Free Public Dispensary",
+      "latitude": 14.59104167,
+      "longitude": 120.97368611,
+      "directions": "On General Luna Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293870",
+      "photo_urls": []
+    },
+    {
+      "id": "293871",
+      "title": "The Cathedral of Manila",
+      "latitude": 14.59173611,
+      "longitude": 120.97316111,
+      "directions": "On Santo Tomas Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293871",
+      "photo_urls": []
+    },
+    {
+      "id": "293879",
+      "title": "Fort Santiago",
+      "latitude": 14.59408889,
+      "longitude": 120.97046667,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293879",
+      "photo_urls": []
+    },
+    {
+      "id": "294002",
+      "title": "Pantaleon Villegas",
+      "latitude": 14.58283611,
+      "longitude": 120.97824167,
+      "directions": "Near Rizal Park, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294002",
+      "photo_urls": []
+    },
+    {
+      "id": "294111",
+      "title": "Juan Luna",
+      "latitude": 14.58562222,
+      "longitude": 120.9784,
+      "directions": "On Abenida Maria Orosa, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294111",
+      "photo_urls": []
+    },
+    {
+      "id": "294112",
+      "title": "Filipino·Korean Soldier Monument",
+      "latitude": 14.58133056,
+      "longitude": 120.97805833,
+      "directions": "Near Rizal Park, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294112",
+      "photo_urls": []
+    },
+    {
+      "id": "294126",
+      "title": "Soul Waves",
+      "latitude": 14.58134444,
+      "longitude": 120.97811944,
+      "directions": "Near Rizal Park, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294126",
+      "photo_urls": []
+    },
+    {
+      "id": "294167",
+      "title": "The Colegio de Santa Potenciana",
+      "latitude": 14.58794444,
+      "longitude": 120.97641667,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294167",
+      "photo_urls": []
+    },
+    {
+      "id": "294168",
+      "title": "Manila Metropolitan Cathedral-Basilica",
+      "latitude": 14.59188056,
+      "longitude": 120.97339722,
+      "directions": "On Santo Tomas Street, Manila, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294168",
+      "photo_urls": []
+    },
+    {
+      "id": "294169",
+      "title": "Former Palace of the Governors General",
+      "latitude": 14.59179898,
+      "longitude": 120.97245187,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294169",
+      "photo_urls": []
+    },
+    {
+      "id": "294170",
+      "title": "Jose Felipe del Pan",
+      "latitude": 14.59181944,
+      "longitude": 120.97270278,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294170",
+      "photo_urls": []
+    },
+    {
+      "id": "294173",
+      "title": "Ciudad Murada",
+      "latitude": 14.59200556,
+      "longitude": 120.97315278,
+      "directions": "On Santo Tomas Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294173",
+      "photo_urls": []
+    },
+    {
+      "id": "294582",
+      "title": "Charles IV, King of Spain",
+      "latitude": 14.592125,
+      "longitude": 120.97313611,
+      "directions": "Near Santo Tomas Street, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294582",
+      "photo_urls": []
+    },
+    {
+      "id": "294637",
+      "title": "Madrigal Residence Fence",
+      "latitude": 14.59286944,
+      "longitude": 120.971925,
+      "directions": "On Sta. Clara Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294637",
+      "photo_urls": []
+    },
+    {
+      "id": "294683",
+      "title": "Pag-aaklas ng Rehimyento ng Tayabas",
+      "latitude": 14.59424167,
+      "longitude": 120.97016111,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294683",
+      "photo_urls": []
+    },
+    {
+      "id": "294684",
+      "title": "Dambanang Rizal sa Fort Santiago",
+      "latitude": 14.59441389,
+      "longitude": 120.96999444,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294684",
+      "photo_urls": []
+    },
+    {
+      "id": "294696",
+      "title": "Knights of Columbus Manila Council No. 1000",
+      "latitude": 14.59110556,
+      "longitude": 120.97379167,
+      "directions": "On General Luna Street, Manila, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294696",
+      "photo_urls": []
+    },
+    {
+      "id": "294702",
+      "title": "Pambansang Aklatan ng Pilipinas / National Library of the Philippines",
+      "latitude": 14.5813,
+      "longitude": 120.97951389,
+      "directions": "Near 1000 Kalaw Avenue, Manila, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294702",
+      "photo_urls": []
+    },
+    {
+      "id": "294703",
+      "title": "Fort Santiago Honor Roll",
+      "latitude": 14.59332222,
+      "longitude": 120.970475,
+      "directions": "Near Fort Santiago, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294703",
+      "photo_urls": []
+    },
+    {
+      "id": "294950",
+      "title": "Teodoro M. Kalaw",
+      "latitude": 14.58128889,
+      "longitude": 120.97942222,
+      "directions": "Near 1000 Kalaw Avenue, Manila, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294950",
+      "photo_urls": []
+    },
+    {
+      "id": "62969",
+      "title": "In Memory of the Victims of Military Sexual Slavery during the Second World War",
+      "latitude": 14.59421037,
+      "longitude": 120.97881407,
+      "directions": "Near Taft Avenue, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=62969",
+      "photo_urls": []
+    },
+    {
+      "id": "63575",
+      "title": "General Jonathan M. Wainwright Memorial",
+      "latitude": 14.385434,
+      "longitude": 120.587799,
+      "directions": "Near Bottomside Tour Route, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63575",
+      "photo_urls": []
+    },
+    {
+      "id": "63618",
+      "title": "<i>Pook ng Bilangguang Kampo sa Los Baños</i>",
+      "latitude": 14.161771,
+      "longitude": 121.242494,
+      "directions": "Near Mangga Road, Los Baños, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63618",
+      "photo_urls": []
+    },
+    {
+      "id": "63619",
+      "title": "José Rizal Monument",
+      "latitude": 14.209806,
+      "longitude": 121.159293,
+      "directions": "On J.p. Rizal Street, Calamba, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63619",
+      "photo_urls": []
+    },
+    {
+      "id": "63620",
+      "title": "Leyte Landing/<i>Paglunsad sa Leyte</i>",
+      "latitude": 11.172186,
+      "longitude": 125.012089,
+      "directions": "Near Manlurip Road, near Palo City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63620",
+      "photo_urls": []
+    },
+    {
+      "id": "63648",
+      "title": "Malinta Tunnel",
+      "latitude": 14.387542,
+      "longitude": 120.589145,
+      "directions": "On Bottomside Tour Route, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63648",
+      "photo_urls": []
+    },
+    {
+      "id": "63652",
+      "title": "Corregidor",
+      "latitude": 14.387668,
+      "longitude": 120.587338,
+      "directions": "On , Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63652",
+      "photo_urls": []
+    },
+    {
+      "id": "64032",
+      "title": "To the Angels",
+      "latitude": 14.382781,
+      "longitude": 120.580471,
+      "directions": "On Middleside Tour Route, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64032",
+      "photo_urls": []
+    },
+    {
+      "id": "64039",
+      "title": "\"Tribute to the Brave Heroes\"",
+      "latitude": 14.388043,
+      "longitude": 120.59989,
+      "directions": "Near The Tail End Tour Route, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64039",
+      "photo_urls": []
+    },
+    {
+      "id": "64111",
+      "title": "\"For the Repose of Souls\"",
+      "latitude": 14.387533,
+      "longitude": 120.599923,
+      "directions": "On Tail End Tour Route, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64111",
+      "photo_urls": []
+    },
+    {
+      "id": "64200",
+      "title": "Antonio Pigafetta",
+      "latitude": 10.292142,
+      "longitude": 123.905784,
+      "directions": "On A. Pigafetta Street, Cebu City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64200",
+      "photo_urls": []
+    },
+    {
+      "id": "64224",
+      "title": "400 Years of Continuing OAR Presence",
+      "latitude": 10.293599,
+      "longitude": 123.906133,
+      "directions": "On A. Pigafetta Street, Cebu City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64224",
+      "photo_urls": []
+    },
+    {
+      "id": "64435",
+      "title": "Fort San Pedro",
+      "latitude": 10.292543,
+      "longitude": 123.905625,
+      "directions": "On A. Pigafetta Street, Cebu City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64435",
+      "photo_urls": []
+    },
+    {
+      "id": "64518",
+      "title": "Corregidor Lighthouse",
+      "latitude": 14.379271,
+      "longitude": 120.576931,
+      "directions": "Near the Topside Tour Trail, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64518",
+      "photo_urls": []
+    },
+    {
+      "id": "64666",
+      "title": "Filipino-Chinese World War II Martyrs Memorial",
+      "latitude": 14.600671,
+      "longitude": 120.97359,
+      "directions": "On Juan Luna Street, Manila, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64666",
+      "photo_urls": []
+    },
+    {
+      "id": "64787",
+      "title": "Spanish Historical Marker",
+      "latitude": 14.37844,
+      "longitude": 120.576834,
+      "directions": "On Topside Tour Trail, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64787",
+      "photo_urls": []
+    },
+    {
+      "id": "65459",
+      "title": "The Cross of Magellan",
+      "latitude": 10.293543,
+      "longitude": 123.90194,
+      "directions": "On Plaza Sugbo, Cebu City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65459",
+      "photo_urls": []
+    },
+    {
+      "id": "66173",
+      "title": "503rd Airborne- \"The Rock Force\" -Memorial",
+      "latitude": 14.380591,
+      "longitude": 120.574898,
+      "directions": "Near Topside Parade Ground, Corregidor Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=66173",
+      "photo_urls": []
+    },
+    {
+      "id": "68100",
+      "title": "Old West Gate",
+      "latitude": 14.817633,
+      "longitude": 120.283524,
+      "directions": "On Sampson Road, Olongapo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68100",
+      "photo_urls": []
+    },
+    {
+      "id": "68150",
+      "title": "Subic Bay Metropolitan Authority",
+      "latitude": 14.816947,
+      "longitude": 120.280548,
+      "directions": "On Waterfront Road, Olongapo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68150",
+      "photo_urls": []
+    },
+    {
+      "id": "68214",
+      "title": "<i>Inang Laya</i> Monument",
+      "latitude": 14.817035,
+      "longitude": 120.280371,
+      "directions": "On Waterfront Road, Olongapo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68214",
+      "photo_urls": []
+    },
+    {
+      "id": "68846",
+      "title": "The Hellships Memorial",
+      "latitude": 14.816745,
+      "longitude": 120.280867,
+      "directions": "On Waterfront Road, Olongapo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68846",
+      "photo_urls": []
+    },
+    {
+      "id": "72333",
+      "title": "University of Santo Tomas",
+      "latitude": 14.60981,
+      "longitude": 120.98947,
+      "directions": "On Plaza Major, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72333",
+      "photo_urls": []
+    },
+    {
+      "id": "72413",
+      "title": "The New Plaza San Lorenzo Ruiz",
+      "latitude": 14.600379,
+      "longitude": 120.973785,
+      "directions": "On Juan Luna Street, Manila, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72413",
+      "photo_urls": []
+    },
+    {
+      "id": "72731",
+      "title": "Santo Tomas Internment Camp",
+      "latitude": 14.609777,
+      "longitude": 120.989527,
+      "directions": "On Plaza Major, Manila, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72731",
+      "photo_urls": []
+    },
+    {
+      "id": "72769",
+      "title": "University of Santo Tomas",
+      "latitude": 14.609401,
+      "longitude": 120.989864,
+      "directions": "On UST&#39;s Plaza Mayor at Dr. José Rizal Lane, Manila, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72769",
+      "photo_urls": []
+    },
+    {
+      "id": "73079",
+      "title": "Manila American Cemetery and Memorial",
+      "latitude": 14.544045,
+      "longitude": 121.048597,
+      "directions": "On , Taguig, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73079",
+      "photo_urls": []
+    },
+    {
+      "id": "73353",
+      "title": "Col. John M. Stotsenburg - Maj. Harold M. Clark",
+      "latitude": 15.181992,
+      "longitude": 120.526787,
+      "directions": "Near S. Osmeña Street, near Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73353",
+      "photo_urls": []
+    },
+    {
+      "id": "97029",
+      "title": "World War ll Veterans",
+      "latitude": 15.660133,
+      "longitude": 120.766747,
+      "directions": "Near Afan Salvador Street, Guimba, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97029",
+      "photo_urls": []
+    }
+  ]
+}
