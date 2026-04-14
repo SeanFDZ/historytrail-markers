@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-14",
+  "run_id": 104,
+  "cycle_day": 20,
+  "regions_processed": [
+    "un-unk"
+  ],
+  "changes": {
+    "un-unk": {
+      "added": 70,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 1133,
+  "total_removed": 0,
+  "total_modified": 0
+}
