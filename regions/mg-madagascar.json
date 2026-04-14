@@ -1,0 +1,119 @@
+{
+  "region_id": "mg-madagascar",
+  "region_name": "Madagascar",
+  "region_type": "country",
+  "country": "Madagascar",
+  "generated": "2026-04-14T06:08:54.405Z",
+  "source_timestamp": "2026-04-14T06:08:54.405Z",
+  "marker_count": 12,
+  "markers": [
+    {
+      "id": "257385",
+      "title": "La Gare Antsirabe / Antsirabe Rail Station",
+      "latitude": -19.86476736,
+      "longitude": 47.03821349,
+      "directions": "On Grande Avenue, Antsirabe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=257385",
+      "photo_urls": []
+    },
+    {
+      "id": "257983",
+      "title": "Le Bazary Be",
+      "latitude": -18.15680095,
+      "longitude": 49.41516526,
+      "directions": "On Rue Amiral Billard, Toamasina, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=257983",
+      "photo_urls": []
+    },
+    {
+      "id": "258058",
+      "title": "Lapa Mahitsielafanjaka",
+      "latitude": -18.92379743,
+      "longitude": 47.53236882,
+      "directions": "Near Lalana Ramboatiana, Antananarivo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258058",
+      "photo_urls": []
+    },
+    {
+      "id": "258061",
+      "title": "Fiangonana",
+      "latitude": -18.92427504,
+      "longitude": 47.53177959,
+      "directions": "Near Lalana Ramboatiana, Antananarivo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258061",
+      "photo_urls": []
+    },
+    {
+      "id": "258078",
+      "title": "Translation of the Bible to Malagasy",
+      "latitude": -18.92391472,
+      "longitude": 47.5324345,
+      "directions": "Near Lalana Ramboatiana, Antananarivo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258078",
+      "photo_urls": []
+    },
+    {
+      "id": "258152",
+      "title": "Rova of Antananarivo",
+      "latitude": -18.92305835,
+      "longitude": 47.5321994,
+      "directions": "Near Lalana Ramboatiana, Antananarivo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258152",
+      "photo_urls": []
+    },
+    {
+      "id": "258157",
+      "title": "I - Rovan'antananarivo",
+      "latitude": -18.92267839,
+      "longitude": 47.53240908,
+      "directions": "On Lalana Ramboatiana, Antananarivo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258157",
+      "photo_urls": []
+    },
+    {
+      "id": "258257",
+      "title": "Soamandrakizay",
+      "latitude": -19.01047567,
+      "longitude": 47.83551421,
+      "directions": "On Route de Mantasoa, Mantasoa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258257",
+      "photo_urls": []
+    },
+    {
+      "id": "258644",
+      "title": "\"Jean Laborde\" Museum",
+      "latitude": -19.00921181,
+      "longitude": 47.83832075,
+      "directions": "On Route de Mantasoa via Manjakandriana, Mantasoa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258644",
+      "photo_urls": []
+    },
+    {
+      "id": "258766",
+      "title": "Mantasoa",
+      "latitude": -19.00956284,
+      "longitude": 47.83893743,
+      "directions": "On Route de Mantasoa via Manjakandriana, Mantasoa, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258766",
+      "photo_urls": []
+    },
+    {
+      "id": "258769",
+      "title": "Malagasy Soldiers Memorial",
+      "latitude": -18.91566676,
+      "longitude": 47.52167635,
+      "directions": "On Unnamed pathway, Antananarivo, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258769",
+      "photo_urls": []
+    },
+    {
+      "id": "261916",
+      "title": "Ny Lemak'i Betsimitatatra / Ny Farihin'anosy / Ny Toerana Misy Ireo Minisitera",
+      "latitude": -18.92433362,
+      "longitude": 47.53108531,
+      "directions": "On Lalana Ramboatiana, Antananarivo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261916",
+      "photo_urls": []
+    }
+  ]
+}
