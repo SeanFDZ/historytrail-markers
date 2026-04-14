@@ -1,0 +1,5033 @@
+{
+  "region_id": "es-spain",
+  "region_name": "Spain",
+  "region_type": "country",
+  "country": "Spain",
+  "generated": "2026-04-14T06:08:54.397Z",
+  "source_timestamp": "2026-04-14T06:08:54.397Z",
+  "marker_count": 558,
+  "markers": [
+    {
+      "id": "140431",
+      "title": "Memorial to the Victims of the Bombing of January 30, 1938",
+      "latitude": 41.38269637,
+      "longitude": 2.17540682,
+      "directions": "On Placeta de Manuel Ribé, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140431",
+      "photo_urls": []
+    },
+    {
+      "id": "140433",
+      "title": "The Debut of <i>Mariana Pineda</i> by Federico García Lorca",
+      "latitude": 41.38412632,
+      "longitude": 2.16419699,
+      "directions": "On Carrer de Joaquín Costa, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140433",
+      "photo_urls": []
+    },
+    {
+      "id": "140438",
+      "title": "Frederic Chopin",
+      "latitude": 41.3792498,
+      "longitude": 2.17514625,
+      "directions": "On La Rambla, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140438",
+      "photo_urls": []
+    },
+    {
+      "id": "140442",
+      "title": "Agustí Bartra i Lleonart",
+      "latitude": 41.37715497,
+      "longitude": 2.17681085,
+      "directions": "On Rambla de Santa Mònica, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140442",
+      "photo_urls": []
+    },
+    {
+      "id": "140444",
+      "title": "Hans Christian Andersen",
+      "latitude": 41.37978133,
+      "longitude": 2.17420519,
+      "directions": "On Rambla dels Caputxins, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140444",
+      "photo_urls": []
+    },
+    {
+      "id": "140464",
+      "title": "Memorial to the Victims of the Bombing of March 1938",
+      "latitude": 41.38134095,
+      "longitude": 2.16825485,
+      "directions": "On Carrer d&#39;Agustí Duran i Sanpere, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140464",
+      "photo_urls": []
+    },
+    {
+      "id": "140499",
+      "title": "Antoni Clavé i Sanmartí",
+      "latitude": 41.38298275,
+      "longitude": 2.16444519,
+      "directions": "On Carrer de Valldonzella, Barcelona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140499",
+      "photo_urls": []
+    },
+    {
+      "id": "140500",
+      "title": "Roberto Bolaño Ávalos",
+      "latitude": 41.38480435,
+      "longitude": 2.16807082,
+      "directions": "On Carrer dels Tallers, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140500",
+      "photo_urls": []
+    },
+    {
+      "id": "140580",
+      "title": "Miquel Llobet i Solés",
+      "latitude": 41.38280518,
+      "longitude": 2.17834758,
+      "directions": "On Plaça de Sant Just, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140580",
+      "photo_urls": []
+    },
+    {
+      "id": "140584",
+      "title": "Rómulo Gallegos",
+      "latitude": 41.3850678,
+      "longitude": 2.17065063,
+      "directions": "On La Rambla, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140584",
+      "photo_urls": []
+    },
+    {
+      "id": "140587",
+      "title": "Jaume Fuster Birthplace",
+      "latitude": 41.38485795,
+      "longitude": 2.16727225,
+      "directions": "On Carrer dels Tallers, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140587",
+      "photo_urls": []
+    },
+    {
+      "id": "140599",
+      "title": "\"La Solidaridad\"",
+      "latitude": 41.38381189,
+      "longitude": 2.16955788,
+      "directions": "On Plaça del Bonsuccés, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140599",
+      "photo_urls": []
+    },
+    {
+      "id": "140607",
+      "title": "Casal de Montserrat",
+      "latitude": 41.38463587,
+      "longitude": 2.17436356,
+      "directions": "On Carrer dels Arcs, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140607",
+      "photo_urls": []
+    },
+    {
+      "id": "140610",
+      "title": "Joaquim Serra i Corominas",
+      "latitude": 41.38323391,
+      "longitude": 2.16886829,
+      "directions": "On Carrer del Notariat, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140610",
+      "photo_urls": []
+    },
+    {
+      "id": "140616",
+      "title": "Antoni Tàpies i Puig",
+      "latitude": 41.38490449,
+      "longitude": 2.17287698,
+      "directions": "On Carrer de la Canuda, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140616",
+      "photo_urls": []
+    },
+    {
+      "id": "141072",
+      "title": "Maurici Serrahima i Bofill",
+      "latitude": 41.38263052,
+      "longitude": 2.17318631,
+      "directions": "On Carrer Petritxol, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141072",
+      "photo_urls": []
+    },
+    {
+      "id": "141075",
+      "title": "Josep Puiggarí i Llobet",
+      "latitude": 41.38249892,
+      "longitude": 2.17333179,
+      "directions": "On Carrer Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141075",
+      "photo_urls": []
+    },
+    {
+      "id": "141097",
+      "title": "Ramon Bech i Taberner",
+      "latitude": 41.38240554,
+      "longitude": 2.1734517,
+      "directions": "On Plaça del Pi, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141097",
+      "photo_urls": []
+    },
+    {
+      "id": "141098",
+      "title": "Joan Magriñà i Sanromà",
+      "latitude": 41.38258909,
+      "longitude": 2.17324264,
+      "directions": "On Carrer Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141098",
+      "photo_urls": []
+    },
+    {
+      "id": "141105",
+      "title": "Angel Guimerá",
+      "latitude": 41.38260123,
+      "longitude": 2.17324829,
+      "directions": "On Carrer de Petritxol, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141105",
+      "photo_urls": []
+    },
+    {
+      "id": "141107",
+      "title": "Montserrat Caballé",
+      "latitude": 41.38291584,
+      "longitude": 2.17279256,
+      "directions": "On Carrer de Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141107",
+      "photo_urls": []
+    },
+    {
+      "id": "141108",
+      "title": "Francesc Salva i Campillo (1751-1828)",
+      "latitude": 41.38291713,
+      "longitude": 2.17279013,
+      "directions": "On Carrer de Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141108",
+      "photo_urls": []
+    },
+    {
+      "id": "141117",
+      "title": "Lluís Millà i Reig (1921-2005)",
+      "latitude": 41.383264,
+      "longitude": 2.1724691,
+      "directions": "On Carrer de Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141117",
+      "photo_urls": []
+    },
+    {
+      "id": "141119",
+      "title": "Antoni Campillo i Matheu",
+      "latitude": 41.38320916,
+      "longitude": 2.17250689,
+      "directions": "On Carrer de Petritxol, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141119",
+      "photo_urls": []
+    },
+    {
+      "id": "141128",
+      "title": "Andreu Nin",
+      "latitude": 41.38436079,
+      "longitude": 2.17111282,
+      "directions": "On Rambla de Canaletes, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141128",
+      "photo_urls": []
+    },
+    {
+      "id": "141132",
+      "title": "Carles Pi i Sunyer",
+      "latitude": 41.38128213,
+      "longitude": 2.17294089,
+      "directions": "On Rambla de Sant Josep, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141132",
+      "photo_urls": []
+    },
+    {
+      "id": "141133",
+      "title": "Gustau A. Muñoz",
+      "latitude": 41.38189632,
+      "longitude": 2.17619467,
+      "directions": "On Carrer de Ferran, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141133",
+      "photo_urls": []
+    },
+    {
+      "id": "141136",
+      "title": "Josep Rodoreda i Santigós",
+      "latitude": 41.37993452,
+      "longitude": 2.17279758,
+      "directions": "On Carrer de Sant Pau, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141136",
+      "photo_urls": []
+    },
+    {
+      "id": "141138",
+      "title": "José Rizal (1861-1896)",
+      "latitude": 41.37994883,
+      "longitude": 2.17280593,
+      "directions": "On Carrer de Sant Pau, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141138",
+      "photo_urls": []
+    },
+    {
+      "id": "141161",
+      "title": "El Call: Placeta de Manuel Ribé",
+      "latitude": 41.3827105,
+      "longitude": 2.17543402,
+      "directions": "On Placeta de Manuel Ribé, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141161",
+      "photo_urls": []
+    },
+    {
+      "id": "141176",
+      "title": "Catalan Satire and Humor",
+      "latitude": 41.38158795,
+      "longitude": 2.17343024,
+      "directions": "On Carrer del Cardenal Casañas, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141176",
+      "photo_urls": []
+    },
+    {
+      "id": "141197",
+      "title": "Josep Anselm Clavé",
+      "latitude": 41.3784963,
+      "longitude": 2.1791042,
+      "directions": "On Plaça del Duc de Medinaceli, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141197",
+      "photo_urls": []
+    },
+    {
+      "id": "141206",
+      "title": "Sant Felip Neri Bombing Memorial",
+      "latitude": 41.38350029,
+      "longitude": 2.17501442,
+      "directions": "On Plaça de Sant Felip Neri, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141206",
+      "photo_urls": []
+    },
+    {
+      "id": "141210",
+      "title": "Scala Dei",
+      "latitude": 41.38352632,
+      "longitude": 2.17295743,
+      "directions": "On Carrer de la Portaferrissa, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141210",
+      "photo_urls": []
+    },
+    {
+      "id": "141479",
+      "title": "Collegi Sant Jordi / College of Sant Jordi",
+      "latitude": 41.38313756,
+      "longitude": 2.17586066,
+      "directions": "On Carrer de Sant Honorat, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141479",
+      "photo_urls": []
+    },
+    {
+      "id": "141496",
+      "title": "El Call: Carrer de Sant Honorat",
+      "latitude": 41.38298978,
+      "longitude": 2.17604375,
+      "directions": "On Carrer de Sant Honorat, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141496",
+      "photo_urls": []
+    },
+    {
+      "id": "141519",
+      "title": "El Torno / El Torn / The Foundling Wheel",
+      "latitude": 41.38418281,
+      "longitude": 2.16871328,
+      "directions": "On Carrer de les Ramelleres, Barcelona, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141519",
+      "photo_urls": []
+    },
+    {
+      "id": "141606",
+      "title": "The Aerial Bombing of the Plaza / El Bombardeo de la Plaza / El Bombardeig de la Plaça",
+      "latitude": 41.38326685,
+      "longitude": 2.17501587,
+      "directions": "On Carrer de Sant Felip Neri, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141606",
+      "photo_urls": []
+    },
+    {
+      "id": "141609",
+      "title": "Tablao Flamenco Cordobes",
+      "latitude": 41.37904656,
+      "longitude": 2.17487639,
+      "directions": "On La Rambla, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141609",
+      "photo_urls": []
+    },
+    {
+      "id": "142058",
+      "title": "Roman Wall and Defence Towers: Carrer Sots-tinent Navarro",
+      "latitude": 41.38358715,
+      "longitude": 2.17859055,
+      "directions": "On Carrer Sots-tinent Navarro, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142058",
+      "photo_urls": []
+    },
+    {
+      "id": "142063",
+      "title": "Roman Wall and Defense Towers: Carrer Baixada de Caçador",
+      "latitude": 41.38296031,
+      "longitude": 2.17918775,
+      "directions": "On Baixada de Caçador, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142063",
+      "photo_urls": []
+    },
+    {
+      "id": "142284",
+      "title": "Roman Tower: Plaça dels Traginers",
+      "latitude": 41.38193824,
+      "longitude": 2.17975237,
+      "directions": "On Plaça dels Traginers, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142284",
+      "photo_urls": []
+    },
+    {
+      "id": "142310",
+      "title": "Roman Wall and Defense Towers: Carrer del Correu Vell",
+      "latitude": 41.38155483,
+      "longitude": 2.17969363,
+      "directions": "On Carrer del Correu Vell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142310",
+      "photo_urls": []
+    },
+    {
+      "id": "142347",
+      "title": "Roman Aqueduct and Gate: Plaça Nova",
+      "latitude": 41.38403413,
+      "longitude": 2.17537386,
+      "directions": "On Carrer del Bisbe, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142347",
+      "photo_urls": []
+    },
+    {
+      "id": "142352",
+      "title": "El Call: Carrer de L'Arc de San Ramon del Call",
+      "latitude": 41.38219374,
+      "longitude": 2.17576981,
+      "directions": "On Carrer de l&#39;Arc de Sant Ramon del Call, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142352",
+      "photo_urls": []
+    },
+    {
+      "id": "142358",
+      "title": "El Call: Carrer de Sant Domènec",
+      "latitude": 41.38260261,
+      "longitude": 2.17588628,
+      "directions": "On Carrer de Sant Domènec del Call, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142358",
+      "photo_urls": []
+    },
+    {
+      "id": "142359",
+      "title": "El Call: Carrer de Sant Sever",
+      "latitude": 41.38303903,
+      "longitude": 2.17524509,
+      "directions": "On Carrer de Sant Sever, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142359",
+      "photo_urls": []
+    },
+    {
+      "id": "142379",
+      "title": "Roman Sepulchral Way and Vila de Madrid Square",
+      "latitude": 41.38440593,
+      "longitude": 2.17205159,
+      "directions": "On Plaça de la Vila de Madrid, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142379",
+      "photo_urls": []
+    },
+    {
+      "id": "142385",
+      "title": "El Call: Rabbi Samuel Ha-Sardi Stone",
+      "latitude": 41.38242054,
+      "longitude": 2.17553276,
+      "directions": "On Carrer de Marlet, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142385",
+      "photo_urls": []
+    },
+    {
+      "id": "143188",
+      "title": "Portaferrissa - La \"Porta Ferriça\" / Portaferrissa - The Iron Gate",
+      "latitude": 41.38304353,
+      "longitude": 2.17193484,
+      "directions": "On Carrer de la Portaferrissa, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143188",
+      "photo_urls": []
+    },
+    {
+      "id": "143215",
+      "title": "The Miracle of Saint Joseph Oriol",
+      "latitude": 41.38213758,
+      "longitude": 2.17431581,
+      "directions": "On Plaça de Sant Josep Oriol, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143215",
+      "photo_urls": []
+    },
+    {
+      "id": "163626",
+      "title": "US Navy Mediterranean Squadron and Navy Hospital in Port Mahon",
+      "latitude": 39.88353119,
+      "longitude": 4.28618158,
+      "directions": "Near Carrer de Agamenon, Es Castell, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=163626",
+      "photo_urls": []
+    },
+    {
+      "id": "195838",
+      "title": "Juan Valera y Alcalá-Galliano",
+      "latitude": 40.41923474,
+      "longitude": -3.7100024,
+      "directions": "On Cuesta de Santo Domingo, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=195838",
+      "photo_urls": []
+    },
+    {
+      "id": "195845",
+      "title": "Juan Pedro Arnal",
+      "latitude": 40.41401411,
+      "longitude": -3.70066459,
+      "directions": "On Calle de las Huertas, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=195845",
+      "photo_urls": []
+    },
+    {
+      "id": "195974",
+      "title": "Maria Canals i Cendrós",
+      "latitude": 41.39096075,
+      "longitude": 2.16980873,
+      "directions": "On Gran Via de les Corts Catalanes, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=195974",
+      "photo_urls": []
+    },
+    {
+      "id": "196035",
+      "title": "Madrona Clarina y Colomer",
+      "latitude": 41.38761662,
+      "longitude": 2.18106969,
+      "directions": "On Carrer d’en Tantarantana, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196035",
+      "photo_urls": []
+    },
+    {
+      "id": "196115",
+      "title": "Frederic Mompou i Dencausse",
+      "latitude": 41.39621498,
+      "longitude": 2.16041143,
+      "directions": "On Passeig de Gràcia, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196115",
+      "photo_urls": []
+    },
+    {
+      "id": "197227",
+      "title": "Victor Hugo",
+      "latitude": 40.42021788,
+      "longitude": -3.69953956,
+      "directions": "On Calle de la Reina, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197227",
+      "photo_urls": []
+    },
+    {
+      "id": "197255",
+      "title": "Fidel Pagés Miravé",
+      "latitude": 40.42047778,
+      "longitude": -3.69876389,
+      "directions": "On Calle de las Infantas, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197255",
+      "photo_urls": []
+    },
+    {
+      "id": "197257",
+      "title": "Enrique Jardiel Poncela",
+      "latitude": 40.42006944,
+      "longitude": -3.69769444,
+      "directions": "On Calle de las Infantas, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197257",
+      "photo_urls": []
+    },
+    {
+      "id": "197318",
+      "title": "Real Academia Española / Royal Spanish Academy",
+      "latitude": 40.41806504,
+      "longitude": -3.70659808,
+      "directions": "On Calle de San Martín, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197318",
+      "photo_urls": []
+    },
+    {
+      "id": "197321",
+      "title": "María de Austria / Maria of Austria",
+      "latitude": 40.41831643,
+      "longitude": -3.70645623,
+      "directions": "On Plaza de las Descalzas, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197321",
+      "photo_urls": []
+    },
+    {
+      "id": "197323",
+      "title": "Juan Gris",
+      "latitude": 40.41760143,
+      "longitude": -3.70353917,
+      "directions": "On Calle de Tetuán, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197323",
+      "photo_urls": []
+    },
+    {
+      "id": "197328",
+      "title": "Juan Prim y Prats",
+      "latitude": 40.41855268,
+      "longitude": -3.69568217,
+      "directions": "On Calle del Marqués de Cubas, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197328",
+      "photo_urls": []
+    },
+    {
+      "id": "197345",
+      "title": "Gioachino Rossini",
+      "latitude": 40.42022003,
+      "longitude": -3.6998178,
+      "directions": "On Calle de la Reina, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197345",
+      "photo_urls": []
+    },
+    {
+      "id": "197349",
+      "title": "Hans Christian Andersen",
+      "latitude": 40.41649553,
+      "longitude": -3.70475667,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197349",
+      "photo_urls": []
+    },
+    {
+      "id": "197354",
+      "title": "Monasterio de San Felipe",
+      "latitude": 40.41649908,
+      "longitude": -3.7046067,
+      "directions": "On Calle Mayor, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197354",
+      "photo_urls": []
+    },
+    {
+      "id": "197357",
+      "title": "Félix Lope de Vega",
+      "latitude": 40.41592753,
+      "longitude": -3.70910341,
+      "directions": "On Calle Mayor, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197357",
+      "photo_urls": []
+    },
+    {
+      "id": "197362",
+      "title": "La Audiència Provincial / La Audiencia Provincial / The Provincial Court",
+      "latitude": 41.11808121,
+      "longitude": 1.25502692,
+      "directions": "On Plaça del Pallol, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197362",
+      "photo_urls": []
+    },
+    {
+      "id": "197508",
+      "title": "Teresa Claramunt Creus",
+      "latitude": 41.37810959,
+      "longitude": 2.16728763,
+      "directions": "On Carrer de l&#39;Aurora, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197508",
+      "photo_urls": []
+    },
+    {
+      "id": "197509",
+      "title": "Teatro Circo Price",
+      "latitude": 40.42042683,
+      "longitude": -3.69606581,
+      "directions": "On Plaza del Rey, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197509",
+      "photo_urls": []
+    },
+    {
+      "id": "197546",
+      "title": "El Club Gimnastic de Tarragona",
+      "latitude": 41.11530651,
+      "longitude": 1.25269895,
+      "directions": "On Rambla Nova, Tarragona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197546",
+      "photo_urls": []
+    },
+    {
+      "id": "197550",
+      "title": "Santa María Micaela (Madre Sacramento)",
+      "latitude": 40.42081862,
+      "longitude": -3.69736274,
+      "directions": "On Calle de la Libertad, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197550",
+      "photo_urls": []
+    },
+    {
+      "id": "197578",
+      "title": "Doña María de Miranda",
+      "latitude": 40.42183233,
+      "longitude": -3.70187567,
+      "directions": "On Calle de Valverde, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197578",
+      "photo_urls": []
+    },
+    {
+      "id": "197586",
+      "title": "Puerta de Segovia",
+      "latitude": 40.41383536,
+      "longitude": -3.71586913,
+      "directions": "On Calle de Segovia, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197586",
+      "photo_urls": []
+    },
+    {
+      "id": "197594",
+      "title": "Francisco de Quevedo",
+      "latitude": 40.41853333,
+      "longitude": -3.70703889,
+      "directions": "On Plaza de San Martín, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197594",
+      "photo_urls": []
+    },
+    {
+      "id": "197603",
+      "title": "Josep Palau i Fabre",
+      "latitude": 41.39566956,
+      "longitude": 2.1675066,
+      "directions": "On Carrer del Bruc, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197603",
+      "photo_urls": []
+    },
+    {
+      "id": "197616",
+      "title": "Francesc Boix i Campo",
+      "latitude": 41.37382439,
+      "longitude": 2.1636979,
+      "directions": "On Carrer de Margarit, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197616",
+      "photo_urls": []
+    },
+    {
+      "id": "197638",
+      "title": "Manuel Vázquez Montalbán",
+      "latitude": 41.37892802,
+      "longitude": 2.1659045,
+      "directions": "On Carrer d&#39;En Botella, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197638",
+      "photo_urls": []
+    },
+    {
+      "id": "197644",
+      "title": "Lluís Gassó i Carbonell",
+      "latitude": 41.37892873,
+      "longitude": 2.16835957,
+      "directions": "On Carrer de l&#39;Aurora, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197644",
+      "photo_urls": []
+    },
+    {
+      "id": "197646",
+      "title": "Pere Pruna",
+      "latitude": 41.38019824,
+      "longitude": 2.17469537,
+      "directions": "Near Plaça Reial, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197646",
+      "photo_urls": []
+    },
+    {
+      "id": "197660",
+      "title": "Ocaña",
+      "latitude": 41.380037,
+      "longitude": 2.1758318,
+      "directions": "Near Plaça Reial, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197660",
+      "photo_urls": []
+    },
+    {
+      "id": "197664",
+      "title": "Lyceum Club de Barcelona",
+      "latitude": 41.38600725,
+      "longitude": 2.17589587,
+      "directions": "On Via Laietana, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197664",
+      "photo_urls": []
+    },
+    {
+      "id": "197666",
+      "title": "Hotel Florida",
+      "latitude": 40.4198822,
+      "longitude": -3.70553774,
+      "directions": "On Plaza del Callao, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197666",
+      "photo_urls": []
+    },
+    {
+      "id": "197668",
+      "title": "Lyceum Club Femenino / Women's Lyceum Club",
+      "latitude": 40.42027694,
+      "longitude": -3.69639856,
+      "directions": "On Plaza del Rey, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197668",
+      "photo_urls": []
+    },
+    {
+      "id": "197670",
+      "title": "Francisco Asenjo Barbieri",
+      "latitude": 40.41999523,
+      "longitude": -3.69635544,
+      "directions": "On Plaza del Rey, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197670",
+      "photo_urls": []
+    },
+    {
+      "id": "197791",
+      "title": "Maria Aurèlia Capmany",
+      "latitude": 41.39120616,
+      "longitude": 2.1629769,
+      "directions": "On Rambla de Catalunya, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197791",
+      "photo_urls": []
+    },
+    {
+      "id": "197792",
+      "title": "Albert Einstein",
+      "latitude": 41.38893933,
+      "longitude": 2.14931437,
+      "directions": "On Carrer del Comte d&#39;Urgell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197792",
+      "photo_urls": []
+    },
+    {
+      "id": "197802",
+      "title": "\"Frascuelo\"",
+      "latitude": 40.41760426,
+      "longitude": -3.70761443,
+      "directions": "On Calle del Arenal, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197802",
+      "photo_urls": []
+    },
+    {
+      "id": "197814",
+      "title": "Eduardo Chicharro",
+      "latitude": 40.42108933,
+      "longitude": -3.69885048,
+      "directions": "On Calle de San Bartolomé, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197814",
+      "photo_urls": []
+    },
+    {
+      "id": "197818",
+      "title": "Angel Martín Pompey",
+      "latitude": 40.42081292,
+      "longitude": -3.69897882,
+      "directions": "On Plaza de Pedro Zerolo, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197818",
+      "photo_urls": []
+    },
+    {
+      "id": "197820",
+      "title": "Ana de Mendoza y la Cerda",
+      "latitude": 40.41546618,
+      "longitude": -3.71306216,
+      "directions": "On Calle de la Almudena, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197820",
+      "photo_urls": []
+    },
+    {
+      "id": "197825",
+      "title": "Ricardo Villa",
+      "latitude": 40.41564229,
+      "longitude": -3.70861177,
+      "directions": "On Travesía de Bringas, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197825",
+      "photo_urls": []
+    },
+    {
+      "id": "197853",
+      "title": "Bar Chicote",
+      "latitude": 40.41967799,
+      "longitude": -3.69899347,
+      "directions": "On Calle Gran Vía, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197853",
+      "photo_urls": []
+    },
+    {
+      "id": "197858",
+      "title": "Els calabossos del Castell / The Castle Dungeons / Los Calabozos del Castillo",
+      "latitude": 41.36300698,
+      "longitude": 2.16638347,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197858",
+      "photo_urls": []
+    },
+    {
+      "id": "197866",
+      "title": "Tete Montoliu",
+      "latitude": 41.38787666,
+      "longitude": 2.15761503,
+      "directions": "On Carrer de Muntaner, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197866",
+      "photo_urls": []
+    },
+    {
+      "id": "197906",
+      "title": "Conrad Miret i Musté",
+      "latitude": 41.38888684,
+      "longitude": 2.15884206,
+      "directions": "On Carrer d&#39;Aribau, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197906",
+      "photo_urls": []
+    },
+    {
+      "id": "197915",
+      "title": "fotògrafs Napoleon",
+      "latitude": 41.37800173,
+      "longitude": 2.17622903,
+      "directions": "On La Rambla, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197915",
+      "photo_urls": []
+    },
+    {
+      "id": "197929",
+      "title": "Puerta de Guadalaxara / Guadalajara Gate",
+      "latitude": 40.41578871,
+      "longitude": -3.70916389,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197929",
+      "photo_urls": []
+    },
+    {
+      "id": "197931",
+      "title": "Ramón de Mesonero Romanos",
+      "latitude": 40.41958414,
+      "longitude": -3.7030598,
+      "directions": "On Calle de la Salud, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197931",
+      "photo_urls": []
+    },
+    {
+      "id": "197958",
+      "title": "Santiago Bonavia",
+      "latitude": 40.41834816,
+      "longitude": -3.69712682,
+      "directions": "On Calle de Alcalá, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197958",
+      "photo_urls": []
+    },
+    {
+      "id": "197961",
+      "title": "Jaime Marquet",
+      "latitude": 40.41831997,
+      "longitude": -3.69726235,
+      "directions": "On Calle de Alcalá, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197961",
+      "photo_urls": []
+    },
+    {
+      "id": "197963",
+      "title": "Mercè Plantada (1892 - 1976)",
+      "latitude": 41.38734201,
+      "longitude": 2.17286935,
+      "directions": "On Carrer de les Moles, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197963",
+      "photo_urls": []
+    },
+    {
+      "id": "197972",
+      "title": "Josep Samitier i Vilalta",
+      "latitude": 41.38793687,
+      "longitude": 2.15113096,
+      "directions": "On Carrer del Comte d&#39;Urgell, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197972",
+      "photo_urls": []
+    },
+    {
+      "id": "197974",
+      "title": "Emili Mira i López",
+      "latitude": 41.38969054,
+      "longitude": 2.16509835,
+      "directions": "On Rambla de Catalunya, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197974",
+      "photo_urls": []
+    },
+    {
+      "id": "197978",
+      "title": "Teodoro Moscoso",
+      "latitude": 41.39300679,
+      "longitude": 2.16116954,
+      "directions": "On Rambla de Catalunya, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197978",
+      "photo_urls": []
+    },
+    {
+      "id": "197997",
+      "title": "Josep M. Lopez-Pico",
+      "latitude": 41.39464121,
+      "longitude": 2.15832643,
+      "directions": "On Rambla de Catalunya, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197997",
+      "photo_urls": []
+    },
+    {
+      "id": "198022",
+      "title": "Joan Giné i Partagàs",
+      "latitude": 41.3948376,
+      "longitude": 2.15857208,
+      "directions": "On Rambla de Catalunya, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198022",
+      "photo_urls": []
+    },
+    {
+      "id": "198027",
+      "title": "Félix Lope de Vega",
+      "latitude": 40.41905429,
+      "longitude": -3.69671342,
+      "directions": "On Calle de Alcalá, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198027",
+      "photo_urls": []
+    },
+    {
+      "id": "198056",
+      "title": "Teatro Apolo",
+      "latitude": 40.41908405,
+      "longitude": -3.69636074,
+      "directions": "On Calle de Alcalá, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198056",
+      "photo_urls": []
+    },
+    {
+      "id": "198057",
+      "title": "3 de març de 1976 / 3 de marzo de 1976 / March 3rd, 1976",
+      "latitude": 41.11563545,
+      "longitude": 1.25243117,
+      "directions": "On Rambla Nova, Tarragona, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198057",
+      "photo_urls": []
+    },
+    {
+      "id": "198068",
+      "title": "José del Castillo",
+      "latitude": 40.41717381,
+      "longitude": -3.71172367,
+      "directions": "On Plaza de Ramales, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198068",
+      "photo_urls": []
+    },
+    {
+      "id": "198070",
+      "title": "Església de Sant Agustí / Church of Saint Augustine",
+      "latitude": 41.11609811,
+      "longitude": 1.25554493,
+      "directions": "On Rambla Vella, Tarragona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198070",
+      "photo_urls": []
+    },
+    {
+      "id": "198135",
+      "title": "Banco Bilbao Vizcaya",
+      "latitude": 40.41911166,
+      "longitude": -3.69634541,
+      "directions": "On Calle de Alcalá, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198135",
+      "photo_urls": []
+    },
+    {
+      "id": "198139",
+      "title": "El 43 de la Via Laietana / 43, Via Laietana",
+      "latitude": 41.38638096,
+      "longitude": 2.17542895,
+      "directions": "On Via Laietana, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198139",
+      "photo_urls": []
+    },
+    {
+      "id": "198150",
+      "title": "El Club Gimnastic",
+      "latitude": 41.11397681,
+      "longitude": 1.25552738,
+      "directions": "On Rambla Nova, Tarragona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198150",
+      "photo_urls": []
+    },
+    {
+      "id": "198160",
+      "title": "Torre d'en Tintorer / Dyer's Tower",
+      "latitude": 41.11801739,
+      "longitude": 1.25394205,
+      "directions": "On Via del Imperio Roma, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198160",
+      "photo_urls": []
+    },
+    {
+      "id": "198163",
+      "title": "LaSal bar-biblioteca feminista / LaSal feminist bar-library",
+      "latitude": 41.37855431,
+      "longitude": 2.16774255,
+      "directions": "On Carrer de la Riereta, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198163",
+      "photo_urls": []
+    },
+    {
+      "id": "198191",
+      "title": "Carmen Laforet",
+      "latitude": 41.38737171,
+      "longitude": 2.16101468,
+      "directions": "On Carrer d&#39;Aribau, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198191",
+      "photo_urls": []
+    },
+    {
+      "id": "198203",
+      "title": "Casa Ximenis",
+      "latitude": 41.11820129,
+      "longitude": 1.25447193,
+      "directions": "On Via del Imperio Roma, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198203",
+      "photo_urls": []
+    },
+    {
+      "id": "198214",
+      "title": "August Pi i Sunyer",
+      "latitude": 41.39163001,
+      "longitude": 2.17564713,
+      "directions": "On Carrer de Girona, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198214",
+      "photo_urls": []
+    },
+    {
+      "id": "198745",
+      "title": "Miguel de Cervantes",
+      "latitude": 40.41383439,
+      "longitude": -3.70013363,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198745",
+      "photo_urls": []
+    },
+    {
+      "id": "198881",
+      "title": "Estadio de Montjuïc / Estadi de Montjuïc / Montjuïc Stadium",
+      "latitude": 41.36606111,
+      "longitude": 2.15596111,
+      "directions": "On Avinguda de l&#39;Estadi, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198881",
+      "photo_urls": []
+    },
+    {
+      "id": "198888",
+      "title": "Xuixo",
+      "latitude": 41.9846887,
+      "longitude": 2.82492694,
+      "directions": "On Carrer de la Cort Reial, Girona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198888",
+      "photo_urls": []
+    },
+    {
+      "id": "198921",
+      "title": "Rafael Masó i Valentí",
+      "latitude": 41.98606194,
+      "longitude": 2.82479344,
+      "directions": "On Carrer de les Ballesteries, Girona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198921",
+      "photo_urls": []
+    },
+    {
+      "id": "198923",
+      "title": "Frederic Mompou",
+      "latitude": 41.37477132,
+      "longitude": 2.16786218,
+      "directions": "On Carrer d&#39;En Fontrodona, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198923",
+      "photo_urls": []
+    },
+    {
+      "id": "198959",
+      "title": "Miquel de Palol i Felip",
+      "latitude": 41.98464798,
+      "longitude": 2.82496591,
+      "directions": "On Carrer de la Cort Reial, Girona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198959",
+      "photo_urls": []
+    },
+    {
+      "id": "198964",
+      "title": "Joachim Vayreda i Vila",
+      "latitude": 41.98598634,
+      "longitude": 2.82520567,
+      "directions": "On Carrer de la Força, Girona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198964",
+      "photo_urls": []
+    },
+    {
+      "id": "198968",
+      "title": "\"Jacometrezo\"",
+      "latitude": 40.41993036,
+      "longitude": -3.70280508,
+      "directions": "On Calle Gran Vía, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198968",
+      "photo_urls": []
+    },
+    {
+      "id": "198990",
+      "title": "Asociación Española de Cooperación Europea",
+      "latitude": 40.4206452,
+      "longitude": -3.70681994,
+      "directions": "On Calle Gran Vía, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=198990",
+      "photo_urls": []
+    },
+    {
+      "id": "199058",
+      "title": "Puerta de Valnadú / Valnadú Gate",
+      "latitude": 40.4177002,
+      "longitude": -3.71061964,
+      "directions": "On Calle de Vergara, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199058",
+      "photo_urls": []
+    },
+    {
+      "id": "199063",
+      "title": "Casa del Cambrer / House of the Steward",
+      "latitude": 41.11880234,
+      "longitude": 1.25760756,
+      "directions": "On Pla de la Seu, Tarragona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199063",
+      "photo_urls": []
+    },
+    {
+      "id": "199069",
+      "title": "Monestir de Sant Pere de les Puelles",
+      "latitude": 41.38966437,
+      "longitude": 2.17884922,
+      "directions": "On Plaça de Sant Pere, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199069",
+      "photo_urls": []
+    },
+    {
+      "id": "199071",
+      "title": "La Prisión de Reina Amalia / La presó de Reina Amàlia / Reina Amalia Prison",
+      "latitude": 41.3765138,
+      "longitude": 2.16630797,
+      "directions": "On Ronda de Sant Pau, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199071",
+      "photo_urls": []
+    },
+    {
+      "id": "199086",
+      "title": "Jorge Luis Borges",
+      "latitude": 40.41723871,
+      "longitude": -3.70366389,
+      "directions": "On Calle del Carmen, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199086",
+      "photo_urls": []
+    },
+    {
+      "id": "199088",
+      "title": "\"Amador\"",
+      "latitude": 40.41720833,
+      "longitude": -3.70341389,
+      "directions": "On Calle del Carmen, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199088",
+      "photo_urls": []
+    },
+    {
+      "id": "199093",
+      "title": "Carles G. Vidiella",
+      "latitude": 41.3920159,
+      "longitude": 2.16828592,
+      "directions": "On Carrer de Pau Claris, Barcelona, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199093",
+      "photo_urls": []
+    },
+    {
+      "id": "199151",
+      "title": "Sor Marcela de San Félix",
+      "latitude": 40.41335268,
+      "longitude": -3.69728142,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199151",
+      "photo_urls": []
+    },
+    {
+      "id": "199156",
+      "title": "Col·legi Jaume I / College of James I",
+      "latitude": 41.11931905,
+      "longitude": 1.26037538,
+      "directions": "On Carrer de l&#39;Escorxador, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199156",
+      "photo_urls": []
+    },
+    {
+      "id": "199172",
+      "title": "Amado Nervo",
+      "latitude": 40.41997723,
+      "longitude": -3.71275018,
+      "directions": "On Calle de Bailén, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199172",
+      "photo_urls": []
+    },
+    {
+      "id": "199173",
+      "title": "Elena Fortún",
+      "latitude": 40.41353333,
+      "longitude": -3.6981,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199173",
+      "photo_urls": []
+    },
+    {
+      "id": "199182",
+      "title": "Francisco de Rojas Zorilla",
+      "latitude": 40.41417317,
+      "longitude": -3.7013296,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199182",
+      "photo_urls": []
+    },
+    {
+      "id": "199183",
+      "title": "Caños del Peral",
+      "latitude": 40.41816986,
+      "longitude": -3.70902088,
+      "directions": "On Plaza de Isabel II, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199183",
+      "photo_urls": []
+    },
+    {
+      "id": "199188",
+      "title": "Antoni Rovira i Virgili",
+      "latitude": 41.11773619,
+      "longitude": 1.25692049,
+      "directions": "On Carrer Major, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199188",
+      "photo_urls": []
+    },
+    {
+      "id": "199190",
+      "title": "Glorieta de la Transsexual Sonia / Bandstand Dedicated to the Transsexual Sonia",
+      "latitude": 41.38919149,
+      "longitude": 2.18609405,
+      "directions": "Near , Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199190",
+      "photo_urls": []
+    },
+    {
+      "id": "199194",
+      "title": "The Murder of Sònia Rescalvo Zafra",
+      "latitude": 41.38908703,
+      "longitude": 2.18607333,
+      "directions": "Near , Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199194",
+      "photo_urls": []
+    },
+    {
+      "id": "199237",
+      "title": "Ramon Trias i Fargas",
+      "latitude": 41.39040004,
+      "longitude": 2.16410275,
+      "directions": "On Rambla de Catalunya, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199237",
+      "photo_urls": []
+    },
+    {
+      "id": "199238",
+      "title": "Ateneo de Madrid / Athenaeum of Madrid",
+      "latitude": 40.41398313,
+      "longitude": -3.70279866,
+      "directions": "On Calle de Atocha, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199238",
+      "photo_urls": []
+    },
+    {
+      "id": "199239",
+      "title": "Carmen Bravo-Villasante",
+      "latitude": 40.41944666,
+      "longitude": -3.71107346,
+      "directions": "On Calle de Arrieta, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199239",
+      "photo_urls": []
+    },
+    {
+      "id": "199241",
+      "title": "Ratón Pérez",
+      "latitude": 40.41734352,
+      "longitude": -3.70545481,
+      "directions": "On Calle de Tetuan, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199241",
+      "photo_urls": []
+    },
+    {
+      "id": "199442",
+      "title": "Antonio Martí y Franqués",
+      "latitude": 41.11720834,
+      "longitude": 1.25844177,
+      "directions": "On Carrer de Santa Anna, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199442",
+      "photo_urls": []
+    },
+    {
+      "id": "199453",
+      "title": "Ramon Font i Miquel (1840-1901)",
+      "latitude": 41.9864578,
+      "longitude": 2.82542099,
+      "directions": "On Pujada de la Catedral, Girona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199453",
+      "photo_urls": []
+    },
+    {
+      "id": "199466",
+      "title": "José Zorrilla y Moral",
+      "latitude": 40.41384761,
+      "longitude": -3.69970283,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199466",
+      "photo_urls": []
+    },
+    {
+      "id": "199504",
+      "title": "Ricardo Becerro de Bengoa",
+      "latitude": 40.41339223,
+      "longitude": -3.69788317,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199504",
+      "photo_urls": []
+    },
+    {
+      "id": "199506",
+      "title": "Urquinaona: la plaza del trabajo precario / la plaça del treball precari / Square of Precarious Work",
+      "latitude": 41.38896478,
+      "longitude": 2.17258746,
+      "directions": "On Plaça d&#39;Urquinaona, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199506",
+      "photo_urls": []
+    },
+    {
+      "id": "199515",
+      "title": "Puerta de Xagra / Xagra Gate",
+      "latitude": 40.41709124,
+      "longitude": -3.71273249,
+      "directions": "On Calle de Rebeque, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199515",
+      "photo_urls": []
+    },
+    {
+      "id": "199517",
+      "title": "Escola de La Salle / La Salle School",
+      "latitude": 41.11934182,
+      "longitude": 1.24626373,
+      "directions": "On Plaça de la Imperial Tàrraco, Tarragona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199517",
+      "photo_urls": []
+    },
+    {
+      "id": "199518",
+      "title": "Eugenio D'Ors",
+      "latitude": 41.38622736,
+      "longitude": 2.17252402,
+      "directions": "On Carrer Comtal, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199518",
+      "photo_urls": []
+    },
+    {
+      "id": "200954",
+      "title": "Julian Gayarre",
+      "latitude": 40.41858267,
+      "longitude": -3.71120027,
+      "directions": "On Plaza de Oriente, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200954",
+      "photo_urls": []
+    },
+    {
+      "id": "201112",
+      "title": "El 2 de Mayo de 1808",
+      "latitude": 40.4186926,
+      "longitude": -3.71324014,
+      "directions": "On Calle de Bailén, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201112",
+      "photo_urls": []
+    },
+    {
+      "id": "201246",
+      "title": "Juan Bautista Sachetti",
+      "latitude": 40.41771922,
+      "longitude": -3.71147758,
+      "directions": "On Plaza de Oriente, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201246",
+      "photo_urls": []
+    },
+    {
+      "id": "201254",
+      "title": "Eugenio d'Ors",
+      "latitude": 40.41416475,
+      "longitude": -3.71045575,
+      "directions": "On Calle del Cordón, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201254",
+      "photo_urls": []
+    },
+    {
+      "id": "201255",
+      "title": "General Don Mariano Alvarez de Castro",
+      "latitude": 41.98746645,
+      "longitude": 2.82510618,
+      "directions": "On Carrer de la Força, Girona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201255",
+      "photo_urls": []
+    },
+    {
+      "id": "201256",
+      "title": "La Gran Eixida Filològica / La Gran Expedición Filológica / The Grand Philological Expedition",
+      "latitude": 41.37558056,
+      "longitude": 2.17875833,
+      "directions": "On Carrer de Circumvallacio Tram Dos, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201256",
+      "photo_urls": []
+    },
+    {
+      "id": "201566",
+      "title": "Monument als Herois de 1811",
+      "latitude": 41.11653457,
+      "longitude": 1.25066042,
+      "directions": "On Rambla Nova, Tarragona, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201566",
+      "photo_urls": []
+    },
+    {
+      "id": "201595",
+      "title": "Estanislau Figueres i Moragues",
+      "latitude": 41.11803741,
+      "longitude": 1.25498314,
+      "directions": "On Plaça del Pallol, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201595",
+      "photo_urls": []
+    },
+    {
+      "id": "201598",
+      "title": "Fray Francisco Iglesias i Doménech",
+      "latitude": 41.11823868,
+      "longitude": 1.25765516,
+      "directions": "On Carrer de la Merceria, Tarragona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201598",
+      "photo_urls": []
+    },
+    {
+      "id": "201620",
+      "title": "Bonaventura Hernández i Sanahuja",
+      "latitude": 41.11820871,
+      "longitude": 1.25775419,
+      "directions": "On Carrer de la Merceria, Tarragona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201620",
+      "photo_urls": []
+    },
+    {
+      "id": "201623",
+      "title": "Antic Escorxador / Old Slaughterhouse",
+      "latitude": 41.11950466,
+      "longitude": 1.26050221,
+      "directions": "On Carrer de l&#39;Escorxador, Tarragona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201623",
+      "photo_urls": []
+    },
+    {
+      "id": "201627",
+      "title": "Antic Hostal de la Lleona / Old Hostel of the Lion",
+      "latitude": 41.98792333,
+      "longitude": 2.82411678,
+      "directions": "On Placa de Sant Feliu, Girona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201627",
+      "photo_urls": []
+    },
+    {
+      "id": "201661",
+      "title": "Gun law and the murders of Salvador Seguí and Francesc Comas",
+      "latitude": 41.37914249,
+      "longitude": 2.16926545,
+      "directions": "On Rambla del Raval, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201661",
+      "photo_urls": []
+    },
+    {
+      "id": "201672",
+      "title": "El Taller dels Rusiñol i Clarasó / The workshop of Rusiñol and Clarasó",
+      "latitude": 41.38593711,
+      "longitude": 2.16051753,
+      "directions": "On Carrer de Muntaner, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201672",
+      "photo_urls": []
+    },
+    {
+      "id": "202065",
+      "title": "Torre Galatea",
+      "latitude": 42.26828333,
+      "longitude": 2.95879167,
+      "directions": "On Pujada del Castell, Figueres, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202065",
+      "photo_urls": []
+    },
+    {
+      "id": "202073",
+      "title": "Torre Galatea i Casa Gorgot",
+      "latitude": 42.26791048,
+      "longitude": 2.95916505,
+      "directions": "On Pujada del Castell, Figueres, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202073",
+      "photo_urls": []
+    },
+    {
+      "id": "202094",
+      "title": "Miquel Llobet",
+      "latitude": 41.38634404,
+      "longitude": 2.17581419,
+      "directions": "On Carrer de Sant Pere Més Baix, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202094",
+      "photo_urls": []
+    },
+    {
+      "id": "202098",
+      "title": "Miquel Coll i Alentorn",
+      "latitude": 41.38801457,
+      "longitude": 2.17222115,
+      "directions": "On Carrer de Fontanella, Barcelona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202098",
+      "photo_urls": []
+    },
+    {
+      "id": "202100",
+      "title": "Ramon Perera and Manuel Muñoz",
+      "latitude": 41.37143031,
+      "longitude": 2.16661227,
+      "directions": "On Carrer Nou de la Rambla, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202100",
+      "photo_urls": []
+    },
+    {
+      "id": "202127",
+      "title": "El baluard de Sant Carles / The Sant Carles Bastion / El baluarte de Sant Carles",
+      "latitude": 41.36329479,
+      "longitude": 2.16730266,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202127",
+      "photo_urls": []
+    },
+    {
+      "id": "202148",
+      "title": "Los II Juegos del Mediterraneo / The Second Mediterranean Games",
+      "latitude": 41.36598618,
+      "longitude": 2.15542403,
+      "directions": "On Avinguda de l&#39;Estadi, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202148",
+      "photo_urls": []
+    },
+    {
+      "id": "202156",
+      "title": "La torre de guaita / The Watchtower / La torre vigia / La tour de guet",
+      "latitude": 41.36356386,
+      "longitude": 2.16658653,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202156",
+      "photo_urls": []
+    },
+    {
+      "id": "202246",
+      "title": "Lluís Companys",
+      "latitude": 41.39158042,
+      "longitude": 2.1707181,
+      "directions": "On Gran Via de les Corts Catalanes, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202246",
+      "photo_urls": []
+    },
+    {
+      "id": "202260",
+      "title": "La Primera Iglesia de Santa Maria / First Church of Santa Maria",
+      "latitude": 40.41520413,
+      "longitude": -3.71300766,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202260",
+      "photo_urls": []
+    },
+    {
+      "id": "202271",
+      "title": "Juan Escobedo",
+      "latitude": 40.41522849,
+      "longitude": -3.71303017,
+      "directions": "On Calle de la Almudena, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202271",
+      "photo_urls": []
+    },
+    {
+      "id": "202283",
+      "title": "Doña Mariana de Austria",
+      "latitude": 40.41501316,
+      "longitude": -3.71293275,
+      "directions": "On Calle Mayor, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202283",
+      "photo_urls": []
+    },
+    {
+      "id": "202412",
+      "title": "Diego Velázquez (1599 - 1660)",
+      "latitude": 40.4170637,
+      "longitude": -3.71153085,
+      "directions": "On Calle de Vergara, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202412",
+      "photo_urls": []
+    },
+    {
+      "id": "202415",
+      "title": "Tomas Breton",
+      "latitude": 40.41925616,
+      "longitude": -3.70914079,
+      "directions": "On Calle de Campomanes, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202415",
+      "photo_urls": []
+    },
+    {
+      "id": "202416",
+      "title": "Las Monarcas Trastámara",
+      "latitude": 40.4168273,
+      "longitude": -3.71075705,
+      "directions": "On Calle de Santa Clara, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202416",
+      "photo_urls": []
+    },
+    {
+      "id": "202417",
+      "title": "Luís Vélez de Guevara",
+      "latitude": 40.41562401,
+      "longitude": -3.71027424,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202417",
+      "photo_urls": []
+    },
+    {
+      "id": "202441",
+      "title": "La Iglesia Parroquial de San Salvador / The San Salvador Parrochial Church",
+      "latitude": 40.41558812,
+      "longitude": -3.71043985,
+      "directions": "On Calle Mayor, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202441",
+      "photo_urls": []
+    },
+    {
+      "id": "202452",
+      "title": "Roger de Lauria",
+      "latitude": 41.39599335,
+      "longitude": 2.16485257,
+      "directions": "On Carrer de Roger de Llúria, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202452",
+      "photo_urls": []
+    },
+    {
+      "id": "202459",
+      "title": "Narcís Monturiol",
+      "latitude": 41.39862529,
+      "longitude": 2.16679171,
+      "directions": "On Avinguda Diagonal, Barcelona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202459",
+      "photo_urls": []
+    },
+    {
+      "id": "202472",
+      "title": "Kanal de petroli per l'enllumenat públic / First Street Lighting with Oil",
+      "latitude": 41.38602151,
+      "longitude": 2.17427237,
+      "directions": "On Carrer de n&#39;Amargós, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202472",
+      "photo_urls": []
+    },
+    {
+      "id": "202532",
+      "title": "Miguel de Cervantes Saavedra",
+      "latitude": 40.41359766,
+      "longitude": -3.69886982,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202532",
+      "photo_urls": []
+    },
+    {
+      "id": "203444",
+      "title": "Marcelino Menendez y Pelayo",
+      "latitude": 40.41350626,
+      "longitude": -3.69900227,
+      "directions": "On Calle del León, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203444",
+      "photo_urls": []
+    },
+    {
+      "id": "203674",
+      "title": "Casa de las Siete Chimeneas / House of the Seven Chimneys",
+      "latitude": 40.42014952,
+      "longitude": -3.69668517,
+      "directions": "On Calle de Colmenares, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203674",
+      "photo_urls": []
+    },
+    {
+      "id": "203718",
+      "title": "Méchain Etablí les Coordenades de Barcelona / Méchain Establishes the Coordinates of Barcelona",
+      "latitude": 41.36362049,
+      "longitude": 2.16650949,
+      "directions": "On Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203718",
+      "photo_urls": []
+    },
+    {
+      "id": "203975",
+      "title": "Carlos Lezcano",
+      "latitude": 40.41447256,
+      "longitude": -3.71092203,
+      "directions": "On Calle del Rollo, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203975",
+      "photo_urls": []
+    },
+    {
+      "id": "204392",
+      "title": "María de Zayas Sotomayor",
+      "latitude": 40.41359612,
+      "longitude": -3.69908139,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204392",
+      "photo_urls": []
+    },
+    {
+      "id": "204521",
+      "title": "Rosalía del Castro",
+      "latitude": 40.41379736,
+      "longitude": -3.6995666,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204521",
+      "photo_urls": []
+    },
+    {
+      "id": "204536",
+      "title": "Fonda de San Sebastián / San Sebastian Inn",
+      "latitude": 40.41412221,
+      "longitude": -3.70153189,
+      "directions": "On Calle de San Sebastián, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204536",
+      "photo_urls": []
+    },
+    {
+      "id": "206789",
+      "title": "Antonio Pérez",
+      "latitude": 40.41427283,
+      "longitude": -3.70998054,
+      "directions": "On Plaza del Cordón, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206789",
+      "photo_urls": []
+    },
+    {
+      "id": "208085",
+      "title": "Dominguín",
+      "latitude": 40.41396257,
+      "longitude": -3.70006456,
+      "directions": "On Calle Principe, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208085",
+      "photo_urls": []
+    },
+    {
+      "id": "208143",
+      "title": "Enrique IV",
+      "latitude": 40.41500236,
+      "longitude": -3.71027278,
+      "directions": "On Plaza de la Villa, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208143",
+      "photo_urls": []
+    },
+    {
+      "id": "208216",
+      "title": "León Felipe",
+      "latitude": 40.41312504,
+      "longitude": -3.69642758,
+      "directions": "On Calle de las Huertas, Madrid, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208216",
+      "photo_urls": []
+    },
+    {
+      "id": "208363",
+      "title": "Nicolás Fernández de Moratín",
+      "latitude": 40.41309243,
+      "longitude": -3.6956989,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208363",
+      "photo_urls": []
+    },
+    {
+      "id": "208752",
+      "title": "Emilia Pardo Bazán (La Coruña 1851 - Madrid 1921)",
+      "latitude": 40.41354206,
+      "longitude": -3.69824095,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208752",
+      "photo_urls": []
+    },
+    {
+      "id": "208871",
+      "title": "Mariano José de Larra (Madrid, 1809-1837)",
+      "latitude": 40.41290265,
+      "longitude": -3.69508793,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208871",
+      "photo_urls": []
+    },
+    {
+      "id": "211870",
+      "title": "Luisa Carnés",
+      "latitude": 40.41374352,
+      "longitude": -3.69646664,
+      "directions": "On Calle de Lope de Vega, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211870",
+      "photo_urls": []
+    },
+    {
+      "id": "211871",
+      "title": "Agustín González de Amezúa",
+      "latitude": 40.4137704,
+      "longitude": -3.69047717,
+      "directions": "On Calle Moreto, Madrid, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211871",
+      "photo_urls": []
+    },
+    {
+      "id": "211908",
+      "title": "Edificio Baroja",
+      "latitude": 40.41590784,
+      "longitude": -3.69152963,
+      "directions": "On Calle de Ruiz de Alarcón, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211908",
+      "photo_urls": []
+    },
+    {
+      "id": "211911",
+      "title": "José Echegaray",
+      "latitude": 40.41394634,
+      "longitude": -3.69765899,
+      "directions": "On Calle de Quevedo, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211911",
+      "photo_urls": []
+    },
+    {
+      "id": "211948",
+      "title": "Isaac Albéniz",
+      "latitude": 40.40894142,
+      "longitude": -3.70163499,
+      "directions": "On Calle del Sombrerete, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211948",
+      "photo_urls": []
+    },
+    {
+      "id": "212210",
+      "title": "José María Manresa Navarro",
+      "latitude": 40.41301042,
+      "longitude": -3.69567062,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212210",
+      "photo_urls": []
+    },
+    {
+      "id": "212211",
+      "title": "Timoteo Pérez Rubio",
+      "latitude": 40.4122554,
+      "longitude": -3.70401062,
+      "directions": "On Plaza de Tirso de Molina, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212211",
+      "photo_urls": []
+    },
+    {
+      "id": "212212",
+      "title": "Teatro Variedades",
+      "latitude": 40.412298,
+      "longitude": -3.69984225,
+      "directions": "On Calle de la Magdalena, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212212",
+      "photo_urls": []
+    },
+    {
+      "id": "212240",
+      "title": "Mentidero de Representantes",
+      "latitude": 40.41426442,
+      "longitude": -3.69870655,
+      "directions": "On Calle del León, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212240",
+      "photo_urls": []
+    },
+    {
+      "id": "212246",
+      "title": "Antonia Merce",
+      "latitude": 40.41160046,
+      "longitude": -3.70042357,
+      "directions": "On Calle del Olmo, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212246",
+      "photo_urls": []
+    },
+    {
+      "id": "212290",
+      "title": "Daniel Urrabieta Vierge (1851 - 1904)",
+      "latitude": 40.4135032,
+      "longitude": -3.69849332,
+      "directions": "On Calle de las Huertas, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212290",
+      "photo_urls": []
+    },
+    {
+      "id": "212447",
+      "title": "Jacinto Benavente",
+      "latitude": 40.41301523,
+      "longitude": -3.69919499,
+      "directions": "On Calle de León, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212447",
+      "photo_urls": []
+    },
+    {
+      "id": "212516",
+      "title": "Bartolomé Carducho",
+      "latitude": 40.41219005,
+      "longitude": -3.69902305,
+      "directions": "On Calle Atocha (Plaza de Antón Martín), Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212516",
+      "photo_urls": []
+    },
+    {
+      "id": "212517",
+      "title": "Claudio Coello",
+      "latitude": 40.41389315,
+      "longitude": -3.70866899,
+      "directions": "On Calle de la Pasa, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212517",
+      "photo_urls": []
+    },
+    {
+      "id": "212639",
+      "title": "Puerta Cerrada",
+      "latitude": 40.41385454,
+      "longitude": -3.70836356,
+      "directions": "On Plaza de Puerta Cerrada, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212639",
+      "photo_urls": []
+    },
+    {
+      "id": "212688",
+      "title": "Manolo Tena",
+      "latitude": 40.4085185,
+      "longitude": -3.70055073,
+      "directions": "On Calle de Argumosa, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212688",
+      "photo_urls": []
+    },
+    {
+      "id": "212750",
+      "title": "A Los Abogados de Atocha / In Memory of the Lawyers of Atocha",
+      "latitude": 40.41241317,
+      "longitude": -3.69933084,
+      "directions": "On Calle de Atocha, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212750",
+      "photo_urls": []
+    },
+    {
+      "id": "212751",
+      "title": "Eloy Gonzalo",
+      "latitude": 40.41024582,
+      "longitude": -3.70728493,
+      "directions": "On Plaza de Cascorro, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212751",
+      "photo_urls": []
+    },
+    {
+      "id": "212781",
+      "title": "Agustin Lara",
+      "latitude": 40.40807074,
+      "longitude": -3.70351374,
+      "directions": "On Calle del Sombrerete, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212781",
+      "photo_urls": []
+    },
+    {
+      "id": "212938",
+      "title": "Serguei Prokofiev",
+      "latitude": 40.41252974,
+      "longitude": -3.69920991,
+      "directions": "On Calle de Atocha, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212938",
+      "photo_urls": []
+    },
+    {
+      "id": "213150",
+      "title": "Motín de Esquilache / Esquilache Riots",
+      "latitude": 40.4124199,
+      "longitude": -3.69897278,
+      "directions": "On Calle de Atocha, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213150",
+      "photo_urls": []
+    },
+    {
+      "id": "213743",
+      "title": "Bolsa de Madrid / The Madrid Exchange",
+      "latitude": 40.41667575,
+      "longitude": -3.69187147,
+      "directions": "On Calle de Antonio Maura, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213743",
+      "photo_urls": []
+    },
+    {
+      "id": "213769",
+      "title": "Colegio Imperial",
+      "latitude": 40.41261586,
+      "longitude": -3.70736405,
+      "directions": "On Calle de los Estudios, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213769",
+      "photo_urls": []
+    },
+    {
+      "id": "213819",
+      "title": "Juan Gómez de Mora",
+      "latitude": 40.41760015,
+      "longitude": -3.71167404,
+      "directions": "On Calle de Lepanto, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213819",
+      "photo_urls": []
+    },
+    {
+      "id": "213840",
+      "title": "“Fortunata”",
+      "latitude": 40.41528837,
+      "longitude": -3.70831781,
+      "directions": "On Cava de San Miguel, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213840",
+      "photo_urls": []
+    },
+    {
+      "id": "213843",
+      "title": "Antón Martín",
+      "latitude": 40.4120665,
+      "longitude": -3.69878367,
+      "directions": "On Calle de Atocha, Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213843",
+      "photo_urls": []
+    },
+    {
+      "id": "213873",
+      "title": "Restaurante Sobrino de Botín: “Fortunata y Jacinta”",
+      "latitude": 40.41420359,
+      "longitude": -3.70797709,
+      "directions": "On Calle de Cuchilleros, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213873",
+      "photo_urls": []
+    },
+    {
+      "id": "213900",
+      "title": "San Jeronimo el Real",
+      "latitude": 40.41460273,
+      "longitude": -3.69128202,
+      "directions": "On Calle de Ruiz de Alarcón, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213900",
+      "photo_urls": []
+    },
+    {
+      "id": "214157",
+      "title": "Lope de Vega",
+      "latitude": 40.41437704,
+      "longitude": -3.69741533,
+      "directions": "On Calle de Cervantes, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214157",
+      "photo_urls": []
+    },
+    {
+      "id": "214446",
+      "title": "Miguel Cervantes Saavedra",
+      "latitude": 40.41366408,
+      "longitude": -3.69730695,
+      "directions": "On Calle de Lope de Vega, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214446",
+      "photo_urls": []
+    },
+    {
+      "id": "214886",
+      "title": "Francisco de Quevedo y Villegas",
+      "latitude": 40.4134924,
+      "longitude": -3.69803133,
+      "directions": "On Calle de los Huertas, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214886",
+      "photo_urls": []
+    },
+    {
+      "id": "215381",
+      "title": "Plaça de l’Església / Church Square",
+      "latitude": 42.26753391,
+      "longitude": 2.96006102,
+      "directions": "On Carrer de Sant Pere, Figueres, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215381",
+      "photo_urls": []
+    },
+    {
+      "id": "216149",
+      "title": "Salvador Casañas i Pagès",
+      "latitude": 41.38667086,
+      "longitude": 2.17399094,
+      "directions": "On Carrer de n&#39;Amargós, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216149",
+      "photo_urls": []
+    },
+    {
+      "id": "216175",
+      "title": "El Pont d’accés i la façana / The Entrance Bridge and the Façade",
+      "latitude": 41.36381679,
+      "longitude": 2.16718398,
+      "directions": "On Carrer del Castell, Barcelona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216175",
+      "photo_urls": []
+    },
+    {
+      "id": "216257",
+      "title": "Carrer de les Moles / Grinders Street",
+      "latitude": 41.38692634,
+      "longitude": 2.17316998,
+      "directions": "On Carrer de les Moles, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216257",
+      "photo_urls": []
+    },
+    {
+      "id": "216259",
+      "title": "Catalan Flag raised",
+      "latitude": 41.36446858,
+      "longitude": 2.16657463,
+      "directions": "Near Carrer del Castell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216259",
+      "photo_urls": []
+    },
+    {
+      "id": "216260",
+      "title": "El pati d’armes o quadrat / The parade ground or courtyard",
+      "latitude": 41.3633297,
+      "longitude": 2.16643251,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216260",
+      "photo_urls": []
+    },
+    {
+      "id": "216264",
+      "title": "Carrer d’Espolsasacs / Dusty Sacks Street",
+      "latitude": 41.38647634,
+      "longitude": 2.17326449,
+      "directions": "On Carrer d’Espolsa-sacs, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216264",
+      "photo_urls": []
+    },
+    {
+      "id": "216568",
+      "title": "Puerto o Arco de Santa Maria",
+      "latitude": 40.41530993,
+      "longitude": -3.71229429,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216568",
+      "photo_urls": []
+    },
+    {
+      "id": "216570",
+      "title": "Valle-Inclán",
+      "latitude": 40.41528694,
+      "longitude": -3.71238547,
+      "directions": "On Calle Mayor, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216570",
+      "photo_urls": []
+    },
+    {
+      "id": "216571",
+      "title": "Don Felipé Picatoste Rodriguez",
+      "latitude": 40.41421442,
+      "longitude": -3.70988392,
+      "directions": "On Plaza de Cordón, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216571",
+      "photo_urls": []
+    },
+    {
+      "id": "216630",
+      "title": "Monumento al Capitan Melgar / Captain Melgar Memorial",
+      "latitude": 40.41754297,
+      "longitude": -3.7130585,
+      "directions": "On Calle de Bailén, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216630",
+      "photo_urls": []
+    },
+    {
+      "id": "216674",
+      "title": "“The Great Gypsy Roundup” / Baró Istardipé",
+      "latitude": 41.38764224,
+      "longitude": 2.18095924,
+      "directions": "On Carrer d&#39;en Tantarantana, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216674",
+      "photo_urls": []
+    },
+    {
+      "id": "216696",
+      "title": "Catalan-Basque Civil War Relations",
+      "latitude": 41.39273973,
+      "longitude": 2.16473099,
+      "directions": "On Paseo de Gracia, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216696",
+      "photo_urls": []
+    },
+    {
+      "id": "216928",
+      "title": "Francesc Layret",
+      "latitude": 41.38788078,
+      "longitude": 2.16472275,
+      "directions": "On Carrer de Balmes, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216928",
+      "photo_urls": []
+    },
+    {
+      "id": "216938",
+      "title": "Francesc Layret: la lluita contra la injusticia social / the fight against social injustice",
+      "latitude": 41.38780576,
+      "longitude": 2.16478659,
+      "directions": "On Carrer de Balmes, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216938",
+      "photo_urls": []
+    },
+    {
+      "id": "216972",
+      "title": "Gonzalo Ceballos y Fernandez de Cordoba",
+      "latitude": 40.41403417,
+      "longitude": -3.71026754,
+      "directions": "On Plaza del Cordón, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216972",
+      "photo_urls": []
+    },
+    {
+      "id": "216976",
+      "title": "Vicente Huidobro",
+      "latitude": 40.418678,
+      "longitude": -3.71121362,
+      "directions": "On Plaza de Oriente, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216976",
+      "photo_urls": []
+    },
+    {
+      "id": "217008",
+      "title": "José Cubiles",
+      "latitude": 40.41866516,
+      "longitude": -3.71123739,
+      "directions": "On Plaza de Oriente, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217008",
+      "photo_urls": []
+    },
+    {
+      "id": "217163",
+      "title": "La Ciutat Bombardejada / The Bombardment of the City",
+      "latitude": 41.36436799,
+      "longitude": 2.16645365,
+      "directions": "Near Carrer del Castell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217163",
+      "photo_urls": []
+    },
+    {
+      "id": "217447",
+      "title": "Palacio de Los Duques de Santoña",
+      "latitude": 40.4139482,
+      "longitude": -3.70017033,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217447",
+      "photo_urls": []
+    },
+    {
+      "id": "217637",
+      "title": "El juidici del President Lluís Companys / The Trial of President Lluís Companys",
+      "latitude": 41.3634235,
+      "longitude": 2.16636725,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217637",
+      "photo_urls": []
+    },
+    {
+      "id": "219397",
+      "title": "Plaza de la Luna (Plaza of the Moon)",
+      "latitude": 40.42128715,
+      "longitude": -3.70532472,
+      "directions": "On Plaza de la Luna, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219397",
+      "photo_urls": []
+    },
+    {
+      "id": "230619",
+      "title": "Assassination of Francisco Berlanga Robles",
+      "latitude": 42.8163395,
+      "longitude": -1.6433056,
+      "directions": "On Plaza del Castillo, Pamplona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230619",
+      "photo_urls": []
+    },
+    {
+      "id": "231455",
+      "title": "Maria Canals i Cendrós",
+      "latitude": 41.39021105,
+      "longitude": 2.16786885,
+      "directions": "On Passatge de Maria Canals, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231455",
+      "photo_urls": []
+    },
+    {
+      "id": "231456",
+      "title": "Cardenal Casañas",
+      "latitude": 41.38228347,
+      "longitude": 2.17374526,
+      "directions": "On Carrer de Cardenal Casañas, Barcelona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231456",
+      "photo_urls": []
+    },
+    {
+      "id": "231474",
+      "title": "Àngel Guimerà",
+      "latitude": 41.38247097,
+      "longitude": 2.17388473,
+      "directions": "On Plaça del Pi, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231474",
+      "photo_urls": []
+    },
+    {
+      "id": "231475",
+      "title": "El Call: Els Quatre Cantons del Call",
+      "latitude": 41.3818656,
+      "longitude": 2.1754622,
+      "directions": "On Carre d&#39;Avinyó, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231475",
+      "photo_urls": []
+    },
+    {
+      "id": "231476",
+      "title": "Enric Morera",
+      "latitude": 41.3819375,
+      "longitude": 2.1789108,
+      "directions": "On Carrer del Cometa, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231476",
+      "photo_urls": []
+    },
+    {
+      "id": "231478",
+      "title": "Mercado de Santo Domingo",
+      "latitude": 42.81883451,
+      "longitude": -1.64453925,
+      "directions": "On Calle Mercado, Pamplona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231478",
+      "photo_urls": []
+    },
+    {
+      "id": "231558",
+      "title": "Roman City Wall and Gate: Pati Llimona",
+      "latitude": 41.38154934,
+      "longitude": 2.17895723,
+      "directions": "On Carrer del Regomir, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231558",
+      "photo_urls": []
+    },
+    {
+      "id": "231633",
+      "title": "Francisco Moragas Barret",
+      "latitude": 41.3826379,
+      "longitude": 2.1788761,
+      "directions": "On Carrer dels Lledó, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231633",
+      "photo_urls": []
+    },
+    {
+      "id": "231655",
+      "title": "House of Josefina Bonet",
+      "latitude": 41.39155418,
+      "longitude": 2.16520347,
+      "directions": "On Passeig de Gràcia, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231655",
+      "photo_urls": []
+    },
+    {
+      "id": "231656",
+      "title": "House of Bruno Quadros",
+      "latitude": 41.38151014,
+      "longitude": 2.17337831,
+      "directions": "On Carrer del Cardenal Casañas, Barcelona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231656",
+      "photo_urls": []
+    },
+    {
+      "id": "231659",
+      "title": "Roman Wall and Defence Towers: Carrer la Palla",
+      "latitude": 41.383922,
+      "longitude": 2.17485982,
+      "directions": "On Carrer de la Palla, Barcelona, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231659",
+      "photo_urls": []
+    },
+    {
+      "id": "231661",
+      "title": "Siege of Barcelona",
+      "latitude": 41.38377573,
+      "longitude": 2.18233534,
+      "directions": "On Carrer de Santa Maria, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231661",
+      "photo_urls": []
+    },
+    {
+      "id": "231838",
+      "title": "Martyrs of 1714 Memorial",
+      "latitude": 41.3837,
+      "longitude": 2.18261724,
+      "directions": "On Plaça del Fossar de les Moreres, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231838",
+      "photo_urls": []
+    },
+    {
+      "id": "231839",
+      "title": "Cap de Barcelona",
+      "latitude": 41.38092005,
+      "longitude": 2.182377,
+      "directions": "On Passeig de Colom, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231839",
+      "photo_urls": []
+    },
+    {
+      "id": "231842",
+      "title": "Gaspar de Portolà",
+      "latitude": 41.36320778,
+      "longitude": 2.16732227,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231842",
+      "photo_urls": []
+    },
+    {
+      "id": "231845",
+      "title": "Sociedad de Atracción de Forasteros",
+      "latitude": 41.37913101,
+      "longitude": 2.17480635,
+      "directions": "On Carrer la Rambla, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231845",
+      "photo_urls": []
+    },
+    {
+      "id": "231849",
+      "title": "Portal de la Pau Memorial",
+      "latitude": 41.37525649,
+      "longitude": 2.17785233,
+      "directions": "On Passeig Josep Carner, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231849",
+      "photo_urls": []
+    },
+    {
+      "id": "231853",
+      "title": "Aviadors de la República",
+      "latitude": 41.38062506,
+      "longitude": 2.18549399,
+      "directions": "Near Moll del Diposit, Barcelona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231853",
+      "photo_urls": []
+    },
+    {
+      "id": "231872",
+      "title": "Baixeras: A Symbolic Monumental School",
+      "latitude": 41.382914,
+      "longitude": 2.17991807,
+      "directions": "On Carrer de Salvador Aulet, Barcelona, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231872",
+      "photo_urls": []
+    },
+    {
+      "id": "231873",
+      "title": "Joan Miró",
+      "latitude": 41.38207976,
+      "longitude": 2.17643466,
+      "directions": "On Carrer de Ferran, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231873",
+      "photo_urls": []
+    },
+    {
+      "id": "231876",
+      "title": "The Tour of Catalonia",
+      "latitude": 41.37574817,
+      "longitude": 2.13598884,
+      "directions": "On Passeig de Sant Antoni, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231876",
+      "photo_urls": []
+    },
+    {
+      "id": "231877",
+      "title": "El Call: Carrer de Call",
+      "latitude": 41.3824631,
+      "longitude": 2.17650627,
+      "directions": "On Carrer del Call, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231877",
+      "photo_urls": []
+    },
+    {
+      "id": "231879",
+      "title": "Ferdinand-Marie de Lesseps",
+      "latitude": 41.37970664,
+      "longitude": 2.18839579,
+      "directions": "On Passeig de Sant Miquel, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231879",
+      "photo_urls": []
+    },
+    {
+      "id": "232098",
+      "title": "Montjuic Castle",
+      "latitude": 41.36394157,
+      "longitude": 2.16709878,
+      "directions": "On Carrer del Castell, Barcelona, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232098",
+      "photo_urls": []
+    },
+    {
+      "id": "232101",
+      "title": "L'antic fortí / The early fort",
+      "latitude": 41.36311465,
+      "longitude": 2.16614346,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232101",
+      "photo_urls": []
+    },
+    {
+      "id": "232315",
+      "title": "Dr. Alberto Lois Bernardez",
+      "latitude": 42.04844693,
+      "longitude": -8.64441265,
+      "directions": "On Rúa Augusto González Besada, Tui, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232315",
+      "photo_urls": []
+    },
+    {
+      "id": "232316",
+      "title": "Antonio Palacios Ramilo",
+      "latitude": 42.16193673,
+      "longitude": -8.62127813,
+      "directions": "On Rúa Ramón González, O Porriño, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232316",
+      "photo_urls": []
+    },
+    {
+      "id": "232319",
+      "title": "Palco da Música / Palco de Música / The Bandstand",
+      "latitude": 42.04782572,
+      "longitude": -8.64419639,
+      "directions": "On Rúa Ordóñez, Tui, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232319",
+      "photo_urls": []
+    },
+    {
+      "id": "232322",
+      "title": "El segon recinte / The outer ward",
+      "latitude": 41.36299556,
+      "longitude": 2.16596195,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232322",
+      "photo_urls": []
+    },
+    {
+      "id": "232362",
+      "title": "Casa da Botica",
+      "latitude": 42.04679022,
+      "longitude": -8.64446849,
+      "directions": "On Rúa Porta da Pía, Tui, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232362",
+      "photo_urls": []
+    },
+    {
+      "id": "232364",
+      "title": "Escola de María",
+      "latitude": 42.04592094,
+      "longitude": -8.64534787,
+      "directions": "On Rúa Sanz, Tui, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232364",
+      "photo_urls": []
+    },
+    {
+      "id": "232371",
+      "title": "Reveriano Soutullo",
+      "latitude": 42.28230132,
+      "longitude": -8.60867058,
+      "directions": "On Rúa Reveriano Soutullo, Redondela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232371",
+      "photo_urls": []
+    },
+    {
+      "id": "232375",
+      "title": "Diego San José de la Torre",
+      "latitude": 42.28264778,
+      "longitude": -8.60892519,
+      "directions": "On Rúa Alfonso XII, Redondela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232375",
+      "photo_urls": []
+    },
+    {
+      "id": "232377",
+      "title": "Dona Rita Otero Fernández",
+      "latitude": 42.28108765,
+      "longitude": -8.6093971,
+      "directions": "On Rúa Pai Crespo, Redondela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232377",
+      "photo_urls": []
+    },
+    {
+      "id": "232400",
+      "title": "Tranvía / Tram",
+      "latitude": 42.16168277,
+      "longitude": -8.62094293,
+      "directions": "On Rúa Antonio Palacios, O Porriño, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232400",
+      "photo_urls": []
+    },
+    {
+      "id": "232433",
+      "title": "Don Jose Regojo",
+      "latitude": 42.2810642,
+      "longitude": -8.60940249,
+      "directions": "On Rúa Pai Crespo, Redondela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232433",
+      "photo_urls": []
+    },
+    {
+      "id": "232434",
+      "title": "Ruta Xudía / Ruta Judía / The Judaic Route",
+      "latitude": 42.0481353,
+      "longitude": -8.64462818,
+      "directions": "On Rúa Rosa Bahamonde, Tui, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232434",
+      "photo_urls": []
+    },
+    {
+      "id": "232435",
+      "title": "Arturo Souto",
+      "latitude": 42.43117934,
+      "longitude": -8.64561595,
+      "directions": "On Rúa Michelena, Pontevedra, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232435",
+      "photo_urls": []
+    },
+    {
+      "id": "232444",
+      "title": "Spanish Coup of 1936 Victims Memorial",
+      "latitude": 42.43009987,
+      "longitude": -8.64867007,
+      "directions": "On Avenida Montero Ríos, Pontevedra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232444",
+      "photo_urls": []
+    },
+    {
+      "id": "232447",
+      "title": "Antoni Gutiérrez Díaz",
+      "latitude": 41.3964219,
+      "longitude": 2.20919838,
+      "directions": "Near Avinguda del Litoral, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232447",
+      "photo_urls": []
+    },
+    {
+      "id": "232448",
+      "title": "Don Perfecto Feijoó Poncet",
+      "latitude": 42.43083632,
+      "longitude": -8.64444338,
+      "directions": "On Rúa Michelena, Pontevedra, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232448",
+      "photo_urls": []
+    },
+    {
+      "id": "232452",
+      "title": "USS Guam and Trenton Memorial",
+      "latitude": 41.3752497,
+      "longitude": 2.178045,
+      "directions": "On Passeig Josep Carner, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232452",
+      "photo_urls": []
+    },
+    {
+      "id": "232453",
+      "title": "Vaixells turístics",
+      "latitude": 41.3753636,
+      "longitude": 2.1787382,
+      "directions": "On Ronda Litoral, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232453",
+      "photo_urls": []
+    },
+    {
+      "id": "232454",
+      "title": "Monument a Ròmul Bosch i Alsina",
+      "latitude": 41.37594174,
+      "longitude": 2.17867782,
+      "directions": "On Moll de les Drassanes, Barcelona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232454",
+      "photo_urls": []
+    },
+    {
+      "id": "232455",
+      "title": "La Rambla de Mar",
+      "latitude": 41.37582129,
+      "longitude": 2.17946823,
+      "directions": "On Moll de Bosch i Alsina, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232455",
+      "photo_urls": []
+    },
+    {
+      "id": "232456",
+      "title": "Palau de Mar",
+      "latitude": 41.38112931,
+      "longitude": 2.18578145,
+      "directions": "On Passeig de Joan de Borbó, Barcelona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232456",
+      "photo_urls": []
+    },
+    {
+      "id": "232466",
+      "title": "Don Claudio Gonzalez Zuñiga",
+      "latitude": 42.43073218,
+      "longitude": -8.64328065,
+      "directions": "On Rúa González Zúñiga, Pontevedra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232466",
+      "photo_urls": []
+    },
+    {
+      "id": "232517",
+      "title": "Don Casto Méndez Núñez",
+      "latitude": 42.43290439,
+      "longitude": -8.64434171,
+      "directions": "On Rúa Don Gonzalo, Pontevedra, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232517",
+      "photo_urls": []
+    },
+    {
+      "id": "232523",
+      "title": "Ruins of Santo Domingo Church",
+      "latitude": 42.43133675,
+      "longitude": -8.6470873,
+      "directions": "On Rúa Marqués de Riestra, Pontevedra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232523",
+      "photo_urls": []
+    },
+    {
+      "id": "232532",
+      "title": "Valle Inclan",
+      "latitude": 42.43360072,
+      "longitude": -8.64618123,
+      "directions": "On Rúa Isabel II, Pontevedra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232532",
+      "photo_urls": []
+    },
+    {
+      "id": "232558",
+      "title": "Macías O Namorado / Macías the Lover",
+      "latitude": 42.73807696,
+      "longitude": -8.66099238,
+      "directions": "On Rúa Ferreiras, Padrón, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232558",
+      "photo_urls": []
+    },
+    {
+      "id": "232575",
+      "title": "Alfolí do Sal",
+      "latitude": 42.73876671,
+      "longitude": -8.65980356,
+      "directions": "On Rúa Real, Padrón, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232575",
+      "photo_urls": []
+    },
+    {
+      "id": "232576",
+      "title": "Carrer Dagueria",
+      "latitude": 41.38319399,
+      "longitude": 2.17823205,
+      "directions": "On Carrer de la Dagueria, Barcelona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232576",
+      "photo_urls": []
+    },
+    {
+      "id": "232592",
+      "title": "Diego Bernal López (1940-2001)",
+      "latitude": 42.8778137,
+      "longitude": -8.54513391,
+      "directions": "On Rúa do Vilar, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232592",
+      "photo_urls": []
+    },
+    {
+      "id": "232600",
+      "title": "Rosalia de Castro",
+      "latitude": 42.7388741,
+      "longitude": -8.66011361,
+      "directions": "On Rúa Juan Rodriguez, Padrón, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232600",
+      "photo_urls": []
+    },
+    {
+      "id": "232625",
+      "title": "Rincón del Caballo Blanco",
+      "latitude": 42.82095285,
+      "longitude": -1.64118568,
+      "directions": "On Ronda Obispo Barbazán, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232625",
+      "photo_urls": []
+    },
+    {
+      "id": "232629",
+      "title": "Pío Baroja",
+      "latitude": 42.81974788,
+      "longitude": -1.64180267,
+      "directions": "On Calle Navarrería, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232629",
+      "photo_urls": []
+    },
+    {
+      "id": "232630",
+      "title": "Catedral de Santa María la Real",
+      "latitude": 42.81942865,
+      "longitude": -1.64149191,
+      "directions": "On Calle Dormitalería, Pamplona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232630",
+      "photo_urls": []
+    },
+    {
+      "id": "232665",
+      "title": "El Batallon Literario / The Literary Battalion Memorial",
+      "latitude": 42.88046123,
+      "longitude": -8.5434714,
+      "directions": "On Praza da Quintana de Vivos, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232665",
+      "photo_urls": []
+    },
+    {
+      "id": "232668",
+      "title": "No Tengas Miedo",
+      "latitude": 42.81996582,
+      "longitude": -1.64144906,
+      "directions": "On Calle Salsipuedes, Pamplona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232668",
+      "photo_urls": []
+    },
+    {
+      "id": "232670",
+      "title": "Vicente Monterola",
+      "latitude": 43.32412487,
+      "longitude": -1.98437691,
+      "directions": "On Narrika Kalea, Donostia, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232670",
+      "photo_urls": []
+    },
+    {
+      "id": "232671",
+      "title": "Santiago Ramón y Cajal",
+      "latitude": 41.65390448,
+      "longitude": -0.87985286,
+      "directions": "On Calle de Casto Méndez Núñez, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232671",
+      "photo_urls": []
+    },
+    {
+      "id": "232673",
+      "title": "Acknowledgement to the Kingdom of Navarre",
+      "latitude": 42.82004936,
+      "longitude": -1.64461641,
+      "directions": "On Calle Dos de Mayo, Pamplona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232673",
+      "photo_urls": []
+    },
+    {
+      "id": "232676",
+      "title": "Manuel Iribarren Paternáin",
+      "latitude": 42.81796495,
+      "longitude": -1.64248568,
+      "directions": "On Calle de la Estafeta, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232676",
+      "photo_urls": []
+    },
+    {
+      "id": "232700",
+      "title": "Jose Maria Fenollera e Ibáñez",
+      "latitude": 42.87822794,
+      "longitude": -8.54489163,
+      "directions": "On Rúa do Vilar, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232700",
+      "photo_urls": []
+    },
+    {
+      "id": "232702",
+      "title": "Aurelio Aguirre Galarraga",
+      "latitude": 42.87942438,
+      "longitude": -8.54424237,
+      "directions": "On Rúa do Vilar, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232702",
+      "photo_urls": []
+    },
+    {
+      "id": "232705",
+      "title": "Iria Flavia",
+      "latitude": 42.74532384,
+      "longitude": -8.65568424,
+      "directions": "On Avenida Camilo José Cela, Iria Flavia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232705",
+      "photo_urls": []
+    },
+    {
+      "id": "232706",
+      "title": "Igrexa de San Pedro / Church of San Pedro",
+      "latitude": 42.88112828,
+      "longitude": -8.53775042,
+      "directions": "On Calzada de San Pedro, Santiago de Compostela, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232706",
+      "photo_urls": []
+    },
+    {
+      "id": "232812",
+      "title": "Garcilaso de la Vega as a Knight of Santiago",
+      "latitude": 42.8177724,
+      "longitude": -1.64132995,
+      "directions": "On Calle de San Agustín, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232812",
+      "photo_urls": []
+    },
+    {
+      "id": "232897",
+      "title": "San Saturnino in Pamplona",
+      "latitude": 42.81835,
+      "longitude": -1.6451254,
+      "directions": "On Calle San Saturnino, Pamplona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232897",
+      "photo_urls": []
+    },
+    {
+      "id": "232966",
+      "title": "Escolania Santa Maria la Real",
+      "latitude": 42.81761954,
+      "longitude": -1.64115843,
+      "directions": "On Calle de San Agustín, Pamplona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232966",
+      "photo_urls": []
+    },
+    {
+      "id": "232969",
+      "title": "Julio Martín-Caro Soto",
+      "latitude": 42.81873571,
+      "longitude": -1.640875,
+      "directions": "On Calle Dormitalería, Pamplona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232969",
+      "photo_urls": []
+    },
+    {
+      "id": "232974",
+      "title": "Ayuntamiento",
+      "latitude": 42.8183168,
+      "longitude": -1.64422973,
+      "directions": "On Calle de Santo Domingo, Pamplona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232974",
+      "photo_urls": []
+    },
+    {
+      "id": "233026",
+      "title": "Ernest Hemingway",
+      "latitude": 42.815944,
+      "longitude": -1.6401591,
+      "directions": "On Calle de Juan de Labrit, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233026",
+      "photo_urls": []
+    },
+    {
+      "id": "233028",
+      "title": "Calle Estafeta",
+      "latitude": 42.81610121,
+      "longitude": -1.64111527,
+      "directions": "On Calle de la Estafeta, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233028",
+      "photo_urls": []
+    },
+    {
+      "id": "233135",
+      "title": "Casildo and Lino Ojeta Irigoyen",
+      "latitude": 42.81681315,
+      "longitude": -1.64160834,
+      "directions": "On Calle de la Estafeta, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233135",
+      "photo_urls": []
+    },
+    {
+      "id": "233137",
+      "title": "Castle of Pamplona",
+      "latitude": 42.81752799,
+      "longitude": -1.64285245,
+      "directions": "On Plaza del Castillo, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233137",
+      "photo_urls": []
+    },
+    {
+      "id": "233141",
+      "title": "Café Kutz",
+      "latitude": 42.81738184,
+      "longitude": -1.64370553,
+      "directions": "On Pasaje de la Jacoba, Pamplona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233141",
+      "photo_urls": []
+    },
+    {
+      "id": "233187",
+      "title": "Club Atlético Osasuna Headquarters",
+      "latitude": 42.81650299,
+      "longitude": -1.64340854,
+      "directions": "On Plaza del Castillo, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233187",
+      "photo_urls": []
+    },
+    {
+      "id": "233188",
+      "title": "Carlos III El Noble",
+      "latitude": 42.81637524,
+      "longitude": -1.64249482,
+      "directions": "On Plaza del Castillo, Pamplona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233188",
+      "photo_urls": []
+    },
+    {
+      "id": "233189",
+      "title": "Coronation of Santa María la Real",
+      "latitude": 42.81628531,
+      "longitude": -1.6425764,
+      "directions": "On Avenida de Carlos III el Noble, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233189",
+      "photo_urls": []
+    },
+    {
+      "id": "233190",
+      "title": "Labrit Bastion",
+      "latitude": 42.81784223,
+      "longitude": -1.63884703,
+      "directions": "On Plaza Santa María la Real, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233190",
+      "photo_urls": []
+    },
+    {
+      "id": "233191",
+      "title": "Teatro Principal",
+      "latitude": 42.81625936,
+      "longitude": -1.64255621,
+      "directions": "On Plaza del Castillo, Pamplona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233191",
+      "photo_urls": []
+    },
+    {
+      "id": "233253",
+      "title": "Roman Walls and the Tower of Zuda",
+      "latitude": 41.65745968,
+      "longitude": -0.88168152,
+      "directions": "On Avenida de César Augusto, Zaragoza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233253",
+      "photo_urls": []
+    },
+    {
+      "id": "233257",
+      "title": "Archbishop's Palace",
+      "latitude": 42.81818363,
+      "longitude": -1.63932284,
+      "directions": "On Plaza Santa María la Real, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233257",
+      "photo_urls": []
+    },
+    {
+      "id": "233258",
+      "title": "Redín Bastion",
+      "latitude": 42.82137925,
+      "longitude": -1.64107566,
+      "directions": "Near Ronda Obispo Barbazán, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233258",
+      "photo_urls": []
+    },
+    {
+      "id": "233259",
+      "title": "Ronda Barbazana / Rincón del Caballo Blanco",
+      "latitude": 42.82111113,
+      "longitude": -1.6408699,
+      "directions": "On Paseo del Redín, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233259",
+      "photo_urls": []
+    },
+    {
+      "id": "233260",
+      "title": "Portal de la Rochapea / Puerta Exterior",
+      "latitude": 42.82025458,
+      "longitude": -1.64619528,
+      "directions": "On Calle de Santo Domingo, Pamplona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233260",
+      "photo_urls": []
+    },
+    {
+      "id": "233262",
+      "title": "Portal de la Rochapea / Puerta Interior",
+      "latitude": 42.8197902,
+      "longitude": -1.64610658,
+      "directions": "On Calle de Santo Domingo, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233262",
+      "photo_urls": []
+    },
+    {
+      "id": "233263",
+      "title": "Calle Estafeta",
+      "latitude": 42.81844036,
+      "longitude": -1.64300225,
+      "directions": "On Calle de la Estafeta, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233263",
+      "photo_urls": []
+    },
+    {
+      "id": "233265",
+      "title": "La Casa de Misericordia de Pamplona",
+      "latitude": 42.81645462,
+      "longitude": -1.63892671,
+      "directions": "Near Calle de Aralar, Pamplona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233265",
+      "photo_urls": []
+    },
+    {
+      "id": "233268",
+      "title": "Attack of January 30, 1987",
+      "latitude": 41.6573148,
+      "longitude": -0.8811334,
+      "directions": "On Calle de Salduba, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233268",
+      "photo_urls": []
+    },
+    {
+      "id": "233269",
+      "title": "Pope John Paul II in Zaragoza",
+      "latitude": 41.65624285,
+      "longitude": -0.8781033,
+      "directions": "On Plaza de Nuestra Señora del Pillar, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233269",
+      "photo_urls": []
+    },
+    {
+      "id": "233452",
+      "title": "Ponte Internacional sobre o Miño / River Miño International Bridge",
+      "latitude": 42.03772784,
+      "longitude": -8.64812183,
+      "directions": "On Avenida de Portugal, Tui, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233452",
+      "photo_urls": []
+    },
+    {
+      "id": "233453",
+      "title": "City Council Victims of 1936 Military Coup",
+      "latitude": 41.65581643,
+      "longitude": -0.87714365,
+      "directions": "On Plaza de Nuestra Señora del Pilar, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233453",
+      "photo_urls": []
+    },
+    {
+      "id": "233454",
+      "title": "The Courtyard of a Thousand Years",
+      "latitude": 42.81924039,
+      "longitude": -1.64088564,
+      "directions": "Near Calle Dormitalería, Pamplona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233454",
+      "photo_urls": []
+    },
+    {
+      "id": "233470",
+      "title": "The Chapel of las Navas de Tolosa",
+      "latitude": 42.81929812,
+      "longitude": -1.64051329,
+      "directions": "Near Calle Dormitalería, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233470",
+      "photo_urls": []
+    },
+    {
+      "id": "233471",
+      "title": "Portal de Francia",
+      "latitude": 42.82106514,
+      "longitude": -1.64329982,
+      "directions": "On Calle del Carmen, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233471",
+      "photo_urls": []
+    },
+    {
+      "id": "233473",
+      "title": "Puerta de Zumalacarregui",
+      "latitude": 42.8211015,
+      "longitude": -1.64325253,
+      "directions": "On Calle del Carmen, Pamplona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233473",
+      "photo_urls": []
+    },
+    {
+      "id": "233511",
+      "title": "Blue Lips",
+      "latitude": 42.81826278,
+      "longitude": -1.64416381,
+      "directions": "On Calle San Saturnino, Pamplona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233511",
+      "photo_urls": []
+    },
+    {
+      "id": "233512",
+      "title": "Alberto Huarte and Joaquín Zabalza",
+      "latitude": 42.81747519,
+      "longitude": -1.64799068,
+      "directions": "On Calle Mayor, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233512",
+      "photo_urls": []
+    },
+    {
+      "id": "233513",
+      "title": "Capilla Barbazana / Barbazana Chapel",
+      "latitude": 42.8196233,
+      "longitude": -1.64032186,
+      "directions": "Near Ronda Obispo Barbazán, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233513",
+      "photo_urls": []
+    },
+    {
+      "id": "233542",
+      "title": "San Saturnino o San Cernin",
+      "latitude": 42.81826344,
+      "longitude": -1.64477545,
+      "directions": "On Calle San Saturnino, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233542",
+      "photo_urls": []
+    },
+    {
+      "id": "233543",
+      "title": "Palacio del Condestable",
+      "latitude": 42.81825299,
+      "longitude": -1.64548169,
+      "directions": "On Calle Mayor, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233543",
+      "photo_urls": []
+    },
+    {
+      "id": "233544",
+      "title": "Simon Villanueva y Abarca",
+      "latitude": 42.81713502,
+      "longitude": -1.64907953,
+      "directions": "On Plaza Recoletas, Pamplona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233544",
+      "photo_urls": []
+    },
+    {
+      "id": "233578",
+      "title": "Ramón Piñeiro López",
+      "latitude": 42.87974063,
+      "longitude": -8.54324718,
+      "directions": "On Rúa de Xelmírez, Santiago de Compostela, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233578",
+      "photo_urls": []
+    },
+    {
+      "id": "233645",
+      "title": "Recoletas Fountain",
+      "latitude": 42.81730524,
+      "longitude": -1.64952257,
+      "directions": "On Calle Mayor, Pamplona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233645",
+      "photo_urls": []
+    },
+    {
+      "id": "233646",
+      "title": "Church of San Lorenzo",
+      "latitude": 42.81685355,
+      "longitude": -1.64912966,
+      "directions": "On Calle Taconera, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233646",
+      "photo_urls": []
+    },
+    {
+      "id": "233647",
+      "title": "Taconera Bastion",
+      "latitude": 42.81829308,
+      "longitude": -1.65220343,
+      "directions": "Near Avenida de Guipúzcoa, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233647",
+      "photo_urls": []
+    },
+    {
+      "id": "233648",
+      "title": "Portal Nuevo",
+      "latitude": 42.81870976,
+      "longitude": -1.6506957,
+      "directions": "Near Calle Taconera, Pamplona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233648",
+      "photo_urls": []
+    },
+    {
+      "id": "233737",
+      "title": "Sinagoga + Micvé / The Synagogue and Micve",
+      "latitude": 42.04705157,
+      "longitude": -8.64465782,
+      "directions": "On Rúa Ordóñez, Tui, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233737",
+      "photo_urls": []
+    },
+    {
+      "id": "233801",
+      "title": "Luís Porteiro Garea",
+      "latitude": 42.88126953,
+      "longitude": -8.54348922,
+      "directions": "On Rúa da Acibechería, Santiago de Compostela, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233801",
+      "photo_urls": []
+    },
+    {
+      "id": "233894",
+      "title": "Xavier María de Munibe e Idiaquez",
+      "latitude": 43.32132759,
+      "longitude": -1.98291842,
+      "directions": "On Peñaflorida Kalea, Donostia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233894",
+      "photo_urls": []
+    },
+    {
+      "id": "233930",
+      "title": "Tamarix pentandra",
+      "latitude": 43.32047719,
+      "longitude": -1.9848571,
+      "directions": "Near Hernani Kalea, Donostia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233930",
+      "photo_urls": []
+    },
+    {
+      "id": "233935",
+      "title": "Victims of Terrorism and Violence",
+      "latitude": 43.320955,
+      "longitude": -1.98523808,
+      "directions": "Near Hernani Kalea, Donostia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233935",
+      "photo_urls": []
+    },
+    {
+      "id": "233941",
+      "title": "Josefina Arruti",
+      "latitude": 42.42159184,
+      "longitude": -8.63832534,
+      "directions": "On Avenida de Josefina Arruti, Pontevedra, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233941",
+      "photo_urls": []
+    },
+    {
+      "id": "234055",
+      "title": "Indalezio Bizkarrondo",
+      "latitude": 43.32254391,
+      "longitude": -1.98575944,
+      "directions": "On Bilintx Kalea, Donostia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234055",
+      "photo_urls": []
+    },
+    {
+      "id": "234057",
+      "title": "Cathedral of Buen Pastor",
+      "latitude": 43.31709013,
+      "longitude": -1.98207985,
+      "directions": "On Plaza del Buen Pastor, Donostia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234057",
+      "photo_urls": []
+    },
+    {
+      "id": "234095",
+      "title": "Luis Seoane",
+      "latitude": 42.879823,
+      "longitude": -8.5448645,
+      "directions": "On Rúa de Fonseca, Santiago de Compostela, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234095",
+      "photo_urls": []
+    },
+    {
+      "id": "234099",
+      "title": "The Fire of 1813",
+      "latitude": 43.32431524,
+      "longitude": -1.98519926,
+      "directions": "On De Valle Lersundi Plazatxoa, Donostia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234099",
+      "photo_urls": []
+    },
+    {
+      "id": "234128",
+      "title": "Eugenio and Mario Fernández Granell",
+      "latitude": 42.87960995,
+      "longitude": -8.54237855,
+      "directions": "On Rúa da Caldeirería, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234128",
+      "photo_urls": []
+    },
+    {
+      "id": "234190",
+      "title": "Basilica of Santa María del Coro",
+      "latitude": 43.32384737,
+      "longitude": -1.98643689,
+      "directions": "On Abuztuaren 31 Kalea, Donostia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234190",
+      "photo_urls": []
+    },
+    {
+      "id": "234197",
+      "title": "San Telmo",
+      "latitude": 43.32453341,
+      "longitude": -1.98544203,
+      "directions": "On Santa Korda Kalea, Donostia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234197",
+      "photo_urls": []
+    },
+    {
+      "id": "234198",
+      "title": "San Vicente Church",
+      "latitude": 43.32431735,
+      "longitude": -1.98440344,
+      "directions": "On Narrika Kalea, Donostia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234198",
+      "photo_urls": []
+    },
+    {
+      "id": "234199",
+      "title": "Kursaal Conference Centre and Auditorium",
+      "latitude": 43.32396695,
+      "longitude": -1.97944907,
+      "directions": "On Zurriola Hiribidea, Donostia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234199",
+      "photo_urls": []
+    },
+    {
+      "id": "234204",
+      "title": "Town Hall",
+      "latitude": 43.32123756,
+      "longitude": -1.98543452,
+      "directions": "On Hernani Kalea, Donostia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234204",
+      "photo_urls": []
+    },
+    {
+      "id": "234206",
+      "title": "KMK and Post Office Buildings",
+      "latitude": 43.31617139,
+      "longitude": -1.98130296,
+      "directions": "On Reyes Catolicos Kalea, Donostia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234206",
+      "photo_urls": []
+    },
+    {
+      "id": "234213",
+      "title": "Pierre Ducasse",
+      "latitude": 43.3211695,
+      "longitude": -1.98235005,
+      "directions": "On Gipuzkoa Plaza, Donostia, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234213",
+      "photo_urls": []
+    },
+    {
+      "id": "234216",
+      "title": "Pedro Pablo Abarca de Bolea y Ximénez de Urrea",
+      "latitude": 41.65421835,
+      "longitude": -0.88436455,
+      "directions": "On Calle del Conde de Aranda, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234216",
+      "photo_urls": []
+    },
+    {
+      "id": "234219",
+      "title": "Plaza of the Seo",
+      "latitude": 41.65538109,
+      "longitude": -0.87589035,
+      "directions": "On Plaza de la Seo, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234219",
+      "photo_urls": []
+    },
+    {
+      "id": "234223",
+      "title": "La Seo de San Salvador",
+      "latitude": 41.65509216,
+      "longitude": -0.87591342,
+      "directions": "On Plaza de la Seo, Zaragoza, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234223",
+      "photo_urls": []
+    },
+    {
+      "id": "234233",
+      "title": "Plaza de San Bruno",
+      "latitude": 41.65483295,
+      "longitude": -0.87504354,
+      "directions": "On Plaza de San Bruno, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234233",
+      "photo_urls": []
+    },
+    {
+      "id": "234247",
+      "title": "Ponte de Santiago / Puente Santiago / Saint Jame’s Bridge",
+      "latitude": 42.73907902,
+      "longitude": -8.66182897,
+      "directions": "On Praza Cantón Igrexa, Padrón, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234247",
+      "photo_urls": []
+    },
+    {
+      "id": "234258",
+      "title": "Escolapios y Palacio de los Luna",
+      "latitude": 41.65437277,
+      "longitude": -0.88436929,
+      "directions": "On Avenida de César Augusto, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234258",
+      "photo_urls": []
+    },
+    {
+      "id": "234259",
+      "title": "Plaza de Santa Marta",
+      "latitude": 41.65425979,
+      "longitude": -0.87655289,
+      "directions": "On Calle Diego Dormer, Zaragoza, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234259",
+      "photo_urls": []
+    },
+    {
+      "id": "234260",
+      "title": "Palacio de los Condes de Morata o de los Luna",
+      "latitude": 41.65394667,
+      "longitude": -0.8835878,
+      "directions": "On Calle del Coso, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234260",
+      "photo_urls": []
+    },
+    {
+      "id": "234276",
+      "title": "Calle San Diego",
+      "latitude": 41.65066281,
+      "longitude": -0.88279113,
+      "directions": "On Calle de San Diego, Zaragoza, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234276",
+      "photo_urls": []
+    },
+    {
+      "id": "234277",
+      "title": "Puerta del Carmen",
+      "latitude": 41.64957866,
+      "longitude": -0.88722226,
+      "directions": "On Calle de Canfranc, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234277",
+      "photo_urls": []
+    },
+    {
+      "id": "234284",
+      "title": "Calle de Don Alfonso I",
+      "latitude": 41.6540533,
+      "longitude": -0.88107082,
+      "directions": "On Plaza Santiago Sas, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234284",
+      "photo_urls": []
+    },
+    {
+      "id": "234285",
+      "title": "Spanish Civil War Memorial",
+      "latitude": 41.5918376,
+      "longitude": 1.8374381,
+      "directions": "On Camino a Creu de Sant Miguel, Monestir de Montserrat, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234285",
+      "photo_urls": []
+    },
+    {
+      "id": "234331",
+      "title": "Puerta del Carmen",
+      "latitude": 41.64949665,
+      "longitude": -0.8876103,
+      "directions": "On Paso de Pamplona (Route N-330) , Zaragoza, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234331",
+      "photo_urls": []
+    },
+    {
+      "id": "234333",
+      "title": "Basilica of Santa Engracia",
+      "latitude": 41.64906981,
+      "longitude": -0.88289419,
+      "directions": "On Calle de Tomás Castellano, Zaragoza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234333",
+      "photo_urls": []
+    },
+    {
+      "id": "234408",
+      "title": "Puerta del Carmen",
+      "latitude": 41.64987941,
+      "longitude": -0.88756044,
+      "directions": "On Calle de Hernán Cortés, Zaragoza, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234408",
+      "photo_urls": []
+    },
+    {
+      "id": "234409",
+      "title": "Plaza de España",
+      "latitude": 41.65194743,
+      "longitude": -0.88145004,
+      "directions": "On Plaza de España, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234409",
+      "photo_urls": []
+    },
+    {
+      "id": "234441",
+      "title": "Francisco Goya Cenotaph",
+      "latitude": 41.65566953,
+      "longitude": -0.87699274,
+      "directions": "On Plaza de Nuestra Señora del Pilar, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234441",
+      "photo_urls": []
+    },
+    {
+      "id": "234466",
+      "title": "Muralla / City Wall",
+      "latitude": 42.04745673,
+      "longitude": -8.64421999,
+      "directions": "On Rúa Ordóñez, Tui, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234466",
+      "photo_urls": []
+    },
+    {
+      "id": "234520",
+      "title": "Fonte do Carme / Fuente de Carmen / Fountain of Carme",
+      "latitude": 42.73905987,
+      "longitude": -8.66268423,
+      "directions": "On Rúa Costa do Carme, Padrón, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234520",
+      "photo_urls": []
+    },
+    {
+      "id": "234554",
+      "title": "Xosé L. Franco Grande",
+      "latitude": 42.28312552,
+      "longitude": -8.60960059,
+      "directions": "On Paseo da Xunqueira, Redondela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234554",
+      "photo_urls": []
+    },
+    {
+      "id": "234576",
+      "title": "Plaza de Santiago Sas",
+      "latitude": 41.65401595,
+      "longitude": -0.88108003,
+      "directions": "On Calle de Alfonso I, Zaragoza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234576",
+      "photo_urls": []
+    },
+    {
+      "id": "234658",
+      "title": "Fonte do Franco / Fountain of Francis",
+      "latitude": 42.87916549,
+      "longitude": -8.54503244,
+      "directions": "On Rúa do Franco, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234658",
+      "photo_urls": []
+    },
+    {
+      "id": "234680",
+      "title": "Convento do Carme / Convento del Carmen / Carme Convent",
+      "latitude": 42.7388556,
+      "longitude": -8.66308939,
+      "directions": "On Calle Costanilla Carme, Padrón, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234680",
+      "photo_urls": []
+    },
+    {
+      "id": "235287",
+      "title": "Municipal Employees Killed in 1920",
+      "latitude": 41.64820198,
+      "longitude": -0.88252538,
+      "directions": "On Calle de Don Hernando de Aragón, Zaragoza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235287",
+      "photo_urls": []
+    },
+    {
+      "id": "235289",
+      "title": "Monument to the Martyrs to Religion and the Nation",
+      "latitude": 41.65206421,
+      "longitude": -0.8810091,
+      "directions": "On Plaza de España, Zaragoza, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235289",
+      "photo_urls": []
+    },
+    {
+      "id": "235291",
+      "title": "Pedro María Ric y Monserrat",
+      "latitude": 41.65391233,
+      "longitude": -0.88355559,
+      "directions": "On Calle del Coso, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235291",
+      "photo_urls": []
+    },
+    {
+      "id": "235471",
+      "title": "El Pilar Cathedral in the Sieges",
+      "latitude": 41.6555451,
+      "longitude": -0.87843093,
+      "directions": "On Calle de Damián Forment, Zaragoza, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235471",
+      "photo_urls": []
+    },
+    {
+      "id": "235473",
+      "title": "Church of Santiago el Mayor",
+      "latitude": 41.65262621,
+      "longitude": -0.88513879,
+      "directions": "On Avenida de César Augusto, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235473",
+      "photo_urls": []
+    },
+    {
+      "id": "235832",
+      "title": "Plaza de España",
+      "latitude": 41.65206157,
+      "longitude": -0.88143073,
+      "directions": "On Paseo de la Independencia, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235832",
+      "photo_urls": []
+    },
+    {
+      "id": "236636",
+      "title": "Palacio de la Aljafería",
+      "latitude": 41.65632636,
+      "longitude": -0.89550849,
+      "directions": "On Calle de los Diputados, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236636",
+      "photo_urls": []
+    },
+    {
+      "id": "236721",
+      "title": "La Aljafería",
+      "latitude": 41.65662145,
+      "longitude": -0.89546323,
+      "directions": "On Calle de los Diputados, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236721",
+      "photo_urls": []
+    },
+    {
+      "id": "236723",
+      "title": "Iglesia de Nuestra Señora del Portillo",
+      "latitude": 41.65581178,
+      "longitude": -0.89278605,
+      "directions": "On Plaza del Portillo, Zaragoza, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=236723",
+      "photo_urls": []
+    },
+    {
+      "id": "237125",
+      "title": "Plaza del Portillo",
+      "latitude": 41.65577205,
+      "longitude": -0.8923127,
+      "directions": "On Calle del Conde de Aranda, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237125",
+      "photo_urls": []
+    },
+    {
+      "id": "237249",
+      "title": "Plaza del Portillo Monumento a los Sitios de Zaragoza",
+      "latitude": 41.65556817,
+      "longitude": -0.89239246,
+      "directions": "On Calle del Conde de Aranda, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237249",
+      "photo_urls": []
+    },
+    {
+      "id": "237250",
+      "title": "Calle Ramón Pignatelli, 67",
+      "latitude": 41.65408338,
+      "longitude": -0.88825803,
+      "directions": "On Calle de Ramón Pignatelli, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237250",
+      "photo_urls": []
+    },
+    {
+      "id": "237252",
+      "title": "Calle Ramón Pignatelli, 65",
+      "latitude": 41.65407376,
+      "longitude": -0.88813092,
+      "directions": "On Calle de Ramón Pignatelli, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237252",
+      "photo_urls": []
+    },
+    {
+      "id": "237254",
+      "title": "Calle Ramón Pignatelli, 63",
+      "latitude": 41.6540625,
+      "longitude": -0.88806019,
+      "directions": "On Calle de Ramón Pignatelli, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237254",
+      "photo_urls": []
+    },
+    {
+      "id": "237273",
+      "title": "Porta do Relox / Puerta de Reloj / Former Clock Gate",
+      "latitude": 42.7391624,
+      "longitude": -8.65949783,
+      "directions": "On Rúa Real, Padrón, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237273",
+      "photo_urls": []
+    },
+    {
+      "id": "237326",
+      "title": "Miguel Ángel Blanco Memorial",
+      "latitude": 42.87329692,
+      "longitude": -8.54335609,
+      "directions": "On Rúa de Ramón Piñeiro, Santiago de Compostela, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237326",
+      "photo_urls": []
+    },
+    {
+      "id": "237338",
+      "title": "Viaduto de Pontevedra / Pontevedra Viaduct",
+      "latitude": 42.2860178,
+      "longitude": -8.60956749,
+      "directions": "On Rúa Xeneral Rubín, Redondela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237338",
+      "photo_urls": []
+    },
+    {
+      "id": "237378",
+      "title": "Calle Ramón Pignatelli, 70",
+      "latitude": 41.65411423,
+      "longitude": -0.88801022,
+      "directions": "On Calle de Ramón Pignatelli, Zaragoza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237378",
+      "photo_urls": []
+    },
+    {
+      "id": "237380",
+      "title": "Calle Ramón Pignatelli, 43",
+      "latitude": 41.65399805,
+      "longitude": -0.88717274,
+      "directions": "On Calle de Ramón Pignatelli, Zaragoza, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237380",
+      "photo_urls": []
+    },
+    {
+      "id": "237381",
+      "title": "Plaza San Pedro Nolasco",
+      "latitude": 41.65277863,
+      "longitude": -0.87679897,
+      "directions": "On Plaza de San Pedro Nolasco, Zaragoza, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237381",
+      "photo_urls": []
+    },
+    {
+      "id": "237387",
+      "title": "José Sinués y Urbiola",
+      "latitude": 41.6523789,
+      "longitude": -0.879328,
+      "directions": "On Plaza de José Sinués Urbiola, Zaragoza, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237387",
+      "photo_urls": []
+    },
+    {
+      "id": "237389",
+      "title": "Plaça de la Guàrdia Urbana",
+      "latitude": 41.1240016,
+      "longitude": 1.2351959,
+      "directions": "On Carrer de Luis Mestres i Capdevila, Tarragona, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237389",
+      "photo_urls": []
+    },
+    {
+      "id": "237470",
+      "title": "Rosalía de Castro and Manuel Murguia",
+      "latitude": 42.87868577,
+      "longitude": -8.54258094,
+      "directions": "On Praza da Universidade, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237470",
+      "photo_urls": []
+    },
+    {
+      "id": "237479",
+      "title": "Don Antonio Lopez e Ferreiro",
+      "latitude": 42.87861179,
+      "longitude": -8.54263549,
+      "directions": "On Praza da Universidade, Santiago de Compostela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237479",
+      "photo_urls": []
+    },
+    {
+      "id": "237506",
+      "title": "Roman Circus Stands",
+      "latitude": 41.11673553,
+      "longitude": 1.2554564,
+      "directions": "On Plaça de la Font, Tarragona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237506",
+      "photo_urls": []
+    },
+    {
+      "id": "237535",
+      "title": "Ángel Barceló Vallvé",
+      "latitude": 41.1174991,
+      "longitude": 1.25681876,
+      "directions": "On Carrer Major, Tarragona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237535",
+      "photo_urls": []
+    },
+    {
+      "id": "237640",
+      "title": "Victoriano García Martí",
+      "latitude": 42.87753907,
+      "longitude": -8.5440364,
+      "directions": "On Rúa das Orfas, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237640",
+      "photo_urls": []
+    },
+    {
+      "id": "237646",
+      "title": "Sant Agapito Bis",
+      "latitude": 41.11821778,
+      "longitude": 1.25561504,
+      "directions": "On Carrer de Comte, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237646",
+      "photo_urls": []
+    },
+    {
+      "id": "237659",
+      "title": "Colexio de San Patricio dos Irlandeses / Saint Patrick’s College of the Irish",
+      "latitude": 42.87799733,
+      "longitude": -8.54406945,
+      "directions": "On Rúa Nova, Santiago de Compostela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237659",
+      "photo_urls": []
+    },
+    {
+      "id": "237666",
+      "title": "Anxel Casal",
+      "latitude": 42.87920625,
+      "longitude": -8.5443135,
+      "directions": "On Rúa do Vilar, Santiago de Compostela, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237666",
+      "photo_urls": []
+    },
+    {
+      "id": "237727",
+      "title": "Leandro Fernández de Moratín",
+      "latitude": 40.4129557,
+      "longitude": -3.69552019,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237727",
+      "photo_urls": []
+    },
+    {
+      "id": "238027",
+      "title": "A Casa Da Torre / The Tower House",
+      "latitude": 42.28216939,
+      "longitude": -8.60860943,
+      "directions": "On Praza de Ribadavia, Redondela, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238027",
+      "photo_urls": []
+    },
+    {
+      "id": "238028",
+      "title": "Casa da Alfóndega",
+      "latitude": 42.28236061,
+      "longitude": -8.60855149,
+      "directions": "On Rúa Reveriano Soutullo, Redondela, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238028",
+      "photo_urls": []
+    },
+    {
+      "id": "238052",
+      "title": "Igrexa de Santa María do Camiño / Church of Santa Maria of the Way",
+      "latitude": 42.88162952,
+      "longitude": -8.54098354,
+      "directions": "On Rúa da Travesa, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238052",
+      "photo_urls": []
+    },
+    {
+      "id": "238173",
+      "title": "I Congreso Do Doreito Galego / First Congess of Galician Law",
+      "latitude": 42.42986944,
+      "longitude": -8.6484,
+      "directions": "On Avenida Montero Ríos, Pontevedra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238173",
+      "photo_urls": []
+    },
+    {
+      "id": "238202",
+      "title": "Antiga Cárcere /Antigua Carcel / Former Jail",
+      "latitude": 42.73816829,
+      "longitude": -8.66056571,
+      "directions": "On Rúa Longa, Padrón, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238202",
+      "photo_urls": []
+    },
+    {
+      "id": "238223",
+      "title": "Casa del General / House of the General",
+      "latitude": 41.11753667,
+      "longitude": 1.25678019,
+      "directions": "On Carrer Major, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238223",
+      "photo_urls": []
+    },
+    {
+      "id": "238224",
+      "title": "Josep Alsina Amorós",
+      "latitude": 41.11762082,
+      "longitude": 1.25685695,
+      "directions": "On Carrer Major, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238224",
+      "photo_urls": []
+    },
+    {
+      "id": "238225",
+      "title": "Antic Ajuntament / Former City Hall",
+      "latitude": 41.11819867,
+      "longitude": 1.25740959,
+      "directions": "On Carrer Major, Tarragona, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238225",
+      "photo_urls": []
+    },
+    {
+      "id": "238226",
+      "title": "Capela das Ánimas / Chapel of the Souls",
+      "latitude": 42.8816057,
+      "longitude": -8.54183295,
+      "directions": "On Rúa das Casas Reais, Santiago de Compostela, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238226",
+      "photo_urls": []
+    },
+    {
+      "id": "238257",
+      "title": "Casa del Cambrer / The Camerlengo's House",
+      "latitude": 41.11882006,
+      "longitude": 1.25758077,
+      "directions": "On Pla de la Seu, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238257",
+      "photo_urls": []
+    },
+    {
+      "id": "238258",
+      "title": "1936 + Murdered Catholic Priests + 1939",
+      "latitude": 41.11949063,
+      "longitude": 1.25798813,
+      "directions": "Near Pla de la Seu, Tarragona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238258",
+      "photo_urls": []
+    },
+    {
+      "id": "238342",
+      "title": "Roman Worship Enclosure / Recinte de Culte Imperial",
+      "latitude": 41.11928345,
+      "longitude": 1.25744971,
+      "directions": "On Carrer de la Mare de Déu del Claustre, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238342",
+      "photo_urls": []
+    },
+    {
+      "id": "238373",
+      "title": "Apostle Paul in Tarragona",
+      "latitude": 41.11950508,
+      "longitude": 1.25721191,
+      "directions": "On Carrer de la Mare de Déu del Claustre, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238373",
+      "photo_urls": []
+    },
+    {
+      "id": "238375",
+      "title": "Església de l'Ensenyança / Church of the Company of Mary",
+      "latitude": 41.1197573,
+      "longitude": 1.25918448,
+      "directions": "On Carrer de Sant Pau, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238375",
+      "photo_urls": []
+    },
+    {
+      "id": "238377",
+      "title": "Santa Tecla la Vella / Church of Santa Tecla la Vella",
+      "latitude": 41.11953616,
+      "longitude": 1.25891059,
+      "directions": "On Carrer de les Coques, Tarragona, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238377",
+      "photo_urls": []
+    },
+    {
+      "id": "238402",
+      "title": "Hospital de Santa Tecla",
+      "latitude": 41.11914448,
+      "longitude": 1.2586867,
+      "directions": "On Carrer de les Coques, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238402",
+      "photo_urls": []
+    },
+    {
+      "id": "238403",
+      "title": "Casa dels Concilis / Council House",
+      "latitude": 41.11894966,
+      "longitude": 1.25858255,
+      "directions": "On Carrer de les Coques, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238403",
+      "photo_urls": []
+    },
+    {
+      "id": "238463",
+      "title": "Amphitheater",
+      "latitude": 41.1154023,
+      "longitude": 1.25773843,
+      "directions": "On Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238463",
+      "photo_urls": []
+    },
+    {
+      "id": "238585",
+      "title": "Església de Santa Maria del Miracle / Saint Mary of the Miracle Church",
+      "latitude": 41.11495088,
+      "longitude": 1.25873767,
+      "directions": "On Via sense nom, Tarragona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238585",
+      "photo_urls": []
+    },
+    {
+      "id": "238770",
+      "title": "L’arena i les fosses / The arena and the fossae",
+      "latitude": 41.11441435,
+      "longitude": 1.25854623,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238770",
+      "photo_urls": []
+    },
+    {
+      "id": "238773",
+      "title": "La graderia meridional i la tribuna d'autoritats",
+      "latitude": 41.11445576,
+      "longitude": 1.25861034,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238773",
+      "photo_urls": []
+    },
+    {
+      "id": "238902",
+      "title": "La inscripció d'Heliogàbal / The Inscription of Heliogabalus",
+      "latitude": 41.11441792,
+      "longitude": 1.25888635,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238902",
+      "photo_urls": []
+    },
+    {
+      "id": "238905",
+      "title": "Els cementiris visigòtic i medieval / The Visigothic and Medieval Cemeteries",
+      "latitude": 41.11439888,
+      "longitude": 1.2588982,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238905",
+      "photo_urls": []
+    },
+    {
+      "id": "238912",
+      "title": "Torre rellotge / Clock Tower",
+      "latitude": 41.10744428,
+      "longitude": 1.24933211,
+      "directions": "On Passeig de L&#39;Escullera, Tarragona, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238912",
+      "photo_urls": []
+    },
+    {
+      "id": "238913",
+      "title": "La graderia septentrional / The Northern Seating Area",
+      "latitude": 41.11446882,
+      "longitude": 1.25875015,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238913",
+      "photo_urls": []
+    },
+    {
+      "id": "238917",
+      "title": "El podi / The Podium",
+      "latitude": 41.11434679,
+      "longitude": 1.2585919,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238917",
+      "photo_urls": []
+    },
+    {
+      "id": "238923",
+      "title": "La Porta Triumphalis i la inscripció inaugural de l'Amfiteatre",
+      "latitude": 41.1143658,
+      "longitude": 1.2585577,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238923",
+      "photo_urls": []
+    },
+    {
+      "id": "238984",
+      "title": "L'església de Santa Maria del Miracle / The Church of Santa Maria del Miracle",
+      "latitude": 41.11455325,
+      "longitude": 1.25875979,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238984",
+      "photo_urls": []
+    },
+    {
+      "id": "239048",
+      "title": "Els santuaris de Nèmesi / The Nemesis Shrines",
+      "latitude": 41.11462585,
+      "longitude": 1.25878657,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239048",
+      "photo_urls": []
+    },
+    {
+      "id": "239049",
+      "title": "La basilica visigòtica / The Visigothic Basilica",
+      "latitude": 41.11455738,
+      "longitude": 1.25894166,
+      "directions": "Near Via William J. Bryant, Tarragona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239049",
+      "photo_urls": []
+    },
+    {
+      "id": "239612",
+      "title": "Derelictes / Wrecks",
+      "latitude": 41.10949199,
+      "longitude": 1.24966985,
+      "directions": "On Moll de la Costa, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239612",
+      "photo_urls": []
+    },
+    {
+      "id": "239613",
+      "title": "Grua elèctrica de pòrtic mòbil / Mobile electric gantry crane",
+      "latitude": 41.10926989,
+      "longitude": 1.24952765,
+      "directions": "On Moll de la Costa, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239613",
+      "photo_urls": []
+    },
+    {
+      "id": "239722",
+      "title": "Fundación e Museo Eugenio Granell / Eugenio Granell Foundation and Museum",
+      "latitude": 42.87768299,
+      "longitude": -8.54495399,
+      "directions": "On Praza do Toural, Santiago de Compostela, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239722",
+      "photo_urls": []
+    },
+    {
+      "id": "239751",
+      "title": "Monumento al Soldado (Monument to the Soldier)",
+      "latitude": 42.42981759,
+      "longitude": -8.64966236,
+      "directions": "On Avenida Raíña Vitoria Uxía, Pontevedra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239751",
+      "photo_urls": []
+    },
+    {
+      "id": "239773",
+      "title": "Baluarte do Carballo / Batería do Caballo / The Battery of Carballo",
+      "latitude": 42.04502405,
+      "longitude": -8.64528248,
+      "directions": "On Calexon Bajada a Piñeiro, Tui, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239773",
+      "photo_urls": []
+    },
+    {
+      "id": "239855",
+      "title": "Grua elèctrica de pòrtic mòbil / Mobile electric gantry crane",
+      "latitude": 41.10938497,
+      "longitude": 1.24845036,
+      "directions": "On Moll de la Costa, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239855",
+      "photo_urls": []
+    },
+    {
+      "id": "239861",
+      "title": "Catedral de Santa María / The Cathedral Complex",
+      "latitude": 42.04633547,
+      "longitude": -8.6448992,
+      "directions": "On Praza do San Fernando, Tui, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239861",
+      "photo_urls": []
+    },
+    {
+      "id": "239888",
+      "title": "Capela da Misericordia / Capilla de la Misericordia / Chapel of Mercy",
+      "latitude": 42.04613633,
+      "longitude": -8.64386552,
+      "directions": "On Rúa Párroco Rodríguez Vázquez, Tui, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239888",
+      "photo_urls": []
+    },
+    {
+      "id": "239933",
+      "title": "Antigo Hospital de Pobres e Peregrinos / The Hospital for the Poor and for Pilgrims",
+      "latitude": 42.04641553,
+      "longitude": -8.64463761,
+      "directions": "On Plaza San Fernando, Tui, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239933",
+      "photo_urls": []
+    },
+    {
+      "id": "239965",
+      "title": "Casa do Deán, Oficina do Peregríno / House of the Dean, Office of the Pilgrims",
+      "latitude": 42.87970471,
+      "longitude": -8.54416522,
+      "directions": "On Rúa do Vilar, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239965",
+      "photo_urls": []
+    },
+    {
+      "id": "240003",
+      "title": "Grua elèctrica de pòrtic / Electric gantry crane",
+      "latitude": 41.10936666,
+      "longitude": 1.24854957,
+      "directions": "On Moll de la Costa, Tarragona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240003",
+      "photo_urls": []
+    },
+    {
+      "id": "240014",
+      "title": "Tinglado / Warehouse",
+      "latitude": 41.10928253,
+      "longitude": 1.24804752,
+      "directions": "On Moll de la Costa, Tarragona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240014",
+      "photo_urls": []
+    },
+    {
+      "id": "240015",
+      "title": "Conjunt Monumental de la plaça del Rei / Monumental Ensemble of the Plaça del Rei",
+      "latitude": 41.38392278,
+      "longitude": 2.17764564,
+      "directions": "On Carrer del Veguer, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240015",
+      "photo_urls": []
+    },
+    {
+      "id": "240179",
+      "title": "Rosalía de Castro",
+      "latitude": 42.87997949,
+      "longitude": -8.54270066,
+      "directions": "On Rúa da Conga, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240179",
+      "photo_urls": []
+    },
+    {
+      "id": "240238",
+      "title": "Facultade de Medicina / Faculty of Medicine",
+      "latitude": 42.88255069,
+      "longitude": -8.54547907,
+      "directions": "On Rúa de San Francisco, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240238",
+      "photo_urls": []
+    },
+    {
+      "id": "240254",
+      "title": "Colexio de San Xerome / College of Saint Jerome",
+      "latitude": 42.88005184,
+      "longitude": -8.54550057,
+      "directions": "On Avenida de Raxoi, Santiago de Compostela, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240254",
+      "photo_urls": []
+    },
+    {
+      "id": "240268",
+      "title": "Casa da Concha / House of the Shell",
+      "latitude": 42.87992073,
+      "longitude": -8.54272038,
+      "directions": "On Rúa da Conga, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240268",
+      "photo_urls": []
+    },
+    {
+      "id": "240270",
+      "title": "Valle-Inclán",
+      "latitude": 42.87668547,
+      "longitude": -8.54431629,
+      "directions": "On Rúa do Hórreo, Santiago de Compostela, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240270",
+      "photo_urls": []
+    },
+    {
+      "id": "240285",
+      "title": "Igrexa do Pilar / Church of the Pillar",
+      "latitude": 42.87652939,
+      "longitude": -8.54819167,
+      "directions": "On Avenida de Xoán Carlos I, Santiago de Compostela, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240285",
+      "photo_urls": []
+    },
+    {
+      "id": "240305",
+      "title": "Mansio de Aquis Celenis",
+      "latitude": 42.60364213,
+      "longitude": -8.64310527,
+      "directions": "On Rúa Real, Caldas de Reis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240305",
+      "photo_urls": []
+    },
+    {
+      "id": "240324",
+      "title": "Facultade de Medicina / Faculty of Medicine",
+      "latitude": 42.88258733,
+      "longitude": -8.54549301,
+      "directions": "On Rúa de San Francisco, Santiago de Compostela, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240324",
+      "photo_urls": []
+    },
+    {
+      "id": "240411",
+      "title": "Igrexa de Santiago (Século XV) / Church of Santiago (15th Century)",
+      "latitude": 42.28334057,
+      "longitude": -8.60764531,
+      "directions": "On Rúa Isadoro Queimaliños, Redondela, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240411",
+      "photo_urls": []
+    },
+    {
+      "id": "240435",
+      "title": "O Convento de Vilavella (Sèculos XVI-XX) / The Convent of Vilavella (16th-20th Centuries)",
+      "latitude": 42.27896903,
+      "longitude": -8.61029014,
+      "directions": "On Praza de Monteareas, Redondela, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240435",
+      "photo_urls": []
+    },
+    {
+      "id": "240921",
+      "title": "Félix Lope de Vega (Madrid, 1562 - 1635)",
+      "latitude": 40.41329058,
+      "longitude": -3.69689043,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240921",
+      "photo_urls": []
+    },
+    {
+      "id": "241091",
+      "title": "Miguel de Cervantes",
+      "latitude": 40.41430668,
+      "longitude": -3.69851567,
+      "directions": "On Calle de Cervantes, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241091",
+      "photo_urls": []
+    },
+    {
+      "id": "241266",
+      "title": "Histórica de Tui / Ciudad Histórica de Tui / The Historic City",
+      "latitude": 42.04493624,
+      "longitude": -8.64462806,
+      "directions": "On Rúa Sanz, Tui, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241266",
+      "photo_urls": []
+    },
+    {
+      "id": "241346",
+      "title": "Igrexa parroquial de Santiago de Padrón / St. Jame’s Church",
+      "latitude": 42.73910852,
+      "longitude": -8.66145168,
+      "directions": "On Rúa Castelao, Padrón, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241346",
+      "photo_urls": []
+    },
+    {
+      "id": "241605",
+      "title": "Pazo do Concello / Palacio del Ayuntamiento / Town Hall Square",
+      "latitude": 42.73832272,
+      "longitude": -8.66058515,
+      "directions": "On Rúa Longa, Padrón, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241605",
+      "photo_urls": []
+    },
+    {
+      "id": "241645",
+      "title": "Antigo Hospital Real / Former Royal Hospital",
+      "latitude": 42.88104492,
+      "longitude": -8.5454775,
+      "directions": "On Praza do Obradoiro, Santiago de Compostela, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241645",
+      "photo_urls": []
+    },
+    {
+      "id": "241780",
+      "title": "Panoramic portals of Montserrat",
+      "latitude": 41.59362322,
+      "longitude": 1.84009385,
+      "directions": "Near BP-1121, Monistrol de Montserrat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241780",
+      "photo_urls": []
+    },
+    {
+      "id": "243877",
+      "title": "Pilgrimage Routes in Montserrat",
+      "latitude": 41.59275356,
+      "longitude": 1.83720532,
+      "directions": "On Route BP-1121, Monestir de Montserrat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243877",
+      "photo_urls": []
+    },
+    {
+      "id": "243879",
+      "title": "Saint Joseph Manyanet",
+      "latitude": 41.591605,
+      "longitude": 1.8376665,
+      "directions": "On Camino de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243879",
+      "photo_urls": []
+    },
+    {
+      "id": "243963",
+      "title": "Francesc Palau i Quer",
+      "latitude": 41.5915039,
+      "longitude": 1.8377745,
+      "directions": "On Camino de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243963",
+      "photo_urls": []
+    },
+    {
+      "id": "243965",
+      "title": "Saint Joana de Lestonnac",
+      "latitude": 41.591605,
+      "longitude": 1.8376665,
+      "directions": "On Camino de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243965",
+      "photo_urls": []
+    },
+    {
+      "id": "244023",
+      "title": "Carmen Sallés",
+      "latitude": 41.5913397,
+      "longitude": 1.8379039,
+      "directions": "On Camindo de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244023",
+      "photo_urls": []
+    },
+    {
+      "id": "244033",
+      "title": "Maria Ràfols",
+      "latitude": 41.59136919,
+      "longitude": 1.83785625,
+      "directions": "On Camino de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244033",
+      "photo_urls": []
+    },
+    {
+      "id": "244087",
+      "title": "Saint Francesc Coll i Guitart",
+      "latitude": 41.5902294,
+      "longitude": 1.838765,
+      "directions": "On Camino de la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244087",
+      "photo_urls": []
+    },
+    {
+      "id": "244088",
+      "title": "Montserrat Mountain Natural Park",
+      "latitude": 41.5919261,
+      "longitude": 1.834995,
+      "directions": "On Monastir de Montserrat, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244088",
+      "photo_urls": []
+    },
+    {
+      "id": "244339",
+      "title": "Water, sculptor of landscapes",
+      "latitude": 41.588417,
+      "longitude": 1.8420365,
+      "directions": "On Camino a la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244339",
+      "photo_urls": []
+    },
+    {
+      "id": "244340",
+      "title": "Pilgrims of Montserrat",
+      "latitude": 41.5920805,
+      "longitude": 1.8373809,
+      "directions": "On Camino a la Cruz de San Miguel, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244340",
+      "photo_urls": []
+    },
+    {
+      "id": "244344",
+      "title": "Albert Bonet i Marrugat",
+      "latitude": 41.5920367,
+      "longitude": 1.8358145,
+      "directions": "On Monastir de Montserrat, Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244344",
+      "photo_urls": []
+    },
+    {
+      "id": "244345",
+      "title": "The Sant Joan Funicular: One hundred years of history",
+      "latitude": 41.5920817,
+      "longitude": 1.8366413,
+      "directions": "On , Monestir de Montserrat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244345",
+      "photo_urls": []
+    },
+    {
+      "id": "252469",
+      "title": "Don José Luís Luque Rodríguez-Almansa",
+      "latitude": 37.392637,
+      "longitude": -5.99399897,
+      "directions": "On Calle Vargas Campos, Sevilla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252469",
+      "photo_urls": []
+    },
+    {
+      "id": "252474",
+      "title": "Most Holy Virgin of Hope gold crown",
+      "latitude": 37.38919255,
+      "longitude": -5.99338904,
+      "directions": "On Calle Álvarez Quintero, Sevilla, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252474",
+      "photo_urls": []
+    },
+    {
+      "id": "252475",
+      "title": "Don Pablo de Olavide y Jáuregui",
+      "latitude": 37.383459,
+      "longitude": -5.991862,
+      "directions": "On Calle Deán Miranda, Sevilla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252475",
+      "photo_urls": []
+    },
+    {
+      "id": "252477",
+      "title": "Maria Isabel de Orleans y Borbón",
+      "latitude": 37.38122897,
+      "longitude": -5.989372,
+      "directions": "On Calle San Fernando, Sevilla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252477",
+      "photo_urls": []
+    },
+    {
+      "id": "252478",
+      "title": "Seville Fair and Béquer",
+      "latitude": 37.38167597,
+      "longitude": -5.98926697,
+      "directions": "On Calle San Fernando, Sevilla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252478",
+      "photo_urls": []
+    },
+    {
+      "id": "252479",
+      "title": "Society of Jesus and Cervantes",
+      "latitude": 37.39272354,
+      "longitude": -5.99254787,
+      "directions": "On Calle Laraña, Sevilla, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252479",
+      "photo_urls": []
+    },
+    {
+      "id": "252555",
+      "title": "Victoria Kent Siano",
+      "latitude": 36.72550797,
+      "longitude": -4.41653247,
+      "directions": "On Calle Lagunillas, Málaga, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252555",
+      "photo_urls": []
+    },
+    {
+      "id": "252557",
+      "title": "Emilio Thuiller",
+      "latitude": 36.72458824,
+      "longitude": -4.41874358,
+      "directions": "On Calle Ramos Marín, Málaga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252557",
+      "photo_urls": []
+    },
+    {
+      "id": "252706",
+      "title": "Hospital Santo Tomas Apostal reconstruction",
+      "latitude": 36.72077582,
+      "longitude": -4.41980295,
+      "directions": "On Calle Santa María, Málaga, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252706",
+      "photo_urls": []
+    },
+    {
+      "id": "252780",
+      "title": "Cathedral tower",
+      "latitude": 36.72023938,
+      "longitude": -4.41994619,
+      "directions": "On Plaza Obispo, Málaga, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252780",
+      "photo_urls": []
+    },
+    {
+      "id": "252781",
+      "title": "Rescued image of Jesus and Mary",
+      "latitude": 36.720457,
+      "longitude": -4.41962897,
+      "directions": "On Calle Molina Lario, Málaga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252781",
+      "photo_urls": []
+    },
+    {
+      "id": "252798",
+      "title": "José Ruiz Blasco",
+      "latitude": 36.72281397,
+      "longitude": -4.41758497,
+      "directions": "On Calle Granada, Málaga, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252798",
+      "photo_urls": []
+    },
+    {
+      "id": "252827",
+      "title": "Carmen Thyssen Museum",
+      "latitude": 36.72140986,
+      "longitude": -4.42299888,
+      "directions": "On Calle Compañía, Málaga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252827",
+      "photo_urls": []
+    },
+    {
+      "id": "252829",
+      "title": "Bulevar Gran Capitan",
+      "latitude": 37.885649,
+      "longitude": -4.78214297,
+      "directions": "On Avenida del Gran Capitán, Córdoba, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252829",
+      "photo_urls": []
+    },
+    {
+      "id": "252830",
+      "title": "Historic Center of Cordova",
+      "latitude": 37.880569,
+      "longitude": -4.78415897,
+      "directions": "On Calle Puerta de Almodóvar, Córdoba, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252830",
+      "photo_urls": []
+    },
+    {
+      "id": "252888",
+      "title": "Antonio Jaen Morente",
+      "latitude": 37.88067997,
+      "longitude": -4.783871,
+      "directions": "On Calle Judíos, Córdoba, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252888",
+      "photo_urls": []
+    },
+    {
+      "id": "252979",
+      "title": "Solomón Ben Gabirol",
+      "latitude": 36.72131997,
+      "longitude": -4.41711997,
+      "directions": "On Calle Alcazabilla, Málaga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252979",
+      "photo_urls": []
+    },
+    {
+      "id": "253379",
+      "title": "Plaza Platería de Martinez",
+      "latitude": 40.41280797,
+      "longitude": -3.69392597,
+      "directions": "On Plaza Platería de Martínez, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253379",
+      "photo_urls": []
+    },
+    {
+      "id": "253380",
+      "title": "Pedro Poveda",
+      "latitude": 40.412005,
+      "longitude": -3.693846,
+      "directions": "On Calle de la Alameda, Madrid, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253380",
+      "photo_urls": []
+    },
+    {
+      "id": "253472",
+      "title": "Iglesia Basilica de Jesús de Medinaceli / Basilica of Jesus de Medinaceli",
+      "latitude": 40.41427307,
+      "longitude": -3.69563504,
+      "directions": "On Plaza Jesús, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253472",
+      "photo_urls": []
+    },
+    {
+      "id": "253473",
+      "title": "Benito Pérez Galdós",
+      "latitude": 40.41411597,
+      "longitude": -3.70127497,
+      "directions": "On Calle de las Huertas, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253473",
+      "photo_urls": []
+    },
+    {
+      "id": "253747",
+      "title": "Barris de Barraques de Montjuïc / Barraques de Montjuïc Neighborhoods",
+      "latitude": 41.36325833,
+      "longitude": 2.15734722,
+      "directions": "On Passeig Olímpic, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253747",
+      "photo_urls": []
+    },
+    {
+      "id": "267567",
+      "title": "Sir John Moore",
+      "latitude": 42.45708778,
+      "longitude": -6.05858485,
+      "directions": "On Calle Leopoldo Panero, Astorga, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267567",
+      "photo_urls": []
+    },
+    {
+      "id": "270966",
+      "title": "Francesc Macià i Llussà",
+      "latitude": 41.18252689,
+      "longitude": 1.45486394,
+      "directions": "On Carretera de Bonastre (Local Route TV-2041) , Roda de Berà, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270966",
+      "photo_urls": []
+    },
+    {
+      "id": "284457",
+      "title": "El Roc de Sant Gaieta",
+      "latitude": 41.16867307,
+      "longitude": 1.4804979,
+      "directions": "On Carrer de los Barques, Roda de Berà, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284457",
+      "photo_urls": []
+    },
+    {
+      "id": "289041",
+      "title": "Plaça del Cinc d’Oros",
+      "latitude": 41.39672125,
+      "longitude": 2.15922213,
+      "directions": "On Avinguda Diagonal, Barcelona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289041",
+      "photo_urls": []
+    },
+    {
+      "id": "289061",
+      "title": "Alborotos de Pan / Remboris de pa / Bread Riots",
+      "latitude": 41.38782123,
+      "longitude": 2.18065125,
+      "directions": "On Plaça de Sant Agustí Vell, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289061",
+      "photo_urls": []
+    },
+    {
+      "id": "289107",
+      "title": "Gustavo Adolfo Bécquer",
+      "latitude": 40.41380089,
+      "longitude": -3.69995584,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289107",
+      "photo_urls": []
+    },
+    {
+      "id": "289131",
+      "title": "José Echegaray y Eizaguirre",
+      "latitude": 40.41368407,
+      "longitude": -3.69943007,
+      "directions": "On Calle de las Huertas, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289131",
+      "photo_urls": []
+    },
+    {
+      "id": "289310",
+      "title": "José de Espronceda",
+      "latitude": 40.41276201,
+      "longitude": -3.69434752,
+      "directions": "On Calle de las Huertas, Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289310",
+      "photo_urls": []
+    },
+    {
+      "id": "289335",
+      "title": "Monumento al Cabo Noval / Monument to Corporal Noval",
+      "latitude": 40.41912683,
+      "longitude": -3.71209894,
+      "directions": "On Plaza de Oriente, Madrid, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289335",
+      "photo_urls": []
+    },
+    {
+      "id": "289340",
+      "title": "Los Caños del Peral",
+      "latitude": 40.4180937,
+      "longitude": -3.70914324,
+      "directions": "On Plaza de Isabel II, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289340",
+      "photo_urls": []
+    },
+    {
+      "id": "289345",
+      "title": "Iglesia Ponteficia de San Miguel / Pontifical Basilica of St. Michael",
+      "latitude": 40.41421805,
+      "longitude": -3.70973585,
+      "directions": "On Calle de San Justo, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289345",
+      "photo_urls": []
+    },
+    {
+      "id": "289349",
+      "title": "La Presó de Pilats / La Prisión de Pilatos / Pilatos Prison",
+      "latitude": 41.11668361,
+      "longitude": 1.25824885,
+      "directions": "On Plaça del Rei, Tarragona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289349",
+      "photo_urls": []
+    },
+    {
+      "id": "289381",
+      "title": "Fray Matías de Irala",
+      "latitude": 40.41663534,
+      "longitude": -3.7015859,
+      "directions": "On Calle de la Victoria, Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289381",
+      "photo_urls": []
+    },
+    {
+      "id": "289402",
+      "title": "Banderas de las comunidades autónomas / Flags of the Autonomous Communities",
+      "latitude": 40.42103108,
+      "longitude": -3.7117835,
+      "directions": "On Plaza de Eduardo Dato, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289402",
+      "photo_urls": []
+    },
+    {
+      "id": "289441",
+      "title": "<i>Dos de Mayo</i> Uprising Memorial",
+      "latitude": 40.41653186,
+      "longitude": -3.7039515,
+      "directions": "On Puerta del Sol, Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289441",
+      "photo_urls": []
+    },
+    {
+      "id": "289456",
+      "title": "Don Francisco de Quevedo Villegas",
+      "latitude": 40.41388611,
+      "longitude": -3.69771944,
+      "directions": "On Calle de Quevedo, Madrid, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289456",
+      "photo_urls": []
+    },
+    {
+      "id": "289492",
+      "title": "La Estatua Ecuestre de Felipe IV / Equestrian Statue of Philip IV",
+      "latitude": 40.41832582,
+      "longitude": -3.71186695,
+      "directions": "On Plaza de Oriente, Madrid, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289492",
+      "photo_urls": []
+    },
+    {
+      "id": "289496",
+      "title": "Antonio Cánovas del Castillo Monument",
+      "latitude": 40.4209538,
+      "longitude": -3.71155738,
+      "directions": "On Plaza de la Marina Española, Madrid, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289496",
+      "photo_urls": []
+    },
+    {
+      "id": "289502",
+      "title": "Palacio de Buenavista",
+      "latitude": 40.41939788,
+      "longitude": -3.69437528,
+      "directions": "On Calle Alcalá, Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289502",
+      "photo_urls": []
+    },
+    {
+      "id": "289694",
+      "title": "La muralla de marina / The sea-facing wall / La muraille de marina",
+      "latitude": 41.36281488,
+      "longitude": 2.16598956,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289694",
+      "photo_urls": []
+    },
+    {
+      "id": "291633",
+      "title": "L'afusellament del president Lluís Companys / The Execution of President Lluís Companys",
+      "latitude": 41.36408551,
+      "longitude": 2.16592432,
+      "directions": "Near Avinguda del Castell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291633",
+      "photo_urls": []
+    }
+  ]
+}
