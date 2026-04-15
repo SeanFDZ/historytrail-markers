@@ -1,0 +1,92 @@
+{
+  "region_id": "ar-argentina",
+  "region_name": "Argentina",
+  "region_type": "country",
+  "country": "Argentina",
+  "generated": "2026-04-15T06:08:28.569Z",
+  "source_timestamp": "2026-04-15T06:08:28.569Z",
+  "marker_count": 9,
+  "markers": [
+    {
+      "id": "26254",
+      "title": "Bernabe Mendez Bridge",
+      "latitude": -25.68645,
+      "longitude": -54.44631,
+      "directions": "On the <i>Circuito Superior</i>, Iguazú National Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26254",
+      "photo_urls": []
+    },
+    {
+      "id": "37605",
+      "title": "Alvar Núñez Cabeza de Vaca",
+      "latitude": -25.68396,
+      "longitude": -54.44395,
+      "directions": "On the <i>Circuito Inferior</i> (lower circuit trail), Iguazú National Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=37605",
+      "photo_urls": []
+    },
+    {
+      "id": "60367",
+      "title": "Republica Argentina",
+      "latitude": -41.04877,
+      "longitude": -71.15179,
+      "directions": "On National Route 40, near San Carlos de Bariloche, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60367",
+      "photo_urls": []
+    },
+    {
+      "id": "79235",
+      "title": "El Obelisco de Buenos Aires",
+      "latitude": -34.60373561,
+      "longitude": -58.38157296,
+      "directions": "On Avenida 9 de Julio, Buenos Aires, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79235",
+      "photo_urls": []
+    },
+    {
+      "id": "79322",
+      "title": "The Hill of Glory",
+      "latitude": -32.888636,
+      "longitude": -68.89125,
+      "directions": "On Bajada del Cierro, Mendoza, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79322",
+      "photo_urls": []
+    },
+    {
+      "id": "79382",
+      "title": "La Recoleta Cemetery",
+      "latitude": -34.587483,
+      "longitude": -58.393441,
+      "directions": "On Junin, Barrio Norte, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79382",
+      "photo_urls": []
+    },
+    {
+      "id": "79835",
+      "title": "Monument to Hispanic-Argentine Brotherhood",
+      "latitude": -32.89277778,
+      "longitude": -68.84194444,
+      "directions": "Near Montevideo, Mendoza, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79835",
+      "photo_urls": []
+    },
+    {
+      "id": "80260",
+      "title": "Templo de Nuestra Señora del Pilar",
+      "latitude": -34.58685904,
+      "longitude": -58.39199007,
+      "directions": "Near Calle Junín Nº 1898., Barrio Norte, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80260",
+      "photo_urls": []
+    },
+    {
+      "id": "80289",
+      "title": "La Librería de Avila",
+      "latitude": -34.61027436,
+      "longitude": -58.37341776,
+      "directions": "On Adolfo Asina, Monserrat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80289",
+      "photo_urls": []
+    }
+  ]
+}
