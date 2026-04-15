@@ -1,0 +1,803 @@
+{
+  "region_id": "pl-poland",
+  "region_name": "Poland",
+  "region_type": "country",
+  "country": "Poland",
+  "generated": "2026-04-15T06:08:28.577Z",
+  "source_timestamp": "2026-04-15T06:08:28.577Z",
+  "marker_count": 88,
+  "markers": [
+    {
+      "id": "118128",
+      "title": "Europe's First Bookshop",
+      "latitude": 50.061113,
+      "longitude": 19.936134,
+      "directions": "On Rynek G&#322;ówny, Kraków, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118128",
+      "photo_urls": []
+    },
+    {
+      "id": "118148",
+      "title": "Helena Modjeska",
+      "latitude": 50.059236,
+      "longitude": 19.937935,
+      "directions": "On plac Dominika&#324;ski, Kraków, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118148",
+      "photo_urls": []
+    },
+    {
+      "id": "118171",
+      "title": "Collegium Broscianum",
+      "latitude": 50.057309,
+      "longitude": 19.938315,
+      "directions": "On Grodzka, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118171",
+      "photo_urls": []
+    },
+    {
+      "id": "118173",
+      "title": "Ignacy Krieger",
+      "latitude": 50.062475,
+      "longitude": 19.938148,
+      "directions": "On &#346;wi&#281;tego Jana, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118173",
+      "photo_urls": []
+    },
+    {
+      "id": "118191",
+      "title": "The Prince's Burgher House",
+      "latitude": 50.66807,
+      "longitude": 17.92201,
+      "directions": "On Rynek, Opole, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118191",
+      "photo_urls": []
+    },
+    {
+      "id": "118198",
+      "title": "Pope John Paul II",
+      "latitude": 50.812261,
+      "longitude": 19.11025,
+      "directions": "On Aleja Naj&#347;wi&#281;tszej Maryi Panny, Cz&#281;stochowa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118198",
+      "photo_urls": []
+    },
+    {
+      "id": "118239",
+      "title": "Pope Pius XI",
+      "latitude": 50.670209,
+      "longitude": 17.920962,
+      "directions": "Near Katedralna, Opole, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118239",
+      "photo_urls": []
+    },
+    {
+      "id": "118388",
+      "title": "Krzysztof Bucki",
+      "latitude": 50.668034,
+      "longitude": 17.923617,
+      "directions": "On ul. Franciszka&#324;ska, Opole, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118388",
+      "photo_urls": []
+    },
+    {
+      "id": "118403",
+      "title": "Kamienica Pod Trzema Lipami / House Under the Three Linden Trees",
+      "latitude": 50.061394,
+      "longitude": 19.941613,
+      "directions": "On Miko&#322;ajska, Kraków, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118403",
+      "photo_urls": []
+    },
+    {
+      "id": "118407",
+      "title": "Jerzy Grotowski",
+      "latitude": 50.668253,
+      "longitude": 17.921898,
+      "directions": "On Rynek, Opole, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118407",
+      "photo_urls": []
+    },
+    {
+      "id": "118426",
+      "title": "Dawny Sierociniec / Former Orphanage (Orphanotropheum)",
+      "latitude": 51.114677,
+      "longitude": 17.043455,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118426",
+      "photo_urls": []
+    },
+    {
+      "id": "118428",
+      "title": "Wit Stwosz",
+      "latitude": 50.058024,
+      "longitude": 19.937915,
+      "directions": "On ul. Grodzka, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118428",
+      "photo_urls": []
+    },
+    {
+      "id": "118430",
+      "title": "Church of St. John the Baptist and John the Evangelist",
+      "latitude": 50.063162,
+      "longitude": 19.938781,
+      "directions": "On &#347;w. Jana, Kraków, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118430",
+      "photo_urls": []
+    },
+    {
+      "id": "118448",
+      "title": "Ludwik Teichmann",
+      "latitude": 50.064521,
+      "longitude": 19.94123,
+      "directions": "On Floria&#324;ska, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118448",
+      "photo_urls": []
+    },
+    {
+      "id": "118450",
+      "title": "First Evangelical Church",
+      "latitude": 50.063164,
+      "longitude": 19.938531,
+      "directions": "On &#346;wi&#281;tego Jana, Kraków, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118450",
+      "photo_urls": []
+    },
+    {
+      "id": "118500",
+      "title": "One of the Oldest Breweries in Poland",
+      "latitude": 50.064645,
+      "longitude": 19.939585,
+      "directions": "On &#346;wi&#281;tego Jana, Kraków, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118500",
+      "photo_urls": []
+    },
+    {
+      "id": "118516",
+      "title": "Polski Komitet Olimpijski / The Polish Olympic Committee",
+      "latitude": 50.064758,
+      "longitude": 19.939631,
+      "directions": "On Pijarska, Kraków, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118516",
+      "photo_urls": []
+    },
+    {
+      "id": "118519",
+      "title": "Józef Ch&#322;opicki",
+      "latitude": 50.062704,
+      "longitude": 19.937498,
+      "directions": "On Rynek G&#322;ówny, Kraków, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118519",
+      "photo_urls": []
+    },
+    {
+      "id": "118524",
+      "title": "Johann Wolfgang von Goethe",
+      "latitude": 50.062833,
+      "longitude": 19.937023,
+      "directions": "On Rynek G&#322;ówny, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118524",
+      "photo_urls": []
+    },
+    {
+      "id": "118549",
+      "title": "Studencki Komitet Solidarno&#347;ci / Student Committee of Solidarity",
+      "latitude": 50.058595,
+      "longitude": 19.937852,
+      "directions": "On Grodzka, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118549",
+      "photo_urls": []
+    },
+    {
+      "id": "118553",
+      "title": "Former Office Building of the Junkernstrasse-Baugesellschaft Company",
+      "latitude": 51.107882,
+      "longitude": 17.034973,
+      "directions": "On &#321;aciarska, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118553",
+      "photo_urls": []
+    },
+    {
+      "id": "118554",
+      "title": "Zdzis&#322;aw Jachimecki",
+      "latitude": 50.057475,
+      "longitude": 19.937995,
+      "directions": "On Grodzka, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118554",
+      "photo_urls": []
+    },
+    {
+      "id": "118572",
+      "title": "Holy Cross Cathedral",
+      "latitude": 50.670135,
+      "longitude": 17.919917,
+      "directions": "Near pl. Katedralny, Opole, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118572",
+      "photo_urls": []
+    },
+    {
+      "id": "118577",
+      "title": "Former department store and bookstore of the Priebatsch company",
+      "latitude": 51.110991,
+      "longitude": 17.031384,
+      "directions": "On Rynek, Wroc&#322;aw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118577",
+      "photo_urls": []
+    },
+    {
+      "id": "118743",
+      "title": "Jan Kanty Lasota",
+      "latitude": 50.061466,
+      "longitude": 19.942105,
+      "directions": "On Miko&#322;ajska, Kraków, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118743",
+      "photo_urls": []
+    },
+    {
+      "id": "118766",
+      "title": "Micha&#322; Stachowicz",
+      "latitude": 50.059393,
+      "longitude": 19.937725,
+      "directions": "On Grodzka, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118766",
+      "photo_urls": []
+    },
+    {
+      "id": "118788",
+      "title": "Izbicko (Steubendorf) World Wars I and II Memorial",
+      "latitude": 50.573646,
+      "longitude": 18.156941,
+      "directions": "Near Powsta&#324;ców &#346;l&#261;skich, Izbicko, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118788",
+      "photo_urls": []
+    },
+    {
+      "id": "118793",
+      "title": "First Post-war Esperanto Organization",
+      "latitude": 51.110814,
+      "longitude": 17.032313,
+      "directions": "On Rynek, Wroc&#322;aw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118793",
+      "photo_urls": []
+    },
+    {
+      "id": "118835",
+      "title": "Dawna dziekania katedralna / Former Cathedral Deanery",
+      "latitude": 51.114852,
+      "longitude": 17.046314,
+      "directions": "On Kapitulina, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118835",
+      "photo_urls": []
+    },
+    {
+      "id": "118848",
+      "title": "Bank Ludowy / The People's Bank",
+      "latitude": 50.668676,
+      "longitude": 17.918791,
+      "directions": "On Piastowska, Opole, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118848",
+      "photo_urls": []
+    },
+    {
+      "id": "118852",
+      "title": "Harcówka Zwi&#261;zek Harcerstwa Polskiego / Polish Scouting Association Meeting Room",
+      "latitude": 50.668671,
+      "longitude": 17.918826,
+      "directions": "On Piastowska, Opole, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118852",
+      "photo_urls": []
+    },
+    {
+      "id": "118868",
+      "title": "Biskup / Bishop Nanker",
+      "latitude": 51.114268,
+      "longitude": 17.045812,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118868",
+      "photo_urls": []
+    },
+    {
+      "id": "118870",
+      "title": "Dawny Zajazd Pocztowy / Ehemaliger Gasthof / The Old Post Inn",
+      "latitude": 50.668833,
+      "longitude": 17.921559,
+      "directions": "On Rynek, Opole, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118870",
+      "photo_urls": []
+    },
+    {
+      "id": "118872",
+      "title": "Opole Third Reich Victims Memorial",
+      "latitude": 50.667588,
+      "longitude": 17.921495,
+      "directions": "On Zamkowa, Opole, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118872",
+      "photo_urls": []
+    },
+    {
+      "id": "118874",
+      "title": "Natalia Gorbaniewska",
+      "latitude": 51.11063,
+      "longitude": 17.031486,
+      "directions": "On Rynek Ratusz, Wroc&#322;aw, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118874",
+      "photo_urls": []
+    },
+    {
+      "id": "118881",
+      "title": "Fryderyk (Frederic) Chopin",
+      "latitude": 51.114181,
+      "longitude": 17.045964,
+      "directions": "On plac Katedralny, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118881",
+      "photo_urls": []
+    },
+    {
+      "id": "118920",
+      "title": "W&#322;adys&#322;aw Orkan",
+      "latitude": 50.060943,
+      "longitude": 19.936526,
+      "directions": "On Bracka, Kraków, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118920",
+      "photo_urls": []
+    },
+    {
+      "id": "118922",
+      "title": "Andrzej Badurski",
+      "latitude": 50.061067,
+      "longitude": 19.939844,
+      "directions": "On Ma&#322;y Rynek, Kraków, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118922",
+      "photo_urls": []
+    },
+    {
+      "id": "118932",
+      "title": "Merkuriusz Polski / <i>The Polish Mercury</i>",
+      "latitude": 50.060993,
+      "longitude": 19.940466,
+      "directions": "On Ma&#322;y Rynek, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118932",
+      "photo_urls": []
+    },
+    {
+      "id": "118967",
+      "title": "Kamienica Strzemboszowska / The Strzemboszowska House",
+      "latitude": 50.061446,
+      "longitude": 19.940796,
+      "directions": "On Ma&#322;y Rynek, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118967",
+      "photo_urls": []
+    },
+    {
+      "id": "118979",
+      "title": "Former canons' house of the Holy Cross Chapter",
+      "latitude": 51.114503,
+      "longitude": 17.044091,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118979",
+      "photo_urls": []
+    },
+    {
+      "id": "118980",
+      "title": "Edmund Bojanowski",
+      "latitude": 51.114306,
+      "longitude": 17.044276,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118980",
+      "photo_urls": []
+    },
+    {
+      "id": "118983",
+      "title": "Dom Jana Matejki / House of Jan Matejko",
+      "latitude": 50.063946,
+      "longitude": 19.940782,
+      "directions": "On Floria&#324;ska, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118983",
+      "photo_urls": []
+    },
+    {
+      "id": "119008",
+      "title": "The Salon of Polish Painters",
+      "latitude": 50.063791,
+      "longitude": 19.940706,
+      "directions": "On Floria&#324;ska, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119008",
+      "photo_urls": []
+    },
+    {
+      "id": "119013",
+      "title": "Stanis&#322;aw Wyspia&#324;ski",
+      "latitude": 50.061323,
+      "longitude": 19.939176,
+      "directions": "On plac Mariacki, Kraków, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119013",
+      "photo_urls": []
+    },
+    {
+      "id": "119018",
+      "title": "Honoré de Balzac",
+      "latitude": 50.062917,
+      "longitude": 19.939796,
+      "directions": "On Floria&#324;ska, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119018",
+      "photo_urls": []
+    },
+    {
+      "id": "119019",
+      "title": "Feliks Nowowiejski",
+      "latitude": 50.063328,
+      "longitude": 19.94007,
+      "directions": "On Floria&#324;ska, Kraków, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119019",
+      "photo_urls": []
+    },
+    {
+      "id": "119023",
+      "title": "Rafa&#322; Józef Czerwiakowski",
+      "latitude": 50.06274,
+      "longitude": 19.939865,
+      "directions": "On Floria&#324;ska, Kraków, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119023",
+      "photo_urls": []
+    },
+    {
+      "id": "119045",
+      "title": "Mury Obronne Miasta Opola / Defensive Walls of the City of Opole",
+      "latitude": 50.67013,
+      "longitude": 17.918538,
+      "directions": "On Ksi&#281;dza Stefana Baldego, Opole, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119045",
+      "photo_urls": []
+    },
+    {
+      "id": "119067",
+      "title": "January Uprising Recruitment Site",
+      "latitude": 50.062225,
+      "longitude": 19.940891,
+      "directions": "On Szpitalna, Kraków, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119067",
+      "photo_urls": []
+    },
+    {
+      "id": "119080",
+      "title": "Muzeum Miejskie / Town Museum / Museo Civico",
+      "latitude": 49.88343,
+      "longitude": 19.494092,
+      "directions": "On Ko&#347;cielna, Wadowice, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119080",
+      "photo_urls": []
+    },
+    {
+      "id": "119086",
+      "title": "Wadowice Tobruk and Monte Cassino World War II Memorial",
+      "latitude": 49.88344508,
+      "longitude": 19.49349406,
+      "directions": "On plac Jana Paw&#322;a II, Wadowice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119086",
+      "photo_urls": []
+    },
+    {
+      "id": "119092",
+      "title": "&#346;wi&#281;temu Janowi Paw&#322;owi II / His Holiness Pope John Paul II",
+      "latitude": 49.88353043,
+      "longitude": 19.49347494,
+      "directions": "On plac Jana PawÅ‚a II, Wadowice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119092",
+      "photo_urls": []
+    },
+    {
+      "id": "119278",
+      "title": "Wadowice 12th Infantry Regiment War Memorial",
+      "latitude": 49.88350462,
+      "longitude": 19.49347782,
+      "directions": "On plac Jana PawÅ‚a II, Wadowice, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119278",
+      "photo_urls": []
+    },
+    {
+      "id": "119293",
+      "title": "Pomnik Nieznanemu &#379;o&#322;nierzowi / Unknown Soldier Monument",
+      "latitude": 50.812395,
+      "longitude": 19.102528,
+      "directions": "On aleja Henryka Sienkiewicza, Cz&#281;stochowa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119293",
+      "photo_urls": []
+    },
+    {
+      "id": "119295",
+      "title": "Dawna kanonia kapitu&#322;y &#347;wi&#281;tokrzyskiej / Canon's of the Holy Cross house",
+      "latitude": 51.11447142,
+      "longitude": 17.04365206,
+      "directions": "On Katedralna, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119295",
+      "photo_urls": []
+    },
+    {
+      "id": "119319",
+      "title": "Dawne wi&#281;zienie miejskie / Former city prison",
+      "latitude": 51.112516,
+      "longitude": 17.032516,
+      "directions": "On Wi&#281;zienna, Wroc&#322;aw, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119319",
+      "photo_urls": []
+    },
+    {
+      "id": "119323",
+      "title": "Akcja „Burza” i Powstania Warsawskiego Pomnik / Operation Tempest and Warsaw Uprising Memorial",
+      "latitude": 50.812445,
+      "longitude": 19.109363,
+      "directions": "Near Aleja Naj&#347;wi&#281;tszej Maryi Panny, Cz&#281;stochowa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119323",
+      "photo_urls": []
+    },
+    {
+      "id": "119328",
+      "title": "General Stefan Rowecki Memorial",
+      "latitude": 50.81245539,
+      "longitude": 19.10937108,
+      "directions": "On Aleja Naj&#347;wi&#281;tszej Maryi Panny, Cz&#281;stochowa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119328",
+      "photo_urls": []
+    },
+    {
+      "id": "119373",
+      "title": "Caspar Elyan",
+      "latitude": 51.11454532,
+      "longitude": 17.04333544,
+      "directions": "On Katedralna, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119373",
+      "photo_urls": []
+    },
+    {
+      "id": "119375",
+      "title": "Emin Pasha",
+      "latitude": 50.66753,
+      "longitude": 17.921626,
+      "directions": "On Minorytów, Opole, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119375",
+      "photo_urls": []
+    },
+    {
+      "id": "119458",
+      "title": "Pope John Paul II",
+      "latitude": 51.114267,
+      "longitude": 17.044428,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119458",
+      "photo_urls": []
+    },
+    {
+      "id": "119749",
+      "title": "Dawne kanonie kapitu&#322;y katedralnej / Canon's Houses of the Cathedral Chapter",
+      "latitude": 51.114393,
+      "longitude": 17.044698,
+      "directions": "On Katedralna, Wroc&#322;aw, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119749",
+      "photo_urls": []
+    },
+    {
+      "id": "119754",
+      "title": "Dawna kanonia kapitu&#322;y swi&#281;tokrzyskiej / Canon's House of the Holy Cross Chapter",
+      "latitude": 51.11433,
+      "longitude": 17.043978,
+      "directions": "On Katedralna, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119754",
+      "photo_urls": []
+    },
+    {
+      "id": "119758",
+      "title": "Former Seat of the Vice-Custodian of the Cathedral Chapel and Guardian of Ostrów Tumski",
+      "latitude": 51.114527,
+      "longitude": 17.046689,
+      "directions": "On plac Katedralny, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119758",
+      "photo_urls": []
+    },
+    {
+      "id": "119769",
+      "title": "Kamienica / An old house",
+      "latitude": 51.11047178,
+      "longitude": 17.03405828,
+      "directions": "On Wita Stwosza, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119769",
+      "photo_urls": []
+    },
+    {
+      "id": "119773",
+      "title": "Piwnica &#346;widnicka / &#346;widnicka Cellar",
+      "latitude": 51.10948979,
+      "longitude": 17.03196331,
+      "directions": "On Rynek, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119773",
+      "photo_urls": []
+    },
+    {
+      "id": "119788",
+      "title": "Eugeniusz Get Stankiewicz",
+      "latitude": 51.111235,
+      "longitude": 17.030671,
+      "directions": "Near &#346;wi&#281;tego Miko&#322;aja, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119788",
+      "photo_urls": []
+    },
+    {
+      "id": "119819",
+      "title": "Dawny dom handlowy firmy Louis Lewy Jr. / Former department store of the Louis Lewy Jr. company",
+      "latitude": 51.110256,
+      "longitude": 17.033557,
+      "directions": "On Rynek, Wroc&#322;aw, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119819",
+      "photo_urls": []
+    },
+    {
+      "id": "119821",
+      "title": "Kamienica / An old house",
+      "latitude": 51.110718,
+      "longitude": 17.030695,
+      "directions": "On , Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119821",
+      "photo_urls": []
+    },
+    {
+      "id": "119823",
+      "title": "Stara Gie&#322;da / Old Exchange",
+      "latitude": 51.10894252,
+      "longitude": 17.02964544,
+      "directions": "On Plac Solny, Wroc&#322;aw, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119823",
+      "photo_urls": []
+    },
+    {
+      "id": "119824",
+      "title": "Wincenty Pol",
+      "latitude": 51.109027,
+      "longitude": 17.02952,
+      "directions": "On plac Solny, Wroc&#322;aw, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119824",
+      "photo_urls": []
+    },
+    {
+      "id": "119836",
+      "title": "Bazylika / Basilica",
+      "latitude": 49.86012,
+      "longitude": 19.67225201,
+      "directions": "On Bernardynska, Kalwaria zebrzydowska, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119836",
+      "photo_urls": []
+    },
+    {
+      "id": "119840",
+      "title": "Eugeniusz Geppert",
+      "latitude": 51.10877638,
+      "longitude": 17.02992104,
+      "directions": "On Eugeniusza Gepperta, Wroc&#322;aw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119840",
+      "photo_urls": []
+    },
+    {
+      "id": "120559",
+      "title": "Brigadier Generals Smorawi&#324;ski and Mond War Memorial",
+      "latitude": 50.05670768,
+      "longitude": 19.93789506,
+      "directions": "On plac &#346;wi&#281;tej Marii Magdaleny, Kraków, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120559",
+      "photo_urls": []
+    },
+    {
+      "id": "120604",
+      "title": "Zabudowa placu Solnego / Houses on the Solny Square (Salt Market)",
+      "latitude": 51.1096765,
+      "longitude": 17.03007931,
+      "directions": "On plac Solny, Wroc&#322;aw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120604",
+      "photo_urls": []
+    },
+    {
+      "id": "123144",
+      "title": "Pope John Paul II's Former School",
+      "latitude": 49.88369125,
+      "longitude": 19.49308566,
+      "directions": "On plac Jana Paw&#322;a II, Wadowice, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123144",
+      "photo_urls": []
+    },
+    {
+      "id": "135857",
+      "title": "Henryk Vogler",
+      "latitude": 50.05141111,
+      "longitude": 19.95093056,
+      "directions": "On Starowi&#347;lna, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135857",
+      "photo_urls": []
+    },
+    {
+      "id": "135895",
+      "title": "Dworzec Morski/Maritime Station",
+      "latitude": 54.53308889,
+      "longitude": 18.54756667,
+      "directions": "On Polska, Gdynia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135895",
+      "photo_urls": []
+    },
+    {
+      "id": "135903",
+      "title": "Pra&#322;atówka Ko&#347;cio&#322;a Mariackiego",
+      "latitude": 50.06180703,
+      "longitude": 19.9402544,
+      "directions": "On Plac Mariacki, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135903",
+      "photo_urls": []
+    },
+    {
+      "id": "135922",
+      "title": "Ko&#347;ció&#322; &#347;w. Marka/Church of St. Mark",
+      "latitude": 50.06445278,
+      "longitude": 19.93747778,
+      "directions": "On &#346;wi&#281;tego Marka, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135922",
+      "photo_urls": []
+    },
+    {
+      "id": "135925",
+      "title": "Synagoga Poppera/Popper Synagogue",
+      "latitude": 50.05229444,
+      "longitude": 19.94799722,
+      "directions": "On Szerokna, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135925",
+      "photo_urls": []
+    },
+    {
+      "id": "135927",
+      "title": "In Memory of the Bosak Family",
+      "latitude": 50.05079722,
+      "longitude": 19.94920833,
+      "directions": "On Dajwór, Kraków, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135927",
+      "photo_urls": []
+    },
+    {
+      "id": "137182",
+      "title": "&#379;ura Wielki - Brama Portowa/The Great Crane Gateway to the Port",
+      "latitude": 54.35080833,
+      "longitude": 18.65692222,
+      "directions": "On Szeroka, Gdansk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137182",
+      "photo_urls": []
+    },
+    {
+      "id": "137385",
+      "title": "Willa Ernsta Claaszna",
+      "latitude": 54.44028611,
+      "longitude": 18.57628056,
+      "directions": "On Ksi&#281;cia Józefa Poniatowkiego, Sopot, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137385",
+      "photo_urls": []
+    },
+    {
+      "id": "137500",
+      "title": "Muzeum Sopotu",
+      "latitude": 54.44009439,
+      "longitude": 18.57626661,
+      "directions": "Near Ksiecia Józefa Poniatowskiego, Sopot, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137500",
+      "photo_urls": []
+    },
+    {
+      "id": "144960",
+      "title": "Bronis&#322;aw Koraszewski",
+      "latitude": 50.66940951,
+      "longitude": 17.92093289,
+      "directions": "On Bronis&#322;awa Koraszewskiego, Opole, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144960",
+      "photo_urls": []
+    },
+    {
+      "id": "199620",
+      "title": "In Memory of the Siberian Exiles",
+      "latitude": 49.782155,
+      "longitude": 22.761331,
+      "directions": "On Droga krajowa 28, Przemysl, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199620",
+      "photo_urls": []
+    }
+  ]
+}
