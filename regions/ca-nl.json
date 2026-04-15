@@ -1,0 +1,740 @@
+{
+  "region_id": "ca-nl",
+  "region_name": "Newfoundland and Labrador",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-15T06:08:28.569Z",
+  "source_timestamp": "2026-04-15T06:08:28.569Z",
+  "marker_count": 81,
+  "markers": [
+    {
+      "id": "285952",
+      "title": "Stakes Point Pass Battery",
+      "latitude": 47.02175065,
+      "longitude": -52.86435664,
+      "directions": "On State Route 10, Ferryland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285952",
+      "photo_urls": []
+    },
+    {
+      "id": "285954",
+      "title": "Harbour Grace Court House / Palais de Justice D'Harbour Grace",
+      "latitude": 47.69559865,
+      "longitude": -53.21247614,
+      "directions": "On Cathedral Street (State Route 70) , Harbour Grace, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285954",
+      "photo_urls": []
+    },
+    {
+      "id": "285955",
+      "title": "32 Queen's Road",
+      "latitude": 47.56794805,
+      "longitude": -52.70838377,
+      "directions": "On Queens Road, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285955",
+      "photo_urls": []
+    },
+    {
+      "id": "285958",
+      "title": "Anderson House",
+      "latitude": 47.57250903,
+      "longitude": -52.69550897,
+      "directions": "On Powers Court, St. John&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285958",
+      "photo_urls": []
+    },
+    {
+      "id": "285959",
+      "title": "Anderson House",
+      "latitude": 47.57251123,
+      "longitude": -52.69551224,
+      "directions": "On Powers Court, St. John&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285959",
+      "photo_urls": []
+    },
+    {
+      "id": "285960",
+      "title": "Loyal Orange Lodge LOL #4",
+      "latitude": 48.65204528,
+      "longitude": -53.11431615,
+      "directions": "On Sweetlands Hill, Bonavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285960",
+      "photo_urls": []
+    },
+    {
+      "id": "285961",
+      "title": "Clarenville Railway Station",
+      "latitude": 48.17248797,
+      "longitude": -53.96307108,
+      "directions": "On Stanley&#39;s Crescent, Clarenville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285961",
+      "photo_urls": []
+    },
+    {
+      "id": "285963",
+      "title": "Former Carbonear Railway Station / L'Ancienne Gare de Carbonear",
+      "latitude": 47.73743786,
+      "longitude": -53.22946504,
+      "directions": "On Water Street, Carbonear, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285963",
+      "photo_urls": []
+    },
+    {
+      "id": "285964",
+      "title": "CN Railway Station",
+      "latitude": 47.73740371,
+      "longitude": -53.22954567,
+      "directions": "On Water Street, Carbonear, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285964",
+      "photo_urls": []
+    },
+    {
+      "id": "285977",
+      "title": "St Mary's Church",
+      "latitude": 48.63291614,
+      "longitude": -53.04206824,
+      "directions": "On Catalina Road, Elliston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285977",
+      "photo_urls": []
+    },
+    {
+      "id": "285980",
+      "title": "Gower Street United Church",
+      "latitude": 47.56541881,
+      "longitude": -52.70939915,
+      "directions": "On Queen&#39;s Road, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285980",
+      "photo_urls": []
+    },
+    {
+      "id": "285982",
+      "title": "Western Union Operator's House",
+      "latitude": 47.87150919,
+      "longitude": -53.36751879,
+      "directions": "On State Route 80, Heart&#39;s Content, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285982",
+      "photo_urls": []
+    },
+    {
+      "id": "285984",
+      "title": "Mallard Cottage / La Maison Mallard",
+      "latitude": 47.58164389,
+      "longitude": -52.67844558,
+      "directions": "On Barrows Road, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285984",
+      "photo_urls": []
+    },
+    {
+      "id": "285986",
+      "title": "Government House / Résidence Du Lieutenant-Gouverneur",
+      "latitude": 47.57138346,
+      "longitude": -52.70547145,
+      "directions": "On Military Road, St. John&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285986",
+      "photo_urls": []
+    },
+    {
+      "id": "286008",
+      "title": "The Newfoundland National War Memorial",
+      "latitude": 47.56738961,
+      "longitude": -52.70367262,
+      "directions": "On Water Street, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286008",
+      "photo_urls": []
+    },
+    {
+      "id": "289793",
+      "title": "Christ Church",
+      "latitude": 47.58276899,
+      "longitude": -52.67868559,
+      "directions": "On Quidi Vidi Village Road, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289793",
+      "photo_urls": []
+    },
+    {
+      "id": "289794",
+      "title": "Christ Church",
+      "latitude": 47.58276384,
+      "longitude": -52.67867567,
+      "directions": "On Quidi Vidi Village Road, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289794",
+      "photo_urls": []
+    },
+    {
+      "id": "289796",
+      "title": "28 Cochrane Street",
+      "latitude": 47.56932697,
+      "longitude": -52.70277571,
+      "directions": "On 28 Cochrane Street, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289796",
+      "photo_urls": []
+    },
+    {
+      "id": "289798",
+      "title": "Fort Townshend",
+      "latitude": 47.56672311,
+      "longitude": -52.71062404,
+      "directions": "On Harvey Road, St. John&#39;s, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289798",
+      "photo_urls": []
+    },
+    {
+      "id": "289802",
+      "title": "Sir Humphrey Gilbert",
+      "latitude": 47.5672527,
+      "longitude": -52.70266055,
+      "directions": "On Water Street, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289802",
+      "photo_urls": []
+    },
+    {
+      "id": "289804",
+      "title": "Apothecary Hall",
+      "latitude": 47.55596842,
+      "longitude": -52.71316775,
+      "directions": "On Water Street, St. John&#39;s, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289804",
+      "photo_urls": []
+    },
+    {
+      "id": "289805",
+      "title": "Fort William / Le Fort William",
+      "latitude": 47.57067294,
+      "longitude": -52.70044747,
+      "directions": "On Cavendish Square, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289805",
+      "photo_urls": []
+    },
+    {
+      "id": "289807",
+      "title": "L'anse Amour",
+      "latitude": 51.48037314,
+      "longitude": -56.86636255,
+      "directions": "On L&#39;Anse Amour Branch Road, Davis House, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289807",
+      "photo_urls": []
+    },
+    {
+      "id": "289808",
+      "title": "Captain Robert Abram Bartlett",
+      "latitude": 47.53744492,
+      "longitude": -53.20655261,
+      "directions": "On Middle Ridge, Brigus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289808",
+      "photo_urls": []
+    },
+    {
+      "id": "289809",
+      "title": "The Brigus Tunnel",
+      "latitude": 47.53493739,
+      "longitude": -53.20490629,
+      "directions": "On Church Hill, Brigus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289809",
+      "photo_urls": []
+    },
+    {
+      "id": "289902",
+      "title": "John Reeves",
+      "latitude": 47.5646289,
+      "longitude": -52.70743983,
+      "directions": "On Duckworth Street, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289902",
+      "photo_urls": []
+    },
+    {
+      "id": "294787",
+      "title": "Bannerman House",
+      "latitude": 47.56959734,
+      "longitude": -52.70396609,
+      "directions": "On Bannerman Street, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294787",
+      "photo_urls": []
+    },
+    {
+      "id": "294790",
+      "title": "Harris Cottage",
+      "latitude": 47.57023188,
+      "longitude": -52.71048202,
+      "directions": "On Monkstown Road, St. John&#39;s, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294790",
+      "photo_urls": []
+    },
+    {
+      "id": "294796",
+      "title": "St Joseph's Roman Catholic Church",
+      "latitude": 48.64911271,
+      "longitude": -53.10906897,
+      "directions": "On Sweeneys Lane, Bonavista, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294796",
+      "photo_urls": []
+    },
+    {
+      "id": "78917",
+      "title": "Castle Hill",
+      "latitude": 47.251392,
+      "longitude": -53.972482,
+      "directions": "On Castle Hill Road, Placentia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78917",
+      "photo_urls": []
+    },
+    {
+      "id": "78918",
+      "title": "Fort Frederick",
+      "latitude": 47.24911,
+      "longitude": -53.961715,
+      "directions": "On Main Street (Route 100 South), Placentia, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78918",
+      "photo_urls": []
+    },
+    {
+      "id": "78919",
+      "title": "Castle Hill",
+      "latitude": 47.251427,
+      "longitude": -53.972346,
+      "directions": "On Castle Hill Road, Placentia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78919",
+      "photo_urls": []
+    },
+    {
+      "id": "78920",
+      "title": "First Transatlantic Wireless Signal",
+      "latitude": 47.570493,
+      "longitude": -52.681064,
+      "directions": "On Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78920",
+      "photo_urls": []
+    },
+    {
+      "id": "78935",
+      "title": "Fort Royal (Plaisance)",
+      "latitude": 47.2512,
+      "longitude": -53.97152,
+      "directions": "Near Castle Hill Road, near Placentia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78935",
+      "photo_urls": []
+    },
+    {
+      "id": "78936",
+      "title": "Fever Hospital",
+      "latitude": 47.57047,
+      "longitude": -52.68109,
+      "directions": "On Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78936",
+      "photo_urls": []
+    },
+    {
+      "id": "78937",
+      "title": "Transatlantic Radio Signals",
+      "latitude": 47.570446,
+      "longitude": -52.681341,
+      "directions": "On Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78937",
+      "photo_urls": []
+    },
+    {
+      "id": "78938",
+      "title": "Battle of Signal Hill / La bataille de Signal Hill",
+      "latitude": 47.57005,
+      "longitude": -52.681955,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78938",
+      "photo_urls": []
+    },
+    {
+      "id": "78970",
+      "title": "(Fort Royal)",
+      "latitude": 47.251084,
+      "longitude": -53.971319,
+      "directions": "Near Castle Hill Road, Placentia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78970",
+      "photo_urls": []
+    },
+    {
+      "id": "78971",
+      "title": "Cabot Tower",
+      "latitude": 47.570042,
+      "longitude": -52.681953,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78971",
+      "photo_urls": []
+    },
+    {
+      "id": "78972",
+      "title": "Fishery",
+      "latitude": 47.569858,
+      "longitude": -52.682003,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78972",
+      "photo_urls": []
+    },
+    {
+      "id": "78974",
+      "title": "Swiling",
+      "latitude": 47.569835,
+      "longitude": -52.682026,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78974",
+      "photo_urls": []
+    },
+    {
+      "id": "79009",
+      "title": "Port Royal and Castle Graves / Port Royal et Castle Graves",
+      "latitude": 47.251036,
+      "longitude": -53.971548,
+      "directions": "Near Castle Hill Road, Placentia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79009",
+      "photo_urls": []
+    },
+    {
+      "id": "79011",
+      "title": "Ice",
+      "latitude": 47.569787,
+      "longitude": -52.682003,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79011",
+      "photo_urls": []
+    },
+    {
+      "id": "79012",
+      "title": "Noon Day Gun",
+      "latitude": 47.569983,
+      "longitude": -52.682133,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79012",
+      "photo_urls": []
+    },
+    {
+      "id": "79013",
+      "title": "1892: The Great Fire",
+      "latitude": 47.569929,
+      "longitude": -52.682328,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79013",
+      "photo_urls": []
+    },
+    {
+      "id": "79014",
+      "title": "Peacetime Use",
+      "latitude": 47.570111,
+      "longitude": -52.682024,
+      "directions": "Near Signal Hill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79014",
+      "photo_urls": []
+    },
+    {
+      "id": "79031",
+      "title": "Mary Meager Southcott",
+      "latitude": 47.575856,
+      "longitude": -52.69583333,
+      "directions": "On Forest Road, St. John&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79031",
+      "photo_urls": []
+    },
+    {
+      "id": "79032",
+      "title": "St. John’s Court House",
+      "latitude": 47.563827,
+      "longitude": -52.707448,
+      "directions": "On Water Street, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79032",
+      "photo_urls": []
+    },
+    {
+      "id": "79033",
+      "title": "William Carson",
+      "latitude": 47.565278,
+      "longitude": -52.707119,
+      "directions": "On Duckworth Street, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79033",
+      "photo_urls": []
+    },
+    {
+      "id": "79034",
+      "title": "Former Bank of British North America",
+      "latitude": 47.565852,
+      "longitude": -52.706433,
+      "directions": "On Duckworth Street, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79034",
+      "photo_urls": []
+    },
+    {
+      "id": "79056",
+      "title": "Bank of British North America",
+      "latitude": 47.565889,
+      "longitude": -52.706379,
+      "directions": "On Duckworth Street, St. John&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79056",
+      "photo_urls": []
+    },
+    {
+      "id": "79057",
+      "title": "Masonic Temple",
+      "latitude": 47.565818,
+      "longitude": -52.707684,
+      "directions": "On Cathedral Street, St. John&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79057",
+      "photo_urls": []
+    },
+    {
+      "id": "79058",
+      "title": "St. John the Baptist Anglican Cathedral",
+      "latitude": 47.565375,
+      "longitude": -52.708666,
+      "directions": "On Church Hill, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79058",
+      "photo_urls": []
+    },
+    {
+      "id": "79059",
+      "title": "Thompson Building",
+      "latitude": 47.561697,
+      "longitude": -52.709949,
+      "directions": "On Water Street, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79059",
+      "photo_urls": []
+    },
+    {
+      "id": "79061",
+      "title": "O’Dwyer Block",
+      "latitude": 47.561778,
+      "longitude": -52.709893,
+      "directions": "On Water Street, St. John&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79061",
+      "photo_urls": []
+    },
+    {
+      "id": "79109",
+      "title": "Former Newfoundland Railway Headquarters",
+      "latitude": 47.554417,
+      "longitude": -52.713766,
+      "directions": "On Water Street, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79109",
+      "photo_urls": []
+    },
+    {
+      "id": "79110",
+      "title": "Sir Robert Gillespie Reid",
+      "latitude": 47.554482,
+      "longitude": -52.713698,
+      "directions": "On Water Street, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79110",
+      "photo_urls": []
+    },
+    {
+      "id": "79111",
+      "title": "Herbert J. Russell, C.B.E.",
+      "latitude": 47.554644,
+      "longitude": -52.713608,
+      "directions": "On Water Street, St. John&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79111",
+      "photo_urls": []
+    },
+    {
+      "id": "79112",
+      "title": "Cape Spear Lighthouse",
+      "latitude": 47.521902,
+      "longitude": -52.622567,
+      "directions": "On Blackhead Road, Blackhead, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79112",
+      "photo_urls": []
+    },
+    {
+      "id": "79138",
+      "title": "(Royal Newfoundland Constabulary Monument)",
+      "latitude": 47.564767,
+      "longitude": -52.709731,
+      "directions": "On Queens Road, St. John&#39;s, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79138",
+      "photo_urls": []
+    },
+    {
+      "id": "79463",
+      "title": "World War II Battery",
+      "latitude": 47.523683,
+      "longitude": -52.620952,
+      "directions": "Near Blackhead Road, Blackhead, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79463",
+      "photo_urls": []
+    },
+    {
+      "id": "79466",
+      "title": "Colony of Avalon",
+      "latitude": 47.023994,
+      "longitude": -52.884386,
+      "directions": "Near State Route 10, Ferryland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79466",
+      "photo_urls": []
+    },
+    {
+      "id": "79471",
+      "title": "Ferryland",
+      "latitude": 47.025113,
+      "longitude": -52.884791,
+      "directions": "On State Route 10, Ferryland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79471",
+      "photo_urls": []
+    },
+    {
+      "id": "79472",
+      "title": "The French Attack Ferryland",
+      "latitude": 47.022835,
+      "longitude": -52.878046,
+      "directions": "Near State Route 10, Ferryland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79472",
+      "photo_urls": []
+    },
+    {
+      "id": "79477",
+      "title": "Arrow Air Crash",
+      "latitude": 48.911611,
+      "longitude": -54.574462,
+      "directions": "On Silent Witness Memorial Road, Gander, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79477",
+      "photo_urls": []
+    },
+    {
+      "id": "79478",
+      "title": "Twillingate",
+      "latitude": 49.652202,
+      "longitude": -54.761735,
+      "directions": "On Main Street, Twillingate, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79478",
+      "photo_urls": []
+    },
+    {
+      "id": "79527",
+      "title": "Basque Whalers in the Strait of Belle Isle",
+      "latitude": 51.728805,
+      "longitude": -56.423358,
+      "directions": "Near unnamed road, Red Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79527",
+      "photo_urls": []
+    },
+    {
+      "id": "79543",
+      "title": "(The Moores Family Home)",
+      "latitude": 51.74444444,
+      "longitude": -56.43916667,
+      "directions": "Near Trans-Labrador Highway (State Route 510) , Red Bay, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79543",
+      "photo_urls": []
+    },
+    {
+      "id": "79551",
+      "title": "L’Anse Amour Burial",
+      "latitude": 51.479867,
+      "longitude": -56.866842,
+      "directions": "On L&#39;Anse Amour Branch Road, near L&#39;Anse-au-Loup, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79551",
+      "photo_urls": []
+    },
+    {
+      "id": "79552",
+      "title": "The Marconi Station",
+      "latitude": 51.461096,
+      "longitude": -56.857564,
+      "directions": "On L&#39;Anse Amour Branch Road, near L&#39;Anse-au-Loup, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79552",
+      "photo_urls": []
+    },
+    {
+      "id": "79554",
+      "title": "The Diaphone",
+      "latitude": 51.460519,
+      "longitude": -56.857833,
+      "directions": "Near L&#39;Anse Amour Branch Road, near L&#39;Anse-au-Loup, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79554",
+      "photo_urls": []
+    },
+    {
+      "id": "79610",
+      "title": "Sir Wilfred Thomason Grenfell",
+      "latitude": 51.362383,
+      "longitude": -55.58596,
+      "directions": "On West Street, St. Anthony, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79610",
+      "photo_urls": []
+    },
+    {
+      "id": "79611",
+      "title": "L’Anse aux Meadows",
+      "latitude": 51.592075,
+      "longitude": -55.533038,
+      "directions": "Near State Route 436, near St Lunaire-Griquet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79611",
+      "photo_urls": []
+    },
+    {
+      "id": "79650",
+      "title": "The End of a Quest: L’aboutissement d’une quête",
+      "latitude": 51.59149,
+      "longitude": -55.532723,
+      "directions": "Near unnamed road, near St Lunaire-Griquet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79650",
+      "photo_urls": []
+    },
+    {
+      "id": "79654",
+      "title": "Green Point",
+      "latitude": 49.682269,
+      "longitude": -57.964224,
+      "directions": "Near unnamed road, Sally&#39;s Cove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79654",
+      "photo_urls": []
+    },
+    {
+      "id": "79656",
+      "title": "Thrombolites or Living Rocks",
+      "latitude": 51.293068,
+      "longitude": -56.742363,
+      "directions": "Near State Route 430, near Flower&#39;s Cove, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79656",
+      "photo_urls": []
+    },
+    {
+      "id": "79667",
+      "title": "Fox Point Lightouse",
+      "latitude": 51.356074,
+      "longitude": -55.555455,
+      "directions": "On West Street, St. Anthony, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79667",
+      "photo_urls": []
+    },
+    {
+      "id": "79668",
+      "title": "St. Anthony",
+      "latitude": 51.355956,
+      "longitude": -55.555868,
+      "directions": "On West Street, St. Anthony, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79668",
+      "photo_urls": []
+    },
+    {
+      "id": "79672",
+      "title": "Captain James Cook, R.N.",
+      "latitude": 48.95455,
+      "longitude": -57.963063,
+      "directions": "Near Mayfair Avenue, Corner Brook, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79672",
+      "photo_urls": []
+    },
+    {
+      "id": "79676",
+      "title": "Cook comes to Canada",
+      "latitude": 48.954437,
+      "longitude": -57.962913,
+      "directions": "Near Mayfair Avenue, Corner Brook, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79676",
+      "photo_urls": []
+    },
+    {
+      "id": "79677",
+      "title": "Port aux Basques - North Sydney",
+      "latitude": 47.581105,
+      "longitude": -59.139507,
+      "directions": "On Trans Canada Highway (State Route 1) , near Channel-Port aux Basques, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79677",
+      "photo_urls": []
+    }
+  ]
+}
