@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-14T06:09:03.937Z",
+  "generated": "2026-04-15T06:08:31.186Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 33158,
-  "total_regions": 14,
+  "total_regions": 15,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -68,6 +68,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 50,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "un-the",
+      "name": "The final 24",
+      "type": "state",
+      "country": "United States of America",
+      "file": "regions/un-the.json",
+      "markers": 0,
+      "size_bytes": 260,
+      "updated": "2026-04-15",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 124,
         "removed": 0,
         "modified": 0
       }
