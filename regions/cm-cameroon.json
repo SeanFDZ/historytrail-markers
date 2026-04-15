@@ -1,0 +1,29 @@
+{
+  "region_id": "cm-cameroon",
+  "region_name": "Cameroon",
+  "region_type": "country",
+  "country": "Cameroon",
+  "generated": "2026-04-15T06:08:28.570Z",
+  "source_timestamp": "2026-04-15T06:08:28.570Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "269751",
+      "title": "Samuel Wanko Fotseu",
+      "latitude": 5.4692067,
+      "longitude": 10.4224781,
+      "directions": "On Avenue Pachong Adolf, Bafoussam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269751",
+      "photo_urls": []
+    },
+    {
+      "id": "271371",
+      "title": "Nsha're-Yen: 1394-1418",
+      "latitude": 5.73266697,
+      "longitude": 10.90187011,
+      "directions": "Near Rue Principale, Foumban, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271371",
+      "photo_urls": []
+    }
+  ]
+}
