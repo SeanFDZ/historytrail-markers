@@ -1,0 +1,5222 @@
+{
+  "region_id": "ie-ireland",
+  "region_name": "Ireland",
+  "region_type": "country",
+  "country": "Ireland",
+  "generated": "2026-04-15T06:08:28.570Z",
+  "source_timestamp": "2026-04-15T06:08:28.570Z",
+  "marker_count": 579,
+  "markers": [
+    {
+      "id": "109137",
+      "title": "Dún Aonghus",
+      "latitude": 53.12555556,
+      "longitude": -9.76694444,
+      "directions": "Near , Kilmurvy, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109137",
+      "photo_urls": []
+    },
+    {
+      "id": "117924",
+      "title": "Dwyer's Brook",
+      "latitude": 53.15790556,
+      "longitude": -6.51257222,
+      "directions": "Near Lake Drive, Blessington, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117924",
+      "photo_urls": []
+    },
+    {
+      "id": "135677",
+      "title": "Powerscourt Estate Terraces",
+      "latitude": 53.18440923,
+      "longitude": -6.18595857,
+      "directions": "Near , near Enniskerry, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135677",
+      "photo_urls": []
+    },
+    {
+      "id": "135692",
+      "title": "Tiny and Teddy and Eugenie and Princess",
+      "latitude": 53.18193635,
+      "longitude": -6.18521718,
+      "directions": "Near , near Enniskerry, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135692",
+      "photo_urls": []
+    },
+    {
+      "id": "135698",
+      "title": "The German Military Cemetery, Glencree",
+      "latitude": 53.20072042,
+      "longitude": -6.29219156,
+      "directions": "On Local Route L1011, near Glencree, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135698",
+      "photo_urls": []
+    },
+    {
+      "id": "135749",
+      "title": "The German Military Cemetery, Glencree",
+      "latitude": 53.20093578,
+      "longitude": -6.29223286,
+      "directions": "On Local Route L1011, near Glencree, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135749",
+      "photo_urls": []
+    },
+    {
+      "id": "135788",
+      "title": "An Geata / The Gateway",
+      "latitude": 53.01110578,
+      "longitude": -6.32624015,
+      "directions": "On State Route R757, Glendalough, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135788",
+      "photo_urls": []
+    },
+    {
+      "id": "135790",
+      "title": "Rev<sup><u>d</u></sup> Edward Rowan",
+      "latitude": 53.01077612,
+      "longitude": -6.32662447,
+      "directions": "Near , Glendalough, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135790",
+      "photo_urls": []
+    },
+    {
+      "id": "135830",
+      "title": "An Ardeaglais / The Cathedral",
+      "latitude": 53.010544,
+      "longitude": -6.3271904,
+      "directions": "Near , Glendalough, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135830",
+      "photo_urls": []
+    },
+    {
+      "id": "135831",
+      "title": "An Cloigtheach / The Round Tower",
+      "latitude": 53.0109183,
+      "longitude": -6.32771654,
+      "directions": "Near , Glendalough, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135831",
+      "photo_urls": []
+    },
+    {
+      "id": "135833",
+      "title": "'Teach na Sagart' / The 'Priest's House'",
+      "latitude": 53.01037539,
+      "longitude": -6.32751188,
+      "directions": "Near , Glendalough, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135833",
+      "photo_urls": []
+    },
+    {
+      "id": "135836",
+      "title": "St. Kevin's Way",
+      "latitude": 53.01132337,
+      "longitude": -6.32625987,
+      "directions": "On State Route R757, Glendalough, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135836",
+      "photo_urls": []
+    },
+    {
+      "id": "135872",
+      "title": "Mianach Hero agus Urláir Chóireála / Hero Mine and Dressing Floors",
+      "latitude": 53.02316248,
+      "longitude": -6.36267388,
+      "directions": "On Wicklow Gap Road (State Route R756) , near Glendasan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135872",
+      "photo_urls": []
+    },
+    {
+      "id": "135891",
+      "title": "Clocha an Phiobaíre / Piper's Stones",
+      "latitude": 53.07268315,
+      "longitude": -6.61460677,
+      "directions": "On National Route N81, near Athgreany, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135891",
+      "photo_urls": []
+    },
+    {
+      "id": "135894",
+      "title": "Ciorcal Cloch le Claífort Chaisleán an Ridire",
+      "latitude": 52.9916528,
+      "longitude": -6.63591008,
+      "directions": "On Local Route L4321, Castleruddery Upper, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135894",
+      "photo_urls": []
+    },
+    {
+      "id": "135921",
+      "title": "Private Michael McGuinn",
+      "latitude": 52.94112731,
+      "longitude": -6.70791709,
+      "directions": "On Main Street (State Route R747) , Baltinglass, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135921",
+      "photo_urls": []
+    },
+    {
+      "id": "135943",
+      "title": "Michael Dwyer, Sam MacAllister, and the Insurrectionists",
+      "latitude": 52.9411199,
+      "longitude": -6.70767671,
+      "directions": "On Main Street (State Route R747) , Baltinglass, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135943",
+      "photo_urls": []
+    },
+    {
+      "id": "135946",
+      "title": "Jennie Wyse Power",
+      "latitude": 52.94096587,
+      "longitude": -6.70799343,
+      "directions": "On Main Street (State Route R747) , Baltinglass, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135946",
+      "photo_urls": []
+    },
+    {
+      "id": "135982",
+      "title": "Mainistir Bhealach Conglais / Baltinglass Abbey",
+      "latitude": 52.94374292,
+      "longitude": -6.71024682,
+      "directions": "On Church Lane, Baltinglass, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135982",
+      "photo_urls": []
+    },
+    {
+      "id": "136190",
+      "title": "Kevin Gerard Barry",
+      "latitude": 52.88112928,
+      "longitude": -6.69560122,
+      "directions": "On National Route N81, Rathvilly, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136190",
+      "photo_urls": []
+    },
+    {
+      "id": "136193",
+      "title": "The Rathvilly Rose",
+      "latitude": 52.88097688,
+      "longitude": -6.69536378,
+      "directions": "On National Route N81, Rathvilly, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136193",
+      "photo_urls": []
+    },
+    {
+      "id": "136195",
+      "title": "Doyle Family Shoeing Stone",
+      "latitude": 52.88106561,
+      "longitude": -6.69507145,
+      "directions": "On National Route N81, Rathvilly, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136195",
+      "photo_urls": []
+    },
+    {
+      "id": "136197",
+      "title": "Rathvilly",
+      "latitude": 52.88108076,
+      "longitude": -6.69505586,
+      "directions": "On National Route N81, Rathvilly, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136197",
+      "photo_urls": []
+    },
+    {
+      "id": "136199",
+      "title": "Ireland's First Toll Bridge",
+      "latitude": 52.73648467,
+      "longitude": -6.97875973,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136199",
+      "photo_urls": []
+    },
+    {
+      "id": "136200",
+      "title": "River Barrow / An Bhearú",
+      "latitude": 52.73648467,
+      "longitude": -6.97875973,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136200",
+      "photo_urls": []
+    },
+    {
+      "id": "136201",
+      "title": "Leighlinbridge Malt Houses",
+      "latitude": 52.73648467,
+      "longitude": -6.97875973,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136201",
+      "photo_urls": []
+    },
+    {
+      "id": "136205",
+      "title": "Birthplace of John Tyndall FRS",
+      "latitude": 52.73706845,
+      "longitude": -6.97874398,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136205",
+      "photo_urls": []
+    },
+    {
+      "id": "136206",
+      "title": "Nicholas Aylward Vigors FRS",
+      "latitude": 52.73706845,
+      "longitude": -6.97874398,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136206",
+      "photo_urls": []
+    },
+    {
+      "id": "136331",
+      "title": "Sisters of Mercy",
+      "latitude": 52.73720549,
+      "longitude": -6.97877012,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136331",
+      "photo_urls": []
+    },
+    {
+      "id": "136332",
+      "title": "Brian Mulroney Ancestral Home Visit",
+      "latitude": 52.7372009,
+      "longitude": -6.97863994,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136332",
+      "photo_urls": []
+    },
+    {
+      "id": "136334",
+      "title": "Arrival of the Carmelite Order",
+      "latitude": 52.73725302,
+      "longitude": -6.97867214,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136334",
+      "photo_urls": []
+    },
+    {
+      "id": "136335",
+      "title": "Nurse Margaret Kehoe",
+      "latitude": 52.73732475,
+      "longitude": -6.97870136,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136335",
+      "photo_urls": []
+    },
+    {
+      "id": "136343",
+      "title": "World War I Memorial",
+      "latitude": 52.73732387,
+      "longitude": -6.97861373,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136343",
+      "photo_urls": []
+    },
+    {
+      "id": "136345",
+      "title": "Culm Crusher",
+      "latitude": 52.73722005,
+      "longitude": -6.97846204,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136345",
+      "photo_urls": []
+    },
+    {
+      "id": "136347",
+      "title": "The Tyndall Way",
+      "latitude": 52.73686876,
+      "longitude": -6.97863166,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136347",
+      "photo_urls": []
+    },
+    {
+      "id": "136351",
+      "title": "Cardinal Patrick Francis Joseph Moran",
+      "latitude": 52.73677994,
+      "longitude": -6.97914049,
+      "directions": "On Poe&#39;s Hill, Leighlinbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136351",
+      "photo_urls": []
+    },
+    {
+      "id": "136355",
+      "title": "Myles Walter Keogh",
+      "latitude": 52.73698562,
+      "longitude": -6.9789952,
+      "directions": "On Milford Street, Leighlinbridge, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136355",
+      "photo_urls": []
+    },
+    {
+      "id": "136381",
+      "title": "John Tyndall",
+      "latitude": 52.73675253,
+      "longitude": -6.97898228,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136381",
+      "photo_urls": []
+    },
+    {
+      "id": "136384",
+      "title": "welcome to leighlinbridge - the garden village",
+      "latitude": 52.73675916,
+      "longitude": -6.97900674,
+      "directions": "On Milford Street, Leighlinbridge, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136384",
+      "photo_urls": []
+    },
+    {
+      "id": "136426",
+      "title": "Gairdín na nDealbh / Sculpture Garden",
+      "latitude": 52.73682374,
+      "longitude": -6.97901923,
+      "directions": "On Milford Street, Leighlinbridge, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136426",
+      "photo_urls": []
+    },
+    {
+      "id": "136446",
+      "title": "Gairdín cuimhneachain / Garden of Remembrance",
+      "latitude": 52.73685547,
+      "longitude": -6.9788213,
+      "directions": "On Milford Street, Leighlinbridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136446",
+      "photo_urls": []
+    },
+    {
+      "id": "136515",
+      "title": "Teach Archer / Archer House",
+      "latitude": 52.65155458,
+      "longitude": -7.25302235,
+      "directions": "On High Street, Kilkenny, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136515",
+      "photo_urls": []
+    },
+    {
+      "id": "136518",
+      "title": "Kilkenny Historic Sites",
+      "latitude": 52.65214382,
+      "longitude": -7.25313228,
+      "directions": "On High Street, Kilkenny, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136518",
+      "photo_urls": []
+    },
+    {
+      "id": "136706",
+      "title": "Halla an Bhaile / The Tholsel",
+      "latitude": 52.65202381,
+      "longitude": -7.25298633,
+      "directions": "On High Street, Kilkenny, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136706",
+      "photo_urls": []
+    },
+    {
+      "id": "136737",
+      "title": "Thomas Moore",
+      "latitude": 52.65037653,
+      "longitude": -7.25101158,
+      "directions": "On The Parade, Kilkenny, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136737",
+      "photo_urls": []
+    },
+    {
+      "id": "136787",
+      "title": "The Tholsel Renovation",
+      "latitude": 52.65195632,
+      "longitude": -7.25292047,
+      "directions": "On High Street, Kilkenny, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136787",
+      "photo_urls": []
+    },
+    {
+      "id": "136789",
+      "title": "STATHAM-FORD Special",
+      "latitude": 52.64942021,
+      "longitude": -7.25137753,
+      "directions": "On Patrick Street, Kilkenny, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136789",
+      "photo_urls": []
+    },
+    {
+      "id": "136790",
+      "title": "STATHAM'S By Pembroke Kilkenny",
+      "latitude": 52.64948324,
+      "longitude": -7.25140877,
+      "directions": "On Patrick Street, Kilkenny, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136790",
+      "photo_urls": []
+    },
+    {
+      "id": "136795",
+      "title": "William F. Roe",
+      "latitude": 52.64962553,
+      "longitude": -7.25170547,
+      "directions": "On Patrick Street, Kilkenny, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136795",
+      "photo_urls": []
+    },
+    {
+      "id": "136798",
+      "title": "Ireland's Medieval Mile",
+      "latitude": 52.65054673,
+      "longitude": -7.25067328,
+      "directions": "On The Parade, Kilkenny, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136798",
+      "photo_urls": []
+    },
+    {
+      "id": "136903",
+      "title": "The Colles Horse Trough",
+      "latitude": 52.65088625,
+      "longitude": -7.25146185,
+      "directions": "On Rose Inn Street (State Route 887) , Kilkenny, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136903",
+      "photo_urls": []
+    },
+    {
+      "id": "136908",
+      "title": "Teach Déirce Shee / Shee Almshouse",
+      "latitude": 52.6514077,
+      "longitude": -7.25146784,
+      "directions": "On Rose Inn Street (State Route R887) , Kilkenny, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136908",
+      "photo_urls": []
+    },
+    {
+      "id": "136911",
+      "title": "War and Peacekeeping Memorial",
+      "latitude": 52.65164966,
+      "longitude": -7.25041123,
+      "directions": "On the River Nore Bridge (State Route R887) , Kilkenny, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136911",
+      "photo_urls": []
+    },
+    {
+      "id": "136914",
+      "title": "Smithwick's",
+      "latitude": 52.65195592,
+      "longitude": -7.25079524,
+      "directions": "On John&#39;s Bridge, Kilkenny, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136914",
+      "photo_urls": []
+    },
+    {
+      "id": "136916",
+      "title": "Kilkenny Historic Sites",
+      "latitude": 52.65076086,
+      "longitude": -7.25149469,
+      "directions": "On Rose Inn Street, Collegepark, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136916",
+      "photo_urls": []
+    },
+    {
+      "id": "136967",
+      "title": "St. Lachtain's Old Graveyard",
+      "latitude": 52.73259604,
+      "longitude": -7.39796528,
+      "directions": "On Kilkenny Street (State Route R693) , Freshford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136967",
+      "photo_urls": []
+    },
+    {
+      "id": "136977",
+      "title": "Falla an Ghorta Mhóir/An tArdán - The Famine Wall/The Terrace",
+      "latitude": 52.5197926,
+      "longitude": -7.88648982,
+      "directions": "On Ladyswell Street (State Route R639) , Cashel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136977",
+      "photo_urls": []
+    },
+    {
+      "id": "137015",
+      "title": "Tobar Mhuire / Ladyswell",
+      "latitude": 52.52010093,
+      "longitude": -7.88673854,
+      "directions": "On The Kiln (State Route R660) , Cashel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137015",
+      "photo_urls": []
+    },
+    {
+      "id": "137018",
+      "title": "An Scairdeán / The Fountain",
+      "latitude": 52.51582542,
+      "longitude": -7.89120157,
+      "directions": "On Main Street (State Route R639) , Cashel, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137018",
+      "photo_urls": []
+    },
+    {
+      "id": "137067",
+      "title": "<i>Eaglais Eoin Naofa</i> / St. Johns Parish Church",
+      "latitude": 51.70696597,
+      "longitude": -8.52532106,
+      "directions": "On Friar Street, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137067",
+      "photo_urls": []
+    },
+    {
+      "id": "137073",
+      "title": "<i>Caisleán Deasúnaigh</i> / Desmond Castle",
+      "latitude": 51.70730346,
+      "longitude": -8.52455984,
+      "directions": "On Cork Street, Kinsale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137073",
+      "photo_urls": []
+    },
+    {
+      "id": "137075",
+      "title": "Peter Barry",
+      "latitude": 51.70645452,
+      "longitude": -8.52412931,
+      "directions": "On Market Lane, Kinsale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137075",
+      "photo_urls": []
+    },
+    {
+      "id": "137111",
+      "title": "<i>Múseum</i> / Museum",
+      "latitude": 51.70644677,
+      "longitude": -8.52415438,
+      "directions": "On Market Lane, Kinsale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137111",
+      "photo_urls": []
+    },
+    {
+      "id": "137116",
+      "title": "Nautical Artefacts at Kinsale Museum",
+      "latitude": 51.70625581,
+      "longitude": -8.52440692,
+      "directions": "On Market Lane, Kinsale, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137116",
+      "photo_urls": []
+    },
+    {
+      "id": "137118",
+      "title": "Kinsale Town Wall",
+      "latitude": 51.70634269,
+      "longitude": -8.52381403,
+      "directions": "On Market Street, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137118",
+      "photo_urls": []
+    },
+    {
+      "id": "137145",
+      "title": "Kinsale - A Walled Town",
+      "latitude": 51.70635392,
+      "longitude": -8.52378922,
+      "directions": "On Market Lane, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137145",
+      "photo_urls": []
+    },
+    {
+      "id": "137148",
+      "title": "The History of The Tumble Cart",
+      "latitude": 51.70635905,
+      "longitude": -8.52376557,
+      "directions": "On Market Lane, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137148",
+      "photo_urls": []
+    },
+    {
+      "id": "137167",
+      "title": "Lt Michael P Murphy",
+      "latitude": 51.70648947,
+      "longitude": -8.52335636,
+      "directions": "On Pearse Street (State Route R605) , Kinsale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137167",
+      "photo_urls": []
+    },
+    {
+      "id": "137169",
+      "title": "The White House",
+      "latitude": 51.70649104,
+      "longitude": -8.52335044,
+      "directions": "On Pearse Street (State Route R605) , Kinsale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137169",
+      "photo_urls": []
+    },
+    {
+      "id": "137170",
+      "title": "Kinsale-Cionn TSáile and Antibes-Juan Les Pins Twinning",
+      "latitude": 51.70667694,
+      "longitude": -8.52321131,
+      "directions": "On The Glen (State Route R605) , Kinsale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137170",
+      "photo_urls": []
+    },
+    {
+      "id": "137173",
+      "title": "Blue Haven Old Fish Market Wall Restoration",
+      "latitude": 51.70646314,
+      "longitude": -8.52316104,
+      "directions": "On Pearse Street (State Route R605) , Kinsale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137173",
+      "photo_urls": []
+    },
+    {
+      "id": "137242",
+      "title": "Dún Cathal / Charles Fort",
+      "latitude": 51.70545762,
+      "longitude": -8.52240113,
+      "directions": "On Cork Street (State Route R600) , Kinsale, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137242",
+      "photo_urls": []
+    },
+    {
+      "id": "137244",
+      "title": "Dún Shéamais / James Fort",
+      "latitude": 51.70528329,
+      "longitude": -8.52223232,
+      "directions": "On Pier Road (State Route R600) , Kinsale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137244",
+      "photo_urls": []
+    },
+    {
+      "id": "137269",
+      "title": "Fish Shed / Bothán na nÉisc",
+      "latitude": 51.70523956,
+      "longitude": -8.52245878,
+      "directions": "On Pier Road (State Route R600) , Kinsale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137269",
+      "photo_urls": []
+    },
+    {
+      "id": "137271",
+      "title": "The Pauper's Well / Tobar na mbocht",
+      "latitude": 51.70624226,
+      "longitude": -8.52572927,
+      "directions": "On Church Square, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137271",
+      "photo_urls": []
+    },
+    {
+      "id": "137282",
+      "title": "Kinsale",
+      "latitude": 51.70607565,
+      "longitude": -8.52490519,
+      "directions": "On Market Square, Kinsale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137282",
+      "photo_urls": []
+    },
+    {
+      "id": "137294",
+      "title": "The Town Pound",
+      "latitude": 51.70609937,
+      "longitude": -8.52484084,
+      "directions": "On Market Square, Kinsale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137294",
+      "photo_urls": []
+    },
+    {
+      "id": "137339",
+      "title": "The James O'Neill Memorial Building",
+      "latitude": 51.70622867,
+      "longitude": -8.52594383,
+      "directions": "On Church Street, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137339",
+      "photo_urls": []
+    },
+    {
+      "id": "137360",
+      "title": "Eaglais Multose Naofa / St. Multose Church",
+      "latitude": 51.70618724,
+      "longitude": -8.52602146,
+      "directions": "On Church Square, Kinsale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137360",
+      "photo_urls": []
+    },
+    {
+      "id": "137476",
+      "title": "Crann Seoil / 1601 Galleon Mast",
+      "latitude": 51.70369209,
+      "longitude": -8.51989629,
+      "directions": "On Pier Road (State Route R600) , Kinsale, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137476",
+      "photo_urls": []
+    },
+    {
+      "id": "137497",
+      "title": "Lost Seafarers Memorial",
+      "latitude": 51.70370911,
+      "longitude": -8.51995368,
+      "directions": "On Pier Road (State Route R600) , Kinsale, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137497",
+      "photo_urls": []
+    },
+    {
+      "id": "137529",
+      "title": "Seafarers Memorial",
+      "latitude": 51.70380998,
+      "longitude": -8.52001577,
+      "directions": "On Pier Road (State Route R600) , Kinsale, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137529",
+      "photo_urls": []
+    },
+    {
+      "id": "137530",
+      "title": "Bina Fitzgerald",
+      "latitude": 51.61995884,
+      "longitude": -8.54208348,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137530",
+      "photo_urls": []
+    },
+    {
+      "id": "137568",
+      "title": "Victims of the RMS Lusitania Sinking",
+      "latitude": 51.62013645,
+      "longitude": -8.54203297,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137568",
+      "photo_urls": []
+    },
+    {
+      "id": "139527",
+      "title": "R. M. S. Lusitania",
+      "latitude": 51.62019529,
+      "longitude": -8.54200169,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139527",
+      "photo_urls": []
+    },
+    {
+      "id": "139528",
+      "title": "Old Head of Kinsale / An Seancheann",
+      "latitude": 51.62025949,
+      "longitude": -8.54194095,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139528",
+      "photo_urls": []
+    },
+    {
+      "id": "139529",
+      "title": "Nineteenth Century Ship's Bollard",
+      "latitude": 51.62018119,
+      "longitude": -8.54271059,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139529",
+      "photo_urls": []
+    },
+    {
+      "id": "139559",
+      "title": "Triangulation Pillar",
+      "latitude": 51.62016951,
+      "longitude": -8.54275875,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139559",
+      "photo_urls": []
+    },
+    {
+      "id": "139562",
+      "title": "RMS Lusitania Lifeboat Davit",
+      "latitude": 51.61991756,
+      "longitude": -8.54261701,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139562",
+      "photo_urls": []
+    },
+    {
+      "id": "139595",
+      "title": "Lusitania Memorial Garden",
+      "latitude": 51.61984503,
+      "longitude": -8.54255334,
+      "directions": "On Old Head Ring Route, Old Head, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139595",
+      "photo_urls": []
+    },
+    {
+      "id": "139602",
+      "title": "Kilbrittain Castle",
+      "latitude": 51.67164835,
+      "longitude": -8.67758059,
+      "directions": "On State Route R603, Kilbrittain, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139602",
+      "photo_urls": []
+    },
+    {
+      "id": "139606",
+      "title": "The Book of Lismore",
+      "latitude": 51.67164835,
+      "longitude": -8.67758059,
+      "directions": "On State Route R603, Kilbrittain, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139606",
+      "photo_urls": []
+    },
+    {
+      "id": "139612",
+      "title": "First Meeting of Ból Chumann na hÉireann",
+      "latitude": 51.7382297,
+      "longitude": -8.93070116,
+      "directions": "On State Route R588, Enniskeane, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139612",
+      "photo_urls": []
+    },
+    {
+      "id": "139617",
+      "title": "Béal na mBláth Ambush Site",
+      "latitude": 51.81356446,
+      "longitude": -8.85650856,
+      "directions": "On Local Route L2011, near Béal na mBláth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139617",
+      "photo_urls": []
+    },
+    {
+      "id": "139626",
+      "title": "~ The Family ~",
+      "latitude": 51.90473885,
+      "longitude": -8.95990159,
+      "directions": "On West Square, Macroom, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139626",
+      "photo_urls": []
+    },
+    {
+      "id": "139642",
+      "title": "300th Anniversary of the Granting of Market Rights to Macroom Town",
+      "latitude": 51.90469685,
+      "longitude": -8.95985803,
+      "directions": "On West Square, Macroom, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139642",
+      "photo_urls": []
+    },
+    {
+      "id": "139643",
+      "title": "War Memorial",
+      "latitude": 51.90489823,
+      "longitude": -8.96004482,
+      "directions": "On Castle Street (National Route N22) , Macroom, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139643",
+      "photo_urls": []
+    },
+    {
+      "id": "139647",
+      "title": "United Irishmen 1798 - 1803",
+      "latitude": 51.90490202,
+      "longitude": -8.96073021,
+      "directions": "Near , Macroom, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139647",
+      "photo_urls": []
+    },
+    {
+      "id": "139648",
+      "title": "Macroom Castle Demesne",
+      "latitude": 51.90485916,
+      "longitude": -8.96050563,
+      "directions": "Near , Macroom, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139648",
+      "photo_urls": []
+    },
+    {
+      "id": "139654",
+      "title": "Macroom and the Beautiful Lee Valley",
+      "latitude": 51.90477127,
+      "longitude": -8.96027843,
+      "directions": "On West Square, Macroom, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139654",
+      "photo_urls": []
+    },
+    {
+      "id": "139672",
+      "title": "Fair Green",
+      "latitude": 51.88047349,
+      "longitude": -9.58382162,
+      "directions": "On The Square (National Route N71) , Kenmare, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139672",
+      "photo_urls": []
+    },
+    {
+      "id": "139673",
+      "title": "War of Independence",
+      "latitude": 51.88043033,
+      "longitude": -9.58377552,
+      "directions": "On The Square (National Route N71) , Kenmare, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139673",
+      "photo_urls": []
+    },
+    {
+      "id": "139755",
+      "title": "James Joyce Pub Award",
+      "latitude": 51.88035301,
+      "longitude": -9.58423029,
+      "directions": "On The Square (National Route N71) , Kenmare, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139755",
+      "photo_urls": []
+    },
+    {
+      "id": "139761",
+      "title": "Kenmare Heritage Town",
+      "latitude": 51.88070948,
+      "longitude": -9.58457888,
+      "directions": "On The Square (National Route N71) , Kenmare, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139761",
+      "photo_urls": []
+    },
+    {
+      "id": "139774",
+      "title": "The Market House",
+      "latitude": 51.88040107,
+      "longitude": -9.58433393,
+      "directions": "On The Square (National Route N71) , Kenmare, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139774",
+      "photo_urls": []
+    },
+    {
+      "id": "139847",
+      "title": "Henry Street",
+      "latitude": 51.87987463,
+      "longitude": -9.58332497,
+      "directions": "On The Square/Main Street (National Route N71) , Kenmare, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139847",
+      "photo_urls": []
+    },
+    {
+      "id": "139850",
+      "title": "Main Street",
+      "latitude": 51.87988755,
+      "longitude": -9.58324921,
+      "directions": "On Main Street (National Route N71) , Kenmare, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139850",
+      "photo_urls": []
+    },
+    {
+      "id": "139881",
+      "title": "Charles de Gaulle",
+      "latitude": 51.83881703,
+      "longitude": -9.90192412,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139881",
+      "photo_urls": []
+    },
+    {
+      "id": "139887",
+      "title": "The Steel Tree",
+      "latitude": 51.83891517,
+      "longitude": -9.90163174,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139887",
+      "photo_urls": []
+    },
+    {
+      "id": "139889",
+      "title": "John Egan",
+      "latitude": 51.83775767,
+      "longitude": -9.89881812,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139889",
+      "photo_urls": []
+    },
+    {
+      "id": "139891",
+      "title": "Steve (Crusher) Casey",
+      "latitude": 51.83766763,
+      "longitude": -9.89811321,
+      "directions": "On State Route R568, Sneem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139891",
+      "photo_urls": []
+    },
+    {
+      "id": "139934",
+      "title": "The Peaceful Panda",
+      "latitude": 51.83718127,
+      "longitude": -9.89849791,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139934",
+      "photo_urls": []
+    },
+    {
+      "id": "139942",
+      "title": "Cearbhall ó Dálaigh",
+      "latitude": 51.83765256,
+      "longitude": -9.89873291,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139942",
+      "photo_urls": []
+    },
+    {
+      "id": "139991",
+      "title": "<i>Catherine (Brennan) Mulvihille</i>",
+      "latitude": 51.83778595,
+      "longitude": -9.89874306,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139991",
+      "photo_urls": []
+    },
+    {
+      "id": "139993",
+      "title": "World War I Memorial",
+      "latitude": 51.83785684,
+      "longitude": -9.89928288,
+      "directions": "On Ring of Kerry (National Route N70) , Sneem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139993",
+      "photo_urls": []
+    },
+    {
+      "id": "140518",
+      "title": "Church of the Most Precious Blood",
+      "latitude": 51.77913054,
+      "longitude": -10.03603857,
+      "directions": "On Ring of Kerry (National Route N70) , Castlecove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140518",
+      "photo_urls": []
+    },
+    {
+      "id": "140605",
+      "title": "Cathair na Stéige / Staigue Fort",
+      "latitude": 51.80505653,
+      "longitude": -10.01633129,
+      "directions": "Near , near Staigue, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140605",
+      "photo_urls": []
+    },
+    {
+      "id": "140707",
+      "title": "Colonel Patrick J. Quinlan",
+      "latitude": 51.77631353,
+      "longitude": -10.16778001,
+      "directions": "On Ring of Kerry (National Route N70) , near Beenarourke, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140707",
+      "photo_urls": []
+    },
+    {
+      "id": "140708",
+      "title": "Com an Chiste",
+      "latitude": 51.77621238,
+      "longitude": -10.16768356,
+      "directions": "On National Route N70, near Beenarourke, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140708",
+      "photo_urls": []
+    },
+    {
+      "id": "140797",
+      "title": "Teach do laoch / <i>Home for a hero</i>",
+      "latitude": 51.76312483,
+      "longitude": -10.12895926,
+      "directions": "Near , Derrynane More, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140797",
+      "photo_urls": []
+    },
+    {
+      "id": "140842",
+      "title": "Bóthar an Ime / Bóthar an Chuinsailéara",
+      "latitude": 51.76957138,
+      "longitude": -10.09917049,
+      "directions": "On Ring of Kerry (National Route N70) , Caherdaniel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140842",
+      "photo_urls": []
+    },
+    {
+      "id": "140847",
+      "title": "The Sun / An ghrian",
+      "latitude": 51.76967933,
+      "longitude": -10.09923201,
+      "directions": "On Ring of Kerry (National Route N70) , Caherdaniel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140847",
+      "photo_urls": []
+    },
+    {
+      "id": "140949",
+      "title": "Dr. Thomas George Millerick 1864-1898",
+      "latitude": 51.82545035,
+      "longitude": -10.17203788,
+      "directions": "On Ring of Kerry (National Route N70) , Waterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140949",
+      "photo_urls": []
+    },
+    {
+      "id": "140959",
+      "title": "Charlie Chaplin",
+      "latitude": 51.82633142,
+      "longitude": -10.1721306,
+      "directions": "On Ring of Kerry (National Route N70) , Waterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140959",
+      "photo_urls": []
+    },
+    {
+      "id": "140960",
+      "title": "Mick O'Dwyer",
+      "latitude": 51.82670075,
+      "longitude": -10.17217234,
+      "directions": "On National Route N70, Waterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140960",
+      "photo_urls": []
+    },
+    {
+      "id": "141068",
+      "title": "Commercial Cable Company",
+      "latitude": 51.83183277,
+      "longitude": -10.17556739,
+      "directions": "On National Route N70, Waterville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141068",
+      "photo_urls": []
+    },
+    {
+      "id": "141069",
+      "title": "New Office",
+      "latitude": 51.83170405,
+      "longitude": -10.17344415,
+      "directions": "On Iveragh Terrace, Waterville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141069",
+      "photo_urls": []
+    },
+    {
+      "id": "141081",
+      "title": "Iveragh Lodge",
+      "latitude": 51.83308139,
+      "longitude": -10.17270826,
+      "directions": "On Iveragh Terrace, Waterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141081",
+      "photo_urls": []
+    },
+    {
+      "id": "141086",
+      "title": "Iveragh Lodge • Commercial Cable Company 1st Offices",
+      "latitude": 51.83308139,
+      "longitude": -10.17270826,
+      "directions": "On Iveragh Terrace, Waterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141086",
+      "photo_urls": []
+    },
+    {
+      "id": "141094",
+      "title": "Latitude 51 49' 50\"·54 N. Longitude 10 10' 15\"·5 W.",
+      "latitude": 51.83325805,
+      "longitude": -10.1725861,
+      "directions": "On Iveragh Terrace, Waterville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141094",
+      "photo_urls": []
+    },
+    {
+      "id": "141096",
+      "title": "Latitude and Longitude Stone 1892",
+      "latitude": 51.83325805,
+      "longitude": -10.1725861,
+      "directions": "On Iveragh Terrace, Waterville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141096",
+      "photo_urls": []
+    },
+    {
+      "id": "141169",
+      "title": "Our Lady of Grace Grotto at Tobairin Holy Well",
+      "latitude": 51.8584932,
+      "longitude": -10.37382659,
+      "directions": "On Skellig Ring Route, near Coomanaspig Pass, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141169",
+      "photo_urls": []
+    },
+    {
+      "id": "141205",
+      "title": "The Ferryboat",
+      "latitude": 51.88618771,
+      "longitude": -10.36378397,
+      "directions": "On Main Street, Portmagee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141205",
+      "photo_urls": []
+    },
+    {
+      "id": "141208",
+      "title": "Tomás Rua Ó Súilleabháin",
+      "latitude": 51.88617352,
+      "longitude": -10.36366092,
+      "directions": "On Main Street, Portmagee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141208",
+      "photo_urls": []
+    },
+    {
+      "id": "141308",
+      "title": "Portmagee",
+      "latitude": 51.88599151,
+      "longitude": -10.36305317,
+      "directions": "On Main Street, Portmagee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141308",
+      "photo_urls": []
+    },
+    {
+      "id": "142353",
+      "title": "O'Connell Memorial Church",
+      "latitude": 51.94688473,
+      "longitude": -10.22514074,
+      "directions": "On Church Street/Ring of Kerry (National Route N70) , Cahersiveen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142353",
+      "photo_urls": []
+    },
+    {
+      "id": "142356",
+      "title": "Monsignor Hugh O'Flaherty",
+      "latitude": 51.94693943,
+      "longitude": -10.22556838,
+      "directions": "On O&#39;Connell Street, Cahersiveen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142356",
+      "photo_urls": []
+    },
+    {
+      "id": "142380",
+      "title": "Presentation Convent",
+      "latitude": 51.94767489,
+      "longitude": -10.22597159,
+      "directions": "On O&#39;Connell Street, Cahersiveen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142380",
+      "photo_urls": []
+    },
+    {
+      "id": "142383",
+      "title": "The Barracks Heritage Centre",
+      "latitude": 51.94935247,
+      "longitude": -10.22423806,
+      "directions": "On Bridge Street, Cahersiveen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142383",
+      "photo_urls": []
+    },
+    {
+      "id": "142388",
+      "title": "Atlantic College of Wireless & Cable Telegraphy",
+      "latitude": 51.95034891,
+      "longitude": -10.22153133,
+      "directions": "On Brendan&#39;s Terrace, Cahersiveen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142388",
+      "photo_urls": []
+    },
+    {
+      "id": "142406",
+      "title": "Ringforts",
+      "latitude": 51.95062502,
+      "longitude": -10.22147592,
+      "directions": "On Brendan&#39;s Terrace, Cahersiveen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142406",
+      "photo_urls": []
+    },
+    {
+      "id": "142419",
+      "title": "The Railway",
+      "latitude": 51.9509248,
+      "longitude": -10.2225331,
+      "directions": "Near , Cahersiveen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142419",
+      "photo_urls": []
+    },
+    {
+      "id": "142461",
+      "title": "Railway and O'Connell",
+      "latitude": 51.95086499,
+      "longitude": -10.22275921,
+      "directions": "Near , Cahersiveen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142461",
+      "photo_urls": []
+    },
+    {
+      "id": "142468",
+      "title": "Sive Fort",
+      "latitude": 51.95097449,
+      "longitude": -10.2215641,
+      "directions": "Near , Cahersiveen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142468",
+      "photo_urls": []
+    },
+    {
+      "id": "142474",
+      "title": "Primrose Walk",
+      "latitude": 51.95297545,
+      "longitude": -10.21434214,
+      "directions": "On Reenrusheen Road, Cahersiveen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142474",
+      "photo_urls": []
+    },
+    {
+      "id": "142604",
+      "title": "O'Connell's Birth Place",
+      "latitude": 51.95151989,
+      "longitude": -10.20464126,
+      "directions": "On Ring of Kerry (National Route N70) , Cahersiveen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142604",
+      "photo_urls": []
+    },
+    {
+      "id": "142607",
+      "title": "The Daniel O'Connell Memorial Park",
+      "latitude": 51.95153037,
+      "longitude": -10.20464144,
+      "directions": "On National Route N70, Cahersiveen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142607",
+      "photo_urls": []
+    },
+    {
+      "id": "142619",
+      "title": "O'Connell",
+      "latitude": 51.95139176,
+      "longitude": -10.20456704,
+      "directions": "On National Route N70, Cahersiveen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142619",
+      "photo_urls": []
+    },
+    {
+      "id": "142681",
+      "title": "The Daniel O'Connell Memorial Park",
+      "latitude": 51.95125065,
+      "longitude": -10.2044119,
+      "directions": "On Ring of Kerry (National Route N70) , Cahersiveen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142681",
+      "photo_urls": []
+    },
+    {
+      "id": "142683",
+      "title": "The Abbey of the Holy Cross",
+      "latitude": 51.9512586,
+      "longitude": -10.20469513,
+      "directions": "On Carhan Road, Cahersiveen, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142683",
+      "photo_urls": []
+    },
+    {
+      "id": "142699",
+      "title": "John Golden and the South Kerry Fenians",
+      "latitude": 52.01320188,
+      "longitude": -10.09850306,
+      "directions": "On Ring of Kerry (National Route N70) , Kells, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142699",
+      "photo_urls": []
+    },
+    {
+      "id": "142761",
+      "title": "Glenbeigh",
+      "latitude": 52.0548651,
+      "longitude": -9.94420426,
+      "directions": "On Ring of Kerry (National Route N70) , Glenbeigh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142761",
+      "photo_urls": []
+    },
+    {
+      "id": "142765",
+      "title": "Townsend Blennerhassett",
+      "latitude": 52.1079357,
+      "longitude": -9.78647428,
+      "directions": "On Mill Road/Ring of Kerry (National Route N70) , Killorglin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142765",
+      "photo_urls": []
+    },
+    {
+      "id": "142785",
+      "title": "The Ballykissane Drowning Tragedy: Good Friday 1916",
+      "latitude": 52.10807373,
+      "longitude": -9.78535542,
+      "directions": "On New Line Road/Ring of Kerry (National Route N70) , Killorglin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142785",
+      "photo_urls": []
+    },
+    {
+      "id": "142789",
+      "title": "The Ballykissane Tragedy: Good Friday 1916",
+      "latitude": 52.10811126,
+      "longitude": -9.78529896,
+      "directions": "On New Line Road/Ring of Kerry (National Route N70) , Killorglin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142789",
+      "photo_urls": []
+    },
+    {
+      "id": "142791",
+      "title": "Proclamation of the Irish Republic",
+      "latitude": 52.16773924,
+      "longitude": -9.70306031,
+      "directions": "On National Route N70, Castlemaine, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142791",
+      "photo_urls": []
+    },
+    {
+      "id": "142806",
+      "title": "War Memorial",
+      "latitude": 51.94741154,
+      "longitude": -10.22325311,
+      "directions": "On Church Street (National Route N70) , Cahersiveen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142806",
+      "photo_urls": []
+    },
+    {
+      "id": "142812",
+      "title": "History of Adare Methodist Church",
+      "latitude": 52.56392199,
+      "longitude": -8.79386002,
+      "directions": "On Black Abbey Road (Local Route 1422) , Adare, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142812",
+      "photo_urls": []
+    },
+    {
+      "id": "142919",
+      "title": "Estate and Houses of Adare / <i>Eastát agus Tithe Áth Dara</i>",
+      "latitude": 52.56408491,
+      "longitude": -8.79052109,
+      "directions": "On Main Street (National Route N21) , Adare, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142919",
+      "photo_urls": []
+    },
+    {
+      "id": "142922",
+      "title": "Washing Pool / <i>Linn Níocháin</i>",
+      "latitude": 52.56416707,
+      "longitude": -8.79023914,
+      "directions": "On Main Street (National Route N21) , Adare, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142922",
+      "photo_urls": []
+    },
+    {
+      "id": "142967",
+      "title": "Countess Dunraven Fountain",
+      "latitude": 52.56466298,
+      "longitude": -8.78928241,
+      "directions": "On Main Street (National Route N21) , Adare, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142967",
+      "photo_urls": []
+    },
+    {
+      "id": "142969",
+      "title": "Trinitarian Monastery / <i>Mainistir Ord na Tríonóide</i>",
+      "latitude": 52.56474696,
+      "longitude": -8.7890398,
+      "directions": "On Main Street (National Route N21) , Adare, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142969",
+      "photo_urls": []
+    },
+    {
+      "id": "143072",
+      "title": "Augustinian Friary / Mainistir na nAgaistíneach",
+      "latitude": 52.56775762,
+      "longitude": -8.78385651,
+      "directions": "On Main Street (National Route N21) , Adare, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143072",
+      "photo_urls": []
+    },
+    {
+      "id": "143081",
+      "title": "Richard, First Earl of Dunraven",
+      "latitude": 52.56774483,
+      "longitude": -8.78507402,
+      "directions": "Near , Adare, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143081",
+      "photo_urls": []
+    },
+    {
+      "id": "143098",
+      "title": "The Canal Store",
+      "latitude": 52.92520516,
+      "longitude": -8.27887987,
+      "directions": "On the lakefront access road, Dromineer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143098",
+      "photo_urls": []
+    },
+    {
+      "id": "143104",
+      "title": "Dromineer Castle",
+      "latitude": 52.92576554,
+      "longitude": -8.27727411,
+      "directions": "Near , Dromineer, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143104",
+      "photo_urls": []
+    },
+    {
+      "id": "143114",
+      "title": "War Memorial",
+      "latitude": 52.44956042,
+      "longitude": -9.05910478,
+      "directions": "On South Quay (National Route N21) , Newcastle West, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143114",
+      "photo_urls": []
+    },
+    {
+      "id": "143126",
+      "title": "John Farrell's Field",
+      "latitude": 53.08906216,
+      "longitude": -7.90847244,
+      "directions": "On National Route N52, Birr, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143126",
+      "photo_urls": []
+    },
+    {
+      "id": "143128",
+      "title": "Site of First All-Ireland Hurling Final",
+      "latitude": 53.08905709,
+      "longitude": -7.90859318,
+      "directions": "On National Route N52, Birr, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143128",
+      "photo_urls": []
+    },
+    {
+      "id": "143134",
+      "title": "World Wars Memorial",
+      "latitude": 53.27435521,
+      "longitude": -7.49217097,
+      "directions": "On High Street/Main Street (State Route 421) , Tullamore, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143134",
+      "photo_urls": []
+    },
+    {
+      "id": "143141",
+      "title": "Tullamore Distillery",
+      "latitude": 53.2754399,
+      "longitude": -7.49360207,
+      "directions": "On Patrick Street, Tullamore, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143141",
+      "photo_urls": []
+    },
+    {
+      "id": "143143",
+      "title": "James, Duke of Leinster",
+      "latitude": 53.38023098,
+      "longitude": -6.59389766,
+      "directions": "On Parson Street (State Route R408) , Maynooth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143143",
+      "photo_urls": []
+    },
+    {
+      "id": "143155",
+      "title": "St. Mary's Church of Ireland East Window",
+      "latitude": 53.38023098,
+      "longitude": -6.59389766,
+      "directions": "On Parson Street (State Route R408) , Maynooth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143155",
+      "photo_urls": []
+    },
+    {
+      "id": "143157",
+      "title": "St. Mary's Church <i>(Anglican)</i>",
+      "latitude": 53.3802941,
+      "longitude": -6.59394293,
+      "directions": "On Parson Street (State Route R408) , Maynooth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143157",
+      "photo_urls": []
+    },
+    {
+      "id": "143158",
+      "title": "Caisleán mhagh nuadhad / Geraldine Castle",
+      "latitude": 53.3807923,
+      "longitude": -6.59381972,
+      "directions": "On Main Street (State Route R408) , Maynooth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143158",
+      "photo_urls": []
+    },
+    {
+      "id": "143165",
+      "title": "The Wonderful Barn",
+      "latitude": 53.35920483,
+      "longitude": -6.50483399,
+      "directions": "Near , Leixlip, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143165",
+      "photo_urls": []
+    },
+    {
+      "id": "143168",
+      "title": "Kildrought House",
+      "latitude": 53.34030055,
+      "longitude": -6.53784751,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143168",
+      "photo_urls": []
+    },
+    {
+      "id": "143171",
+      "title": "Edward Bridgeman",
+      "latitude": 53.33952249,
+      "longitude": -6.53862389,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143171",
+      "photo_urls": []
+    },
+    {
+      "id": "143176",
+      "title": "<i>St Patrick's Church, Celbridge</i>",
+      "latitude": 53.33954837,
+      "longitude": -6.53889806,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143176",
+      "photo_urls": []
+    },
+    {
+      "id": "143180",
+      "title": "Sir Gerald Dease, K.C.V.O.",
+      "latitude": 53.33980445,
+      "longitude": -6.53915244,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143180",
+      "photo_urls": []
+    },
+    {
+      "id": "143209",
+      "title": "Celbridge Abbey",
+      "latitude": 53.3369506,
+      "longitude": -6.54201779,
+      "directions": "On Clane Road (Route R403) , Celbridge, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143209",
+      "photo_urls": []
+    },
+    {
+      "id": "143210",
+      "title": "Arthur's Way / <i>Cosán Arthur</i>",
+      "latitude": 53.34072833,
+      "longitude": -6.53746744,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143210",
+      "photo_urls": []
+    },
+    {
+      "id": "143226",
+      "title": "Celbridge Union Workhouse Cemetery",
+      "latitude": 53.34456073,
+      "longitude": -6.54216364,
+      "directions": "On Maynooth Road (Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143226",
+      "photo_urls": []
+    },
+    {
+      "id": "143227",
+      "title": "Celbridge Union Workhouse Cemetery Gate",
+      "latitude": 53.34421377,
+      "longitude": -6.54205325,
+      "directions": "On Maynooth Road (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143227",
+      "photo_urls": []
+    },
+    {
+      "id": "143231",
+      "title": "A Brief History of Celbridge Poor Law Union",
+      "latitude": 53.34461765,
+      "longitude": -6.5420811,
+      "directions": "On Maynooth Road (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143231",
+      "photo_urls": []
+    },
+    {
+      "id": "143409",
+      "title": "Castletown",
+      "latitude": 53.3511852,
+      "longitude": -6.52811073,
+      "directions": "Near , Celbridge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143409",
+      "photo_urls": []
+    },
+    {
+      "id": "143545",
+      "title": "Welcome to Celbridge",
+      "latitude": 53.34072833,
+      "longitude": -6.53746744,
+      "directions": "On Main Street (State Route R405) , Celbridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143545",
+      "photo_urls": []
+    },
+    {
+      "id": "163613",
+      "title": "United States Naval Headquarters",
+      "latitude": 51.85280833,
+      "longitude": -8.29089444,
+      "directions": "On Beechmount, Cobh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=163613",
+      "photo_urls": []
+    },
+    {
+      "id": "163986",
+      "title": "U.S. Naval Air Station",
+      "latitude": 52.33761667,
+      "longitude": -6.45531667,
+      "directions": "Near Paul Quay (County Route R730) , Ferrybank South, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=163986",
+      "photo_urls": []
+    },
+    {
+      "id": "22435",
+      "title": "Castle Hall / Halla an Chaisleáin",
+      "latitude": 53.343551,
+      "longitude": -6.267593,
+      "directions": "Near Castle Street, Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22435",
+      "photo_urls": []
+    },
+    {
+      "id": "22450",
+      "title": "First Performance of Handel's Messiah",
+      "latitude": 53.344243,
+      "longitude": -6.269595,
+      "directions": "On Fishamble Street, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22450",
+      "photo_urls": []
+    },
+    {
+      "id": "22454",
+      "title": "Margaret Anna Cusack",
+      "latitude": 53.339322,
+      "longitude": -6.264205,
+      "directions": "On Lower Mercer Street, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22454",
+      "photo_urls": []
+    },
+    {
+      "id": "22459",
+      "title": "Leinster House",
+      "latitude": 53.34062,
+      "longitude": -6.255212,
+      "directions": "On Kildare Street (National Route 11) , Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22459",
+      "photo_urls": []
+    },
+    {
+      "id": "22465",
+      "title": "St. Patrick's Cathedral",
+      "latitude": 53.340028,
+      "longitude": -6.27208,
+      "directions": "On Patrick Street (National Route 81) , Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22465",
+      "photo_urls": []
+    },
+    {
+      "id": "22468",
+      "title": "Saint Patrick’s Park",
+      "latitude": 53.339963,
+      "longitude": -6.272072,
+      "directions": "On Patrick Street (National Route 81) , Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22468",
+      "photo_urls": []
+    },
+    {
+      "id": "22470",
+      "title": "Fusiliers’ Arch",
+      "latitude": 53.339653,
+      "longitude": -6.260521,
+      "directions": "On St. Stephen&#39;s Green, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22470",
+      "photo_urls": []
+    },
+    {
+      "id": "22472",
+      "title": "Dublin Millenium Literary Parade",
+      "latitude": 53.340282,
+      "longitude": -6.270313,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22472",
+      "photo_urls": []
+    },
+    {
+      "id": "22480",
+      "title": "Chris Reid Oral History Artwork Project",
+      "latitude": 53.341995,
+      "longitude": -6.272057,
+      "directions": "On Nicholas Street (National Route 81) , Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22480",
+      "photo_urls": []
+    },
+    {
+      "id": "22483",
+      "title": "St. Stephen's Green Bandstand",
+      "latitude": 53.337566,
+      "longitude": -6.259696,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22483",
+      "photo_urls": []
+    },
+    {
+      "id": "22485",
+      "title": "Haslam Memorial Seat",
+      "latitude": 53.33792,
+      "longitude": -6.258766,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22485",
+      "photo_urls": []
+    },
+    {
+      "id": "22488",
+      "title": "James Clarence Mangan",
+      "latitude": 53.338045,
+      "longitude": -6.259918,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22488",
+      "photo_urls": []
+    },
+    {
+      "id": "22489",
+      "title": "Thomas M. Kettle",
+      "latitude": 53.338037,
+      "longitude": -6.258278,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22489",
+      "photo_urls": []
+    },
+    {
+      "id": "22504",
+      "title": "Countess Constance Markievicz",
+      "latitude": 53.33779,
+      "longitude": -6.259,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22504",
+      "photo_urls": []
+    },
+    {
+      "id": "22522",
+      "title": "The Woodhenge/Pit circle / The Winter Soltice",
+      "latitude": 53.694401,
+      "longitude": -6.474198,
+      "directions": "Near , Newgrange, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22522",
+      "photo_urls": []
+    },
+    {
+      "id": "22533",
+      "title": "Slane Abbey",
+      "latitude": 53.717203,
+      "longitude": -6.542686,
+      "directions": "Near , Slane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22533",
+      "photo_urls": []
+    },
+    {
+      "id": "22538",
+      "title": "Saint Patrick on the Hill of Slane",
+      "latitude": 53.717098,
+      "longitude": -6.542686,
+      "directions": "Near , Slane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22538",
+      "photo_urls": []
+    },
+    {
+      "id": "22542",
+      "title": "Donaghmore Church and Round Tower",
+      "latitude": 53.670442,
+      "longitude": -6.662119,
+      "directions": "Near , Donaghmore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22542",
+      "photo_urls": []
+    },
+    {
+      "id": "22850",
+      "title": "A Fighting Chance",
+      "latitude": 53.119868,
+      "longitude": -9.666831,
+      "directions": "Near , Killeany, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22850",
+      "photo_urls": []
+    },
+    {
+      "id": "22928",
+      "title": "Welcome to Port Corrúch Seal Colony",
+      "latitude": 53.137519,
+      "longitude": -9.713824,
+      "directions": "On Coast Road, Oghil, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22928",
+      "photo_urls": []
+    },
+    {
+      "id": "22990",
+      "title": "Kilfenora Cathedral and High Crosses",
+      "latitude": 52.990627,
+      "longitude": -9.216773,
+      "directions": "Near , Kilfenora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22990",
+      "photo_urls": []
+    },
+    {
+      "id": "23042",
+      "title": "Teampaillín Bán",
+      "latitude": 52.450543,
+      "longitude": -9.497552,
+      "directions": "On Ballybunion Road (Route 553) , Listowel, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23042",
+      "photo_urls": []
+    },
+    {
+      "id": "23045",
+      "title": "Tom Crean",
+      "latitude": 52.151025,
+      "longitude": -10.056133,
+      "directions": "Near , Anascaul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23045",
+      "photo_urls": []
+    },
+    {
+      "id": "23075",
+      "title": "Jerome Connor",
+      "latitude": 52.151081,
+      "longitude": -10.057377,
+      "directions": "On National Route 86, Anascaul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23075",
+      "photo_urls": []
+    },
+    {
+      "id": "23499",
+      "title": "Gallarus Oratory / Séipéilín Ghallarais",
+      "latitude": 52.172879,
+      "longitude": -10.35013,
+      "directions": "Near , near Gallarus, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23499",
+      "photo_urls": []
+    },
+    {
+      "id": "23694",
+      "title": "Historic Kilfenora / Cill Fhionnúrach Stairiúil",
+      "latitude": 52.990591,
+      "longitude": -9.21724,
+      "directions": "Near , Kilfenora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23694",
+      "photo_urls": []
+    },
+    {
+      "id": "23698",
+      "title": "Maid of Erin",
+      "latitude": 52.445567,
+      "longitude": -9.486517,
+      "directions": "On Main Street (National Route 69) , Listowel, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23698",
+      "photo_urls": []
+    },
+    {
+      "id": "23989",
+      "title": "\"River Fort\"",
+      "latitude": 52.444939,
+      "longitude": -9.485922,
+      "directions": "On Bridge Road (National Route 69) , Listowel, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23989",
+      "photo_urls": []
+    },
+    {
+      "id": "240413",
+      "title": "Four Courts Garrison / Garastún na gCiethre Cúirteanna",
+      "latitude": 53.34928907,
+      "longitude": -6.27483672,
+      "directions": "On Church Street (National Route 1) , Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240413",
+      "photo_urls": []
+    },
+    {
+      "id": "240425",
+      "title": "Padre Pio",
+      "latitude": 53.34902762,
+      "longitude": -6.27484687,
+      "directions": "On Church Street (National Route 1) , Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240425",
+      "photo_urls": []
+    },
+    {
+      "id": "240449",
+      "title": "Royal Hibernian Academy of Arts",
+      "latitude": 53.34850576,
+      "longitude": -6.25839352,
+      "directions": "On Abbey Street Lower, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240449",
+      "photo_urls": []
+    },
+    {
+      "id": "240450",
+      "title": "Wynn's Hotel Dublin",
+      "latitude": 53.34845638,
+      "longitude": -6.25868046,
+      "directions": "On Abbey Street Lower, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240450",
+      "photo_urls": []
+    },
+    {
+      "id": "240451",
+      "title": "Ireland's First Radio Broadcast",
+      "latitude": 53.34834713,
+      "longitude": -6.25922547,
+      "directions": "On Abbey Street Lower, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240451",
+      "photo_urls": []
+    },
+    {
+      "id": "240452",
+      "title": "Sir John Gray, Kn[igh]t. MD. JP.",
+      "latitude": 53.34853106,
+      "longitude": -6.25969127,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240452",
+      "photo_urls": []
+    },
+    {
+      "id": "240453",
+      "title": "William Smith O'Brien",
+      "latitude": 53.34826024,
+      "longitude": -6.25957634,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240453",
+      "photo_urls": []
+    },
+    {
+      "id": "240473",
+      "title": "Independent House",
+      "latitude": 53.3483219,
+      "longitude": -6.26110278,
+      "directions": "On Middle Abbey Street, Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240473",
+      "photo_urls": []
+    },
+    {
+      "id": "240479",
+      "title": "Liffey Bridge",
+      "latitude": 53.34610788,
+      "longitude": -6.26300564,
+      "directions": "On Wellington Quay (Route R148) , Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240479",
+      "photo_urls": []
+    },
+    {
+      "id": "240562",
+      "title": "Sergeant Stephen Kelly and Constable Patrick Keena",
+      "latitude": 53.3454014,
+      "longitude": -6.26479992,
+      "directions": "On Essex Street East, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240562",
+      "photo_urls": []
+    },
+    {
+      "id": "240567",
+      "title": "The Norseman",
+      "latitude": 53.34541194,
+      "longitude": -6.26477309,
+      "directions": "On Essex Street East, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240567",
+      "photo_urls": []
+    },
+    {
+      "id": "240585",
+      "title": "Sir William Temple",
+      "latitude": 53.34551774,
+      "longitude": -6.2641325,
+      "directions": "On Temple Bar, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240585",
+      "photo_urls": []
+    },
+    {
+      "id": "240588",
+      "title": "Frederick Douglass",
+      "latitude": 53.34463518,
+      "longitude": -6.26486924,
+      "directions": "On Eustace Street, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240588",
+      "photo_urls": []
+    },
+    {
+      "id": "240592",
+      "title": "Ludwig Wittgenstein",
+      "latitude": 53.34802574,
+      "longitude": -6.29085101,
+      "directions": "On Parkgate Street, Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240592",
+      "photo_urls": []
+    },
+    {
+      "id": "240635",
+      "title": "The Croppy's Acre",
+      "latitude": 53.34723144,
+      "longitude": -6.28760779,
+      "directions": "On Wolfe Tone Quay (Route R148) , Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240635",
+      "photo_urls": []
+    },
+    {
+      "id": "240667",
+      "title": "5th Infantry Battalion Pipe Band",
+      "latitude": 53.34887734,
+      "longitude": -6.28526259,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240667",
+      "photo_urls": []
+    },
+    {
+      "id": "240680",
+      "title": "General Richard Mulcahy/An Ginerál Risteard Ó Maolchathaigh",
+      "latitude": 53.34887734,
+      "longitude": -6.28526259,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240680",
+      "photo_urls": []
+    },
+    {
+      "id": "240684",
+      "title": "The Arms of the Bakers' Guild of Saints Clement and Anne",
+      "latitude": 53.34880834,
+      "longitude": -6.28528468,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240684",
+      "photo_urls": []
+    },
+    {
+      "id": "240685",
+      "title": "The Beatles",
+      "latitude": 53.34821056,
+      "longitude": -6.26241914,
+      "directions": "On Middle Abbey Street, Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240685",
+      "photo_urls": []
+    },
+    {
+      "id": "240706",
+      "title": "The Oval Bar",
+      "latitude": 53.34841679,
+      "longitude": -6.26031,
+      "directions": "On Middle Abbey Street, Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240706",
+      "photo_urls": []
+    },
+    {
+      "id": "240758",
+      "title": "Captain Thomas Joseph Wafer",
+      "latitude": 53.34857337,
+      "longitude": -6.25935287,
+      "directions": "On Abbey Street Lower, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240758",
+      "photo_urls": []
+    },
+    {
+      "id": "240761",
+      "title": "The Croppies Acre Memorial Park",
+      "latitude": 53.34748713,
+      "longitude": -6.28592271,
+      "directions": "On Wolfe Tone Quay (Route R148) , Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240761",
+      "photo_urls": []
+    },
+    {
+      "id": "24078",
+      "title": "Veronica Guerin",
+      "latitude": 53.3426,
+      "longitude": -6.267275,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24078",
+      "photo_urls": []
+    },
+    {
+      "id": "240811",
+      "title": "Theobald Wolfe Tone",
+      "latitude": 53.34769509,
+      "longitude": -6.28539921,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240811",
+      "photo_urls": []
+    },
+    {
+      "id": "240815",
+      "title": "Duke of Rutland Water Fountain / Fountain Uisce Diúc Rutland",
+      "latitude": 53.34880973,
+      "longitude": -6.28703279,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240815",
+      "photo_urls": []
+    },
+    {
+      "id": "240875",
+      "title": "Arbour Hill Military Cemetery and the Garrison School",
+      "latitude": 53.3501282,
+      "longitude": -6.28637224,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240875",
+      "photo_urls": []
+    },
+    {
+      "id": "240933",
+      "title": "The burial plot of the leaders of the 1916 Rising",
+      "latitude": 53.35079107,
+      "longitude": -6.28688256,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240933",
+      "photo_urls": []
+    },
+    {
+      "id": "240935",
+      "title": "The 1916 Rising memorial area / Limistéar Cuimhneacháin 1916",
+      "latitude": 53.35066348,
+      "longitude": -6.28713157,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240935",
+      "photo_urls": []
+    },
+    {
+      "id": "24096",
+      "title": "The Blaskets",
+      "latitude": 52.120321,
+      "longitude": -10.46032,
+      "directions": "On Route 559, near Dunquin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24096",
+      "photo_urls": []
+    },
+    {
+      "id": "240965",
+      "title": "Patriots Who Died During the 1916 Rising",
+      "latitude": 53.3509607,
+      "longitude": -6.28750956,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240965",
+      "photo_urls": []
+    },
+    {
+      "id": "240970",
+      "title": "IUNVA House and memorial / Teach agus Cuimneachan CÉINA",
+      "latitude": 53.35098128,
+      "longitude": -6.28655001,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240970",
+      "photo_urls": []
+    },
+    {
+      "id": "240998",
+      "title": "Arbour Hill Cemetery / Reilig Chnoc an Arbhair",
+      "latitude": 53.34965035,
+      "longitude": -6.28627811,
+      "directions": "On Arbour Hill, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240998",
+      "photo_urls": []
+    },
+    {
+      "id": "241009",
+      "title": "Smithfield Utah",
+      "latitude": 53.34701994,
+      "longitude": -6.27858853,
+      "directions": "On Smithfield, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241009",
+      "photo_urls": []
+    },
+    {
+      "id": "241010",
+      "title": "Smithfield History / Stair Smithfield",
+      "latitude": 53.34768193,
+      "longitude": -6.27828991,
+      "directions": "On Smithfield, Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241010",
+      "photo_urls": []
+    },
+    {
+      "id": "241027",
+      "title": "Hammond Lane & Church Street",
+      "latitude": 53.34702864,
+      "longitude": -6.27527103,
+      "directions": "On Church Street (National Route 1) , Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241027",
+      "photo_urls": []
+    },
+    {
+      "id": "241076",
+      "title": "James Clarence Mangan",
+      "latitude": 53.34341846,
+      "longitude": -6.26992474,
+      "directions": "On Christchurch Place (Route R137) , Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241076",
+      "photo_urls": []
+    },
+    {
+      "id": "241077",
+      "title": "Site of St Olave's Church / Láthair Eaglais Amhlaoibh",
+      "latitude": 53.34429219,
+      "longitude": -6.26994305,
+      "directions": "On Fishamble Street, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241077",
+      "photo_urls": []
+    },
+    {
+      "id": "241081",
+      "title": "Mendicity Institution Garrison / Garastún Institiúid Deirciochta",
+      "latitude": 53.34623798,
+      "longitude": -6.28177248,
+      "directions": "On Usher&#39;s Island (Route R148) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241081",
+      "photo_urls": []
+    },
+    {
+      "id": "241083",
+      "title": "Last sailing of a Guinness Barge",
+      "latitude": 53.34659961,
+      "longitude": -6.28883019,
+      "directions": "On Victoria Quay (Route R148) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241083",
+      "photo_urls": []
+    },
+    {
+      "id": "241088",
+      "title": "Jim Larkin",
+      "latitude": 53.3491049,
+      "longitude": -6.25992779,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241088",
+      "photo_urls": []
+    },
+    {
+      "id": "241105",
+      "title": "Nelson and the Spire / Nelson agus an Túr Solais",
+      "latitude": 53.34900194,
+      "longitude": -6.26024081,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241105",
+      "photo_urls": []
+    },
+    {
+      "id": "241141",
+      "title": "Conservation and Restoration of Georgian Leinster House",
+      "latitude": 53.34065002,
+      "longitude": -6.25516689,
+      "directions": "On Kildare Street (Route R138) , Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241141",
+      "photo_urls": []
+    },
+    {
+      "id": "241142",
+      "title": "James Joyce Pub Award",
+      "latitude": 53.34077679,
+      "longitude": -6.25548005,
+      "directions": "On Kildare Street (Route R138) , Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241142",
+      "photo_urls": []
+    },
+    {
+      "id": "241144",
+      "title": "St. Winifred's Well",
+      "latitude": 53.34532076,
+      "longitude": -6.26480141,
+      "directions": "On Eustace Street, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241144",
+      "photo_urls": []
+    },
+    {
+      "id": "241146",
+      "title": "O'Connell Street",
+      "latitude": 53.35085222,
+      "longitude": -6.26050535,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241146",
+      "photo_urls": []
+    },
+    {
+      "id": "241166",
+      "title": "The People's Flower Gardens / Gaírdíní Bláthanna an Phobaíl",
+      "latitude": 53.34968801,
+      "longitude": -6.30112333,
+      "directions": "On Chesterfield Avenue, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241166",
+      "photo_urls": []
+    },
+    {
+      "id": "241169",
+      "title": "Wellington",
+      "latitude": 53.34906299,
+      "longitude": -6.30311552,
+      "directions": "On Chesterfield Avenue, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241169",
+      "photo_urls": []
+    },
+    {
+      "id": "24147",
+      "title": "Reask Monastic Site / Láthair Mhainistreach an Riaisc",
+      "latitude": 52.167723,
+      "longitude": -10.387504,
+      "directions": "Near , near Reask, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24147",
+      "photo_urls": []
+    },
+    {
+      "id": "24299",
+      "title": "Kilmalkedar Church / Cill Mhaoilchéadair",
+      "latitude": 52.184708,
+      "longitude": -10.337132,
+      "directions": "Near , Kilmalkedar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24299",
+      "photo_urls": []
+    },
+    {
+      "id": "24628",
+      "title": "Monasterboice / Mainistir Bhuithe",
+      "latitude": 53.777488,
+      "longitude": -6.417078,
+      "directions": "Near , near Monasterboice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24628",
+      "photo_urls": []
+    },
+    {
+      "id": "246924",
+      "title": "Arthur Guinness",
+      "latitude": 53.34334115,
+      "longitude": -6.28435403,
+      "directions": "On Thomas Street (Route R810) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246924",
+      "photo_urls": []
+    },
+    {
+      "id": "24693",
+      "title": "Round Tower / An Cloigtheach",
+      "latitude": 53.777761,
+      "longitude": -6.418049,
+      "directions": "Near , near Monasterboice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24693",
+      "photo_urls": []
+    },
+    {
+      "id": "24694",
+      "title": "The North Church / An Teampall Thuaidh",
+      "latitude": 53.777786,
+      "longitude": -6.417925,
+      "directions": "Near , near Monasterboice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24694",
+      "photo_urls": []
+    },
+    {
+      "id": "24717",
+      "title": "The South Church / An Teampall Theas",
+      "latitude": 53.777615,
+      "longitude": -6.417764,
+      "directions": "Near , near Monasterboice, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24717",
+      "photo_urls": []
+    },
+    {
+      "id": "24721",
+      "title": "Millenium Fountain",
+      "latitude": 52.939018,
+      "longitude": -7.63622,
+      "directions": "On Main Street (National Route 7) , Borris In Ossory, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24721",
+      "photo_urls": []
+    },
+    {
+      "id": "24738",
+      "title": "Thatched Chapel Cross",
+      "latitude": 52.384869,
+      "longitude": -9.301842,
+      "directions": "On Main Street (National Route 21) , Abbeyfeale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24738",
+      "photo_urls": []
+    },
+    {
+      "id": "24739",
+      "title": "Reverend William Casey",
+      "latitude": 52.384752,
+      "longitude": -9.301853,
+      "directions": "On Main Street (National Route 21) , Abbeyfeale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24739",
+      "photo_urls": []
+    },
+    {
+      "id": "24752",
+      "title": "Bective Abbey / Mainistir Bheigtí",
+      "latitude": 53.582417,
+      "longitude": -6.702518,
+      "directions": "Near , near Bective, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24752",
+      "photo_urls": []
+    },
+    {
+      "id": "24754",
+      "title": "Oscar Wilde House",
+      "latitude": 53.341166,
+      "longitude": -6.250454,
+      "directions": "On Lower Merrion Street (National Route 11) , Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24754",
+      "photo_urls": []
+    },
+    {
+      "id": "24755",
+      "title": "Sir William Robert Wills Wilde",
+      "latitude": 53.341158,
+      "longitude": -6.250427,
+      "directions": "On Lower Merrion Street (National Route 11) , Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24755",
+      "photo_urls": []
+    },
+    {
+      "id": "24771",
+      "title": "Balscadden House",
+      "latitude": 53.386051,
+      "longitude": -6.057399,
+      "directions": "On Balscadden Road, Howth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24771",
+      "photo_urls": []
+    },
+    {
+      "id": "24780",
+      "title": "Dunbeg Promontory Fort / An Dún Beag",
+      "latitude": 52.103767,
+      "longitude": -10.409009,
+      "directions": "Near , Fahan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24780",
+      "photo_urls": []
+    },
+    {
+      "id": "24793",
+      "title": "Connell's House",
+      "latitude": 53.655337,
+      "longitude": -6.417282,
+      "directions": "On Church Street, Duleek, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24793",
+      "photo_urls": []
+    },
+    {
+      "id": "24801",
+      "title": "Parochial House",
+      "latitude": 53.655499,
+      "longitude": -6.416836,
+      "directions": "On Church Street, Duleek, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24801",
+      "photo_urls": []
+    },
+    {
+      "id": "24802",
+      "title": "The Lime Tree",
+      "latitude": 53.655219,
+      "longitude": -6.416649,
+      "directions": "On Main Street (Route 150) , Duleek, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24802",
+      "photo_urls": []
+    },
+    {
+      "id": "24803",
+      "title": "Duleek Courthouse",
+      "latitude": 53.655083,
+      "longitude": -6.416643,
+      "directions": "On Main Street (Route 150) , Duleek, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=24803",
+      "photo_urls": []
+    },
+    {
+      "id": "248772",
+      "title": "Turgesius Tower",
+      "latitude": 52.26206667,
+      "longitude": -7.11136664,
+      "directions": "On The Quay, Waterford, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248772",
+      "photo_urls": []
+    },
+    {
+      "id": "248832",
+      "title": "King Richard II of England",
+      "latitude": 52.26088611,
+      "longitude": -7.10634167,
+      "directions": "On Parade Quay, Waterford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248832",
+      "photo_urls": []
+    },
+    {
+      "id": "248834",
+      "title": "Waterford - Newfoundland",
+      "latitude": 52.26070831,
+      "longitude": -7.10555831,
+      "directions": "On Parade Quay, Waterford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248834",
+      "photo_urls": []
+    },
+    {
+      "id": "248836",
+      "title": "Anna Manahan",
+      "latitude": 52.25966434,
+      "longitude": -7.10545611,
+      "directions": "On Lombard Street, Waterford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248836",
+      "photo_urls": []
+    },
+    {
+      "id": "248841",
+      "title": "William Hobson",
+      "latitude": 52.25963792,
+      "longitude": -7.10526474,
+      "directions": "On Lombard Street, Waterford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248841",
+      "photo_urls": []
+    },
+    {
+      "id": "248846",
+      "title": "Thomas Francis Meagher / Tomás Proinsias Ó Meachair",
+      "latitude": 52.25909722,
+      "longitude": -7.10774444,
+      "directions": "On The Mall / Parnell Street, Waterford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248846",
+      "photo_urls": []
+    },
+    {
+      "id": "25301",
+      "title": "The Ready Boat Pillar",
+      "latitude": 53.388809,
+      "longitude": -6.072779,
+      "directions": "On Harbour Road (Route 105) , Howth, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25301",
+      "photo_urls": []
+    },
+    {
+      "id": "25303",
+      "title": "Theobald Wolfe Tone",
+      "latitude": 53.338386,
+      "longitude": -6.256181,
+      "directions": "On St. Stephen&#39;s Green (National Route 11) , Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25303",
+      "photo_urls": []
+    },
+    {
+      "id": "25304",
+      "title": "Robert Emmet",
+      "latitude": 53.338985,
+      "longitude": -6.260894,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25304",
+      "photo_urls": []
+    },
+    {
+      "id": "25306",
+      "title": "The \"Three Fates\"",
+      "latitude": 53.336814,
+      "longitude": -6.25776,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25306",
+      "photo_urls": []
+    },
+    {
+      "id": "25311",
+      "title": "Lord Ardilaun",
+      "latitude": 53.338628,
+      "longitude": -6.261421,
+      "directions": "On St. Stephen&#39;s Green, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25311",
+      "photo_urls": []
+    },
+    {
+      "id": "25316",
+      "title": "Jeremiah O'Donovan Rossa / Ó Donnabháin Rosa",
+      "latitude": 53.339498,
+      "longitude": -6.260232,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25316",
+      "photo_urls": []
+    },
+    {
+      "id": "25788",
+      "title": "The Southern Cross Monument",
+      "latitude": 53.432181,
+      "longitude": -6.124454,
+      "directions": "On Strand Road (Route 106) , Portmarnock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25788",
+      "photo_urls": []
+    },
+    {
+      "id": "258195",
+      "title": "Doras de Brun / The Browne Doorway",
+      "latitude": 53.27470833,
+      "longitude": -9.04968056,
+      "directions": "On Eyre Square (State Route 863) , Galway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258195",
+      "photo_urls": []
+    },
+    {
+      "id": "258197",
+      "title": "Seattle Stone",
+      "latitude": 53.27058996,
+      "longitude": -9.0543711,
+      "directions": "On Spanish Parade, Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258197",
+      "photo_urls": []
+    },
+    {
+      "id": "26384",
+      "title": "St Mary's Abbey",
+      "latitude": 53.655293,
+      "longitude": -6.418312,
+      "directions": "On Church Lane, Duleek, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26384",
+      "photo_urls": []
+    },
+    {
+      "id": "26402",
+      "title": "The Churchyard Wall",
+      "latitude": 53.727186,
+      "longitude": -6.879405,
+      "directions": "On Cannon Street (Route 163) , Kells, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26402",
+      "photo_urls": []
+    },
+    {
+      "id": "26423",
+      "title": "Catherine Dempsey",
+      "latitude": 53.727579,
+      "longitude": -6.880639,
+      "directions": "Near , Kells, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26423",
+      "photo_urls": []
+    },
+    {
+      "id": "26424",
+      "title": "Suffolk Street",
+      "latitude": 53.727106,
+      "longitude": -6.879378,
+      "directions": "On Cannon Street (Route 163) , Kells, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26424",
+      "photo_urls": []
+    },
+    {
+      "id": "26440",
+      "title": "Kells Round Tower",
+      "latitude": 53.727436,
+      "longitude": -6.881041,
+      "directions": "On Cannon Street (Local Route 163) , Kells, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26440",
+      "photo_urls": []
+    },
+    {
+      "id": "26444",
+      "title": "St Columba's Church",
+      "latitude": 53.727452,
+      "longitude": -6.878659,
+      "directions": "On Church Street, Kells, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26444",
+      "photo_urls": []
+    },
+    {
+      "id": "26806",
+      "title": "Lost At Sea",
+      "latitude": 53.388566,
+      "longitude": -6.069024,
+      "directions": "On , Howth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26806",
+      "photo_urls": []
+    },
+    {
+      "id": "26868",
+      "title": "National Memorial to members of the Defence Forces",
+      "latitude": 53.340021,
+      "longitude": -6.251304,
+      "directions": "On Merrion Square West (National Route 11) , Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26868",
+      "photo_urls": []
+    },
+    {
+      "id": "269434",
+      "title": "United Nations Irish Peacekeepers Memorial",
+      "latitude": 53.35110882,
+      "longitude": -6.28631781,
+      "directions": "On Mount Temple Road, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269434",
+      "photo_urls": []
+    },
+    {
+      "id": "269443",
+      "title": "Irish United Nations Veterans Association",
+      "latitude": 53.35114601,
+      "longitude": -6.28624932,
+      "directions": "On Mount Temple Road, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269443",
+      "photo_urls": []
+    },
+    {
+      "id": "269448",
+      "title": "Deceased United Nations Veterans Memorial Cross",
+      "latitude": 53.35109316,
+      "longitude": -6.28622313,
+      "directions": "On Mount Temple Road, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269448",
+      "photo_urls": []
+    },
+    {
+      "id": "269452",
+      "title": "The 25 Pounder Gun",
+      "latitude": 53.35102829,
+      "longitude": -6.28665819,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269452",
+      "photo_urls": []
+    },
+    {
+      "id": "269454",
+      "title": "Irish Defence Forces Headquarters Flag Pole Remnant",
+      "latitude": 53.35100526,
+      "longitude": -6.28658716,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269454",
+      "photo_urls": []
+    },
+    {
+      "id": "269502",
+      "title": "Cyprus - Sinai",
+      "latitude": 53.35103394,
+      "longitude": -6.28652537,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269502",
+      "photo_urls": []
+    },
+    {
+      "id": "269503",
+      "title": "Congo",
+      "latitude": 53.35103394,
+      "longitude": -6.28652537,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269503",
+      "photo_urls": []
+    },
+    {
+      "id": "269505",
+      "title": "Chad - Somalia",
+      "latitude": 53.35089827,
+      "longitude": -6.28630103,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269505",
+      "photo_urls": []
+    },
+    {
+      "id": "269506",
+      "title": "Somalia",
+      "latitude": 53.35092342,
+      "longitude": -6.28630165,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269506",
+      "photo_urls": []
+    },
+    {
+      "id": "269507",
+      "title": "Lebanon",
+      "latitude": 53.35093895,
+      "longitude": -6.28629686,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269507",
+      "photo_urls": []
+    },
+    {
+      "id": "269528",
+      "title": "\"Famine\"",
+      "latitude": 53.34804035,
+      "longitude": -6.25000671,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269528",
+      "photo_urls": []
+    },
+    {
+      "id": "269553",
+      "title": "Great Irish Famine Victims and Their Canadian Descendants",
+      "latitude": 53.34802537,
+      "longitude": -6.24996245,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269553",
+      "photo_urls": []
+    },
+    {
+      "id": "269554",
+      "title": "National Famine Way",
+      "latitude": 53.34801782,
+      "longitude": -6.24992822,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269554",
+      "photo_urls": []
+    },
+    {
+      "id": "269592",
+      "title": "Dublin Docklands Landmarks",
+      "latitude": 53.34798682,
+      "longitude": -6.25004747,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269592",
+      "photo_urls": []
+    },
+    {
+      "id": "269605",
+      "title": "Human Rights and Poverty Stone",
+      "latitude": 53.34799871,
+      "longitude": -6.2493467,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269605",
+      "photo_urls": []
+    },
+    {
+      "id": "269606",
+      "title": "Human Rights and Poverty Stone",
+      "latitude": 53.34794171,
+      "longitude": -6.24935119,
+      "directions": "On Custom House Quay (State Route 801) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269606",
+      "photo_urls": []
+    },
+    {
+      "id": "269610",
+      "title": "Pairc Elizabeth O'Farrell Park",
+      "latitude": 53.34668281,
+      "longitude": -6.24802026,
+      "directions": "On City Quay (State Route 813) , Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269610",
+      "photo_urls": []
+    },
+    {
+      "id": "269632",
+      "title": "Irish Seaman's National Memorial",
+      "latitude": 53.34674166,
+      "longitude": -6.24822794,
+      "directions": "On City Quay (State Route 813) , Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269632",
+      "photo_urls": []
+    },
+    {
+      "id": "269684",
+      "title": "S.S. Adela",
+      "latitude": 53.34660495,
+      "longitude": -6.24526504,
+      "directions": "On Sir John Rogerson’s Quay, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269684",
+      "photo_urls": []
+    },
+    {
+      "id": "269692",
+      "title": "Samuel Beckett Bridge Quotations",
+      "latitude": 53.34746756,
+      "longitude": -6.24140708,
+      "directions": "On Guild Street, Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269692",
+      "photo_urls": []
+    },
+    {
+      "id": "269703",
+      "title": "Scherzer Bridges/Droichid Scherzer",
+      "latitude": 53.34744158,
+      "longitude": -6.24079011,
+      "directions": "On Guild Street, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269703",
+      "photo_urls": []
+    },
+    {
+      "id": "269748",
+      "title": "O'Connell",
+      "latitude": 53.34774311,
+      "longitude": -6.25933611,
+      "directions": "On O&#39;Connell Street Lower, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269748",
+      "photo_urls": []
+    },
+    {
+      "id": "269749",
+      "title": "Anna Parnell",
+      "latitude": 53.35210718,
+      "longitude": -6.26164227,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269749",
+      "photo_urls": []
+    },
+    {
+      "id": "269750",
+      "title": "To Charles Stewart Parnell",
+      "latitude": 53.35258587,
+      "longitude": -6.26146953,
+      "directions": "On O&#39;Connell Street Upper, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269750",
+      "photo_urls": []
+    },
+    {
+      "id": "269762",
+      "title": "Devlin's Pub",
+      "latitude": 53.35179949,
+      "longitude": -6.26267184,
+      "directions": "On Parnell Street, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269762",
+      "photo_urls": []
+    },
+    {
+      "id": "269764",
+      "title": "Decision To Rise Against British Rule",
+      "latitude": 53.35396941,
+      "longitude": -6.26510291,
+      "directions": "On Parnell Square North, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269764",
+      "photo_urls": []
+    },
+    {
+      "id": "269780",
+      "title": "Miami Showband Murders",
+      "latitude": 53.35420642,
+      "longitude": -6.26430758,
+      "directions": "On Parnell Square North, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269780",
+      "photo_urls": []
+    },
+    {
+      "id": "269802",
+      "title": "Garden of Remembrance",
+      "latitude": 53.35366312,
+      "longitude": -6.26444325,
+      "directions": "On Parnell Square East, Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269802",
+      "photo_urls": []
+    },
+    {
+      "id": "269803",
+      "title": "Senator Oliver St. John Gogarty",
+      "latitude": 53.35367447,
+      "longitude": -6.26222025,
+      "directions": "On Parnell Square East, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269803",
+      "photo_urls": []
+    },
+    {
+      "id": "269805",
+      "title": "Founding of the Irish Volunteers",
+      "latitude": 53.35384829,
+      "longitude": -6.26296987,
+      "directions": "On Parnell Square East, Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269805",
+      "photo_urls": []
+    },
+    {
+      "id": "269806",
+      "title": "Harry Clarke",
+      "latitude": 53.35506375,
+      "longitude": -6.2638676,
+      "directions": "On Frederick Street North, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269806",
+      "photo_urls": []
+    },
+    {
+      "id": "269811",
+      "title": "Countess Markievicz and the Department of Labour",
+      "latitude": 53.35574974,
+      "longitude": -6.26467822,
+      "directions": "On Frederick Street North, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269811",
+      "photo_urls": []
+    },
+    {
+      "id": "269813",
+      "title": "Áras Chathail Mhig Léid House",
+      "latitude": 53.35636655,
+      "longitude": -6.26589274,
+      "directions": "On Blessington Street, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269813",
+      "photo_urls": []
+    },
+    {
+      "id": "269815",
+      "title": "Jerome O'Leary",
+      "latitude": 53.35632183,
+      "longitude": -6.26668533,
+      "directions": "On Blessington Street, Dublin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269815",
+      "photo_urls": []
+    },
+    {
+      "id": "269816",
+      "title": "Blessington Street Basin",
+      "latitude": 53.35721771,
+      "longitude": -6.26980407,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269816",
+      "photo_urls": []
+    },
+    {
+      "id": "269817",
+      "title": "Iris Murdoch",
+      "latitude": 53.35710469,
+      "longitude": -6.26984488,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269817",
+      "photo_urls": []
+    },
+    {
+      "id": "269818",
+      "title": "Frances Teresa Ball",
+      "latitude": 53.35801214,
+      "longitude": -6.26594458,
+      "directions": "On Eccles Street, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269818",
+      "photo_urls": []
+    },
+    {
+      "id": "269820",
+      "title": "Leo Whelan Rha",
+      "latitude": 53.35790475,
+      "longitude": -6.26561142,
+      "directions": "On Eccles Street, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269820",
+      "photo_urls": []
+    },
+    {
+      "id": "269821",
+      "title": "Ed Bowden",
+      "latitude": 53.35734377,
+      "longitude": -6.26973426,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269821",
+      "photo_urls": []
+    },
+    {
+      "id": "269822",
+      "title": "James Joyce",
+      "latitude": 53.35783978,
+      "longitude": -6.26452514,
+      "directions": "On Eccles Street, Dublin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269822",
+      "photo_urls": []
+    },
+    {
+      "id": "269853",
+      "title": "William Rowan Hamilton",
+      "latitude": 53.35248135,
+      "longitude": -6.26776077,
+      "directions": "On Bolton Square (formerly Dominick Street Lower), Dublin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269853",
+      "photo_urls": []
+    },
+    {
+      "id": "269854",
+      "title": "Thomas Bryan",
+      "latitude": 53.35239754,
+      "longitude": -6.27011774,
+      "directions": "On Henrietta Street, Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269854",
+      "photo_urls": []
+    },
+    {
+      "id": "269856",
+      "title": "John Ingram",
+      "latitude": 53.35140449,
+      "longitude": -6.26934109,
+      "directions": "On Bolton Street, Dublin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269856",
+      "photo_urls": []
+    },
+    {
+      "id": "269888",
+      "title": "Sean McLoughlin",
+      "latitude": 53.35096589,
+      "longitude": -6.27051192,
+      "directions": "On King Street North, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269888",
+      "photo_urls": []
+    },
+    {
+      "id": "269895",
+      "title": "Robert Mallet F.R.S.",
+      "latitude": 53.35027302,
+      "longitude": -6.26887623,
+      "directions": "On Ryder&#39;s Row, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269895",
+      "photo_urls": []
+    },
+    {
+      "id": "269900",
+      "title": "Penneys",
+      "latitude": 53.34989138,
+      "longitude": -6.26690846,
+      "directions": "On Jervis Street, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269900",
+      "photo_urls": []
+    },
+    {
+      "id": "269904",
+      "title": "Birthplace of Sir John Gilbert",
+      "latitude": 53.34915933,
+      "longitude": -6.26662565,
+      "directions": "On Jervis Street, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269904",
+      "photo_urls": []
+    },
+    {
+      "id": "269910",
+      "title": "Volta Cinema",
+      "latitude": 53.34900679,
+      "longitude": -6.26590558,
+      "directions": "On Mary Street, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269910",
+      "photo_urls": []
+    },
+    {
+      "id": "269914",
+      "title": "St. Mary's Church History",
+      "latitude": 53.34871286,
+      "longitude": -6.26676109,
+      "directions": "On Jervis Street, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269914",
+      "photo_urls": []
+    },
+    {
+      "id": "269937",
+      "title": "Droichead Seán Heuston Bridge",
+      "latitude": 53.34747421,
+      "longitude": -6.29183705,
+      "directions": "On the Seán Heuston Bridge, Dublin, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269937",
+      "photo_urls": []
+    },
+    {
+      "id": "269939",
+      "title": "Diarmuid Ó Duidir",
+      "latitude": 53.35499746,
+      "longitude": -6.26425318,
+      "directions": "On Frederick Street North, Dublin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269939",
+      "photo_urls": []
+    },
+    {
+      "id": "269955",
+      "title": "Desmond Egan",
+      "latitude": 53.42217426,
+      "longitude": -7.94766297,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269955",
+      "photo_urls": []
+    },
+    {
+      "id": "270063",
+      "title": "Blessington Street Basin/<lang=ga>Duga Shráid Bhaile Coimín</lang=ga>",
+      "latitude": 53.35711008,
+      "longitude": -6.269815,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270063",
+      "photo_urls": []
+    },
+    {
+      "id": "270072",
+      "title": "Connaught Street",
+      "latitude": 53.42214215,
+      "longitude": -7.94786914,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270072",
+      "photo_urls": []
+    },
+    {
+      "id": "270087",
+      "title": "Hannah Greally",
+      "latitude": 53.42179265,
+      "longitude": -7.94655104,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270087",
+      "photo_urls": []
+    },
+    {
+      "id": "270091",
+      "title": "Michael Kilkelly",
+      "latitude": 53.42179265,
+      "longitude": -7.94655104,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270091",
+      "photo_urls": []
+    },
+    {
+      "id": "270101",
+      "title": "History and Heritage of Connaught Street & Environs",
+      "latitude": 53.42183716,
+      "longitude": -7.94522453,
+      "directions": "On O&#39;Connell Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270101",
+      "photo_urls": []
+    },
+    {
+      "id": "270109",
+      "title": "1836 National Bank/c.1850 Bishop's Residence",
+      "latitude": 53.42186975,
+      "longitude": -7.94482324,
+      "directions": "On O&#39;Connell Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270109",
+      "photo_urls": []
+    },
+    {
+      "id": "270113",
+      "title": "Mark Begg... Innkeeper & Entrepreneur",
+      "latitude": 53.42240173,
+      "longitude": -7.94289313,
+      "directions": "On High Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270113",
+      "photo_urls": []
+    },
+    {
+      "id": "270119",
+      "title": "From The Mansion House to The Snug",
+      "latitude": 53.42240521,
+      "longitude": -7.94259165,
+      "directions": "On High Street, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270119",
+      "photo_urls": []
+    },
+    {
+      "id": "270125",
+      "title": "Sean's Bar",
+      "latitude": 53.42268038,
+      "longitude": -7.94231223,
+      "directions": "On Main Street, Athlone, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270125",
+      "photo_urls": []
+    },
+    {
+      "id": "270144",
+      "title": "<lang=ga>Áit Bhreithe</lang=ga> - T.P. O'Connor - Birthplace",
+      "latitude": 53.42282738,
+      "longitude": -7.94319995,
+      "directions": "On Castle Street, Athlone, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270144",
+      "photo_urls": []
+    },
+    {
+      "id": "270149",
+      "title": "Adamson Castle",
+      "latitude": 53.42326712,
+      "longitude": -7.94308797,
+      "directions": "On Castle Street, Athlone, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270149",
+      "photo_urls": []
+    },
+    {
+      "id": "270151",
+      "title": "<i>Athlone Castle/Church of SS Peter and Paul</i>",
+      "latitude": 53.42343239,
+      "longitude": -7.94315055,
+      "directions": "On Castle Street, Athlone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270151",
+      "photo_urls": []
+    },
+    {
+      "id": "270176",
+      "title": "Ireland's Hidden HEARTLANDS",
+      "latitude": 53.42340722,
+      "longitude": -7.94243512,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270176",
+      "photo_urls": []
+    },
+    {
+      "id": "270189",
+      "title": "John Count McCormack",
+      "latitude": 53.42406872,
+      "longitude": -7.94327889,
+      "directions": "On Elliott Road (State Route 446) , Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270189",
+      "photo_urls": []
+    },
+    {
+      "id": "270201",
+      "title": "Irish Republican Army Athlone Brigade Memorial",
+      "latitude": 53.42379868,
+      "longitude": -7.94021713,
+      "directions": "On Custume Place, Athlone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270201",
+      "photo_urls": []
+    },
+    {
+      "id": "270227",
+      "title": "Wilmot Coat Of Arms/<lang=ga>Armas Wilmot</lang=ga>",
+      "latitude": 53.42377639,
+      "longitude": -7.93919593,
+      "directions": "On Church Street, Athlone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270227",
+      "photo_urls": []
+    },
+    {
+      "id": "270232",
+      "title": "Sisters of La Sainte Union des Sacres Coeurs",
+      "latitude": 53.42550738,
+      "longitude": -7.93318816,
+      "directions": "On Grace Park Road, Athlone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270232",
+      "photo_urls": []
+    },
+    {
+      "id": "270250",
+      "title": "Colonel Richard Grace",
+      "latitude": 53.42367022,
+      "longitude": -7.93817614,
+      "directions": "On Church Street, Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270250",
+      "photo_urls": []
+    },
+    {
+      "id": "270251",
+      "title": "The Wife of Dean Goldsmith / <lang=ga>Bean chéile Dean Goldsmith</lang=ga>",
+      "latitude": 53.42367022,
+      "longitude": -7.93817614,
+      "directions": "On Dublin Gate Street (State Route 446) , Athlone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270251",
+      "photo_urls": []
+    },
+    {
+      "id": "270253",
+      "title": "The Franciscans in Athlone",
+      "latitude": 53.42308464,
+      "longitude": -7.93815365,
+      "directions": "On Friary Lane, Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270253",
+      "photo_urls": []
+    },
+    {
+      "id": "270263",
+      "title": "Methodist Church/<lang=ga>Séipéal Na Meitidisteach</lang=ga>",
+      "latitude": 53.42434286,
+      "longitude": -7.94053375,
+      "directions": "On Northgate Street, Athlone, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270263",
+      "photo_urls": []
+    },
+    {
+      "id": "270266",
+      "title": "<lang=ga>Áit Bhreithe</lang=ga> Hanna Greally Birthplace",
+      "latitude": 53.42315052,
+      "longitude": -7.94443391,
+      "directions": "On Pearse Street, Athlone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270266",
+      "photo_urls": []
+    },
+    {
+      "id": "270269",
+      "title": "Seanbhaile Patrick Keating Former Home",
+      "latitude": 53.42272314,
+      "longitude": -7.9450945,
+      "directions": "On Pearse Street, Athlone, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270269",
+      "photo_urls": []
+    },
+    {
+      "id": "270271",
+      "title": "The Courthouse/<lang=ga>Teach Na Cúirte</lang=ga>",
+      "latitude": 53.42226769,
+      "longitude": -7.94548723,
+      "directions": "On Pearse Street, Athlone, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270271",
+      "photo_urls": []
+    },
+    {
+      "id": "270273",
+      "title": "Athlone Bus Station",
+      "latitude": 53.42677461,
+      "longitude": -7.93532839,
+      "directions": "On South Station Road, Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270273",
+      "photo_urls": []
+    },
+    {
+      "id": "270290",
+      "title": "Remembering Denis J Hannon (Dinny Hannon)",
+      "latitude": 53.42240116,
+      "longitude": -7.94841215,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270290",
+      "photo_urls": []
+    },
+    {
+      "id": "270298",
+      "title": "The Shamrock Lodge Hotel",
+      "latitude": 53.42245512,
+      "longitude": -7.94865981,
+      "directions": "On Connaught Street, Athlone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270298",
+      "photo_urls": []
+    },
+    {
+      "id": "270330",
+      "title": "Custume Barracks / Athlone Woolen Mills/J.J. Walsh Memorial Cross",
+      "latitude": 53.4251478,
+      "longitude": -7.94454104,
+      "directions": "On Elliott Road (State Route 446) , Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270330",
+      "photo_urls": []
+    },
+    {
+      "id": "270341",
+      "title": "The Right Honourable T.P O'Connor M.P.",
+      "latitude": 53.42282738,
+      "longitude": -7.94319995,
+      "directions": "On Castle Street, Athlone, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270341",
+      "photo_urls": []
+    },
+    {
+      "id": "270348",
+      "title": "Athlone Railroad Bridge 150th Anniversary",
+      "latitude": 53.42686006,
+      "longitude": -7.9356927,
+      "directions": "On South Station Road, Athlone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270348",
+      "photo_urls": []
+    },
+    {
+      "id": "270376",
+      "title": "John Joseph Walsh Memorial Cross",
+      "latitude": 53.4251198,
+      "longitude": -7.94457997,
+      "directions": "On Elliott Road (State Route 446) , Athlone, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270376",
+      "photo_urls": []
+    },
+    {
+      "id": "270380",
+      "title": "Clonmacnoise",
+      "latitude": 53.42338018,
+      "longitude": -7.94250698,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270380",
+      "photo_urls": []
+    },
+    {
+      "id": "270383",
+      "title": "The Great Siege of Athlone 1691 / Remains of the Elizabethan Bridge / River Shannon and Navigation",
+      "latitude": 53.42339686,
+      "longitude": -7.94250998,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270383",
+      "photo_urls": []
+    },
+    {
+      "id": "270385",
+      "title": "Athlone Woollen Mills/Town Bridge",
+      "latitude": 53.42340893,
+      "longitude": -7.94253939,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270385",
+      "photo_urls": []
+    },
+    {
+      "id": "270386",
+      "title": "Custume Barracks/Church of Saints Peter and Paul/Railway Bridge/Luan Gallery",
+      "latitude": 53.42340717,
+      "longitude": -7.94256899,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270386",
+      "photo_urls": []
+    },
+    {
+      "id": "27039",
+      "title": "William Butler Yeats",
+      "latitude": 53.33835,
+      "longitude": -6.260358,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27039",
+      "photo_urls": []
+    },
+    {
+      "id": "270410",
+      "title": "Titanic Memorial",
+      "latitude": 53.42302147,
+      "longitude": -7.94340355,
+      "directions": "On Castle Street, Athlone, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270410",
+      "photo_urls": []
+    },
+    {
+      "id": "270431",
+      "title": "Historical Garden at Athlone Castle",
+      "latitude": 53.42336087,
+      "longitude": -7.94260068,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270431",
+      "photo_urls": []
+    },
+    {
+      "id": "270435",
+      "title": "Site of the President's House",
+      "latitude": 53.42315357,
+      "longitude": -7.94249031,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270435",
+      "photo_urls": []
+    },
+    {
+      "id": "270442",
+      "title": "24-Pounder Gun",
+      "latitude": 53.42322313,
+      "longitude": -7.94251859,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270442",
+      "photo_urls": []
+    },
+    {
+      "id": "270445",
+      "title": "Athlone Castle",
+      "latitude": 53.42324436,
+      "longitude": -7.94269422,
+      "directions": "Near , Athlone, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270445",
+      "photo_urls": []
+    },
+    {
+      "id": "270452",
+      "title": "Tourist Information",
+      "latitude": 53.42351312,
+      "longitude": -7.94322655,
+      "directions": "On Barrack Street, Athlone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270452",
+      "photo_urls": []
+    },
+    {
+      "id": "270463",
+      "title": "<lang=ga>Séipéal</lang=ga> Corpus Christi Church / Former Burial Ground/Sean Reilig",
+      "latitude": 53.42277211,
+      "longitude": -7.94717372,
+      "directions": "On Connaught Gardens, Athlone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270463",
+      "photo_urls": []
+    },
+    {
+      "id": "27047",
+      "title": "James Joyce",
+      "latitude": 53.337241,
+      "longitude": -6.259943,
+      "directions": "Near , Dublin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27047",
+      "photo_urls": []
+    },
+    {
+      "id": "270484",
+      "title": "Connaught Street And Environs",
+      "latitude": 53.42217768,
+      "longitude": -7.94798274,
+      "directions": "On Connaught Street, Athlone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270484",
+      "photo_urls": []
+    },
+    {
+      "id": "270486",
+      "title": "John Broderick",
+      "latitude": 53.42220986,
+      "longitude": -7.94813797,
+      "directions": "On Connaught Street, Athlone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270486",
+      "photo_urls": []
+    },
+    {
+      "id": "270490",
+      "title": "Charles Stewart Parnell",
+      "latitude": 53.35334254,
+      "longitude": -6.26007474,
+      "directions": "On Parnell Street (State Route 803) , Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270490",
+      "photo_urls": []
+    },
+    {
+      "id": "27050",
+      "title": "The Lord Killanin",
+      "latitude": 53.388102,
+      "longitude": -6.065311,
+      "directions": "On Harbour Road (Route 105) , Howth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27050",
+      "photo_urls": []
+    },
+    {
+      "id": "270501",
+      "title": "C Company, 1st Battalion, Dublin Brigade, Irish Republican Army Memorial",
+      "latitude": 53.3605759,
+      "longitude": -6.27122268,
+      "directions": "On North Circular Road (State Route 101) , Dublin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270501",
+      "photo_urls": []
+    },
+    {
+      "id": "270502",
+      "title": "James Joyce",
+      "latitude": 53.34991236,
+      "longitude": -6.25978293,
+      "directions": "On North Earl Street, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270502",
+      "photo_urls": []
+    },
+    {
+      "id": "270503",
+      "title": "Mater Misericordiæ Hospital",
+      "latitude": 53.35916988,
+      "longitude": -6.26903307,
+      "directions": "On Eccles Street, Dublin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270503",
+      "photo_urls": []
+    },
+    {
+      "id": "270505",
+      "title": "The Four Masters Memorial Cross",
+      "latitude": 53.35901013,
+      "longitude": -6.26956227,
+      "directions": "On Berkeley Road, Dublin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270505",
+      "photo_urls": []
+    },
+    {
+      "id": "270548",
+      "title": "John Fitzgerald Kennedy",
+      "latitude": 53.27455905,
+      "longitude": -9.04874869,
+      "directions": "On Eyre Square, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270548",
+      "photo_urls": []
+    },
+    {
+      "id": "270554",
+      "title": "<lang=ga>Liam Ó Maoilíosa</lang=ga>",
+      "latitude": 53.27520145,
+      "longitude": -9.04934923,
+      "directions": "On Eyre Square (State Route 866) , Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270554",
+      "photo_urls": []
+    },
+    {
+      "id": "27057",
+      "title": "Howth The Village / Binn Éadair ______",
+      "latitude": 53.388828,
+      "longitude": -6.072076,
+      "directions": "On Harbour Road (Route 105) , Howth, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27057",
+      "photo_urls": []
+    },
+    {
+      "id": "270582",
+      "title": "<lang=ga>Liam Ó Maoilíosa</lang=ga>/Liam Mellows",
+      "latitude": 53.27516454,
+      "longitude": -9.04935555,
+      "directions": "On Eyre Square (State Route 866) , Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270582",
+      "photo_urls": []
+    },
+    {
+      "id": "270595",
+      "title": "County Club of Galway/<lang=ga>Chlub Condae na Gaillimhe</lang=ga>",
+      "latitude": 53.27527228,
+      "longitude": -9.04961267,
+      "directions": "On Eyre Square (State Route 866) , Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270595",
+      "photo_urls": []
+    },
+    {
+      "id": "270625",
+      "title": "<lang=ga>Doras an Bhrúnaigh</lang=ga>/The Browne Doorway",
+      "latitude": 53.27472688,
+      "longitude": -9.04970055,
+      "directions": "On Eyre Square (Route 866) , Galway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270625",
+      "photo_urls": []
+    },
+    {
+      "id": "270647",
+      "title": "In Memory of the Magdalen Women",
+      "latitude": 53.27540803,
+      "longitude": -9.04614388,
+      "directions": "On Forster Street (State Route 339) , Galway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270647",
+      "photo_urls": []
+    },
+    {
+      "id": "270655",
+      "title": "Seán Duggan",
+      "latitude": 53.27522359,
+      "longitude": -9.04548004,
+      "directions": "On Forster Street (State Route 339) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270655",
+      "photo_urls": []
+    },
+    {
+      "id": "270656",
+      "title": "Charles French Blake-Forster",
+      "latitude": 53.27545412,
+      "longitude": -9.04348408,
+      "directions": "On Forster Street (State Route 339) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270656",
+      "photo_urls": []
+    },
+    {
+      "id": "270659",
+      "title": "Patricia Burke Brogan & Ena McEntee",
+      "latitude": 53.27559263,
+      "longitude": -9.0434126,
+      "directions": "On College Road, Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270659",
+      "photo_urls": []
+    },
+    {
+      "id": "270697",
+      "title": "Lynch's Castle/Caisleán an Linsigh",
+      "latitude": 53.27322211,
+      "longitude": -9.052271,
+      "directions": "On Abbeygate Street Upper, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270697",
+      "photo_urls": []
+    },
+    {
+      "id": "270699",
+      "title": "Teach an Línsigh",
+      "latitude": 53.27315472,
+      "longitude": -9.05225531,
+      "directions": "On Shop Street, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270699",
+      "photo_urls": []
+    },
+    {
+      "id": "270702",
+      "title": "Oscar Wilde • Eduard Wilde",
+      "latitude": 53.27371988,
+      "longitude": -9.05146455,
+      "directions": "On William Street, Galway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270702",
+      "photo_urls": []
+    },
+    {
+      "id": "270705",
+      "title": "Pádraic Ó Conaire (1882-1928)",
+      "latitude": 53.27437073,
+      "longitude": -9.04926281,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270705",
+      "photo_urls": []
+    },
+    {
+      "id": "270709",
+      "title": "Medieval Town Hall/<lang=ga>Balla Meánaoiseach na Cahtrach</lang=ga>",
+      "latitude": 53.27367825,
+      "longitude": -9.04937765,
+      "directions": "On Eyre Square/An Faiche Mohr, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270709",
+      "photo_urls": []
+    },
+    {
+      "id": "270711",
+      "title": "History of Eyre Square",
+      "latitude": 53.27367825,
+      "longitude": -9.04937765,
+      "directions": "On Eyre Square/An Faiche Mohr, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270711",
+      "photo_urls": []
+    },
+    {
+      "id": "270717",
+      "title": "Máirtín O'Direáin",
+      "latitude": 53.27425822,
+      "longitude": -9.0518889,
+      "directions": "On Eglinton Street (State Route 866) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270717",
+      "photo_urls": []
+    },
+    {
+      "id": "270722",
+      "title": "Religious Sisters of Mercy/<lang=ga>Siúracha na Trócaire</lang=ga>",
+      "latitude": 53.27563896,
+      "longitude": -9.05411655,
+      "directions": "On St. Francis Street (State Route 863) , Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270722",
+      "photo_urls": []
+    },
+    {
+      "id": "270725",
+      "title": "Courthouse/<lang=ga>Teach na Cúirte</lang=ga>",
+      "latitude": 53.27605141,
+      "longitude": -9.05472225,
+      "directions": "On Courthouse Square, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270725",
+      "photo_urls": []
+    },
+    {
+      "id": "270726",
+      "title": "Maurice Semple",
+      "latitude": 53.27623189,
+      "longitude": -9.05460051,
+      "directions": "On Waterside, Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270726",
+      "photo_urls": []
+    },
+    {
+      "id": "270728",
+      "title": "Hail and Farewell",
+      "latitude": 53.27593508,
+      "longitude": -9.05544116,
+      "directions": "On Waterside, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270728",
+      "photo_urls": []
+    },
+    {
+      "id": "270731",
+      "title": "Father Peter Daly",
+      "latitude": 53.27551059,
+      "longitude": -9.05514965,
+      "directions": "On Newtownsmith, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270731",
+      "photo_urls": []
+    },
+    {
+      "id": "270734",
+      "title": "Peace and Democracy Arch",
+      "latitude": 53.27493719,
+      "longitude": -9.05509729,
+      "directions": "On Newtownsmith, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270734",
+      "photo_urls": []
+    },
+    {
+      "id": "270736",
+      "title": "Salmon Weir Bridge/<lang=ga>Droichead na mBradán</lang=ga>",
+      "latitude": 53.27487933,
+      "longitude": -9.05543366,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270736",
+      "photo_urls": []
+    },
+    {
+      "id": "270745",
+      "title": "<i>\"Death at Crane's Court\"</i>",
+      "latitude": 53.27490494,
+      "longitude": -9.05507428,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270745",
+      "photo_urls": []
+    },
+    {
+      "id": "270747",
+      "title": "Alice Perry",
+      "latitude": 53.27446234,
+      "longitude": -9.05465739,
+      "directions": "On Newtownsmith, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270747",
+      "photo_urls": []
+    },
+    {
+      "id": "270748",
+      "title": "Patrician Brothers Monastery School",
+      "latitude": 53.27316769,
+      "longitude": -9.05394605,
+      "directions": "On Market Street, Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270748",
+      "photo_urls": []
+    },
+    {
+      "id": "270751",
+      "title": "Lynch Memorial Window",
+      "latitude": 53.27303525,
+      "longitude": -9.05383614,
+      "directions": "On Market Street, Galway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270751",
+      "photo_urls": []
+    },
+    {
+      "id": "270752",
+      "title": "Saint Nicholas Church/<lang=ga>Séipéal San Nioclás</lang=ga>",
+      "latitude": 53.27252691,
+      "longitude": -9.0534465,
+      "directions": "On Churchyard Street, Galway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270752",
+      "photo_urls": []
+    },
+    {
+      "id": "270761",
+      "title": "1981 Hunger Strike Memorial",
+      "latitude": 53.27252949,
+      "longitude": -9.05332056,
+      "directions": "On Churchyard Street, Galway, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270761",
+      "photo_urls": []
+    },
+    {
+      "id": "270762",
+      "title": "<lang=ga>Stáisiún</lang=ga> Éamonn Ceannt Station",
+      "latitude": 53.27375318,
+      "longitude": -9.04708889,
+      "directions": "On Station Road, Galway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270762",
+      "photo_urls": []
+    },
+    {
+      "id": "270768",
+      "title": "Galway Democratic Republic",
+      "latitude": 53.26986244,
+      "longitude": -9.05406346,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270768",
+      "photo_urls": []
+    },
+    {
+      "id": "270774",
+      "title": "Galway Waterway Trails / Rianta Uiscebhealaí na Gaillimhe",
+      "latitude": 53.2702692,
+      "longitude": -9.05446042,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270774",
+      "photo_urls": []
+    },
+    {
+      "id": "270779",
+      "title": "Blake's Castle/<lang=ga>Caisleán an Bhlácaigh</lang=ga>",
+      "latitude": 53.27076121,
+      "longitude": -9.05453075,
+      "directions": "On Quay Street, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270779",
+      "photo_urls": []
+    },
+    {
+      "id": "270783",
+      "title": "Martin Theatre/Amharclann na Mháirtíneach",
+      "latitude": 53.27133849,
+      "longitude": -9.05470147,
+      "directions": "On Kirwan&#39;s Lane, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270783",
+      "photo_urls": []
+    },
+    {
+      "id": "270789",
+      "title": "Hall of the Red Earl/Halla an Íarla Ruadh",
+      "latitude": 53.27104795,
+      "longitude": -9.0536484,
+      "directions": "On Druid Lane, Galway, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270789",
+      "photo_urls": []
+    },
+    {
+      "id": "270791",
+      "title": "The de Burgo Hall and Castle/<lang=ga>Halla agus Castlean de Burgo</lang=ga>",
+      "latitude": 53.27092393,
+      "longitude": -9.05346408,
+      "directions": "On Druid Lane, Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270791",
+      "photo_urls": []
+    },
+    {
+      "id": "270795",
+      "title": "Mayoralty House/<lang=ga>Teach na Méarachta</lang=ga>",
+      "latitude": 53.2711376,
+      "longitude": -9.05261434,
+      "directions": "On Flood Street, Galway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270795",
+      "photo_urls": []
+    },
+    {
+      "id": "270798",
+      "title": "Walter and John Joyce's Warehouse",
+      "latitude": 53.27190875,
+      "longitude": -9.05158744,
+      "directions": "On St. Augustine Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270798",
+      "photo_urls": []
+    },
+    {
+      "id": "270808",
+      "title": "The Kings Head",
+      "latitude": 53.27210568,
+      "longitude": -9.05325614,
+      "directions": "On High Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270808",
+      "photo_urls": []
+    },
+    {
+      "id": "270810",
+      "title": "The Kings Head",
+      "latitude": 53.27210568,
+      "longitude": -9.05325614,
+      "directions": "On High Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270810",
+      "photo_urls": []
+    },
+    {
+      "id": "270811",
+      "title": "The Galway Shawl",
+      "latitude": 53.27191908,
+      "longitude": -9.05355813,
+      "directions": "On High Street, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270811",
+      "photo_urls": []
+    },
+    {
+      "id": "270812",
+      "title": "Town House of Richard Martin/<lang=ga>Teach an Mháirtíneach</lang=ga>",
+      "latitude": 53.27145142,
+      "longitude": -9.05400196,
+      "directions": "On Cross Street Upper, Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270812",
+      "photo_urls": []
+    },
+    {
+      "id": "270820",
+      "title": "Walter Joyce of Merview",
+      "latitude": 53.27203635,
+      "longitude": -9.05139562,
+      "directions": "On St. Augustine Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270820",
+      "photo_urls": []
+    },
+    {
+      "id": "270822",
+      "title": "John Joyce",
+      "latitude": 53.27207974,
+      "longitude": -9.05129497,
+      "directions": "On St. Augustine Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270822",
+      "photo_urls": []
+    },
+    {
+      "id": "270824",
+      "title": "The Arms of Galway from one of the Town Fortifications",
+      "latitude": 53.27466041,
+      "longitude": -9.05082381,
+      "directions": "On Eyre Square (State Route 866) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270824",
+      "photo_urls": []
+    },
+    {
+      "id": "270869",
+      "title": "In Memory of Mariners Lost at Sea / Captain William J. Woolley",
+      "latitude": 53.27033327,
+      "longitude": -9.05489924,
+      "directions": "On Father Griffin Road (State Route 336) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270869",
+      "photo_urls": []
+    },
+    {
+      "id": "270885",
+      "title": "Cristoforo Colombo",
+      "latitude": 53.27028015,
+      "longitude": -9.05494018,
+      "directions": "On Father Griffin Road (State Route 336) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270885",
+      "photo_urls": []
+    },
+    {
+      "id": "270886",
+      "title": "Spanish Arch/An Póirse Caoch",
+      "latitude": 53.27023476,
+      "longitude": -9.05424788,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270886",
+      "photo_urls": []
+    },
+    {
+      "id": "270890",
+      "title": "The Spanish Arch/<lang=ga>An Póirse Caoch</lang=ga>",
+      "latitude": 53.26983008,
+      "longitude": -9.05402773,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270890",
+      "photo_urls": []
+    },
+    {
+      "id": "270904",
+      "title": "Pádraic Ó Conaire",
+      "latitude": 53.27004862,
+      "longitude": -9.05196219,
+      "directions": "On Dock Road (State Route 336) , Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270904",
+      "photo_urls": []
+    },
+    {
+      "id": "270926",
+      "title": "Galway County Library/<lang=ga>Leabharlann Chontae na Gaillimhe<lang=ga>",
+      "latitude": 53.27169601,
+      "longitude": -9.05177609,
+      "directions": "On St. Augustine Street, Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270926",
+      "photo_urls": []
+    },
+    {
+      "id": "270961",
+      "title": "Thompson • Kinkaid • Roberts Memorial",
+      "latitude": 53.27257056,
+      "longitude": -9.05343021,
+      "directions": "On Churchyard Street, Galway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270961",
+      "photo_urls": []
+    },
+    {
+      "id": "270967",
+      "title": "Thomas Dillon",
+      "latitude": 53.27137556,
+      "longitude": -9.05376447,
+      "directions": "On Quay Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270967",
+      "photo_urls": []
+    },
+    {
+      "id": "270969",
+      "title": "Spanish Armada Sailors Memorial",
+      "latitude": 53.27122009,
+      "longitude": -9.04623315,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270969",
+      "photo_urls": []
+    },
+    {
+      "id": "270973",
+      "title": "Sailors and Soldiers of the Grand Armada",
+      "latitude": 53.27174081,
+      "longitude": -9.04698033,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270973",
+      "photo_urls": []
+    },
+    {
+      "id": "270976",
+      "title": "James Stephens, Esq.",
+      "latitude": 53.27154508,
+      "longitude": -9.04636091,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270976",
+      "photo_urls": []
+    },
+    {
+      "id": "270983",
+      "title": "The Eglinton Canal/<lang=ga>Canáil Eglinton</lang=ga>",
+      "latitude": 53.26983352,
+      "longitude": -9.05668499,
+      "directions": "On Raven Terrace, Galway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270983",
+      "photo_urls": []
+    },
+    {
+      "id": "271008",
+      "title": "Tourist Information",
+      "latitude": 53.2750728,
+      "longitude": -9.04621997,
+      "directions": "On Forster Street (State Route 336) , Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271008",
+      "photo_urls": []
+    },
+    {
+      "id": "271016",
+      "title": "Persse's Distillery/Drioglann Persse",
+      "latitude": 53.27337364,
+      "longitude": -9.05701601,
+      "directions": "On Nun&#39;s Island (road), Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271016",
+      "photo_urls": []
+    },
+    {
+      "id": "271018",
+      "title": "Lavender • <lang=ga>Labhandar</lang=ga> • <lang=la>Lavandula</lang=la>",
+      "latitude": 53.26980609,
+      "longitude": -9.05377686,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271018",
+      "photo_urls": []
+    },
+    {
+      "id": "271022",
+      "title": "Crab Apple • <lang=ga>Crann Fia-úll</lang=ga> • <lang=la>Malus</lang=la>",
+      "latitude": 53.26980609,
+      "longitude": -9.05377686,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271022",
+      "photo_urls": []
+    },
+    {
+      "id": "271023",
+      "title": "Spanish Broom • <lang=ga>Beallaí Spáinneach</lang=ga> • <lang=la> Genista Hispanica</lang=la>",
+      "latitude": 53.26978534,
+      "longitude": -9.05380895,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271023",
+      "photo_urls": []
+    },
+    {
+      "id": "271025",
+      "title": "Oak • <lang=ga>Dair</lang=ga> • <lang=la>Quercus Rober</lang=la>",
+      "latitude": 53.26978534,
+      "longitude": -9.05380895,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271025",
+      "photo_urls": []
+    },
+    {
+      "id": "271044",
+      "title": "Rosemary • <lang=ga>Marós</lang=ga> • <lang=la>Rosmarinus Officinalis</lang=la>",
+      "latitude": 53.26977054,
+      "longitude": -9.05382251,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271044",
+      "photo_urls": []
+    },
+    {
+      "id": "271046",
+      "title": "Mountain Ash • <lang=ga>Caorthann</lang=ga> • <lang=la>Sorbus Acuparia</lang=la>",
+      "latitude": 53.26977054,
+      "longitude": -9.05382251,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271046",
+      "photo_urls": []
+    },
+    {
+      "id": "271048",
+      "title": "St. John's Wort • <lang=ga>Beathnua</lang=ga> • <lang=la>Hypericum</lang=la>",
+      "latitude": 53.26975627,
+      "longitude": -9.05384394,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271048",
+      "photo_urls": []
+    },
+    {
+      "id": "271058",
+      "title": "Hawthorn • <lang=ga>Scheach Gheal</lang=ga> • <lang=la>Crataegus Monogyna</lang=la>",
+      "latitude": 53.26975627,
+      "longitude": -9.05384394,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271058",
+      "photo_urls": []
+    },
+    {
+      "id": "271068",
+      "title": "Heather • <lang=ga>Fraoch Mór</lang=ga> • <lang=la>Calluna Vulgaris</lang=la>",
+      "latitude": 53.26969575,
+      "longitude": -9.05375449,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271068",
+      "photo_urls": []
+    },
+    {
+      "id": "271070",
+      "title": "Silver Birch • <lang=ga>Beith Gheal</lang=ga> • <lang=la>Betula Pendula</lang=la>",
+      "latitude": 53.26969575,
+      "longitude": -9.05375449,
+      "directions": "Near , Galway, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271070",
+      "photo_urls": []
+    },
+    {
+      "id": "271073",
+      "title": "Long Walk",
+      "latitude": 53.2694771,
+      "longitude": -9.05359321,
+      "directions": "On Merchants Road Lower, Galway, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271073",
+      "photo_urls": []
+    },
+    {
+      "id": "271087",
+      "title": "The \"Kasbah\" on Quay Street",
+      "latitude": 53.2713898,
+      "longitude": -9.05399551,
+      "directions": "On Quay Street, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271087",
+      "photo_urls": []
+    },
+    {
+      "id": "271088",
+      "title": "The Battle of Aughrim",
+      "latitude": 53.26957608,
+      "longitude": -9.05354041,
+      "directions": "On Merchants Road Lower, Galway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271088",
+      "photo_urls": []
+    },
+    {
+      "id": "271092",
+      "title": "Father Thomas Burke",
+      "latitude": 53.27028432,
+      "longitude": -9.05741891,
+      "directions": "On Dominick Street Lower, Galway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271092",
+      "photo_urls": []
+    },
+    {
+      "id": "271093",
+      "title": "<lang=ga>An t-Athair Tomás de Búrca</lang=ga> O.P.",
+      "latitude": 53.26942886,
+      "longitude": -9.05673572,
+      "directions": "On Father Griffin Road (State Route 336) , Galway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271093",
+      "photo_urls": []
+    },
+    {
+      "id": "271095",
+      "title": "Madiera Court",
+      "latitude": 53.2723241,
+      "longitude": -9.05857096,
+      "directions": "On Mill Street, Galway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271095",
+      "photo_urls": []
+    },
+    {
+      "id": "271096",
+      "title": "Mechanics Institute/Institiúid na gCearndaithe",
+      "latitude": 53.27263996,
+      "longitude": -9.0518557,
+      "directions": "On Middle Street, Galway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271096",
+      "photo_urls": []
+    },
+    {
+      "id": "271099",
+      "title": "The Quays Bar",
+      "latitude": 53.27115313,
+      "longitude": -9.05395934,
+      "directions": "On Quay Street, Galway, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271099",
+      "photo_urls": []
+    },
+    {
+      "id": "271100",
+      "title": "Market Cross",
+      "latitude": 53.54083824,
+      "longitude": -9.28601599,
+      "directions": "On Main Street (State Route 345) , Cong, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271100",
+      "photo_urls": []
+    },
+    {
+      "id": "271102",
+      "title": "\"Pat Cohan Bar\"",
+      "latitude": 53.54080319,
+      "longitude": -9.28626956,
+      "directions": "On Abbey Street (State Route 345) , Cong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271102",
+      "photo_urls": []
+    },
+    {
+      "id": "271104",
+      "title": "The Quiet Man",
+      "latitude": 53.54058827,
+      "longitude": -9.28670951,
+      "directions": "On Abbey Street (State Route 345) , Cong, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271104",
+      "photo_urls": []
+    },
+    {
+      "id": "271106",
+      "title": "Cong Hands of Fame Award",
+      "latitude": 53.54051835,
+      "longitude": -9.28667656,
+      "directions": "On Cong Street, Cong, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271106",
+      "photo_urls": []
+    },
+    {
+      "id": "271107",
+      "title": "4000 Years of Cong",
+      "latitude": 53.54041995,
+      "longitude": -9.28653212,
+      "directions": "On Cong Street, Cong, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271107",
+      "photo_urls": []
+    },
+    {
+      "id": "271110",
+      "title": "The Dying Man in The Quiet Man Film 1951",
+      "latitude": 53.54139479,
+      "longitude": -9.28786935,
+      "directions": "On Riverview, Cong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271110",
+      "photo_urls": []
+    },
+    {
+      "id": "271112",
+      "title": "On-The-Wing",
+      "latitude": 53.54067325,
+      "longitude": -9.2882224,
+      "directions": "On Circular Road (State Route 345) , Cong, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271112",
+      "photo_urls": []
+    },
+    {
+      "id": "271114",
+      "title": "Cong Abbey/<lang=ga>Mainistir Chonga</lang=ga>",
+      "latitude": 53.54035798,
+      "longitude": -9.28699553,
+      "directions": "On Cong Street, Cong, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271114",
+      "photo_urls": []
+    },
+    {
+      "id": "271118",
+      "title": "<lang=fr>Un Taxi Mauve</lang=fr> - Purple Taxi",
+      "latitude": 53.54072797,
+      "longitude": -9.28681292,
+      "directions": "On Abbey Street (State Route 345) , Cong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271118",
+      "photo_urls": []
+    },
+    {
+      "id": "271119",
+      "title": "Proclamation of the Irish Republic",
+      "latitude": 53.54071849,
+      "longitude": -9.28688301,
+      "directions": "On Abbey Street (State Route 345) , Cong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271119",
+      "photo_urls": []
+    },
+    {
+      "id": "271121",
+      "title": "The Guinness Tower / The Cong Dry Canal",
+      "latitude": 53.54054385,
+      "longitude": -9.2869805,
+      "directions": "On Cong Street, Cong, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271121",
+      "photo_urls": []
+    },
+    {
+      "id": "271170",
+      "title": "Cong Places to Visit",
+      "latitude": 53.54073676,
+      "longitude": -9.28683864,
+      "directions": "On Abbey Street (State Route 345) , Cong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271170",
+      "photo_urls": []
+    },
+    {
+      "id": "271350",
+      "title": "Lake Walk",
+      "latitude": 53.56035191,
+      "longitude": -9.89090472,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271350",
+      "photo_urls": []
+    },
+    {
+      "id": "271360",
+      "title": "Meet The Yew",
+      "latitude": 53.56148156,
+      "longitude": -9.89119459,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271360",
+      "photo_urls": []
+    },
+    {
+      "id": "271364",
+      "title": "Lake Walk",
+      "latitude": 53.5612887,
+      "longitude": -9.88992137,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271364",
+      "photo_urls": []
+    },
+    {
+      "id": "271375",
+      "title": "Lake Walk",
+      "latitude": 53.56180909,
+      "longitude": -9.88699913,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271375",
+      "photo_urls": []
+    },
+    {
+      "id": "271380",
+      "title": "Kylemore Castle Ash Pit",
+      "latitude": 53.56168708,
+      "longitude": -9.88980459,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271380",
+      "photo_urls": []
+    },
+    {
+      "id": "271405",
+      "title": "From Generation to Generation",
+      "latitude": 53.56172928,
+      "longitude": -9.8896997,
+      "directions": "Near , Kylemore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271405",
+      "photo_urls": []
+    },
+    {
+      "id": "27183",
+      "title": "St Mary's Church / Eaglais Mhuire",
+      "latitude": 53.387459,
+      "longitude": -6.066041,
+      "directions": "Near , Howth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27183",
+      "photo_urls": []
+    },
+    {
+      "id": "27205",
+      "title": "Howth Abbey, St. Marys / \"Mainistir\" Bhinn Éadair",
+      "latitude": 53.387475,
+      "longitude": -6.066121,
+      "directions": "Near , Howth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27205",
+      "photo_urls": []
+    },
+    {
+      "id": "27219",
+      "title": "Knowth / Cnogbha",
+      "latitude": 53.701743,
+      "longitude": -6.490839,
+      "directions": "On , near Newgrange, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27219",
+      "photo_urls": []
+    },
+    {
+      "id": "27220",
+      "title": "Duleek 1916 - 1981 Hunger Strike Monument",
+      "latitude": 53.661396,
+      "longitude": -6.417056,
+      "directions": "On Kingsgate, Duleek, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27220",
+      "photo_urls": []
+    },
+    {
+      "id": "27240",
+      "title": "Newtowntrim Cathedral / Ardeaglais an Bhaile Nua",
+      "latitude": 53.555504,
+      "longitude": -6.772127,
+      "directions": "Near , near Trim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27240",
+      "photo_urls": []
+    },
+    {
+      "id": "27318",
+      "title": "Girley / Fordstown",
+      "latitude": 53.670146,
+      "longitude": -6.902187,
+      "directions": "On Kells Road (Local Route 164) , Fordstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27318",
+      "photo_urls": []
+    },
+    {
+      "id": "27324",
+      "title": "Spire of Loyd",
+      "latitude": 53.733126,
+      "longitude": -6.904907,
+      "directions": "Near , near Loyd, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27324",
+      "photo_urls": []
+    },
+    {
+      "id": "27326",
+      "title": "Kells Union Workhouse Paupers' Graveyard",
+      "latitude": 53.733533,
+      "longitude": -6.905079,
+      "directions": "Near , near Loyd, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27326",
+      "photo_urls": []
+    },
+    {
+      "id": "27339",
+      "title": "Headfort Place",
+      "latitude": 53.726833,
+      "longitude": -6.872233,
+      "directions": "On Headfort Place (Local Route 163) , Kells, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27339",
+      "photo_urls": []
+    },
+    {
+      "id": "27340",
+      "title": "Kells Courthouse",
+      "latitude": 53.726668,
+      "longitude": -6.87176,
+      "directions": "On Headfort Place (Local Route 163) , Kells, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27340",
+      "photo_urls": []
+    },
+    {
+      "id": "27341",
+      "title": "Market Cross",
+      "latitude": 53.726668,
+      "longitude": -6.87176,
+      "directions": "On Headfort Place (Local Route 163) , Kells, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27341",
+      "photo_urls": []
+    },
+    {
+      "id": "27347",
+      "title": "Jim Connell",
+      "latitude": 53.713327,
+      "longitude": -7.020344,
+      "directions": "On Local Route 154, Crossakiel, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27347",
+      "photo_urls": []
+    },
+    {
+      "id": "27355",
+      "title": "County Longford Great War Memorial",
+      "latitude": 53.725841,
+      "longitude": -7.798997,
+      "directions": "On Ballymahon Street (National Route 63) , Longford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27355",
+      "photo_urls": []
+    },
+    {
+      "id": "27424",
+      "title": "Lanesborough / Béal Átha Liag History 500 - 1900 AD",
+      "latitude": 53.672908,
+      "longitude": -7.992055,
+      "directions": "Near , Lanesborough, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27424",
+      "photo_urls": []
+    },
+    {
+      "id": "27498",
+      "title": "fáilte go Lanesborough",
+      "latitude": 53.6728,
+      "longitude": -7.989507,
+      "directions": "On Main Street (National Route 63) , Lanesborough, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27498",
+      "photo_urls": []
+    },
+    {
+      "id": "27538",
+      "title": "Mahon Dower House",
+      "latitude": 53.777228,
+      "longitude": -8.101602,
+      "directions": "On Bawn Street, Strokestown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27538",
+      "photo_urls": []
+    },
+    {
+      "id": "27548",
+      "title": "Strokestown Brewery",
+      "latitude": 53.776857,
+      "longitude": -8.102138,
+      "directions": "On Bawn Street, Strokestown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27548",
+      "photo_urls": []
+    },
+    {
+      "id": "27553",
+      "title": "The Sharkey Sisters",
+      "latitude": 53.777162,
+      "longitude": -8.103951,
+      "directions": "On French Court (National Route 5) , Strokestown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27553",
+      "photo_urls": []
+    },
+    {
+      "id": "27557",
+      "title": "Dr. Dudley Forde House",
+      "latitude": 53.777215,
+      "longitude": -8.102921,
+      "directions": "On Bawn Street, Strokestown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27557",
+      "photo_urls": []
+    },
+    {
+      "id": "27564",
+      "title": "Major John Mac Bride / Seán Mac Giolla Bríde",
+      "latitude": 53.80079,
+      "longitude": -9.522024,
+      "directions": "On South Mall (National Route 59) , Westport, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27564",
+      "photo_urls": []
+    },
+    {
+      "id": "27583",
+      "title": "National Famine Memorial",
+      "latitude": 53.780182,
+      "longitude": -9.639714,
+      "directions": "On Local Route 335, Murrisk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27583",
+      "photo_urls": []
+    },
+    {
+      "id": "27587",
+      "title": "Murrisk Friary / Mainistir Mhuraisce",
+      "latitude": 53.782119,
+      "longitude": -9.639773,
+      "directions": "Near , Murrisk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27587",
+      "photo_urls": []
+    },
+    {
+      "id": "27687",
+      "title": "1849 Famine Walk",
+      "latitude": 53.666218,
+      "longitude": -9.781507,
+      "directions": "On Local Route 335, the Doo Lough Valley, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27687",
+      "photo_urls": []
+    },
+    {
+      "id": "27757",
+      "title": "<i>Murrisk</i> Abbey / <i>National Famine Monument</i> / <i>Statue of St Patrick</i>",
+      "latitude": 53.779181,
+      "longitude": -9.6398,
+      "directions": "Near , Murrisk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27757",
+      "photo_urls": []
+    },
+    {
+      "id": "27768",
+      "title": "Glynn - Glavey - Keane Memorial",
+      "latitude": 53.741705,
+      "longitude": -8.635023,
+      "directions": "On Wallace Court (National Route 60) , Ballinlough, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27768",
+      "photo_urls": []
+    },
+    {
+      "id": "27946",
+      "title": "fáilte go Kenagh",
+      "latitude": 53.622658,
+      "longitude": -7.814444,
+      "directions": "On McHugh Park (Local Route 397) , Kenagh, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27946",
+      "photo_urls": []
+    },
+    {
+      "id": "27989",
+      "title": "<i>Lime Kiln</i>, Moneen,",
+      "latitude": 53.764657,
+      "longitude": -9.781989,
+      "directions": "On Chapel Road, Moneen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=27989",
+      "photo_urls": []
+    },
+    {
+      "id": "28044",
+      "title": "Famine Museum and Granuaile Centre, Louisburgh",
+      "latitude": 53.763988,
+      "longitude": -9.809659,
+      "directions": "On Church Road, Louisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28044",
+      "photo_urls": []
+    },
+    {
+      "id": "28056",
+      "title": "Killeen Graveyard and Cross Slab",
+      "latitude": 53.713349,
+      "longitude": -9.88328,
+      "directions": "Near , Killeen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28056",
+      "photo_urls": []
+    },
+    {
+      "id": "28058",
+      "title": "<i>Bunlahinch</i> Clapperbridge",
+      "latitude": 53.718165,
+      "longitude": -9.889197,
+      "directions": "Near , near Cloonlaur, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28058",
+      "photo_urls": []
+    },
+    {
+      "id": "28063",
+      "title": "Srahwee or Altóir Megalithic Wedge Tomb",
+      "latitude": 53.706237,
+      "longitude": -9.825259,
+      "directions": "Near , Althore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28063",
+      "photo_urls": []
+    },
+    {
+      "id": "28068",
+      "title": "Monk's Fishing House / Teach Iascaigh na Manach",
+      "latitude": 53.539839,
+      "longitude": -9.288501,
+      "directions": "Near , Cong, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28068",
+      "photo_urls": []
+    },
+    {
+      "id": "280823",
+      "title": "To the People of Ireland",
+      "latitude": 52.5011985,
+      "longitude": -9.3717925,
+      "directions": "On Listowel Road, Moyvane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280823",
+      "photo_urls": []
+    },
+    {
+      "id": "28091",
+      "title": "Francis A. Fahy",
+      "latitude": 53.138926,
+      "longitude": -8.937228,
+      "directions": "On Main Street (National Route 67) , Kinvara, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28091",
+      "photo_urls": []
+    },
+    {
+      "id": "28177",
+      "title": "Percy French",
+      "latitude": 53.808254,
+      "longitude": -8.258039,
+      "directions": "Near , near Cloonyquin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28177",
+      "photo_urls": []
+    },
+    {
+      "id": "28192",
+      "title": "Cruachan / Cruachain (Rathmore)",
+      "latitude": 53.809727,
+      "longitude": -8.310653,
+      "directions": "On the Tulsk-Bellanagare Road (National Route 5) , Ballyconboy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28192",
+      "photo_urls": []
+    },
+    {
+      "id": "28204",
+      "title": "Rathmoyle Cemetery",
+      "latitude": 53.779152,
+      "longitude": -8.378277,
+      "directions": "Near , near Rathmoyle, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28204",
+      "photo_urls": []
+    },
+    {
+      "id": "28259",
+      "title": "Squadron Leader R. F. C. Garvey",
+      "latitude": 53.782037,
+      "longitude": -9.63943,
+      "directions": "Near , Murrisk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=28259",
+      "photo_urls": []
+    },
+    {
+      "id": "292642",
+      "title": "William Warren Baldwin 1775-1844",
+      "latitude": 51.81239061,
+      "longitude": -8.30326006,
+      "directions": "Near Curraghbinny Woods (the road), near Curraghbinny, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292642",
+      "photo_urls": []
+    },
+    {
+      "id": "33198",
+      "title": "The world's first automobile fatality",
+      "latitude": 53.09789,
+      "longitude": -7.90977,
+      "directions": "On Emmet Street (National Route 52) , Birr, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=33198",
+      "photo_urls": []
+    },
+    {
+      "id": "33354",
+      "title": "Culmullen & 1798",
+      "latitude": 53.490854,
+      "longitude": -6.606367,
+      "directions": "On Route 126, Culmullen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=33354",
+      "photo_urls": []
+    },
+    {
+      "id": "71458",
+      "title": "Grianan Ailligh / Grianán Ailigh",
+      "latitude": 55.024595,
+      "longitude": -7.426734,
+      "directions": "On , near Burt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71458",
+      "photo_urls": []
+    },
+    {
+      "id": "71478",
+      "title": "Gallaghers Cottage",
+      "latitude": 54.94903,
+      "longitude": -7.716772,
+      "directions": "On Port Road (National Route 14) , Letterkenny, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71478",
+      "photo_urls": []
+    },
+    {
+      "id": "71546",
+      "title": "George Murbury",
+      "latitude": 54.950991,
+      "longitude": -7.738971,
+      "directions": "Near , Letterkenny, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71546",
+      "photo_urls": []
+    },
+    {
+      "id": "71548",
+      "title": "The Cathedral Square",
+      "latitude": 54.950875,
+      "longitude": -7.739283,
+      "directions": "On Church Lane, Letterkenny, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71548",
+      "photo_urls": []
+    },
+    {
+      "id": "71569",
+      "title": "Donegal Castle",
+      "latitude": 54.654895,
+      "longitude": -8.110589,
+      "directions": "Near , Donegal Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71569",
+      "photo_urls": []
+    },
+    {
+      "id": "71570",
+      "title": "Donegal Castle / Caisleán Dhún na nGall",
+      "latitude": 54.654737,
+      "longitude": -8.110469,
+      "directions": "On Tirchonaill Street, Donegal Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71570",
+      "photo_urls": []
+    },
+    {
+      "id": "71600",
+      "title": "The Franciscan Friary of Donegal",
+      "latitude": 54.650411,
+      "longitude": -8.114872,
+      "directions": "Near , Donegal Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71600",
+      "photo_urls": []
+    },
+    {
+      "id": "71608",
+      "title": "Donegal Friary / Mainistir Dhún na nGall",
+      "latitude": 54.65078,
+      "longitude": -8.114958,
+      "directions": "Near , Donegal Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71608",
+      "photo_urls": []
+    },
+    {
+      "id": "71630",
+      "title": "Farming on Sliabh Liag / Feirmeoireacht ar Shliabh Liag",
+      "latitude": 54.627573,
+      "longitude": -8.684413,
+      "directions": "On , Slieve League, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71630",
+      "photo_urls": []
+    },
+    {
+      "id": "71644",
+      "title": "Fishing /Iascaireacht",
+      "latitude": 54.627225,
+      "longitude": -8.684839,
+      "directions": "Near , Slieve League, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71644",
+      "photo_urls": []
+    },
+    {
+      "id": "71668",
+      "title": "The Bog / An Portach",
+      "latitude": 54.627146,
+      "longitude": -8.684902,
+      "directions": "Near , Slieve League, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71668",
+      "photo_urls": []
+    },
+    {
+      "id": "71669",
+      "title": "Signal Towers / Túir Comharthaíochta",
+      "latitude": 54.626921,
+      "longitude": -8.684775,
+      "directions": "Near , Slieve League, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71669",
+      "photo_urls": []
+    },
+    {
+      "id": "71696",
+      "title": "Chough / Cág Cos-dearg",
+      "latitude": 54.6268,
+      "longitude": -8.684501,
+      "directions": "Near , Slieve League, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71696",
+      "photo_urls": []
+    },
+    {
+      "id": "72266",
+      "title": "Carrick / An Charraig",
+      "latitude": 54.658046,
+      "longitude": -8.633673,
+      "directions": "On R263, Carrick, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72266",
+      "photo_urls": []
+    },
+    {
+      "id": "72654",
+      "title": "Clones Round Tower, Cross and Church",
+      "latitude": 54.179509,
+      "longitude": -7.232483,
+      "directions": "On Fermanagh Street, Clones, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72654",
+      "photo_urls": []
+    },
+    {
+      "id": "72714",
+      "title": "Malahide / Mullach Íde",
+      "latitude": 53.450623,
+      "longitude": -6.153476,
+      "directions": "On Church Road (R124), Malahide, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72714",
+      "photo_urls": []
+    },
+    {
+      "id": "73258",
+      "title": "High Cross / Ardchros Cluain Eois",
+      "latitude": 54.179509,
+      "longitude": -7.232483,
+      "directions": "On Fermanagh Street, Clones, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73258",
+      "photo_urls": []
+    },
+    {
+      "id": "73266",
+      "title": "Round Tower / Cloigtheach Chluain Eois",
+      "latitude": 54.17788,
+      "longitude": -7.231835,
+      "directions": "On Ball Alley, Clones, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73266",
+      "photo_urls": []
+    },
+    {
+      "id": "73272",
+      "title": "The Sarcophagus / Sarcofagas Thighearnaigh Naofa",
+      "latitude": 54.17788,
+      "longitude": -7.231835,
+      "directions": "On Ball Alley, Clones, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73272",
+      "photo_urls": []
+    },
+    {
+      "id": "73277",
+      "title": "Remains of St Tiernach",
+      "latitude": 54.17767,
+      "longitude": -7.232537,
+      "directions": "Near , Clones, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73277",
+      "photo_urls": []
+    },
+    {
+      "id": "78627",
+      "title": "Carraig Phádraig / St. Patrick's Rock",
+      "latitude": 52.519606,
+      "longitude": -7.889646,
+      "directions": "On Rock Lane, Cashel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78627",
+      "photo_urls": []
+    },
+    {
+      "id": "80404",
+      "title": "Murrisk Fisherman's Monument",
+      "latitude": 53.77984,
+      "longitude": -9.62456,
+      "directions": "Near , Murrisk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80404",
+      "photo_urls": []
+    },
+    {
+      "id": "83440",
+      "title": "The Velvet Strand / An Trá Chaoin",
+      "latitude": 53.432316,
+      "longitude": -6.124411,
+      "directions": "On Strand Road (Route 106) , Portmarnock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83440",
+      "photo_urls": []
+    },
+    {
+      "id": "85650",
+      "title": "Bride Park Cottage",
+      "latitude": 51.870309,
+      "longitude": -8.654724,
+      "directions": "On Grange Terrace, Killumney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85650",
+      "photo_urls": []
+    },
+    {
+      "id": "85818",
+      "title": "S.S. Lusitania",
+      "latitude": 51.850363,
+      "longitude": -8.295122,
+      "directions": "On Strand Road, Cobh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85818",
+      "photo_urls": []
+    },
+    {
+      "id": "85821",
+      "title": "Annie Moore Statue",
+      "latitude": 51.848759,
+      "longitude": -8.298763,
+      "directions": "On Lower Road, Kilgarvan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85821",
+      "photo_urls": []
+    },
+    {
+      "id": "85823",
+      "title": "Old Church Cemetery",
+      "latitude": 51.862997,
+      "longitude": -8.298566,
+      "directions": "Near Hilltop Park, Cobh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85823",
+      "photo_urls": []
+    },
+    {
+      "id": "85827",
+      "title": "Bishop Roche Park/ Cove Fort",
+      "latitude": 51.851912,
+      "longitude": -8.277153,
+      "directions": "Near The Mall, Cobh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85827",
+      "photo_urls": []
+    },
+    {
+      "id": "85946",
+      "title": "Irish of the American Civil War Monument",
+      "latitude": 54.090723,
+      "longitude": -8.521197,
+      "directions": "On R293, Ballymote, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85946",
+      "photo_urls": []
+    },
+    {
+      "id": "85947",
+      "title": "Ireland's National Monument to the Fighting 69th Regiment",
+      "latitude": 54.090282,
+      "longitude": -8.520367,
+      "directions": "On R293, Ballymote, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85947",
+      "photo_urls": []
+    },
+    {
+      "id": "88327",
+      "title": "\"The Frenchman's Anchor\"",
+      "latitude": 54.652434,
+      "longitude": -8.111405,
+      "directions": "On Quay Street, Donegal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=88327",
+      "photo_urls": []
+    },
+    {
+      "id": "92091",
+      "title": "Welcome to Tara of the Kings",
+      "latitude": 53.581725,
+      "longitude": -6.610098,
+      "directions": "Near , Tara, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92091",
+      "photo_urls": []
+    }
+  ]
+}
