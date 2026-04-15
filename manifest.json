@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-15T06:08:31.186Z",
+  "generated": "2026-04-15T06:08:37.761Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 33158,
-  "total_regions": 15,
+  "total_markers": 33167,
+  "total_regions": 16,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -20,6 +20,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 16,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "ar-argentina",
+      "name": "Argentina",
+      "type": "country",
+      "country": "Argentina",
+      "file": "regions/ar-argentina.json",
+      "markers": 9,
+      "size_bytes": 2933,
+      "updated": "2026-04-15",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 10,
         "removed": 0,
         "modified": 0
       }
