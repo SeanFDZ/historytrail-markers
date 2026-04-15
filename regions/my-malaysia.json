@@ -1,0 +1,29 @@
+{
+  "region_id": "my-malaysia",
+  "region_name": "Malaysia",
+  "region_type": "country",
+  "country": "Malaysia",
+  "generated": "2026-04-15T06:08:28.577Z",
+  "source_timestamp": "2026-04-15T06:08:28.577Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "153528",
+      "title": "Elephant Memorial",
+      "latitude": 4.02338159,
+      "longitude": 101.04507686,
+      "directions": "Near Lorong 14, Taman Melor, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=153528",
+      "photo_urls": []
+    },
+    {
+      "id": "73247",
+      "title": "The Boy’s Brigade in Malaysia",
+      "latitude": 5.41743333,
+      "longitude": 100.327,
+      "directions": "On Lorong Madras Lane, George Town, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73247",
+      "photo_urls": []
+    }
+  ]
+}
