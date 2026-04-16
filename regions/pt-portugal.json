@@ -1,0 +1,902 @@
+{
+  "region_id": "pt-portugal",
+  "region_name": "Portugal",
+  "region_type": "country",
+  "country": "Portugal",
+  "generated": "2026-04-16T06:06:08.726Z",
+  "source_timestamp": "2026-04-16T06:06:08.726Z",
+  "marker_count": 99,
+  "markers": [
+    {
+      "id": "231789",
+      "title": "Igreja de Santo Ildefonso / Church of Saint Ildefonso",
+      "latitude": 41.14613226,
+      "longitude": -8.60663797,
+      "directions": "On Rua de Santo Ildefonso, Porto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231789",
+      "photo_urls": []
+    },
+    {
+      "id": "231791",
+      "title": "Arnaldo Gama",
+      "latitude": 41.1480247,
+      "longitude": -8.60636298,
+      "directions": "On Rua de Santa Catarina, Porto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231791",
+      "photo_urls": []
+    },
+    {
+      "id": "231794",
+      "title": "Camilo Castelo Branco and Ana Plácido",
+      "latitude": 41.15165569,
+      "longitude": -8.6050068,
+      "directions": "On Rua de Santa Catarina, Porto, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231794",
+      "photo_urls": []
+    },
+    {
+      "id": "231828",
+      "title": "Dom Pedro II and Dona Teresa Cristina",
+      "latitude": 41.14794821,
+      "longitude": -8.60659366,
+      "directions": "On Rua de Santa Catarina, Porto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231828",
+      "photo_urls": []
+    },
+    {
+      "id": "231833",
+      "title": "Igreja dos Congregados",
+      "latitude": 41.14619163,
+      "longitude": -8.61078139,
+      "directions": "On Rua de Sá da Bandeira, Porto, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231833",
+      "photo_urls": []
+    },
+    {
+      "id": "231847",
+      "title": "Torre de Rua de D. Pedro Pitões",
+      "latitude": 41.14276011,
+      "longitude": -8.61211454,
+      "directions": "On Calçada Dom Pedro Pitões, Porto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231847",
+      "photo_urls": []
+    },
+    {
+      "id": "231850",
+      "title": "Chafariz da Rua Escura / Fountain of Rua Escura",
+      "latitude": 41.1425152,
+      "longitude": -8.61216813,
+      "directions": "On Rua de Dom Hugo, Porto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231850",
+      "photo_urls": []
+    },
+    {
+      "id": "231854",
+      "title": "Palácio dos Condes de Azevedo",
+      "latitude": 41.14330462,
+      "longitude": -8.60902664,
+      "directions": "On Rua de Saraiva de Carvalho, Porto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231854",
+      "photo_urls": []
+    },
+    {
+      "id": "231859",
+      "title": "Igreja de S. Nicolau / Church of Saint Nicholas",
+      "latitude": 41.14068577,
+      "longitude": -8.6153343,
+      "directions": "On Rua do Infante Dom Henrique, Porto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231859",
+      "photo_urls": []
+    },
+    {
+      "id": "231875",
+      "title": "Igreja de S. Miguel / Church of San Miguel",
+      "latitude": 41.19290617,
+      "longitude": -8.69658275,
+      "directions": "On Avenida Doutor Fernando Aroso, Leça da Palmeira, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231875",
+      "photo_urls": []
+    },
+    {
+      "id": "231878",
+      "title": "Paço Episcopal / Bishop’s Palace",
+      "latitude": 41.14220301,
+      "longitude": -8.61166967,
+      "directions": "On Rua de Dom Hugo, Porto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231878",
+      "photo_urls": []
+    },
+    {
+      "id": "231880",
+      "title": "Obeliscos de Prelada / Obelisks of the Prelate",
+      "latitude": 41.1475898,
+      "longitude": -8.66833574,
+      "directions": "On Avenida de Dom Pedro I, Porto, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231880",
+      "photo_urls": []
+    },
+    {
+      "id": "231929",
+      "title": "O Submarino Alemão U1277 / The German Submarine U1277",
+      "latitude": 41.24838857,
+      "longitude": -8.72473316,
+      "directions": "Near Rua da Agudela, Lavra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231929",
+      "photo_urls": []
+    },
+    {
+      "id": "231932",
+      "title": "Tanques Romanos para Salga de Feixe / Roman Tanks for Fish Salting",
+      "latitude": 41.26123189,
+      "longitude": -8.72488456,
+      "directions": "Near Avenida da Praia de Angeiras, Lavra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231932",
+      "photo_urls": []
+    },
+    {
+      "id": "231935",
+      "title": "Rua das Salinas / Saltern Street",
+      "latitude": 41.21962283,
+      "longitude": -8.71407801,
+      "directions": "On Rua José Vilaça, Perafita, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231935",
+      "photo_urls": []
+    },
+    {
+      "id": "231937",
+      "title": "Primeiro Campo de Futebol / First Football Field",
+      "latitude": 41.35406033,
+      "longitude": -8.74913287,
+      "directions": "On Avenida Baltazar do Couto, Vila do Conde, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231937",
+      "photo_urls": []
+    },
+    {
+      "id": "231938",
+      "title": "A Recolha do Sargaço / Harvesting Seaweed",
+      "latitude": 41.2664826,
+      "longitude": -8.72674244,
+      "directions": "On , Lavra, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231938",
+      "photo_urls": []
+    },
+    {
+      "id": "231981",
+      "title": "Centro da Juventude / Youth Centre",
+      "latitude": 41.35285937,
+      "longitude": -8.74849833,
+      "directions": "On Avenida Júlio Graça, Vila do Conde, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231981",
+      "photo_urls": []
+    },
+    {
+      "id": "231982",
+      "title": "Naufrágio de Veronese / Shipwreck of Veronese",
+      "latitude": 41.20462979,
+      "longitude": -8.71542977,
+      "directions": "Near Avenida Liberdade, Leça da Palmeira, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231982",
+      "photo_urls": []
+    },
+    {
+      "id": "231984",
+      "title": "A Fonte de São Pedro / Fountain of Santo Pedro",
+      "latitude": 41.42444817,
+      "longitude": -8.6711432,
+      "directions": "On Rua Direita, Rates, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231984",
+      "photo_urls": []
+    },
+    {
+      "id": "231987",
+      "title": "Largo de Santo António / Saint Anthony Square",
+      "latitude": 41.42580452,
+      "longitude": -8.66672492,
+      "directions": "On Rua de Santo António, Rates, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231987",
+      "photo_urls": []
+    },
+    {
+      "id": "231990",
+      "title": "Avro Lancaster III Crash",
+      "latitude": 41.28832775,
+      "longitude": -8.73194486,
+      "directions": "On , Vila Chã, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231990",
+      "photo_urls": []
+    },
+    {
+      "id": "232093",
+      "title": "Vaca das Cordas / Bull of the Ropes",
+      "latitude": 41.76755286,
+      "longitude": -8.58449894,
+      "directions": "On Rua Cardeal Saraiva, Ponte de Lima, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232093",
+      "photo_urls": []
+    },
+    {
+      "id": "233448",
+      "title": "Gravuras da área de S. Paio / S. Paio Engravings",
+      "latitude": 41.28040418,
+      "longitude": -8.72954899,
+      "directions": "Near Rua de Baixo, Labruge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233448",
+      "photo_urls": []
+    },
+    {
+      "id": "233600",
+      "title": "Os penedos amoladoiros / Polishing rocks",
+      "latitude": 41.28109765,
+      "longitude": -8.73028624,
+      "directions": "Near Rua de Baixo, Labruge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233600",
+      "photo_urls": []
+    },
+    {
+      "id": "233697",
+      "title": "Ruínas de Habitação / Family House",
+      "latitude": 41.28158282,
+      "longitude": -8.73079928,
+      "directions": "Near Rua de Baixo, Labruge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233697",
+      "photo_urls": []
+    },
+    {
+      "id": "233704",
+      "title": "Capela das Almas de Santa Catarina",
+      "latitude": 41.14988228,
+      "longitude": -8.60567891,
+      "directions": "On Rua de Santa Catarina, Porto, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233704",
+      "photo_urls": []
+    },
+    {
+      "id": "233730",
+      "title": "Emmanuel Rodrigues da Rocha",
+      "latitude": 41.19086365,
+      "longitude": -8.70533586,
+      "directions": "On Avenida Liberdade, Leça da Palmeira, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233730",
+      "photo_urls": []
+    },
+    {
+      "id": "233783",
+      "title": "Necrópole de Montedouro / Montedouro Necropolis",
+      "latitude": 41.23033386,
+      "longitude": -8.72068698,
+      "directions": "Near Rua de Almeiriga Norte, Perafita, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233783",
+      "photo_urls": []
+    },
+    {
+      "id": "233983",
+      "title": "A Villa Romana do Fontão / The Roman Villa at Fontão",
+      "latitude": 41.25729249,
+      "longitude": -8.7233862,
+      "directions": "Near Rua Professor Ofélia da Cruz Costa, Lavra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233983",
+      "photo_urls": []
+    },
+    {
+      "id": "234007",
+      "title": "A Praia da Memória / Memory Beach",
+      "latitude": 41.23054451,
+      "longitude": -8.72076389,
+      "directions": "Near Rua de Almeiriga Norte, Perafita, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234007",
+      "photo_urls": []
+    },
+    {
+      "id": "234079",
+      "title": "Postigo do Carvão",
+      "latitude": 41.14042507,
+      "longitude": -8.61334562,
+      "directions": "On Cais da Estiva, Porto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234079",
+      "photo_urls": []
+    },
+    {
+      "id": "234245",
+      "title": "O Aterro / The Embankment",
+      "latitude": 41.21038608,
+      "longitude": -8.71474396,
+      "directions": "Near Avenida Liberdade, Leça da Palmeira, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234245",
+      "photo_urls": []
+    },
+    {
+      "id": "234457",
+      "title": "Cerca Primitiva / Early Wall",
+      "latitude": 41.14310046,
+      "longitude": -8.61046627,
+      "directions": "On Calçada de Vendoma, Porto, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234457",
+      "photo_urls": []
+    },
+    {
+      "id": "234512",
+      "title": "Mercado Ferreira Borges",
+      "latitude": 41.14169681,
+      "longitude": -8.61496134,
+      "directions": "On Rua da Bolsa, Porto, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234512",
+      "photo_urls": []
+    },
+    {
+      "id": "234713",
+      "title": "Chafariz do Anjo / Angel Fountain",
+      "latitude": 41.14296867,
+      "longitude": -8.61098863,
+      "directions": "On Rua de Dom Hugo, Porto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234713",
+      "photo_urls": []
+    },
+    {
+      "id": "237267",
+      "title": "Farol da Boa Nova / The Boa Nova Lighthouse",
+      "latitude": 41.20073875,
+      "longitude": -8.71225776,
+      "directions": "Near Avenida Liberdade, Leça da Palmeira, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237267",
+      "photo_urls": []
+    },
+    {
+      "id": "237305",
+      "title": "Marginal de Leça da Palmeira / The Leça da Palmeira Waterfront",
+      "latitude": 41.20072402,
+      "longitude": -8.71224828,
+      "directions": "Near Avenida Liberdade, Leça da Palmeira, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237305",
+      "photo_urls": []
+    },
+    {
+      "id": "237473",
+      "title": "Palácio de Bolsa / Stock Exchange Palace",
+      "latitude": 41.14120763,
+      "longitude": -8.61539096,
+      "directions": "On Rua da Bolsa, Porto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237473",
+      "photo_urls": []
+    },
+    {
+      "id": "237483",
+      "title": "A Praia dos Pescadores de Angeiras / The Fishermen Beach at Angeiras",
+      "latitude": 41.26327171,
+      "longitude": -8.72646447,
+      "directions": "On Avenida da Praia de Angeiras, Lavra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237483",
+      "photo_urls": []
+    },
+    {
+      "id": "238067",
+      "title": "Capela das Pereiras / Pereiras Chapel",
+      "latitude": 41.76879646,
+      "longitude": -8.58236224,
+      "directions": "On Largo Delfim Guimarães, Ponte de Lima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238067",
+      "photo_urls": []
+    },
+    {
+      "id": "238079",
+      "title": "Casa Torreada / Tower-House",
+      "latitude": 41.76788187,
+      "longitude": -8.58270004,
+      "directions": "On Rua da Fonte da Vila, Ponte de Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238079",
+      "photo_urls": []
+    },
+    {
+      "id": "238156",
+      "title": "Torre de São Paulo e Troço Da Muralha / St. Paul Tower and Wall Section",
+      "latitude": 41.76808961,
+      "longitude": -8.58458469,
+      "directions": "On Rua do Postigo, Ponte de Lima, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238156",
+      "photo_urls": []
+    },
+    {
+      "id": "238165",
+      "title": "Forte de São João Baptista",
+      "latitude": 41.14921711,
+      "longitude": -8.67354838,
+      "directions": "On Esplanada do Castelo, Porto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238165",
+      "photo_urls": []
+    },
+    {
+      "id": "238180",
+      "title": "Igreja Matriz / Parish Church",
+      "latitude": 41.76773717,
+      "longitude": -8.58427768,
+      "directions": "On Rua da Matriz, Ponte de Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238180",
+      "photo_urls": []
+    },
+    {
+      "id": "238204",
+      "title": "Rua das Flores / “Flowers Street”",
+      "latitude": 41.14502066,
+      "longitude": -8.61137558,
+      "directions": "On Rua das Flores, Porto, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238204",
+      "photo_urls": []
+    },
+    {
+      "id": "238246",
+      "title": "Torre da Cadeia Velha / “Old Chain Tower”",
+      "latitude": 41.76728471,
+      "longitude": -8.58516097,
+      "directions": "On Rua da Porta Nova, Ponte de Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238246",
+      "photo_urls": []
+    },
+    {
+      "id": "238249",
+      "title": "Igreja de San António da Torre Velha / Church of San Antonio of the Old Tower",
+      "latitude": 41.76955866,
+      "longitude": -8.58794976,
+      "directions": "On Ponte Romano-Gótica, Ponte de Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238249",
+      "photo_urls": []
+    },
+    {
+      "id": "238410",
+      "title": "Igreja da Ordem do Terço / Church of the Order of the Rosary",
+      "latitude": 41.14470098,
+      "longitude": -8.60829689,
+      "directions": "On Rua de Cimo de Vila, Porto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238410",
+      "photo_urls": []
+    },
+    {
+      "id": "238411",
+      "title": "Feitoria Inglesa / British Trading Post",
+      "latitude": 41.1414184,
+      "longitude": -8.61382113,
+      "directions": "On Rua do Infante Dom Henrique, Porto, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238411",
+      "photo_urls": []
+    },
+    {
+      "id": "239356",
+      "title": "Monumento ao Infante D. Henrique / Monument to Prince Henry",
+      "latitude": 41.14105398,
+      "longitude": -8.61485211,
+      "directions": "On Rua do Infante D. Henrique, Porto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239356",
+      "photo_urls": []
+    },
+    {
+      "id": "239530",
+      "title": "Capela do Anjo da Guarda / Chapel of the Guardian Angel",
+      "latitude": 41.77000875,
+      "longitude": -8.58748084,
+      "directions": "On Ecovia das Laranjas, Ponte de Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239530",
+      "photo_urls": []
+    },
+    {
+      "id": "239546",
+      "title": "Capela de N<sup>a</sup> Sr<sup>a</sup> do Ó / “Senhora do Ó” Chapel",
+      "latitude": 41.14045287,
+      "longitude": -8.61466887,
+      "directions": "On Largo do Terreiro, Porto, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239546",
+      "photo_urls": []
+    },
+    {
+      "id": "239719",
+      "title": "Casa do Despacho / Dispatch House",
+      "latitude": 41.141041,
+      "longitude": -8.61625565,
+      "directions": "Near Rua de São Francisco, Porto, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239719",
+      "photo_urls": []
+    },
+    {
+      "id": "239915",
+      "title": "Edifício da Antiga Companhia de Seguros Douro",
+      "latitude": 41.14272267,
+      "longitude": -8.61519281,
+      "directions": "On Rua de Ferreira Borges, Porto, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239915",
+      "photo_urls": []
+    },
+    {
+      "id": "240338",
+      "title": "A origem da Vieira de Santiago / The Origin of the Scallop Shell of Santiago",
+      "latitude": 41.2040336,
+      "longitude": -8.71443698,
+      "directions": "On Avenida Liberdade, Matosinhos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240338",
+      "photo_urls": []
+    },
+    {
+      "id": "240423",
+      "title": "Praça da Batalha / “Battle Square”",
+      "latitude": 41.14506958,
+      "longitude": -8.60697079,
+      "directions": "On Praça da Batalha, Porto, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240423",
+      "photo_urls": []
+    },
+    {
+      "id": "240448",
+      "title": "Ponte Romano-Medieval de Rubiães / Roman-Medieval Bridge of Rubiães",
+      "latitude": 41.90420188,
+      "longitude": -8.62644775,
+      "directions": "On Etapa Valença-Rubiães, Cossourado e Linhares, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240448",
+      "photo_urls": []
+    },
+    {
+      "id": "240480",
+      "title": "Ponte “Romana” de Rubiães / “Roman” Bridge of Rubiães",
+      "latitude": 41.9017494,
+      "longitude": -8.62290881,
+      "directions": "On EN201, Cossourado e Linhares, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240480",
+      "photo_urls": []
+    },
+    {
+      "id": "240561",
+      "title": "Ponte do Arco de Geia Bridge Memorial",
+      "latitude": 41.79871908,
+      "longitude": -8.59181437,
+      "directions": "On Rua do Arco da Geia, Arcozelo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240561",
+      "photo_urls": []
+    },
+    {
+      "id": "240606",
+      "title": "Monumento a António Nobre / Monument Dedicated to António Nobre",
+      "latitude": 41.20208419,
+      "longitude": -8.71316599,
+      "directions": "Near Avenida Liberdade, Leça da Palmeira, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240606",
+      "photo_urls": []
+    },
+    {
+      "id": "240626",
+      "title": "Cardeal / Cardinal Saraiva",
+      "latitude": 41.76739174,
+      "longitude": -8.58385473,
+      "directions": "On Rua Cardeal Saraiva, Ponte de Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240626",
+      "photo_urls": []
+    },
+    {
+      "id": "240634",
+      "title": "Ponte Sobre O Rio Lima / Bridge Over the River Lima",
+      "latitude": 41.76882936,
+      "longitude": -8.58451437,
+      "directions": "On Largo de Camões, Ponte de Lima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240634",
+      "photo_urls": []
+    },
+    {
+      "id": "240643",
+      "title": "Biblioteca Municipal - Antigo Hospital… / City Library - Former Hospital…",
+      "latitude": 41.76748573,
+      "longitude": -8.58473903,
+      "directions": "On Rua da Picota, Ponte de Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240643",
+      "photo_urls": []
+    },
+    {
+      "id": "240673",
+      "title": "Chafariz / Fountain",
+      "latitude": 41.76883575,
+      "longitude": -8.58450843,
+      "directions": "On Largo de Camões, Ponte de Lima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240673",
+      "photo_urls": []
+    },
+    {
+      "id": "240767",
+      "title": "Largo de Camões / Camões Square",
+      "latitude": 41.76887165,
+      "longitude": -8.58424693,
+      "directions": "On Largo de Camões, Ponte de Lima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240767",
+      "photo_urls": []
+    },
+    {
+      "id": "240834",
+      "title": "Centro Histórico de Valença / Historic Center of Valença",
+      "latitude": 42.02867921,
+      "longitude": -8.64494186,
+      "directions": "On Rua Apolinário da Fonseca, Valença, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240834",
+      "photo_urls": []
+    },
+    {
+      "id": "240856",
+      "title": "Sé do Porto / Porto Cathedral",
+      "latitude": 41.14292227,
+      "longitude": -8.61160345,
+      "directions": "On Terreiro da Sé, Porto, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240856",
+      "photo_urls": []
+    },
+    {
+      "id": "240927",
+      "title": "Igreja de S. Pedro de Rates / Church of San Pedro of Rates",
+      "latitude": 41.42320069,
+      "longitude": -8.67266072,
+      "directions": "On Rua Doutor Manuel Monteiro, Póvoa de Varzim, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240927",
+      "photo_urls": []
+    },
+    {
+      "id": "240928",
+      "title": "Bombeiros Voluntários / Volunteer Firefighters",
+      "latitude": 41.76742814,
+      "longitude": -8.58420594,
+      "directions": "On Rua Cardeal Saraiva, Ponte de Lima, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240928",
+      "photo_urls": []
+    },
+    {
+      "id": "240936",
+      "title": "Casa do Infante (Alfândega Velha) / House of the Prince (former customs house)",
+      "latitude": 41.14076372,
+      "longitude": -8.61457557,
+      "directions": "On Rua da Alfândega, Porto, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240936",
+      "photo_urls": []
+    },
+    {
+      "id": "241115",
+      "title": "Igreja da Ordem S. Francisco / Church of São Francisco",
+      "latitude": 41.14100671,
+      "longitude": -8.61603118,
+      "directions": "On Rua de São Francisco, Porto, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241115",
+      "photo_urls": []
+    },
+    {
+      "id": "241174",
+      "title": "A Praça / The Square",
+      "latitude": 41.42427103,
+      "longitude": -8.67178813,
+      "directions": "On Praça dos Forais, Rates, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241174",
+      "photo_urls": []
+    },
+    {
+      "id": "244092",
+      "title": "Dom Pedro IV",
+      "latitude": 41.31039439,
+      "longitude": -8.73994856,
+      "directions": "On Largo de Dom Pedro IV, Mindelo, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244092",
+      "photo_urls": []
+    },
+    {
+      "id": "245159",
+      "title": "Carlos Botelho",
+      "latitude": 38.71748076,
+      "longitude": -9.14387584,
+      "directions": "On Avenida da Liberdade, Lisboa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245159",
+      "photo_urls": []
+    },
+    {
+      "id": "245168",
+      "title": "A Ginjinha",
+      "latitude": 38.71471771,
+      "longitude": -9.13905033,
+      "directions": "On Largo São Domingos, Lisboa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245168",
+      "photo_urls": []
+    },
+    {
+      "id": "245224",
+      "title": "Regicídio de 1908 / The Lisbon Regicide",
+      "latitude": 38.70804722,
+      "longitude": -9.13776111,
+      "directions": "On Praça do Comércio, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245224",
+      "photo_urls": []
+    },
+    {
+      "id": "245299",
+      "title": "Amalia Rodrigues",
+      "latitude": 38.71671944,
+      "longitude": -9.13824444,
+      "directions": "On Rua de Martim Vaz, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245299",
+      "photo_urls": []
+    },
+    {
+      "id": "245392",
+      "title": "Luís de Camões",
+      "latitude": 38.71695682,
+      "longitude": -9.13869979,
+      "directions": "On Calçada de Sant&#39;Ana, Lisboa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245392",
+      "photo_urls": []
+    },
+    {
+      "id": "245448",
+      "title": "Antiga Prisáo Política / Former Political Prison",
+      "latitude": 38.71017047,
+      "longitude": -9.13255039,
+      "directions": "On Rua Augusto Rosa, Lisboa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245448",
+      "photo_urls": []
+    },
+    {
+      "id": "245631",
+      "title": "Ascensor do Lavra / The Lavra Funicular",
+      "latitude": 38.7187,
+      "longitude": -9.14013889,
+      "directions": "On Rua Câmara Pestana, Lisboa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245631",
+      "photo_urls": []
+    },
+    {
+      "id": "245906",
+      "title": "Fernando Pessoa",
+      "latitude": 38.7127566,
+      "longitude": -9.137723,
+      "directions": "On Rua da Prata, Lisboa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245906",
+      "photo_urls": []
+    },
+    {
+      "id": "246160",
+      "title": "Memorial às Vítimas do Massacre de 1506 / Memorial to the Victims of the 1506 Massacre",
+      "latitude": 38.71485095,
+      "longitude": -9.13894325,
+      "directions": "On Largo São Domingos, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246160",
+      "photo_urls": []
+    },
+    {
+      "id": "246308",
+      "title": "Arco do Bandeira",
+      "latitude": 38.71292173,
+      "longitude": -9.13904617,
+      "directions": "On Rua de Sapateiros, Lisboa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246308",
+      "photo_urls": []
+    },
+    {
+      "id": "246487",
+      "title": "Madre Teresa de Saldanha",
+      "latitude": 38.71740311,
+      "longitude": -9.14150549,
+      "directions": "On Rua das Portas de Santo Antão, Lisboa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246487",
+      "photo_urls": []
+    },
+    {
+      "id": "246557",
+      "title": "Igreja Paroquial / Parish Church",
+      "latitude": 38.71781254,
+      "longitude": -9.14224282,
+      "directions": "On Largo da Anunciada, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246557",
+      "photo_urls": []
+    },
+    {
+      "id": "246603",
+      "title": "Igreja de São Domingos / “Church of Saint Dominic”",
+      "latitude": 38.71499439,
+      "longitude": -9.13886949,
+      "directions": "On Largo São Domingos, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246603",
+      "photo_urls": []
+    },
+    {
+      "id": "246992",
+      "title": "Coliseu",
+      "latitude": 38.71645,
+      "longitude": -9.14066111,
+      "directions": "On Rua das Portas de Santo Antão, Lisboa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246992",
+      "photo_urls": []
+    },
+    {
+      "id": "247004",
+      "title": "Arco da Rua Augusta",
+      "latitude": 38.70838791,
+      "longitude": -9.13675134,
+      "directions": "On Rua Augusta, Lisboa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247004",
+      "photo_urls": []
+    },
+    {
+      "id": "247029",
+      "title": "Igreja da Misericórdia / Church of Mercy",
+      "latitude": 38.79699722,
+      "longitude": -9.39012778,
+      "directions": "On Largo Doutor Gregório de Almeida, Sintra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247029",
+      "photo_urls": []
+    },
+    {
+      "id": "264352",
+      "title": "Igreja Paroquial de São Martinho de Sintra / Parish Church of São Martinho de Sintra",
+      "latitude": 38.79660237,
+      "longitude": -9.39137856,
+      "directions": "On Praça da República, Sintra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=264352",
+      "photo_urls": []
+    },
+    {
+      "id": "267652",
+      "title": "Miguel Ventura Terra",
+      "latitude": 38.72053889,
+      "longitude": -9.15323889,
+      "directions": "On Rua Alexandre Herculano, Lisboa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267652",
+      "photo_urls": []
+    },
+    {
+      "id": "267686",
+      "title": "Pai Paulino / Father Paulino",
+      "latitude": 38.71512741,
+      "longitude": -9.13883865,
+      "directions": "On Largo São Domingos, Lisboa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267686",
+      "photo_urls": []
+    },
+    {
+      "id": "267887",
+      "title": "João Jayme de Faria Affonso",
+      "latitude": 38.69251165,
+      "longitude": -9.2169774,
+      "directions": "Near Avenida Brasília, Lisboa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267887",
+      "photo_urls": []
+    },
+    {
+      "id": "282880",
+      "title": "Igreja dos Grilos",
+      "latitude": 41.14236465,
+      "longitude": -8.61260687,
+      "directions": "On Largo do Colegio, Porto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282880",
+      "photo_urls": []
+    },
+    {
+      "id": "285678",
+      "title": "Casa dos Dabney / Dabney’s House",
+      "latitude": 38.5231137,
+      "longitude": -28.62633048,
+      "directions": "On Monte da Guia, Horta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285678",
+      "photo_urls": []
+    },
+    {
+      "id": "285916",
+      "title": "Igreja da Misericórdia / Church of Misericórdia",
+      "latitude": 38.65407344,
+      "longitude": -27.21835983,
+      "directions": "On Rúa Direita, Angra do Heroísmo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285916",
+      "photo_urls": []
+    },
+    {
+      "id": "285965",
+      "title": "Estaleiro Naval / Shipyard",
+      "latitude": 38.6537682,
+      "longitude": -27.21924034,
+      "directions": "On Estrada Gaspar Corte-Real, Angra do Heroísmo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285965",
+      "photo_urls": []
+    },
+    {
+      "id": "286362",
+      "title": "Igreja da Misericórdia / Church of Misericórdia",
+      "latitude": 37.82238775,
+      "longitude": -25.51945471,
+      "directions": "On Rua do Passal, Ribeira Grande, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286362",
+      "photo_urls": []
+    }
+  ]
+}
