@@ -1,0 +1,3386 @@
+{
+  "region_id": "il-israel",
+  "region_name": "Israel",
+  "region_type": "country",
+  "country": "Israel",
+  "generated": "2026-04-16T06:06:08.722Z",
+  "source_timestamp": "2026-04-16T06:06:08.722Z",
+  "marker_count": 375,
+  "markers": [
+    {
+      "id": "115458",
+      "title": "Raoul Wallenberg's Residence",
+      "latitude": 32.80555556,
+      "longitude": 35.00083333,
+      "directions": "On Arlozorov Street, Haifa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115458",
+      "photo_urls": []
+    },
+    {
+      "id": "126103",
+      "title": "Arbel Ancient Synagogue /",
+      "latitude": 32.82110469,
+      "longitude": 35.49436204,
+      "directions": "On , near Arbel, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126103",
+      "photo_urls": []
+    },
+    {
+      "id": "126980",
+      "title": "The Human Spirit and the Spirit of the Earth",
+      "latitude": 30.50638889,
+      "longitude": 34.6425,
+      "directions": "Near Route 171, near Mitspe Ramon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126980",
+      "photo_urls": []
+    },
+    {
+      "id": "128331",
+      "title": "Masada",
+      "latitude": 31.31660723,
+      "longitude": 35.3544931,
+      "directions": "Near Route 90, near Metsada, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128331",
+      "photo_urls": []
+    },
+    {
+      "id": "132004",
+      "title": "Ancient Yodfat",
+      "latitude": 32.83230696,
+      "longitude": 35.27774334,
+      "directions": "Near , Yodfat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132004",
+      "photo_urls": []
+    },
+    {
+      "id": "132155",
+      "title": "Ahava Mineral Salts Hooper",
+      "latitude": 31.562251,
+      "longitude": 35.40131,
+      "directions": "Near National Route 90, near Ein Gedi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132155",
+      "photo_urls": []
+    },
+    {
+      "id": "132301",
+      "title": "The Whale Sculpture",
+      "latitude": 32.052838,
+      "longitude": 34.75188,
+      "directions": "On Louis Pasteur Street, Tel Aviv-Yafo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132301",
+      "photo_urls": []
+    },
+    {
+      "id": "132302",
+      "title": "The House of Simon the Tanner",
+      "latitude": 32.053607,
+      "longitude": 34.750651,
+      "directions": "Near Shim&#39;on Ha&#39;bursekai Street, Tel Aviv-Yafo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132302",
+      "photo_urls": []
+    },
+    {
+      "id": "132314",
+      "title": "The Jaffa Port",
+      "latitude": 32.054191,
+      "longitude": 34.751344,
+      "directions": "On Kikar Kdumim, Tel Aviv-Yafo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132314",
+      "photo_urls": []
+    },
+    {
+      "id": "132315",
+      "title": "The Lion Temple",
+      "latitude": 32.053783,
+      "longitude": 34.752719,
+      "directions": "Near Segev Street, Tel Aviv-Yafo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132315",
+      "photo_urls": []
+    },
+    {
+      "id": "132462",
+      "title": "History of Ashqelon",
+      "latitude": 31.667995,
+      "longitude": 34.548361,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132462",
+      "photo_urls": []
+    },
+    {
+      "id": "132466",
+      "title": "Remains of the Muslim City",
+      "latitude": 31.667374,
+      "longitude": 34.549403,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132466",
+      "photo_urls": []
+    },
+    {
+      "id": "132494",
+      "title": "The Canaanite Fortifications of Ashqelon",
+      "latitude": 31.667816,
+      "longitude": 34.549128,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132494",
+      "photo_urls": []
+    },
+    {
+      "id": "132496",
+      "title": "Tel Ashqelon - the Canaanite City",
+      "latitude": 31.667681,
+      "longitude": 34.549208,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132496",
+      "photo_urls": []
+    },
+    {
+      "id": "132497",
+      "title": "The Sanctuary of the Silver Calf",
+      "latitude": 31.66795,
+      "longitude": 34.548947,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132497",
+      "photo_urls": []
+    },
+    {
+      "id": "132499",
+      "title": "The Canaanite City Gate",
+      "latitude": 31.667569,
+      "longitude": 34.548895,
+      "directions": "Near T. Ben Amar Street, Ashkelon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132499",
+      "photo_urls": []
+    },
+    {
+      "id": "132530",
+      "title": "Assault by Sennacherib's Army",
+      "latitude": 31.563487,
+      "longitude": 34.847628,
+      "directions": "Near State Route 3415, near Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132530",
+      "photo_urls": []
+    },
+    {
+      "id": "132577",
+      "title": "Artist's Rendering of the City Gate",
+      "latitude": 31.563619,
+      "longitude": 34.847516,
+      "directions": "Near State Route 3415, near Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132577",
+      "photo_urls": []
+    },
+    {
+      "id": "132598",
+      "title": "Welcome to the City Gate",
+      "latitude": 31.564632,
+      "longitude": 34.847569,
+      "directions": "Near State Route 3415, near Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132598",
+      "photo_urls": []
+    },
+    {
+      "id": "132606",
+      "title": "Testimony to Approaching Disaster - the Lachish Letters",
+      "latitude": 31.564526,
+      "longitude": 34.847649,
+      "directions": "Near State Route 3415, near Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132606",
+      "photo_urls": []
+    },
+    {
+      "id": "132608",
+      "title": "Confronting Enemy Threats - the City’s Fortifications",
+      "latitude": 31.564671,
+      "longitude": 34.847543,
+      "directions": "Near State Route 3415, Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132608",
+      "photo_urls": []
+    },
+    {
+      "id": "132611",
+      "title": "Might and Authority - the Royal Palace",
+      "latitude": 31.564434,
+      "longitude": 34.848169,
+      "directions": "Near State Route 3415, near Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132611",
+      "photo_urls": []
+    },
+    {
+      "id": "132634",
+      "title": "Tel Lachish National Park",
+      "latitude": 31.56354,
+      "longitude": 34.847577,
+      "directions": "Near State Route 3415, Lachish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132634",
+      "photo_urls": []
+    },
+    {
+      "id": "135460",
+      "title": "Tel Azekah",
+      "latitude": 31.69999263,
+      "longitude": 34.93600309,
+      "directions": "Near , Bet Shemesh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135460",
+      "photo_urls": []
+    },
+    {
+      "id": "136035",
+      "title": "The Lower Palace",
+      "latitude": 32.497157,
+      "longitude": 34.889398,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136035",
+      "photo_urls": []
+    },
+    {
+      "id": "136047",
+      "title": "King Herod's 'Hippodrome'",
+      "latitude": 32.499884,
+      "longitude": 34.891056,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136047",
+      "photo_urls": []
+    },
+    {
+      "id": "136054",
+      "title": "The Chariot-Races",
+      "latitude": 32.49986,
+      "longitude": 34.891098,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136054",
+      "photo_urls": []
+    },
+    {
+      "id": "136542",
+      "title": "The Palace Vaults",
+      "latitude": 32.500083,
+      "longitude": 34.890994,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136542",
+      "photo_urls": []
+    },
+    {
+      "id": "136543",
+      "title": "The Governor's Palace Baths",
+      "latitude": 32.500401,
+      "longitude": 34.891049,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136543",
+      "photo_urls": []
+    },
+    {
+      "id": "136545",
+      "title": "Sarcophagus Lid",
+      "latitude": 32.501488,
+      "longitude": 34.890977,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136545",
+      "photo_urls": []
+    },
+    {
+      "id": "136547",
+      "title": "The Harbor \"Sebastos\"",
+      "latitude": 32.502072,
+      "longitude": 34.891133,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136547",
+      "photo_urls": []
+    },
+    {
+      "id": "136550",
+      "title": "The Caesarea Nymphaeum",
+      "latitude": 32.502059,
+      "longitude": 34.892014,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=136550",
+      "photo_urls": []
+    },
+    {
+      "id": "137054",
+      "title": "Qarne Hittin National Park",
+      "latitude": 32.790346,
+      "longitude": 35.471836,
+      "directions": "Near , Givat Avni, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137054",
+      "photo_urls": []
+    },
+    {
+      "id": "139218",
+      "title": "Architectural Elements of the Church-Synagogue",
+      "latitude": 32.702391,
+      "longitude": 35.297651,
+      "directions": "Near Al-Bishara Street, Nazareth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139218",
+      "photo_urls": []
+    },
+    {
+      "id": "139256",
+      "title": "Byzantine Mosaics",
+      "latitude": 32.702306,
+      "longitude": 35.297582,
+      "directions": "Near Al-Bishara Street, Nazareth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139256",
+      "photo_urls": []
+    },
+    {
+      "id": "139308",
+      "title": "Ancient Road",
+      "latitude": 32.911096,
+      "longitude": 35.63122,
+      "directions": "Near State Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139308",
+      "photo_urls": []
+    },
+    {
+      "id": "139317",
+      "title": "Outer City Gate",
+      "latitude": 32.910007,
+      "longitude": 35.631134,
+      "directions": "Near State Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139317",
+      "photo_urls": []
+    },
+    {
+      "id": "139327",
+      "title": "The Courtyard",
+      "latitude": 32.909985,
+      "longitude": 35.631059,
+      "directions": "Near State Route 888, near Tel Beit Tsaida, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139327",
+      "photo_urls": []
+    },
+    {
+      "id": "139336",
+      "title": "Inner City Gate",
+      "latitude": 32.909994,
+      "longitude": 35.630904,
+      "directions": "Near State Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139336",
+      "photo_urls": []
+    },
+    {
+      "id": "139343",
+      "title": "Sacrificial High Place",
+      "latitude": 32.909983,
+      "longitude": 35.630864,
+      "directions": "On Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139343",
+      "photo_urls": []
+    },
+    {
+      "id": "139345",
+      "title": "A Bit Hilani Type Palace",
+      "latitude": 32.910508,
+      "longitude": 35.630686,
+      "directions": "Near State Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139345",
+      "photo_urls": []
+    },
+    {
+      "id": "139366",
+      "title": "The Fisherman House",
+      "latitude": 32.910771,
+      "longitude": 35.630782,
+      "directions": "Near State Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139366",
+      "photo_urls": []
+    },
+    {
+      "id": "139374",
+      "title": "The Winegrower House",
+      "latitude": 32.911026,
+      "longitude": 35.630742,
+      "directions": "Near Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139374",
+      "photo_urls": []
+    },
+    {
+      "id": "139383",
+      "title": "Street",
+      "latitude": 32.911158,
+      "longitude": 35.630611,
+      "directions": "Near Route 888, near Had Nes, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139383",
+      "photo_urls": []
+    },
+    {
+      "id": "139392",
+      "title": "Kursi",
+      "latitude": 32.826574,
+      "longitude": 35.649875,
+      "directions": "Near State Route 92, near Ramot, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139392",
+      "photo_urls": []
+    },
+    {
+      "id": "139423",
+      "title": "Baptistery",
+      "latitude": 32.82578,
+      "longitude": 35.650702,
+      "directions": "Near State Route 92, near Ramot, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139423",
+      "photo_urls": []
+    },
+    {
+      "id": "139434",
+      "title": "Capharnaum",
+      "latitude": 32.880559,
+      "longitude": 35.575246,
+      "directions": "Near State Route 87, Capernaum, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139434",
+      "photo_urls": []
+    },
+    {
+      "id": "140103",
+      "title": "Medusa",
+      "latitude": 32.911248,
+      "longitude": 35.564191,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140103",
+      "photo_urls": []
+    },
+    {
+      "id": "140113",
+      "title": "Chorazin's Synagogue",
+      "latitude": 32.91123,
+      "longitude": 35.564095,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140113",
+      "photo_urls": []
+    },
+    {
+      "id": "140122",
+      "title": "Chorazin in Christian Sources",
+      "latitude": 32.911587,
+      "longitude": 35.564429,
+      "directions": "Near State Route 8277, Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140122",
+      "photo_urls": []
+    },
+    {
+      "id": "140472",
+      "title": "Seat of Moses",
+      "latitude": 32.91121,
+      "longitude": 35.564128,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140472",
+      "photo_urls": []
+    },
+    {
+      "id": "140475",
+      "title": "Conch",
+      "latitude": 32.911267,
+      "longitude": 35.564047,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140475",
+      "photo_urls": []
+    },
+    {
+      "id": "140479",
+      "title": "Decorated Column",
+      "latitude": 32.911198,
+      "longitude": 35.564047,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140479",
+      "photo_urls": []
+    },
+    {
+      "id": "140488",
+      "title": "The Synagogue",
+      "latitude": 32.911096,
+      "longitude": 35.564087,
+      "directions": "Near State Route 8277, near Chorazim, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140488",
+      "photo_urls": []
+    },
+    {
+      "id": "140515",
+      "title": "Domestic Housing Area",
+      "latitude": 32.826356,
+      "longitude": 35.513755,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140515",
+      "photo_urls": []
+    },
+    {
+      "id": "140867",
+      "title": "House of Miqwa'ot",
+      "latitude": 32.826351,
+      "longitude": 35.513521,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140867",
+      "photo_urls": []
+    },
+    {
+      "id": "140973",
+      "title": "House of Miqwa'ot",
+      "latitude": 32.82631,
+      "longitude": 35.513501,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140973",
+      "photo_urls": []
+    },
+    {
+      "id": "140979",
+      "title": "Discoveries at Magdala",
+      "latitude": 32.826508,
+      "longitude": 35.514325,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140979",
+      "photo_urls": []
+    },
+    {
+      "id": "140982",
+      "title": "Magdala's Hall of Fame",
+      "latitude": 32.826548,
+      "longitude": 35.513908,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140982",
+      "photo_urls": []
+    },
+    {
+      "id": "140983",
+      "title": "History of Magdala",
+      "latitude": 32.826987,
+      "longitude": 35.51325,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140983",
+      "photo_urls": []
+    },
+    {
+      "id": "141302",
+      "title": "History of Magdala",
+      "latitude": 32.826981,
+      "longitude": 35.513296,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141302",
+      "photo_urls": []
+    },
+    {
+      "id": "141363",
+      "title": "Market",
+      "latitude": 32.826687,
+      "longitude": 35.513604,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141363",
+      "photo_urls": []
+    },
+    {
+      "id": "141365",
+      "title": "\"Solomonic Gate\"",
+      "latitude": 33.017559,
+      "longitude": 35.568281,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141365",
+      "photo_urls": []
+    },
+    {
+      "id": "141372",
+      "title": "Canaanite Temple",
+      "latitude": 33.017244,
+      "longitude": 35.567962,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141372",
+      "photo_urls": []
+    },
+    {
+      "id": "141407",
+      "title": "Palace of the Canaanite Kings of Hazor",
+      "latitude": 33.016837,
+      "longitude": 35.568235,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141407",
+      "photo_urls": []
+    },
+    {
+      "id": "141414",
+      "title": "Tel Hazor National Park",
+      "latitude": 33.017595,
+      "longitude": 35.568198,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141414",
+      "photo_urls": []
+    },
+    {
+      "id": "141415",
+      "title": "Israelite Hazor",
+      "latitude": 33.017648,
+      "longitude": 35.568369,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141415",
+      "photo_urls": []
+    },
+    {
+      "id": "141417",
+      "title": "Tel Hazor - The Largest Tel in Israel",
+      "latitude": 33.01766,
+      "longitude": 35.568329,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141417",
+      "photo_urls": []
+    },
+    {
+      "id": "141421",
+      "title": "Water System",
+      "latitude": 33.016757,
+      "longitude": 35.5673,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141421",
+      "photo_urls": []
+    },
+    {
+      "id": "141422",
+      "title": "Canaanite Temple",
+      "latitude": 33.017511,
+      "longitude": 35.568059,
+      "directions": "Near Rosh Pina - Metulla Road, near Ayelet HaShahar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141422",
+      "photo_urls": []
+    },
+    {
+      "id": "141428",
+      "title": "Entrance Gate",
+      "latitude": 33.247155,
+      "longitude": 35.653337,
+      "directions": "Near Israel National Trail, near Dan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141428",
+      "photo_urls": []
+    },
+    {
+      "id": "141441",
+      "title": "The Canaanite Gate",
+      "latitude": 33.247869,
+      "longitude": 35.655016,
+      "directions": "Near Israel National Trail, near Dan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141441",
+      "photo_urls": []
+    },
+    {
+      "id": "141448",
+      "title": "The Abraham Gate",
+      "latitude": 33.247852,
+      "longitude": 35.654986,
+      "directions": "Near Israel National Trail, near Dan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141448",
+      "photo_urls": []
+    },
+    {
+      "id": "141458",
+      "title": "The Tomb Temple of the Sacred Goats",
+      "latitude": 33.248589,
+      "longitude": 35.695007,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141458",
+      "photo_urls": []
+    },
+    {
+      "id": "141468",
+      "title": "The Temple of Pan and The Dancing Goats",
+      "latitude": 33.248536,
+      "longitude": 35.694987,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141468",
+      "photo_urls": []
+    },
+    {
+      "id": "141501",
+      "title": "Gateway to Paradise",
+      "latitude": 32.50327,
+      "longitude": 35.502699,
+      "directions": "Near Sha’ul HaMelech Street (State Route 6667) , Beit She&#39;an, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141501",
+      "photo_urls": []
+    },
+    {
+      "id": "141502",
+      "title": "The Last Days of Scythopolis",
+      "latitude": 32.503613,
+      "longitude": 35.502161,
+      "directions": "Near Sha’ul HaMelech Street (State Route 6667) , Beit She&#39;an, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141502",
+      "photo_urls": []
+    },
+    {
+      "id": "141513",
+      "title": "The Splendor of the City",
+      "latitude": 32.503658,
+      "longitude": 35.502118,
+      "directions": "Near Sha’ul HaMelech Street (State Route 6667) , Beit She&#39;an, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141513",
+      "photo_urls": []
+    },
+    {
+      "id": "141528",
+      "title": "Monument / Nymphaeum / Temple",
+      "latitude": 32.503542,
+      "longitude": 35.502152,
+      "directions": "Near Sha’ul HaMelech Street (State Route 6667) , Beit She&#39;an, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141528",
+      "photo_urls": []
+    },
+    {
+      "id": "141531",
+      "title": "Cave 24",
+      "latitude": 31.768971,
+      "longitude": 35.225583,
+      "directions": "Near Sh.A. Nakhon Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141531",
+      "photo_urls": []
+    },
+    {
+      "id": "141591",
+      "title": "The Priestly Blessing",
+      "latitude": 31.769097,
+      "longitude": 35.225504,
+      "directions": "On Sh.A. Nakhon Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141591",
+      "photo_urls": []
+    },
+    {
+      "id": "141978",
+      "title": "Tombs from the First Temple Period",
+      "latitude": 31.76938,
+      "longitude": 35.225178,
+      "directions": "Near Sh.A. Nakhon Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141978",
+      "photo_urls": []
+    },
+    {
+      "id": "141985",
+      "title": "Mishkenot Sheananim",
+      "latitude": 31.771499,
+      "longitude": 35.224106,
+      "directions": "On Heinrich Heine Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141985",
+      "photo_urls": []
+    },
+    {
+      "id": "142015",
+      "title": "Achish, Ruler of Ekron",
+      "latitude": 31.77114,
+      "longitude": 35.203653,
+      "directions": "Near Ruppin Boulevard, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142015",
+      "photo_urls": []
+    },
+    {
+      "id": "146243",
+      "title": "Caesarea / &#1511;&#1497;&#1505;&#1512;&#1497;&#1492;",
+      "latitude": 32.50197118,
+      "longitude": 34.89236819,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146243",
+      "photo_urls": []
+    },
+    {
+      "id": "164466",
+      "title": "Caesarea in the Middle Ages / Crusader Fortifications",
+      "latitude": 32.5016133,
+      "longitude": 34.89251086,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164466",
+      "photo_urls": []
+    },
+    {
+      "id": "164467",
+      "title": "Caesarea: City, Harbor",
+      "latitude": 32.5015898,
+      "longitude": 34.89251341,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164467",
+      "photo_urls": []
+    },
+    {
+      "id": "164468",
+      "title": "Corinthian Capitals",
+      "latitude": 32.50155972,
+      "longitude": 34.89235518,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164468",
+      "photo_urls": []
+    },
+    {
+      "id": "164790",
+      "title": "Fragments of an Inscribed Coenice",
+      "latitude": 32.50151753,
+      "longitude": 34.8923058,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164790",
+      "photo_urls": []
+    },
+    {
+      "id": "164792",
+      "title": "Inscribed Stones / Sarcophagi",
+      "latitude": 32.50146765,
+      "longitude": 34.89185197,
+      "directions": "Near Israeli National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164792",
+      "photo_urls": []
+    },
+    {
+      "id": "164793",
+      "title": "Inscribed Sarcophagus adorned with Garlands",
+      "latitude": 32.50093306,
+      "longitude": 34.89196185,
+      "directions": "Near Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164793",
+      "photo_urls": []
+    },
+    {
+      "id": "164805",
+      "title": "Sarcophagus adorned with Rosettes",
+      "latitude": 32.50156519,
+      "longitude": 34.89124765,
+      "directions": "Near Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164805",
+      "photo_urls": []
+    },
+    {
+      "id": "164808",
+      "title": "Roman Bathhouse",
+      "latitude": 32.50289269,
+      "longitude": 34.89179312,
+      "directions": "Near Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164808",
+      "photo_urls": []
+    },
+    {
+      "id": "164810",
+      "title": "The Heart of Caesarea",
+      "latitude": 32.50202249,
+      "longitude": 34.89164523,
+      "directions": "Near Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164810",
+      "photo_urls": []
+    },
+    {
+      "id": "164813",
+      "title": "Mithraeum",
+      "latitude": 32.50303646,
+      "longitude": 34.8918963,
+      "directions": "Near Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=164813",
+      "photo_urls": []
+    },
+    {
+      "id": "166213",
+      "title": "Tavern",
+      "latitude": 32.5000064,
+      "longitude": 34.89108484,
+      "directions": "Near Israel National Trail, near Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=166213",
+      "photo_urls": []
+    },
+    {
+      "id": "166214",
+      "title": "The Bathhouse",
+      "latitude": 32.49903332,
+      "longitude": 34.89099099,
+      "directions": "On Israel National Trail, near Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=166214",
+      "photo_urls": []
+    },
+    {
+      "id": "166810",
+      "title": "Power and Control",
+      "latitude": 32.49695875,
+      "longitude": 34.89025974,
+      "directions": "On Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=166810",
+      "photo_urls": []
+    },
+    {
+      "id": "199101",
+      "title": "Jerusalem in the Second Temple Period",
+      "latitude": 31.77326699,
+      "longitude": 35.20248805,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199101",
+      "photo_urls": []
+    },
+    {
+      "id": "199103",
+      "title": "The Shrine of the Book",
+      "latitude": 31.7731839,
+      "longitude": 35.2030867,
+      "directions": "On , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199103",
+      "photo_urls": []
+    },
+    {
+      "id": "209610",
+      "title": "The First Jewish Hostel in Jaffa",
+      "latitude": 32.053422,
+      "longitude": 34.751263,
+      "directions": "On the Pisces (Fish) Street, Tel Aviv-Yafo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209610",
+      "photo_urls": []
+    },
+    {
+      "id": "211271",
+      "title": "&#1489;&#1497;&#1514; &#1490;&#1493;&#1500;&#1491;&#1513;&#1502;&#1497;&#1491; / Goldsmith House",
+      "latitude": 31.77750556,
+      "longitude": 35.21629444,
+      "directions": "On Ha-Rav Avida Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211271",
+      "photo_urls": []
+    },
+    {
+      "id": "219011",
+      "title": "Jerusalem Hotel",
+      "latitude": 31.78424741,
+      "longitude": 35.22869658,
+      "directions": "On Antar Ben Shaddad, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219011",
+      "photo_urls": []
+    },
+    {
+      "id": "219013",
+      "title": "The Murder of Yig'al Shahaf",
+      "latitude": 31.77928707,
+      "longitude": 35.23080944,
+      "directions": "On Beit HaBad Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219013",
+      "photo_urls": []
+    },
+    {
+      "id": "219017",
+      "title": "Souk Khan al-Zeit Street",
+      "latitude": 31.77928961,
+      "longitude": 35.23080863,
+      "directions": "On Beit HaBad Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219017",
+      "photo_urls": []
+    },
+    {
+      "id": "219019",
+      "title": "Al-Khanqah al-Salahiyya",
+      "latitude": 31.77900692,
+      "longitude": 35.22945326,
+      "directions": "On Nitrate Al Ali, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219019",
+      "photo_urls": []
+    },
+    {
+      "id": "219032",
+      "title": "Jaffa Gate / &#1513;&#1506;&#1512; &#1497;&#1508;&#1493;",
+      "latitude": 31.77661319,
+      "longitude": 35.22769852,
+      "directions": "On Al Batriarkeya Al Armaneya, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219032",
+      "photo_urls": []
+    },
+    {
+      "id": "219040",
+      "title": "Tomb Complex",
+      "latitude": 31.77481858,
+      "longitude": 35.22768319,
+      "directions": "On Omar Ben el-Khatab Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219040",
+      "photo_urls": []
+    },
+    {
+      "id": "219046",
+      "title": "Suleiman the Magnificent Wall",
+      "latitude": 31.77413245,
+      "longitude": 35.22748737,
+      "directions": "On Felt Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219046",
+      "photo_urls": []
+    },
+    {
+      "id": "219048",
+      "title": "Etched in Stone - The Wall Builders",
+      "latitude": 31.77443435,
+      "longitude": 35.22749122,
+      "directions": "On Felt Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219048",
+      "photo_urls": []
+    },
+    {
+      "id": "219049",
+      "title": "Periods of the City on a Section of Wall",
+      "latitude": 31.77446135,
+      "longitude": 35.22757752,
+      "directions": "On Felt Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219049",
+      "photo_urls": []
+    },
+    {
+      "id": "219050",
+      "title": "The City Wall in the Second Temple Period",
+      "latitude": 31.77366415,
+      "longitude": 35.22741957,
+      "directions": "On Hativat Etsyoni Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219050",
+      "photo_urls": []
+    },
+    {
+      "id": "219053",
+      "title": "The \"Hidden\" Gate",
+      "latitude": 31.77355482,
+      "longitude": 35.22774001,
+      "directions": "On , Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219053",
+      "photo_urls": []
+    },
+    {
+      "id": "219054",
+      "title": "A \"Guard Tower\" (the Middle Ages)",
+      "latitude": 31.77318394,
+      "longitude": 35.22757687,
+      "directions": "On , Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219054",
+      "photo_urls": []
+    },
+    {
+      "id": "219055",
+      "title": "The Mount Zion Trench",
+      "latitude": 31.77129342,
+      "longitude": 35.22681241,
+      "directions": "On Hativat Yerushalayim Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219055",
+      "photo_urls": []
+    },
+    {
+      "id": "219057",
+      "title": "Jerusalem Walls National Park",
+      "latitude": 31.77013742,
+      "longitude": 35.22952888,
+      "directions": "On Ma&#39;ale HaShalom Street, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219057",
+      "photo_urls": []
+    },
+    {
+      "id": "219058",
+      "title": "Tribute to Poles who died on the way to their homeland in the years after WWII and after",
+      "latitude": 31.77013776,
+      "longitude": 35.23068721,
+      "directions": "Near Malki Tsedek Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219058",
+      "photo_urls": []
+    },
+    {
+      "id": "219060",
+      "title": "Zion Gate",
+      "latitude": 31.77284365,
+      "longitude": 35.22972375,
+      "directions": "On Zion Gate, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219060",
+      "photo_urls": []
+    },
+    {
+      "id": "219069",
+      "title": "Western Cardo",
+      "latitude": 31.77504043,
+      "longitude": 35.23097098,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219069",
+      "photo_urls": []
+    },
+    {
+      "id": "219070",
+      "title": "Maimaran Brothers",
+      "latitude": 31.77482176,
+      "longitude": 35.23103483,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219070",
+      "photo_urls": []
+    },
+    {
+      "id": "219114",
+      "title": "Architectural elements of public buildings",
+      "latitude": 31.77500229,
+      "longitude": 35.23105378,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219114",
+      "photo_urls": []
+    },
+    {
+      "id": "219118",
+      "title": "The Hurva Synagogue",
+      "latitude": 31.77543174,
+      "longitude": 35.23108807,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219118",
+      "photo_urls": []
+    },
+    {
+      "id": "219121",
+      "title": "Female Entrepreneurship in the Jewish Quarter",
+      "latitude": 31.77551286,
+      "longitude": 35.2311015,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219121",
+      "photo_urls": []
+    },
+    {
+      "id": "219150",
+      "title": "The Ashkenazi courtyard",
+      "latitude": 31.77556408,
+      "longitude": 35.23112324,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219150",
+      "photo_urls": []
+    },
+    {
+      "id": "219151",
+      "title": "Memorial Room Commemorating the Victims of the Jewish Quarter",
+      "latitude": 31.77544207,
+      "longitude": 35.2311302,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219151",
+      "photo_urls": []
+    },
+    {
+      "id": "219153",
+      "title": "The Burnt House - Katros House",
+      "latitude": 31.77557212,
+      "longitude": 35.23257626,
+      "directions": "Near Misgav Ladakh Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219153",
+      "photo_urls": []
+    },
+    {
+      "id": "219155",
+      "title": "Porat Yosef Yeshiva",
+      "latitude": 31.77536947,
+      "longitude": 35.23343581,
+      "directions": "Near Batei Mahase Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219155",
+      "photo_urls": []
+    },
+    {
+      "id": "219171",
+      "title": "The Lower Aqueduct",
+      "latitude": 31.7756695,
+      "longitude": 35.23346219,
+      "directions": "Near HaTamid Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219171",
+      "photo_urls": []
+    },
+    {
+      "id": "219237",
+      "title": "Remains of Jerusalem's main street from the Second Temple period",
+      "latitude": 31.77565572,
+      "longitude": 35.23457882,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219237",
+      "photo_urls": []
+    },
+    {
+      "id": "219238",
+      "title": "\"to the place of trumpeting to...\"",
+      "latitude": 31.77565472,
+      "longitude": 35.23456279,
+      "directions": "Near Prodi, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219238",
+      "photo_urls": []
+    },
+    {
+      "id": "219239",
+      "title": "Western Springer of Robinson's Arch",
+      "latitude": 31.77572886,
+      "longitude": 35.23456737,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219239",
+      "photo_urls": []
+    },
+    {
+      "id": "219240",
+      "title": "\"and you shall see and your heart shall rejoice and their bones like grass shall...\"",
+      "latitude": 31.77584012,
+      "longitude": 35.23453498,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219240",
+      "photo_urls": []
+    },
+    {
+      "id": "219242",
+      "title": "Stones from the western wall of the Temple Mount enclosure",
+      "latitude": 31.77605727,
+      "longitude": 35.23451179,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219242",
+      "photo_urls": []
+    },
+    {
+      "id": "219244",
+      "title": "A Medieval Structure",
+      "latitude": 31.77557046,
+      "longitude": 35.23548609,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219244",
+      "photo_urls": []
+    },
+    {
+      "id": "219245",
+      "title": "Residential building from Byzantine Period",
+      "latitude": 31.77554411,
+      "longitude": 35.2355694,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219245",
+      "photo_urls": []
+    },
+    {
+      "id": "219246",
+      "title": "Remains of the east wall of the Umayyad Palace",
+      "latitude": 31.77543305,
+      "longitude": 35.23567513,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219246",
+      "photo_urls": []
+    },
+    {
+      "id": "219248",
+      "title": "The Ophel Mikveh Trail",
+      "latitude": 31.7754573,
+      "longitude": 35.23576185,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219248",
+      "photo_urls": []
+    },
+    {
+      "id": "219311",
+      "title": "The Hulda Gates",
+      "latitude": 31.77558369,
+      "longitude": 35.2359409,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219311",
+      "photo_urls": []
+    },
+    {
+      "id": "219312",
+      "title": "The Stepped Mikveh",
+      "latitude": 31.77555497,
+      "longitude": 35.23594017,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219312",
+      "photo_urls": []
+    },
+    {
+      "id": "219313",
+      "title": "An open public space was created on the Ophel ascent",
+      "latitude": 31.77562972,
+      "longitude": 35.23601423,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219313",
+      "photo_urls": []
+    },
+    {
+      "id": "219321",
+      "title": "The Eastern Huldah Gate",
+      "latitude": 31.77593633,
+      "longitude": 35.2365476,
+      "directions": "On , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219321",
+      "photo_urls": []
+    },
+    {
+      "id": "219340",
+      "title": "Preserved buildings of the First Temple Period (tenth-sixth centuries BCE)",
+      "latitude": 31.77531158,
+      "longitude": 35.2368364,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219340",
+      "photo_urls": []
+    },
+    {
+      "id": "219345",
+      "title": "Meeting place of three fortification elements",
+      "latitude": 31.77530781,
+      "longitude": 35.23700582,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219345",
+      "photo_urls": []
+    },
+    {
+      "id": "219645",
+      "title": "A large cistern that dates back to the Second Temple period",
+      "latitude": 31.77533082,
+      "longitude": 35.2367709,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219645",
+      "photo_urls": []
+    },
+    {
+      "id": "219648",
+      "title": "A stepped ritual bath in the ground floor of a building",
+      "latitude": 31.7752303,
+      "longitude": 35.23669838,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219648",
+      "photo_urls": []
+    },
+    {
+      "id": "219650",
+      "title": "Twelve large clay store jars",
+      "latitude": 31.77523415,
+      "longitude": 35.23670382,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219650",
+      "photo_urls": []
+    },
+    {
+      "id": "219806",
+      "title": "The Gate House",
+      "latitude": 31.77504498,
+      "longitude": 35.23657248,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219806",
+      "photo_urls": []
+    },
+    {
+      "id": "219809",
+      "title": "A Stepped Ritual Bath",
+      "latitude": 31.7750882,
+      "longitude": 35.23648904,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219809",
+      "photo_urls": []
+    },
+    {
+      "id": "219811",
+      "title": "Two superposed vaulted rooms",
+      "latitude": 31.7750057,
+      "longitude": 35.23655691,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219811",
+      "photo_urls": []
+    },
+    {
+      "id": "219816",
+      "title": "Structures from First Temple period, Second Temple period, and Byzantine period",
+      "latitude": 31.77508176,
+      "longitude": 35.23654488,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219816",
+      "photo_urls": []
+    },
+    {
+      "id": "219818",
+      "title": "Massive Piers",
+      "latitude": 31.77531819,
+      "longitude": 35.23664684,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219818",
+      "photo_urls": []
+    },
+    {
+      "id": "219819",
+      "title": "Buildings along the fortification line",
+      "latitude": 31.77534079,
+      "longitude": 35.23616489,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219819",
+      "photo_urls": []
+    },
+    {
+      "id": "219824",
+      "title": "Rules for Immersion",
+      "latitude": 31.77527285,
+      "longitude": 35.23617626,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219824",
+      "photo_urls": []
+    },
+    {
+      "id": "219829",
+      "title": "The Ophel <i>Mikveh</i> Trail",
+      "latitude": 31.77508923,
+      "longitude": 35.23583525,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219829",
+      "photo_urls": []
+    },
+    {
+      "id": "219876",
+      "title": "Rock-hewn cistern with hydraulic plaster",
+      "latitude": 31.77525139,
+      "longitude": 35.23586805,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219876",
+      "photo_urls": []
+    },
+    {
+      "id": "219884",
+      "title": "\"Neverless the fountain or a cistern wherein is a gathering of water shall be clean\"",
+      "latitude": 31.77530578,
+      "longitude": 35.23587192,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219884",
+      "photo_urls": []
+    },
+    {
+      "id": "219886",
+      "title": "Religious Rules of Ritual Purification Baths",
+      "latitude": 31.77533747,
+      "longitude": 35.23576602,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219886",
+      "photo_urls": []
+    },
+    {
+      "id": "219887",
+      "title": "Household Vessels - purity and impurity",
+      "latitude": 31.77533519,
+      "longitude": 35.23577139,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219887",
+      "photo_urls": []
+    },
+    {
+      "id": "219888",
+      "title": "\"Happy are the inhabitants of this house\"",
+      "latitude": 31.77542267,
+      "longitude": 35.23568953,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219888",
+      "photo_urls": []
+    },
+    {
+      "id": "219890",
+      "title": "\"Purity has spread in Israel\"",
+      "latitude": 31.77544216,
+      "longitude": 35.23570106,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219890",
+      "photo_urls": []
+    },
+    {
+      "id": "219892",
+      "title": "\"The path back...may be deemed clean\"",
+      "latitude": 31.7754378,
+      "longitude": 35.23567483,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219892",
+      "photo_urls": []
+    },
+    {
+      "id": "219893",
+      "title": "A Ritual Bath",
+      "latitude": 31.77583276,
+      "longitude": 35.23429879,
+      "directions": "Near , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219893",
+      "photo_urls": []
+    },
+    {
+      "id": "219894",
+      "title": "Rock-cut channels",
+      "latitude": 31.77573035,
+      "longitude": 35.23611124,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219894",
+      "photo_urls": []
+    },
+    {
+      "id": "219896",
+      "title": "The Western Huldah Gate",
+      "latitude": 31.7756556,
+      "longitude": 35.23587653,
+      "directions": "Near Derekh Ha&#39;ophel Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219896",
+      "photo_urls": []
+    },
+    {
+      "id": "219898",
+      "title": "Dung Gate",
+      "latitude": 31.77484363,
+      "longitude": 35.23412057,
+      "directions": "On Wadi Hilweh Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219898",
+      "photo_urls": []
+    },
+    {
+      "id": "219963",
+      "title": "\"Mahanayim\" House (Frutiger House)",
+      "latitude": 31.78374721,
+      "longitude": 35.22471147,
+      "directions": "On Shivtei Israel Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219963",
+      "photo_urls": []
+    },
+    {
+      "id": "219969",
+      "title": "Salesian Catholic School",
+      "latitude": 31.78376347,
+      "longitude": 35.22464137,
+      "directions": "On Shivtei Israel Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219969",
+      "photo_urls": []
+    },
+    {
+      "id": "219971",
+      "title": "Shalhevet-Ya (Finnish Hostel)",
+      "latitude": 31.78341642,
+      "longitude": 35.22447753,
+      "directions": "On Shivtei Israel Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219971",
+      "photo_urls": []
+    },
+    {
+      "id": "219972",
+      "title": "House of the Empress Taitu",
+      "latitude": 31.78291849,
+      "longitude": 35.22405641,
+      "directions": "On Heleni ha-Malka Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219972",
+      "photo_urls": []
+    },
+    {
+      "id": "219993",
+      "title": "Sergei Compound",
+      "latitude": 31.78285177,
+      "longitude": 35.22220956,
+      "directions": "On Monbaz Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219993",
+      "photo_urls": []
+    },
+    {
+      "id": "220003",
+      "title": "Northern Gate of the Russian Compound",
+      "latitude": 31.7824274,
+      "longitude": 35.22238513,
+      "directions": "On Heleni ha-Malka Street, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220003",
+      "photo_urls": []
+    },
+    {
+      "id": "220086",
+      "title": "Generali Building",
+      "latitude": 31.78064881,
+      "longitude": 35.22154997,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220086",
+      "photo_urls": []
+    },
+    {
+      "id": "220087",
+      "title": "Explosion at the Police and C.I.D. HQ",
+      "latitude": 31.78100224,
+      "longitude": 35.2212446,
+      "directions": "On Jaffa Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220087",
+      "photo_urls": []
+    },
+    {
+      "id": "220088",
+      "title": "Operation \"Pitchfork\"",
+      "latitude": 31.78099603,
+      "longitude": 35.2212567,
+      "directions": "On Jaffa Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220088",
+      "photo_urls": []
+    },
+    {
+      "id": "220089",
+      "title": "Feingold House",
+      "latitude": 31.78114573,
+      "longitude": 35.22090646,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220089",
+      "photo_urls": []
+    },
+    {
+      "id": "220092",
+      "title": "Israel Dov Frumkin",
+      "latitude": 31.78192972,
+      "longitude": 35.21994734,
+      "directions": "On HaHavatselet Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220092",
+      "photo_urls": []
+    },
+    {
+      "id": "220093",
+      "title": "\"Alba\" Pharmacy founded 1924",
+      "latitude": 31.78192999,
+      "longitude": 35.21995928,
+      "directions": "On HaHavatselet Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220093",
+      "photo_urls": []
+    },
+    {
+      "id": "220095",
+      "title": "Tel Aviv - Ron Hotel",
+      "latitude": 31.78213274,
+      "longitude": 35.21957398,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220095",
+      "photo_urls": []
+    },
+    {
+      "id": "220096",
+      "title": "Sansour Building",
+      "latitude": 31.78199761,
+      "longitude": 35.21932324,
+      "directions": "On Jaffa Street, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220096",
+      "photo_urls": []
+    },
+    {
+      "id": "220097",
+      "title": "The Attack on Ben Yehuda Street",
+      "latitude": 31.78150341,
+      "longitude": 35.21744887,
+      "directions": "On Ben Yehuda Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220097",
+      "photo_urls": []
+    },
+    {
+      "id": "220098",
+      "title": "Even Yisrael Neighborhood",
+      "latitude": 31.7831233,
+      "longitude": 35.21609143,
+      "directions": "On Agripas Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220098",
+      "photo_urls": []
+    },
+    {
+      "id": "220099",
+      "title": "Saidoff Complex",
+      "latitude": 31.78658652,
+      "longitude": 35.21000539,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220099",
+      "photo_urls": []
+    },
+    {
+      "id": "220100",
+      "title": "Shaare Zedek-Wallach Hospital",
+      "latitude": 31.78691906,
+      "longitude": 35.20838961,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220100",
+      "photo_urls": []
+    },
+    {
+      "id": "220102",
+      "title": "The Sephardi Old-Age Home",
+      "latitude": 31.78768178,
+      "longitude": 35.20746106,
+      "directions": "On Jaffa Street, Jerusalem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220102",
+      "photo_urls": []
+    },
+    {
+      "id": "220103",
+      "title": "Issa Musa Houses",
+      "latitude": 31.78883352,
+      "longitude": 35.2042374,
+      "directions": "On Jaffa Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220103",
+      "photo_urls": []
+    },
+    {
+      "id": "220104",
+      "title": "Government Vehicles Compound",
+      "latitude": 31.78867291,
+      "longitude": 35.20390259,
+      "directions": "On Jaffa Street, Jerusalem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220104",
+      "photo_urls": []
+    },
+    {
+      "id": "220105",
+      "title": "Etz Haim Neighborhood",
+      "latitude": 31.78899941,
+      "longitude": 35.20031795,
+      "directions": "On Herzl Blvd, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220105",
+      "photo_urls": []
+    },
+    {
+      "id": "220110",
+      "title": "The Dajani Cemetery on Mount Zion",
+      "latitude": 31.77177561,
+      "longitude": 35.22968743,
+      "directions": "On Ma&#39;ale Shazkh Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220110",
+      "photo_urls": []
+    },
+    {
+      "id": "220111",
+      "title": "King David's Tomb",
+      "latitude": 31.77161706,
+      "longitude": 35.22945825,
+      "directions": "Near Ma&#39;ale Shazkh Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220111",
+      "photo_urls": []
+    },
+    {
+      "id": "220113",
+      "title": "Room of the Last Supper",
+      "latitude": 31.77201853,
+      "longitude": 35.22921819,
+      "directions": "Near Har Tsiyon Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220113",
+      "photo_urls": []
+    },
+    {
+      "id": "220115",
+      "title": "King David's Tomb",
+      "latitude": 31.77178788,
+      "longitude": 35.22943407,
+      "directions": "Near Har Tsiyon Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220115",
+      "photo_urls": []
+    },
+    {
+      "id": "220117",
+      "title": "Hayei Olam (Eternal Life) Yeshiva",
+      "latitude": 31.77554848,
+      "longitude": 35.23347534,
+      "directions": "Near HaTamid Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220117",
+      "photo_urls": []
+    },
+    {
+      "id": "220119",
+      "title": "St. Mary's Hospice of the German Knights",
+      "latitude": 31.77553385,
+      "longitude": 35.23282492,
+      "directions": "On Misgav Ladakh Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220119",
+      "photo_urls": []
+    },
+    {
+      "id": "220120",
+      "title": "The Crusader Market",
+      "latitude": 31.77557245,
+      "longitude": 35.2327242,
+      "directions": "On Misgav Ladakh Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220120",
+      "photo_urls": []
+    },
+    {
+      "id": "220135",
+      "title": "Jerusalem's Architectural Tradition",
+      "latitude": 31.7750261,
+      "longitude": 35.23105455,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220135",
+      "photo_urls": []
+    },
+    {
+      "id": "220137",
+      "title": "Architectural elements from the Jewish Quarter",
+      "latitude": 31.7750278,
+      "longitude": 35.23103059,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220137",
+      "photo_urls": []
+    },
+    {
+      "id": "220138",
+      "title": "Moshe Rusnak Plaza",
+      "latitude": 31.77509566,
+      "longitude": 35.23105276,
+      "directions": "On Ha-Yehudim Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220138",
+      "photo_urls": []
+    },
+    {
+      "id": "220140",
+      "title": "Western Cardo",
+      "latitude": 31.77514947,
+      "longitude": 35.23078859,
+      "directions": "On Habad Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220140",
+      "photo_urls": []
+    },
+    {
+      "id": "220142",
+      "title": "Ha-Ari & Or Ha-Haim Synagogues",
+      "latitude": 31.77527313,
+      "longitude": 35.2302487,
+      "directions": "On Or HaHayim Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220142",
+      "photo_urls": []
+    },
+    {
+      "id": "220144",
+      "title": "Temporary prison where detained Jewish underground forces were questioned",
+      "latitude": 31.77568298,
+      "longitude": 35.22856189,
+      "directions": "On The Armenian Patriarchate Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220144",
+      "photo_urls": []
+    },
+    {
+      "id": "220145",
+      "title": "The Kishle",
+      "latitude": 31.77568656,
+      "longitude": 35.22851082,
+      "directions": "On The Armenian Patriarchate Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220145",
+      "photo_urls": []
+    },
+    {
+      "id": "220146",
+      "title": "Sisters of Notre Dame de Sion",
+      "latitude": 31.78033113,
+      "longitude": 35.23347722,
+      "directions": "On Via Dolorosa Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220146",
+      "photo_urls": []
+    },
+    {
+      "id": "220147",
+      "title": "Rehavam Observation Point",
+      "latitude": 31.77601617,
+      "longitude": 35.2429454,
+      "directions": "Near Seven Arches, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220147",
+      "photo_urls": []
+    },
+    {
+      "id": "220148",
+      "title": "Bikur Holim Hospital",
+      "latitude": 31.78403236,
+      "longitude": 35.21837175,
+      "directions": "On Natan Strauss Street, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220148",
+      "photo_urls": []
+    },
+    {
+      "id": "220151",
+      "title": "Physicians House",
+      "latitude": 31.78451037,
+      "longitude": 35.21855326,
+      "directions": "On Natan Strauss Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220151",
+      "photo_urls": []
+    },
+    {
+      "id": "220152",
+      "title": "St. Joseph Convent",
+      "latitude": 31.78425478,
+      "longitude": 35.21937277,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220152",
+      "photo_urls": []
+    },
+    {
+      "id": "220155",
+      "title": "Hunt House",
+      "latitude": 31.78415766,
+      "longitude": 35.21985727,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220155",
+      "photo_urls": []
+    },
+    {
+      "id": "220156",
+      "title": "Pediatrician Helena Kagan",
+      "latitude": 31.78416422,
+      "longitude": 35.21989533,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220156",
+      "photo_urls": []
+    },
+    {
+      "id": "220158",
+      "title": "The Benjamin Hostel (Yad Sarah)",
+      "latitude": 31.78398205,
+      "longitude": 35.22019118,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220158",
+      "photo_urls": []
+    },
+    {
+      "id": "220161",
+      "title": "Rothschild Hospital",
+      "latitude": 31.78368658,
+      "longitude": 35.22130592,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220161",
+      "photo_urls": []
+    },
+    {
+      "id": "220162",
+      "title": "First Hadassah Hospital in Palestine",
+      "latitude": 31.78365797,
+      "longitude": 35.22130635,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220162",
+      "photo_urls": []
+    },
+    {
+      "id": "220163",
+      "title": "Tabor Home",
+      "latitude": 31.78399234,
+      "longitude": 35.22047922,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220163",
+      "photo_urls": []
+    },
+    {
+      "id": "220171",
+      "title": "Escape of \"Eldad\"",
+      "latitude": 31.78374572,
+      "longitude": 35.22197192,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220171",
+      "photo_urls": []
+    },
+    {
+      "id": "220173",
+      "title": "US Consulate Residence",
+      "latitude": 31.78374132,
+      "longitude": 35.22194079,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220173",
+      "photo_urls": []
+    },
+    {
+      "id": "220174",
+      "title": "The Marienstift Children's Hospital 1872-1899",
+      "latitude": 31.78372875,
+      "longitude": 35.22262395,
+      "directions": "On Ha-Nevi&#39;im Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220174",
+      "photo_urls": []
+    },
+    {
+      "id": "220180",
+      "title": "Azzahra Hotel-Dakkak House",
+      "latitude": 31.78620094,
+      "longitude": 35.23318757,
+      "directions": "On Al Zahra, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220180",
+      "photo_urls": []
+    },
+    {
+      "id": "220181",
+      "title": "UNC Charlotte",
+      "latitude": 31.77278097,
+      "longitude": 35.23113305,
+      "directions": "On , Jerusalem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220181",
+      "photo_urls": []
+    },
+    {
+      "id": "220185",
+      "title": "Fr. Etienne Boubet, assumptionist, (1865-1934)",
+      "latitude": 31.77103888,
+      "longitude": 35.2319276,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220185",
+      "photo_urls": []
+    },
+    {
+      "id": "220187",
+      "title": "Fr. Jean-Roger Hene, assumptionist, (1918-1979)",
+      "latitude": 31.77103989,
+      "longitude": 35.2319336,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220187",
+      "photo_urls": []
+    },
+    {
+      "id": "220189",
+      "title": "Tomb of French Pilgrims / Caveau des Pèlerins Francais",
+      "latitude": 31.77104398,
+      "longitude": 35.23192499,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220189",
+      "photo_urls": []
+    },
+    {
+      "id": "220191",
+      "title": "Count Amedee de Piellat (1852-1925)",
+      "latitude": 31.77104257,
+      "longitude": 35.23191547,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220191",
+      "photo_urls": []
+    },
+    {
+      "id": "220194",
+      "title": "Two religious communities welcome you in Saint Peter in Gallicantu",
+      "latitude": 31.77126154,
+      "longitude": 35.23182874,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220194",
+      "photo_urls": []
+    },
+    {
+      "id": "220197",
+      "title": "1882 First pilgrimage of repentance / 1882, premier pèlerinage de pénitence",
+      "latitude": 31.77126174,
+      "longitude": 35.2318325,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220197",
+      "photo_urls": []
+    },
+    {
+      "id": "220200",
+      "title": "The enigma of QORBAN / L'énigme du QORBAN",
+      "latitude": 31.77119924,
+      "longitude": 35.23185566,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220200",
+      "photo_urls": []
+    },
+    {
+      "id": "220201",
+      "title": "\"Be careful, because it's QORBAN.\"",
+      "latitude": 31.77120139,
+      "longitude": 35.23185305,
+      "directions": "On Malki Tsedek Street, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220201",
+      "photo_urls": []
+    },
+    {
+      "id": "220236",
+      "title": "Sabil",
+      "latitude": 31.78087826,
+      "longitude": 35.23681223,
+      "directions": "On Lion&#39;s Gate Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220236",
+      "photo_urls": []
+    },
+    {
+      "id": "220239",
+      "title": "The White Fathers / Les Peres Blancs",
+      "latitude": 31.78083947,
+      "longitude": 35.23644759,
+      "directions": "Near Lion&#39;s Gate Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220239",
+      "photo_urls": []
+    },
+    {
+      "id": "220243",
+      "title": "Lions' Gate / &#1513;&#1506;&#1512; &#1492;&#1488;&#1512;&#1497;&#1493;&#1514;",
+      "latitude": 31.78083699,
+      "longitude": 35.23695472,
+      "directions": "On Lion&#39;s Gate Street, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220243",
+      "photo_urls": []
+    },
+    {
+      "id": "220251",
+      "title": "Masada has been inscribed on the World Heritage List",
+      "latitude": 31.31657802,
+      "longitude": 35.35469484,
+      "directions": "Near , Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220251",
+      "photo_urls": []
+    },
+    {
+      "id": "220303",
+      "title": "The Upper Terrace",
+      "latitude": 31.31798123,
+      "longitude": 35.35403041,
+      "directions": "Near , Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220303",
+      "photo_urls": []
+    },
+    {
+      "id": "220304",
+      "title": "The Northern Palace",
+      "latitude": 31.31800832,
+      "longitude": 35.35417311,
+      "directions": "Near State Route 3199, Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220304",
+      "photo_urls": []
+    },
+    {
+      "id": "220341",
+      "title": "How can one survive here?",
+      "latitude": 31.31748301,
+      "longitude": 35.35423876,
+      "directions": "Near , Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220341",
+      "photo_urls": []
+    },
+    {
+      "id": "220352",
+      "title": "Life in a fortified palace",
+      "latitude": 31.31711989,
+      "longitude": 35.35433462,
+      "directions": "Near State Route 3199, Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220352",
+      "photo_urls": []
+    },
+    {
+      "id": "220357",
+      "title": "The \"Commandant's Headquarters\"",
+      "latitude": 31.31695759,
+      "longitude": 35.35440766,
+      "directions": "Near State Route 3199, Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220357",
+      "photo_urls": []
+    },
+    {
+      "id": "220358",
+      "title": "The Commandant's Residence",
+      "latitude": 31.31700657,
+      "longitude": 35.35435529,
+      "directions": "Near State Route 3199, Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220358",
+      "photo_urls": []
+    },
+    {
+      "id": "220359",
+      "title": "The Snake Path Gate",
+      "latitude": 31.31666952,
+      "longitude": 35.35458927,
+      "directions": "Near State Route 3199, Metsada, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220359",
+      "photo_urls": []
+    },
+    {
+      "id": "220373",
+      "title": "Convent St. Étienne École Biblique",
+      "latitude": 31.78473029,
+      "longitude": 35.22896098,
+      "directions": "On Nablus Road, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220373",
+      "photo_urls": []
+    },
+    {
+      "id": "220390",
+      "title": "The Migdal Synagogue",
+      "latitude": 32.82701802,
+      "longitude": 35.51346722,
+      "directions": "Near State Route 90, Migdal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220390",
+      "photo_urls": []
+    },
+    {
+      "id": "220391",
+      "title": "House of Miqwa'ot",
+      "latitude": 32.826425,
+      "longitude": 35.513706,
+      "directions": "On State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220391",
+      "photo_urls": []
+    },
+    {
+      "id": "220392",
+      "title": "House of Miqwa'ot",
+      "latitude": 32.826395,
+      "longitude": 35.513693,
+      "directions": "Near State Route 90, near Migdal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220392",
+      "photo_urls": []
+    },
+    {
+      "id": "220401",
+      "title": "Production and Housing Area I",
+      "latitude": 32.82622731,
+      "longitude": 35.5145811,
+      "directions": "Near State Route 90, Migdal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220401",
+      "photo_urls": []
+    },
+    {
+      "id": "220402",
+      "title": "Production and Housing Area II",
+      "latitude": 32.82623252,
+      "longitude": 35.51453379,
+      "directions": "Near State Route 90, Migdal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220402",
+      "photo_urls": []
+    },
+    {
+      "id": "221164",
+      "title": "Palladius Street",
+      "latitude": 32.50188396,
+      "longitude": 35.50150104,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221164",
+      "photo_urls": []
+    },
+    {
+      "id": "221166",
+      "title": "The Sigma / &#1492;&#1505;&#1497;&#1490;&#1502;&#1492;",
+      "latitude": 32.50256823,
+      "longitude": 35.50187094,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221166",
+      "photo_urls": []
+    },
+    {
+      "id": "221167",
+      "title": "The Agora / &#1492;&#1488;&#1490;&#1493;&#1512;&#1492;",
+      "latitude": 32.50214569,
+      "longitude": 35.5020137,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221167",
+      "photo_urls": []
+    },
+    {
+      "id": "221169",
+      "title": "A Public Latrine in Bet-She'an",
+      "latitude": 32.50156234,
+      "longitude": 35.50249515,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221169",
+      "photo_urls": []
+    },
+    {
+      "id": "221171",
+      "title": "Cultic Area",
+      "latitude": 32.50152909,
+      "longitude": 35.50243013,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221171",
+      "photo_urls": []
+    },
+    {
+      "id": "221172",
+      "title": "Theatres",
+      "latitude": 32.50115351,
+      "longitude": 35.50164992,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221172",
+      "photo_urls": []
+    },
+    {
+      "id": "221173",
+      "title": "Performances at the theatre",
+      "latitude": 32.50115209,
+      "longitude": 35.50158692,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221173",
+      "photo_urls": []
+    },
+    {
+      "id": "221176",
+      "title": "The theatre of Beth-Shean (Scythopolis)",
+      "latitude": 32.50115241,
+      "longitude": 35.50153434,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221176",
+      "photo_urls": []
+    },
+    {
+      "id": "221177",
+      "title": "The Theatre / &#1492;&#1514;&#1497;&#1488;&#1496;&#1512;&#1493;&#1503;",
+      "latitude": 32.50127998,
+      "longitude": 35.50110556,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221177",
+      "photo_urls": []
+    },
+    {
+      "id": "221181",
+      "title": "Down the Centuries in Bet-She'an",
+      "latitude": 32.50097866,
+      "longitude": 35.50053528,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221181",
+      "photo_urls": []
+    },
+    {
+      "id": "221182",
+      "title": "Bet She'an historical highlights",
+      "latitude": 32.50094875,
+      "longitude": 35.50057554,
+      "directions": "Near , Beit She&#39;an, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221182",
+      "photo_urls": []
+    },
+    {
+      "id": "221184",
+      "title": "The Memorial Church of St. Peter",
+      "latitude": 32.88044587,
+      "longitude": 35.57527702,
+      "directions": "Near , Capernaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221184",
+      "photo_urls": []
+    },
+    {
+      "id": "221192",
+      "title": "Capharnaum",
+      "latitude": 32.88043316,
+      "longitude": 35.57526429,
+      "directions": "Near State Route 87, Capernaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221192",
+      "photo_urls": []
+    },
+    {
+      "id": "221195",
+      "title": "Sea of Galilee",
+      "latitude": 32.88008529,
+      "longitude": 35.57496762,
+      "directions": "Near State Route 87, Capernaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221195",
+      "photo_urls": []
+    },
+    {
+      "id": "221198",
+      "title": "Excavations in Capharnaum",
+      "latitude": 32.88055662,
+      "longitude": 35.57487221,
+      "directions": "Near , Capernaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221198",
+      "photo_urls": []
+    },
+    {
+      "id": "221201",
+      "title": "Blessing of Bronze Doors in memory of John Paul II's pilgrimage to Tabgha",
+      "latitude": 32.87180149,
+      "longitude": 35.55035031,
+      "directions": "Near , Tabgha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221201",
+      "photo_urls": []
+    },
+    {
+      "id": "221206",
+      "title": "Rabbi Yochanan ben Zakkai",
+      "latitude": 32.78990884,
+      "longitude": 35.53738204,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221206",
+      "photo_urls": []
+    },
+    {
+      "id": "221218",
+      "title": "Rabbi Eliezer ben Hyrkanos",
+      "latitude": 32.78990979,
+      "longitude": 35.53738311,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221218",
+      "photo_urls": []
+    },
+    {
+      "id": "221220",
+      "title": "Rabbi Ammi and Rabbi Assi",
+      "latitude": 32.78991628,
+      "longitude": 35.53738724,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221220",
+      "photo_urls": []
+    },
+    {
+      "id": "221223",
+      "title": "The Holy Shlah / &#1492;&#1513;&#1500;\"&#1492; &#1492;&#1511;&#1491;&#1493;&#1513;",
+      "latitude": 32.79008024,
+      "longitude": 35.53741035,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221223",
+      "photo_urls": []
+    },
+    {
+      "id": "221396",
+      "title": "Rabbi David Hanagid, Grandson of Maimonides",
+      "latitude": 32.79008859,
+      "longitude": 35.53742713,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221396",
+      "photo_urls": []
+    },
+    {
+      "id": "221398",
+      "title": "The Rambam (Maimonides) / &#1492;&#1512;&#1502;&#1489;\"&#1501;",
+      "latitude": 32.79008169,
+      "longitude": 35.53742036,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221398",
+      "photo_urls": []
+    },
+    {
+      "id": "221400",
+      "title": "Rabbi Maimon ben Yosef, Father of Maimonides",
+      "latitude": 32.79008655,
+      "longitude": 35.53744078,
+      "directions": "Near Khakham Abulafya Street, Tiberias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221400",
+      "photo_urls": []
+    },
+    {
+      "id": "221402",
+      "title": "Remains of the Watch Tower",
+      "latitude": 32.7880006,
+      "longitude": 35.54048181,
+      "directions": "On Ha-Banim Street, Tiberias, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221402",
+      "photo_urls": []
+    },
+    {
+      "id": "221406",
+      "title": "Tel Dan Nature Reserve",
+      "latitude": 33.24700924,
+      "longitude": 35.65385176,
+      "directions": "On Israel National Trail, Dan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221406",
+      "photo_urls": []
+    },
+    {
+      "id": "221407",
+      "title": "Entrance gate to Dan",
+      "latitude": 33.24729448,
+      "longitude": 35.65289004,
+      "directions": "Near Israel National Trail, Dan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221407",
+      "photo_urls": []
+    },
+    {
+      "id": "221409",
+      "title": "Tel Dan Nature Reserve",
+      "latitude": 33.24542437,
+      "longitude": 35.64756365,
+      "directions": "Near , Dan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221409",
+      "photo_urls": []
+    },
+    {
+      "id": "221502",
+      "title": "What's in the reserve?",
+      "latitude": 33.24543618,
+      "longitude": 35.64755198,
+      "directions": "Near , Dan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221502",
+      "photo_urls": []
+    },
+    {
+      "id": "221503",
+      "title": "History of the Compound",
+      "latitude": 32.49730198,
+      "longitude": 34.89019963,
+      "directions": "On Israel National Trail, Sdot Yam, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221503",
+      "photo_urls": []
+    },
+    {
+      "id": "221891",
+      "title": "Welcome to the Western Wall a remnant of the Temple",
+      "latitude": 31.77599211,
+      "longitude": 35.23401318,
+      "directions": "On Prodi, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221891",
+      "photo_urls": []
+    },
+    {
+      "id": "222064",
+      "title": "Arch of the Virgin Mary / &#1511;&#1513;&#1514; &#1502;&#1512;&#1497;&#1501;",
+      "latitude": 31.77863749,
+      "longitude": 35.22923934,
+      "directions": "On Christian Quarter Road, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222064",
+      "photo_urls": []
+    },
+    {
+      "id": "222065",
+      "title": "Paving stones dating from the end of the Roman Period, 3rd-4th century C.E.",
+      "latitude": 31.77779729,
+      "longitude": 35.22929626,
+      "directions": "On Saint Helena Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222065",
+      "photo_urls": []
+    },
+    {
+      "id": "222070",
+      "title": "Mill of the Jewish Era",
+      "latitude": 31.7713042,
+      "longitude": 35.2322148,
+      "directions": "Near Malki Tsedek Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222070",
+      "photo_urls": []
+    },
+    {
+      "id": "222071",
+      "title": "Jewish Measures",
+      "latitude": 31.77130786,
+      "longitude": 35.23219468,
+      "directions": "Near Malki Tsedek Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222071",
+      "photo_urls": []
+    },
+    {
+      "id": "222074",
+      "title": "Sainte-Anne de Jérusalem",
+      "latitude": 31.78084215,
+      "longitude": 35.23654226,
+      "directions": "Near Lion&#39;s Gate Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222074",
+      "photo_urls": []
+    },
+    {
+      "id": "222077",
+      "title": "The House of Peter",
+      "latitude": 32.88058582,
+      "longitude": 35.57523918,
+      "directions": "Near State Route 87, Capernaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222077",
+      "photo_urls": []
+    },
+    {
+      "id": "222079",
+      "title": "Liberation of Tiberias Memorial",
+      "latitude": 32.78827824,
+      "longitude": 35.5394059,
+      "directions": "On HaAtsmaut Street, Tiberias, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222079",
+      "photo_urls": []
+    },
+    {
+      "id": "222080",
+      "title": "The Amphitheater",
+      "latitude": 32.49826153,
+      "longitude": 34.89079974,
+      "directions": "Near Israel National Trail, Caesarea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222080",
+      "photo_urls": []
+    },
+    {
+      "id": "225688",
+      "title": "Major General Mickey Marcus",
+      "latitude": 31.80415031,
+      "longitude": 35.10448294,
+      "directions": "Near Ha-Rav A.Gordon Street, Kiryat Ye&#39;arim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225688",
+      "photo_urls": []
+    },
+    {
+      "id": "233521",
+      "title": "Arnona Neighborhood",
+      "latitude": 31.74712753,
+      "longitude": 35.22228622,
+      "directions": "On Leib Yafe Street, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233521",
+      "photo_urls": []
+    },
+    {
+      "id": "233524",
+      "title": "Ben Yehuda House",
+      "latitude": 31.752347,
+      "longitude": 35.223852,
+      "directions": "On Ein Gedi Street, Jerusalem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233524",
+      "photo_urls": []
+    },
+    {
+      "id": "233798",
+      "title": "The ancient aqueducts to Jerusalem",
+      "latitude": 31.74520874,
+      "longitude": 35.21839905,
+      "directions": "Near Hashofet Haim Cohen Street, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=233798",
+      "photo_urls": []
+    },
+    {
+      "id": "234051",
+      "title": "The Temple Society People's House",
+      "latitude": 31.76745796,
+      "longitude": 35.2235527,
+      "directions": "On Emek Refa&#39;im Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234051",
+      "photo_urls": []
+    },
+    {
+      "id": "235598",
+      "title": "Roman and Byzantine Statuary at Caesarea",
+      "latitude": 32.49644939,
+      "longitude": 34.89142124,
+      "directions": "Near , Caesarea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235598",
+      "photo_urls": []
+    },
+    {
+      "id": "235600",
+      "title": "Herod's Theater",
+      "latitude": 32.49603595,
+      "longitude": 34.8914963,
+      "directions": "Near , Caesarea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235600",
+      "photo_urls": []
+    },
+    {
+      "id": "235602",
+      "title": "Caesarea National Park",
+      "latitude": 32.49699996,
+      "longitude": 34.89194611,
+      "directions": "On Israel National Trail, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=235602",
+      "photo_urls": []
+    },
+    {
+      "id": "245167",
+      "title": "Lion's Trail",
+      "latitude": 32.8496,
+      "longitude": 35.7399,
+      "directions": "Near , Ein Hakeshatot, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245167",
+      "photo_urls": []
+    },
+    {
+      "id": "258159",
+      "title": "The Lion's Trail - Ariel",
+      "latitude": 32.102357,
+      "longitude": 35.165363,
+      "directions": "On Hayarden Street, Ari&#39;el, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258159",
+      "photo_urls": []
+    },
+    {
+      "id": "283818",
+      "title": "The Nir Oz Lion",
+      "latitude": 31.31027778,
+      "longitude": 34.40222222,
+      "directions": "Near , Nir Oz, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=283818",
+      "photo_urls": []
+    },
+    {
+      "id": "284642",
+      "title": "The first industrial zone in Yeruham",
+      "latitude": 30.98849286,
+      "longitude": 34.92693362,
+      "directions": "On Asher Sanker Street, Yeruham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284642",
+      "photo_urls": []
+    },
+    {
+      "id": "296700",
+      "title": "The Lion of Ofakim / &#1488;&#1512;&#1497;&#1492; &#1497;&#1492;&#1493;&#1491;&#1492;",
+      "latitude": 31.27666667,
+      "longitude": 34.65277778,
+      "directions": "On Derekh Sayeret Shaked, Ofakim, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296700",
+      "photo_urls": []
+    },
+    {
+      "id": "44034",
+      "title": "Church of Heptapegon",
+      "latitude": 32.873532,
+      "longitude": 35.549408,
+      "directions": "Near Route 87, Tabgha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44034",
+      "photo_urls": []
+    },
+    {
+      "id": "44055",
+      "title": "The Synagogue of Capharnaum",
+      "latitude": 32.880738,
+      "longitude": 35.575227,
+      "directions": "Near Route 87, Capharnaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44055",
+      "photo_urls": []
+    },
+    {
+      "id": "44108",
+      "title": "Capharnaum",
+      "latitude": 32.880451,
+      "longitude": 35.574264,
+      "directions": "Near Route 87, Capharnaum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44108",
+      "photo_urls": []
+    },
+    {
+      "id": "44228",
+      "title": "Yardenit",
+      "latitude": 32.711857,
+      "longitude": 35.5722,
+      "directions": "On Jordan River Walk, Beit Yerah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44228",
+      "photo_urls": []
+    },
+    {
+      "id": "44298",
+      "title": "Basilica of the Annunciation",
+      "latitude": 32.702222,
+      "longitude": 35.297778,
+      "directions": "Near Paulus Ha Shishi, Nazareth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44298",
+      "photo_urls": []
+    },
+    {
+      "id": "44353",
+      "title": "The Church of St. Joseph",
+      "latitude": 32.703056,
+      "longitude": 35.298333,
+      "directions": "Near Paulus Ha Shishi, Nazareth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44353",
+      "photo_urls": []
+    },
+    {
+      "id": "44596",
+      "title": "Gethsemane",
+      "latitude": 31.779227,
+      "longitude": 35.239628,
+      "directions": "Near Derech Jerico (National Route 417) , Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44596",
+      "photo_urls": []
+    },
+    {
+      "id": "44722",
+      "title": "Western Wall",
+      "latitude": 31.776667,
+      "longitude": 35.234167,
+      "directions": "Near Batei Mahase, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44722",
+      "photo_urls": []
+    },
+    {
+      "id": "44853",
+      "title": "Jaffa Gate / &#1513;&#1506;&#1512; &#1497;&#1508;&#1493;",
+      "latitude": 31.776528,
+      "longitude": 35.227694,
+      "directions": "Near Jaffa Road, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44853",
+      "photo_urls": []
+    },
+    {
+      "id": "63866",
+      "title": "Absalom's Tomb",
+      "latitude": 31.77735,
+      "longitude": 35.23873333,
+      "directions": "Near Derech Jericho, Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63866",
+      "photo_urls": []
+    },
+    {
+      "id": "63881",
+      "title": "Ketef Hinnom",
+      "latitude": 31.76901667,
+      "longitude": 35.22561667,
+      "directions": "Near S.U. Nahon Street, Jerusalem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63881",
+      "photo_urls": []
+    },
+    {
+      "id": "63905",
+      "title": "The Pool of Shiloah (Siloam)",
+      "latitude": 31.77031667,
+      "longitude": 35.23531667,
+      "directions": "Near Derech HaShiloah, Jerusalem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63905",
+      "photo_urls": []
+    },
+    {
+      "id": "63924",
+      "title": "Beit Hatzofeh Lookout",
+      "latitude": 31.77423333,
+      "longitude": 35.23601667,
+      "directions": "Near Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63924",
+      "photo_urls": []
+    },
+    {
+      "id": "63928",
+      "title": "The Royal Quarter (Area G)",
+      "latitude": 31.77391667,
+      "longitude": 35.23605,
+      "directions": "Near Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63928",
+      "photo_urls": []
+    },
+    {
+      "id": "63932",
+      "title": "Jehoshaphat's Cave",
+      "latitude": 31.77735,
+      "longitude": 35.23873333,
+      "directions": "Near Derech Jericho (National Route 417) , Jerusalem, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63932",
+      "photo_urls": []
+    },
+    {
+      "id": "63933",
+      "title": "The Burnt Room and the House of the Bullae",
+      "latitude": 31.77378333,
+      "longitude": 35.23613333,
+      "directions": "Near Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63933",
+      "photo_urls": []
+    },
+    {
+      "id": "63947",
+      "title": "The Water System",
+      "latitude": 31.77311667,
+      "longitude": 35.23626667,
+      "directions": "Near Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63947",
+      "photo_urls": []
+    },
+    {
+      "id": "63951",
+      "title": "Ritual Baths and Water Conduits",
+      "latitude": 31.7758,
+      "longitude": 35.23635,
+      "directions": "Near Batei Mahase, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63951",
+      "photo_urls": []
+    },
+    {
+      "id": "63963",
+      "title": "Double Gate Monumental Stairs and Observation Plaza",
+      "latitude": 31.77578333,
+      "longitude": 35.23635,
+      "directions": "Near Batei Mahase, Jerusalem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=63963",
+      "photo_urls": []
+    },
+    {
+      "id": "64064",
+      "title": "The Large Stone Structure",
+      "latitude": 31.77388333,
+      "longitude": 35.23595,
+      "directions": "On Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64064",
+      "photo_urls": []
+    },
+    {
+      "id": "64068",
+      "title": "Columbarium Tower (dovecot)",
+      "latitude": 31.31671667,
+      "longitude": 35.35276667,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64068",
+      "photo_urls": []
+    },
+    {
+      "id": "64069",
+      "title": "The Breaching Point",
+      "latitude": 31.31656667,
+      "longitude": 35.3527,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64069",
+      "photo_urls": []
+    },
+    {
+      "id": "64071",
+      "title": "The \"Casemate of the Scrolls\"",
+      "latitude": 31.31733333,
+      "longitude": 35.35303333,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64071",
+      "photo_urls": []
+    },
+    {
+      "id": "64076",
+      "title": "The Synagogue",
+      "latitude": 31.31736667,
+      "longitude": 35.35321667,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64076",
+      "photo_urls": []
+    },
+    {
+      "id": "64077",
+      "title": "The Rebel's Community Life",
+      "latitude": 31.31778333,
+      "longitude": 35.35371667,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64077",
+      "photo_urls": []
+    },
+    {
+      "id": "64079",
+      "title": "Bathing in Roman Style",
+      "latitude": 31.31775,
+      "longitude": 35.35418333,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64079",
+      "photo_urls": []
+    },
+    {
+      "id": "64091",
+      "title": "The Synagogue of Jesus",
+      "latitude": 32.88101667,
+      "longitude": 35.57523333,
+      "directions": "Near State Route 87, Capharnaum, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64091",
+      "photo_urls": []
+    },
+    {
+      "id": "64101",
+      "title": "The Discovery Location of the \"Lots\"",
+      "latitude": 31.31776667,
+      "longitude": 35.35388333,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64101",
+      "photo_urls": []
+    },
+    {
+      "id": "64148",
+      "title": "The Water Gate",
+      "latitude": 31.31775,
+      "longitude": 35.35373333,
+      "directions": "Near Masada National Park Service Road, near Arad, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64148",
+      "photo_urls": []
+    },
+    {
+      "id": "64309",
+      "title": "Tel Afeq - Antipatris",
+      "latitude": 32.10528333,
+      "longitude": 34.93043333,
+      "directions": "Near Yarkon Park Entrance Roadway, near Rosh Ha&#39;ayin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64309",
+      "photo_urls": []
+    },
+    {
+      "id": "64406",
+      "title": "The Egyptian Governor's Residence",
+      "latitude": 32.10523333,
+      "longitude": 34.92991667,
+      "directions": "Near Yarkon Park Entrance Roadway, near Rosh Ha&#39;ayin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64406",
+      "photo_urls": []
+    },
+    {
+      "id": "64445",
+      "title": "The Roman Cardo",
+      "latitude": 32.10496667,
+      "longitude": 34.93061667,
+      "directions": "On Yarkon Park Entrance Roadway, Rosh Ha&#39;ayin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64445",
+      "photo_urls": []
+    },
+    {
+      "id": "64466",
+      "title": "A Collection of Architectural Artifacts",
+      "latitude": 32.49651667,
+      "longitude": 34.89091667,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64466",
+      "photo_urls": []
+    },
+    {
+      "id": "64498",
+      "title": "The Theater",
+      "latitude": 32.49651667,
+      "longitude": 34.89083333,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64498",
+      "photo_urls": []
+    },
+    {
+      "id": "64499",
+      "title": "Column Capitals",
+      "latitude": 32.4964,
+      "longitude": 34.8906,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64499",
+      "photo_urls": []
+    },
+    {
+      "id": "64501",
+      "title": "Sarcophagi",
+      "latitude": 32.49648333,
+      "longitude": 34.89038333,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64501",
+      "photo_urls": []
+    },
+    {
+      "id": "64517",
+      "title": "The Promontory Palace",
+      "latitude": 32.4966,
+      "longitude": 34.89003333,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64517",
+      "photo_urls": []
+    },
+    {
+      "id": "64532",
+      "title": "The Roman Well",
+      "latitude": 32.497118,
+      "longitude": 34.889483,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64532",
+      "photo_urls": []
+    },
+    {
+      "id": "64534",
+      "title": "I Appeal Unto Caesar",
+      "latitude": 32.49726667,
+      "longitude": 34.88986667,
+      "directions": "On Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64534",
+      "photo_urls": []
+    },
+    {
+      "id": "64537",
+      "title": "The Chariot-Races",
+      "latitude": 32.49743333,
+      "longitude": 34.89036667,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64537",
+      "photo_urls": []
+    },
+    {
+      "id": "64738",
+      "title": "The Grotto of the God Pan",
+      "latitude": 33.24885,
+      "longitude": 35.69448333,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64738",
+      "photo_urls": []
+    },
+    {
+      "id": "64754",
+      "title": "The Court of Pan & the Nymphs",
+      "latitude": 33.2488,
+      "longitude": 35.69446667,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64754",
+      "photo_urls": []
+    },
+    {
+      "id": "64764",
+      "title": "The Sanctuary of Pan",
+      "latitude": 33.24881667,
+      "longitude": 35.6945,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64764",
+      "photo_urls": []
+    },
+    {
+      "id": "64768",
+      "title": "The Temple of Zeus",
+      "latitude": 33.24876667,
+      "longitude": 35.69453333,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64768",
+      "photo_urls": []
+    },
+    {
+      "id": "64781",
+      "title": "The Court of Nemesis",
+      "latitude": 33.24878333,
+      "longitude": 35.69458333,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64781",
+      "photo_urls": []
+    },
+    {
+      "id": "64782",
+      "title": "From Megiddo to Armageddon",
+      "latitude": 32.58636667,
+      "longitude": 35.1855,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64782",
+      "photo_urls": []
+    },
+    {
+      "id": "64811",
+      "title": "Tel Megiddo National Park",
+      "latitude": 32.58645,
+      "longitude": 35.18556667,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64811",
+      "photo_urls": []
+    },
+    {
+      "id": "64821",
+      "title": "The City-Gate",
+      "latitude": 32.58626667,
+      "longitude": 35.18413333,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64821",
+      "photo_urls": []
+    },
+    {
+      "id": "64882",
+      "title": "The City-Gate",
+      "latitude": 32.58618333,
+      "longitude": 35.18433333,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64882",
+      "photo_urls": []
+    },
+    {
+      "id": "64889",
+      "title": "The Northern Stables",
+      "latitude": 32.58578333,
+      "longitude": 35.18503333,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64889",
+      "photo_urls": []
+    },
+    {
+      "id": "64898",
+      "title": "The Northern Palace",
+      "latitude": 32.58573333,
+      "longitude": 35.18511667,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64898",
+      "photo_urls": []
+    },
+    {
+      "id": "64908",
+      "title": "A Unique Continuity",
+      "latitude": 32.5854,
+      "longitude": 35.18558333,
+      "directions": "Near National Route 66, Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64908",
+      "photo_urls": []
+    },
+    {
+      "id": "64985",
+      "title": "The Sacred Area",
+      "latitude": 32.58543333,
+      "longitude": 35.18553333,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=64985",
+      "photo_urls": []
+    },
+    {
+      "id": "65019",
+      "title": "Schumaker's Excavations",
+      "latitude": 32.58518333,
+      "longitude": 35.18455,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65019",
+      "photo_urls": []
+    },
+    {
+      "id": "65173",
+      "title": "Dedicatory Inscription",
+      "latitude": 32.49713333,
+      "longitude": 34.88976667,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65173",
+      "photo_urls": []
+    },
+    {
+      "id": "65175",
+      "title": "Architectural Elements",
+      "latitude": 32.49651667,
+      "longitude": 34.89088333,
+      "directions": "Near Kvish HaTe&#39;atron, Sdot Yam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65175",
+      "photo_urls": []
+    },
+    {
+      "id": "65176",
+      "title": "King Herod's Hippodrome",
+      "latitude": 32.49715,
+      "longitude": 34.89036667,
+      "directions": "Near Kvish HaTe&#39;atron, Caesarea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65176",
+      "photo_urls": []
+    },
+    {
+      "id": "65177",
+      "title": "The Temple of Augustus",
+      "latitude": 33.24881667,
+      "longitude": 35.69441667,
+      "directions": "Near National Route 99, near Snir, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65177",
+      "photo_urls": []
+    },
+    {
+      "id": "65196",
+      "title": "A Public Grain Silo",
+      "latitude": 32.58488333,
+      "longitude": 35.1844,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65196",
+      "photo_urls": []
+    },
+    {
+      "id": "65198",
+      "title": "The Southern Palace",
+      "latitude": 32.58481667,
+      "longitude": 35.18441667,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65198",
+      "photo_urls": []
+    },
+    {
+      "id": "65204",
+      "title": "The Southern Stables",
+      "latitude": 32.58476667,
+      "longitude": 35.18366667,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65204",
+      "photo_urls": []
+    },
+    {
+      "id": "65215",
+      "title": "The Water System",
+      "latitude": 32.58486667,
+      "longitude": 35.18316667,
+      "directions": "Near National Route 66, near Megiddo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65215",
+      "photo_urls": []
+    },
+    {
+      "id": "65296",
+      "title": "The House of Ahiel",
+      "latitude": 31.77375,
+      "longitude": 35.2361,
+      "directions": "Near Ma&#39;alot Ir David Street, Jerusalem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65296",
+      "photo_urls": []
+    },
+    {
+      "id": "65326",
+      "title": "The Southern Wall",
+      "latitude": 32.78476667,
+      "longitude": 35.54201667,
+      "directions": "On HaBanim (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65326",
+      "photo_urls": []
+    },
+    {
+      "id": "65327",
+      "title": "\"Magic on the sea of galilee...\"",
+      "latitude": 32.78546667,
+      "longitude": 35.54173333,
+      "directions": "On Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65327",
+      "photo_urls": []
+    },
+    {
+      "id": "65331",
+      "title": "The Crusader-Ottoman Building / Millstones",
+      "latitude": 32.78538333,
+      "longitude": 35.54186667,
+      "directions": "Near Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65331",
+      "photo_urls": []
+    },
+    {
+      "id": "65333",
+      "title": "The Synagogue",
+      "latitude": 32.78576667,
+      "longitude": 35.54195,
+      "directions": "Near Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65333",
+      "photo_urls": []
+    },
+    {
+      "id": "65341",
+      "title": "Doors of Burial Caves / Burial Customs - Sarcophagi",
+      "latitude": 32.78568333,
+      "longitude": 35.54211667,
+      "directions": "On Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65341",
+      "photo_urls": []
+    },
+    {
+      "id": "65352",
+      "title": "The Architecture of Tiberias",
+      "latitude": 32.78591667,
+      "longitude": 35.54201667,
+      "directions": "Near Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65352",
+      "photo_urls": []
+    },
+    {
+      "id": "65359",
+      "title": "Domestic Building",
+      "latitude": 32.78596667,
+      "longitude": 35.54205,
+      "directions": "Near Ha-Banim Street (National Route 90) , Tiberias, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65359",
+      "photo_urls": []
+    },
+    {
+      "id": "65395",
+      "title": "Mount of Precipice",
+      "latitude": 32.68068333,
+      "longitude": 35.29793333,
+      "directions": "Near National Route 60, near Nazareth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65395",
+      "photo_urls": []
+    },
+    {
+      "id": "65405",
+      "title": "The Theater",
+      "latitude": 32.75338333,
+      "longitude": 35.2801,
+      "directions": "Near National Route 7926, near Tzippori, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65405",
+      "photo_urls": []
+    },
+    {
+      "id": "65412",
+      "title": "The Citadel",
+      "latitude": 32.75313333,
+      "longitude": 35.27916667,
+      "directions": "Near National Route 7926, Tzippori, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65412",
+      "photo_urls": []
+    },
+    {
+      "id": "65446",
+      "title": "The Crusaders",
+      "latitude": 32.9236,
+      "longitude": 35.07046667,
+      "directions": "Near Weizman Street, Acre, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65446",
+      "photo_urls": []
+    },
+    {
+      "id": "65456",
+      "title": "The Crusader Fortress of the Knights of the Hospital and the Ottoman-Turkish Citadel of Akko",
+      "latitude": 32.92363333,
+      "longitude": 35.07008333,
+      "directions": "Near Weizmann, Acre, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65456",
+      "photo_urls": []
+    },
+    {
+      "id": "65462",
+      "title": "The Ancient Village of Nazareth",
+      "latitude": 32.7023,
+      "longitude": 35.2978,
+      "directions": "Near Al-Bishara Street, Nazareth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=65462",
+      "photo_urls": []
+    },
+    {
+      "id": "79010",
+      "title": "The Shrine of the Báb Terraces and Gardens",
+      "latitude": 32.81139639,
+      "longitude": 34.98524306,
+      "directions": "On Yefe Nof, Haifa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79010",
+      "photo_urls": []
+    },
+    {
+      "id": "79275",
+      "title": "The German Colony Story",
+      "latitude": 32.81801806,
+      "longitude": 34.98945639,
+      "directions": "On Siderot Ben Gurion, Haifa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79275",
+      "photo_urls": []
+    },
+    {
+      "id": "79276",
+      "title": "The Shrine and Mansion of Bahá’u’lláh",
+      "latitude": 32.94801528,
+      "longitude": 35.09242361,
+      "directions": "On Local Route 8501, near Acre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79276",
+      "photo_urls": []
+    },
+    {
+      "id": "88742",
+      "title": "Latin Dedicatory Inscription",
+      "latitude": 31.772379,
+      "longitude": 35.204524,
+      "directions": "Near Ruppin Boulevard, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=88742",
+      "photo_urls": []
+    },
+    {
+      "id": "92482",
+      "title": "Palmach Negev Brigade Memorial",
+      "latitude": 31.266533,
+      "longitude": 34.820638,
+      "directions": "Near Ma&#39;ale HaHativa St, near Be&#39;er Sheva, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92482",
+      "photo_urls": []
+    },
+    {
+      "id": "95071",
+      "title": "The Crucifixion",
+      "latitude": 31.783778,
+      "longitude": 35.229824,
+      "directions": "Near Conrad Schick St, Jerusalem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95071",
+      "photo_urls": []
+    }
+  ]
+}
