@@ -1,0 +1,38 @@
+{
+  "region_id": "fi-finland",
+  "region_name": "Finland",
+  "region_type": "country",
+  "country": "Finland",
+  "generated": "2026-04-16T06:06:08.722Z",
+  "source_timestamp": "2026-04-16T06:06:08.722Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "276433",
+      "title": "Miinanraivaajien Muistomerkki / Minesweepers Memorial",
+      "latitude": 60.16922959,
+      "longitude": 24.96767521,
+      "directions": "Near Laivastokatu, Helsinki, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276433",
+      "photo_urls": []
+    },
+    {
+      "id": "57703",
+      "title": "The Senate Square",
+      "latitude": 60.169444,
+      "longitude": 24.9525,
+      "directions": "On Sofiankau, Helsinki, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57703",
+      "photo_urls": []
+    },
+    {
+      "id": "57779",
+      "title": "<i>Kirkkopuisto</i>",
+      "latitude": 60.147777,
+      "longitude": 24.987097,
+      "directions": "On Church Park Visitors Trail, Suomenlinna, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=57779",
+      "photo_urls": []
+    }
+  ]
+}
