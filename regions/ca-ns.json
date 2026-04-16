@@ -1,0 +1,4754 @@
+{
+  "region_id": "ca-ns",
+  "region_name": "Nova Scotia",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-16T06:06:08.716Z",
+  "source_timestamp": "2026-04-16T06:06:08.716Z",
+  "marker_count": 527,
+  "markers": [
+    {
+      "id": "106067",
+      "title": "Shipbuilding in Nova Scotia / Construction navale en Nouvelle-Écosse",
+      "latitude": 43.823667,
+      "longitude": -66.123208,
+      "directions": "On Main Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106067",
+      "photo_urls": []
+    },
+    {
+      "id": "106141",
+      "title": "Milton Clock",
+      "latitude": 43.844896,
+      "longitude": -66.118471,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106141",
+      "photo_urls": []
+    },
+    {
+      "id": "106161",
+      "title": "Early Settlement",
+      "latitude": 43.844981,
+      "longitude": -66.118608,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106161",
+      "photo_urls": []
+    },
+    {
+      "id": "106165",
+      "title": "Political Life",
+      "latitude": 43.844946,
+      "longitude": -66.118635,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106165",
+      "photo_urls": []
+    },
+    {
+      "id": "106216",
+      "title": "Shipbuilding",
+      "latitude": 43.844747,
+      "longitude": -66.118691,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106216",
+      "photo_urls": []
+    },
+    {
+      "id": "106221",
+      "title": "Rum Running",
+      "latitude": 43.844327,
+      "longitude": -66.119029,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106221",
+      "photo_urls": []
+    },
+    {
+      "id": "106323",
+      "title": "The Fishery",
+      "latitude": 43.844364,
+      "longitude": -66.118999,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106323",
+      "photo_urls": []
+    },
+    {
+      "id": "106951",
+      "title": "Beaubassin 1672-1750",
+      "latitude": 45.852187,
+      "longitude": -64.259773,
+      "directions": "Near Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106951",
+      "photo_urls": []
+    },
+    {
+      "id": "106953",
+      "title": "Beaubassin",
+      "latitude": 45.852755,
+      "longitude": -64.260521,
+      "directions": "Near Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106953",
+      "photo_urls": []
+    },
+    {
+      "id": "106956",
+      "title": "Trans Canada Highway",
+      "latitude": 45.852521,
+      "longitude": -64.258469,
+      "directions": "On Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106956",
+      "photo_urls": []
+    },
+    {
+      "id": "107012",
+      "title": "Un hommage à/A Tribute to Jacob (Jacques) Bourgeois",
+      "latitude": 45.852621,
+      "longitude": -64.25917,
+      "directions": "Near Trans-Canada Highway, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107012",
+      "photo_urls": []
+    },
+    {
+      "id": "107017",
+      "title": "Robert Barry Dickey",
+      "latitude": 45.834136,
+      "longitude": -64.212724,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107017",
+      "photo_urls": []
+    },
+    {
+      "id": "107018",
+      "title": "Edward Barron Chandler",
+      "latitude": 45.834145,
+      "longitude": -64.212719,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107018",
+      "photo_urls": []
+    },
+    {
+      "id": "107022",
+      "title": "Former Site of Amherst Post Office",
+      "latitude": 45.834221,
+      "longitude": -64.212673,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107022",
+      "photo_urls": []
+    },
+    {
+      "id": "107024",
+      "title": "Dominion Public Building",
+      "latitude": 45.834221,
+      "longitude": -64.212673,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107024",
+      "photo_urls": []
+    },
+    {
+      "id": "107252",
+      "title": "Seafaring Sons of Yarmouth County",
+      "latitude": 43.818808,
+      "longitude": -66.142984,
+      "directions": "On Yarmouth Bar Road (State Route 304) , Yarmouth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107252",
+      "photo_urls": []
+    },
+    {
+      "id": "107284",
+      "title": "The Power of the Sea",
+      "latitude": 43.794344,
+      "longitude": -66.155484,
+      "directions": "On Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107284",
+      "photo_urls": []
+    },
+    {
+      "id": "107293",
+      "title": "Cape Forchu's Guiding Light",
+      "latitude": 43.794313,
+      "longitude": -66.155473,
+      "directions": "On Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107293",
+      "photo_urls": []
+    },
+    {
+      "id": "107298",
+      "title": "In Dire Need of a Lighthouse",
+      "latitude": 43.794326,
+      "longitude": -66.155492,
+      "directions": "On Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107298",
+      "photo_urls": []
+    },
+    {
+      "id": "107313",
+      "title": "Land Transportation",
+      "latitude": 43.845875,
+      "longitude": -66.118093,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107313",
+      "photo_urls": []
+    },
+    {
+      "id": "107320",
+      "title": "Manufacturing",
+      "latitude": 43.845902,
+      "longitude": -66.118079,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107320",
+      "photo_urls": []
+    },
+    {
+      "id": "107323",
+      "title": "Coronation Park",
+      "latitude": 43.848333,
+      "longitude": -66.11456,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107323",
+      "photo_urls": []
+    },
+    {
+      "id": "107330",
+      "title": "Women Philanthropists",
+      "latitude": 43.848333,
+      "longitude": -66.11456,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107330",
+      "photo_urls": []
+    },
+    {
+      "id": "107349",
+      "title": "A Diverse Fishery",
+      "latitude": 43.794021,
+      "longitude": -66.15519,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107349",
+      "photo_urls": []
+    },
+    {
+      "id": "107359",
+      "title": "Phare Cap-Forchu / Cape Forchu Lightstation",
+      "latitude": 43.794606,
+      "longitude": -66.154847,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107359",
+      "photo_urls": []
+    },
+    {
+      "id": "107392",
+      "title": "Lost to the Sea / Perdus en Mer",
+      "latitude": 43.794606,
+      "longitude": -66.154847,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107392",
+      "photo_urls": []
+    },
+    {
+      "id": "107487",
+      "title": "Welcome to the Leif Ericson Trail",
+      "latitude": 43.79371,
+      "longitude": -66.155097,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107487",
+      "photo_urls": []
+    },
+    {
+      "id": "107540",
+      "title": "Explosive Geology",
+      "latitude": 43.792789,
+      "longitude": -66.155283,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107540",
+      "photo_urls": []
+    },
+    {
+      "id": "107551",
+      "title": "Pieces of the Past",
+      "latitude": 43.793008,
+      "longitude": -66.154794,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107551",
+      "photo_urls": []
+    },
+    {
+      "id": "107638",
+      "title": "A Footstep into the Harbour",
+      "latitude": 43.791786,
+      "longitude": -66.153904,
+      "directions": "Near Nova Scotia Route 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107638",
+      "photo_urls": []
+    },
+    {
+      "id": "107652",
+      "title": "The Tusket Islands",
+      "latitude": 43.79154,
+      "longitude": -66.1551,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107652",
+      "photo_urls": []
+    },
+    {
+      "id": "107719",
+      "title": "Harbour of Deception",
+      "latitude": 43.792241,
+      "longitude": -66.155124,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107719",
+      "photo_urls": []
+    },
+    {
+      "id": "107735",
+      "title": "Cheboque",
+      "latitude": 43.792241,
+      "longitude": -66.155124,
+      "directions": "Near Highway 304, Cape Forchu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107735",
+      "photo_urls": []
+    },
+    {
+      "id": "107738",
+      "title": "East and West Camps, RCAF Station Yarmouth Nova Scotia",
+      "latitude": 43.838462,
+      "longitude": -66.118978,
+      "directions": "Near Main Street (State Route 1) , Yarmouth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107738",
+      "photo_urls": []
+    },
+    {
+      "id": "107832",
+      "title": "War Memorial",
+      "latitude": 43.838615,
+      "longitude": -66.119225,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107832",
+      "photo_urls": []
+    },
+    {
+      "id": "107869",
+      "title": "Cape Forchu Lighthouse",
+      "latitude": 43.838479,
+      "longitude": -66.119785,
+      "directions": "On Main Street, Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107869",
+      "photo_urls": []
+    },
+    {
+      "id": "107872",
+      "title": "Frost Park",
+      "latitude": 43.8387,
+      "longitude": -66.119705,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107872",
+      "photo_urls": []
+    },
+    {
+      "id": "107878",
+      "title": "First Yarmouth Mayor and Council",
+      "latitude": 43.83844,
+      "longitude": -66.119946,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107878",
+      "photo_urls": []
+    },
+    {
+      "id": "107897",
+      "title": "Hartlin Trail",
+      "latitude": 43.839009,
+      "longitude": -66.120695,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107897",
+      "photo_urls": []
+    },
+    {
+      "id": "107902",
+      "title": "Sarah Corning",
+      "latitude": 43.838885,
+      "longitude": -66.120697,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107902",
+      "photo_urls": []
+    },
+    {
+      "id": "107927",
+      "title": "Lost to the Sea",
+      "latitude": 43.838483,
+      "longitude": -66.120829,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107927",
+      "photo_urls": []
+    },
+    {
+      "id": "107960",
+      "title": "Frost Park",
+      "latitude": 43.838468,
+      "longitude": -66.119716,
+      "directions": "On Main Street (State Route 1) , Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107960",
+      "photo_urls": []
+    },
+    {
+      "id": "107967",
+      "title": "Sieur Phillippe Mius-d'Entremont",
+      "latitude": 43.637264,
+      "longitude": -65.79318,
+      "directions": "On Old Church Road, Lower West Pubnico, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107967",
+      "photo_urls": []
+    },
+    {
+      "id": "107971",
+      "title": "Les pionniers acadiens / Acadian Pioneers",
+      "latitude": 43.637287,
+      "longitude": -65.793188,
+      "directions": "On Old Church Road, Lower West Pubnico, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107971",
+      "photo_urls": []
+    },
+    {
+      "id": "108001",
+      "title": "Dennis Point",
+      "latitude": 43.618228,
+      "longitude": -65.788533,
+      "directions": "On Dennis Point Road, Middle West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108001",
+      "photo_urls": []
+    },
+    {
+      "id": "108006",
+      "title": "Recolter la mer / Harvesting the Sea",
+      "latitude": 43.618213,
+      "longitude": -65.788453,
+      "directions": "On Dennis Point Road, Lower West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108006",
+      "photo_urls": []
+    },
+    {
+      "id": "108029",
+      "title": "World Wars Memorial",
+      "latitude": 45.833552,
+      "longitude": -64.213157,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108029",
+      "photo_urls": []
+    },
+    {
+      "id": "108034",
+      "title": "Jonathan McCully",
+      "latitude": 45.834289,
+      "longitude": -64.212632,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108034",
+      "photo_urls": []
+    },
+    {
+      "id": "108038",
+      "title": "Sir Charles Tupper",
+      "latitude": 45.834307,
+      "longitude": -64.212615,
+      "directions": "On Victoria Street East (State Route 6) , Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108038",
+      "photo_urls": []
+    },
+    {
+      "id": "108059",
+      "title": "World Wars Memorial",
+      "latitude": 45.849591,
+      "longitude": -63.663014,
+      "directions": "On Water Street, Pugwash, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108059",
+      "photo_urls": []
+    },
+    {
+      "id": "108068",
+      "title": "Evolution of Pugwash Industry",
+      "latitude": 45.849355,
+      "longitude": -63.662915,
+      "directions": "On Durham Street, Pugwash, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108068",
+      "photo_urls": []
+    },
+    {
+      "id": "108069",
+      "title": "Pugwash Railway Station",
+      "latitude": 45.849806,
+      "longitude": -63.660563,
+      "directions": "On Durham Street (State Route 6) , Pugwash, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108069",
+      "photo_urls": []
+    },
+    {
+      "id": "108070",
+      "title": "Pugwash Train Station 1961",
+      "latitude": 45.849789,
+      "longitude": -63.660595,
+      "directions": "On Durham Street (State Route 6) , Pugwash, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108070",
+      "photo_urls": []
+    },
+    {
+      "id": "108075",
+      "title": "The Pugwash Conferences and Masonic Lodge",
+      "latitude": 45.849987,
+      "longitude": -63.662865,
+      "directions": "On Victoria Street, Pugwash, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108075",
+      "photo_urls": []
+    },
+    {
+      "id": "108076",
+      "title": "The Gathering of the Clans",
+      "latitude": 45.850076,
+      "longitude": -63.663291,
+      "directions": "On Water Street, Pugwash, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108076",
+      "photo_urls": []
+    },
+    {
+      "id": "108078",
+      "title": "Nova Scotia Clayworks",
+      "latitude": 45.849871,
+      "longitude": -63.664058,
+      "directions": "On Water Street, Pugwash, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108078",
+      "photo_urls": []
+    },
+    {
+      "id": "108080",
+      "title": "Pugwash Harbour",
+      "latitude": 45.849869,
+      "longitude": -63.664058,
+      "directions": "On Water Street, Pugwash, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108080",
+      "photo_urls": []
+    },
+    {
+      "id": "108083",
+      "title": "Pugwash Streetscapes",
+      "latitude": 45.850332,
+      "longitude": -63.663444,
+      "directions": "On Water Street, Pugwash, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108083",
+      "photo_urls": []
+    },
+    {
+      "id": "108085",
+      "title": "Simon Newcomb",
+      "latitude": 45.812607,
+      "longitude": -63.514153,
+      "directions": "On Sunrise Trail (State Route 6) , near Pictou, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108085",
+      "photo_urls": []
+    },
+    {
+      "id": "108089",
+      "title": "Willard Sterling Boyle, C.C.",
+      "latitude": 45.812478,
+      "longitude": -63.514118,
+      "directions": "On Sunrise Trail (State Route 6) , near Pictou, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108089",
+      "photo_urls": []
+    },
+    {
+      "id": "108094",
+      "title": "War Memorial",
+      "latitude": 45.81339,
+      "longitude": -63.469132,
+      "directions": "On Sunrise Trail (State Route 6) , Wallace, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108094",
+      "photo_urls": []
+    },
+    {
+      "id": "108100",
+      "title": "Saint Matthew's Presbyterian Church",
+      "latitude": 45.812611,
+      "longitude": -63.47319,
+      "directions": "On State Route 307, Wallace, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108100",
+      "photo_urls": []
+    },
+    {
+      "id": "108101",
+      "title": "St. John's United Church Cemetery",
+      "latitude": 45.813381,
+      "longitude": -63.469618,
+      "directions": "On Church Street, Wallace, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108101",
+      "photo_urls": []
+    },
+    {
+      "id": "108133",
+      "title": "Naval Encounter at Tatamagouche",
+      "latitude": 45.713041,
+      "longitude": -63.295,
+      "directions": "On Main Street (State Route 6) , Tatamagouche, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108133",
+      "photo_urls": []
+    },
+    {
+      "id": "108154",
+      "title": "War Memorial",
+      "latitude": 45.712923,
+      "longitude": -63.294474,
+      "directions": "On Main Street, Tatamagouche, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108154",
+      "photo_urls": []
+    },
+    {
+      "id": "108165",
+      "title": "Duncan MacLanders and Johanne Faulkner",
+      "latitude": 45.74257,
+      "longitude": -63.173244,
+      "directions": "On Sunrise Trail (State Route 6) , Brule Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108165",
+      "photo_urls": []
+    },
+    {
+      "id": "108169",
+      "title": "Local Granite Stone",
+      "latitude": 45.645571,
+      "longitude": -63.194925,
+      "directions": "Near Matheson Brook Road, Balmoral Mills, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108169",
+      "photo_urls": []
+    },
+    {
+      "id": "108181",
+      "title": "Balmoral Grist Mill",
+      "latitude": 45.644957,
+      "longitude": -63.194875,
+      "directions": "Near Peter Macdonald Road, Balmoral Mills, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108181",
+      "photo_urls": []
+    },
+    {
+      "id": "108182",
+      "title": "Sutherland Sawmill Turbine",
+      "latitude": 45.645124,
+      "longitude": -63.194658,
+      "directions": "On Matheson Brook Road, Balmoral Mills, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108182",
+      "photo_urls": []
+    },
+    {
+      "id": "108183",
+      "title": "Turbines: From Direct to Indirect Power Production",
+      "latitude": 45.645124,
+      "longitude": -63.194658,
+      "directions": "Near Matheson Brook Road, Balmoral Mills, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108183",
+      "photo_urls": []
+    },
+    {
+      "id": "108184",
+      "title": "St. Andrew's Presbyterian Church",
+      "latitude": 45.639776,
+      "longitude": -63.222017,
+      "directions": "On State Route 311, The Falls, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108184",
+      "photo_urls": []
+    },
+    {
+      "id": "108192",
+      "title": "Old Provincial Normal College",
+      "latitude": 45.364228,
+      "longitude": -63.278706,
+      "directions": "On Prince Street, Truro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108192",
+      "photo_urls": []
+    },
+    {
+      "id": "108214",
+      "title": "War Memorial",
+      "latitude": 45.364505,
+      "longitude": -63.278079,
+      "directions": "On Prince Street, Truro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108214",
+      "photo_urls": []
+    },
+    {
+      "id": "108220",
+      "title": "Centennial of Presbyterian Church Formation in Canada",
+      "latitude": 45.365118,
+      "longitude": -63.279184,
+      "directions": "On Prince Street, Truro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108220",
+      "photo_urls": []
+    },
+    {
+      "id": "108223",
+      "title": "First Presbyterian/United Church",
+      "latitude": 45.365298,
+      "longitude": -63.279787,
+      "directions": "On Prince Street, Truro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108223",
+      "photo_urls": []
+    },
+    {
+      "id": "108243",
+      "title": "The Lumber Jack, circa 1900",
+      "latitude": 45.365095,
+      "longitude": -63.28149,
+      "directions": "On Prince Street, Truro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108243",
+      "photo_urls": []
+    },
+    {
+      "id": "108244",
+      "title": "Truro Post Office / Le Bureau de Poste de Truro",
+      "latitude": 45.365204,
+      "longitude": -63.280534,
+      "directions": "On Prince Street, Truro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108244",
+      "photo_urls": []
+    },
+    {
+      "id": "108266",
+      "title": "<i>What</i> and <i>When</i> is Le Village Acadien?",
+      "latitude": 43.637531,
+      "longitude": -65.793199,
+      "directions": "Near Old Church Road, Lower West Pubnico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108266",
+      "photo_urls": []
+    },
+    {
+      "id": "108270",
+      "title": "Who are the Acadians? / Qui sont les Acadiens?",
+      "latitude": 43.637531,
+      "longitude": -65.793199,
+      "directions": "Near Old Church Road, Lower West Pubnico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108270",
+      "photo_urls": []
+    },
+    {
+      "id": "108271",
+      "title": "What and Where is <i>Acadie</i>? / <i>L'Acadie</i>, c'est quoi?...c'est ou?",
+      "latitude": 43.637531,
+      "longitude": -65.793199,
+      "directions": "Near Old Church Road, Lower West Pubnico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108271",
+      "photo_urls": []
+    },
+    {
+      "id": "108272",
+      "title": "A Bond with the Sea / A Sustaining Faith",
+      "latitude": 43.637531,
+      "longitude": -65.793199,
+      "directions": "Near Old Church Road, Lower West Pubnico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108272",
+      "photo_urls": []
+    },
+    {
+      "id": "108360",
+      "title": "Musée acadien et Centre de recherch / Acadian Museum and Research Center",
+      "latitude": 43.665866,
+      "longitude": -65.799459,
+      "directions": "On State Route 335, West Pubnico, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108360",
+      "photo_urls": []
+    },
+    {
+      "id": "108362",
+      "title": "Potager Acadien / Acadian Garden",
+      "latitude": 43.665953,
+      "longitude": -65.79983,
+      "directions": "Near Nova Scotia 335, West Pubnico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108362",
+      "photo_urls": []
+    },
+    {
+      "id": "108366",
+      "title": "300th Anniversary of the Founding of Pubnico",
+      "latitude": 43.672916,
+      "longitude": -65.797472,
+      "directions": "On the Lighthouse Route (State Route 335) , West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108366",
+      "photo_urls": []
+    },
+    {
+      "id": "108371",
+      "title": "200th Anniversary Commemoration of the \"Grand Deportation\"",
+      "latitude": 43.672918,
+      "longitude": -65.797477,
+      "directions": "On the Lighthouse Route (State Route 335) , West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108371",
+      "photo_urls": []
+    },
+    {
+      "id": "108393",
+      "title": "350th Anniversary Tribute to Acadian Women",
+      "latitude": 43.672918,
+      "longitude": -65.797477,
+      "directions": "On the Lighthouse Route (State Route 335) , West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108393",
+      "photo_urls": []
+    },
+    {
+      "id": "108394",
+      "title": "Mémorial des guerres mondiales / World Wars Memorial",
+      "latitude": 43.672918,
+      "longitude": -65.797477,
+      "directions": "On the Lighthouse Route (State Route 335) , West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108394",
+      "photo_urls": []
+    },
+    {
+      "id": "108397",
+      "title": "Perdu aux eaux / Lost to the Waters",
+      "latitude": 43.673044,
+      "longitude": -65.797265,
+      "directions": "On the Lighthouse Route (State Route 335) , West Pubnico, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108397",
+      "photo_urls": []
+    },
+    {
+      "id": "108513",
+      "title": "Église Ste-Anne Church",
+      "latitude": 43.837678,
+      "longitude": -65.934952,
+      "directions": "On the Lighthouse Route (State Route 3) , Ste. Anne du Ruisseau, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108513",
+      "photo_urls": []
+    },
+    {
+      "id": "108613",
+      "title": "Saint Anne Catholic Church Veterans Memorial",
+      "latitude": 43.838024,
+      "longitude": -65.935067,
+      "directions": "On the Lighthouse Route (State Route 3) , Ste. Anne du Ruisseau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108613",
+      "photo_urls": []
+    },
+    {
+      "id": "108627",
+      "title": "Chapelle de la Pointe-à-Rocco / Chapel site at Rocco Point",
+      "latitude": 43.827855,
+      "longitude": -65.927204,
+      "directions": "Near Rocco Point Road, Rocco Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108627",
+      "photo_urls": []
+    },
+    {
+      "id": "108637",
+      "title": "L'histoire des Surette / History of the Surettes",
+      "latitude": 43.827836,
+      "longitude": -65.927241,
+      "directions": "Near Rocco Point Road, Rocco Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108637",
+      "photo_urls": []
+    },
+    {
+      "id": "108641",
+      "title": "Chapelle Site / Chapel Site",
+      "latitude": 43.827894,
+      "longitude": -65.927105,
+      "directions": "Near Rocco Point Road, Rocco Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108641",
+      "photo_urls": []
+    },
+    {
+      "id": "108707",
+      "title": "Natural History",
+      "latitude": 45.85289,
+      "longitude": -64.259932,
+      "directions": "On Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108707",
+      "photo_urls": []
+    },
+    {
+      "id": "108717",
+      "title": "First Landing",
+      "latitude": 45.371501,
+      "longitude": -63.322188,
+      "directions": "On Tidal Bore Road, Lower Truro, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108717",
+      "photo_urls": []
+    },
+    {
+      "id": "108731",
+      "title": "Totem Pole",
+      "latitude": 44.671736,
+      "longitude": -63.563593,
+      "directions": "On Crichton Avenue, Dartmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108731",
+      "photo_urls": []
+    },
+    {
+      "id": "108732",
+      "title": "Sullivan's Pond",
+      "latitude": 44.671725,
+      "longitude": -63.563667,
+      "directions": "On Crichton Avenue, Dartmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108732",
+      "photo_urls": []
+    },
+    {
+      "id": "108760",
+      "title": "United Empire Loyalists",
+      "latitude": 43.85596,
+      "longitude": -65.974785,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108760",
+      "photo_urls": []
+    },
+    {
+      "id": "108761",
+      "title": "World Wars Memorial",
+      "latitude": 43.856055,
+      "longitude": -65.97482,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108761",
+      "photo_urls": []
+    },
+    {
+      "id": "108766",
+      "title": "Barges de foin salé de Buttes-Amirault",
+      "latitude": 43.821884,
+      "longitude": -65.97779,
+      "directions": "On State Route 308, Hubbard&#39;s Point, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108766",
+      "photo_urls": []
+    },
+    {
+      "id": "108770",
+      "title": "Argyle Township Court House and Gaol",
+      "latitude": 43.85479,
+      "longitude": -65.974633,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108770",
+      "photo_urls": []
+    },
+    {
+      "id": "108771",
+      "title": "Law in Nova Scotia / La Loi en Nouvelle-Écosse",
+      "latitude": 43.854914,
+      "longitude": -65.974615,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108771",
+      "photo_urls": []
+    },
+    {
+      "id": "108772",
+      "title": "The/Le Village of Tusket",
+      "latitude": 43.854914,
+      "longitude": -65.974615,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108772",
+      "photo_urls": []
+    },
+    {
+      "id": "108806",
+      "title": "Legion War Memorial",
+      "latitude": 44.67151,
+      "longitude": -63.563706,
+      "directions": "On Ochterloney Street (State Route 322) , Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108806",
+      "photo_urls": []
+    },
+    {
+      "id": "112104",
+      "title": "Amherst – Modern Period 1800s and 1900s",
+      "latitude": 45.852949,
+      "longitude": -64.259916,
+      "directions": "Near Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112104",
+      "photo_urls": []
+    },
+    {
+      "id": "112110",
+      "title": "Fort Lawrence and English Settlement",
+      "latitude": 45.852932,
+      "longitude": -64.259935,
+      "directions": "Near Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112110",
+      "photo_urls": []
+    },
+    {
+      "id": "112112",
+      "title": "Early Inhabitants",
+      "latitude": 45.852911,
+      "longitude": -64.259934,
+      "directions": "Near Cumberland Loop, near Fort Lawrence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112112",
+      "photo_urls": []
+    },
+    {
+      "id": "112154",
+      "title": "Lost at Sea / Perdus en Mer",
+      "latitude": 43.854581,
+      "longitude": -65.974568,
+      "directions": "On the Lighthouse Route (State Route 3) , Tusket, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112154",
+      "photo_urls": []
+    },
+    {
+      "id": "112162",
+      "title": "Palais de justice et Prison d’Argyle / <i>Argyle Township Court House and Gaol</i>",
+      "latitude": 43.854877,
+      "longitude": -65.974195,
+      "directions": "On Courthouse Road, Tusket, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112162",
+      "photo_urls": []
+    },
+    {
+      "id": "112166",
+      "title": "the <i>Y</i>armouth-Boston Ferry",
+      "latitude": 43.837231,
+      "longitude": -66.121467,
+      "directions": "On Water Street, Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112166",
+      "photo_urls": []
+    },
+    {
+      "id": "112171",
+      "title": "the Parker-Eakins Buildings & Wharf",
+      "latitude": 43.837196,
+      "longitude": -66.121483,
+      "directions": "On Water Street, Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112171",
+      "photo_urls": []
+    },
+    {
+      "id": "112200",
+      "title": "The Killam Brothers Buildings & Wharf",
+      "latitude": 43.836637,
+      "longitude": -66.121647,
+      "directions": "On Water Street, Yarmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112200",
+      "photo_urls": []
+    },
+    {
+      "id": "112381",
+      "title": "Old Burial Ground",
+      "latitude": 44.037956,
+      "longitude": -64.716681,
+      "directions": "On Main Street (State Route 3) , Liverpool, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112381",
+      "photo_urls": []
+    },
+    {
+      "id": "112387",
+      "title": "Step Back in Time / The Final Resting Place",
+      "latitude": 44.037885,
+      "longitude": -64.716649,
+      "directions": "On Main Street (State Route 3) , Liverpool, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112387",
+      "photo_urls": []
+    },
+    {
+      "id": "112398",
+      "title": "War Memorial",
+      "latitude": 44.038753,
+      "longitude": -64.715249,
+      "directions": "On Main Street (State Route 3) , Liverpool, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112398",
+      "photo_urls": []
+    },
+    {
+      "id": "112404",
+      "title": "Liverpool Town Hall / L'Hotel de Ville de Liverpool",
+      "latitude": 44.038703,
+      "longitude": -64.715238,
+      "directions": "On Main Street (State Route 3) , Liverpool, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112404",
+      "photo_urls": []
+    },
+    {
+      "id": "112406",
+      "title": "Remembering the Deceased",
+      "latitude": 44.037627,
+      "longitude": -64.716348,
+      "directions": "Near Main Street, Liverpool, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112406",
+      "photo_urls": []
+    },
+    {
+      "id": "112407",
+      "title": "Beam Trawler Jutland Memorial",
+      "latitude": 44.037918,
+      "longitude": -64.716708,
+      "directions": "On Main Street (State Route 3) , Liverpool, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112407",
+      "photo_urls": []
+    },
+    {
+      "id": "112408",
+      "title": "St. John's Parish Hall",
+      "latitude": 44.378328,
+      "longitude": -64.312207,
+      "directions": "On Cornwallis Street, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112408",
+      "photo_urls": []
+    },
+    {
+      "id": "112426",
+      "title": "The Great Fire 1899 / Le grand incendie de 1899",
+      "latitude": 44.377512,
+      "longitude": -64.518403,
+      "directions": "On King Street (State Route 3) , Bridgewater, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112426",
+      "photo_urls": []
+    },
+    {
+      "id": "112428",
+      "title": "Bridges / Les ponts",
+      "latitude": 44.377718,
+      "longitude": -64.518658,
+      "directions": "On King Street (County Route 331) , Bridgewater, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112428",
+      "photo_urls": []
+    },
+    {
+      "id": "112430",
+      "title": "Koch-Solomon House",
+      "latitude": 44.378493,
+      "longitude": -64.311878,
+      "directions": "On Cornwallis Street, Lunenburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112430",
+      "photo_urls": []
+    },
+    {
+      "id": "112431",
+      "title": "1753 Open-Air Protestant Interfaith Church Services",
+      "latitude": 44.378188,
+      "longitude": -64.311711,
+      "directions": "On Cornwallis Street, Lunenburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112431",
+      "photo_urls": []
+    },
+    {
+      "id": "112432",
+      "title": "The Jessen Bell / La Cloche Jessen",
+      "latitude": 44.378173,
+      "longitude": -64.31161,
+      "directions": "On Cornwallis Street, Lunenburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112432",
+      "photo_urls": []
+    },
+    {
+      "id": "112453",
+      "title": "St. John's Anglican Church / Église Anglicane St. John",
+      "latitude": 44.378213,
+      "longitude": -64.311536,
+      "directions": "Near Cumberland Street, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112453",
+      "photo_urls": []
+    },
+    {
+      "id": "112454",
+      "title": "The Fire / Le Feu",
+      "latitude": 44.378112,
+      "longitude": -64.311536,
+      "directions": "Near Cumberland Street, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112454",
+      "photo_urls": []
+    },
+    {
+      "id": "112477",
+      "title": "Lennox Tavern",
+      "latitude": 44.378936,
+      "longitude": -64.311795,
+      "directions": "On Cornwallis Street, Lunenburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112477",
+      "photo_urls": []
+    },
+    {
+      "id": "112478",
+      "title": "Finck-Holder House",
+      "latitude": 44.378562,
+      "longitude": -64.312114,
+      "directions": "On Cornwallis Street, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112478",
+      "photo_urls": []
+    },
+    {
+      "id": "112480",
+      "title": "Zion Evangelical Lutheran Church / L'eglise lutherienne evangelique de Sion",
+      "latitude": 44.378959,
+      "longitude": -64.312106,
+      "directions": "On Cornwallis Street, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112480",
+      "photo_urls": []
+    },
+    {
+      "id": "112486",
+      "title": "St. John's Anglican Church / L'église anglicane St. John's",
+      "latitude": 44.378111,
+      "longitude": -64.312028,
+      "directions": "On Cornwallis Street, Lunenburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112486",
+      "photo_urls": []
+    },
+    {
+      "id": "112530",
+      "title": "War Memorial",
+      "latitude": 44.449151,
+      "longitude": -64.381889,
+      "directions": "On Main Street (State Route 3) , Mahone Bay, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112530",
+      "photo_urls": []
+    },
+    {
+      "id": "112557",
+      "title": "When Continents Collide / Carving A Cove",
+      "latitude": 44.493949,
+      "longitude": -63.91374,
+      "directions": "On Peggy&#39;s Pointe Road, Peggy&#39;s Cove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112557",
+      "photo_urls": []
+    },
+    {
+      "id": "112570",
+      "title": "The Lure of Peggy's Cove",
+      "latitude": 44.493954,
+      "longitude": -63.913783,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112570",
+      "photo_urls": []
+    },
+    {
+      "id": "112574",
+      "title": "Home Sweet Home",
+      "latitude": 44.493971,
+      "longitude": -63.913775,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112574",
+      "photo_urls": []
+    },
+    {
+      "id": "112610",
+      "title": "The Cold, Hard Facts About Glaciers",
+      "latitude": 44.493987,
+      "longitude": -63.913766,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112610",
+      "photo_urls": []
+    },
+    {
+      "id": "112618",
+      "title": "Here's The Catch",
+      "latitude": 44.493242,
+      "longitude": -63.916538,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112618",
+      "photo_urls": []
+    },
+    {
+      "id": "112659",
+      "title": "Through Rain, Sleet and Darkest Night",
+      "latitude": 44.492084,
+      "longitude": -63.917477,
+      "directions": "Near Peggys Point Road, Peggy&#39;s Cove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112659",
+      "photo_urls": []
+    },
+    {
+      "id": "112680",
+      "title": "A Monumental Work Of Art",
+      "latitude": 44.493842,
+      "longitude": -63.914188,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112680",
+      "photo_urls": []
+    },
+    {
+      "id": "112691",
+      "title": "Fishermen's Monument",
+      "latitude": 44.493868,
+      "longitude": -63.914198,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112691",
+      "photo_urls": []
+    },
+    {
+      "id": "112693",
+      "title": "The Art of deGarthe",
+      "latitude": 44.493866,
+      "longitude": -63.914331,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112693",
+      "photo_urls": []
+    },
+    {
+      "id": "112697",
+      "title": "A Natural Masterpiece",
+      "latitude": 44.493849,
+      "longitude": -63.914376,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112697",
+      "photo_urls": []
+    },
+    {
+      "id": "112715",
+      "title": "The Public Gardens",
+      "latitude": 44.644235,
+      "longitude": -63.580973,
+      "directions": "Near Bell Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112715",
+      "photo_urls": []
+    },
+    {
+      "id": "112791",
+      "title": "Welcome to the Public Gardens",
+      "latitude": 44.64421,
+      "longitude": -63.581021,
+      "directions": "Near Bell Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112791",
+      "photo_urls": []
+    },
+    {
+      "id": "112796",
+      "title": "Boer War Memorial Fountain",
+      "latitude": 44.643771,
+      "longitude": -63.581329,
+      "directions": "Near Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112796",
+      "photo_urls": []
+    },
+    {
+      "id": "112799",
+      "title": "HMCS Sackville K-181",
+      "latitude": 44.64314,
+      "longitude": -63.582141,
+      "directions": "Near Petite Allée, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112799",
+      "photo_urls": []
+    },
+    {
+      "id": "112810",
+      "title": "\"Hamilton\" Flower-bed arrangement",
+      "latitude": 44.642459,
+      "longitude": -63.582549,
+      "directions": "Near Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112810",
+      "photo_urls": []
+    },
+    {
+      "id": "112811",
+      "title": "Horticulture Hall, post-1945",
+      "latitude": 44.642537,
+      "longitude": -63.582155,
+      "directions": "Near Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112811",
+      "photo_urls": []
+    },
+    {
+      "id": "112821",
+      "title": "Public Garden Foundation Fountain",
+      "latitude": 44.642018,
+      "longitude": -63.581694,
+      "directions": "On Spring Garden Road, Halifax, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112821",
+      "photo_urls": []
+    },
+    {
+      "id": "112823",
+      "title": "Drinking Fountain / Fontaine d'eau potable",
+      "latitude": 44.641801,
+      "longitude": -63.582535,
+      "directions": "Near Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112823",
+      "photo_urls": []
+    },
+    {
+      "id": "112824",
+      "title": "Lieut. Henry Edward Clonard Keating",
+      "latitude": 44.641912,
+      "longitude": -63.582987,
+      "directions": "Near Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112824",
+      "photo_urls": []
+    },
+    {
+      "id": "112826",
+      "title": "Summer House / Pavillon d'été",
+      "latitude": 44.64244,
+      "longitude": -63.583392,
+      "directions": "Near Summer Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112826",
+      "photo_urls": []
+    },
+    {
+      "id": "112947",
+      "title": "Unveiling, Jubilee Fountain / Inauguration, Fontaine du Jubilé",
+      "latitude": 44.643113,
+      "longitude": -63.583448,
+      "directions": "Near Summer Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112947",
+      "photo_urls": []
+    },
+    {
+      "id": "113041",
+      "title": "Halifax Explosion Unidentified Dead",
+      "latitude": 44.658675,
+      "longitude": -63.621775,
+      "directions": "Near Windsor Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113041",
+      "photo_urls": []
+    },
+    {
+      "id": "113081",
+      "title": "Izaak Walton & Dorothy Johnston Killam",
+      "latitude": 44.659765,
+      "longitude": -63.622127,
+      "directions": "Near Windsor Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113081",
+      "photo_urls": []
+    },
+    {
+      "id": "113082",
+      "title": "Starboard Propeller of CCGS John A. Macdonald",
+      "latitude": 44.663572,
+      "longitude": -63.568524,
+      "directions": "Near Alderney Drive, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113082",
+      "photo_urls": []
+    },
+    {
+      "id": "113104",
+      "title": "How Dartmouth Has Grown",
+      "latitude": 44.663515,
+      "longitude": -63.568706,
+      "directions": "Near Alderney Drive, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113104",
+      "photo_urls": []
+    },
+    {
+      "id": "113130",
+      "title": "Celtic Cross",
+      "latitude": 44.648767,
+      "longitude": -63.572383,
+      "directions": "On George Street, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113130",
+      "photo_urls": []
+    },
+    {
+      "id": "113166",
+      "title": "The Mitchell House",
+      "latitude": 44.647801,
+      "longitude": -63.571573,
+      "directions": "On Prince Street, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113166",
+      "photo_urls": []
+    },
+    {
+      "id": "113185",
+      "title": "Here We Began",
+      "latitude": 44.649403,
+      "longitude": -63.571586,
+      "directions": "On George Street, Halifax, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113185",
+      "photo_urls": []
+    },
+    {
+      "id": "113186",
+      "title": "The Dockyard Clock / L'horloge de L'arsenal",
+      "latitude": 44.649386,
+      "longitude": -63.571624,
+      "directions": "On George Street, Halifax, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113186",
+      "photo_urls": []
+    },
+    {
+      "id": "113189",
+      "title": "Vera B. Stone",
+      "latitude": 44.664075,
+      "longitude": -63.570891,
+      "directions": "On Ochterloney Street, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113189",
+      "photo_urls": []
+    },
+    {
+      "id": "113194",
+      "title": "Wild about roses/La vie en rose",
+      "latitude": 44.664087,
+      "longitude": -63.570848,
+      "directions": "On Ochterloney Street, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113194",
+      "photo_urls": []
+    },
+    {
+      "id": "113199",
+      "title": "Canadian Military Engineers/Génie militaire canadien",
+      "latitude": 44.663998,
+      "longitude": -63.570872,
+      "directions": "Near Ochterloney Street, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113199",
+      "photo_urls": []
+    },
+    {
+      "id": "113207",
+      "title": "\"Bridges for Canada\"/« Ponts pour le Canada »",
+      "latitude": 44.663998,
+      "longitude": -63.570872,
+      "directions": "Near Ochterloney Street, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113207",
+      "photo_urls": []
+    },
+    {
+      "id": "138221",
+      "title": "Henry Marshall Tory",
+      "latitude": 45.38948889,
+      "longitude": -61.4986,
+      "directions": "On Pleasant Street (State Route 16) , Guysborough, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138221",
+      "photo_urls": []
+    },
+    {
+      "id": "138569",
+      "title": "Alden Nowlan",
+      "latitude": 45.09015,
+      "longitude": -63.90890556,
+      "directions": "On State Route 236, Stanley, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138569",
+      "photo_urls": []
+    },
+    {
+      "id": "138590",
+      "title": "Tor Bay",
+      "latitude": 45.18772778,
+      "longitude": -61.35398056,
+      "directions": "On Tor Bay Branch Road, near Larrys River, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138590",
+      "photo_urls": []
+    },
+    {
+      "id": "138598",
+      "title": "Canso",
+      "latitude": 45.33536667,
+      "longitude": -60.99603611,
+      "directions": "On School Street, Canso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138598",
+      "photo_urls": []
+    },
+    {
+      "id": "138605",
+      "title": "Captain Savalette",
+      "latitude": 45.24935833,
+      "longitude": -61.21776667,
+      "directions": "On Marine Drive (State Route 316) , Port Felix, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138605",
+      "photo_urls": []
+    },
+    {
+      "id": "138777",
+      "title": "Horton Landing Cross",
+      "latitude": 45.11320833,
+      "longitude": -64.27910556,
+      "directions": "Near Wharf Road, near Hortonville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138777",
+      "photo_urls": []
+    },
+    {
+      "id": "138789",
+      "title": "Grand Pre Marsh Body",
+      "latitude": 45.11094722,
+      "longitude": -64.30921944,
+      "directions": "On Grand Pré Road, Grand Pré, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138789",
+      "photo_urls": []
+    },
+    {
+      "id": "138917",
+      "title": "Site de l'école Acacia Villa/Site of Acacia Villa School",
+      "latitude": 45.10917222,
+      "longitude": -64.28495,
+      "directions": "On Patterson Road, near Grand Pré, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=138917",
+      "photo_urls": []
+    },
+    {
+      "id": "139030",
+      "title": "Acacia Villa School",
+      "latitude": 45.10912222,
+      "longitude": -64.28494167,
+      "directions": "On King Street, Grand Pré, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139030",
+      "photo_urls": []
+    },
+    {
+      "id": "139033",
+      "title": "Landscape of Grand Pré / le Payage de Grand Pré",
+      "latitude": 45.10916111,
+      "longitude": -64.28495833,
+      "directions": "On King Street, Grand Pré, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139033",
+      "photo_urls": []
+    },
+    {
+      "id": "139192",
+      "title": "Isgonish-French River Portage",
+      "latitude": 45.38344386,
+      "longitude": -63.41367621,
+      "directions": "On Glooscap Trail (National Route 2) , near Debert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139192",
+      "photo_urls": []
+    },
+    {
+      "id": "139200",
+      "title": "Samuel Cunard",
+      "latitude": 44.64110323,
+      "longitude": -63.56661694,
+      "directions": "On Marginal Road, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139200",
+      "photo_urls": []
+    },
+    {
+      "id": "139201",
+      "title": "Transatlantic Wireless / T.S.F. Transatlantique / Radiotelegrafico Transatlantico",
+      "latitude": 46.21114125,
+      "longitude": -59.95253948,
+      "directions": "On Timmerman Street, Glace Bay, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139201",
+      "photo_urls": []
+    },
+    {
+      "id": "139202",
+      "title": "Sir Samuel Cunard",
+      "latitude": 44.62487188,
+      "longitude": -63.56403576,
+      "directions": "On Ta39 Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139202",
+      "photo_urls": []
+    },
+    {
+      "id": "139264",
+      "title": "Guysborough",
+      "latitude": 45.39054167,
+      "longitude": -61.50056111,
+      "directions": "On Church Street (State Route 16) , Guysborough, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139264",
+      "photo_urls": []
+    },
+    {
+      "id": "139278",
+      "title": "#5 Radar Unit R.C.A.F Station",
+      "latitude": 45.267825,
+      "longitude": -61.27276944,
+      "directions": "On Marine Drive (State Route 316) , Cole Harbour, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139278",
+      "photo_urls": []
+    },
+    {
+      "id": "139288",
+      "title": "We Will Remember/Nous Nous Souviendrons",
+      "latitude": 45.26777222,
+      "longitude": -61.27300556,
+      "directions": "On Marine Drive (State Route 316) , near Cole Harbour, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139288",
+      "photo_urls": []
+    },
+    {
+      "id": "139292",
+      "title": "L'industrie du Charbon au Canada / Canada's Coal Industry",
+      "latitude": 46.13958279,
+      "longitude": -59.87135539,
+      "directions": "On Long Beach Road, Port Morien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139292",
+      "photo_urls": []
+    },
+    {
+      "id": "139293",
+      "title": "The First Coal Workings in North America",
+      "latitude": 46.13913523,
+      "longitude": -59.8708192,
+      "directions": "On Long Beach Road, Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139293",
+      "photo_urls": []
+    },
+    {
+      "id": "139294",
+      "title": "First Boy Scout Troop in North America",
+      "latitude": 46.13909586,
+      "longitude": -59.87080328,
+      "directions": "On Long Beach Road, Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139294",
+      "photo_urls": []
+    },
+    {
+      "id": "139295",
+      "title": "The Development of Whitney Pier / L'essor De Whitney Pier",
+      "latitude": 46.16172269,
+      "longitude": -60.18689889,
+      "directions": "On Victoria Road (Route 28) , Sydney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139295",
+      "photo_urls": []
+    },
+    {
+      "id": "139296",
+      "title": "Canso Causeway",
+      "latitude": 45.64799788,
+      "longitude": -61.41230107,
+      "directions": "Near Trans Canada Highway (National Route 104) , Port Hastings, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139296",
+      "photo_urls": []
+    },
+    {
+      "id": "139297",
+      "title": "The Beginning of New Glasgow",
+      "latitude": 45.59086492,
+      "longitude": -62.64670531,
+      "directions": "On Terrace Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139297",
+      "photo_urls": []
+    },
+    {
+      "id": "139298",
+      "title": "George Frederick Cameron",
+      "latitude": 45.588086,
+      "longitude": -62.64491311,
+      "directions": "On Provost Street (Route 4) , New Glasgow, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139298",
+      "photo_urls": []
+    },
+    {
+      "id": "139299",
+      "title": "History of the Canso Canal / Historique du Canal de Canso",
+      "latitude": 45.64803192,
+      "longitude": -61.41239354,
+      "directions": "Near Trans Canada Highway (National Route 104) , Port Hastings, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139299",
+      "photo_urls": []
+    },
+    {
+      "id": "139300",
+      "title": "Marconi Wireless Station / La Station de Communication Sans Fil de Marconi",
+      "latitude": 46.19749237,
+      "longitude": -59.95807655,
+      "directions": "On McKeen Street, Glace Bay, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139300",
+      "photo_urls": []
+    },
+    {
+      "id": "139301",
+      "title": "Construction of the Canso Canal / Construction du Canal de Canso",
+      "latitude": 45.64804505,
+      "longitude": -61.41240427,
+      "directions": "Near Trans Canada Highway (National Route 104) , Port Hastings, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139301",
+      "photo_urls": []
+    },
+    {
+      "id": "139302",
+      "title": "Operation of the Canso Canal / Exploitation du Canal",
+      "latitude": 45.64804684,
+      "longitude": -61.41242699,
+      "directions": "Near Trans Canada Highway (National Route 104) , Port Hastings, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139302",
+      "photo_urls": []
+    },
+    {
+      "id": "139303",
+      "title": "The Building of the Canso Causeway / La Construction de la Levée de Canso",
+      "latitude": 45.64802991,
+      "longitude": -61.41242241,
+      "directions": "Near Trans Canada Highway (National Route 104) , Port Hastings, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139303",
+      "photo_urls": []
+    },
+    {
+      "id": "139326",
+      "title": "Rotary Performance Platform & Lookoff/ Scéne et belvédère des clubs Rotary",
+      "latitude": 44.64511662,
+      "longitude": -63.56865406,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139326",
+      "photo_urls": []
+    },
+    {
+      "id": "139330",
+      "title": "Ocean Terminals/le terminal ocean terminals",
+      "latitude": 44.64147895,
+      "longitude": -63.56723647,
+      "directions": "Near Marginal Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139330",
+      "photo_urls": []
+    },
+    {
+      "id": "139335",
+      "title": "The Gypsum Mine / La Mine De Plâtre",
+      "latitude": 46.62986111,
+      "longitude": -61.01307778,
+      "directions": "On Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139335",
+      "photo_urls": []
+    },
+    {
+      "id": "139337",
+      "title": "South Harbour War Memorial",
+      "latitude": 46.87873889,
+      "longitude": -60.48600833,
+      "directions": "On Cabot Trail, near South Harbour, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139337",
+      "photo_urls": []
+    },
+    {
+      "id": "139424",
+      "title": "St. James United Church",
+      "latitude": 45.62260263,
+      "longitude": -61.98890272,
+      "directions": "On Main Street (Route 4) , Antigonish, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139424",
+      "photo_urls": []
+    },
+    {
+      "id": "139476",
+      "title": "Canada War Memorial",
+      "latitude": 46.73787222,
+      "longitude": -60.91967778,
+      "directions": "On Cabot Trail, near Petit Etang, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139476",
+      "photo_urls": []
+    },
+    {
+      "id": "139509",
+      "title": "Halifax City Hall / Hôtel de ville d'Halifax",
+      "latitude": 44.64882912,
+      "longitude": -63.57515075,
+      "directions": "Near Argyle Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139509",
+      "photo_urls": []
+    },
+    {
+      "id": "139510",
+      "title": "The Explosion Clock",
+      "latitude": 44.64927621,
+      "longitude": -63.57562788,
+      "directions": "On Duke Street, Halifax, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139510",
+      "photo_urls": []
+    },
+    {
+      "id": "139515",
+      "title": "The Canal",
+      "latitude": 45.24171944,
+      "longitude": -61.19044167,
+      "directions": "On Whitehead Road, Whitehead, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139515",
+      "photo_urls": []
+    },
+    {
+      "id": "139592",
+      "title": "\"Old\" Dalhousie and the Grand Parade",
+      "latitude": 44.64876192,
+      "longitude": -63.57537174,
+      "directions": "Near Argyle Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139592",
+      "photo_urls": []
+    },
+    {
+      "id": "139593",
+      "title": "The Grand Parade",
+      "latitude": 44.64848092,
+      "longitude": -63.57508719,
+      "directions": "Near Argyle Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139593",
+      "photo_urls": []
+    },
+    {
+      "id": "139596",
+      "title": "Cast Iron Facade / Façade en Fonte",
+      "latitude": 44.64991317,
+      "longitude": -63.5746613,
+      "directions": "Near Granville Street, Halifax, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139596",
+      "photo_urls": []
+    },
+    {
+      "id": "139597",
+      "title": "Gilbert Stuart Newton",
+      "latitude": 44.64969238,
+      "longitude": -63.57452834,
+      "directions": "Near Granville Street, Halifax, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139597",
+      "photo_urls": []
+    },
+    {
+      "id": "139598",
+      "title": "William Alexander Henry",
+      "latitude": 44.64372103,
+      "longitude": -63.57361096,
+      "directions": "On Spring Garden Road, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139598",
+      "photo_urls": []
+    },
+    {
+      "id": "139599",
+      "title": "William Thomas",
+      "latitude": 44.64992026,
+      "longitude": -63.57460744,
+      "directions": "Near Granville Street, Halifax, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139599",
+      "photo_urls": []
+    },
+    {
+      "id": "139600",
+      "title": "The Halifax Court House / Le Palais de Justice D'Halifax",
+      "latitude": 44.64366036,
+      "longitude": -63.57381881,
+      "directions": "On Spring Garden Road, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139600",
+      "photo_urls": []
+    },
+    {
+      "id": "139618",
+      "title": "Jeanne Dugas",
+      "latitude": 46.64303611,
+      "longitude": -61.00154444,
+      "directions": "On Cabot Trail, near Chéticamp, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139618",
+      "photo_urls": []
+    },
+    {
+      "id": "139656",
+      "title": "The Voyage of Prince Henry Sinclair",
+      "latitude": 45.348625,
+      "longitude": -61.41372778,
+      "directions": "On Marine Drive (State Route 16) , Halfway Cove, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139656",
+      "photo_urls": []
+    },
+    {
+      "id": "139663",
+      "title": "Women and the Second World War/Les femmes et la Seconde Guerre mondiale",
+      "latitude": 44.64746111,
+      "longitude": -63.57875833,
+      "directions": "Near Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139663",
+      "photo_urls": []
+    },
+    {
+      "id": "139664",
+      "title": "Enos Collins",
+      "latitude": 44.65031246,
+      "longitude": -63.57339443,
+      "directions": "Near Upper Water Street, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139664",
+      "photo_urls": []
+    },
+    {
+      "id": "139666",
+      "title": "D-Day/Jour J",
+      "latitude": 44.64745278,
+      "longitude": -63.57881111,
+      "directions": "Near Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139666",
+      "photo_urls": []
+    },
+    {
+      "id": "139669",
+      "title": "In Memory of Tusker 914 En mémoire de",
+      "latitude": 45.33603611,
+      "longitude": -60.99084722,
+      "directions": "Near Union Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139669",
+      "photo_urls": []
+    },
+    {
+      "id": "139674",
+      "title": "Lebanese Immigrants",
+      "latitude": 44.64672222,
+      "longitude": -63.56937778,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139674",
+      "photo_urls": []
+    },
+    {
+      "id": "139686",
+      "title": "St. Paul’s Church / Église St. Pauls",
+      "latitude": 44.64764819,
+      "longitude": -63.57477149,
+      "directions": "Near Argyle Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139686",
+      "photo_urls": []
+    },
+    {
+      "id": "139694",
+      "title": "Canada's Hundred Days and Armistice 1918",
+      "latitude": 46.10269876,
+      "longitude": -60.7466801,
+      "directions": "Near Chebucto Street (State Route 205) , Baddeck, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139694",
+      "photo_urls": []
+    },
+    {
+      "id": "139695",
+      "title": "Voie ferrée et « Lu vieille Louise » / The railroad and \"The Old Louise\"",
+      "latitude": 46.62990296,
+      "longitude": -61.01307749,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139695",
+      "photo_urls": []
+    },
+    {
+      "id": "139696",
+      "title": "Tunnel et Quai de la mine / Tunnel and Mine Wharf",
+      "latitude": 46.63024706,
+      "longitude": -61.01273695,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139696",
+      "photo_urls": []
+    },
+    {
+      "id": "139697",
+      "title": "M. Joseph Macfarland / Mr. Joseph MacFarland",
+      "latitude": 46.63030519,
+      "longitude": -61.01269588,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139697",
+      "photo_urls": []
+    },
+    {
+      "id": "139698",
+      "title": "Dés l'année suivante, en 1927 / The following year, in 1927",
+      "latitude": 46.63035115,
+      "longitude": -61.0126594,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139698",
+      "photo_urls": []
+    },
+    {
+      "id": "139699",
+      "title": "Women, the War Effort and Winning the Right to Vote",
+      "latitude": 46.1027075,
+      "longitude": -60.74667194,
+      "directions": "Near Chebucto Street (State Route 205) , Baddeck, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139699",
+      "photo_urls": []
+    },
+    {
+      "id": "139734",
+      "title": "La fin d'un rêve / The End of a Dream",
+      "latitude": 46.63039789,
+      "longitude": -61.01262452,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139734",
+      "photo_urls": []
+    },
+    {
+      "id": "139797",
+      "title": "La Bouée du havre / The Harbour Bouy",
+      "latitude": 46.62981687,
+      "longitude": -61.01286185,
+      "directions": "Near Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139797",
+      "photo_urls": []
+    },
+    {
+      "id": "139815",
+      "title": "Belle Côte War Memorial",
+      "latitude": 46.44400278,
+      "longitude": -61.09231111,
+      "directions": "On Cabot Trail (State Route 19) , Belle Côte, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139815",
+      "photo_urls": []
+    },
+    {
+      "id": "139818",
+      "title": "St. Joseph du Moine War Memorial",
+      "latitude": 46.52753889,
+      "longitude": -61.06219167,
+      "directions": "On Cabot Trail, St. Joseph du Moine, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139818",
+      "photo_urls": []
+    },
+    {
+      "id": "139821",
+      "title": "Chéticamp War Memorial",
+      "latitude": 46.625175,
+      "longitude": -61.01654167,
+      "directions": "On Cabot Trail, Chéticamp, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139821",
+      "photo_urls": []
+    },
+    {
+      "id": "139825",
+      "title": "Welcome to Place Savalette",
+      "latitude": 45.24935833,
+      "longitude": -61.21776667,
+      "directions": "On Marine Street (State Route 316) , Port Felix, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139825",
+      "photo_urls": []
+    },
+    {
+      "id": "139853",
+      "title": "Giovanni Caboto",
+      "latitude": 44.64673611,
+      "longitude": -63.56978333,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139853",
+      "photo_urls": []
+    },
+    {
+      "id": "139857",
+      "title": "The Lone Shieling",
+      "latitude": 46.80952741,
+      "longitude": -60.73107733,
+      "directions": "Near Cabot Trail, near Pleasant Bay, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139857",
+      "photo_urls": []
+    },
+    {
+      "id": "139870",
+      "title": "Neil's Harbour",
+      "latitude": 46.80853036,
+      "longitude": -60.32043288,
+      "directions": "On Lighthouse Road, Neil&#39;s Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139870",
+      "photo_urls": []
+    },
+    {
+      "id": "139871",
+      "title": "Ingonish War Memorial",
+      "latitude": 46.65644167,
+      "longitude": -60.39928056,
+      "directions": "On Cabot Trail, near Ingonish, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139871",
+      "photo_urls": []
+    },
+    {
+      "id": "139872",
+      "title": "The Cabot Trail",
+      "latitude": 46.61951111,
+      "longitude": -61.01638889,
+      "directions": "On Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139872",
+      "photo_urls": []
+    },
+    {
+      "id": "139879",
+      "title": "First Flight by a British Subject in the British Empire",
+      "latitude": 46.10352517,
+      "longitude": -60.74618444,
+      "directions": "Near Chebucto Street (State Route 205) , Baddeck, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=139879",
+      "photo_urls": []
+    },
+    {
+      "id": "140077",
+      "title": "The General Mining Association (GMA)",
+      "latitude": 45.56837599,
+      "longitude": -62.6571735,
+      "directions": "Near North Foord Street (State Route 374) , Stellarton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140077",
+      "photo_urls": []
+    },
+    {
+      "id": "140081",
+      "title": "Joseph Frederick Wallet DesBarres",
+      "latitude": 46.14266961,
+      "longitude": -60.19903545,
+      "directions": "On Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140081",
+      "photo_urls": []
+    },
+    {
+      "id": "140082",
+      "title": "Sir John George Bourinot",
+      "latitude": 46.14269346,
+      "longitude": -60.19903577,
+      "directions": "On Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140082",
+      "photo_urls": []
+    },
+    {
+      "id": "140099",
+      "title": "Port of Halifax/Port de Halifax",
+      "latitude": 44.64175,
+      "longitude": -63.566625,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140099",
+      "photo_urls": []
+    },
+    {
+      "id": "140130",
+      "title": "Atlantic Bulwark / Le Rempart de L'Atlantique",
+      "latitude": 46.24971251,
+      "longitude": -60.15372612,
+      "directions": "Near New Waterford Highway (State Route 28) , Victoria Mines, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140130",
+      "photo_urls": []
+    },
+    {
+      "id": "140169",
+      "title": "1790 - 1990",
+      "latitude": 46.62498889,
+      "longitude": -61.01665833,
+      "directions": "On Cabot Trail, Chéticamp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140169",
+      "photo_urls": []
+    },
+    {
+      "id": "140191",
+      "title": "The Attack at Grand Pré/La bataille Grand Pré",
+      "latitude": 45.10491944,
+      "longitude": -64.30636667,
+      "directions": "On Grand Pré Road, Grand Pré, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140191",
+      "photo_urls": []
+    },
+    {
+      "id": "140207",
+      "title": "New England Planters/Les planters de la Nouvelle-Angeleterre",
+      "latitude": 45.11329722,
+      "longitude": -64.27963889,
+      "directions": "Near Wharf Road, near Horton Landing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140207",
+      "photo_urls": []
+    },
+    {
+      "id": "140209",
+      "title": "Democracy and the New England Planters/La démocratie et les Planters de la Nouvelle-Angleterre",
+      "latitude": 45.11330833,
+      "longitude": -64.2797,
+      "directions": "Near Wharf Road, near Horton Landing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140209",
+      "photo_urls": []
+    },
+    {
+      "id": "140222",
+      "title": "The Arrival of the New England Planters/L'arrivée des Planters de la Nouvelle-Angleterre",
+      "latitude": 45.11319444,
+      "longitude": -64.27936667,
+      "directions": "Near Wharf Road, Horton Landing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140222",
+      "photo_urls": []
+    },
+    {
+      "id": "140308",
+      "title": "Founders of the Parish of St-Joseph du Moine",
+      "latitude": 46.52772933,
+      "longitude": -61.06227568,
+      "directions": "On Cabot Trail, Saint Joseph du Moine, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140308",
+      "photo_urls": []
+    },
+    {
+      "id": "140352",
+      "title": "Whitehead",
+      "latitude": 45.241725,
+      "longitude": -61.190425,
+      "directions": "On Whitehead Road, near Whitehead, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140352",
+      "photo_urls": []
+    },
+    {
+      "id": "140377",
+      "title": "Yankee Cove",
+      "latitude": 45.24174444,
+      "longitude": -61.19043611,
+      "directions": "On Whitehead Road, near Whitehead, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140377",
+      "photo_urls": []
+    },
+    {
+      "id": "140379",
+      "title": "Halifax and Castine / Halifax et Castine",
+      "latitude": 44.63640456,
+      "longitude": -63.59236083,
+      "directions": "Near University Avenue, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140379",
+      "photo_urls": []
+    },
+    {
+      "id": "140380",
+      "title": "Folklore & Trivia",
+      "latitude": 45.242875,
+      "longitude": -61.19143611,
+      "directions": "Near Whitehead Road, near Whitehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140380",
+      "photo_urls": []
+    },
+    {
+      "id": "140390",
+      "title": "Port Felix",
+      "latitude": 45.24285556,
+      "longitude": -61.19144444,
+      "directions": "Near Whitehead Road, near Whitehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140390",
+      "photo_urls": []
+    },
+    {
+      "id": "140393",
+      "title": "The Tragedy of the Deportation/La tragédie de la Déportation",
+      "latitude": 45.11317778,
+      "longitude": -64.27931944,
+      "directions": "Near Wharf Road, near Horton Landing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140393",
+      "photo_urls": []
+    },
+    {
+      "id": "140428",
+      "title": "Memorial Church / L'église-souvenir",
+      "latitude": 45.10973333,
+      "longitude": -64.31237778,
+      "directions": "Near Grand Pré Road, Grand Pré, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140428",
+      "photo_urls": []
+    },
+    {
+      "id": "140430",
+      "title": "The Landscape of Grand Pré / Le Paysage de Grand-Pré",
+      "latitude": 45.10491667,
+      "longitude": -64.30630556,
+      "directions": "On Grand Pré Road, Grand Pré, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140430",
+      "photo_urls": []
+    },
+    {
+      "id": "140441",
+      "title": "Canso Soldiers Memorial",
+      "latitude": 45.33410556,
+      "longitude": -61.00328056,
+      "directions": "On Marine Drive (State Route 16) , near Canso, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140441",
+      "photo_urls": []
+    },
+    {
+      "id": "140501",
+      "title": "We Heard the News First/Nous étions les premiers à avoir les nouvelles",
+      "latitude": 45.33621944,
+      "longitude": -60.99535,
+      "directions": "Near Union Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140501",
+      "photo_urls": []
+    },
+    {
+      "id": "140505",
+      "title": "Welcome to Canso Harbour/Bienvenue au Port de Canso",
+      "latitude": 45.33750556,
+      "longitude": -60.994775,
+      "directions": "Near Water Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140505",
+      "photo_urls": []
+    },
+    {
+      "id": "140521",
+      "title": "Harbour Traffic/Le traffic du port",
+      "latitude": 45.33764167,
+      "longitude": -60.99466667,
+      "directions": "Near Water Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140521",
+      "photo_urls": []
+    },
+    {
+      "id": "140536",
+      "title": "The Canso Islands/ Les îles Canso",
+      "latitude": 45.33734444,
+      "longitude": -60.992625,
+      "directions": "Near Water Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140536",
+      "photo_urls": []
+    },
+    {
+      "id": "140554",
+      "title": "Where Fishermen Meet / Lieu de rencontre des pêcheurs",
+      "latitude": 45.33778333,
+      "longitude": -60.99360278,
+      "directions": "Near Water Street, Canso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140554",
+      "photo_urls": []
+    },
+    {
+      "id": "140674",
+      "title": "Our Forefathers",
+      "latitude": 45.33900833,
+      "longitude": -61.26540278,
+      "directions": "On Marine Drive (State Route 16) , Queensport, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140674",
+      "photo_urls": []
+    },
+    {
+      "id": "140759",
+      "title": "Thinkers' Lodge",
+      "latitude": 45.85340016,
+      "longitude": -63.66569333,
+      "directions": "Near Water Street, Pugwash, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140759",
+      "photo_urls": []
+    },
+    {
+      "id": "140763",
+      "title": "The Mary Crowley Monument",
+      "latitude": 45.84942785,
+      "longitude": -63.65183796,
+      "directions": "On Durham Street (National Route 6) , Pugwash, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140763",
+      "photo_urls": []
+    },
+    {
+      "id": "140961",
+      "title": "John William Ritchie",
+      "latitude": 44.63051601,
+      "longitude": -63.58810496,
+      "directions": "On Beaufort Avenue, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=140961",
+      "photo_urls": []
+    },
+    {
+      "id": "141002",
+      "title": "William Henry Chase",
+      "latitude": 44.63695009,
+      "longitude": -63.59337387,
+      "directions": "Near Castine Way, Halifax, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141002",
+      "photo_urls": []
+    },
+    {
+      "id": "141146",
+      "title": "Le Parc de nos Ancêtres",
+      "latitude": 45.22184722,
+      "longitude": -61.37724167,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141146",
+      "photo_urls": []
+    },
+    {
+      "id": "141175",
+      "title": "Founding Families of the Acadian Communities Along Tor Bay 1797-1900",
+      "latitude": 45.22179722,
+      "longitude": -61.37724722,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141175",
+      "photo_urls": []
+    },
+    {
+      "id": "141181",
+      "title": "French Expeditions Aimed At Settling North America",
+      "latitude": 45.22165,
+      "longitude": -61.37735278,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141181",
+      "photo_urls": []
+    },
+    {
+      "id": "141190",
+      "title": "Settlement of l’Acadie 1604/1605",
+      "latitude": 45.22165278,
+      "longitude": -61.37737222,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141190",
+      "photo_urls": []
+    },
+    {
+      "id": "141209",
+      "title": "Samuel de Champlain Meets Captain Savalette On Shores of Tor Bay",
+      "latitude": 45.22167222,
+      "longitude": -61.3774,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141209",
+      "photo_urls": []
+    },
+    {
+      "id": "141232",
+      "title": "Queensport, Guysborough County",
+      "latitude": 45.33900833,
+      "longitude": -61.26540278,
+      "directions": "On Marine Drive (State Route 16) , Queensport, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141232",
+      "photo_urls": []
+    },
+    {
+      "id": "141244",
+      "title": "Acadian Dyke Building Along the Bay of Fundy",
+      "latitude": 45.22169444,
+      "longitude": -61.37741389,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141244",
+      "photo_urls": []
+    },
+    {
+      "id": "141256",
+      "title": "Grand-Pré",
+      "latitude": 45.22171389,
+      "longitude": -61.37743333,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141256",
+      "photo_urls": []
+    },
+    {
+      "id": "141258",
+      "title": "The Great Upheaval 1755-1763",
+      "latitude": 45.22174444,
+      "longitude": -61.37744444,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141258",
+      "photo_urls": []
+    },
+    {
+      "id": "141274",
+      "title": "The Scattering of a People",
+      "latitude": 45.22176111,
+      "longitude": -61.37746111,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141274",
+      "photo_urls": []
+    },
+    {
+      "id": "141389",
+      "title": "The Resettlement",
+      "latitude": 45.22177778,
+      "longitude": -61.37748333,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141389",
+      "photo_urls": []
+    },
+    {
+      "id": "141399",
+      "title": "Chezzetcook, Tracadie and Havre Boucher",
+      "latitude": 45.22180556,
+      "longitude": -61.37746944,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141399",
+      "photo_urls": []
+    },
+    {
+      "id": "141401",
+      "title": "Settlement of the Tor Bay Area circa 1797",
+      "latitude": 45.22180032,
+      "longitude": -61.37748346,
+      "directions": "On Marine Drive (State Route 316) , Larrys River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=141401",
+      "photo_urls": []
+    },
+    {
+      "id": "142944",
+      "title": "Canada’s First Observatory",
+      "latitude": 45.890706,
+      "longitude": -59.985359,
+      "directions": "Near Kennington Cove Road, Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142944",
+      "photo_urls": []
+    },
+    {
+      "id": "142960",
+      "title": "First Lighthouse",
+      "latitude": 45.906584,
+      "longitude": -59.958412,
+      "directions": "Near Havenside Road, Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142960",
+      "photo_urls": []
+    },
+    {
+      "id": "142961",
+      "title": "Fizel House",
+      "latitude": 45.892461,
+      "longitude": -59.984549,
+      "directions": "Near Kennington Cove Road, near Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142961",
+      "photo_urls": []
+    },
+    {
+      "id": "142962",
+      "title": "French Naval Guns",
+      "latitude": 45.9252,
+      "longitude": -59.962701,
+      "directions": "On Main Street, Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142962",
+      "photo_urls": []
+    },
+    {
+      "id": "142963",
+      "title": "Kennelly Point",
+      "latitude": 45.906471,
+      "longitude": -59.95685,
+      "directions": "On Havenside Road, near Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142963",
+      "photo_urls": []
+    },
+    {
+      "id": "142964",
+      "title": "Lighthouse Point",
+      "latitude": 45.906532,
+      "longitude": -59.957532,
+      "directions": "On Havenside Road, near Louisbourg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142964",
+      "photo_urls": []
+    },
+    {
+      "id": "142965",
+      "title": "Sydney and Louisbourg Railway Museum",
+      "latitude": 45.925576,
+      "longitude": -59.962079,
+      "directions": "On Main Street (State Route 22) , Louisbourg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142965",
+      "photo_urls": []
+    },
+    {
+      "id": "142966",
+      "title": "The Siege Landing",
+      "latitude": 45.879529,
+      "longitude": -60.056591,
+      "directions": "On Kennington Cove Road, near Louisbourg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142966",
+      "photo_urls": []
+    },
+    {
+      "id": "144071",
+      "title": "Morien Businesses of the Past",
+      "latitude": 46.13350331,
+      "longitude": -59.87276831,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144071",
+      "photo_urls": []
+    },
+    {
+      "id": "144072",
+      "title": "Morien Institutions",
+      "latitude": 46.13349338,
+      "longitude": -59.87277876,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144072",
+      "photo_urls": []
+    },
+    {
+      "id": "144073",
+      "title": "Morien's Legacy",
+      "latitude": 46.13349138,
+      "longitude": -59.87279375,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144073",
+      "photo_urls": []
+    },
+    {
+      "id": "144074",
+      "title": "Flint Island Light Station",
+      "latitude": 46.12999876,
+      "longitude": -59.87583809,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144074",
+      "photo_urls": []
+    },
+    {
+      "id": "144075",
+      "title": "Gowrie and North Atlantic Collieries",
+      "latitude": 46.12998303,
+      "longitude": -59.87584163,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144075",
+      "photo_urls": []
+    },
+    {
+      "id": "144076",
+      "title": "The Fishery in Port Morien",
+      "latitude": 46.12996857,
+      "longitude": -59.87584716,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144076",
+      "photo_urls": []
+    },
+    {
+      "id": "144077",
+      "title": "Morien Bay",
+      "latitude": 46.12995558,
+      "longitude": -59.87585391,
+      "directions": "On Marconi Trail (State Route 255) , Port Morien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144077",
+      "photo_urls": []
+    },
+    {
+      "id": "144475",
+      "title": "Moser River Veterans Memorial",
+      "latitude": 44.972985,
+      "longitude": -62.25613831,
+      "directions": "On Marine Drive (Nova Scotia Trunk Highway 7) (State Route 7) , Moser River, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144475",
+      "photo_urls": []
+    },
+    {
+      "id": "144791",
+      "title": "The First Church",
+      "latitude": 45.57946707,
+      "longitude": -62.65554351,
+      "directions": "On Stellarton Road (State Route 374) , New Glasgow, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144791",
+      "photo_urls": []
+    },
+    {
+      "id": "144793",
+      "title": "A Memorial to the Ship Building Industry",
+      "latitude": 45.58808611,
+      "longitude": -62.64639157,
+      "directions": "Near Glasgow Street, New Glasgow, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144793",
+      "photo_urls": []
+    },
+    {
+      "id": "144794",
+      "title": "New Glasgow",
+      "latitude": 45.58805201,
+      "longitude": -62.6457823,
+      "directions": "On Glasgow Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144794",
+      "photo_urls": []
+    },
+    {
+      "id": "144795",
+      "title": "Captain George R. McKenzie",
+      "latitude": 45.5879185,
+      "longitude": -62.6456824,
+      "directions": "On Glasgow Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144795",
+      "photo_urls": []
+    },
+    {
+      "id": "144796",
+      "title": "A Memorial to Adam Carr Bell 1847-1912",
+      "latitude": 45.58943325,
+      "longitude": -62.64459362,
+      "directions": "On George Street (State Route 289) , New Glasgow, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144796",
+      "photo_urls": []
+    },
+    {
+      "id": "144797",
+      "title": "Bell's Corner",
+      "latitude": 45.58945487,
+      "longitude": -62.64445106,
+      "directions": "On North Provost Street (State Route 348) , New Glasgow, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144797",
+      "photo_urls": []
+    },
+    {
+      "id": "144798",
+      "title": "Viola Desmond",
+      "latitude": 45.58832721,
+      "longitude": -62.6438872,
+      "directions": "On Archimedes Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144798",
+      "photo_urls": []
+    },
+    {
+      "id": "144799",
+      "title": "New Glasgow Town Bell",
+      "latitude": 45.58767544,
+      "longitude": -62.6441118,
+      "directions": "On Archimedes Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144799",
+      "photo_urls": []
+    },
+    {
+      "id": "144800",
+      "title": "Rev. James Drummond MacGregor, D.D.",
+      "latitude": 45.58704979,
+      "longitude": -62.64318066,
+      "directions": "On MacLean Street, New Glasgow, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144800",
+      "photo_urls": []
+    },
+    {
+      "id": "144801",
+      "title": "New Glasgow Heritage",
+      "latitude": 45.58783384,
+      "longitude": -62.64429648,
+      "directions": "On Archimedes Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144801",
+      "photo_urls": []
+    },
+    {
+      "id": "144802",
+      "title": "Carmichael Park",
+      "latitude": 45.58985957,
+      "longitude": -62.64697133,
+      "directions": "Near George Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144802",
+      "photo_urls": []
+    },
+    {
+      "id": "144803",
+      "title": "Johnny Miles",
+      "latitude": 45.58997333,
+      "longitude": -62.64672788,
+      "directions": "Near George Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144803",
+      "photo_urls": []
+    },
+    {
+      "id": "144804",
+      "title": "Glasgow Scotland",
+      "latitude": 45.58833238,
+      "longitude": -62.64371246,
+      "directions": "Near Archimedes Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144804",
+      "photo_urls": []
+    },
+    {
+      "id": "144805",
+      "title": "Stone Lion, c. 1891",
+      "latitude": 45.58833275,
+      "longitude": -62.6415751,
+      "directions": "Near Temperance Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144805",
+      "photo_urls": []
+    },
+    {
+      "id": "144806",
+      "title": "Industrial Centre Lofts",
+      "latitude": 45.58739997,
+      "longitude": -62.6445508,
+      "directions": "On Archimedes Street (Nova Scotia Route 4) (State Route 289) , New Glasgow, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144806",
+      "photo_urls": []
+    },
+    {
+      "id": "144807",
+      "title": "Stone Lion, c. 1902",
+      "latitude": 45.58816776,
+      "longitude": -62.64159597,
+      "directions": "Near Temperance Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144807",
+      "photo_urls": []
+    },
+    {
+      "id": "144879",
+      "title": "New Glasgow D-Day Memorial",
+      "latitude": 45.58775848,
+      "longitude": -62.64253831,
+      "directions": "Near Dalhousie Street, New Glasgow, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144879",
+      "photo_urls": []
+    },
+    {
+      "id": "144880",
+      "title": "Normandy Branch 34",
+      "latitude": 45.59026001,
+      "longitude": -62.64685185,
+      "directions": "Near Terrace Street, New Glasgow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144880",
+      "photo_urls": []
+    },
+    {
+      "id": "144883",
+      "title": "Laurie Peace Park",
+      "latitude": 45.58780817,
+      "longitude": -62.64259684,
+      "directions": "Near Dalhousie Street, New Glasgow, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144883",
+      "photo_urls": []
+    },
+    {
+      "id": "146113",
+      "title": "Sheet Harbour",
+      "latitude": 44.92712664,
+      "longitude": -62.54381167,
+      "directions": "Near Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146113",
+      "photo_urls": []
+    },
+    {
+      "id": "146114",
+      "title": "Early Settlement",
+      "latitude": 44.91757479,
+      "longitude": -62.5296797,
+      "directions": "On Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146114",
+      "photo_urls": []
+    },
+    {
+      "id": "146116",
+      "title": "Shipbuilding & Shipping",
+      "latitude": 44.91760928,
+      "longitude": -62.52978864,
+      "directions": "On Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146116",
+      "photo_urls": []
+    },
+    {
+      "id": "146117",
+      "title": "The Pulp & Paper Industry",
+      "latitude": 44.92715082,
+      "longitude": -62.54382838,
+      "directions": "Near Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146117",
+      "photo_urls": []
+    },
+    {
+      "id": "146118",
+      "title": "The Community",
+      "latitude": 44.9273237,
+      "longitude": -62.54387968,
+      "directions": "Near Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146118",
+      "photo_urls": []
+    },
+    {
+      "id": "146119",
+      "title": "Lumbering & Sawmills",
+      "latitude": 44.92723832,
+      "longitude": -62.54384002,
+      "directions": "Near Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146119",
+      "photo_urls": []
+    },
+    {
+      "id": "146120",
+      "title": "Salmon",
+      "latitude": 44.9274136,
+      "longitude": -62.54417479,
+      "directions": "Near Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146120",
+      "photo_urls": []
+    },
+    {
+      "id": "146158",
+      "title": "Hydroelectric Power",
+      "latitude": 44.91758746,
+      "longitude": -62.5297396,
+      "directions": "On Marine Drive (Nova Scotia Trunk Highway 7), Sheet Harbour, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=146158",
+      "photo_urls": []
+    },
+    {
+      "id": "150295",
+      "title": "Prince Alfred Arch / L'Arche Prince Alfred",
+      "latitude": 44.80104141,
+      "longitude": -62.69241436,
+      "directions": "On Jennings Settlement Road, Tangier, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150295",
+      "photo_urls": []
+    },
+    {
+      "id": "150300",
+      "title": "Chalmers Bigney",
+      "latitude": 45.75105609,
+      "longitude": -63.05797118,
+      "directions": "On West Branch Road, River John, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150300",
+      "photo_urls": []
+    },
+    {
+      "id": "150367",
+      "title": "Thinkers Lodge",
+      "latitude": 45.85193129,
+      "longitude": -63.66487996,
+      "directions": "Near Water Street, Pugwash, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150367",
+      "photo_urls": []
+    },
+    {
+      "id": "150402",
+      "title": "Trenton Works Axle Hammer",
+      "latitude": 45.60923492,
+      "longitude": -62.63996771,
+      "directions": "On Main Street (State Route 348) , Trenton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150402",
+      "photo_urls": []
+    },
+    {
+      "id": "150403",
+      "title": "Honouring the First Successful Commercial Pouring of Steel in Canada - 1883",
+      "latitude": 45.60921545,
+      "longitude": -62.63995118,
+      "directions": "On Main Street (State Route 348) , Trenton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150403",
+      "photo_urls": []
+    },
+    {
+      "id": "150404",
+      "title": "First Pouring of Steel in Canada",
+      "latitude": 45.61066157,
+      "longitude": -62.6395105,
+      "directions": "On Main Street (Route 348) , Trenton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150404",
+      "photo_urls": []
+    },
+    {
+      "id": "150496",
+      "title": "The First Steel Made in Canada",
+      "latitude": 45.61057167,
+      "longitude": -62.63916655,
+      "directions": "On Main Street (State Route 348) , Trenton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=150496",
+      "photo_urls": []
+    },
+    {
+      "id": "151126",
+      "title": "Bird Islands",
+      "latitude": 46.289855,
+      "longitude": -60.541973,
+      "directions": "On State Route 312, Englishtown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151126",
+      "photo_urls": []
+    },
+    {
+      "id": "151320",
+      "title": "Frank Hoyse Sobey, OC",
+      "latitude": 45.55970161,
+      "longitude": -62.66035451,
+      "directions": "Near South Foord Street (State Route 374) , Stellarton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151320",
+      "photo_urls": []
+    },
+    {
+      "id": "151321",
+      "title": "Frank H. Sobey",
+      "latitude": 45.5596227,
+      "longitude": -62.66025355,
+      "directions": "Near South Foord Street (State Route 374) , Stellarton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151321",
+      "photo_urls": []
+    },
+    {
+      "id": "151322",
+      "title": "The Sobey Foundation",
+      "latitude": 45.55962892,
+      "longitude": -62.66028983,
+      "directions": "Near South Foord Street (State Route 374) , Stellarton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151322",
+      "photo_urls": []
+    },
+    {
+      "id": "151582",
+      "title": "Wallace R. MacAskill",
+      "latitude": 45.65578768,
+      "longitude": -60.87598506,
+      "directions": "On Grenville Street (State Route 4) , St. Peter&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151582",
+      "photo_urls": []
+    },
+    {
+      "id": "151583",
+      "title": "Lest We Forget",
+      "latitude": 45.65583662,
+      "longitude": -60.87483407,
+      "directions": "On Grenville Street (State Route 4) , St. Peter&#39;s, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151583",
+      "photo_urls": []
+    },
+    {
+      "id": "151606",
+      "title": "Sydney Harbour in the Second World War",
+      "latitude": 46.13654297,
+      "longitude": -60.1965003,
+      "directions": "Near Wentworth Street, Sydney, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151606",
+      "photo_urls": []
+    },
+    {
+      "id": "151628",
+      "title": "New Victoria Veterans Who Died Overseas",
+      "latitude": 46.25140138,
+      "longitude": -60.13521807,
+      "directions": "On New Waterford Highway (State Route 28) , New Victoria, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151628",
+      "photo_urls": []
+    },
+    {
+      "id": "151632",
+      "title": "New Waterford World War Monument",
+      "latitude": 46.24889249,
+      "longitude": -60.09083575,
+      "directions": "On Plummer Avenue, New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151632",
+      "photo_urls": []
+    },
+    {
+      "id": "151635",
+      "title": "Miner's Monument",
+      "latitude": 46.24886005,
+      "longitude": -60.09039672,
+      "directions": "On Plummer Avenue, New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151635",
+      "photo_urls": []
+    },
+    {
+      "id": "151636",
+      "title": "Standing The Gaff",
+      "latitude": 46.2488401,
+      "longitude": -60.09061222,
+      "directions": "On Plummer Avenue, New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151636",
+      "photo_urls": []
+    },
+    {
+      "id": "151725",
+      "title": "William Davis",
+      "latitude": 46.25221384,
+      "longitude": -60.09831914,
+      "directions": "Near Ellsworth Avenue (State Route 28) , New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151725",
+      "photo_urls": []
+    },
+    {
+      "id": "151726",
+      "title": "Earl Leadbeater",
+      "latitude": 46.25222527,
+      "longitude": -60.09831929,
+      "directions": "Near Ellsworth Avenue (State Route 28) , New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151726",
+      "photo_urls": []
+    },
+    {
+      "id": "151727",
+      "title": "Anderton Shearer Loader",
+      "latitude": 46.25224324,
+      "longitude": -60.09846716,
+      "directions": "Near Ellsworth Avenue (State Route 28) , New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151727",
+      "photo_urls": []
+    },
+    {
+      "id": "151728",
+      "title": "Joy",
+      "latitude": 46.25213315,
+      "longitude": -60.09855925,
+      "directions": "Near Ellsworth Avenue (State Route 28) , New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151728",
+      "photo_urls": []
+    },
+    {
+      "id": "151729",
+      "title": "Armoured Face Conveyor",
+      "latitude": 46.25202165,
+      "longitude": -60.09856386,
+      "directions": "Near Ellsworth Avenue (State Route 28) , New Waterford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=151729",
+      "photo_urls": []
+    },
+    {
+      "id": "169199",
+      "title": "\"Northern Friends\"",
+      "latitude": 46.14322757,
+      "longitude": -60.19962446,
+      "directions": "On Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=169199",
+      "photo_urls": []
+    },
+    {
+      "id": "169201",
+      "title": "Sir Peter D. Macdonald",
+      "latitude": 46.14328234,
+      "longitude": -60.1997083,
+      "directions": "On Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=169201",
+      "photo_urls": []
+    },
+    {
+      "id": "171096",
+      "title": "Royal Bank Lion",
+      "latitude": 46.14246127,
+      "longitude": -60.19867168,
+      "directions": "On Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171096",
+      "photo_urls": []
+    },
+    {
+      "id": "171097",
+      "title": "Cossit House",
+      "latitude": 46.14339275,
+      "longitude": -60.19792968,
+      "directions": "Near Charlotte Street, Sydney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171097",
+      "photo_urls": []
+    },
+    {
+      "id": "171098",
+      "title": "St. George's Church",
+      "latitude": 46.14238536,
+      "longitude": -60.19659034,
+      "directions": "Near Charlotte Street, Sydney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171098",
+      "photo_urls": []
+    },
+    {
+      "id": "171099",
+      "title": "Sydney's Heritage Conservation District",
+      "latitude": 46.14052564,
+      "longitude": -60.19625667,
+      "directions": "Near Esplanade, Sydney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171099",
+      "photo_urls": []
+    },
+    {
+      "id": "171490",
+      "title": "Canadian Merchant Navy",
+      "latitude": 46.13955782,
+      "longitude": -60.19801272,
+      "directions": "Near Esplanade, Sydney, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=171490",
+      "photo_urls": []
+    },
+    {
+      "id": "172550",
+      "title": "M.V. Bluenose Anchor",
+      "latitude": 43.83611317,
+      "longitude": -66.12184662,
+      "directions": "Near Water Street, Yarmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=172550",
+      "photo_urls": []
+    },
+    {
+      "id": "172551",
+      "title": "Bell",
+      "latitude": 43.83616394,
+      "longitude": -66.12182605,
+      "directions": "Near Water Street, Yarmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=172551",
+      "photo_urls": []
+    },
+    {
+      "id": "172552",
+      "title": "Ballard [sic - Bollard]",
+      "latitude": 43.83614165,
+      "longitude": -66.12183302,
+      "directions": "Near Water Street, Yarmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=172552",
+      "photo_urls": []
+    },
+    {
+      "id": "197083",
+      "title": "Bloody Creek",
+      "latitude": 44.822393,
+      "longitude": -65.309702,
+      "directions": "On County Route 201, near Bridgetown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197083",
+      "photo_urls": []
+    },
+    {
+      "id": "202797",
+      "title": "Polish Immigration Memorial",
+      "latitude": 44.638288,
+      "longitude": -63.565784,
+      "directions": "On Marginal Road, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202797",
+      "photo_urls": []
+    },
+    {
+      "id": "202799",
+      "title": "Dutch Canadians of Nova Scotia",
+      "latitude": 44.638343,
+      "longitude": -63.565682,
+      "directions": "On Marginal Road, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202799",
+      "photo_urls": []
+    },
+    {
+      "id": "205385",
+      "title": "Lest We Forget",
+      "latitude": 44.638301,
+      "longitude": -63.565717,
+      "directions": "On Marginal Road, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205385",
+      "photo_urls": []
+    },
+    {
+      "id": "205390",
+      "title": "British Home Children / Petits Immigres Britanniques",
+      "latitude": 44.638316,
+      "longitude": -63.565911,
+      "directions": "On Marginal Road, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205390",
+      "photo_urls": []
+    },
+    {
+      "id": "205629",
+      "title": "Building a Nation / L'édification d'une nation",
+      "latitude": 44.638389,
+      "longitude": -63.565352,
+      "directions": "On Ta20, Halifax, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205629",
+      "photo_urls": []
+    },
+    {
+      "id": "205630",
+      "title": "Canadian Museum of Immigration at Pier 21",
+      "latitude": 44.638476,
+      "longitude": -63.565443,
+      "directions": "On Ta20, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205630",
+      "photo_urls": []
+    },
+    {
+      "id": "205669",
+      "title": "The Volunteers",
+      "latitude": 44.64144204,
+      "longitude": -63.56681943,
+      "directions": "On the Harbourwalk, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205669",
+      "photo_urls": []
+    },
+    {
+      "id": "205789",
+      "title": "Ruth M. Goldbloom, O.C., O.N.S. (1923- 2012)",
+      "latitude": 44.638115,
+      "longitude": -63.565265,
+      "directions": "On Road Ta 20, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205789",
+      "photo_urls": []
+    },
+    {
+      "id": "205790",
+      "title": "Prince Valiant",
+      "latitude": 44.641297,
+      "longitude": -63.568017,
+      "directions": "On Lower Water Street, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205790",
+      "photo_urls": []
+    },
+    {
+      "id": "259705",
+      "title": "The Halifax Explosion/L'explosion d'Halifax",
+      "latitude": 44.64773476,
+      "longitude": -63.57900664,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259705",
+      "photo_urls": []
+    },
+    {
+      "id": "259709",
+      "title": "The Jamaican Maroons/Les Marrons de la Jamaique",
+      "latitude": 44.6477447,
+      "longitude": -63.57897677,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259709",
+      "photo_urls": []
+    },
+    {
+      "id": "259732",
+      "title": "Fortress Halifax/La forteresse Halifax",
+      "latitude": 44.64775266,
+      "longitude": -63.57886382,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259732",
+      "photo_urls": []
+    },
+    {
+      "id": "259737",
+      "title": "The Acadians on George Island / Les Acadiens sur l'Île Georges",
+      "latitude": 44.6477453,
+      "longitude": -63.57886007,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259737",
+      "photo_urls": []
+    },
+    {
+      "id": "259843",
+      "title": "Returning Home / Retour à la maison",
+      "latitude": 44.64778379,
+      "longitude": -63.56996163,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259843",
+      "photo_urls": []
+    },
+    {
+      "id": "259844",
+      "title": "VE-Day Riots / Émeutes du Jour de la Victoire en Europe",
+      "latitude": 44.64752778,
+      "longitude": -63.57078611,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259844",
+      "photo_urls": []
+    },
+    {
+      "id": "259845",
+      "title": "Mona Parsons 1901-1976",
+      "latitude": 44.64774713,
+      "longitude": -63.57012122,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259845",
+      "photo_urls": []
+    },
+    {
+      "id": "259846",
+      "title": "Entertainment / Divertissement",
+      "latitude": 44.64777266,
+      "longitude": -63.57001815,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259846",
+      "photo_urls": []
+    },
+    {
+      "id": "259847",
+      "title": "Charles Doucette 1912-1944",
+      "latitude": 44.64776285,
+      "longitude": -63.57009946,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259847",
+      "photo_urls": []
+    },
+    {
+      "id": "259849",
+      "title": "Bedford Magazine Explosion / Explosion du Magasin de Bedford",
+      "latitude": 44.64783381,
+      "longitude": -63.56974541,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259849",
+      "photo_urls": []
+    },
+    {
+      "id": "259851",
+      "title": "Juno Beach / Plage Juno",
+      "latitude": 44.64780564,
+      "longitude": -63.56987925,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259851",
+      "photo_urls": []
+    },
+    {
+      "id": "259852",
+      "title": "Harry DeWolf 1903-2000",
+      "latitude": 44.64777568,
+      "longitude": -63.57001125,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259852",
+      "photo_urls": []
+    },
+    {
+      "id": "259853",
+      "title": "Gertrude Ritchie 1903-1998",
+      "latitude": 44.64783567,
+      "longitude": -63.56986812,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259853",
+      "photo_urls": []
+    },
+    {
+      "id": "259854",
+      "title": "Harry Foster 1902-1964",
+      "latitude": 44.64784922,
+      "longitude": -63.56972686,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259854",
+      "photo_urls": []
+    },
+    {
+      "id": "259855",
+      "title": "Battle of the Atlantic / La Bataille De L'Atlantique",
+      "latitude": 44.64781056,
+      "longitude": -63.56990635,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259855",
+      "photo_urls": []
+    },
+    {
+      "id": "259858",
+      "title": "Allan Bundy 1920-2001",
+      "latitude": 44.64776858,
+      "longitude": -63.57003777,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259858",
+      "photo_urls": []
+    },
+    {
+      "id": "259859",
+      "title": "CSS Acadia",
+      "latitude": 44.64752778,
+      "longitude": -63.57078611,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259859",
+      "photo_urls": []
+    },
+    {
+      "id": "259860",
+      "title": "CSS Acadia (Side 2)",
+      "latitude": 44.64752778,
+      "longitude": -63.57078611,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259860",
+      "photo_urls": []
+    },
+    {
+      "id": "260156",
+      "title": "The Big Fiddle",
+      "latitude": 46.14151111,
+      "longitude": -60.19973056,
+      "directions": "Near Esplanade, Sydney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260156",
+      "photo_urls": []
+    },
+    {
+      "id": "260157",
+      "title": "Citadel Hill/La Colline de la Citadelle/Kuowaqe'jk",
+      "latitude": 44.64763245,
+      "longitude": -63.57891302,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260157",
+      "photo_urls": []
+    },
+    {
+      "id": "260364",
+      "title": "The Saluting Battery / La batterie de salut",
+      "latitude": 44.64772083,
+      "longitude": -63.57888379,
+      "directions": "On Ta13 road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260364",
+      "photo_urls": []
+    },
+    {
+      "id": "260367",
+      "title": "The Convoys / Les convois",
+      "latitude": 44.64773227,
+      "longitude": -63.57887795,
+      "directions": "On Ta13 Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260367",
+      "photo_urls": []
+    },
+    {
+      "id": "260371",
+      "title": "from Barometer Rising",
+      "latitude": 44.64755278,
+      "longitude": -63.58013611,
+      "directions": "On Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260371",
+      "photo_urls": []
+    },
+    {
+      "id": "269427",
+      "title": "The Bailey Bridge / Le Pont Bailey",
+      "latitude": 44.64535328,
+      "longitude": -63.57640833,
+      "directions": "Near Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=269427",
+      "photo_urls": []
+    },
+    {
+      "id": "284477",
+      "title": "The Ovens",
+      "latitude": 44.32056899,
+      "longitude": -64.25697665,
+      "directions": "On Ovens Road, near Riverport, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284477",
+      "photo_urls": []
+    },
+    {
+      "id": "289901",
+      "title": "Government House",
+      "latitude": 44.64333316,
+      "longitude": -63.57192888,
+      "directions": "On Barrington Street, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289901",
+      "photo_urls": []
+    },
+    {
+      "id": "293358",
+      "title": "Lost to the Sea / Perdus en Mer",
+      "latitude": 43.838613,
+      "longitude": -66.12089,
+      "directions": "On Water Street, Yarmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293358",
+      "photo_urls": []
+    },
+    {
+      "id": "44062",
+      "title": "Deadman's Island",
+      "latitude": 44.634851,
+      "longitude": -63.61111,
+      "directions": "Near Pinehaven Drive, Halifax, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44062",
+      "photo_urls": []
+    },
+    {
+      "id": "44479",
+      "title": "York Redoubt",
+      "latitude": 44.596867,
+      "longitude": -63.553161,
+      "directions": "Near York Redoubt Access Road, near Fergusons Cove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44479",
+      "photo_urls": []
+    },
+    {
+      "id": "44629",
+      "title": "Duke of York's Martello Tower",
+      "latitude": 44.597292,
+      "longitude": -63.55331,
+      "directions": "Near York Redoubt Access Road, near Fergusons Cove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44629",
+      "photo_urls": []
+    },
+    {
+      "id": "45717",
+      "title": "Swissair Flight 111 Memorial / Monument commémoratif Swissair 111",
+      "latitude": 44.506997,
+      "longitude": -63.932192,
+      "directions": "Near Prospect Road (State Route 333) , near Peggy&#39;s Cove, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=45717",
+      "photo_urls": []
+    },
+    {
+      "id": "47255",
+      "title": "Swissair Flight 111 Memorial",
+      "latitude": 44.499683,
+      "longitude": -64.068612,
+      "directions": "Near State Route 329, Bayswater, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=47255",
+      "photo_urls": []
+    },
+    {
+      "id": "77595",
+      "title": "Halifax’s Cable Wharf",
+      "latitude": 44.649085,
+      "longitude": -63.57107,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77595",
+      "photo_urls": []
+    },
+    {
+      "id": "77596",
+      "title": "Norway",
+      "latitude": 44.646947,
+      "longitude": -63.57016,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77596",
+      "photo_urls": []
+    },
+    {
+      "id": "77597",
+      "title": "Canadian Sailor's Monument",
+      "latitude": 44.647035,
+      "longitude": -63.570385,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77597",
+      "photo_urls": []
+    },
+    {
+      "id": "77598",
+      "title": "There Was Once a Very Special Ship",
+      "latitude": 44.64584,
+      "longitude": -63.569297,
+      "directions": "On Salter Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77598",
+      "photo_urls": []
+    },
+    {
+      "id": "77616",
+      "title": "Pier 21",
+      "latitude": 44.644767,
+      "longitude": -63.568068,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77616",
+      "photo_urls": []
+    },
+    {
+      "id": "77619",
+      "title": "Georges Island",
+      "latitude": 44.644502,
+      "longitude": -63.56824,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77619",
+      "photo_urls": []
+    },
+    {
+      "id": "77622",
+      "title": "France and Canada",
+      "latitude": 44.644164,
+      "longitude": -63.568279,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77622",
+      "photo_urls": []
+    },
+    {
+      "id": "77625",
+      "title": "The Grand Dérangement",
+      "latitude": 44.643313,
+      "longitude": -63.567662,
+      "directions": "Near Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77625",
+      "photo_urls": []
+    },
+    {
+      "id": "77646",
+      "title": "Ships and Men of the Royal Canadian Navy",
+      "latitude": 44.641469,
+      "longitude": -63.56684,
+      "directions": "Near Marginal Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77646",
+      "photo_urls": []
+    },
+    {
+      "id": "77647",
+      "title": "Charles Morris",
+      "latitude": 44.641867,
+      "longitude": -63.569873,
+      "directions": "On Hollis Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77647",
+      "photo_urls": []
+    },
+    {
+      "id": "77657",
+      "title": "Black-Binney House",
+      "latitude": 44.643514,
+      "longitude": -63.571391,
+      "directions": "On Hollis Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77657",
+      "photo_urls": []
+    },
+    {
+      "id": "77718",
+      "title": "Pier 21 / Le Quai 21",
+      "latitude": 44.638379,
+      "longitude": -63.565355,
+      "directions": "On Marginal Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77718",
+      "photo_urls": []
+    },
+    {
+      "id": "77719",
+      "title": "Glebe House Campus",
+      "latitude": 44.644263,
+      "longitude": -63.572679,
+      "directions": "On Barrington Street, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77719",
+      "photo_urls": []
+    },
+    {
+      "id": "77721",
+      "title": "St. Mary’s Basilica",
+      "latitude": 44.64416,
+      "longitude": -63.573071,
+      "directions": "On Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77721",
+      "photo_urls": []
+    },
+    {
+      "id": "77723",
+      "title": "Pierre Maillard",
+      "latitude": 44.64415,
+      "longitude": -63.573129,
+      "directions": "On Spring Garden Road, Halifax, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77723",
+      "photo_urls": []
+    },
+    {
+      "id": "77741",
+      "title": "The Tall Ships Parade 2000",
+      "latitude": 44.642886,
+      "longitude": -63.567348,
+      "directions": "Near Morris Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77741",
+      "photo_urls": []
+    },
+    {
+      "id": "77743",
+      "title": "Old Burying Ground",
+      "latitude": 44.643495,
+      "longitude": -63.572274,
+      "directions": "On Barrington Street, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77743",
+      "photo_urls": []
+    },
+    {
+      "id": "77744",
+      "title": "The Welsford Parker Monument",
+      "latitude": 44.643493,
+      "longitude": -63.572474,
+      "directions": "Near Barrington Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77744",
+      "photo_urls": []
+    },
+    {
+      "id": "77747",
+      "title": "Edmund Burke",
+      "latitude": 44.64413,
+      "longitude": -63.573265,
+      "directions": "On Spring Garden Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77747",
+      "photo_urls": []
+    },
+    {
+      "id": "77782",
+      "title": "Carved in Stone",
+      "latitude": 44.643402,
+      "longitude": -63.572663,
+      "directions": "On Barrington Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77782",
+      "photo_urls": []
+    },
+    {
+      "id": "77783",
+      "title": "The Old Burying Ground",
+      "latitude": 44.643547,
+      "longitude": -63.572421,
+      "directions": "On Barrington Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77783",
+      "photo_urls": []
+    },
+    {
+      "id": "77784",
+      "title": "Old Burying Ground",
+      "latitude": 44.643491,
+      "longitude": -63.572312,
+      "directions": "Near Barrington Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77784",
+      "photo_urls": []
+    },
+    {
+      "id": "77805",
+      "title": "Canadian Corps of Commissionaires",
+      "latitude": 44.643434,
+      "longitude": -63.571355,
+      "directions": "On Hollis Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77805",
+      "photo_urls": []
+    },
+    {
+      "id": "77825",
+      "title": "Philippe Aubert de Gaspé (fils)",
+      "latitude": 44.644049,
+      "longitude": -63.574495,
+      "directions": "Near Spring Garden Road, Halifax, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77825",
+      "photo_urls": []
+    },
+    {
+      "id": "77826",
+      "title": "Halifax Waterfront Buildings",
+      "latitude": 44.650066,
+      "longitude": -63.573253,
+      "directions": "Near Upper Water Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77826",
+      "photo_urls": []
+    },
+    {
+      "id": "77852",
+      "title": "Halifax and RMS <i>Titanic</i>",
+      "latitude": 44.659261,
+      "longitude": -63.623332,
+      "directions": "On Windsor Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77852",
+      "photo_urls": []
+    },
+    {
+      "id": "77857",
+      "title": "Fairview Lawn Cemetery",
+      "latitude": 44.659332,
+      "longitude": -63.623345,
+      "directions": "On Windsor Street, Halifax, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77857",
+      "photo_urls": []
+    },
+    {
+      "id": "77858",
+      "title": "Province House",
+      "latitude": 44.648131,
+      "longitude": -63.573179,
+      "directions": "On Hollis Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77858",
+      "photo_urls": []
+    },
+    {
+      "id": "77859",
+      "title": "South African War Monument",
+      "latitude": 44.6483,
+      "longitude": -63.573516,
+      "directions": "On Hollis Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77859",
+      "photo_urls": []
+    },
+    {
+      "id": "77876",
+      "title": "Passage to a New Beginning • Passage à un nouveau monde",
+      "latitude": 44.638315,
+      "longitude": -63.565352,
+      "directions": "On Marginal Road, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77876",
+      "photo_urls": []
+    },
+    {
+      "id": "77877",
+      "title": "Major General / Major-Général Robert Ross 1766-1814",
+      "latitude": 44.643226,
+      "longitude": -63.572823,
+      "directions": "Near Barrington Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77877",
+      "photo_urls": []
+    },
+    {
+      "id": "77879",
+      "title": "Samuel Cunard",
+      "latitude": 44.647552,
+      "longitude": -63.571198,
+      "directions": "On Lower Water Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77879",
+      "photo_urls": []
+    },
+    {
+      "id": "77897",
+      "title": "Mr. John Samwell",
+      "latitude": 44.643499,
+      "longitude": -63.572529,
+      "directions": "Near Barrington Street, Halifax, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77897",
+      "photo_urls": []
+    },
+    {
+      "id": "77937",
+      "title": "Peggy's Cove",
+      "latitude": 44.494004,
+      "longitude": -63.913532,
+      "directions": "On Peggy&#39;s Point Road, Peggy&#39;s Cove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77937",
+      "photo_urls": []
+    },
+    {
+      "id": "77939",
+      "title": "Peggy's Cove",
+      "latitude": 44.492292,
+      "longitude": -63.918094,
+      "directions": "On Peggy&#39;s Cove Road, Peggy&#39;s Cove, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77939",
+      "photo_urls": []
+    },
+    {
+      "id": "77953",
+      "title": "Captain / Capitaine James Cook",
+      "latitude": 44.665649,
+      "longitude": -63.600876,
+      "directions": "Near Union Street, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77953",
+      "photo_urls": []
+    },
+    {
+      "id": "77955",
+      "title": "Fort Needham Memorial Park",
+      "latitude": 44.665882,
+      "longitude": -63.601177,
+      "directions": "Near Union Street, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77955",
+      "photo_urls": []
+    },
+    {
+      "id": "77956",
+      "title": "Shubenacadie Canal, Port Wallace",
+      "latitude": 44.707911,
+      "longitude": -63.55368,
+      "directions": "Near John Brenton Drive, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77956",
+      "photo_urls": []
+    },
+    {
+      "id": "77982",
+      "title": "The Forge",
+      "latitude": 44.70641667,
+      "longitude": -63.55515,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77982",
+      "photo_urls": []
+    },
+    {
+      "id": "77984",
+      "title": "Canal Shubenacadie Canal",
+      "latitude": 44.702645,
+      "longitude": -63.554579,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77984",
+      "photo_urls": []
+    },
+    {
+      "id": "77985",
+      "title": "The Fairbanks Solution",
+      "latitude": 44.70196667,
+      "longitude": -63.5546,
+      "directions": "Near Locks Road, Dartmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77985",
+      "photo_urls": []
+    },
+    {
+      "id": "77986",
+      "title": "Before the Canal",
+      "latitude": 44.70165,
+      "longitude": -63.55398333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77986",
+      "photo_urls": []
+    },
+    {
+      "id": "77987",
+      "title": "A Village of the Most Primitive Description",
+      "latitude": 44.70055,
+      "longitude": -63.55325,
+      "directions": "Near Lock Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77987",
+      "photo_urls": []
+    },
+    {
+      "id": "77988",
+      "title": "Lightning Strikes at Canal Camp",
+      "latitude": 44.69966667,
+      "longitude": -63.55235,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77988",
+      "photo_urls": []
+    },
+    {
+      "id": "78073",
+      "title": "Why Aren’t We Americans? • Pourquoi ne sommes-nous pas des Américains?",
+      "latitude": 44.643441,
+      "longitude": -63.572236,
+      "directions": "On Barrington Street, Halifax, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78073",
+      "photo_urls": []
+    },
+    {
+      "id": "78077",
+      "title": "Unique Construction",
+      "latitude": 44.69911667,
+      "longitude": -63.55241667,
+      "directions": "Near Lock Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78077",
+      "photo_urls": []
+    },
+    {
+      "id": "78078",
+      "title": "Official Groundbreaking 1829",
+      "latitude": 44.702407,
+      "longitude": -63.5542585,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78078",
+      "photo_urls": []
+    },
+    {
+      "id": "78081",
+      "title": "A Changing Lake-scape",
+      "latitude": 44.69781667,
+      "longitude": -63.55233333,
+      "directions": "Near Lock Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78081",
+      "photo_urls": []
+    },
+    {
+      "id": "78083",
+      "title": "Barges, Steamboats and Scows",
+      "latitude": 44.69943333,
+      "longitude": -63.55291667,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78083",
+      "photo_urls": []
+    },
+    {
+      "id": "78100",
+      "title": "A Testament to Hard Work",
+      "latitude": 44.69961667,
+      "longitude": -63.55315,
+      "directions": "Near Lock Road, Dartmouth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78100",
+      "photo_urls": []
+    },
+    {
+      "id": "78101",
+      "title": "Of Bough and Bark",
+      "latitude": 44.70106667,
+      "longitude": -63.55393333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78101",
+      "photo_urls": []
+    },
+    {
+      "id": "78102",
+      "title": "Waste Weir and Holding Pond",
+      "latitude": 44.70238333,
+      "longitude": -63.55523333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78102",
+      "photo_urls": []
+    },
+    {
+      "id": "78104",
+      "title": "Navvies Dwelling",
+      "latitude": 44.70318333,
+      "longitude": -63.5564,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78104",
+      "photo_urls": []
+    },
+    {
+      "id": "78105",
+      "title": "Deep Cut",
+      "latitude": 44.70371667,
+      "longitude": -63.55733333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78105",
+      "photo_urls": []
+    },
+    {
+      "id": "78106",
+      "title": "One of the mysteries yet to be solved…",
+      "latitude": 44.70531667,
+      "longitude": -63.55663333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78106",
+      "photo_urls": []
+    },
+    {
+      "id": "78115",
+      "title": "Summit of the Canal",
+      "latitude": 44.70826667,
+      "longitude": -63.5543,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78115",
+      "photo_urls": []
+    },
+    {
+      "id": "78117",
+      "title": "Benching - An early construction technique",
+      "latitude": 44.70823333,
+      "longitude": -63.55428333,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78117",
+      "photo_urls": []
+    },
+    {
+      "id": "78147",
+      "title": "Historic Shubenacadie Canal System",
+      "latitude": 44.702152,
+      "longitude": -63.554521,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78147",
+      "photo_urls": []
+    },
+    {
+      "id": "78148",
+      "title": "Historic Shubenacadie Canal System",
+      "latitude": 44.699545,
+      "longitude": -63.552772,
+      "directions": "Near Locks Road, Dartmouth, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78148",
+      "photo_urls": []
+    },
+    {
+      "id": "78154",
+      "title": "Lunenburg’s Shipbuilding Tradition",
+      "latitude": 44.375733,
+      "longitude": -64.307684,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78154",
+      "photo_urls": []
+    },
+    {
+      "id": "78158",
+      "title": "Lunenburg - Home of the <i>Bluenose</i> & <i>Bluenose II</i>",
+      "latitude": 44.376058,
+      "longitude": -64.310146,
+      "directions": "On Bluenose Drive, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78158",
+      "photo_urls": []
+    },
+    {
+      "id": "78204",
+      "title": "“…for those in peril on the sea.”",
+      "latitude": 44.62158086,
+      "longitude": -65.76040822,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78204",
+      "photo_urls": []
+    },
+    {
+      "id": "78205",
+      "title": "The Labrador Whaler <i>Anderson Bros.</i>",
+      "latitude": 44.375741,
+      "longitude": -64.310853,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78205",
+      "photo_urls": []
+    },
+    {
+      "id": "78206",
+      "title": "Lunenburg’s Fishing Industry Since 1940’s",
+      "latitude": 44.376165,
+      "longitude": -64.310833,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78206",
+      "photo_urls": []
+    },
+    {
+      "id": "78207",
+      "title": "Lunenburg’s Fishing Industry 1870’s - 1940’s",
+      "latitude": 44.376215,
+      "longitude": -64.311215,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78207",
+      "photo_urls": []
+    },
+    {
+      "id": "78209",
+      "title": "Old Town Lunenburg Historic District",
+      "latitude": 44.376225,
+      "longitude": -64.311348,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78209",
+      "photo_urls": []
+    },
+    {
+      "id": "78257",
+      "title": "The View from the Citadel / Le panorama vu de la citadelle",
+      "latitude": 44.647813,
+      "longitude": -63.579555,
+      "directions": "Near Sackville Street, Halifax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78257",
+      "photo_urls": []
+    },
+    {
+      "id": "78258",
+      "title": "Halifax Citadel / La Citadelle d’Halifax",
+      "latitude": 44.647491,
+      "longitude": -63.578936,
+      "directions": "On Sackville Street, Halifax, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78258",
+      "photo_urls": []
+    },
+    {
+      "id": "78259",
+      "title": "Lunenburg’s Fishing Industry to the 1870’s",
+      "latitude": 44.376362,
+      "longitude": -64.312652,
+      "directions": "On Bluenose Drive, Lunenburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78259",
+      "photo_urls": []
+    },
+    {
+      "id": "78260",
+      "title": "Merligueche",
+      "latitude": 44.376705,
+      "longitude": -64.313976,
+      "directions": "On Linden Avenue, Lunenburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78260",
+      "photo_urls": []
+    },
+    {
+      "id": "78294",
+      "title": "The Early Acadian History of Lunenburg",
+      "latitude": 44.376659,
+      "longitude": -64.314231,
+      "directions": "Near Linden Avenue, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78294",
+      "photo_urls": []
+    },
+    {
+      "id": "78296",
+      "title": "Foreign Protestant Settlement in Lunenburg",
+      "latitude": 44.376619,
+      "longitude": -64.314427,
+      "directions": "Near Linden Avenue, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78296",
+      "photo_urls": []
+    },
+    {
+      "id": "78297",
+      "title": "First Peoples",
+      "latitude": 44.376544,
+      "longitude": -64.314797,
+      "directions": "Near Linden Avenue, Lunenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78297",
+      "photo_urls": []
+    },
+    {
+      "id": "78303",
+      "title": "Rum Running",
+      "latitude": 44.376002,
+      "longitude": -64.308982,
+      "directions": "On Rum Row, Lunenburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78303",
+      "photo_urls": []
+    },
+    {
+      "id": "78317",
+      "title": "The Sack of Lunenburg",
+      "latitude": 44.377785,
+      "longitude": -64.304409,
+      "directions": "On Blockhouse Hill Road, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78317",
+      "photo_urls": []
+    },
+    {
+      "id": "78318",
+      "title": "Foreign Protestants & the Settlement of Lunenburg",
+      "latitude": 44.37775,
+      "longitude": -64.304472,
+      "directions": "On Blockhouse Hill Road, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78318",
+      "photo_urls": []
+    },
+    {
+      "id": "78328",
+      "title": "Defence of Lunenburg",
+      "latitude": 44.377771,
+      "longitude": -64.304433,
+      "directions": "On Blockhouse Hill Road, Lunenburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78328",
+      "photo_urls": []
+    },
+    {
+      "id": "78439",
+      "title": "Captures of Port Royal",
+      "latitude": 44.741637,
+      "longitude": -65.518496,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78439",
+      "photo_urls": []
+    },
+    {
+      "id": "78442",
+      "title": "Daniel Auger de Subercase",
+      "latitude": 44.741673,
+      "longitude": -65.518434,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78442",
+      "photo_urls": []
+    },
+    {
+      "id": "78443",
+      "title": "Sieur de Monts",
+      "latitude": 44.742413,
+      "longitude": -65.519333,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78443",
+      "photo_urls": []
+    },
+    {
+      "id": "78445",
+      "title": "Queen’s Wharf",
+      "latitude": 44.742155,
+      "longitude": -65.519544,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78445",
+      "photo_urls": []
+    },
+    {
+      "id": "78449",
+      "title": "Port-Royal",
+      "latitude": 44.742024,
+      "longitude": -65.519844,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78449",
+      "photo_urls": []
+    },
+    {
+      "id": "78482",
+      "title": "Samuel Vetch",
+      "latitude": 44.741404,
+      "longitude": -65.520091,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78482",
+      "photo_urls": []
+    },
+    {
+      "id": "78483",
+      "title": "Early Use of Site",
+      "latitude": 44.74093,
+      "longitude": -65.520383,
+      "directions": "On St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78483",
+      "photo_urls": []
+    },
+    {
+      "id": "78486",
+      "title": "Charles Fort / Le fort Charles",
+      "latitude": 44.74081,
+      "longitude": -65.520257,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78486",
+      "photo_urls": []
+    },
+    {
+      "id": "78488",
+      "title": "Acadian Dykeland",
+      "latitude": 44.740731,
+      "longitude": -65.519517,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78488",
+      "photo_urls": []
+    },
+    {
+      "id": "78491",
+      "title": "Jean Paul Mascarene",
+      "latitude": 44.740834,
+      "longitude": -65.519432,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78491",
+      "photo_urls": []
+    },
+    {
+      "id": "78598",
+      "title": "Fort Anne, a Bastioned Fort",
+      "latitude": 44.741028,
+      "longitude": -65.518877,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78598",
+      "photo_urls": []
+    },
+    {
+      "id": "78601",
+      "title": "The Black Hole / Le cachot",
+      "latitude": 44.741643,
+      "longitude": -65.519552,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78601",
+      "photo_urls": []
+    },
+    {
+      "id": "78603",
+      "title": "The Flag Bastion / Le bastion de l’étendard",
+      "latitude": 44.741636,
+      "longitude": -65.519679,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78603",
+      "photo_urls": []
+    },
+    {
+      "id": "78605",
+      "title": "Cemeteries",
+      "latitude": 44.741866,
+      "longitude": -65.517516,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78605",
+      "photo_urls": []
+    },
+    {
+      "id": "78606",
+      "title": "Duvivier Attack",
+      "latitude": 44.741517,
+      "longitude": -65.517967,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78606",
+      "photo_urls": []
+    },
+    {
+      "id": "78607",
+      "title": "William Wolseley",
+      "latitude": 44.742679,
+      "longitude": -65.518781,
+      "directions": "Near St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78607",
+      "photo_urls": []
+    },
+    {
+      "id": "78668",
+      "title": "Masonic Stone of 1606",
+      "latitude": 44.743059,
+      "longitude": -65.519167,
+      "directions": "On St. George Street, Annapolis Royal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78668",
+      "photo_urls": []
+    },
+    {
+      "id": "78670",
+      "title": "Annapolis Royal Historic District",
+      "latitude": 44.743453,
+      "longitude": -65.519889,
+      "directions": "On St. George Street, Annapolis Royal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78670",
+      "photo_urls": []
+    },
+    {
+      "id": "78671",
+      "title": "Rose Fortune",
+      "latitude": 44.743555,
+      "longitude": -65.519885,
+      "directions": "On St. George Street, Annapolis Royal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78671",
+      "photo_urls": []
+    },
+    {
+      "id": "78672",
+      "title": "Sir William Fenwick Williams",
+      "latitude": 44.744107,
+      "longitude": -65.51952,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78672",
+      "photo_urls": []
+    },
+    {
+      "id": "78698",
+      "title": "Sir William Robert Wolseley Winniett.",
+      "latitude": 44.744036,
+      "longitude": -65.519453,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78698",
+      "photo_urls": []
+    },
+    {
+      "id": "78700",
+      "title": "Major Erasmus James Philipps",
+      "latitude": 44.744564,
+      "longitude": -65.519379,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78700",
+      "photo_urls": []
+    },
+    {
+      "id": "78701",
+      "title": "Sinclair Inn",
+      "latitude": 44.744552,
+      "longitude": -65.519319,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78701",
+      "photo_urls": []
+    },
+    {
+      "id": "78702",
+      "title": "Wharf & Waterfront",
+      "latitude": 44.745735,
+      "longitude": -65.518898,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78702",
+      "photo_urls": []
+    },
+    {
+      "id": "78720",
+      "title": "Glebe Lands",
+      "latitude": 44.7454,
+      "longitude": -65.518939,
+      "directions": "On St. George Street, Annapolis Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78720",
+      "photo_urls": []
+    },
+    {
+      "id": "78721",
+      "title": "Grand-Pré Rural Historic District",
+      "latitude": 45.10831,
+      "longitude": -64.309841,
+      "directions": "Near Grand-Pré Road, near Grand Pré, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78721",
+      "photo_urls": []
+    },
+    {
+      "id": "78722",
+      "title": "The Expulsion of the Acadians",
+      "latitude": 45.108598,
+      "longitude": -64.309823,
+      "directions": "Near Grand-Pré Road, near Grand Pré, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78722",
+      "photo_urls": []
+    },
+    {
+      "id": "78723",
+      "title": "Statue of Evangeline",
+      "latitude": 45.10926,
+      "longitude": -64.311986,
+      "directions": "Near Grand-Pré Road, near Grand Pré, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78723",
+      "photo_urls": []
+    },
+    {
+      "id": "78726",
+      "title": "St. Peter’s Canal / Le Canal Saint-Pierre",
+      "latitude": 45.652249,
+      "longitude": -60.870702,
+      "directions": "On Toulouse Street, St. Peter&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78726",
+      "photo_urls": []
+    },
+    {
+      "id": "78727",
+      "title": "The French Settlement of Saint-Pierre",
+      "latitude": 45.651822,
+      "longitude": -60.87038,
+      "directions": "On Toulouse Street, St. Peter&#39;s, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78727",
+      "photo_urls": []
+    },
+    {
+      "id": "78728",
+      "title": "One Place, Four Names",
+      "latitude": 45.654115,
+      "longitude": -60.869476,
+      "directions": "On Toulouse Street, St. Peter&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78728",
+      "photo_urls": []
+    },
+    {
+      "id": "78729",
+      "title": "St, Peter’s and Its Canal",
+      "latitude": 45.654156,
+      "longitude": -60.869428,
+      "directions": "On Toulouse Street, St. Peter&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78729",
+      "photo_urls": []
+    },
+    {
+      "id": "78743",
+      "title": "J.F.W. DesBarres",
+      "latitude": 46.14056,
+      "longitude": -60.196348,
+      "directions": "On Esplanade, Sydney, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78743",
+      "photo_urls": []
+    },
+    {
+      "id": "79915",
+      "title": "Fortress of Louisbourg",
+      "latitude": 45.909597,
+      "longitude": -59.984217,
+      "directions": "Near Kennington Cove Road, near Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79915",
+      "photo_urls": []
+    },
+    {
+      "id": "79917",
+      "title": "Marie Marguerite Rose",
+      "latitude": 45.891982,
+      "longitude": -59.984304,
+      "directions": "On Royale, near Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79917",
+      "photo_urls": []
+    },
+    {
+      "id": "79918",
+      "title": "Slavery / Freedom",
+      "latitude": 45.891957,
+      "longitude": -59.98432,
+      "directions": "Near Royale, near Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79918",
+      "photo_urls": []
+    },
+    {
+      "id": "79938",
+      "title": "Wolfe’s Landing",
+      "latitude": 45.878743,
+      "longitude": -60.054504,
+      "directions": "Near Kennington Cove Road, Louisbourg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79938",
+      "photo_urls": []
+    },
+    {
+      "id": "79941",
+      "title": "The Lobster Fishery",
+      "latitude": 45.908237,
+      "longitude": -59.965491,
+      "directions": "On Havenside Road, near Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79941",
+      "photo_urls": []
+    },
+    {
+      "id": "79963",
+      "title": "Louisbourg Harbour",
+      "latitude": 45.906632,
+      "longitude": -59.957763,
+      "directions": "On Havenside Road, near Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79963",
+      "photo_urls": []
+    },
+    {
+      "id": "79965",
+      "title": "19th-Century Lighthouse",
+      "latitude": 45.906567,
+      "longitude": -59.958514,
+      "directions": "Near Havenside Road, near Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79965",
+      "photo_urls": []
+    },
+    {
+      "id": "79967",
+      "title": "First Lighthouse Tower",
+      "latitude": 45.906617,
+      "longitude": -59.95847,
+      "directions": "Near Havenside Road, near Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79967",
+      "photo_urls": []
+    },
+    {
+      "id": "79968",
+      "title": "French Garrison at Louisbourg",
+      "latitude": 45.906637,
+      "longitude": -59.958408,
+      "directions": "Near Havenside Road, Louisbourg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79968",
+      "photo_urls": []
+    },
+    {
+      "id": "79990",
+      "title": "The First Airplane Flight in Canada",
+      "latitude": 46.103322,
+      "longitude": -60.745906,
+      "directions": "Near Chebucto Street (State Route 205) , Baddeck, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79990",
+      "photo_urls": []
+    },
+    {
+      "id": "79992",
+      "title": "First Aeroplane Flight",
+      "latitude": 46.100319,
+      "longitude": -60.751103,
+      "directions": "On Chebucto Street (State Route 205) , Baddeck, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79992",
+      "photo_urls": []
+    },
+    {
+      "id": "79993",
+      "title": "Alexander Graham Bell",
+      "latitude": 46.103327,
+      "longitude": -60.745266,
+      "directions": "On Chebucto Street (State Route 205) , Baddeck, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79993",
+      "photo_urls": []
+    },
+    {
+      "id": "79999",
+      "title": "Home and School Movement",
+      "latitude": 46.098638,
+      "longitude": -60.75398,
+      "directions": "On Shore Road (State Route 205) , Baddeck, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=79999",
+      "photo_urls": []
+    },
+    {
+      "id": "80004",
+      "title": "Reverend Norman McLeod",
+      "latitude": 46.21292,
+      "longitude": -60.605075,
+      "directions": "Near Cabot Trail, Saint Ann&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80004",
+      "photo_urls": []
+    },
+    {
+      "id": "80005",
+      "title": "Sainte-Anné",
+      "latitude": 46.287219,
+      "longitude": -60.540289,
+      "directions": "On State Route 312, Englishtown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80005",
+      "photo_urls": []
+    },
+    {
+      "id": "80006",
+      "title": "William Kidston",
+      "latitude": 46.099983,
+      "longitude": -60.751935,
+      "directions": "On Chebucto Street (State Route 205) , Baddeck, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80006",
+      "photo_urls": []
+    },
+    {
+      "id": "80007",
+      "title": "Alexander Graham Bell National Historic Park",
+      "latitude": 46.103174,
+      "longitude": -60.745803,
+      "directions": "Near Chebucto Street (State Route 205) , Baddeck, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80007",
+      "photo_urls": []
+    },
+    {
+      "id": "80068",
+      "title": "The Margaree-Lake Ainslie River System",
+      "latitude": 46.333767,
+      "longitude": -61.096877,
+      "directions": "On Cabot Trail, Margaree Forks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80068",
+      "photo_urls": []
+    },
+    {
+      "id": "80069",
+      "title": "Margaree River",
+      "latitude": 46.333744,
+      "longitude": -61.0969,
+      "directions": "On Cabot Trail, Margaree Forks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80069",
+      "photo_urls": []
+    },
+    {
+      "id": "80070",
+      "title": "Dr. Moses Coady and Father Jimmy Tompkins",
+      "latitude": 46.333748,
+      "longitude": -61.096687,
+      "directions": "On Cabot Trail, Margaree Forks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80070",
+      "photo_urls": []
+    },
+    {
+      "id": "80077",
+      "title": "History of Baddeck",
+      "latitude": 46.097346,
+      "longitude": -60.749404,
+      "directions": "On Water Street, Baddeck, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80077",
+      "photo_urls": []
+    }
+  ]
+}
