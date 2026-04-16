@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-16",
+  "run_id": 106,
+  "cycle_day": 22,
+  "regions_processed": [
+    "un-michis"
+  ],
+  "changes": {
+    "un-michis": {
+      "added": 1591,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 2783,
+  "total_removed": 0,
+  "total_modified": 0
+}
