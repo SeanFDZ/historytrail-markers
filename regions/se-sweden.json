@@ -1,0 +1,515 @@
+{
+  "region_id": "se-sweden",
+  "region_name": "Sweden",
+  "region_type": "country",
+  "country": "Sweden",
+  "generated": "2026-04-16T06:06:08.727Z",
+  "source_timestamp": "2026-04-16T06:06:08.727Z",
+  "marker_count": 56,
+  "markers": [
+    {
+      "id": "105621",
+      "title": "Carl Jonas Love Almquist",
+      "latitude": 59.337562,
+      "longitude": 18.057453,
+      "directions": "On Drottninggatan, Stockholm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105621",
+      "photo_urls": []
+    },
+    {
+      "id": "105624",
+      "title": "August Blanche",
+      "latitude": 59.333989,
+      "longitude": 18.061224,
+      "directions": "On Drottninggatan, Stockholm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105624",
+      "photo_urls": []
+    },
+    {
+      "id": "105627",
+      "title": "Riksbron",
+      "latitude": 59.328404,
+      "longitude": 18.0669,
+      "directions": "On Riksbron, Stockholm, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105627",
+      "photo_urls": []
+    },
+    {
+      "id": "105633",
+      "title": "Carl von Linné (Linnaeus)",
+      "latitude": 59.324274,
+      "longitude": 18.073918,
+      "directions": "On Österlånggatan, Stockholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105633",
+      "photo_urls": []
+    },
+    {
+      "id": "105676",
+      "title": "Gustav II Adolf / King Gustaf II Adolf",
+      "latitude": 59.329294,
+      "longitude": 18.068855,
+      "directions": "On Gustav Adolfs torg, Stockholm, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105676",
+      "photo_urls": []
+    },
+    {
+      "id": "105698",
+      "title": "Dytankhuset / The escape training tank house",
+      "latitude": 59.327109,
+      "longitude": 18.093334,
+      "directions": "On Djurgårdsvägen, Stockholm, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105698",
+      "photo_urls": []
+    },
+    {
+      "id": "105768",
+      "title": "Svenska Fotbollförbundet / Swedish Football Association",
+      "latitude": 59.332983,
+      "longitude": 18.064231,
+      "directions": "On Sergelgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105768",
+      "photo_urls": []
+    },
+    {
+      "id": "105772",
+      "title": "Kung Karl XII / King Karl XII",
+      "latitude": 59.329999,
+      "longitude": 18.07226,
+      "directions": "On Karl XII:s torg, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105772",
+      "photo_urls": []
+    },
+    {
+      "id": "105876",
+      "title": "Centralposthuset / The Central Post Office",
+      "latitude": 59.332088,
+      "longitude": 18.059041,
+      "directions": "On Mäster Samuelsgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105876",
+      "photo_urls": []
+    },
+    {
+      "id": "106764",
+      "title": "Norrbro",
+      "latitude": 59.328661,
+      "longitude": 18.069742,
+      "directions": "On Norrbro, Stockholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106764",
+      "photo_urls": []
+    },
+    {
+      "id": "106765",
+      "title": "Kungliga Operan / Royal Opera House",
+      "latitude": 59.329758,
+      "longitude": 18.069479,
+      "directions": "On Gustav Adolfs torg, Stockholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106765",
+      "photo_urls": []
+    },
+    {
+      "id": "106766",
+      "title": "Södra Bankohuset / Southern Bank Building",
+      "latitude": 59.322549,
+      "longitude": 18.074357,
+      "directions": "On Skeppsbron, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106766",
+      "photo_urls": []
+    },
+    {
+      "id": "106798",
+      "title": "August Strindberg",
+      "latitude": 59.338513,
+      "longitude": 18.056686,
+      "directions": "On Drottninggatan, Stockholm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106798",
+      "photo_urls": []
+    },
+    {
+      "id": "106799",
+      "title": "Warodellska Huset / The Warodell House",
+      "latitude": 59.335401,
+      "longitude": 18.060016,
+      "directions": "On Drottninggatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106799",
+      "photo_urls": []
+    },
+    {
+      "id": "106814",
+      "title": "Centrumhuset / Center Building",
+      "latitude": 59.335772,
+      "longitude": 18.063986,
+      "directions": "On Kungsgatan, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106814",
+      "photo_urls": []
+    },
+    {
+      "id": "106821",
+      "title": "Konserthuset / The Concert Hall",
+      "latitude": 59.335378,
+      "longitude": 18.063369,
+      "directions": "On Kungsgatan, Stockholm, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106821",
+      "photo_urls": []
+    },
+    {
+      "id": "106851",
+      "title": "LO-Huset / LO Building",
+      "latitude": 59.335803,
+      "longitude": 18.054899,
+      "directions": "On Barnhusgatan, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106851",
+      "photo_urls": []
+    },
+    {
+      "id": "106856",
+      "title": "Jenny Nyström",
+      "latitude": 59.338767,
+      "longitude": 18.057403,
+      "directions": "On Tegnérgatan, Stockholm, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106856",
+      "photo_urls": []
+    },
+    {
+      "id": "106864",
+      "title": "Stallbron",
+      "latitude": 59.326974,
+      "longitude": 18.068352,
+      "directions": "On Stallbron, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106864",
+      "photo_urls": []
+    },
+    {
+      "id": "106870",
+      "title": "A Park and Gardens",
+      "latitude": 59.336137,
+      "longitude": 18.059015,
+      "directions": "On Drottninggattan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106870",
+      "photo_urls": []
+    },
+    {
+      "id": "106882",
+      "title": "Norstedts",
+      "latitude": 59.325915,
+      "longitude": 18.063844,
+      "directions": "On Arkivgatan, Stockholm, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106882",
+      "photo_urls": []
+    },
+    {
+      "id": "106887",
+      "title": "Första Cirkusföreställningen i Sverige / The First Circus in Sweden",
+      "latitude": 59.336135,
+      "longitude": 18.058997,
+      "directions": "On Drottninggatan, Stockholm, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106887",
+      "photo_urls": []
+    },
+    {
+      "id": "106892",
+      "title": "\"Lejonet\" / \"The Lion\"",
+      "latitude": 59.324119,
+      "longitude": 18.071164,
+      "directions": "On Skomakargatan, Stockholm, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106892",
+      "photo_urls": []
+    },
+    {
+      "id": "106893",
+      "title": "Kammarrättens hus / Administrative Court of Appeal",
+      "latitude": 59.324742,
+      "longitude": 18.063644,
+      "directions": "On Birger Jarls torg, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106893",
+      "photo_urls": []
+    },
+    {
+      "id": "106915",
+      "title": "Stuténska Huset / The Stuten Building",
+      "latitude": 59.325375,
+      "longitude": 18.069925,
+      "directions": "On Ankargränd, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106915",
+      "photo_urls": []
+    },
+    {
+      "id": "106933",
+      "title": "Storkyrkans Hus / Cathedral House",
+      "latitude": 59.32571,
+      "longitude": 18.069101,
+      "directions": "On Storkyrkobrinken, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106933",
+      "photo_urls": []
+    },
+    {
+      "id": "106935",
+      "title": "Villa Lusthusporten",
+      "latitude": 59.328492,
+      "longitude": 18.097065,
+      "directions": "Near Djurgårdsvägen, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106935",
+      "photo_urls": []
+    },
+    {
+      "id": "107334",
+      "title": "F D Stockholms Högskola / Stockholm University",
+      "latitude": 59.340638,
+      "longitude": 18.055321,
+      "directions": "On Kungstensgatan, Stockholm, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107334",
+      "photo_urls": []
+    },
+    {
+      "id": "107337",
+      "title": "Västra Gymnasiehuset / Western High School Building",
+      "latitude": 59.324343,
+      "longitude": 18.064008,
+      "directions": "On Birger Jarls torg, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107337",
+      "photo_urls": []
+    },
+    {
+      "id": "108488",
+      "title": "Oxenstiernska Palatset / Oxenstierna Palace",
+      "latitude": 59.325851,
+      "longitude": 18.069665,
+      "directions": "On Storkyrkobrinken, Stockholm, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108488",
+      "photo_urls": []
+    },
+    {
+      "id": "112416",
+      "title": "Brantingska Huset / The Branting House",
+      "latitude": 59.341288,
+      "longitude": 18.052456,
+      "directions": "On Norrtullsgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112416",
+      "photo_urls": []
+    },
+    {
+      "id": "112427",
+      "title": "Drottninggatan 116A",
+      "latitude": 59.339846,
+      "longitude": 18.055624,
+      "directions": "On Drottninggatan, Stockholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112427",
+      "photo_urls": []
+    },
+    {
+      "id": "112882",
+      "title": "Galärvarvet År 1942 / Galley Yard 1942",
+      "latitude": 59.328626,
+      "longitude": 18.092243,
+      "directions": "On Galärvarvsvägen, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112882",
+      "photo_urls": []
+    },
+    {
+      "id": "113187",
+      "title": "Tessinska Palatset / Tessin Palace",
+      "latitude": 59.325794,
+      "longitude": 18.07285,
+      "directions": "On Slottsbacken, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113187",
+      "photo_urls": []
+    },
+    {
+      "id": "113209",
+      "title": "Lydert Bartels' Hus (House)",
+      "latitude": 59.325004,
+      "longitude": 18.072995,
+      "directions": "On Själagårdsgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113209",
+      "photo_urls": []
+    },
+    {
+      "id": "113213",
+      "title": "Kungstornen / The Kungsgatan Towers",
+      "latitude": 59.336006,
+      "longitude": 18.065884,
+      "directions": "On Kungsgatan, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113213",
+      "photo_urls": []
+    },
+    {
+      "id": "113350",
+      "title": "Johannes Klockstapel / John's Bell Tower",
+      "latitude": 59.338218,
+      "longitude": 18.065046,
+      "directions": "On Johannesgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113350",
+      "photo_urls": []
+    },
+    {
+      "id": "113475",
+      "title": "Kungsgatan (\"King's Street\")",
+      "latitude": 59.336055,
+      "longitude": 18.067745,
+      "directions": "On Kungsgatan, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113475",
+      "photo_urls": []
+    },
+    {
+      "id": "113477",
+      "title": "Riddarholmen",
+      "latitude": 59.32631,
+      "longitude": 18.063061,
+      "directions": "On Norra Riddarholmshamnen, Stockholm, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113477",
+      "photo_urls": []
+    },
+    {
+      "id": "113494",
+      "title": "Varuhuset PUB / PUB Department Store",
+      "latitude": 59.334962,
+      "longitude": 18.061422,
+      "directions": "On Slöjdgatan, Stockholm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113494",
+      "photo_urls": []
+    },
+    {
+      "id": "113495",
+      "title": "Kvarteret Cepheus / Cepheus Neighborhood",
+      "latitude": 59.32506,
+      "longitude": 18.072572,
+      "directions": "On Köpmangatan, Stockholm, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113495",
+      "photo_urls": []
+    },
+    {
+      "id": "113500",
+      "title": "Källaren Fimmelstången / The Fimmelstången Tavern",
+      "latitude": 59.324552,
+      "longitude": 18.072152,
+      "directions": "On Kindstugatan, Stockholm, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113500",
+      "photo_urls": []
+    },
+    {
+      "id": "113504",
+      "title": "Erik Dahlbergh",
+      "latitude": 59.325507,
+      "longitude": 18.068739,
+      "directions": "On Stora Gråmunkegränd, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113504",
+      "photo_urls": []
+    },
+    {
+      "id": "113655",
+      "title": "Carl Eldhs Brantingsmonument / Carl Eldh's Branting Monument",
+      "latitude": 59.335203,
+      "longitude": 18.054595,
+      "directions": "Near Vasagatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113655",
+      "photo_urls": []
+    },
+    {
+      "id": "113661",
+      "title": "Kvarteret Brunkhalsen",
+      "latitude": 59.329968,
+      "longitude": 18.065408,
+      "directions": "On Drottninggatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113661",
+      "photo_urls": []
+    },
+    {
+      "id": "121304",
+      "title": "Strömparterren",
+      "latitude": 59.32802192,
+      "longitude": 18.07074055,
+      "directions": "On Strömparterren, Stockholm, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121304",
+      "photo_urls": []
+    },
+    {
+      "id": "123067",
+      "title": "Östra Gymnasiehuset / Eastern High School building",
+      "latitude": 59.32438258,
+      "longitude": 18.06432624,
+      "directions": "On Birger Jarls torg, Stockholm, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123067",
+      "photo_urls": []
+    },
+    {
+      "id": "135804",
+      "title": "Gamla Tekniska Högskolan / The Old Technical University",
+      "latitude": 59.33991028,
+      "longitude": 18.05510664,
+      "directions": "On Drottninggatan, Stockholm, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135804",
+      "photo_urls": []
+    },
+    {
+      "id": "135811",
+      "title": "Spökslottet / Haunted Mansion (Scheffler's Palace)",
+      "latitude": 59.34010004,
+      "longitude": 18.05534337,
+      "directions": "On Drottninggatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135811",
+      "photo_urls": []
+    },
+    {
+      "id": "142989",
+      "title": "Sparreska Palatset / Palace",
+      "latitude": 59.32450732,
+      "longitude": 18.06379633,
+      "directions": "On Birger Jarls torg, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=142989",
+      "photo_urls": []
+    },
+    {
+      "id": "143415",
+      "title": "Stadshuset / City Hall",
+      "latitude": 59.32800956,
+      "longitude": 18.05521863,
+      "directions": "On Hantverkargatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=143415",
+      "photo_urls": []
+    },
+    {
+      "id": "193548",
+      "title": "Runstenen Vid Växjö Domkyrka / Runestone at Växjö Cathedral",
+      "latitude": 56.87732405,
+      "longitude": 14.81258789,
+      "directions": "On Linnégatan, Söder-Öster, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193548",
+      "photo_urls": []
+    },
+    {
+      "id": "211216",
+      "title": "Hornsgatan",
+      "latitude": 59.31919167,
+      "longitude": 18.065175,
+      "directions": "On Hornsgatan, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211216",
+      "photo_urls": []
+    },
+    {
+      "id": "211268",
+      "title": "Lyftkranen / Cranes and seaplanes",
+      "latitude": 59.32665833,
+      "longitude": 18.09503889,
+      "directions": "On Djurgårdsvägen, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211268",
+      "photo_urls": []
+    },
+    {
+      "id": "244209",
+      "title": "Kontorshus",
+      "latitude": 56.04612778,
+      "longitude": 12.69159167,
+      "directions": "On Hamntorget, Helsingborg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244209",
+      "photo_urls": []
+    },
+    {
+      "id": "56837",
+      "title": "The Zetterström Fountain",
+      "latitude": 59.328461,
+      "longitude": 18.091779,
+      "directions": "Near Galärvarvsvägen, Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=56837",
+      "photo_urls": []
+    }
+  ]
+}
