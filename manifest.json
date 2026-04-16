@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-15T06:08:37.761Z",
+  "generated": "2026-04-16T06:06:13.067Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 33167,
-  "total_regions": 16,
+  "total_markers": 34691,
+  "total_regions": 17,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -68,6 +68,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 229,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "un-michis",
+      "name": "Michigan Historical Commission",
+      "type": "state",
+      "country": "United States of America",
+      "file": "regions/un-michis.json",
+      "markers": 1524,
+      "size_bytes": 471876,
+      "updated": "2026-04-16",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 1591,
         "removed": 0,
         "modified": 0
       }
