@@ -1,0 +1,56 @@
+{
+  "region_id": "cn-china",
+  "region_name": "China",
+  "region_type": "country",
+  "country": "China",
+  "generated": "2026-04-16T06:06:08.722Z",
+  "source_timestamp": "2026-04-16T06:06:08.722Z",
+  "marker_count": 5,
+  "markers": [
+    {
+      "id": "246061",
+      "title": "Scenic Area of Huishan Ancient Town",
+      "latitude": 31.57952335,
+      "longitude": 120.27422393,
+      "directions": "Near Xiuzhang Street, Wu Xi Shi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246061",
+      "photo_urls": []
+    },
+    {
+      "id": "246065",
+      "title": "Legend of Longguang Tower",
+      "latitude": 31.58053978,
+      "longitude": 120.27090475,
+      "directions": "Near Qinyuan Street, Wu Xi Shi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246065",
+      "photo_urls": []
+    },
+    {
+      "id": "38772",
+      "title": "Nuclei as Heavy as Bulls",
+      "latitude": 39.99305,
+      "longitude": 116.32463,
+      "directions": "On Chengfu Road, H&#462;idiàn Q&#363;, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=38772",
+      "photo_urls": []
+    },
+    {
+      "id": "53920",
+      "title": "Hall of Dispelling Clouds",
+      "latitude": 39.99702778,
+      "longitude": 116.26811389,
+      "directions": "Near Yudai Road, H&#462;idiàn Q&#363;, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53920",
+      "photo_urls": []
+    },
+    {
+      "id": "53944",
+      "title": "Purple Heaven Hall",
+      "latitude": 39.99713889,
+      "longitude": 116.26771111,
+      "directions": "Near Yudai Road, H&#462;idiàn Q&#363;, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=53944",
+      "photo_urls": []
+    }
+  ]
+}
