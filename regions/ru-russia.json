@@ -1,0 +1,542 @@
+{
+  "region_id": "ru-russia",
+  "region_name": "Russia",
+  "region_type": "country",
+  "country": "Russia",
+  "generated": "2026-04-17T06:07:29.035Z",
+  "source_timestamp": "2026-04-17T06:07:29.035Z",
+  "marker_count": 59,
+  "markers": [
+    {
+      "id": "244940",
+      "title": "Kulikov Vladimir Evgenievich",
+      "latitude": 59.939996,
+      "longitude": 30.329449,
+      "directions": "On Kanal Griboyedova, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244940",
+      "photo_urls": []
+    },
+    {
+      "id": "248333",
+      "title": "Lidiya Litvyak",
+      "latitude": 55.78090497,
+      "longitude": 37.59940197,
+      "directions": "On Novoslobodskaya Ulitsa, Miusy, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248333",
+      "photo_urls": []
+    },
+    {
+      "id": "248350",
+      "title": "Structures from the 17th - 18th centuries",
+      "latitude": 55.787587,
+      "longitude": 37.59987997,
+      "directions": "On Tikhvinskiy Pereulok, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248350",
+      "photo_urls": []
+    },
+    {
+      "id": "249073",
+      "title": "Nikolskaya (St Nicholas’) Tower",
+      "latitude": 55.754573,
+      "longitude": 37.61783597,
+      "directions": "On Kremlevskiy Proyezd, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249073",
+      "photo_urls": []
+    },
+    {
+      "id": "249078",
+      "title": "Aleksandr Pushkin",
+      "latitude": 55.755482,
+      "longitude": 37.61285,
+      "directions": "On Mokhovaya Street, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249078",
+      "photo_urls": []
+    },
+    {
+      "id": "249079",
+      "title": "Vladimir Lenin",
+      "latitude": 55.75254197,
+      "longitude": 37.60806097,
+      "directions": "On Vozdvizhenka Street, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249079",
+      "photo_urls": []
+    },
+    {
+      "id": "249213",
+      "title": "Church of the Entry of the Lord into Jerusalem",
+      "latitude": 59.93139897,
+      "longitude": 30.360627,
+      "directions": "On Ulitsa Vosstaniya, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249213",
+      "photo_urls": []
+    },
+    {
+      "id": "250498",
+      "title": "Vladimir Vasilyevich Druzhnikov",
+      "latitude": 55.775092,
+      "longitude": 37.587231,
+      "directions": "On 1-Ya Tverskaya-Yamskaya Ulitsa, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250498",
+      "photo_urls": []
+    },
+    {
+      "id": "250501",
+      "title": "Resurrection Gates of Kitai-Gorod",
+      "latitude": 55.75603497,
+      "longitude": 37.61747497,
+      "directions": "On Proyezd Voskresenskiye Vorota, Kitay-Gorod, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250501",
+      "photo_urls": []
+    },
+    {
+      "id": "250507",
+      "title": "Mikhail Mikhaylovich Yanshin",
+      "latitude": 55.775094,
+      "longitude": 37.587212,
+      "directions": "On 1-Ya Tverskaya-Yamskaya Ulitsa, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250507",
+      "photo_urls": []
+    },
+    {
+      "id": "250592",
+      "title": "First Battle of Revolutionary Soldiers - Dvintses with Junkers",
+      "latitude": 55.75501897,
+      "longitude": 37.61861497,
+      "directions": "On Red Square, Kitay-Gorod, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250592",
+      "photo_urls": []
+    },
+    {
+      "id": "250858",
+      "title": "Restoration of Cathedral of St. Vasily the Blessed",
+      "latitude": 55.752706,
+      "longitude": 37.62260897,
+      "directions": "On Red Square, Kitay-Gorod, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250858",
+      "photo_urls": []
+    },
+    {
+      "id": "250865",
+      "title": "City Duma Building",
+      "latitude": 55.75636,
+      "longitude": 37.618056,
+      "directions": "On Revolution Square, Kitay-Gorod, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250865",
+      "photo_urls": []
+    },
+    {
+      "id": "250934",
+      "title": "D. Sükhbaatar",
+      "latitude": 55.756515,
+      "longitude": 37.61755097,
+      "directions": "On Manege Square, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250934",
+      "photo_urls": []
+    },
+    {
+      "id": "251448",
+      "title": "Aleksei Aleksandrovich Surkov",
+      "latitude": 55.76488597,
+      "longitude": 37.604264,
+      "directions": "On Tverskoy Boulevard, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251448",
+      "photo_urls": []
+    },
+    {
+      "id": "251450",
+      "title": "Aleksei Denisovich Dikiy",
+      "latitude": 55.76488597,
+      "longitude": 37.604264,
+      "directions": "On Tverskoy Boulevard, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251450",
+      "photo_urls": []
+    },
+    {
+      "id": "251542",
+      "title": "Lyubov Orlova",
+      "latitude": 55.76491134,
+      "longitude": 37.603297,
+      "directions": "On Bol&#39;shaya Bronnaya Ulitsa, Tsentralnyy okrug, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251542",
+      "photo_urls": []
+    },
+    {
+      "id": "251543",
+      "title": "Mikhail Ulyanov",
+      "latitude": 55.76489697,
+      "longitude": 37.603974,
+      "directions": "On Bol&#39;shaya Bronnaya Ulitsa, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251543",
+      "photo_urls": []
+    },
+    {
+      "id": "251546",
+      "title": "Nikolai Vasilyevich Tomsky",
+      "latitude": 55.76489697,
+      "longitude": 37.603974,
+      "directions": "On Bol&#39;shaya Bronnaya Ulitsa, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251546",
+      "photo_urls": []
+    },
+    {
+      "id": "251554",
+      "title": "Bolshoi Putinkovsky Alley",
+      "latitude": 55.76699744,
+      "longitude": 37.60858451,
+      "directions": "On Bolshoi Putinkovsky Alley, Tsentralnyy okrug, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251554",
+      "photo_urls": []
+    },
+    {
+      "id": "251610",
+      "title": "Sergey Timofeyevich Konenkov",
+      "latitude": 55.763989,
+      "longitude": 37.605499,
+      "directions": "On Tverskoy Boulevard, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251610",
+      "photo_urls": []
+    },
+    {
+      "id": "251613",
+      "title": "Dormition Cathedral",
+      "latitude": 55.75082524,
+      "longitude": 37.61701795,
+      "directions": "On Borovitskaya Ulitsa, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251613",
+      "photo_urls": []
+    },
+    {
+      "id": "251627",
+      "title": "Kremlin Dormition Cathedral",
+      "latitude": 55.75064197,
+      "longitude": 37.61698297,
+      "directions": "On Borovitskaya Ulitsa, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251627",
+      "photo_urls": []
+    },
+    {
+      "id": "251629",
+      "title": "Tsar Bell",
+      "latitude": 55.750785,
+      "longitude": 37.618526,
+      "directions": "On Borovitskaya Ulitsa, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251629",
+      "photo_urls": []
+    },
+    {
+      "id": "251973",
+      "title": "Tsar Cannon",
+      "latitude": 55.751398,
+      "longitude": 37.61812597,
+      "directions": "On Ivanovskaya Ploshchad&#39;, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251973",
+      "photo_urls": []
+    },
+    {
+      "id": "251977",
+      "title": "Granite enclosure along the street",
+      "latitude": 55.76777619,
+      "longitude": 37.65031754,
+      "directions": "On Sadovaya-Chernogryazskaya Ulitsa, Tsentralnyy okrug, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251977",
+      "photo_urls": []
+    },
+    {
+      "id": "251991",
+      "title": "Boris Pavlovich Beshchev",
+      "latitude": 55.768804,
+      "longitude": 37.65075504,
+      "directions": "On Novaya Basmannaya Street, Tsentralnyy okrug, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251991",
+      "photo_urls": []
+    },
+    {
+      "id": "252042",
+      "title": "Kurakin Almshouses",
+      "latitude": 55.76943749,
+      "longitude": 37.65391423,
+      "directions": "On Novaya Basmannaya Ulitsa, Tsentralnyy okrug, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252042",
+      "photo_urls": []
+    },
+    {
+      "id": "252043",
+      "title": "Golitsyn Estate—Bauman Garden",
+      "latitude": 55.769638,
+      "longitude": 37.65901697,
+      "directions": "On Novaya Basmannaya Ulitsa, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252043",
+      "photo_urls": []
+    },
+    {
+      "id": "252048",
+      "title": "E. G. Levasheva’s City Estate",
+      "latitude": 55.76967513,
+      "longitude": 37.66178529,
+      "directions": "On Novaya Basmannaya Ulitsa, Tsentralnyy okrug, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252048",
+      "photo_urls": []
+    },
+    {
+      "id": "252072",
+      "title": "Main ward house, city section of Basmannaya Hospital",
+      "latitude": 55.76991483,
+      "longitude": 37.66284995,
+      "directions": "On 1-Y Basmannyy Pereulok, Tsentralnyy okrug, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252072",
+      "photo_urls": []
+    },
+    {
+      "id": "252134",
+      "title": "Exaltation of the Cross Temple",
+      "latitude": 54.195326,
+      "longitude": 37.616678,
+      "directions": "On Ulitsa Soyuznaya, Tula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252134",
+      "photo_urls": []
+    },
+    {
+      "id": "252146",
+      "title": "House of M.M. Beloborodov",
+      "latitude": 54.19223,
+      "longitude": 37.616182,
+      "directions": "On Prospekt Lenina, Tula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252146",
+      "photo_urls": []
+    },
+    {
+      "id": "252148",
+      "title": "Ivan Mikhaylovich Duvanin",
+      "latitude": 54.190964,
+      "longitude": 37.615622,
+      "directions": "On Prospekt Lenina, Tula, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252148",
+      "photo_urls": []
+    },
+    {
+      "id": "252162",
+      "title": "Nikolai Semenovich Chukov",
+      "latitude": 54.1910008,
+      "longitude": 37.6156325,
+      "directions": "On Prospekt Lenina, Tula, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252162",
+      "photo_urls": []
+    },
+    {
+      "id": "252163",
+      "title": "Vasiliy Ivanovich Dmitriev",
+      "latitude": 54.190842,
+      "longitude": 37.61542597,
+      "directions": "On Prospekt Lenina, Tula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252163",
+      "photo_urls": []
+    },
+    {
+      "id": "252165",
+      "title": "Vladimir Ivanovich Medvedev",
+      "latitude": 54.19073497,
+      "longitude": 37.615296,
+      "directions": "On Prospekt Lenina, Tula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252165",
+      "photo_urls": []
+    },
+    {
+      "id": "252183",
+      "title": "Aleksandr Nikitovich Ganichev",
+      "latitude": 54.1906165,
+      "longitude": 37.61521998,
+      "directions": "On Prospekt Lenina, Tula, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252183",
+      "photo_urls": []
+    },
+    {
+      "id": "252213",
+      "title": "Memorials to Military Glory",
+      "latitude": 55.7549055,
+      "longitude": 37.61593427,
+      "directions": "On Manege Square, Kremlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252213",
+      "photo_urls": []
+    },
+    {
+      "id": "252215",
+      "title": "&#1061;&#1086; &#1064;&#1080; &#1052;&#1080;&#1085; / Ho Chi Minh",
+      "latitude": 55.75227508,
+      "longitude": 37.61116662,
+      "directions": "On Vozdvizhenka Street, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252215",
+      "photo_urls": []
+    },
+    {
+      "id": "252260",
+      "title": "&#1041;&#1077;&#1083;&#1072; &#1050;&#1091;&#1085; / Béla Kun",
+      "latitude": 55.75226135,
+      "longitude": 37.61129309,
+      "directions": "On Vozdvizhenka Street, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252260",
+      "photo_urls": []
+    },
+    {
+      "id": "252261",
+      "title": "Antonio Gramsci",
+      "latitude": 55.75224248,
+      "longitude": 37.61132259,
+      "directions": "On Vozdvizhenka Street, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252261",
+      "photo_urls": []
+    },
+    {
+      "id": "252262",
+      "title": "Clergy house and monastery cells",
+      "latitude": 55.75259173,
+      "longitude": 37.60627853,
+      "directions": "On Vozdvizhenka Street, Tsentralnyy okrug, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252262",
+      "photo_urls": []
+    },
+    {
+      "id": "252263",
+      "title": "Novodevichy Convent",
+      "latitude": 55.72682631,
+      "longitude": 37.55787209,
+      "directions": "On Novodevichy Passage, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252263",
+      "photo_urls": []
+    },
+    {
+      "id": "252264",
+      "title": "Visit of Alexander III to Arkhangelskoye",
+      "latitude": 55.78585881,
+      "longitude": 37.28295631,
+      "directions": "On Neizvestnaya doroga (unnamed road), Arkhangel&#39;skoe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252264",
+      "photo_urls": []
+    },
+    {
+      "id": "252271",
+      "title": "Yusupova’s House",
+      "latitude": 59.932729,
+      "longitude": 30.34993197,
+      "directions": "On Nevsky Prospect, Saint Petersburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252271",
+      "photo_urls": []
+    },
+    {
+      "id": "252272",
+      "title": "S. Shustov 19th Century Architecture",
+      "latitude": 59.933168,
+      "longitude": 30.34559197,
+      "directions": "On Nevsky Avenue, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252272",
+      "photo_urls": []
+    },
+    {
+      "id": "252304",
+      "title": "Shell traces",
+      "latitude": 59.9334256,
+      "longitude": 30.34298827,
+      "directions": "On Nevsky Prospekt, Saint Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252304",
+      "photo_urls": []
+    },
+    {
+      "id": "252313",
+      "title": "Platz-Mayorsky House",
+      "latitude": 59.949375,
+      "longitude": 30.31581397,
+      "directions": "On Neizvestnaya Doroga, Saint Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252313",
+      "photo_urls": []
+    },
+    {
+      "id": "252373",
+      "title": "Carthouse",
+      "latitude": 59.94886997,
+      "longitude": 30.316399,
+      "directions": "Near Peter and Paul Fortress, Saint Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252373",
+      "photo_urls": []
+    },
+    {
+      "id": "252377",
+      "title": "1924 and 1975 Floods",
+      "latitude": 59.94538597,
+      "longitude": 30.32591297,
+      "directions": "On Millionnaya Street, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252377",
+      "photo_urls": []
+    },
+    {
+      "id": "252379",
+      "title": "1824 Flood",
+      "latitude": 59.94538597,
+      "longitude": 30.32591297,
+      "directions": "On Millionnaya Street, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252379",
+      "photo_urls": []
+    },
+    {
+      "id": "252380",
+      "title": "1752, 1777 and 1788 Floods",
+      "latitude": 59.94538597,
+      "longitude": 30.32591297,
+      "directions": "On Millionnaya Street, Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252380",
+      "photo_urls": []
+    },
+    {
+      "id": "252384",
+      "title": "Monument to Peter I",
+      "latitude": 59.950147,
+      "longitude": 30.31799,
+      "directions": "On , Sankt-Peterburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252384",
+      "photo_urls": []
+    },
+    {
+      "id": "252402",
+      "title": "Nekropolis of Passion Convent",
+      "latitude": 55.76584449,
+      "longitude": 37.60589216,
+      "directions": "Near , Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252402",
+      "photo_urls": []
+    },
+    {
+      "id": "252468",
+      "title": "The House on Vasnetsov Alley",
+      "latitude": 55.77672797,
+      "longitude": 37.62632097,
+      "directions": "On Pereulok Vasnetsova, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252468",
+      "photo_urls": []
+    },
+    {
+      "id": "289749",
+      "title": "Terrorist Act of 9 December 2003",
+      "latitude": 55.75641,
+      "longitude": 37.61379097,
+      "directions": "On Mokhovaya Street, Moskva, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289749",
+      "photo_urls": []
+    },
+    {
+      "id": "289810",
+      "title": "Pyotr Nikolaevich Lebedev",
+      "latitude": 55.755526,
+      "longitude": 37.61288297,
+      "directions": "On Mokhovaya Street, Tsentralnyy okrug, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289810",
+      "photo_urls": []
+    },
+    {
+      "id": "289811",
+      "title": "Central Executive Committee Seat",
+      "latitude": 55.75767597,
+      "longitude": 37.620902,
+      "directions": "On Theatre Square, Tsentralnyy okrug, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289811",
+      "photo_urls": []
+    }
+  ]
+}
