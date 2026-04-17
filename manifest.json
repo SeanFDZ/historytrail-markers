@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-16T06:06:20.892Z",
+  "generated": "2026-04-17T06:07:33.077Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 34800,
-  "total_regions": 18,
+  "total_markers": 34801,
+  "total_regions": 19,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -132,6 +132,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 124,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "un-toufor",
+      "name": "Touch for a list and map",
+      "type": "state",
+      "country": "United States of America",
+      "file": "regions/un-toufor.json",
+      "markers": 1,
+      "size_bytes": 573,
+      "updated": "2026-04-17",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 126,
         "removed": 0,
         "modified": 0
       }
