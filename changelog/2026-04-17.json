@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-17",
+  "run_id": 107,
+  "cycle_day": 23,
+  "regions_processed": [
+    "un-toufor"
+  ],
+  "changes": {
+    "un-toufor": {
+      "added": 126,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 7432,
+  "total_removed": 0,
+  "total_modified": 0
+}
