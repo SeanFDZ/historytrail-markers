@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-17T06:07:33.077Z",
+  "generated": "2026-04-17T06:07:42.381Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 34801,
-  "total_regions": 19,
+  "total_markers": 34984,
+  "total_regions": 20,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -36,6 +36,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 10,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "at-austria",
+      "name": "Austria",
+      "type": "country",
+      "country": "Austria",
+      "file": "regions/at-austria.json",
+      "markers": 183,
+      "size_bytes": 55128,
+      "updated": "2026-04-17",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 189,
         "removed": 0,
         "modified": 0
       }
