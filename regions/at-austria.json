@@ -1,0 +1,1658 @@
+{
+  "region_id": "at-austria",
+  "region_name": "Austria",
+  "region_type": "country",
+  "country": "Austria",
+  "generated": "2026-04-17T06:07:28.931Z",
+  "source_timestamp": "2026-04-17T06:07:28.931Z",
+  "marker_count": 183,
+  "markers": [
+    {
+      "id": "104867",
+      "title": "Mozart Lived Here",
+      "latitude": 48.209903,
+      "longitude": 16.370026,
+      "directions": "On Milchgasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104867",
+      "photo_urls": []
+    },
+    {
+      "id": "104974",
+      "title": "Mozart Lived Here",
+      "latitude": 48.211355,
+      "longitude": 16.36996,
+      "directions": "On Judenplatz, Wien, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104974",
+      "photo_urls": []
+    },
+    {
+      "id": "104978",
+      "title": "Frederic Chopin",
+      "latitude": 48.208642,
+      "longitude": 16.367539,
+      "directions": "On Kohlmarkt, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104978",
+      "photo_urls": []
+    },
+    {
+      "id": "104981",
+      "title": "Greta Keller",
+      "latitude": 48.207378,
+      "longitude": 16.373444,
+      "directions": "On Singerstrasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104981",
+      "photo_urls": []
+    },
+    {
+      "id": "104999",
+      "title": "Leoš Janá&#269;ek",
+      "latitude": 48.210183,
+      "longitude": 16.378336,
+      "directions": "On Fleischmarkt, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104999",
+      "photo_urls": []
+    },
+    {
+      "id": "105008",
+      "title": "Leonard Bernstein",
+      "latitude": 48.200642,
+      "longitude": 16.377062,
+      "directions": "On Lothringerstrasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105008",
+      "photo_urls": []
+    },
+    {
+      "id": "105034",
+      "title": "Gottlieb Muffat",
+      "latitude": 48.207041,
+      "longitude": 16.372105,
+      "directions": "On Weihburggasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105034",
+      "photo_urls": []
+    },
+    {
+      "id": "105039",
+      "title": "Antonio Salieri",
+      "latitude": 48.207145,
+      "longitude": 16.37011,
+      "directions": "On Spiegelgasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105039",
+      "photo_urls": []
+    },
+    {
+      "id": "105043",
+      "title": "Franz Schubert",
+      "latitude": 48.20727,
+      "longitude": 16.370188,
+      "directions": "On Spiegelgasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105043",
+      "photo_urls": []
+    },
+    {
+      "id": "105053",
+      "title": "Café Frauenhuber",
+      "latitude": 48.205725,
+      "longitude": 16.372496,
+      "directions": "On Himmelpfortgasse, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105053",
+      "photo_urls": []
+    },
+    {
+      "id": "105063",
+      "title": "Conradin Kreutzer",
+      "latitude": 48.207412,
+      "longitude": 16.369424,
+      "directions": "On Dorotheergasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105063",
+      "photo_urls": []
+    },
+    {
+      "id": "105080",
+      "title": "Josef Sonnleithner",
+      "latitude": 48.208609,
+      "longitude": 16.369633,
+      "directions": "On Bräunerstrasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105080",
+      "photo_urls": []
+    },
+    {
+      "id": "105081",
+      "title": "Emile Jacques-Dalcroze",
+      "latitude": 48.211613,
+      "longitude": 16.367621,
+      "directions": "On Am Hof, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105081",
+      "photo_urls": []
+    },
+    {
+      "id": "105088",
+      "title": "Gustav Mahler",
+      "latitude": 48.200701,
+      "longitude": 16.377111,
+      "directions": "On Lothringerstrasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105088",
+      "photo_urls": []
+    },
+    {
+      "id": "105110",
+      "title": "Franz Schubert",
+      "latitude": 48.208653,
+      "longitude": 16.377451,
+      "directions": "On Doktor-Ignaz-Seipel-Platz, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105110",
+      "photo_urls": []
+    },
+    {
+      "id": "105119",
+      "title": "Franz Schubert",
+      "latitude": 48.201466,
+      "longitude": 16.376977,
+      "directions": "On Beethovenplatz, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105119",
+      "photo_urls": []
+    },
+    {
+      "id": "105142",
+      "title": "Hans Christian Andersen",
+      "latitude": 48.210115,
+      "longitude": 16.367839,
+      "directions": "On Naglergasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105142",
+      "photo_urls": []
+    },
+    {
+      "id": "105157",
+      "title": "Belvedere Film Productions",
+      "latitude": 48.21129,
+      "longitude": 16.374409,
+      "directions": "On Fleischmarkt, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105157",
+      "photo_urls": []
+    },
+    {
+      "id": "105281",
+      "title": "St. Michael's Church Women's World War I Memorial",
+      "latitude": 48.207878,
+      "longitude": 16.366906,
+      "directions": "On Michaelerplatz, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105281",
+      "photo_urls": []
+    },
+    {
+      "id": "105294",
+      "title": "Kurt Gödel",
+      "latitude": 48.204173,
+      "longitude": 16.376144,
+      "directions": "On Hegelgasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105294",
+      "photo_urls": []
+    },
+    {
+      "id": "105329",
+      "title": "Roman Ruins",
+      "latitude": 48.209738,
+      "longitude": 16.36843,
+      "directions": "On Naglergasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105329",
+      "photo_urls": []
+    },
+    {
+      "id": "105417",
+      "title": "O5",
+      "latitude": 48.208651,
+      "longitude": 16.372479,
+      "directions": "On Stephansplatz, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105417",
+      "photo_urls": []
+    },
+    {
+      "id": "105470",
+      "title": "Egon Cäsar Conte Corti",
+      "latitude": 48.206583,
+      "longitude": 16.374201,
+      "directions": "On Franziskanerplatz, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105470",
+      "photo_urls": []
+    },
+    {
+      "id": "105488",
+      "title": "Mark Twain",
+      "latitude": 48.205787,
+      "longitude": 16.370732,
+      "directions": "On Neuer Markt, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105488",
+      "photo_urls": []
+    },
+    {
+      "id": "105667",
+      "title": "Charles de L'Ecluse (Clusius)",
+      "latitude": 48.208734,
+      "longitude": 16.375251,
+      "directions": "On Wollzeile, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105667",
+      "photo_urls": []
+    },
+    {
+      "id": "105701",
+      "title": "Pope Innocent XII (Antonio Pignatelli)",
+      "latitude": 48.210706,
+      "longitude": 16.367322,
+      "directions": "On Am Hof, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105701",
+      "photo_urls": []
+    },
+    {
+      "id": "107154",
+      "title": "Adalbert Stifter and the Solar Eclipse",
+      "latitude": 48.211767,
+      "longitude": 16.374165,
+      "directions": "On Seitenstettengasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107154",
+      "photo_urls": []
+    },
+    {
+      "id": "108196",
+      "title": "Moritz von Schwind",
+      "latitude": 48.210519,
+      "longitude": 16.37761,
+      "directions": "On Fleischmarkt, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108196",
+      "photo_urls": []
+    },
+    {
+      "id": "108429",
+      "title": "Peter Altenberg",
+      "latitude": 48.207912,
+      "longitude": 16.36999,
+      "directions": "On Dorotheergasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108429",
+      "photo_urls": []
+    },
+    {
+      "id": "108512",
+      "title": "Ludwig Hevesi",
+      "latitude": 48.203207,
+      "longitude": 16.371862,
+      "directions": "On Walfischgasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108512",
+      "photo_urls": []
+    },
+    {
+      "id": "108564",
+      "title": "Franz Grillparzer",
+      "latitude": 48.207424,
+      "longitude": 16.370297,
+      "directions": "On Spiegelgasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108564",
+      "photo_urls": []
+    },
+    {
+      "id": "108584",
+      "title": "Henry Dunant and the Red Cross",
+      "latitude": 48.210603,
+      "longitude": 16.36787,
+      "directions": "On Am Hof, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108584",
+      "photo_urls": []
+    },
+    {
+      "id": "108592",
+      "title": "Der Wiener Feuerwehr / The Vienna Fire Department",
+      "latitude": 48.211603,
+      "longitude": 16.367831,
+      "directions": "On Am Hof, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108592",
+      "photo_urls": []
+    },
+    {
+      "id": "108594",
+      "title": "Türkenkugel / The Turkish Ball",
+      "latitude": 48.211638,
+      "longitude": 16.368413,
+      "directions": "On Am Hof, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108594",
+      "photo_urls": []
+    },
+    {
+      "id": "108832",
+      "title": "Dr. Otto Willmann",
+      "latitude": 48.203441,
+      "longitude": 16.37478,
+      "directions": "On Fichtegasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108832",
+      "photo_urls": []
+    },
+    {
+      "id": "108835",
+      "title": "Professor Friedrich Hacker",
+      "latitude": 48.202286,
+      "longitude": 16.374165,
+      "directions": "On Hegelgasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108835",
+      "photo_urls": []
+    },
+    {
+      "id": "108839",
+      "title": "Die \"Grosse Strasse\" / The \"Great Road\"",
+      "latitude": 48.201177,
+      "longitude": 16.376743,
+      "directions": "On Lothringerstrasse, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108839",
+      "photo_urls": []
+    },
+    {
+      "id": "108841",
+      "title": "Palais Erzherzog Ludwig Viktor / Palace of Archduke Ludwig Viktor",
+      "latitude": 48.201393,
+      "longitude": 16.374766,
+      "directions": "On Schubertring, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108841",
+      "photo_urls": []
+    },
+    {
+      "id": "112452",
+      "title": "Die Ankeruhr / The Anchor Clock",
+      "latitude": 48.210727,
+      "longitude": 16.373615,
+      "directions": "On Hoher Markt, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112452",
+      "photo_urls": []
+    },
+    {
+      "id": "112861",
+      "title": "Braunbastion / The Braun Bastion",
+      "latitude": 48.205527,
+      "longitude": 16.377255,
+      "directions": "On Gartenbaupromenade, Wien, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112861",
+      "photo_urls": []
+    },
+    {
+      "id": "113506",
+      "title": "Lise Meitner",
+      "latitude": 48.201551,
+      "longitude": 16.376855,
+      "directions": "On Beethovenplatz, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113506",
+      "photo_urls": []
+    },
+    {
+      "id": "113591",
+      "title": "Erwin Schrödinger",
+      "latitude": 48.201557,
+      "longitude": 16.376882,
+      "directions": "On Beethovenplatz, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113591",
+      "photo_urls": []
+    },
+    {
+      "id": "120930",
+      "title": "Lueger Denkmal / Lueger Monument",
+      "latitude": 48.20753674,
+      "longitude": 16.37971406,
+      "directions": "On Dr.-Karl-Lueger-Platz, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120930",
+      "photo_urls": []
+    },
+    {
+      "id": "120950",
+      "title": "Franz Grillparzer",
+      "latitude": 48.20692417,
+      "longitude": 16.37460713,
+      "directions": "On Grünangergasse, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120950",
+      "photo_urls": []
+    },
+    {
+      "id": "120954",
+      "title": "General Friedrich Graf Beck-Rzikowsky",
+      "latitude": 48.21314034,
+      "longitude": 16.36280113,
+      "directions": "On Mölker Bastei, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120954",
+      "photo_urls": []
+    },
+    {
+      "id": "121069",
+      "title": "Ottoman Siege of 1529",
+      "latitude": 48.20350986,
+      "longitude": 16.37050335,
+      "directions": "On Walfischgasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121069",
+      "photo_urls": []
+    },
+    {
+      "id": "121071",
+      "title": "Leopold Auenbrugger",
+      "latitude": 48.20583689,
+      "longitude": 16.37029414,
+      "directions": "On Neuer Markt, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121071",
+      "photo_urls": []
+    },
+    {
+      "id": "121386",
+      "title": "Professor Anton von Eiselsberg",
+      "latitude": 48.21310912,
+      "longitude": 16.36277018,
+      "directions": "On Mölker Bastei, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121386",
+      "photo_urls": []
+    },
+    {
+      "id": "121618",
+      "title": "Die Aula der Wissenschaften / Hall of Sciences",
+      "latitude": 48.20824693,
+      "longitude": 16.37761121,
+      "directions": "On Wollzeile, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121618",
+      "photo_urls": []
+    },
+    {
+      "id": "121644",
+      "title": "Karl Freiherr von Vogelsang",
+      "latitude": 48.20760065,
+      "longitude": 16.37700417,
+      "directions": "On Schulerstraße, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121644",
+      "photo_urls": []
+    },
+    {
+      "id": "121654",
+      "title": "Dietrich von Hildebrand",
+      "latitude": 48.20826075,
+      "longitude": 16.36851847,
+      "directions": "On Habsburgergasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121654",
+      "photo_urls": []
+    },
+    {
+      "id": "121655",
+      "title": "The Austrian Branch of the Teutonic Order",
+      "latitude": 48.20758023,
+      "longitude": 16.37324457,
+      "directions": "On Singerstraße, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121655",
+      "photo_urls": []
+    },
+    {
+      "id": "121717",
+      "title": "Father Wilhelm Janauschek",
+      "latitude": 48.20746707,
+      "longitude": 16.37017076,
+      "directions": "On Spiegelgasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121717",
+      "photo_urls": []
+    },
+    {
+      "id": "121723",
+      "title": "Das Michaeler Bierhaus",
+      "latitude": 48.207678,
+      "longitude": 16.3669977,
+      "directions": "On Reitschulgasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121723",
+      "photo_urls": []
+    },
+    {
+      "id": "121724",
+      "title": "Johann Pollet",
+      "latitude": 48.20830362,
+      "longitude": 16.36642639,
+      "directions": "On Michaelerplatz, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121724",
+      "photo_urls": []
+    },
+    {
+      "id": "123035",
+      "title": "Rudjer J. Boškovi&#263;",
+      "latitude": 48.20867929,
+      "longitude": 16.37750668,
+      "directions": "On Dr.-Ignaz-Seipel-Platz, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123035",
+      "photo_urls": []
+    },
+    {
+      "id": "123045",
+      "title": "Former University Office",
+      "latitude": 48.20905383,
+      "longitude": 16.37723158,
+      "directions": "On Sonnenfelsgasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123045",
+      "photo_urls": []
+    },
+    {
+      "id": "123046",
+      "title": "Das alte Burgtheater / The Old Court Theater",
+      "latitude": 48.20759876,
+      "longitude": 16.3666402,
+      "directions": "On Michaelerplatz, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123046",
+      "photo_urls": []
+    },
+    {
+      "id": "123075",
+      "title": "Dr. Karl Lueger",
+      "latitude": 48.20757374,
+      "longitude": 16.38038116,
+      "directions": "On Dr.-Karl-Lueger-Platz, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123075",
+      "photo_urls": []
+    },
+    {
+      "id": "125996",
+      "title": "Hölblinghaus",
+      "latitude": 47.268466,
+      "longitude": 11.393057,
+      "directions": "Near Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125996",
+      "photo_urls": []
+    },
+    {
+      "id": "126003",
+      "title": "Der \"Neue Hof\" mit den Goldenen Dachl",
+      "latitude": 47.268576,
+      "longitude": 11.393299,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126003",
+      "photo_urls": []
+    },
+    {
+      "id": "126004",
+      "title": "Historisches Rathaus",
+      "latitude": 47.268313,
+      "longitude": 11.393437,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126004",
+      "photo_urls": []
+    },
+    {
+      "id": "126005",
+      "title": "Prechthaus",
+      "latitude": 47.268846,
+      "longitude": 11.393532,
+      "directions": "On Pfargasse, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126005",
+      "photo_urls": []
+    },
+    {
+      "id": "126011",
+      "title": "Triumphpforte",
+      "latitude": 47.262588,
+      "longitude": 11.394763,
+      "directions": "Near Maria-Theresien-Straße, Wilten, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126011",
+      "photo_urls": []
+    },
+    {
+      "id": "128670",
+      "title": "Mozarts Geburtshaus",
+      "latitude": 47.80005246,
+      "longitude": 13.04362323,
+      "directions": "On Getreidegasse, Salzburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128670",
+      "photo_urls": []
+    },
+    {
+      "id": "131691",
+      "title": "Mozart's First",
+      "latitude": 48.20537913,
+      "longitude": 16.37385697,
+      "directions": "On Himmelpfortgasse, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=131691",
+      "photo_urls": []
+    },
+    {
+      "id": "144505",
+      "title": "Ulrich Zwingli",
+      "latitude": 48.20904057,
+      "longitude": 16.37726465,
+      "directions": "On Sonnenfelsgasse, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144505",
+      "photo_urls": []
+    },
+    {
+      "id": "144508",
+      "title": "Gottfried Wilhelm Leibniz",
+      "latitude": 48.20909029,
+      "longitude": 16.37717027,
+      "directions": "On Sonnenfelsgasse, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144508",
+      "photo_urls": []
+    },
+    {
+      "id": "144516",
+      "title": "Babenberger Stadtthor - Babenberg City Gate",
+      "latitude": 48.21266075,
+      "longitude": 16.36861625,
+      "directions": "On Wipplingerstrasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144516",
+      "photo_urls": []
+    },
+    {
+      "id": "144962",
+      "title": "Anton Maria Schwartz",
+      "latitude": 48.20800438,
+      "longitude": 16.37304391,
+      "directions": "On Stephansplatz, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144962",
+      "photo_urls": []
+    },
+    {
+      "id": "144966",
+      "title": "Andrij Hnatschyn",
+      "latitude": 48.20970623,
+      "longitude": 16.37897819,
+      "directions": "On Postgasse 8, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144966",
+      "photo_urls": []
+    },
+    {
+      "id": "145358",
+      "title": "Mahnmal Gegen Krieg und Faschismus / Monument against War and Fascism",
+      "latitude": 48.20453124,
+      "longitude": 16.36903494,
+      "directions": "On Augustinerstraße, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145358",
+      "photo_urls": []
+    },
+    {
+      "id": "145365",
+      "title": "The Security Committee of 1848",
+      "latitude": 48.21173061,
+      "longitude": 16.37114491,
+      "directions": "On Wipplingerstrasse, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145365",
+      "photo_urls": []
+    },
+    {
+      "id": "145366",
+      "title": "Memorial Plaque of the Archdiocese Vienna at Judenplatz",
+      "latitude": 48.21155873,
+      "longitude": 16.36941426,
+      "directions": "On Judenplatz, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145366",
+      "photo_urls": []
+    },
+    {
+      "id": "145374",
+      "title": "Johann Nestroy",
+      "latitude": 48.20809939,
+      "longitude": 16.36912801,
+      "directions": "On Bräunerstraße, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145374",
+      "photo_urls": []
+    },
+    {
+      "id": "159396",
+      "title": "1981 Vienna Synagogue Attack",
+      "latitude": 48.21153354,
+      "longitude": 16.37411624,
+      "directions": "On Desider Friedmann-Platz, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=159396",
+      "photo_urls": []
+    },
+    {
+      "id": "159431",
+      "title": "Alter Berghof I / Old Berghof I",
+      "latitude": 48.2113485,
+      "longitude": 16.37232187,
+      "directions": "On Marc Aurel Strasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=159431",
+      "photo_urls": []
+    },
+    {
+      "id": "159437",
+      "title": "Alter Berghof II / Old Berghof II",
+      "latitude": 48.21101507,
+      "longitude": 16.3730873,
+      "directions": "On Hoher Markt, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=159437",
+      "photo_urls": []
+    },
+    {
+      "id": "189737",
+      "title": "Tomáš Garrigue Masaryk (1850 - 1937)",
+      "latitude": 48.20141281,
+      "longitude": 16.37692422,
+      "directions": "On Lothringerstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=189737",
+      "photo_urls": []
+    },
+    {
+      "id": "209921",
+      "title": "&#699;Abdu'l-Bahá",
+      "latitude": 48.19905648,
+      "longitude": 16.37224169,
+      "directions": "On Straße ohne Straßennamen, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209921",
+      "photo_urls": []
+    },
+    {
+      "id": "210005",
+      "title": "Johannes Brahms",
+      "latitude": 48.19814632,
+      "longitude": 16.37058662,
+      "directions": "On Karlsgasse, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210005",
+      "photo_urls": []
+    },
+    {
+      "id": "210043",
+      "title": "Richard Wagner",
+      "latitude": 48.20134263,
+      "longitude": 16.37303298,
+      "directions": "On Kärntner Ring, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210043",
+      "photo_urls": []
+    },
+    {
+      "id": "210050",
+      "title": "Mayor Hanns von Thau",
+      "latitude": 48.19500775,
+      "longitude": 16.36654438,
+      "directions": "On Waaggasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210050",
+      "photo_urls": []
+    },
+    {
+      "id": "210106",
+      "title": "Beethoven’s Residence",
+      "latitude": 48.21194106,
+      "longitude": 16.36765882,
+      "directions": "On Tiefer Graben, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210106",
+      "photo_urls": []
+    },
+    {
+      "id": "210261",
+      "title": "Erwin-Ringel-Park",
+      "latitude": 48.21641771,
+      "longitude": 16.36567946,
+      "directions": "On Maria-Theresien-Straße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210261",
+      "photo_urls": []
+    },
+    {
+      "id": "210323",
+      "title": "Hugo Bettauer",
+      "latitude": 48.20811885,
+      "longitude": 16.35253112,
+      "directions": "On Zeltgasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210323",
+      "photo_urls": []
+    },
+    {
+      "id": "210390",
+      "title": "Falco",
+      "latitude": 48.1915398,
+      "longitude": 16.36053154,
+      "directions": "On Ziegelofengasse, Wien, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210390",
+      "photo_urls": []
+    },
+    {
+      "id": "210662",
+      "title": "Johann Friedrich Böttcher - Goldmacher / Alchemist",
+      "latitude": 48.21286287,
+      "longitude": 14.47930173,
+      "directions": "On Wiener Straße, Enns, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210662",
+      "photo_urls": []
+    },
+    {
+      "id": "210664",
+      "title": "CARE - Gedenktafel / Historical Marker",
+      "latitude": 48.21582265,
+      "longitude": 16.36723616,
+      "directions": "On Schottenring, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210664",
+      "photo_urls": []
+    },
+    {
+      "id": "210736",
+      "title": "Bertha Zuckerkandl",
+      "latitude": 48.21148663,
+      "longitude": 16.36163215,
+      "directions": "On Oppolzergasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210736",
+      "photo_urls": []
+    },
+    {
+      "id": "210820",
+      "title": "Professor Carl Führich (1865 - 1959)",
+      "latitude": 48.19491897,
+      "longitude": 16.36552781,
+      "directions": "On Schäffergasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=210820",
+      "photo_urls": []
+    },
+    {
+      "id": "211212",
+      "title": "Sigmund Freud",
+      "latitude": 48.2185793,
+      "longitude": 16.36304758,
+      "directions": "On Berggasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211212",
+      "photo_urls": []
+    },
+    {
+      "id": "211410",
+      "title": "Eduard Strauß",
+      "latitude": 48.20882917,
+      "longitude": 16.35758847,
+      "directions": "On Reichsratsstraße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211410",
+      "photo_urls": []
+    },
+    {
+      "id": "211435",
+      "title": "Gustav Klimt",
+      "latitude": 48.20190242,
+      "longitude": 16.34277004,
+      "directions": "On Westbahnstrasse, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211435",
+      "photo_urls": []
+    },
+    {
+      "id": "211495",
+      "title": "Karol Szymanowski (1882 - 1937)",
+      "latitude": 48.19803521,
+      "longitude": 16.37132471,
+      "directions": "On Argentinierstraße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211495",
+      "photo_urls": []
+    },
+    {
+      "id": "211530",
+      "title": "Christopher Columbus",
+      "latitude": 48.20095729,
+      "longitude": 16.370911,
+      "directions": "On Akademiestraße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211530",
+      "photo_urls": []
+    },
+    {
+      "id": "211865",
+      "title": "Robert Stolz",
+      "latitude": 48.20256146,
+      "longitude": 16.36545496,
+      "directions": "On Elisabethstraße, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211865",
+      "photo_urls": []
+    },
+    {
+      "id": "211867",
+      "title": "Das Gasthaus „Zur Sonne“ / The Inn „At the Sun“",
+      "latitude": 48.2133589,
+      "longitude": 14.47980131,
+      "directions": "On Stiegengasse, Enns, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211867",
+      "photo_urls": []
+    },
+    {
+      "id": "211877",
+      "title": "Adam Smith",
+      "latitude": 48.20089649,
+      "longitude": 16.37087849,
+      "directions": "On Akademiestraße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211877",
+      "photo_urls": []
+    },
+    {
+      "id": "212288",
+      "title": "Grete-Rehor-Park",
+      "latitude": 48.20716644,
+      "longitude": 16.35827726,
+      "directions": "On Grete Rehor-Park, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212288",
+      "photo_urls": []
+    },
+    {
+      "id": "212334",
+      "title": "Anton Bruckner",
+      "latitude": 48.21205512,
+      "longitude": 14.47895205,
+      "directions": "On Kirchenplatz, Enns, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212334",
+      "photo_urls": []
+    },
+    {
+      "id": "212450",
+      "title": "Adolf Loos",
+      "latitude": 48.20151395,
+      "longitude": 16.37020528,
+      "directions": "On Bösendorferstraße, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212450",
+      "photo_urls": []
+    },
+    {
+      "id": "212515",
+      "title": "Joseph Haydn",
+      "latitude": 48.20823304,
+      "longitude": 16.36702918,
+      "directions": "On Kohlmarkt, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212515",
+      "photo_urls": []
+    },
+    {
+      "id": "212521",
+      "title": "St. Josef ob der Laimgrube Church",
+      "latitude": 48.20067546,
+      "longitude": 16.3581872,
+      "directions": "On Mariahilferstraße, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212521",
+      "photo_urls": []
+    },
+    {
+      "id": "212620",
+      "title": "Staatsoper",
+      "latitude": 48.20272394,
+      "longitude": 16.36893211,
+      "directions": "On Opernring, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212620",
+      "photo_urls": []
+    },
+    {
+      "id": "212642",
+      "title": "Erich Kleiber",
+      "latitude": 48.19447854,
+      "longitude": 16.36139805,
+      "directions": "On Kettenbrückengasse, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212642",
+      "photo_urls": []
+    },
+    {
+      "id": "212686",
+      "title": "Herbert Boeckl",
+      "latitude": 48.1898776,
+      "longitude": 16.37580621,
+      "directions": "On Argentinierstraße, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212686",
+      "photo_urls": []
+    },
+    {
+      "id": "212755",
+      "title": "Die Sowjetische Militärkommandtur für Wien / Former Soviet Military Headquarters",
+      "latitude": 48.20671702,
+      "longitude": 16.35935016,
+      "directions": "On Schmerlingplatz, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212755",
+      "photo_urls": []
+    },
+    {
+      "id": "212859",
+      "title": "Fritz Lang",
+      "latitude": 48.20803322,
+      "longitude": 16.35103491,
+      "directions": "On Piaristengasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212859",
+      "photo_urls": []
+    },
+    {
+      "id": "212931",
+      "title": "Karl and Charlotte Bühler",
+      "latitude": 48.20642351,
+      "longitude": 16.35983007,
+      "directions": "On Doktor Karl Renner-Ring, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212931",
+      "photo_urls": []
+    },
+    {
+      "id": "213233",
+      "title": "Rudolf Kassner",
+      "latitude": 48.19369551,
+      "longitude": 16.36982084,
+      "directions": "On Tilgnerstraße, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213233",
+      "photo_urls": []
+    },
+    {
+      "id": "213242",
+      "title": "Jean Sibelius",
+      "latitude": 48.19462216,
+      "longitude": 16.36691049,
+      "directions": "On Waaggasse, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213242",
+      "photo_urls": []
+    },
+    {
+      "id": "213294",
+      "title": "Josef Frank (1885–1967)",
+      "latitude": 48.19054901,
+      "longitude": 16.36632442,
+      "directions": "On Wiedner Hauptstraße, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213294",
+      "photo_urls": []
+    },
+    {
+      "id": "213452",
+      "title": "Rudolf Jeremias Kreutz",
+      "latitude": 48.20472178,
+      "longitude": 16.34895101,
+      "directions": "On Neubaugasse, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213452",
+      "photo_urls": []
+    },
+    {
+      "id": "213467",
+      "title": "Jan III. Sobieski",
+      "latitude": 48.20598777,
+      "longitude": 16.36772823,
+      "directions": "On Augustinerstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213467",
+      "photo_urls": []
+    },
+    {
+      "id": "213469",
+      "title": "Johann und Josef Strauss",
+      "latitude": 48.19849219,
+      "longitude": 16.37083982,
+      "directions": "On Karlsplatz, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213469",
+      "photo_urls": []
+    },
+    {
+      "id": "213619",
+      "title": "Kaiserliche Akademie der Wissenschaften / Imperial Academy of Sciences",
+      "latitude": 48.19902401,
+      "longitude": 16.36989921,
+      "directions": "On Karlsplatz, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213619",
+      "photo_urls": []
+    },
+    {
+      "id": "213742",
+      "title": "Georgi Dimitroff",
+      "latitude": 48.19003952,
+      "longitude": 16.37570386,
+      "directions": "On Argentinierstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213742",
+      "photo_urls": []
+    },
+    {
+      "id": "213772",
+      "title": "Veterinärmedizinische Universität Wien / University of Veterinary Medicine of Vienna",
+      "latitude": 48.19612938,
+      "longitude": 16.36899542,
+      "directions": "On Gußhausstraße, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213772",
+      "photo_urls": []
+    },
+    {
+      "id": "213778",
+      "title": "Friedrich Hebbel",
+      "latitude": 48.20938864,
+      "longitude": 16.35479629,
+      "directions": "On Lenaugasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213778",
+      "photo_urls": []
+    },
+    {
+      "id": "213780",
+      "title": "Bertha Pappenheim (1859-1936)",
+      "latitude": 48.21575873,
+      "longitude": 16.36409551,
+      "directions": "On Liechtensteinstraße, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213780",
+      "photo_urls": []
+    },
+    {
+      "id": "213824",
+      "title": "Stefan Graf Szechenyi / Gróf Szechenyi István",
+      "latitude": 48.20872595,
+      "longitude": 16.36620722,
+      "directions": "On Herrengasse, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213824",
+      "photo_urls": []
+    },
+    {
+      "id": "213832",
+      "title": "Sir Josef Edgar Böhm",
+      "latitude": 48.19132505,
+      "longitude": 16.36656113,
+      "directions": "On Wiedner Hauptstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213832",
+      "photo_urls": []
+    },
+    {
+      "id": "213835",
+      "title": "Pater Joseph Misson",
+      "latitude": 48.18870186,
+      "longitude": 16.36457831,
+      "directions": "On Wiedner Hauptstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213835",
+      "photo_urls": []
+    },
+    {
+      "id": "213845",
+      "title": "Josef Madersperger (1768-1850)",
+      "latitude": 48.19932401,
+      "longitude": 16.3695994,
+      "directions": "On Resselpark, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213845",
+      "photo_urls": []
+    },
+    {
+      "id": "213860",
+      "title": "Franz Christoph Erler",
+      "latitude": 48.18865602,
+      "longitude": 16.3764559,
+      "directions": "On Argentinierstraße, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213860",
+      "photo_urls": []
+    },
+    {
+      "id": "213867",
+      "title": "Siegfried Marcus",
+      "latitude": 48.19934754,
+      "longitude": 16.36951625,
+      "directions": "On Resselpark, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213867",
+      "photo_urls": []
+    },
+    {
+      "id": "213899",
+      "title": "Antonio Vivaldi",
+      "latitude": 48.19870075,
+      "longitude": 16.37077309,
+      "directions": "On Karlsplatz, Wien, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213899",
+      "photo_urls": []
+    },
+    {
+      "id": "214010",
+      "title": "Hugo Burghauser",
+      "latitude": 48.19396294,
+      "longitude": 16.37386462,
+      "directions": "On Argentinierstraße, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214010",
+      "photo_urls": []
+    },
+    {
+      "id": "214016",
+      "title": "Former streambed of the Alsbach",
+      "latitude": 48.2111049,
+      "longitude": 16.36637674,
+      "directions": "On Strauchgasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214016",
+      "photo_urls": []
+    },
+    {
+      "id": "214187",
+      "title": "Matthias Sindelar",
+      "latitude": 48.20455518,
+      "longitude": 16.37132172,
+      "directions": "On Annagasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214187",
+      "photo_urls": []
+    },
+    {
+      "id": "214189",
+      "title": "Wiener Aero-Club",
+      "latitude": 48.20458062,
+      "longitude": 16.3712845,
+      "directions": "On Annagasse, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214189",
+      "photo_urls": []
+    },
+    {
+      "id": "214190",
+      "title": "Dr. Hans Zimmerl",
+      "latitude": 48.2139181,
+      "longitude": 16.37013595,
+      "directions": "On Neutorgasse, Wien, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214190",
+      "photo_urls": []
+    },
+    {
+      "id": "214248",
+      "title": "Master Craftsmen Vienna Siege Memorial",
+      "latitude": 48.21002349,
+      "longitude": 16.362383,
+      "directions": "On Bankgaße, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214248",
+      "photo_urls": []
+    },
+    {
+      "id": "214265",
+      "title": "Christoph Willibald Gluck",
+      "latitude": 48.19538741,
+      "longitude": 16.36687428,
+      "directions": "On Wiedner Hauptstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214265",
+      "photo_urls": []
+    },
+    {
+      "id": "214348",
+      "title": "Austrian Arts Society Künstlerhaus WW II Memorial",
+      "latitude": 48.20046009,
+      "longitude": 16.37163657,
+      "directions": "On Karlsplatz, Wien, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214348",
+      "photo_urls": []
+    },
+    {
+      "id": "214398",
+      "title": "Rockgarten",
+      "latitude": 48.21197471,
+      "longitude": 16.36278991,
+      "directions": "On Schreyvogelgasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214398",
+      "photo_urls": []
+    },
+    {
+      "id": "214534",
+      "title": "Weinheber- Memorial/Denkmal",
+      "latitude": 48.20232723,
+      "longitude": 16.36588439,
+      "directions": "On Elisabethstraße, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214534",
+      "photo_urls": []
+    },
+    {
+      "id": "214551",
+      "title": "Albert Lortzing",
+      "latitude": 48.19284523,
+      "longitude": 16.36670052,
+      "directions": "On Fleischmanngasse, Wien, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214551",
+      "photo_urls": []
+    },
+    {
+      "id": "214565",
+      "title": "Iosepho (Joseph) Ressel",
+      "latitude": 48.19941727,
+      "longitude": 16.37015462,
+      "directions": "On Karlsplatz, Wien, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214565",
+      "photo_urls": []
+    },
+    {
+      "id": "214692",
+      "title": "Franz Ritter von Miklosich / Fran Mikloši&#269;",
+      "latitude": 48.20925616,
+      "longitude": 16.35294867,
+      "directions": "On Josefstädter Straße, Wien, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214692",
+      "photo_urls": []
+    },
+    {
+      "id": "214871",
+      "title": "Österreichische Widerstandsbewegung / Austrian Resistance Movement",
+      "latitude": 48.20735366,
+      "longitude": 16.35521398,
+      "directions": "On Auerspergstraße, Wien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=214871",
+      "photo_urls": []
+    },
+    {
+      "id": "217010",
+      "title": "Der Stadtturm von Enns / The Enns City Tower",
+      "latitude": 48.21405702,
+      "longitude": 14.47932836,
+      "directions": "On Hauptplatz, Enns, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217010",
+      "photo_urls": []
+    },
+    {
+      "id": "217021",
+      "title": "Das Stadtrecht von Enns / Enns City Charter",
+      "latitude": 48.21405468,
+      "longitude": 14.47940969,
+      "directions": "On Hauptplatz, Enns, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217021",
+      "photo_urls": []
+    },
+    {
+      "id": "217032",
+      "title": "Salzamt / Salt Office",
+      "latitude": 48.21433428,
+      "longitude": 14.47904035,
+      "directions": "On Hauptplatz, Enns, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217032",
+      "photo_urls": []
+    },
+    {
+      "id": "217156",
+      "title": "Mittelalterliche Bürgerhäuser / Medieval Townhouses",
+      "latitude": 48.21464651,
+      "longitude": 14.47707395,
+      "directions": "On Kaltenbrunnergasse, Enns, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217156",
+      "photo_urls": []
+    },
+    {
+      "id": "217688",
+      "title": "Der Georgenberg",
+      "latitude": 48.21597858,
+      "longitude": 14.48055401,
+      "directions": "On Mauthausner Straße, Enns, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217688",
+      "photo_urls": []
+    },
+    {
+      "id": "274404",
+      "title": "Ferenc Rákóczi",
+      "latitude": 48.205473,
+      "longitude": 16.373623,
+      "directions": "On Himmelpfortgasse, Wien, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274404",
+      "photo_urls": []
+    },
+    {
+      "id": "68112",
+      "title": "The House of Archduke Sigismund of Tyrol",
+      "latitude": 47.268525,
+      "longitude": 11.39435,
+      "directions": "On Hofgasse, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68112",
+      "photo_urls": []
+    },
+    {
+      "id": "68113",
+      "title": "Hölblinghaus",
+      "latitude": 47.268521,
+      "longitude": 11.393208,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68113",
+      "photo_urls": []
+    },
+    {
+      "id": "68114",
+      "title": "The Golden Roof and New Courtyard",
+      "latitude": 47.268576,
+      "longitude": 11.39324,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68114",
+      "photo_urls": []
+    },
+    {
+      "id": "68115",
+      "title": "Jakob Hutter",
+      "latitude": 47.268568,
+      "longitude": 11.393143,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68115",
+      "photo_urls": []
+    },
+    {
+      "id": "68116",
+      "title": "The Old City Hall / City Tower",
+      "latitude": 47.26837,
+      "longitude": 11.393401,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68116",
+      "photo_urls": []
+    },
+    {
+      "id": "68135",
+      "title": "The Tower of the Coat of Arms",
+      "latitude": 47.268559,
+      "longitude": 11.395123,
+      "directions": "On Rennweg, Innenstadt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68135",
+      "photo_urls": []
+    },
+    {
+      "id": "68137",
+      "title": "The Teutonic Order House",
+      "latitude": 47.268619,
+      "longitude": 11.393819,
+      "directions": "On Hofgasse, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68137",
+      "photo_urls": []
+    },
+    {
+      "id": "68138",
+      "title": "Andreas Hofer",
+      "latitude": 47.268488,
+      "longitude": 11.392623,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68138",
+      "photo_urls": []
+    },
+    {
+      "id": "68141",
+      "title": "\"Golden Eagle\"",
+      "latitude": 47.268474,
+      "longitude": 11.392446,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68141",
+      "photo_urls": []
+    },
+    {
+      "id": "68142",
+      "title": "To Mantua in Chains (The Song of Andreas Hofer)",
+      "latitude": 47.268492,
+      "longitude": 11.39266,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68142",
+      "photo_urls": []
+    },
+    {
+      "id": "68147",
+      "title": "\"Ottoburg\" Castle",
+      "latitude": 47.268506,
+      "longitude": 11.392037,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68147",
+      "photo_urls": []
+    },
+    {
+      "id": "68148",
+      "title": "The Inn River Bridge",
+      "latitude": 47.268579,
+      "longitude": 11.391007,
+      "directions": "On Innbrücke, Innenstadt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68148",
+      "photo_urls": []
+    },
+    {
+      "id": "68180",
+      "title": "The Old Town Armory/Barracks",
+      "latitude": 47.26807,
+      "longitude": 11.391501,
+      "directions": "On Innrain, Innenstadt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68180",
+      "photo_urls": []
+    },
+    {
+      "id": "68181",
+      "title": "The Pecking- or Women’s Gate",
+      "latitude": 47.267647,
+      "longitude": 11.391737,
+      "directions": "On Seilergasse, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68181",
+      "photo_urls": []
+    },
+    {
+      "id": "68182",
+      "title": "Goethe Stayed Here",
+      "latitude": 47.26847,
+      "longitude": 11.392473,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68182",
+      "photo_urls": []
+    },
+    {
+      "id": "68183",
+      "title": "The Speech",
+      "latitude": 47.268481,
+      "longitude": 11.392532,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68183",
+      "photo_urls": []
+    },
+    {
+      "id": "68291",
+      "title": "Gumpp House",
+      "latitude": 47.26736,
+      "longitude": 11.392639,
+      "directions": "On Kiebachgasse, Innenstadt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68291",
+      "photo_urls": []
+    },
+    {
+      "id": "68293",
+      "title": "Kolb Tower",
+      "latitude": 47.267167,
+      "longitude": 11.392907,
+      "directions": "On Kiebachgasse, Innenstadt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68293",
+      "photo_urls": []
+    },
+    {
+      "id": "68295",
+      "title": "Magistrate Zeller's House",
+      "latitude": 47.267567,
+      "longitude": 11.393519,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68295",
+      "photo_urls": []
+    },
+    {
+      "id": "68296",
+      "title": "Leopold Mozart",
+      "latitude": 47.267716,
+      "longitude": 11.393476,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68296",
+      "photo_urls": []
+    },
+    {
+      "id": "68325",
+      "title": "The Trautson House",
+      "latitude": 47.267935,
+      "longitude": 11.39332,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68325",
+      "photo_urls": []
+    },
+    {
+      "id": "68328",
+      "title": "First Office Building of the Tyrolean Provincial Assembly",
+      "latitude": 47.267837,
+      "longitude": 11.39346,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68328",
+      "photo_urls": []
+    },
+    {
+      "id": "68329",
+      "title": "Katzunghaus",
+      "latitude": 47.268179,
+      "longitude": 11.393283,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68329",
+      "photo_urls": []
+    },
+    {
+      "id": "68331",
+      "title": "Precht House",
+      "latitude": 47.268889,
+      "longitude": 11.393556,
+      "directions": "On Pfarrgasse, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68331",
+      "photo_urls": []
+    },
+    {
+      "id": "68367",
+      "title": "St. James Cathedral",
+      "latitude": 47.269372,
+      "longitude": 11.393728,
+      "directions": "On Domplatz, Innenstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68367",
+      "photo_urls": []
+    },
+    {
+      "id": "68369",
+      "title": "Innsbruck's First School",
+      "latitude": 47.269676,
+      "longitude": 11.393626,
+      "directions": "On Domplatz, Innenstadt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68369",
+      "photo_urls": []
+    },
+    {
+      "id": "68372",
+      "title": "Marc Antonio Cesti",
+      "latitude": 47.269372,
+      "longitude": 11.393529,
+      "directions": "On Pfarrgasse, Innenstadt, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68372",
+      "photo_urls": []
+    },
+    {
+      "id": "68374",
+      "title": "Bederlunger House",
+      "latitude": 47.268525,
+      "longitude": 11.393326,
+      "directions": "On Hofgasse, Innenstadt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68374",
+      "photo_urls": []
+    },
+    {
+      "id": "68375",
+      "title": "The Church of the Holy Spirit Hospital",
+      "latitude": 47.266877,
+      "longitude": 11.393594,
+      "directions": "On Maria-Theresien-Straße, Innenstadt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68375",
+      "photo_urls": []
+    },
+    {
+      "id": "68378",
+      "title": "Lodron Palace",
+      "latitude": 47.266597,
+      "longitude": 11.393996,
+      "directions": "On Maria-Theresien-Straße, Innenstadt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68378",
+      "photo_urls": []
+    },
+    {
+      "id": "68439",
+      "title": "The Court or Franciscan Church",
+      "latitude": 47.268542,
+      "longitude": 11.395271,
+      "directions": "On Rennweg, Innenstadt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68439",
+      "photo_urls": []
+    },
+    {
+      "id": "68442",
+      "title": "The New Seminary",
+      "latitude": 47.268538,
+      "longitude": 11.395622,
+      "directions": "On Universitätsstrasse, Innenstadt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68442",
+      "photo_urls": []
+    },
+    {
+      "id": "68444",
+      "title": "The Old University",
+      "latitude": 47.268628,
+      "longitude": 11.396137,
+      "directions": "On Universitätsstraße, Innenstadt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68444",
+      "photo_urls": []
+    },
+    {
+      "id": "68445",
+      "title": "Jesuit Church of the Holy Trinity",
+      "latitude": 47.268754,
+      "longitude": 11.397826,
+      "directions": "On Karl-Rahner-Platz, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68445",
+      "photo_urls": []
+    },
+    {
+      "id": "68797",
+      "title": "Old Government Building",
+      "latitude": 47.268543,
+      "longitude": 11.39237,
+      "directions": "On Herzog-Friedrich-Straße, Innenstadt, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68797",
+      "photo_urls": []
+    }
+  ]
+}
