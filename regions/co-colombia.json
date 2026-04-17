@@ -1,0 +1,254 @@
+{
+  "region_id": "co-colombia",
+  "region_name": "Colombia",
+  "region_type": "country",
+  "country": "Colombia",
+  "generated": "2026-04-17T06:07:29.008Z",
+  "source_timestamp": "2026-04-17T06:07:29.008Z",
+  "marker_count": 27,
+  "markers": [
+    {
+      "id": "188424",
+      "title": "Colombia a Sus Valiosos Hombres de Mar (Colombia to Her Brave Seamen)",
+      "latitude": 10.42093,
+      "longitude": -75.55205,
+      "directions": "On Calle 30, Cartagena de Indias, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188424",
+      "photo_urls": []
+    },
+    {
+      "id": "188454",
+      "title": "Monumento a la Guerra de Corea de Colombia",
+      "latitude": 10.42058,
+      "longitude": -75.55226,
+      "directions": "On Calle 30, Cartagena de Indias, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188454",
+      "photo_urls": []
+    },
+    {
+      "id": "215865",
+      "title": "Powder Kegs Warehouses for Artillery",
+      "latitude": 10.42261038,
+      "longitude": -75.53929364,
+      "directions": "Near Carrera 17, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215865",
+      "photo_urls": []
+    },
+    {
+      "id": "215901",
+      "title": "Hornabeque Battery",
+      "latitude": 10.42283811,
+      "longitude": -75.53924155,
+      "directions": "Near Carrera 17, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215901",
+      "photo_urls": []
+    },
+    {
+      "id": "215914",
+      "title": "Redemption Battery",
+      "latitude": 10.42243943,
+      "longitude": -75.53907503,
+      "directions": "Near Carrera 17, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215914",
+      "photo_urls": []
+    },
+    {
+      "id": "215918",
+      "title": "Don Blas de Lezo",
+      "latitude": 10.42154493,
+      "longitude": -75.53993231,
+      "directions": "Near Carrera 17, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215918",
+      "photo_urls": []
+    },
+    {
+      "id": "215922",
+      "title": "San Juan Bosco",
+      "latitude": 10.42979941,
+      "longitude": -75.54646238,
+      "directions": "On Carrera 2, Cartagena de Indias, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215922",
+      "photo_urls": []
+    },
+    {
+      "id": "215925",
+      "title": "Vaults Barracks",
+      "latitude": 10.43009165,
+      "longitude": -75.54607577,
+      "directions": "On Carrera 2, Cartagena de Indias, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215925",
+      "photo_urls": []
+    },
+    {
+      "id": "215929",
+      "title": "Adolfo Mejia Theater",
+      "latitude": 10.42671603,
+      "longitude": -75.55123172,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215929",
+      "photo_urls": []
+    },
+    {
+      "id": "215937",
+      "title": "Mercy Square",
+      "latitude": 10.42665694,
+      "longitude": -75.55138255,
+      "directions": "On Calle de Don Sancho, Cartagena de Indias, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215937",
+      "photo_urls": []
+    },
+    {
+      "id": "215941",
+      "title": "Pantaleon German-Ribon Street",
+      "latitude": 10.42353369,
+      "longitude": -75.55109671,
+      "directions": "On Calle de los Santos de Piedra, Cartagena de Indias, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215941",
+      "photo_urls": []
+    },
+    {
+      "id": "215944",
+      "title": "The Cathedral Basilica Saint Catherine of Alexandria",
+      "latitude": 10.42352289,
+      "longitude": -75.55096427,
+      "directions": "On Calle de la Iglesia, Cartagena de Indias, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215944",
+      "photo_urls": []
+    },
+    {
+      "id": "215980",
+      "title": "Proclamation Square",
+      "latitude": 10.42356256,
+      "longitude": -75.55041871,
+      "directions": "On Carrera 5, Cartagena de Indias, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215980",
+      "photo_urls": []
+    },
+    {
+      "id": "215981",
+      "title": "Aduana Square",
+      "latitude": 10.4223139,
+      "longitude": -75.54989802,
+      "directions": "On Calle 32, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215981",
+      "photo_urls": []
+    },
+    {
+      "id": "215983",
+      "title": "San Pedro Claver Square",
+      "latitude": 10.42166738,
+      "longitude": -75.55062442,
+      "directions": "On Calle San Pedro, Cartagena de Indias, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215983",
+      "photo_urls": []
+    },
+    {
+      "id": "215984",
+      "title": "San Pedro Claver Sanctuary Museum",
+      "latitude": 10.42147265,
+      "longitude": -75.55092491,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215984",
+      "photo_urls": []
+    },
+    {
+      "id": "215986",
+      "title": "San Pedro Claver Parish and Sanctuary",
+      "latitude": 10.42191634,
+      "longitude": -75.55098354,
+      "directions": "On Calle San Pedro, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215986",
+      "photo_urls": []
+    },
+    {
+      "id": "215987",
+      "title": "House of the Inquisition Historical Museum of Cartagena",
+      "latitude": 10.4230365,
+      "longitude": -75.55152965,
+      "directions": "On Carrera 3a, Cartagena de Indias, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215987",
+      "photo_urls": []
+    },
+    {
+      "id": "215992",
+      "title": "Bank of the Republic Building",
+      "latitude": 10.42289326,
+      "longitude": -75.55097081,
+      "directions": "On Calle de la Inquisición, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215992",
+      "photo_urls": []
+    },
+    {
+      "id": "216003",
+      "title": "Bolivar Park",
+      "latitude": 10.42326773,
+      "longitude": -75.55100636,
+      "directions": "Near Parque de Bolívar, Cartagena de Indias, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216003",
+      "photo_urls": []
+    },
+    {
+      "id": "216006",
+      "title": "Burn! / La Quemada",
+      "latitude": 10.42249189,
+      "longitude": -75.55091623,
+      "directions": "On Calle del Landrinal, Cartagena de Indias, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216006",
+      "photo_urls": []
+    },
+    {
+      "id": "216195",
+      "title": "San Ignacio de Loyola Bastion",
+      "latitude": 10.42122303,
+      "longitude": -75.55091587,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216195",
+      "photo_urls": []
+    },
+    {
+      "id": "216244",
+      "title": "Bastion of San Ignacio or the Baskets",
+      "latitude": 10.42120496,
+      "longitude": -75.55086198,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216244",
+      "photo_urls": []
+    },
+    {
+      "id": "216255",
+      "title": "Simón Bolívar Monument",
+      "latitude": 10.42326676,
+      "longitude": -75.55121696,
+      "directions": "Near Parque de Bolívar, Cartagena de Indias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216255",
+      "photo_urls": []
+    },
+    {
+      "id": "216256",
+      "title": "Admiral Jose Padilla",
+      "latitude": 10.42138962,
+      "longitude": -75.55195222,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216256",
+      "photo_urls": []
+    },
+    {
+      "id": "216261",
+      "title": "Admiral Lino de Clemente y Palacios",
+      "latitude": 10.42136324,
+      "longitude": -75.55203731,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216261",
+      "photo_urls": []
+    },
+    {
+      "id": "216263",
+      "title": "Juan Pablo Duarte y Diez",
+      "latitude": 10.42126711,
+      "longitude": -75.55205401,
+      "directions": "On Carrera 4, Cartagena de Indias, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216263",
+      "photo_urls": []
+    }
+  ]
+}
