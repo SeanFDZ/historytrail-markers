@@ -1,0 +1,1442 @@
+{
+  "region_id": "ch-switzerland",
+  "region_name": "Switzerland",
+  "region_type": "country",
+  "country": "Switzerland",
+  "generated": "2026-04-17T06:07:29.001Z",
+  "source_timestamp": "2026-04-17T06:07:29.001Z",
+  "marker_count": 159,
+  "markers": [
+    {
+      "id": "200413",
+      "title": "Isaac Mercier",
+      "latitude": 46.201412,
+      "longitude": 6.144249,
+      "directions": "On Rampe de la Trielle, Geneva, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200413",
+      "photo_urls": []
+    },
+    {
+      "id": "234097",
+      "title": "Charlie Chaplin Square",
+      "latitude": 46.46960312,
+      "longitude": 6.84282236,
+      "directions": "Near Rue du Château, Corsier-sur-Vevey, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234097",
+      "photo_urls": []
+    },
+    {
+      "id": "234098",
+      "title": "Napoleon at Passage du Grand-Saint-Bernard",
+      "latitude": 45.9492807,
+      "longitude": 7.20841085,
+      "directions": "On Rue du Bourg, Bourg-Saint-Pierre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234098",
+      "photo_urls": []
+    },
+    {
+      "id": "254599",
+      "title": "Lux Guyer (1894-1955)",
+      "latitude": 47.37431689,
+      "longitude": 8.53835812,
+      "directions": "On Bahnhofstrasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254599",
+      "photo_urls": []
+    },
+    {
+      "id": "254799",
+      "title": "Willkommen am Morgarten! / Welcome to Morgarten!",
+      "latitude": 47.10642222,
+      "longitude": 8.64189167,
+      "directions": "On Hauptseestrasse, Oberägeri, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254799",
+      "photo_urls": []
+    },
+    {
+      "id": "255130",
+      "title": "Ludwig Pfyffer",
+      "latitude": 47.05234191,
+      "longitude": 8.30762707,
+      "directions": "On Kapellplatz, Luzern, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255130",
+      "photo_urls": []
+    },
+    {
+      "id": "255163",
+      "title": "Rosa Gutknecht",
+      "latitude": 47.37054619,
+      "longitude": 8.54421474,
+      "directions": "On Zwingliplatz, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255163",
+      "photo_urls": []
+    },
+    {
+      "id": "255283",
+      "title": "Anna Bullinger-Adlischwyler",
+      "latitude": 47.37039167,
+      "longitude": 8.54451389,
+      "directions": "On Zwingliplatz, Zürich, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255283",
+      "photo_urls": []
+    },
+    {
+      "id": "255345",
+      "title": "Katharina von Zimmern (1478-1547)",
+      "latitude": 47.37280556,
+      "longitude": 8.54611944,
+      "directions": "On Neumarkt, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255345",
+      "photo_urls": []
+    },
+    {
+      "id": "255405",
+      "title": "Schwule, Lesben und trans Menschen / Gays, Lesbians, and Transgender Persons in Zurich",
+      "latitude": 47.3736054,
+      "longitude": 8.54462291,
+      "directions": "On Spitalgasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255405",
+      "photo_urls": []
+    },
+    {
+      "id": "255449",
+      "title": "Gottfried Keller",
+      "latitude": 47.37321856,
+      "longitude": 8.54653879,
+      "directions": "On Chorgasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255449",
+      "photo_urls": []
+    },
+    {
+      "id": "255450",
+      "title": "Mathilde Escher (1808-1875)",
+      "latitude": 47.3728686,
+      "longitude": 8.53680412,
+      "directions": "On Sankt Annagasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255450",
+      "photo_urls": []
+    },
+    {
+      "id": "255464",
+      "title": "Glocke vom ehemaligen Hause “zum Sternen” / Bell from the Former “zum Sternen” Building",
+      "latitude": 47.68006146,
+      "longitude": 8.61807385,
+      "directions": "On Industriestrasse, Neuhausen am Rheinfall, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255464",
+      "photo_urls": []
+    },
+    {
+      "id": "255505",
+      "title": "Das Hotel «zum Schwert» / The “Sword Hotel”",
+      "latitude": 47.37161612,
+      "longitude": 8.54184915,
+      "directions": "On Weinplatz, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255505",
+      "photo_urls": []
+    },
+    {
+      "id": "255517",
+      "title": "Bahnhofstrasse",
+      "latitude": 47.02108056,
+      "longitude": 8.65189722,
+      "directions": "On Bahnhofstrasse, Schwyz, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255517",
+      "photo_urls": []
+    },
+    {
+      "id": "255528",
+      "title": "Johann Georg Bodmer",
+      "latitude": 47.37419359,
+      "longitude": 8.54403863,
+      "directions": "On Mühlegasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255528",
+      "photo_urls": []
+    },
+    {
+      "id": "255530",
+      "title": "Hans Roelli",
+      "latitude": 47.37280117,
+      "longitude": 8.54607529,
+      "directions": "On Neumarkt, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255530",
+      "photo_urls": []
+    },
+    {
+      "id": "255590",
+      "title": "Heiligkreuzkapelle / “Holy Cross Chapel”",
+      "latitude": 47.02158196,
+      "longitude": 8.65374291,
+      "directions": "On Schulgasse, Schwyz, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255590",
+      "photo_urls": []
+    },
+    {
+      "id": "255976",
+      "title": "Hotel du Théâtre/Kino Alba",
+      "latitude": 47.37626106,
+      "longitude": 8.54464125,
+      "directions": "On Zähringerstrasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255976",
+      "photo_urls": []
+    },
+    {
+      "id": "255979",
+      "title": "Zur Schwarzen Stege",
+      "latitude": 47.37435833,
+      "longitude": 8.54344167,
+      "directions": "On Mühlegasse, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255979",
+      "photo_urls": []
+    },
+    {
+      "id": "255982",
+      "title": "Konstanzer-Haus",
+      "latitude": 47.37034722,
+      "longitude": 8.54542222,
+      "directions": "On Kirchgasse, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255982",
+      "photo_urls": []
+    },
+    {
+      "id": "255998",
+      "title": "Hohe Tanne",
+      "latitude": 47.37393376,
+      "longitude": 8.53990144,
+      "directions": "On Oetenbachgasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255998",
+      "photo_urls": []
+    },
+    {
+      "id": "255999",
+      "title": "Grossmünsterkapelle",
+      "latitude": 47.37020556,
+      "longitude": 8.54481389,
+      "directions": "On Zwingliplatz, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255999",
+      "photo_urls": []
+    },
+    {
+      "id": "256007",
+      "title": "Zur Kerze",
+      "latitude": 47.37102856,
+      "longitude": 8.54327286,
+      "directions": "On Rüdenplatz, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256007",
+      "photo_urls": []
+    },
+    {
+      "id": "256011",
+      "title": "St. Anna-Kapelle / St. Anna Chapel",
+      "latitude": 47.37284471,
+      "longitude": 8.53680278,
+      "directions": "On Sankt Annagasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256011",
+      "photo_urls": []
+    },
+    {
+      "id": "256017",
+      "title": "Büffel",
+      "latitude": 47.37299309,
+      "longitude": 8.54664272,
+      "directions": "On Neumarkt, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256017",
+      "photo_urls": []
+    },
+    {
+      "id": "256022",
+      "title": "Zum Tor",
+      "latitude": 47.37008998,
+      "longitude": 8.54029186,
+      "directions": "On Waaggasse, Zürich, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256022",
+      "photo_urls": []
+    },
+    {
+      "id": "256052",
+      "title": "Zum Kleinen Paradies",
+      "latitude": 47.37032978,
+      "longitude": 8.54552021,
+      "directions": "On Kirchgasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256052",
+      "photo_urls": []
+    },
+    {
+      "id": "256054",
+      "title": "Zum Hohen Steg",
+      "latitude": 47.37171364,
+      "longitude": 8.54562126,
+      "directions": "On Untere Zäune, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256054",
+      "photo_urls": []
+    },
+    {
+      "id": "256063",
+      "title": "Alte Burg",
+      "latitude": 47.37253302,
+      "longitude": 8.54517787,
+      "directions": "On Rindermarkt, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256063",
+      "photo_urls": []
+    },
+    {
+      "id": "256066",
+      "title": "Zum Burghof",
+      "latitude": 47.37269828,
+      "longitude": 8.54521639,
+      "directions": "On Froschaugasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256066",
+      "photo_urls": []
+    },
+    {
+      "id": "256069",
+      "title": "Kleiner Prophet",
+      "latitude": 47.37283333,
+      "longitude": 8.54515833,
+      "directions": "On Froschaugasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256069",
+      "photo_urls": []
+    },
+    {
+      "id": "256074",
+      "title": "Swiss Veterans of the Spanish Civil War Memorial",
+      "latitude": 47.37259804,
+      "longitude": 8.54575142,
+      "directions": "On Neumarkt, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256074",
+      "photo_urls": []
+    },
+    {
+      "id": "256087",
+      "title": "Schäniserhaus",
+      "latitude": 47.37002911,
+      "longitude": 8.54038769,
+      "directions": "On Münsterhof, Zürich, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256087",
+      "photo_urls": []
+    },
+    {
+      "id": "256093",
+      "title": "Zur Farb",
+      "latitude": 47.37024258,
+      "longitude": 8.54077859,
+      "directions": "On Münsterhof, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256093",
+      "photo_urls": []
+    },
+    {
+      "id": "256097",
+      "title": "Joseph Willmann-Haus",
+      "latitude": 47.05275278,
+      "longitude": 8.30758056,
+      "directions": "On Kapelleplatz, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256097",
+      "photo_urls": []
+    },
+    {
+      "id": "256145",
+      "title": "Gottfried Keller",
+      "latitude": 47.37240556,
+      "longitude": 8.54438889,
+      "directions": "On Rindermarkt, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256145",
+      "photo_urls": []
+    },
+    {
+      "id": "256187",
+      "title": "Eine Kirche mit Geschichte / A Church with History",
+      "latitude": 47.68100278,
+      "longitude": 8.61918611,
+      "directions": "On Zentralstrasse, Neuhausen am Rheinfall, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256187",
+      "photo_urls": []
+    },
+    {
+      "id": "256205",
+      "title": "Theilinghus",
+      "latitude": 47.05332986,
+      "longitude": 8.30664933,
+      "directions": "On Theilinggasse, Luzern, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256205",
+      "photo_urls": []
+    },
+    {
+      "id": "256217",
+      "title": "Zum Raben",
+      "latitude": 47.05194838,
+      "longitude": 8.30576791,
+      "directions": "On Kornmarkt, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256217",
+      "photo_urls": []
+    },
+    {
+      "id": "256234",
+      "title": "Rathaus/ City Hall",
+      "latitude": 47.0208412,
+      "longitude": 8.65384067,
+      "directions": "On Hauptplatz, Schwyz, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=256234",
+      "photo_urls": []
+    },
+    {
+      "id": "258857",
+      "title": "Pinkus & Co.",
+      "latitude": 47.3729109,
+      "longitude": 8.54501595,
+      "directions": "On Froschaugasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258857",
+      "photo_urls": []
+    },
+    {
+      "id": "258861",
+      "title": "Kerzenstock",
+      "latitude": 47.37291535,
+      "longitude": 8.54501225,
+      "directions": "On Froschaugasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258861",
+      "photo_urls": []
+    },
+    {
+      "id": "258907",
+      "title": "Pestalozzihaus",
+      "latitude": 47.37481843,
+      "longitude": 8.54456283,
+      "directions": "On Zähringerstrasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258907",
+      "photo_urls": []
+    },
+    {
+      "id": "259136",
+      "title": "Brunnenhof",
+      "latitude": 47.37322403,
+      "longitude": 8.54452912,
+      "directions": "On Brunngasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259136",
+      "photo_urls": []
+    },
+    {
+      "id": "259137",
+      "title": "Konrad von Mure, Johann Jakob Scheuchzer",
+      "latitude": 47.3700903,
+      "longitude": 8.54494996,
+      "directions": "On Kirchgasse, Zürich, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259137",
+      "photo_urls": []
+    },
+    {
+      "id": "259138",
+      "title": "Wettinghäuser / Wettinger Buildings",
+      "latitude": 47.37034189,
+      "longitude": 8.5433507,
+      "directions": "On Limmatquai, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259138",
+      "photo_urls": []
+    },
+    {
+      "id": "259179",
+      "title": "Zunfthaus zur Saffran / Saffron Guild House",
+      "latitude": 47.37156389,
+      "longitude": 8.54304722,
+      "directions": "On Krebsgasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259179",
+      "photo_urls": []
+    },
+    {
+      "id": "259367",
+      "title": "Zur Kleinen Bibel",
+      "latitude": 47.37108386,
+      "longitude": 8.54144573,
+      "directions": "On Storchengasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259367",
+      "photo_urls": []
+    },
+    {
+      "id": "261720",
+      "title": "Zum Sikust",
+      "latitude": 47.37045487,
+      "longitude": 8.5411654,
+      "directions": "On Storchengasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261720",
+      "photo_urls": []
+    },
+    {
+      "id": "261722",
+      "title": "Zum Grossen Christoffel",
+      "latitude": 47.37131243,
+      "longitude": 8.54150454,
+      "directions": "On Weinplatz, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261722",
+      "photo_urls": []
+    },
+    {
+      "id": "261890",
+      "title": "Zur Sul",
+      "latitude": 47.37004372,
+      "longitude": 8.54482696,
+      "directions": "On Kirchgasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261890",
+      "photo_urls": []
+    },
+    {
+      "id": "261920",
+      "title": "Haus zur Sul",
+      "latitude": 47.37001824,
+      "longitude": 8.54479978,
+      "directions": "On Kirchgasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261920",
+      "photo_urls": []
+    },
+    {
+      "id": "262155",
+      "title": "Münsterhof 13",
+      "latitude": 47.37024444,
+      "longitude": 8.540825,
+      "directions": "On Münsterhof, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262155",
+      "photo_urls": []
+    },
+    {
+      "id": "262156",
+      "title": "Zum Pflug - Anna Pestalozzi-Schulthess",
+      "latitude": 47.37093873,
+      "longitude": 8.54342683,
+      "directions": "On Rüdenplatz, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262156",
+      "photo_urls": []
+    },
+    {
+      "id": "262177",
+      "title": "Zwinglis Amtswohnung / Zwingli’s Official Residence",
+      "latitude": 47.37028717,
+      "longitude": 8.54511427,
+      "directions": "On Kirchgasse, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262177",
+      "photo_urls": []
+    },
+    {
+      "id": "262261",
+      "title": "Zur Grossen Sonne",
+      "latitude": 47.37087214,
+      "longitude": 8.54147616,
+      "directions": "On Storchengasse, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262261",
+      "photo_urls": []
+    },
+    {
+      "id": "262320",
+      "title": "Das Haus zum Rech",
+      "latitude": 47.37245727,
+      "longitude": 8.54579244,
+      "directions": "On Neumarkt, Zürich, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262320",
+      "photo_urls": []
+    },
+    {
+      "id": "262368",
+      "title": "Zum Loch",
+      "latitude": 47.3705483,
+      "longitude": 8.54421542,
+      "directions": "On Zwingliplatz, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262368",
+      "photo_urls": []
+    },
+    {
+      "id": "262396",
+      "title": "Das Haus zum Loch",
+      "latitude": 47.37054154,
+      "longitude": 8.54410651,
+      "directions": "On Römergasse, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262396",
+      "photo_urls": []
+    },
+    {
+      "id": "262765",
+      "title": "Münsterbrücke / Münster Bridge",
+      "latitude": 47.37002792,
+      "longitude": 8.54297595,
+      "directions": "On Münsterbrücke, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262765",
+      "photo_urls": []
+    },
+    {
+      "id": "262887",
+      "title": "Kämbel",
+      "latitude": 47.37030344,
+      "longitude": 8.54125336,
+      "directions": "On Múnsterhof, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262887",
+      "photo_urls": []
+    },
+    {
+      "id": "263355",
+      "title": "Akazie",
+      "latitude": 47.37393184,
+      "longitude": 8.53975661,
+      "directions": "On Oetenbachgasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263355",
+      "photo_urls": []
+    },
+    {
+      "id": "34825",
+      "title": "Freddie Mercury",
+      "latitude": 46.43213,
+      "longitude": 6.90917,
+      "directions": "Near Quai de la Rouvenaz, Montreux, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=34825",
+      "photo_urls": []
+    },
+    {
+      "id": "34868",
+      "title": "Swiss Family de Candolle",
+      "latitude": 46.20158,
+      "longitude": 6.14789,
+      "directions": "On Rue de l’Évêché, Bourg-de-Four, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=34868",
+      "photo_urls": []
+    },
+    {
+      "id": "35111",
+      "title": "Byron’s Meadow",
+      "latitude": 46.22096,
+      "longitude": 6.18425,
+      "directions": "On Chemin de Ruth, Cologny, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=35111",
+      "photo_urls": []
+    },
+    {
+      "id": "67089",
+      "title": "Fountain from Paris",
+      "latitude": 47.375323,
+      "longitude": 8.538939,
+      "directions": "On Bahnhofstrasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67089",
+      "photo_urls": []
+    },
+    {
+      "id": "67090",
+      "title": "Bienenhof",
+      "latitude": 47.374458,
+      "longitude": 8.539154,
+      "directions": "On Uraniastrasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67090",
+      "photo_urls": []
+    },
+    {
+      "id": "67100",
+      "title": "Tatzfuss",
+      "latitude": 47.372373,
+      "longitude": 8.540064,
+      "directions": "On Rennweg, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67100",
+      "photo_urls": []
+    },
+    {
+      "id": "67102",
+      "title": "Pfeife",
+      "latitude": 47.37246,
+      "longitude": 8.539892,
+      "directions": "On Rennweg, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67102",
+      "photo_urls": []
+    },
+    {
+      "id": "67117",
+      "title": "Zur Grossen Mücke",
+      "latitude": 47.371818,
+      "longitude": 8.540923,
+      "directions": "On Schlüsselgasse, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67117",
+      "photo_urls": []
+    },
+    {
+      "id": "67118",
+      "title": "Joh. Caspar Lavater",
+      "latitude": 47.371787,
+      "longitude": 8.540652,
+      "directions": "On Sankt Peterhofstatt, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67118",
+      "photo_urls": []
+    },
+    {
+      "id": "67119",
+      "title": "(Goethe Stayed Here)",
+      "latitude": 47.37191,
+      "longitude": 8.540494,
+      "directions": "On Sankt Peterhofstatt, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67119",
+      "photo_urls": []
+    },
+    {
+      "id": "67120",
+      "title": "Zur Glocke",
+      "latitude": 47.372046,
+      "longitude": 8.540386,
+      "directions": "On Robert-Walser-Gasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67120",
+      "photo_urls": []
+    },
+    {
+      "id": "67121",
+      "title": "Turmhaus",
+      "latitude": 47.372241,
+      "longitude": 8.539394,
+      "directions": "On Augustinergasse, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67121",
+      "photo_urls": []
+    },
+    {
+      "id": "67124",
+      "title": "Zur Hoffnung",
+      "latitude": 47.372305,
+      "longitude": 8.539153,
+      "directions": "On Augustinergasse, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67124",
+      "photo_urls": []
+    },
+    {
+      "id": "67125",
+      "title": "Turteltäubli",
+      "latitude": 47.372295,
+      "longitude": 8.539182,
+      "directions": "On Augustinergasse, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67125",
+      "photo_urls": []
+    },
+    {
+      "id": "67154",
+      "title": "St. Laurenz",
+      "latitude": 47.372295,
+      "longitude": 8.538997,
+      "directions": "On Augustinergasse, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67154",
+      "photo_urls": []
+    },
+    {
+      "id": "67155",
+      "title": "Erzberg",
+      "latitude": 47.372302,
+      "longitude": 8.538946,
+      "directions": "On Augustinergasse, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67155",
+      "photo_urls": []
+    },
+    {
+      "id": "67156",
+      "title": "Kezinstürli",
+      "latitude": 47.372307,
+      "longitude": 8.538903,
+      "directions": "On Augustinergasse, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67156",
+      "photo_urls": []
+    },
+    {
+      "id": "67159",
+      "title": "Augustinerkirche",
+      "latitude": 47.371842,
+      "longitude": 8.539147,
+      "directions": "On Münzplatz, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67159",
+      "photo_urls": []
+    },
+    {
+      "id": "67160",
+      "title": "Tiefe Schmitte",
+      "latitude": 47.374714,
+      "longitude": 8.543795,
+      "directions": "On Niederdorfstrasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67160",
+      "photo_urls": []
+    },
+    {
+      "id": "67220",
+      "title": "Schwarzer Amboss",
+      "latitude": 47.37246,
+      "longitude": 8.544572,
+      "directions": "On Rindermarkt, Zürich, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67220",
+      "photo_urls": []
+    },
+    {
+      "id": "67221",
+      "title": "Judengasse",
+      "latitude": 47.372678,
+      "longitude": 8.545194,
+      "directions": "On Froschaugasse, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67221",
+      "photo_urls": []
+    },
+    {
+      "id": "67225",
+      "title": "Lenin",
+      "latitude": 47.371966,
+      "longitude": 8.54498,
+      "directions": "On Spiegelgasse, Zürich, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67225",
+      "photo_urls": []
+    },
+    {
+      "id": "67228",
+      "title": "Grössmunster",
+      "latitude": 47.370313,
+      "longitude": 8.543822,
+      "directions": "On Zwingliplatz, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67228",
+      "photo_urls": []
+    },
+    {
+      "id": "67239",
+      "title": "Zum Neuhaus",
+      "latitude": 47.368507,
+      "longitude": 8.545657,
+      "directions": "On Oberdorfstrasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67239",
+      "photo_urls": []
+    },
+    {
+      "id": "67241",
+      "title": "Musikpavillon Am Bürkliplatz",
+      "latitude": 47.367134,
+      "longitude": 8.540832,
+      "directions": "On Bürkliplatz, Zürich, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67241",
+      "photo_urls": []
+    },
+    {
+      "id": "67255",
+      "title": "Zur Trülle",
+      "latitude": 47.374044,
+      "longitude": 8.538302,
+      "directions": "On Bahnhofstrasse, Zürich, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67255",
+      "photo_urls": []
+    },
+    {
+      "id": "67256",
+      "title": "Hotel Limmathof",
+      "latitude": 47.376213,
+      "longitude": 8.543779,
+      "directions": "On Limmatquai, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67256",
+      "photo_urls": []
+    },
+    {
+      "id": "67257",
+      "title": "Zur Sempacher Helbard",
+      "latitude": 47.376167,
+      "longitude": 8.543753,
+      "directions": "On Limmatquai, Zürich, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67257",
+      "photo_urls": []
+    },
+    {
+      "id": "67258",
+      "title": "Grave stone of Lucius Aelius Urbicus",
+      "latitude": 47.372922,
+      "longitude": 8.540714,
+      "directions": "On Pfalzgasse, Zürich, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67258",
+      "photo_urls": []
+    },
+    {
+      "id": "67312",
+      "title": "Alte Landkutsche",
+      "latitude": 47.373036,
+      "longitude": 8.543747,
+      "directions": "On Niederdorfstrasse, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67312",
+      "photo_urls": []
+    },
+    {
+      "id": "67313",
+      "title": "Urania Observatory",
+      "latitude": 47.374473,
+      "longitude": 8.539079,
+      "directions": "On Uraniastrasse, Zürich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67313",
+      "photo_urls": []
+    },
+    {
+      "id": "67314",
+      "title": "Grosser Widder",
+      "latitude": 47.372344,
+      "longitude": 8.540086,
+      "directions": "On Rennweg, Zürich, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67314",
+      "photo_urls": []
+    },
+    {
+      "id": "67325",
+      "title": "Jesuitenkirche",
+      "latitude": 47.05076,
+      "longitude": 8.305137,
+      "directions": "On Bahnhofstrasse (Jesuitenplatz), Luzern, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67325",
+      "photo_urls": []
+    },
+    {
+      "id": "67327",
+      "title": "Chapel Bridge",
+      "latitude": 47.050904,
+      "longitude": 8.306758,
+      "directions": "On Bahnhofstrasse, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67327",
+      "photo_urls": []
+    },
+    {
+      "id": "67330",
+      "title": "The Lion Monument",
+      "latitude": 47.058011,
+      "longitude": 8.310497,
+      "directions": "On Denkmalstrasse, Luzern, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67330",
+      "photo_urls": []
+    },
+    {
+      "id": "67331",
+      "title": "Spiegellabyrinth «Alhambra»",
+      "latitude": 47.058957,
+      "longitude": 8.310443,
+      "directions": "Near Denkmalstrasse, Luzern, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67331",
+      "photo_urls": []
+    },
+    {
+      "id": "67333",
+      "title": "Nölliturm",
+      "latitude": 47.053308,
+      "longitude": 8.299505,
+      "directions": "On Sankt KarliQuai, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67333",
+      "photo_urls": []
+    },
+    {
+      "id": "67334",
+      "title": "Hirschen",
+      "latitude": 47.373488,
+      "longitude": 8.543621,
+      "directions": "On Niederdorfstrasse, Zürich, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67334",
+      "photo_urls": []
+    },
+    {
+      "id": "67483",
+      "title": "The Spreuer Bridge Paintings",
+      "latitude": 47.051996,
+      "longitude": 8.302326,
+      "directions": "On Spreuerbrücke, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67483",
+      "photo_urls": []
+    },
+    {
+      "id": "67485",
+      "title": "The Spreuer Bridge",
+      "latitude": 47.051558,
+      "longitude": 8.301371,
+      "directions": "On Spreuerbrücke, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67485",
+      "photo_urls": []
+    },
+    {
+      "id": "67487",
+      "title": "Franziskanerkirche",
+      "latitude": 47.049752,
+      "longitude": 8.30312,
+      "directions": "On Franziskanerplatz, Luzern, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67487",
+      "photo_urls": []
+    },
+    {
+      "id": "67488",
+      "title": "The Burgher Gate",
+      "latitude": 47.050328,
+      "longitude": 8.302884,
+      "directions": "On Bahnhofstrasse, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67488",
+      "photo_urls": []
+    },
+    {
+      "id": "67490",
+      "title": "General Henri Guisan",
+      "latitude": 47.054233,
+      "longitude": 8.332924,
+      "directions": "Near General Guisan-Quai, Luzern, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67490",
+      "photo_urls": []
+    },
+    {
+      "id": "67497",
+      "title": "Dr. Jur. Kasimir Pfyffer",
+      "latitude": 47.052062,
+      "longitude": 8.303228,
+      "directions": "On Mühlenplatz, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67497",
+      "photo_urls": []
+    },
+    {
+      "id": "67498",
+      "title": "The Sonnenberg House in Zoepfli",
+      "latitude": 47.051375,
+      "longitude": 8.303823,
+      "directions": "On Kramgasse, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67498",
+      "photo_urls": []
+    },
+    {
+      "id": "67499",
+      "title": "Metzgerrainli 6",
+      "latitude": 47.051653,
+      "longitude": 8.304177,
+      "directions": "On Metzgerrainle, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67499",
+      "photo_urls": []
+    },
+    {
+      "id": "67500",
+      "title": "Metzgerrainli",
+      "latitude": 47.051675,
+      "longitude": 8.304462,
+      "directions": "On Metzgerrainle, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67500",
+      "photo_urls": []
+    },
+    {
+      "id": "67501",
+      "title": "Stammhaus Corragioni D’Orelli",
+      "latitude": 47.051664,
+      "longitude": 8.304408,
+      "directions": "On Metzgerrainle, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67501",
+      "photo_urls": []
+    },
+    {
+      "id": "67512",
+      "title": "Fishermens Point",
+      "latitude": 47.051536,
+      "longitude": 8.304896,
+      "directions": "On Unter der Egg, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67512",
+      "photo_urls": []
+    },
+    {
+      "id": "67514",
+      "title": "Pfyffer-Cloos-House",
+      "latitude": 47.051916,
+      "longitude": 8.304752,
+      "directions": "On Weinmarkt, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67514",
+      "photo_urls": []
+    },
+    {
+      "id": "67515",
+      "title": "The Wine Market",
+      "latitude": 47.051864,
+      "longitude": 8.304526,
+      "directions": "On Weinmarkt, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67515",
+      "photo_urls": []
+    },
+    {
+      "id": "67537",
+      "title": "\"By the Storks\"",
+      "latitude": 47.052192,
+      "longitude": 8.305612,
+      "directions": "On Kornmarkt, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67537",
+      "photo_urls": []
+    },
+    {
+      "id": "67538",
+      "title": "\"Fire Alley\"",
+      "latitude": 47.051907,
+      "longitude": 8.305377,
+      "directions": "On Brandgässli, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67538",
+      "photo_urls": []
+    },
+    {
+      "id": "67539",
+      "title": "Bakers Guildhall",
+      "latitude": 47.05175,
+      "longitude": 8.305925,
+      "directions": "On Kornmarkt, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67539",
+      "photo_urls": []
+    },
+    {
+      "id": "67541",
+      "title": "Grain Market",
+      "latitude": 47.052087,
+      "longitude": 8.306049,
+      "directions": "On Kornmarkt, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67541",
+      "photo_urls": []
+    },
+    {
+      "id": "67543",
+      "title": "Butchers’ Arch",
+      "latitude": 47.051921,
+      "longitude": 8.305134,
+      "directions": "On Kornmarktgasse, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67543",
+      "photo_urls": []
+    },
+    {
+      "id": "67569",
+      "title": "Mühlenplatz (Mill Place)",
+      "latitude": 47.051992,
+      "longitude": 8.302512,
+      "directions": "On Spreuerbrücke, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67569",
+      "photo_urls": []
+    },
+    {
+      "id": "67697",
+      "title": "Balthasar House",
+      "latitude": 47.052243,
+      "longitude": 8.305857,
+      "directions": "On Kornmarkt, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67697",
+      "photo_urls": []
+    },
+    {
+      "id": "67698",
+      "title": "\"At the White Cross\" Inn",
+      "latitude": 47.052194,
+      "longitude": 8.306602,
+      "directions": "On Furrengasse, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67698",
+      "photo_urls": []
+    },
+    {
+      "id": "67699",
+      "title": "\"Deer Square\"",
+      "latitude": 47.052451,
+      "longitude": 8.305251,
+      "directions": "On Hirschenplatz, Luzern, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67699",
+      "photo_urls": []
+    },
+    {
+      "id": "67700",
+      "title": "\"The Little House\"",
+      "latitude": 47.052387,
+      "longitude": 8.304993,
+      "directions": "On Hirschenplatz, Luzern, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67700",
+      "photo_urls": []
+    },
+    {
+      "id": "67701",
+      "title": "The \"Donkey Stall\" Schoolhouse",
+      "latitude": 47.052581,
+      "longitude": 8.304886,
+      "directions": "On Süesswinkel, Luzern, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67701",
+      "photo_urls": []
+    },
+    {
+      "id": "67722",
+      "title": "\"Sweet Spot\"",
+      "latitude": 47.052409,
+      "longitude": 8.304588,
+      "directions": "On Süesswinkel, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67722",
+      "photo_urls": []
+    },
+    {
+      "id": "67723",
+      "title": "The Inner \"Weggis\" Gate",
+      "latitude": 47.053521,
+      "longitude": 8.306753,
+      "directions": "On Falkenplatz, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67723",
+      "photo_urls": []
+    },
+    {
+      "id": "67724",
+      "title": "Teiling Alley",
+      "latitude": 47.053223,
+      "longitude": 8.306764,
+      "directions": "On Theilinggasse, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67724",
+      "photo_urls": []
+    },
+    {
+      "id": "67728",
+      "title": "The von Silenen Home",
+      "latitude": 47.052875,
+      "longitude": 8.306493,
+      "directions": "On Schlossergasse, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67728",
+      "photo_urls": []
+    },
+    {
+      "id": "67730",
+      "title": "\"Star Square\"",
+      "latitude": 47.053018,
+      "longitude": 8.307265,
+      "directions": "On Sternenplatz, Luzern, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67730",
+      "photo_urls": []
+    },
+    {
+      "id": "67731",
+      "title": "Johann Baptist Marzohl",
+      "latitude": 47.05268,
+      "longitude": 8.305516,
+      "directions": "On Weggisgasse, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67731",
+      "photo_urls": []
+    },
+    {
+      "id": "67733",
+      "title": "Ritter Palace",
+      "latitude": 47.050565,
+      "longitude": 8.304445,
+      "directions": "On Bahnhofstrasse, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67733",
+      "photo_urls": []
+    },
+    {
+      "id": "67741",
+      "title": "Krien- or Upper-Gate",
+      "latitude": 47.049188,
+      "longitude": 8.303013,
+      "directions": "On Franziskanerplatz, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67741",
+      "photo_urls": []
+    },
+    {
+      "id": "67742",
+      "title": "The \"Cauldron\" Tower",
+      "latitude": 47.049063,
+      "longitude": 8.302748,
+      "directions": "On Burgerstrasse, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67742",
+      "photo_urls": []
+    },
+    {
+      "id": "67743",
+      "title": "The Singer House",
+      "latitude": 47.050571,
+      "longitude": 8.30337,
+      "directions": "On Münzgasse, Luzern, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67743",
+      "photo_urls": []
+    },
+    {
+      "id": "67744",
+      "title": "The Pfyffer Student House",
+      "latitude": 47.050852,
+      "longitude": 8.303491,
+      "directions": "On Münzgasse, Luzern, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67744",
+      "photo_urls": []
+    },
+    {
+      "id": "67746",
+      "title": "The Von Sonnenberg House",
+      "latitude": 47.050952,
+      "longitude": 8.303397,
+      "directions": "On Reusssteg, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67746",
+      "photo_urls": []
+    },
+    {
+      "id": "67747",
+      "title": "The Old Armory",
+      "latitude": 47.051191,
+      "longitude": 8.301949,
+      "directions": "On Pfistergasse, Luzern, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67747",
+      "photo_urls": []
+    },
+    {
+      "id": "67749",
+      "title": "Von Laufenhaus",
+      "latitude": 47.05228,
+      "longitude": 8.305183,
+      "directions": "On Hirschenplatz, Luzern, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67749",
+      "photo_urls": []
+    },
+    {
+      "id": "67750",
+      "title": "The Mills Gate",
+      "latitude": 47.052274,
+      "longitude": 8.302858,
+      "directions": "On Löwengraben, Luzern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67750",
+      "photo_urls": []
+    },
+    {
+      "id": "67767",
+      "title": "Louis Pfyffer von Wyher",
+      "latitude": 47.052303,
+      "longitude": 8.302777,
+      "directions": "On Löwengraben, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67767",
+      "photo_urls": []
+    },
+    {
+      "id": "67768",
+      "title": "Lower- or Basel-Gate",
+      "latitude": 47.051366,
+      "longitude": 8.301329,
+      "directions": "On Pfistergasse, Luzern, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67768",
+      "photo_urls": []
+    },
+    {
+      "id": "67900",
+      "title": "Sir Arnold Lunn",
+      "latitude": 46.563535,
+      "longitude": 7.897045,
+      "directions": "On Aegerta, Mürren, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67900",
+      "photo_urls": []
+    },
+    {
+      "id": "67938",
+      "title": "James Bond: Curling on the Terrace/Attack on Piz Gloria",
+      "latitude": 46.557324,
+      "longitude": 7.834732,
+      "directions": "Near Straße ohne Straßennamen, near Lauterbrunnen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67938",
+      "photo_urls": []
+    },
+    {
+      "id": "67942",
+      "title": "From Jungfrauenberg to Jungfrau",
+      "latitude": 46.686248,
+      "longitude": 7.857817,
+      "directions": "On Höheweg, Interlaken, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67942",
+      "photo_urls": []
+    },
+    {
+      "id": "67946",
+      "title": "Casino Interlaken - Fun and Games since 1859",
+      "latitude": 46.687735,
+      "longitude": 7.858662,
+      "directions": "Near Strandbadstrasse, Interlaken, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67946",
+      "photo_urls": []
+    },
+    {
+      "id": "67953",
+      "title": "From Spa Hall to Congress Centre",
+      "latitude": 46.687827,
+      "longitude": 7.858941,
+      "directions": "Near Strandbadstrasse, Interlaken, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67953",
+      "photo_urls": []
+    },
+    {
+      "id": "67954",
+      "title": "Hotel Beau Rivage",
+      "latitude": 46.689247,
+      "longitude": 7.864569,
+      "directions": "On Höheweg, Interlaken, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67954",
+      "photo_urls": []
+    },
+    {
+      "id": "67955",
+      "title": "On the Panorama Mountain in Just a Few Minutes",
+      "latitude": 46.689656,
+      "longitude": 7.865373,
+      "directions": "On Höheweg, Interlaken, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67955",
+      "photo_urls": []
+    },
+    {
+      "id": "67957",
+      "title": "Adolf Guyer-Zeller - A Railway up the Jungfrau",
+      "latitude": 46.690073,
+      "longitude": 7.86624,
+      "directions": "Near Höheweg, Interlaken, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67957",
+      "photo_urls": []
+    },
+    {
+      "id": "67984",
+      "title": "Peter Taugwalder",
+      "latitude": 46.019522,
+      "longitude": 7.746021,
+      "directions": "On Kirchplatz, Zermatt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67984",
+      "photo_urls": []
+    },
+    {
+      "id": "67985",
+      "title": "First Ascent of the Matterhorn",
+      "latitude": 46.019738,
+      "longitude": 7.746305,
+      "directions": "On Bahnhofstrasse, Zermatt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67985",
+      "photo_urls": []
+    },
+    {
+      "id": "67990",
+      "title": "Hotel Monte Rosa",
+      "latitude": 46.020122,
+      "longitude": 7.746211,
+      "directions": "On Bahnhofstrasse, Zermatt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67990",
+      "photo_urls": []
+    },
+    {
+      "id": "67991",
+      "title": "Edward Whymper",
+      "latitude": 46.020271,
+      "longitude": 7.746276,
+      "directions": "On Bahnhofstrasse, Zermatt, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67991",
+      "photo_urls": []
+    },
+    {
+      "id": "67992",
+      "title": "Bergfuhrerplatz (Mountain Guide Square)",
+      "latitude": 46.020343,
+      "longitude": 7.746428,
+      "directions": "On Bahnhofstrasse, Zermatt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67992",
+      "photo_urls": []
+    },
+    {
+      "id": "67996",
+      "title": "Horace Benedict de Saussure",
+      "latitude": 46.013083,
+      "longitude": 7.745221,
+      "directions": "On Staldenstrasse, Zermatt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=67996",
+      "photo_urls": []
+    },
+    {
+      "id": "68001",
+      "title": "The Parish Church of St. Maurizius, Zermatt",
+      "latitude": 46.019652,
+      "longitude": 7.746229,
+      "directions": "On Kirchplatz, Zermatt, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68001",
+      "photo_urls": []
+    },
+    {
+      "id": "68003",
+      "title": "Rudolf Taugwalder",
+      "latitude": 46.019689,
+      "longitude": 7.746589,
+      "directions": "Near Kirchstrasse, Zermatt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68003",
+      "photo_urls": []
+    },
+    {
+      "id": "91760",
+      "title": "Fussballclub St. Gallen 1879",
+      "latitude": 47.479491,
+      "longitude": 9.492012,
+      "directions": "On Hafenplatz, Rorschach, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91760",
+      "photo_urls": []
+    }
+  ]
+}
