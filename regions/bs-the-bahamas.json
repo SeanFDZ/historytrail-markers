@@ -1,0 +1,236 @@
+{
+  "region_id": "bs-the-bahamas",
+  "region_name": "The Bahamas",
+  "region_type": "country",
+  "country": "The Bahamas",
+  "generated": "2026-04-18T06:06:45.553Z",
+  "source_timestamp": "2026-04-18T06:06:45.553Z",
+  "marker_count": 25,
+  "markers": [
+    {
+      "id": "125664",
+      "title": "Fort Fincastle",
+      "latitude": 25.07350556,
+      "longitude": -77.33858889,
+      "directions": "Near Greenwich Street, Nassau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125664",
+      "photo_urls": []
+    },
+    {
+      "id": "134006",
+      "title": "Hand-Cut Well",
+      "latitude": 25.07465777,
+      "longitude": -77.34909741,
+      "directions": "Near Augusta Street, Nassau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134006",
+      "photo_urls": []
+    },
+    {
+      "id": "234665",
+      "title": "Sir Winston Leonard Spencer Churchill",
+      "latitude": 26.55267326,
+      "longitude": -78.57474883,
+      "directions": "On East Mall, Freeport, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234665",
+      "photo_urls": []
+    },
+    {
+      "id": "234667",
+      "title": "Welcome to the Labyrinth",
+      "latitude": 26.55164651,
+      "longitude": -78.57262578,
+      "directions": "On Magellan Drive, Freeport, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234667",
+      "photo_urls": []
+    },
+    {
+      "id": "234668",
+      "title": "Hurricane Dorian Memorial",
+      "latitude": 26.55262498,
+      "longitude": -78.57332754,
+      "directions": "On Magellan Drive, Freeport, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234668",
+      "photo_urls": []
+    },
+    {
+      "id": "234670",
+      "title": "Wallace and Georgette Groves",
+      "latitude": 26.55265483,
+      "longitude": -78.57222855,
+      "directions": "On Magellan Drive, Freeport, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234670",
+      "photo_urls": []
+    },
+    {
+      "id": "234678",
+      "title": "Pineridge Locomotive Axle",
+      "latitude": 26.52058845,
+      "longitude": -78.77233724,
+      "directions": "On East Mall, Wild Goose Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234678",
+      "photo_urls": []
+    },
+    {
+      "id": "234682",
+      "title": "Rum Running",
+      "latitude": 25.723975,
+      "longitude": -79.29876667,
+      "directions": "On Queen&#39;s Highway, Alice Town, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234682",
+      "photo_urls": []
+    },
+    {
+      "id": "234685",
+      "title": "History of The Bahamas",
+      "latitude": 25.72404722,
+      "longitude": -79.29891111,
+      "directions": "On Queen&#39;s Highway, Alice Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234685",
+      "photo_urls": []
+    },
+    {
+      "id": "234689",
+      "title": "Bimini Museum",
+      "latitude": 25.72393333,
+      "longitude": -79.29892778,
+      "directions": "On Queen&#39;s Highway, Alice Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234689",
+      "photo_urls": []
+    },
+    {
+      "id": "234690",
+      "title": "Bimini through Time",
+      "latitude": 25.72391667,
+      "longitude": -79.29879722,
+      "directions": "On Queen&#39;s Highway, Alice Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=234690",
+      "photo_urls": []
+    },
+    {
+      "id": "241308",
+      "title": "The Bahamas Memorial Cenotaph",
+      "latitude": 25.07676421,
+      "longitude": -77.34059689,
+      "directions": "On Parliament Street, Nassau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241308",
+      "photo_urls": []
+    },
+    {
+      "id": "260616",
+      "title": "St. James Methodist Church",
+      "latitude": 26.53751544,
+      "longitude": -76.9569084,
+      "directions": "On Queen&#39;s Highway, Elbow Cay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260616",
+      "photo_urls": []
+    },
+    {
+      "id": "260623",
+      "title": "Breadfruit Tree (Artocarpus altilis)",
+      "latitude": 26.53567474,
+      "longitude": -76.95812471,
+      "directions": "On Queen&#39;s Highway, Elbow Cay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260623",
+      "photo_urls": []
+    },
+    {
+      "id": "260789",
+      "title": "Loyalist Landing Site",
+      "latitude": 26.53745744,
+      "longitude": -76.95719033,
+      "directions": "On Front Bay Street, Elbow Cay, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260789",
+      "photo_urls": []
+    },
+    {
+      "id": "260792",
+      "title": "Founding of Wyannie Malone Historical Museum",
+      "latitude": 26.53758075,
+      "longitude": -76.95703938,
+      "directions": "On Back Street, Elbow Cay, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260792",
+      "photo_urls": []
+    },
+    {
+      "id": "261173",
+      "title": "M/V Athel Queen",
+      "latitude": 26.53943272,
+      "longitude": -76.95760846,
+      "directions": "On Front Bay Street, Elbow Cay, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261173",
+      "photo_urls": []
+    },
+    {
+      "id": "261647",
+      "title": "John Watling's Distillery",
+      "latitude": 25.07465,
+      "longitude": -77.3491,
+      "directions": "Near Delancy Street, Nassau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261647",
+      "photo_urls": []
+    },
+    {
+      "id": "262061",
+      "title": "Elbow Reef Lighthouse",
+      "latitude": 26.53970147,
+      "longitude": -76.96214676,
+      "directions": "Near Queen&#39;s Highway, Elbow Cay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262061",
+      "photo_urls": []
+    },
+    {
+      "id": "290433",
+      "title": "Sir George Gamblin Memorial",
+      "latitude": 25.07726209,
+      "longitude": -77.34075701,
+      "directions": "On Parliament Street, Nassau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290433",
+      "photo_urls": []
+    },
+    {
+      "id": "292111",
+      "title": "The Queen’s Staircase",
+      "latitude": 25.07292573,
+      "longitude": -77.33751442,
+      "directions": "On Greenwich Street, Nassau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292111",
+      "photo_urls": []
+    },
+    {
+      "id": "295455",
+      "title": "The Caves",
+      "latitude": 25.06919444,
+      "longitude": -77.45043056,
+      "directions": "On West Bay Street, Nassau, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295455",
+      "photo_urls": []
+    },
+    {
+      "id": "32434",
+      "title": "The Bahamas Grant",
+      "latitude": 25.077781,
+      "longitude": -77.340617,
+      "directions": "On West Bay Street, Nassau, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=32434",
+      "photo_urls": []
+    },
+    {
+      "id": "87403",
+      "title": "Ben's Cave",
+      "latitude": 26.605964,
+      "longitude": -78.40222,
+      "directions": "Near Grand Bahama Highway, near High Rock, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87403",
+      "photo_urls": []
+    },
+    {
+      "id": "87404",
+      "title": "Burial Mound Cave",
+      "latitude": 26.60597,
+      "longitude": -78.40241,
+      "directions": "Near Grand Bahama Highway, near High Rock, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87404",
+      "photo_urls": []
+    }
+  ]
+}
