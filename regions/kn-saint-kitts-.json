@@ -1,0 +1,218 @@
+{
+  "region_id": "kn-saint-kitts-",
+  "region_name": "Saint Kitts and Nevis",
+  "region_type": "country",
+  "country": "Saint Kitts and Nevis",
+  "generated": "2026-04-18T06:06:45.557Z",
+  "source_timestamp": "2026-04-18T06:06:45.557Z",
+  "marker_count": 23,
+  "markers": [
+    {
+      "id": "111343",
+      "title": "The Berkley Memorial",
+      "latitude": 17.29532542,
+      "longitude": -62.72370726,
+      "directions": "On Fort Street, Basseterre, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111343",
+      "photo_urls": []
+    },
+    {
+      "id": "209513",
+      "title": "Independence Square",
+      "latitude": 17.29649262,
+      "longitude": -62.72285628,
+      "directions": "On West Independence Street, Basseterre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209513",
+      "photo_urls": []
+    },
+    {
+      "id": "209514",
+      "title": "Independence Square",
+      "latitude": 17.29651983,
+      "longitude": -62.72186031,
+      "directions": "On North Independence Street, Basseterre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209514",
+      "photo_urls": []
+    },
+    {
+      "id": "209522",
+      "title": "Independence Square",
+      "latitude": 17.29576026,
+      "longitude": -62.7217821,
+      "directions": "On East Independence Street, Basseterre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209522",
+      "photo_urls": []
+    },
+    {
+      "id": "209547",
+      "title": "Independence Square",
+      "latitude": 17.29563067,
+      "longitude": -62.72278525,
+      "directions": "On South Independence Street, Basseterre, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209547",
+      "photo_urls": []
+    },
+    {
+      "id": "209550",
+      "title": "Independence Square",
+      "latitude": 17.29649262,
+      "longitude": -62.72285628,
+      "directions": "On West Independence Street, Basseterre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209550",
+      "photo_urls": []
+    },
+    {
+      "id": "209557",
+      "title": "Co Cathedral of Immaculate Conception",
+      "latitude": 17.29640236,
+      "longitude": -62.72168961,
+      "directions": "On East Independene Street, Basseterre, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209557",
+      "photo_urls": []
+    },
+    {
+      "id": "209563",
+      "title": "The Judicial and Legal Complex",
+      "latitude": 17.29583505,
+      "longitude": -62.72163928,
+      "directions": "On East Independence Street, Basseterre, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209563",
+      "photo_urls": []
+    },
+    {
+      "id": "255316",
+      "title": "Alexander Hamilton: Son of Nevis",
+      "latitude": 17.14111898,
+      "longitude": -62.62950356,
+      "directions": "On Samuel Hawkings Drive, Charlestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255316",
+      "photo_urls": []
+    },
+    {
+      "id": "255320",
+      "title": "Alexander Hamilton: Citizen of the Caribbean",
+      "latitude": 17.14112566,
+      "longitude": -62.62948735,
+      "directions": "On Samuel Hawkings Drive, Charlestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255320",
+      "photo_urls": []
+    },
+    {
+      "id": "255322",
+      "title": "Alexander Hamilton: Founding Father of the United States",
+      "latitude": 17.14111932,
+      "longitude": -62.62948301,
+      "directions": "On Samuel Hawkings Drive, Charlestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255322",
+      "photo_urls": []
+    },
+    {
+      "id": "255324",
+      "title": "The Alexander Hamilton Statue Project",
+      "latitude": 17.14112144,
+      "longitude": -62.62948574,
+      "directions": "On Samuel Hawkings Drive, Charlestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255324",
+      "photo_urls": []
+    },
+    {
+      "id": "255326",
+      "title": "Dedicated to the People of Nevis",
+      "latitude": 17.14112608,
+      "longitude": -62.6294848,
+      "directions": "On Samuel Hawkings Drive, Charlestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=255326",
+      "photo_urls": []
+    },
+    {
+      "id": "270285",
+      "title": "Alexander Hamilton",
+      "latitude": 17.14099604,
+      "longitude": -62.62941858,
+      "directions": "On Main Street, Charlestown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270285",
+      "photo_urls": []
+    },
+    {
+      "id": "271049",
+      "title": "Landing of Virginia Settlers",
+      "latitude": 17.14111111,
+      "longitude": -62.62938053,
+      "directions": "On Main Street, Charlestown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271049",
+      "photo_urls": []
+    },
+    {
+      "id": "271503",
+      "title": "St. John's Figtree Anglican Church c.1680",
+      "latitude": 17.13071734,
+      "longitude": -62.60094075,
+      "directions": "On Main Island Road, Church Ground, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=271503",
+      "photo_urls": []
+    },
+    {
+      "id": "282364",
+      "title": "Romney Manor (1626) Home of Caribelle Batik",
+      "latitude": 17.32551667,
+      "longitude": -62.80103056,
+      "directions": "On , Old Road Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282364",
+      "photo_urls": []
+    },
+    {
+      "id": "282366",
+      "title": "Fort George",
+      "latitude": 17.34766111,
+      "longitude": -62.83626667,
+      "directions": "On , Sandy Point Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282366",
+      "photo_urls": []
+    },
+    {
+      "id": "282367",
+      "title": "Bell Tower",
+      "latitude": 17.325625,
+      "longitude": -62.80093333,
+      "directions": "On , Old Road Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282367",
+      "photo_urls": []
+    },
+    {
+      "id": "282368",
+      "title": "Brimstone Hill Fortress National Park",
+      "latitude": 17.3475,
+      "longitude": -62.83604722,
+      "directions": "On , Sandy Point Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282368",
+      "photo_urls": []
+    },
+    {
+      "id": "282369",
+      "title": "The Tree",
+      "latitude": 17.32535,
+      "longitude": -62.80117778,
+      "directions": "On , Old Road Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282369",
+      "photo_urls": []
+    },
+    {
+      "id": "282370",
+      "title": "Viewing Gallery",
+      "latitude": 17.32591667,
+      "longitude": -62.80090278,
+      "directions": "On , Old Road Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282370",
+      "photo_urls": []
+    },
+    {
+      "id": "282371",
+      "title": "Saman Tree",
+      "latitude": 17.32543333,
+      "longitude": -62.80102222,
+      "directions": "On , Old Road Town, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282371",
+      "photo_urls": []
+    }
+  ]
+}
