@@ -1,0 +1,155 @@
+{
+  "region_id": "cr-costa-rica",
+  "region_name": "Costa Rica",
+  "region_type": "country",
+  "country": "Costa Rica",
+  "generated": "2026-04-18T06:06:45.556Z",
+  "source_timestamp": "2026-04-18T06:06:45.556Z",
+  "marker_count": 16,
+  "markers": [
+    {
+      "id": "109959",
+      "title": "The 140th Anniversary of the San Juan de Dios Hospital",
+      "latitude": 9.93451446,
+      "longitude": -84.08560842,
+      "directions": "On Avenida Central, San José, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109959",
+      "photo_urls": []
+    },
+    {
+      "id": "109978",
+      "title": "Braulio Carrillo Colina",
+      "latitude": 9.93369722,
+      "longitude": -84.08460278,
+      "directions": "On Avenida 2, San José, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109978",
+      "photo_urls": []
+    },
+    {
+      "id": "110191",
+      "title": "The Declaration of Central American Independence",
+      "latitude": 9.93300641,
+      "longitude": -84.07953858,
+      "directions": "On Avenida 2, San José, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110191",
+      "photo_urls": []
+    },
+    {
+      "id": "110194",
+      "title": "Monument to the National Flag of Costa Rica",
+      "latitude": 9.93313333,
+      "longitude": -84.07958333,
+      "directions": "On Avenida 2, San José, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110194",
+      "photo_urls": []
+    },
+    {
+      "id": "110201",
+      "title": "The 150th Anniversary of the First Catholic Diocese in Costa Rica",
+      "latitude": 9.93270522,
+      "longitude": -84.07911479,
+      "directions": "On Calle Central Alfredo Volio, San José, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110201",
+      "photo_urls": []
+    },
+    {
+      "id": "110221",
+      "title": "The University of Santo Tomás",
+      "latitude": 9.93263388,
+      "longitude": -84.07792389,
+      "directions": "On Avenida 2, San José, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110221",
+      "photo_urls": []
+    },
+    {
+      "id": "110261",
+      "title": "Juan Mora Fernández",
+      "latitude": 9.93309095,
+      "longitude": -84.07770395,
+      "directions": "On Avenida 2, San José, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110261",
+      "photo_urls": []
+    },
+    {
+      "id": "110262",
+      "title": "Juan Rafael Mora Porras",
+      "latitude": 9.9350064,
+      "longitude": -84.07987654,
+      "directions": "On Calle 2, San José, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110262",
+      "photo_urls": []
+    },
+    {
+      "id": "110305",
+      "title": "Heriberto Rodríguez Chinchilla",
+      "latitude": 10.6255198,
+      "longitude": -85.44261843,
+      "directions": "On Carretera Interamericana, Liberia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=110305",
+      "photo_urls": []
+    },
+    {
+      "id": "132536",
+      "title": "Founding of the Community of San Rafael",
+      "latitude": 10.6738385,
+      "longitude": -84.82066172,
+      "directions": "On Calle Central, San Rafael de Guatuso, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132536",
+      "photo_urls": []
+    },
+    {
+      "id": "132539",
+      "title": "Amelia Alfara Rojas",
+      "latitude": 10.47137431,
+      "longitude": -84.644879,
+      "directions": "On Route 142, La Fortuna, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132539",
+      "photo_urls": []
+    },
+    {
+      "id": "92411",
+      "title": "Juan Vazquez de Coronado",
+      "latitude": 9.93575,
+      "longitude": -84.073875,
+      "directions": "Near 9 Calle, San José, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92411",
+      "photo_urls": []
+    },
+    {
+      "id": "92443",
+      "title": "The National Monument of Costa Rica",
+      "latitude": 9.93469722,
+      "longitude": -84.07073333,
+      "directions": "Near Avenida 3, Paseo de la Damas, San José, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92443",
+      "photo_urls": []
+    },
+    {
+      "id": "92454",
+      "title": "Miguel Hidalgo",
+      "latitude": 9.93481667,
+      "longitude": -84.07019722,
+      "directions": "Near Avenida 3, Paseo de las Damas, San José, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92454",
+      "photo_urls": []
+    },
+    {
+      "id": "92455",
+      "title": "Andrés Bello",
+      "latitude": 9.93443611,
+      "longitude": -84.07098333,
+      "directions": "Near Avenida 1, Eladio Prado Sáenz, San José, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92455",
+      "photo_urls": []
+    },
+    {
+      "id": "92612",
+      "title": "Christopher Columbus in Costa Rica",
+      "latitude": 9.93583333,
+      "longitude": -84.07356389,
+      "directions": "Near Presidente Roosevelt, San José, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92612",
+      "photo_urls": []
+    }
+  ]
+}
