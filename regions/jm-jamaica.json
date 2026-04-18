@@ -1,0 +1,488 @@
+{
+  "region_id": "jm-jamaica",
+  "region_name": "Jamaica",
+  "region_type": "country",
+  "country": "Jamaica",
+  "generated": "2026-04-18T06:06:45.556Z",
+  "source_timestamp": "2026-04-18T06:06:45.556Z",
+  "marker_count": 53,
+  "markers": [
+    {
+      "id": "105155",
+      "title": "Jamaica in 1494",
+      "latitude": 18.46593963,
+      "longitude": -77.41489654,
+      "directions": "Near State Route A1, Discovery Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105155",
+      "photo_urls": []
+    },
+    {
+      "id": "129717",
+      "title": "The Cage",
+      "latitude": 18.47404836,
+      "longitude": -77.92298994,
+      "directions": "On St. James Street, Montego Bay, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129717",
+      "photo_urls": []
+    },
+    {
+      "id": "129718",
+      "title": "Ocho Rios Fort",
+      "latitude": 18.41053062,
+      "longitude": -77.11689494,
+      "directions": "On , Ocho Rios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129718",
+      "photo_urls": []
+    },
+    {
+      "id": "129853",
+      "title": "Sam Sharpe",
+      "latitude": 18.47398658,
+      "longitude": -77.92297933,
+      "directions": "On Saint James Street, Montego Bay, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129853",
+      "photo_urls": []
+    },
+    {
+      "id": "129885",
+      "title": "Montego Bay Civic Centre",
+      "latitude": 18.47364386,
+      "longitude": -77.92308229,
+      "directions": "On Saint James Street, Montego Bay, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129885",
+      "photo_urls": []
+    },
+    {
+      "id": "129887",
+      "title": "Jamaica's Independence and Royal Visit",
+      "latitude": 18.47349656,
+      "longitude": -77.92307324,
+      "directions": "On Saint James Street, Montego Bay, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129887",
+      "photo_urls": []
+    },
+    {
+      "id": "129890",
+      "title": "Bob Marley",
+      "latitude": 18.01979904,
+      "longitude": -76.77968691,
+      "directions": "Near Hope Road, Kingston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129890",
+      "photo_urls": []
+    },
+    {
+      "id": "129929",
+      "title": "Rita Marley",
+      "latitude": 18.01955969,
+      "longitude": -76.7797587,
+      "directions": "Near Hope Road, Kingston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129929",
+      "photo_urls": []
+    },
+    {
+      "id": "129932",
+      "title": "The Grand Barbecue at Cold Spring Estate",
+      "latitude": 18.07240102,
+      "longitude": -76.70742651,
+      "directions": "Near Route B1, near Industry Village, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129932",
+      "photo_urls": []
+    },
+    {
+      "id": "129957",
+      "title": "Sugar in Jamaica",
+      "latitude": 18.46605663,
+      "longitude": -77.41497935,
+      "directions": "Near Route A1, Discovery Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129957",
+      "photo_urls": []
+    },
+    {
+      "id": "129958",
+      "title": "Rose Hall Great House",
+      "latitude": 18.51635475,
+      "longitude": -77.8192079,
+      "directions": "Near Route A1, Montego Bay, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129958",
+      "photo_urls": []
+    },
+    {
+      "id": "130104",
+      "title": "Chattanooga Cane Mill",
+      "latitude": 18.4658338,
+      "longitude": -77.41493455,
+      "directions": "Near Route A1, Discovery Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130104",
+      "photo_urls": []
+    },
+    {
+      "id": "130105",
+      "title": "Planet Locomotive",
+      "latitude": 18.46620573,
+      "longitude": -77.41505635,
+      "directions": "Near Route A1, Discovery Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130105",
+      "photo_urls": []
+    },
+    {
+      "id": "130106",
+      "title": "Logwood Scale",
+      "latitude": 18.46584143,
+      "longitude": -77.41495216,
+      "directions": "Near Route A1, Discovery Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130106",
+      "photo_urls": []
+    },
+    {
+      "id": "130138",
+      "title": "Clan Campbell Coat of Arms",
+      "latitude": 18.46581345,
+      "longitude": -77.4149085,
+      "directions": "Near Route A1, Discovery Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130138",
+      "photo_urls": []
+    },
+    {
+      "id": "200679",
+      "title": "Castleton Botanical Gardens",
+      "latitude": 18.17223327,
+      "longitude": -76.82376449,
+      "directions": "On Parish Route A3, Castleton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200679",
+      "photo_urls": []
+    },
+    {
+      "id": "200681",
+      "title": "Castleton Botanical Gardens",
+      "latitude": 18.17219932,
+      "longitude": -76.82367766,
+      "directions": "On Route A3, Castleton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200681",
+      "photo_urls": []
+    },
+    {
+      "id": "200705",
+      "title": "Welcome to the Wag Water River Walk",
+      "latitude": 18.17263729,
+      "longitude": -76.82272319,
+      "directions": "Near Route A3, Castleton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200705",
+      "photo_urls": []
+    },
+    {
+      "id": "200706",
+      "title": "Welcome to Castleton Botanic Gardens",
+      "latitude": 18.17209126,
+      "longitude": -76.82382996,
+      "directions": "On Route A3, Castleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200706",
+      "photo_urls": []
+    },
+    {
+      "id": "200709",
+      "title": "The Castleton Botanical Gardens Story",
+      "latitude": 18.17185,
+      "longitude": -76.82362823,
+      "directions": "Near Route A3, Castleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200709",
+      "photo_urls": []
+    },
+    {
+      "id": "200710",
+      "title": "Castleton Botanical Formal Garden",
+      "latitude": 18.17196127,
+      "longitude": -76.82401657,
+      "directions": "Near Route A3, Castleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200710",
+      "photo_urls": []
+    },
+    {
+      "id": "200714",
+      "title": "Welcome to the Palmetum",
+      "latitude": 18.17192736,
+      "longitude": -76.82411396,
+      "directions": "Near Route A3, Castleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200714",
+      "photo_urls": []
+    },
+    {
+      "id": "200944",
+      "title": "St Andrew's Scots Kirk",
+      "latitude": 17.96961014,
+      "longitude": -76.79082397,
+      "directions": "On Duke Street, Kingston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200944",
+      "photo_urls": []
+    },
+    {
+      "id": "200946",
+      "title": "Reverend John Radcliffe",
+      "latitude": 17.96955921,
+      "longitude": -76.79087632,
+      "directions": "On Duke Street, Kingston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200946",
+      "photo_urls": []
+    },
+    {
+      "id": "200948",
+      "title": "Nanny of the Maroons",
+      "latitude": 18.00235902,
+      "longitude": -76.78936705,
+      "directions": "On Oxford Road, New Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200948",
+      "photo_urls": []
+    },
+    {
+      "id": "200951",
+      "title": "The Order of National Hero",
+      "latitude": 18.00237334,
+      "longitude": -76.78932799,
+      "directions": "On Oxford Road, New Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200951",
+      "photo_urls": []
+    },
+    {
+      "id": "201372",
+      "title": "St. Thomas Parish World War I Memorial",
+      "latitude": 17.8811439,
+      "longitude": -76.40833278,
+      "directions": "On South Street, Morant Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201372",
+      "photo_urls": []
+    },
+    {
+      "id": "201495",
+      "title": "The Jamaican Martyrs of October 1865",
+      "latitude": 17.88047947,
+      "longitude": -76.40844183,
+      "directions": "On South Street, Morant Bay, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201495",
+      "photo_urls": []
+    },
+    {
+      "id": "201545",
+      "title": "The Last Stone",
+      "latitude": 18.43453798,
+      "longitude": -77.19786883,
+      "directions": "On Windsor Road, Saint Ann&#39;s Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201545",
+      "photo_urls": []
+    },
+    {
+      "id": "201549",
+      "title": "Old Hospital Park",
+      "latitude": 18.48140627,
+      "longitude": -77.92947138,
+      "directions": "On Gloucester Avenue, Montego Bay, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201549",
+      "photo_urls": []
+    },
+    {
+      "id": "201741",
+      "title": "Montego Bay",
+      "latitude": 18.49502022,
+      "longitude": -77.91776994,
+      "directions": "On Sunset Boulevard, Montego Bay, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201741",
+      "photo_urls": []
+    },
+    {
+      "id": "201743",
+      "title": "George William Gordon",
+      "latitude": 18.00253161,
+      "longitude": -76.78944454,
+      "directions": "Near Oxford Road, Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201743",
+      "photo_urls": []
+    },
+    {
+      "id": "201745",
+      "title": "Samuel Sharpe",
+      "latitude": 18.00251244,
+      "longitude": -76.78947326,
+      "directions": "Near Oxford Road, Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201745",
+      "photo_urls": []
+    },
+    {
+      "id": "201763",
+      "title": "Marcus Mossiah Garvey",
+      "latitude": 18.00269753,
+      "longitude": -76.78956027,
+      "directions": "Near Oxford Road, Kingston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201763",
+      "photo_urls": []
+    },
+    {
+      "id": "202285",
+      "title": "Paul Bogle",
+      "latitude": 18.00267937,
+      "longitude": -76.7895987,
+      "directions": "Near Oxford Road, Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202285",
+      "photo_urls": []
+    },
+    {
+      "id": "202289",
+      "title": "Sir William Alexander Bustamante",
+      "latitude": 18.00287371,
+      "longitude": -76.78967632,
+      "directions": "On Oxford Road, Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202289",
+      "photo_urls": []
+    },
+    {
+      "id": "202290",
+      "title": "Norman Washington Manley",
+      "latitude": 18.00284142,
+      "longitude": -76.78971435,
+      "directions": "Near Oxford Road, Kingston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202290",
+      "photo_urls": []
+    },
+    {
+      "id": "245317",
+      "title": "History of Falmouth",
+      "latitude": 18.49225773,
+      "longitude": -77.65059014,
+      "directions": "Near Unnamed street, Falmouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245317",
+      "photo_urls": []
+    },
+    {
+      "id": "245322",
+      "title": "The Water Square",
+      "latitude": 18.492156,
+      "longitude": -77.65082719,
+      "directions": "Near Unnamed street, Falmouth, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245322",
+      "photo_urls": []
+    },
+    {
+      "id": "91179",
+      "title": "Horatio Nelson in Jamaica",
+      "latitude": 17.93502778,
+      "longitude": -76.84279722,
+      "directions": "Near Norman Manley Highway, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91179",
+      "photo_urls": []
+    },
+    {
+      "id": "91193",
+      "title": "Welcome to Port Royal",
+      "latitude": 17.93813333,
+      "longitude": -76.840875,
+      "directions": "On Norman Manley Highway, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91193",
+      "photo_urls": []
+    },
+    {
+      "id": "92246",
+      "title": "St. Peter's Church",
+      "latitude": 17.93723333,
+      "longitude": -76.84145278,
+      "directions": "On Tower Street, Port Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92246",
+      "photo_urls": []
+    },
+    {
+      "id": "92247",
+      "title": "Lucas Barrett",
+      "latitude": 17.93741667,
+      "longitude": -76.84107222,
+      "directions": "On Tower Street, Port Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92247",
+      "photo_urls": []
+    },
+    {
+      "id": "92248",
+      "title": "The Historic Royal Naval Hospital",
+      "latitude": 17.93788056,
+      "longitude": -76.84282778,
+      "directions": "Near Broad Street, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92248",
+      "photo_urls": []
+    },
+    {
+      "id": "92249",
+      "title": "Fort Charles",
+      "latitude": 17.93525278,
+      "longitude": -76.84253611,
+      "directions": "Near Tower Street, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92249",
+      "photo_urls": []
+    },
+    {
+      "id": "92252",
+      "title": "Montego Bay History",
+      "latitude": 18.47858889,
+      "longitude": -77.92643056,
+      "directions": "On Fort Street, Montego Bay, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92252",
+      "photo_urls": []
+    },
+    {
+      "id": "92379",
+      "title": "Fort Montego Cannons",
+      "latitude": 18.47826667,
+      "longitude": -77.92600278,
+      "directions": "Near Fort Street, Montego Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92379",
+      "photo_urls": []
+    },
+    {
+      "id": "92385",
+      "title": "Fort Montego History",
+      "latitude": 18.47848056,
+      "longitude": -77.92604722,
+      "directions": "Near Fort Street, Montego Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92385",
+      "photo_urls": []
+    },
+    {
+      "id": "92386",
+      "title": "Fort Montego Armoury",
+      "latitude": 18.478425,
+      "longitude": -77.92563611,
+      "directions": "Near Fort Street, Montego Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92386",
+      "photo_urls": []
+    },
+    {
+      "id": "92387",
+      "title": "'Ye Olde Parade Bar'",
+      "latitude": 17.93828889,
+      "longitude": -76.840875,
+      "directions": "On Norman Manley Highway, Port Royal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92387",
+      "photo_urls": []
+    },
+    {
+      "id": "92388",
+      "title": "H.M.S. \"Aboukir\"",
+      "latitude": 17.93578611,
+      "longitude": -76.84232222,
+      "directions": "On Norman Manley Highway, Port Royal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92388",
+      "photo_urls": []
+    },
+    {
+      "id": "92395",
+      "title": "The Great War 1914-1918",
+      "latitude": 17.93914167,
+      "longitude": -76.84165278,
+      "directions": "On Dockyard Lane, Port Royal, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92395",
+      "photo_urls": []
+    },
+    {
+      "id": "92410",
+      "title": "The 1907 and 1957 Jamaica Earthquakes",
+      "latitude": 17.93491389,
+      "longitude": -76.84234722,
+      "directions": "Near Norman Manley Highway, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92410",
+      "photo_urls": []
+    }
+  ]
+}
