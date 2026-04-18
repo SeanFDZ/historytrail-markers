@@ -1,0 +1,38 @@
+{
+  "region_id": "gf-overseas-fra",
+  "region_name": "Overseas France",
+  "region_type": "country",
+  "country": "Overseas France",
+  "generated": "2026-04-18T06:06:45.556Z",
+  "source_timestamp": "2026-04-18T06:06:45.556Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "209442",
+      "title": "Saint-François World War I Memorial",
+      "latitude": 16.2511983,
+      "longitude": -61.2738383,
+      "directions": "On Place de l&#39;Église, Saint-François, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209442",
+      "photo_urls": []
+    },
+    {
+      "id": "209465",
+      "title": "Father Gerard Kemps",
+      "latitude": 18.0688079,
+      "longitude": -63.08437954,
+      "directions": "On the street that climbs to the Catholic Church, Marigot, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209465",
+      "photo_urls": []
+    },
+    {
+      "id": "209471",
+      "title": "The Old Town Hall of Marigot",
+      "latitude": 18.0685026,
+      "longitude": -63.08393818,
+      "directions": "On Rue de la Republique, Marigot, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209471",
+      "photo_urls": []
+    }
+  ]
+}
