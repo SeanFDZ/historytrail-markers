@@ -1,0 +1,29 @@
+{
+  "region_id": "tw-taiwan",
+  "region_name": "Taiwan",
+  "region_type": "country",
+  "country": "Taiwan",
+  "generated": "2026-04-18T06:06:45.558Z",
+  "source_timestamp": "2026-04-18T06:06:45.558Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "199121",
+      "title": "The Steam Locomotive No. 1 of Taiwan Railway: \"Teng-Yung\"",
+      "latitude": 25.04311171,
+      "longitude": 121.51447519,
+      "directions": "Near Xiangyang Road, Taipei, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199121",
+      "photo_urls": []
+    },
+    {
+      "id": "199123",
+      "title": "The Steam Locomotive No. 9 of Taiwan Railway",
+      "latitude": 25.04312326,
+      "longitude": 121.51450014,
+      "directions": "Near Xiangyang Road, Taipei, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199123",
+      "photo_urls": []
+    }
+  ]
+}
