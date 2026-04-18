@@ -1,0 +1,470 @@
+{
+  "region_id": "ma-morocco",
+  "region_name": "Morocco",
+  "region_type": "country",
+  "country": "Morocco",
+  "generated": "2026-04-18T06:06:45.557Z",
+  "source_timestamp": "2026-04-18T06:06:45.557Z",
+  "marker_count": 51,
+  "markers": [
+    {
+      "id": "246970",
+      "title": "Place Qzadriya",
+      "latitude": 31.61997667,
+      "longitude": -7.98470527,
+      "directions": "On Rue Bahia Bab Mellah, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246970",
+      "photo_urls": []
+    },
+    {
+      "id": "247147",
+      "title": "Bahia Palace",
+      "latitude": 31.6209291,
+      "longitude": -7.98412963,
+      "directions": "On Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247147",
+      "photo_urls": []
+    },
+    {
+      "id": "247398",
+      "title": "Badia Palace",
+      "latitude": 31.61903757,
+      "longitude": -7.98529868,
+      "directions": "On Rue de Berrima, Marrakesh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247398",
+      "photo_urls": []
+    },
+    {
+      "id": "247400",
+      "title": "Moulay El Yazid Mosque Square",
+      "latitude": 31.61710139,
+      "longitude": -7.98916253,
+      "directions": "On Rue de La Kasbah, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247400",
+      "photo_urls": []
+    },
+    {
+      "id": "247402",
+      "title": "Walls of Marrakesh",
+      "latitude": 31.6127765,
+      "longitude": -7.98957959,
+      "directions": "On Route d&#39;Ourika, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247402",
+      "photo_urls": []
+    },
+    {
+      "id": "247546",
+      "title": "Bab Agnaw",
+      "latitude": 31.61735366,
+      "longitude": -7.9906424,
+      "directions": "On Rue Oqba Ben Nafaa, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247546",
+      "photo_urls": []
+    },
+    {
+      "id": "247654",
+      "title": "Saadian Tombs",
+      "latitude": 31.61704563,
+      "longitude": -7.98897387,
+      "directions": "Near Rue de La Kasbah, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247654",
+      "photo_urls": []
+    },
+    {
+      "id": "247680",
+      "title": "West Building",
+      "latitude": 31.61707481,
+      "longitude": -7.98869682,
+      "directions": "Near Rue de La Kasbah, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247680",
+      "photo_urls": []
+    },
+    {
+      "id": "247682",
+      "title": "Room of Lalla Massaouda",
+      "latitude": 31.6173871,
+      "longitude": -7.9885019,
+      "directions": "On Rue Riad Zitoun el Jdid, Marrakesh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247682",
+      "photo_urls": []
+    },
+    {
+      "id": "247754",
+      "title": "Bahia Palace",
+      "latitude": 31.62143855,
+      "longitude": -7.98263465,
+      "directions": "Near Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=247754",
+      "photo_urls": []
+    },
+    {
+      "id": "249399",
+      "title": "Bahia Palace",
+      "latitude": 31.62137562,
+      "longitude": -7.98253632,
+      "directions": "Near Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249399",
+      "photo_urls": []
+    },
+    {
+      "id": "249401",
+      "title": "The Small Riad",
+      "latitude": 31.62147287,
+      "longitude": -7.98246687,
+      "directions": "Near Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249401",
+      "photo_urls": []
+    },
+    {
+      "id": "249405",
+      "title": "Charles de Foucauld",
+      "latitude": 31.51411793,
+      "longitude": -9.77160611,
+      "directions": "On Rue Laalouj, Essaouira, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249405",
+      "photo_urls": []
+    },
+    {
+      "id": "249410",
+      "title": "First French Tribunal",
+      "latitude": 31.51399516,
+      "longitude": -9.77133447,
+      "directions": "On Rue Laalouj, Essaouira, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249410",
+      "photo_urls": []
+    },
+    {
+      "id": "249803",
+      "title": "The Small Courtyard",
+      "latitude": 31.62152484,
+      "longitude": -7.98200017,
+      "directions": "Near Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249803",
+      "photo_urls": []
+    },
+    {
+      "id": "249805",
+      "title": "The Grand Riad",
+      "latitude": 31.6217861,
+      "longitude": -7.9818285,
+      "directions": "Near Rue Riad Zitoun el Jdid, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249805",
+      "photo_urls": []
+    },
+    {
+      "id": "249808",
+      "title": "The Minaret of Koutoubia",
+      "latitude": 31.62403906,
+      "longitude": -7.99319401,
+      "directions": "On Avenue Mohammed V, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249808",
+      "photo_urls": []
+    },
+    {
+      "id": "249817",
+      "title": "The Koutoubia Mosques",
+      "latitude": 31.6244929,
+      "longitude": -7.99348718,
+      "directions": "On Avenue Mohammed V, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249817",
+      "photo_urls": []
+    },
+    {
+      "id": "249819",
+      "title": "The Stone Fortress and the Gate of Ali",
+      "latitude": 31.62457903,
+      "longitude": -7.99340846,
+      "directions": "On Avenue Mohammed V, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249819",
+      "photo_urls": []
+    },
+    {
+      "id": "249837",
+      "title": "Sidi Mimoun Square",
+      "latitude": 31.62174972,
+      "longitude": -7.99225987,
+      "directions": "On Rue Moulay Ismail, Marrakesh, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249837",
+      "photo_urls": []
+    },
+    {
+      "id": "249838",
+      "title": "Youssef Ibn Tachfine Mausoleum",
+      "latitude": 31.62082719,
+      "longitude": -7.99244957,
+      "directions": "On Rue Sidi Mimoun, Marrakesh, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249838",
+      "photo_urls": []
+    },
+    {
+      "id": "249849",
+      "title": "Medina of Essaouira",
+      "latitude": 31.51067759,
+      "longitude": -9.76921361,
+      "directions": "On Avenue Mohammed V, Essaouira, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249849",
+      "photo_urls": []
+    },
+    {
+      "id": "249857",
+      "title": "La Cité Heureuse / The Happy City",
+      "latitude": 31.51186,
+      "longitude": -9.77244101,
+      "directions": "Near Place Moulay Hassan, Essaouira, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249857",
+      "photo_urls": []
+    },
+    {
+      "id": "249899",
+      "title": "The Mausoleum of Sidi Abu Mohamed Abdellah El Ghazouani Moul El Ksour",
+      "latitude": 31.62744228,
+      "longitude": -7.99137349,
+      "directions": "On Derb Fhal Zefriti, Marrakesh, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249899",
+      "photo_urls": []
+    },
+    {
+      "id": "249900",
+      "title": "Bab Doukkala Square",
+      "latitude": 31.63380369,
+      "longitude": -7.99936044,
+      "directions": "On Avenue Ahmed Ouaqala, Marrakesh, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249900",
+      "photo_urls": []
+    },
+    {
+      "id": "249907",
+      "title": "Bab Nkob",
+      "latitude": 31.62818558,
+      "longitude": -8.00080024,
+      "directions": "On Avenue Mohammed V (Route P2006) , Marrakesh, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249907",
+      "photo_urls": []
+    },
+    {
+      "id": "249914",
+      "title": "Zawiya Tijaniya (Al-Kenssoussiya)",
+      "latitude": 31.62732302,
+      "longitude": -7.98949599,
+      "directions": "On Rue Fehl Chidmi, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249914",
+      "photo_urls": []
+    },
+    {
+      "id": "249915",
+      "title": "Al-Mouassine Mosque or Al-Chorafa Mosque",
+      "latitude": 31.62926944,
+      "longitude": -7.9894838,
+      "directions": "Near Rue Fehl Chidmi, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249915",
+      "photo_urls": []
+    },
+    {
+      "id": "249920",
+      "title": "Mouassine Square",
+      "latitude": 31.62985516,
+      "longitude": -7.98937436,
+      "directions": "On Dherb el Hammam, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249920",
+      "photo_urls": []
+    },
+    {
+      "id": "249927",
+      "title": "Riad Al-Krissi (The Secret Garden)",
+      "latitude": 31.63065742,
+      "longitude": -7.98949359,
+      "directions": "On Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249927",
+      "photo_urls": []
+    },
+    {
+      "id": "249930",
+      "title": "Octagonal Basin",
+      "latitude": 31.63068865,
+      "longitude": -7.98979377,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249930",
+      "photo_urls": []
+    },
+    {
+      "id": "249933",
+      "title": "Water Distribution Point",
+      "latitude": 31.63058621,
+      "longitude": -7.98990008,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249933",
+      "photo_urls": []
+    },
+    {
+      "id": "249935",
+      "title": "Water from the Atlas Mountains",
+      "latitude": 31.6307481,
+      "longitude": -7.98993295,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249935",
+      "photo_urls": []
+    },
+    {
+      "id": "249938",
+      "title": "Communicating Vessels",
+      "latitude": 31.63098064,
+      "longitude": -7.98980815,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249938",
+      "photo_urls": []
+    },
+    {
+      "id": "250004",
+      "title": "Gravity-fed Water",
+      "latitude": 31.63111756,
+      "longitude": -7.98995412,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250004",
+      "photo_urls": []
+    },
+    {
+      "id": "250016",
+      "title": "Marble Fountain (Khossa)",
+      "latitude": 31.63097669,
+      "longitude": -7.99014448,
+      "directions": "Near Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250016",
+      "photo_urls": []
+    },
+    {
+      "id": "250017",
+      "title": "Souk Jeld",
+      "latitude": 31.6313746,
+      "longitude": -7.9883621,
+      "directions": "On Route Sidi Abdelaziz, Marrakesh, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250017",
+      "photo_urls": []
+    },
+    {
+      "id": "250019",
+      "title": "The Mausoleum of Sidi Abou Faris Abdelaziz Tebbaa",
+      "latitude": 31.63195752,
+      "longitude": -7.98905647,
+      "directions": "On Rue Mouassine, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250019",
+      "photo_urls": []
+    },
+    {
+      "id": "250020",
+      "title": "Minaret of Ben Youssef",
+      "latitude": 31.6316584,
+      "longitude": -7.9873988,
+      "directions": "On Rue Azbezt, Marrakesh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250020",
+      "photo_urls": []
+    },
+    {
+      "id": "250022",
+      "title": "The Almoravid Dome",
+      "latitude": 31.6315747,
+      "longitude": -7.98718979,
+      "directions": "On Place de La Kissariat Ben Youssef, Marrakesh, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250022",
+      "photo_urls": []
+    },
+    {
+      "id": "250125",
+      "title": "Ben Youssef Mosque",
+      "latitude": 31.63168059,
+      "longitude": -7.98706917,
+      "directions": "On Rue Azbezt, Marrakesh, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250125",
+      "photo_urls": []
+    },
+    {
+      "id": "250127",
+      "title": "Ben Youssef Square",
+      "latitude": 31.6316266,
+      "longitude": -7.98671965,
+      "directions": "On Place de Ben Youssef, Marrakesh, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250127",
+      "photo_urls": []
+    },
+    {
+      "id": "250128",
+      "title": "The Marrakech Museum Dar El Mnebhi",
+      "latitude": 31.63160154,
+      "longitude": -7.98648063,
+      "directions": "On Rue Azbezt, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250128",
+      "photo_urls": []
+    },
+    {
+      "id": "250130",
+      "title": "Ben Youssef Medersa",
+      "latitude": 31.63199342,
+      "longitude": -7.98651071,
+      "directions": "On Rue Azbezt, Marrakesh, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250130",
+      "photo_urls": []
+    },
+    {
+      "id": "250184",
+      "title": "Dar Bellarj",
+      "latitude": 31.63206659,
+      "longitude": -7.98657764,
+      "directions": "On Rue Azbest, Marrakesh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250184",
+      "photo_urls": []
+    },
+    {
+      "id": "250241",
+      "title": "Hammam Addahab",
+      "latitude": 31.63244103,
+      "longitude": -7.98653138,
+      "directions": "On Derb Zaouiat Lahdar, Marrakesh, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250241",
+      "photo_urls": []
+    },
+    {
+      "id": "250247",
+      "title": "Zawiya Lahdar",
+      "latitude": 31.63257667,
+      "longitude": -7.98691577,
+      "directions": "On Derb Zaouiat Lahdar, Marrakesh, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250247",
+      "photo_urls": []
+    },
+    {
+      "id": "250248",
+      "title": "El Bacha Fondouk Square",
+      "latitude": 31.63265845,
+      "longitude": -7.98825663,
+      "directions": "On Rue Amsafah, Marrakesh, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250248",
+      "photo_urls": []
+    },
+    {
+      "id": "250251",
+      "title": "Mausoleum of Sidi Abdellah Al-Andaloussi (Jabbar Al-Tlaif)",
+      "latitude": 31.63235188,
+      "longitude": -7.98881515,
+      "directions": "On Rue Amsafah, Marrakesh, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250251",
+      "photo_urls": []
+    },
+    {
+      "id": "250256",
+      "title": "Sidi Abdel Aziz Mosque",
+      "latitude": 31.63221956,
+      "longitude": -7.98895462,
+      "directions": "On Rue Amsafah, Marrakesh, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250256",
+      "photo_urls": []
+    },
+    {
+      "id": "250297",
+      "title": "Confluence Museum Dar El Basha",
+      "latitude": 31.63157914,
+      "longitude": -7.99210582,
+      "directions": "On Route Sidi Abdelaziz, Marrakesh, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250297",
+      "photo_urls": []
+    }
+  ]
+}
