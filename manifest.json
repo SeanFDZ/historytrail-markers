@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-17T06:07:42.381Z",
+  "generated": "2026-04-18T06:06:54.283Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 34984,
-  "total_regions": 20,
+  "total_markers": 35009,
+  "total_regions": 21,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -84,6 +84,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 21,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "bs-the-bahamas",
+      "name": "The Bahamas",
+      "type": "country",
+      "country": "The Bahamas",
+      "file": "regions/bs-the-bahamas.json",
+      "markers": 25,
+      "size_bytes": 7521,
+      "updated": "2026-04-18",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 46,
         "removed": 0,
         "modified": 0
       }
