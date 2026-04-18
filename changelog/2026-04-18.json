@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-18",
+  "run_id": 108,
+  "cycle_day": 24,
+  "regions_processed": [
+    "bs-the-bahamas"
+  ],
+  "changes": {
+    "bs-the-bahamas": {
+      "added": 46,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 385,
+  "total_removed": 0,
+  "total_modified": 0
+}
