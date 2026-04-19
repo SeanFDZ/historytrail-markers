@@ -1,0 +1,416 @@
+{
+  "region_id": "gh-ghana",
+  "region_name": "Ghana",
+  "region_type": "country",
+  "country": "Ghana",
+  "generated": "2026-04-19T06:09:40.656Z",
+  "source_timestamp": "2026-04-19T06:09:40.656Z",
+  "marker_count": 45,
+  "markers": [
+    {
+      "id": "215838",
+      "title": "Dr. Kwame Nkrumah",
+      "latitude": 5.56013898,
+      "longitude": -0.20618989,
+      "directions": "Near Barnes Road, Accra, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215838",
+      "photo_urls": []
+    },
+    {
+      "id": "216679",
+      "title": "Liberation Day Monument",
+      "latitude": 5.54956993,
+      "longitude": -0.19100974,
+      "directions": "On 28th February Road, Accra, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216679",
+      "photo_urls": []
+    },
+    {
+      "id": "216931",
+      "title": "Vitellaria paradoxa",
+      "latitude": 5.85399231,
+      "longitude": -0.17226452,
+      "directions": "Near Route N4, Aburi, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216931",
+      "photo_urls": []
+    },
+    {
+      "id": "216932",
+      "title": "Lady Knutsford",
+      "latitude": 5.85281979,
+      "longitude": -0.17335031,
+      "directions": "Near Route N4, Aburi, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216932",
+      "photo_urls": []
+    },
+    {
+      "id": "216933",
+      "title": "Nutmeg",
+      "latitude": 5.8550443,
+      "longitude": -0.17252503,
+      "directions": "Near Route N4, Aburi, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216933",
+      "photo_urls": []
+    },
+    {
+      "id": "216986",
+      "title": "Cedrela odorata (Cedar)",
+      "latitude": 5.8512178,
+      "longitude": -0.1732668,
+      "directions": "Near N4, Aburi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216986",
+      "photo_urls": []
+    },
+    {
+      "id": "216988",
+      "title": "Founding of the Aburi Botanical Gardens",
+      "latitude": 5.85309833,
+      "longitude": -0.17265669,
+      "directions": "Near Route N4, Aburi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=216988",
+      "photo_urls": []
+    },
+    {
+      "id": "217014",
+      "title": "Accra Stadium Disaster",
+      "latitude": 5.5511021,
+      "longitude": -0.1939119,
+      "directions": "On Starlets 91 Road, Accra, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217014",
+      "photo_urls": []
+    },
+    {
+      "id": "217015",
+      "title": "Ghana in Two World Wars",
+      "latitude": 5.55382078,
+      "longitude": -0.19030068,
+      "directions": "On Castle Road, Accra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217015",
+      "photo_urls": []
+    },
+    {
+      "id": "218887",
+      "title": "Tree Columns Design at the Royal Senchi Hotel",
+      "latitude": 6.21946917,
+      "longitude": 0.08896063,
+      "directions": "Near Akosombo - Tema Road, Atimpoku, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218887",
+      "photo_urls": []
+    },
+    {
+      "id": "219427",
+      "title": "W.E.B. DuBois",
+      "latitude": 5.58213007,
+      "longitude": -0.17102193,
+      "directions": "Near Fifth Link Road, Accra, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219427",
+      "photo_urls": []
+    },
+    {
+      "id": "219548",
+      "title": "Dr. Shirley Graham DuBois",
+      "latitude": 5.58213315,
+      "longitude": -0.17102953,
+      "directions": "On Fifth Link Road, Accra, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219548",
+      "photo_urls": []
+    },
+    {
+      "id": "219883",
+      "title": "Ghana Armed Forces Memorial",
+      "latitude": 5.57867246,
+      "longitude": -0.18636553,
+      "directions": "On Liberation Road, Accra, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219883",
+      "photo_urls": []
+    },
+    {
+      "id": "219975",
+      "title": "Christ the King School Foundation",
+      "latitude": 5.57883676,
+      "longitude": -0.1855011,
+      "directions": "Near Nehru Road, Accra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219975",
+      "photo_urls": []
+    },
+    {
+      "id": "220215",
+      "title": "Martyrs of the Rule of Law",
+      "latitude": 5.5450675,
+      "longitude": -0.2048232,
+      "directions": "On Prof. Atta Mills High Street, Accra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220215",
+      "photo_urls": []
+    },
+    {
+      "id": "221002",
+      "title": "King Tackie Tawiah I",
+      "latitude": 5.5458866,
+      "longitude": -0.20655544,
+      "directions": "On Kojo Thompson Road, Accra, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=221002",
+      "photo_urls": []
+    },
+    {
+      "id": "222455",
+      "title": "Agusta 109A Helicopter",
+      "latitude": 5.58959444,
+      "longitude": -0.17578125,
+      "directions": "On Airport Bypass Road, Accra, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222455",
+      "photo_urls": []
+    },
+    {
+      "id": "224356",
+      "title": "Edward Akufo-Addo",
+      "latitude": 5.57684179,
+      "longitude": -0.17844439,
+      "directions": "On Fourth Circular Road, Accra, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224356",
+      "photo_urls": []
+    },
+    {
+      "id": "225627",
+      "title": "Fort Ussher",
+      "latitude": 5.53857466,
+      "longitude": -0.20850455,
+      "directions": "On Prof. Atta Mills High Street, Accra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225627",
+      "photo_urls": []
+    },
+    {
+      "id": "226702",
+      "title": "Royal West African Frontier Force Memorial",
+      "latitude": 5.10405165,
+      "longitude": -1.24160087,
+      "directions": "On Victoria Road, Cape Coast, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226702",
+      "photo_urls": []
+    },
+    {
+      "id": "227173",
+      "title": "The Methodist Church in Ghana / Rev. Joseph Rhodes Dunwell",
+      "latitude": 5.10567746,
+      "longitude": -1.24235174,
+      "directions": "On King Street, Cape Coast, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227173",
+      "photo_urls": []
+    },
+    {
+      "id": "227176",
+      "title": "President Obama in Ghana",
+      "latitude": 5.10346886,
+      "longitude": -1.24100855,
+      "directions": "Near Victoria Road, Cape Coast, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227176",
+      "photo_urls": []
+    },
+    {
+      "id": "227853",
+      "title": "John Swanzy",
+      "latitude": 5.10359086,
+      "longitude": -1.24097363,
+      "directions": "Near Victoria Road, Cape Coast, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227853",
+      "photo_urls": []
+    },
+    {
+      "id": "231371",
+      "title": "Cape Coast Castle",
+      "latitude": 5.10354701,
+      "longitude": -1.24107303,
+      "directions": "Near Victoria Road, Cape Coast, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231371",
+      "photo_urls": []
+    },
+    {
+      "id": "231924",
+      "title": "Osagyefo Dr. Kwame Nkrumah",
+      "latitude": 5.54407544,
+      "longitude": -0.20264644,
+      "directions": "Near Prof. Atta Mills High Street, Accra, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231924",
+      "photo_urls": []
+    },
+    {
+      "id": "237504",
+      "title": "Sir James Marshall",
+      "latitude": 5.10673028,
+      "longitude": -1.24494567,
+      "directions": "Near Royal Lane, Cape Coast, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237504",
+      "photo_urls": []
+    },
+    {
+      "id": "237508",
+      "title": "Rev. Thomas Birch Freeman",
+      "latitude": 5.10567535,
+      "longitude": -1.2426108,
+      "directions": "Near Kings Street, Cape Coast, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237508",
+      "photo_urls": []
+    },
+    {
+      "id": "237509",
+      "title": "Captain James Potter",
+      "latitude": 5.10569272,
+      "longitude": -1.24261751,
+      "directions": "Near Kings Street, Cape Coast, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237509",
+      "photo_urls": []
+    },
+    {
+      "id": "237510",
+      "title": "William Degraft",
+      "latitude": 5.10571008,
+      "longitude": -1.24261885,
+      "directions": "Near Kings Street, Cape Coast, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237510",
+      "photo_urls": []
+    },
+    {
+      "id": "237532",
+      "title": "St. George's Castle, Elmina",
+      "latitude": 5.08259769,
+      "longitude": -1.34813231,
+      "directions": "Near Liver Pool Road, Elmina, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237532",
+      "photo_urls": []
+    },
+    {
+      "id": "237534",
+      "title": "Old Dutch Cemetery",
+      "latitude": 5.08578807,
+      "longitude": -1.35298028,
+      "directions": "On Dutch Cemetery Road, Elmina, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=237534",
+      "photo_urls": []
+    },
+    {
+      "id": "238348",
+      "title": "Asameni",
+      "latitude": 6.23914543,
+      "longitude": 0.09268273,
+      "directions": "On Tema-Jasikan Road (National Route N2) , Atimpoku, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238348",
+      "photo_urls": []
+    },
+    {
+      "id": "238349",
+      "title": "Adomi Bridge Dedication",
+      "latitude": 6.23939005,
+      "longitude": 0.09358127,
+      "directions": "On N2 (National Route N2) , Atimpoku, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238349",
+      "photo_urls": []
+    },
+    {
+      "id": "238350",
+      "title": "Akosombo Dam Construction Inauguration",
+      "latitude": 6.29068656,
+      "longitude": 0.05906144,
+      "directions": "On Kwame Nkrumah Avenue, Akosombo, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238350",
+      "photo_urls": []
+    },
+    {
+      "id": "240421",
+      "title": "Major Maxwell Adam Mahama",
+      "latitude": 5.61598182,
+      "longitude": -0.15502363,
+      "directions": "On Mahama Road, Accra, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240421",
+      "photo_urls": []
+    },
+    {
+      "id": "243571",
+      "title": "OLA Cathedral Parish Pioneers",
+      "latitude": 9.40108725,
+      "longitude": -0.83476761,
+      "directions": "On Salaga Road, Tamale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243571",
+      "photo_urls": []
+    },
+    {
+      "id": "245215",
+      "title": "Sir Frederick Gordon Guggisberg",
+      "latitude": 5.53764967,
+      "longitude": -0.22737235,
+      "directions": "On Harley Street, Accra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245215",
+      "photo_urls": []
+    },
+    {
+      "id": "245485",
+      "title": "Dr. Hideyo Noguchi",
+      "latitude": 5.53893557,
+      "longitude": -0.22846522,
+      "directions": "Near Harley Street, Accra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=245485",
+      "photo_urls": []
+    },
+    {
+      "id": "259744",
+      "title": "First Cocoa in Ghana",
+      "latitude": 5.91342441,
+      "longitude": -0.1445631,
+      "directions": "Near Unnamed road, Mampong, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259744",
+      "photo_urls": []
+    },
+    {
+      "id": "260649",
+      "title": "Ceiba pentandra",
+      "latitude": 5.85304987,
+      "longitude": -0.17300047,
+      "directions": "On Unnamed park road, Aburi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260649",
+      "photo_urls": []
+    },
+    {
+      "id": "260652",
+      "title": "Cocoa",
+      "latitude": 5.85268217,
+      "longitude": -0.17386699,
+      "directions": "On Unnamed park road, Aburi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260652",
+      "photo_urls": []
+    },
+    {
+      "id": "260653",
+      "title": "Cola nitida",
+      "latitude": 5.85310717,
+      "longitude": -0.1737332,
+      "directions": "On , Aburi, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260653",
+      "photo_urls": []
+    },
+    {
+      "id": "261712",
+      "title": "Onyame Dua",
+      "latitude": 5.8533377,
+      "longitude": -0.1735931,
+      "directions": "On Unnamed park road, Aburi, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261712",
+      "photo_urls": []
+    },
+    {
+      "id": "261714",
+      "title": "The Strangler Ficus Tree",
+      "latitude": 5.85458951,
+      "longitude": -0.17253048,
+      "directions": "On Unnamed park road, Aburi, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261714",
+      "photo_urls": []
+    },
+    {
+      "id": "274403",
+      "title": "Park History",
+      "latitude": 5.8834137,
+      "longitude": 0.0386824,
+      "directions": "Near Shai Hills Southern Access Road, Kordiabe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274403",
+      "photo_urls": []
+    }
+  ]
+}
