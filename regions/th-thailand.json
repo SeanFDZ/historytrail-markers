@@ -1,0 +1,38 @@
+{
+  "region_id": "th-thailand",
+  "region_name": "Thailand",
+  "region_type": "country",
+  "country": "Thailand",
+  "generated": "2026-04-19T06:09:40.674Z",
+  "source_timestamp": "2026-04-19T06:09:40.674Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "199097",
+      "title": "Wat Chang Lom",
+      "latitude": 17.01931293,
+      "longitude": 99.71955356,
+      "directions": "On , Mueang Kao, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199097",
+      "photo_urls": []
+    },
+    {
+      "id": "230218",
+      "title": "Vietnam War Monument",
+      "latitude": 14.13358667,
+      "longitude": 99.44579702,
+      "directions": "On Route 3086, Nong Kum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230218",
+      "photo_urls": []
+    },
+    {
+      "id": "69227",
+      "title": "Admiral Krom Luang Jumborn Khet Udomsakdi",
+      "latitude": 12.921952,
+      "longitude": 100.866185,
+      "directions": "Near Phra Tamnak Rd., Pattaya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=69227",
+      "photo_urls": []
+    }
+  ]
+}
