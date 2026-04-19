@@ -1,0 +1,758 @@
+{
+  "region_id": "hr-croatia",
+  "region_name": "Croatia",
+  "region_type": "country",
+  "country": "Croatia",
+  "generated": "2026-04-19T06:09:40.657Z",
+  "source_timestamp": "2026-04-19T06:09:40.657Z",
+  "marker_count": 83,
+  "markers": [
+    {
+      "id": "126977",
+      "title": "Fort Impérial - the Empire's Fort",
+      "latitude": 42.64992833,
+      "longitude": 18.110775,
+      "directions": "On St&#273; Ulica, near Dubrovnik, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126977",
+      "photo_urls": []
+    },
+    {
+      "id": "126979",
+      "title": "Grad Dubrovnik",
+      "latitude": 42.64185,
+      "longitude": 18.107178,
+      "directions": "Near Ulica Vrata od Pila, Dubrovnik, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126979",
+      "photo_urls": []
+    },
+    {
+      "id": "127105",
+      "title": "The Memorial Tablet",
+      "latitude": 42.961081,
+      "longitude": 17.134796,
+      "directions": "On Obala Franje Tu&#273;mana, Kor&#269;ula, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127105",
+      "photo_urls": []
+    },
+    {
+      "id": "127106",
+      "title": "The Town of Kor&#269;ula",
+      "latitude": 42.960796,
+      "longitude": 17.134964,
+      "directions": "On Obala Franje Tu&#273;mana, Kor&#269;ula, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127106",
+      "photo_urls": []
+    },
+    {
+      "id": "127109",
+      "title": "The Naval Battle in the Waters Off Kor&#269;ula",
+      "latitude": 42.961783,
+      "longitude": 17.136329,
+      "directions": "On Ulica Depolo, Kor&#269;ula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127109",
+      "photo_urls": []
+    },
+    {
+      "id": "127110",
+      "title": "Reconstruction of the House of Marco Polo 2015.-2020.",
+      "latitude": 42.961784,
+      "longitude": 17.136329,
+      "directions": "On Ulica Depolo, Kor&#269;ula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127110",
+      "photo_urls": []
+    },
+    {
+      "id": "127111",
+      "title": "Silk Road",
+      "latitude": 42.961783,
+      "longitude": 17.136328,
+      "directions": "On Ulica Depolo, Kor&#269;ula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127111",
+      "photo_urls": []
+    },
+    {
+      "id": "127112",
+      "title": "Marco Polo",
+      "latitude": 42.961784,
+      "longitude": 17.136328,
+      "directions": "On Ulica Depolo, Kor&#269;ula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127112",
+      "photo_urls": []
+    },
+    {
+      "id": "127145",
+      "title": "Varnenica Na Roskarsnicu",
+      "latitude": 43.16738333,
+      "longitude": 16.53737,
+      "directions": "On Unnamed Road, near Velo Grablje, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127145",
+      "photo_urls": []
+    },
+    {
+      "id": "127146",
+      "title": "St. Mary's Gate",
+      "latitude": 43.17268,
+      "longitude": 16.443295,
+      "directions": "On Dr. Mate Milicica, Hvar, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127146",
+      "photo_urls": []
+    },
+    {
+      "id": "127147",
+      "title": "City Walls, 15th cent.",
+      "latitude": 43.17268028,
+      "longitude": 16.443295,
+      "directions": "On Dr. Mate Milicica, Hvar, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127147",
+      "photo_urls": []
+    },
+    {
+      "id": "127149",
+      "title": "Jakša Palace, 15th cent.",
+      "latitude": 43.172687,
+      "longitude": 16.443217,
+      "directions": "On etra Hektorovica, Hvar, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127149",
+      "photo_urls": []
+    },
+    {
+      "id": "127150",
+      "title": "Benedictine Convent and Church of St. Anthony the Abbot, 17th - 18th cent.",
+      "latitude": 43.17300333,
+      "longitude": 16.44215833,
+      "directions": "On Kroz Grodu, Hvar, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127150",
+      "photo_urls": []
+    },
+    {
+      "id": "127151",
+      "title": "City Walls, 15th cent.",
+      "latitude": 43.172618,
+      "longitude": 16.442117,
+      "directions": "On Kroz Grodu, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127151",
+      "photo_urls": []
+    },
+    {
+      "id": "127186",
+      "title": "Porta Maestra",
+      "latitude": 43.172617,
+      "longitude": 16.442117,
+      "directions": "On Kroz Grodu, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127186",
+      "photo_urls": []
+    },
+    {
+      "id": "127188",
+      "title": "Užiži&#263; Palace (Hektorovi&#263; Palace), 15th cent.",
+      "latitude": 43.172553,
+      "longitude": 16.442079,
+      "directions": "On Kroz Grodu, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127188",
+      "photo_urls": []
+    },
+    {
+      "id": "127191",
+      "title": "Arsenal / Historical Shipyard, 14th-17th cent.",
+      "latitude": 43.172114,
+      "longitude": 16.441453,
+      "directions": "Near Riva, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127191",
+      "photo_urls": []
+    },
+    {
+      "id": "127194",
+      "title": "Church of the Annunciation, 14th-17th cent.",
+      "latitude": 43.17171,
+      "longitude": 16.441659,
+      "directions": "Near Kroz Burak, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127194",
+      "photo_urls": []
+    },
+    {
+      "id": "127195",
+      "title": "Clock Tower / <i>Leroj,</i> 15th cent.",
+      "latitude": 43.172653,
+      "longitude": 16.441666,
+      "directions": "On Trg Sv. Stjepana, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127195",
+      "photo_urls": []
+    },
+    {
+      "id": "127240",
+      "title": "Paladini Palace, lower, 15th - 19th cent.",
+      "latitude": 43.17241,
+      "longitude": 16.442261,
+      "directions": "On Trg Sv. Stjepana, Hvar, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127240",
+      "photo_urls": []
+    },
+    {
+      "id": "127241",
+      "title": "St. Stephen's square / <i>Piazza,</i> 15th cent.",
+      "latitude": 43.172414,
+      "longitude": 16.44239,
+      "directions": "On Trg Sv. Stjepana, Hvar, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127241",
+      "photo_urls": []
+    },
+    {
+      "id": "127244",
+      "title": "City Gate / <i>Porta Badoer</i>",
+      "latitude": 43.173131,
+      "longitude": 16.443655,
+      "directions": "On Trg Marka Mili&#269;i&#263;a, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127244",
+      "photo_urls": []
+    },
+    {
+      "id": "127247",
+      "title": "Church of the Holy Spirit, 15th cent.",
+      "latitude": 43.173138,
+      "longitude": 16.443026,
+      "directions": "On Ulica Matija Ivani&#263;a, Hvar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127247",
+      "photo_urls": []
+    },
+    {
+      "id": "127320",
+      "title": "The Ciprianis-Benedetti Palace",
+      "latitude": 43.508758,
+      "longitude": 16.439214,
+      "directions": "On Ulica Marka Maruli&#263;a, Split, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127320",
+      "photo_urls": []
+    },
+    {
+      "id": "127321",
+      "title": "The Sulphur Spa",
+      "latitude": 43.509116,
+      "longitude": 16.437007,
+      "directions": "On Marmontova Ulica 1, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127321",
+      "photo_urls": []
+    },
+    {
+      "id": "127322",
+      "title": "The One-time Convent of the Poor Clares of St. Nicholas",
+      "latitude": 43.507558,
+      "longitude": 16.440152,
+      "directions": "Near Ulica Iza Vestibula, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127322",
+      "photo_urls": []
+    },
+    {
+      "id": "127356",
+      "title": "Diocletian's Mausoleum / Cathedral of St. Dujam",
+      "latitude": 43.508138,
+      "longitude": 16.440221,
+      "directions": "Near Kamila Ton&#269;i&#263;a, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127356",
+      "photo_urls": []
+    },
+    {
+      "id": "127358",
+      "title": "Jupiter Temple",
+      "latitude": 43.508321,
+      "longitude": 16.439647,
+      "directions": "Near Ulica Kraj Svetog Ivana, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127358",
+      "photo_urls": []
+    },
+    {
+      "id": "127361",
+      "title": "The Karepi&#263; Palace",
+      "latitude": 43.508969,
+      "longitude": 16.43911,
+      "directions": "On Bosanska Ulica, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127361",
+      "photo_urls": []
+    },
+    {
+      "id": "127371",
+      "title": "The Town Hall",
+      "latitude": 43.508974,
+      "longitude": 16.438972,
+      "directions": "Near Narodni Trg, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127371",
+      "photo_urls": []
+    },
+    {
+      "id": "127374",
+      "title": "The Milesi Palace",
+      "latitude": 43.508313,
+      "longitude": 16.43852,
+      "directions": "Near Trg Bra&#263;e Radi&#263;, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127374",
+      "photo_urls": []
+    },
+    {
+      "id": "127413",
+      "title": "The Pavlovi&#263; Palace",
+      "latitude": 43.508885,
+      "longitude": 16.438722,
+      "directions": "On Narodni Trg, Split, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127413",
+      "photo_urls": []
+    },
+    {
+      "id": "127414",
+      "title": "The Cambi Palace",
+      "latitude": 43.508969,
+      "longitude": 16.439312,
+      "directions": "On Bosanska Ulica, Split, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127414",
+      "photo_urls": []
+    },
+    {
+      "id": "127415",
+      "title": "The Church of St Martin",
+      "latitude": 43.509145,
+      "longitude": 16.440474,
+      "directions": "On Ulica Majstora Jurja, Split, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127415",
+      "photo_urls": []
+    },
+    {
+      "id": "127416",
+      "title": "The Golden Gate Palace",
+      "latitude": 43.509165,
+      "longitude": 16.440347,
+      "directions": "On Ulica Majstora Jurja, Split, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127416",
+      "photo_urls": []
+    },
+    {
+      "id": "127417",
+      "title": "The Dragiši&#263; (De Caris) Palace",
+      "latitude": 43.508734,
+      "longitude": 16.440528,
+      "directions": "On Papali&#263;eva Ulica, Split, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127417",
+      "photo_urls": []
+    },
+    {
+      "id": "127590",
+      "title": "The Large Papali&#263; Palace",
+      "latitude": 43.508681,
+      "longitude": 16.440886,
+      "directions": "On Papali&#263;eva Ulica, Split, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127590",
+      "photo_urls": []
+    },
+    {
+      "id": "127591",
+      "title": "The Maruli&#263; Palace",
+      "latitude": 43.50859,
+      "longitude": 16.44096,
+      "directions": "On Papali&#263;eva Ulica, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127591",
+      "photo_urls": []
+    },
+    {
+      "id": "127596",
+      "title": "Marko Maruli&#263;",
+      "latitude": 43.50859,
+      "longitude": 16.440965,
+      "directions": "On Papali&#263;eva Ulica, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127596",
+      "photo_urls": []
+    },
+    {
+      "id": "127597",
+      "title": "Julius Nepos",
+      "latitude": 43.508589,
+      "longitude": 16.441206,
+      "directions": "On Ulica Julija Nepota, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127597",
+      "photo_urls": []
+    },
+    {
+      "id": "127599",
+      "title": "The Augubio Palace",
+      "latitude": 43.508427,
+      "longitude": 16.440161,
+      "directions": "On Ulica kralja Petra Krešimira IV, Split, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127599",
+      "photo_urls": []
+    },
+    {
+      "id": "128101",
+      "title": "The Church of St Roche",
+      "latitude": 43.508366,
+      "longitude": 16.440314,
+      "directions": "On Poljana kraljice Jelene, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128101",
+      "photo_urls": []
+    },
+    {
+      "id": "128104",
+      "title": "The Andri&#263; House - The Vidovi&#263; Gallery",
+      "latitude": 43.508201,
+      "longitude": 16.44102,
+      "directions": "On Poljana kraljice Jelene, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128104",
+      "photo_urls": []
+    },
+    {
+      "id": "128106",
+      "title": "The Grisogono Palace",
+      "latitude": 43.50841,
+      "longitude": 16.440164,
+      "directions": "On Trg Peristil, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128106",
+      "photo_urls": []
+    },
+    {
+      "id": "128108",
+      "title": "Church of Our Lady of the Bell Tower and the municipal clock",
+      "latitude": 43.508644,
+      "longitude": 16.439559,
+      "directions": "On Bajamontijeva Ulica, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128108",
+      "photo_urls": []
+    },
+    {
+      "id": "128112",
+      "title": "The Iron Gate Palace",
+      "latitude": 43.508644,
+      "longitude": 16.439559,
+      "directions": "On Bajamontijeva Ulica, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128112",
+      "photo_urls": []
+    },
+    {
+      "id": "128213",
+      "title": "Hramovi",
+      "latitude": 43.508313,
+      "longitude": 16.439426,
+      "directions": "On Ulica Andrije Buvinina, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128213",
+      "photo_urls": []
+    },
+    {
+      "id": "128215",
+      "title": "Lazareti",
+      "latitude": 43.506823,
+      "longitude": 16.440668,
+      "directions": "On Obala Lazareta, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128215",
+      "photo_urls": []
+    },
+    {
+      "id": "128216",
+      "title": "Riva",
+      "latitude": 43.507224,
+      "longitude": 16.439746,
+      "directions": "On Obala Lazareta, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128216",
+      "photo_urls": []
+    },
+    {
+      "id": "128230",
+      "title": "Dioklecijanova Pala&#269;a",
+      "latitude": 43.507454,
+      "longitude": 16.439803,
+      "directions": "On Obala Hrvatskog narodnog preporoda, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128230",
+      "photo_urls": []
+    },
+    {
+      "id": "128387",
+      "title": "<i>Zlatna</i> Vrata",
+      "latitude": 43.509474,
+      "longitude": 16.440368,
+      "directions": "Near Ulica kralja Tomislava, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128387",
+      "photo_urls": []
+    },
+    {
+      "id": "128390",
+      "title": "Pjaca",
+      "latitude": 43.50889,
+      "longitude": 16.438408,
+      "directions": "On Narodni Trg, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128390",
+      "photo_urls": []
+    },
+    {
+      "id": "128392",
+      "title": "<i>vrata od</i> Pisture",
+      "latitude": 43.509597,
+      "longitude": 16.440088,
+      "directions": "On Ulica kralja Tomislava, Split, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128392",
+      "photo_urls": []
+    },
+    {
+      "id": "128401",
+      "title": "<i>barokni</i> Bedemi",
+      "latitude": 43.509578,
+      "longitude": 16.440449,
+      "directions": "On Ulica kralja Tomislava, Split, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128401",
+      "photo_urls": []
+    },
+    {
+      "id": "128423",
+      "title": "<i>Sv. Dominik</i> Srebrna Vrata",
+      "latitude": 43.50821,
+      "longitude": 16.441124,
+      "directions": "On Poljana kraljice Jelene, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128423",
+      "photo_urls": []
+    },
+    {
+      "id": "128443",
+      "title": "<i>Peristil i</i> Kathedrala",
+      "latitude": 43.50824,
+      "longitude": 16.441002,
+      "directions": "On Poljana kraljice Jelene, Split, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128443",
+      "photo_urls": []
+    },
+    {
+      "id": "128537",
+      "title": "Pala&#269;a Sermage",
+      "latitude": 46.30946,
+      "longitude": 16.336355,
+      "directions": "On Trg Miljenka Stan&#269;i&#263;a, Varaždin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128537",
+      "photo_urls": []
+    },
+    {
+      "id": "128538",
+      "title": "Uršulinska Crkva Rodenja Isusovog",
+      "latitude": 46.308617,
+      "longitude": 16.335142,
+      "directions": "On Uršulinska Ulica, Varaždin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128538",
+      "photo_urls": []
+    },
+    {
+      "id": "128539",
+      "title": "Uršulinski Samostan",
+      "latitude": 46.308272,
+      "longitude": 16.335249,
+      "directions": "On Uršulinska Ulica, Varaždin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128539",
+      "photo_urls": []
+    },
+    {
+      "id": "128540",
+      "title": "Franjeva&#269;ki Samostan",
+      "latitude": 46.307806,
+      "longitude": 16.335554,
+      "directions": "On Uršulinska Ulica, Varaždin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128540",
+      "photo_urls": []
+    },
+    {
+      "id": "128541",
+      "title": "Franjeva&#269;ka Crkva",
+      "latitude": 46.307973,
+      "longitude": 16.33676,
+      "directions": "On Franjeva&#269;ki Trg, Varaždin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128541",
+      "photo_urls": []
+    },
+    {
+      "id": "128591",
+      "title": "Ratni spomenik iz 1915",
+      "latitude": 46.307915,
+      "longitude": 16.336509,
+      "directions": "On Franjeva&#269;ki Trg, Varaždin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128591",
+      "photo_urls": []
+    },
+    {
+      "id": "128596",
+      "title": "Županijska Pala&#269;a",
+      "latitude": 46.307746,
+      "longitude": 16.336778,
+      "directions": "On Ulica Ivana Gunduli&#263;a, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128596",
+      "photo_urls": []
+    },
+    {
+      "id": "128601",
+      "title": "Krinolina Ljubavi",
+      "latitude": 46.308089,
+      "longitude": 16.337115,
+      "directions": "On Ulica Silvija Strahumira Kranj&#269;evi&#263;a, Varaždin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128601",
+      "photo_urls": []
+    },
+    {
+      "id": "128648",
+      "title": "Marija Terezüa Habsturško-Lotarinška",
+      "latitude": 46.307751,
+      "longitude": 16.336755,
+      "directions": "On Ulica Ivana Gunduli&#263;a, Varaždin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128648",
+      "photo_urls": []
+    },
+    {
+      "id": "128651",
+      "title": "Grad Tekstila",
+      "latitude": 46.307952,
+      "longitude": 16.337225,
+      "directions": "On Franjeva&#269;ki Trg, Varaždin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128651",
+      "photo_urls": []
+    },
+    {
+      "id": "128719",
+      "title": "Ku&#263;a Ritz",
+      "latitude": 46.308046,
+      "longitude": 16.337599,
+      "directions": "On Trg kralja Tomislava, Varaždin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128719",
+      "photo_urls": []
+    },
+    {
+      "id": "128721",
+      "title": "Ku&#263;a Jaccomini",
+      "latitude": 46.30827,
+      "longitude": 16.337663,
+      "directions": "On Trg kralja Tomislava, Varaždin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128721",
+      "photo_urls": []
+    },
+    {
+      "id": "128722",
+      "title": "Gradska Vije&#263;nica",
+      "latitude": 46.30853,
+      "longitude": 16.337812,
+      "directions": "On Trg kralja Tomislava, Varaždin, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128722",
+      "photo_urls": []
+    },
+    {
+      "id": "128727",
+      "title": "Pala&#269;a Draškovi&#263;",
+      "latitude": 46.308052,
+      "longitude": 16.33799,
+      "directions": "On Trg kralja Tomislava, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128727",
+      "photo_urls": []
+    },
+    {
+      "id": "128728",
+      "title": "Isusova&#269;ki Samostan",
+      "latitude": 46.307744,
+      "longitude": 16.33818,
+      "directions": "On Pavlinska Ulica, Varaždin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128728",
+      "photo_urls": []
+    },
+    {
+      "id": "128871",
+      "title": "Ku&#263;a Baki&#263;",
+      "latitude": 46.307848,
+      "longitude": 16.337826,
+      "directions": "On Franjeva&#269;ki Trg, Varaždin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128871",
+      "photo_urls": []
+    },
+    {
+      "id": "128872",
+      "title": "Josip II. Habsturško-Lotarinška",
+      "latitude": 46.30781,
+      "longitude": 16.338181,
+      "directions": "On Pavlinska Ulica, Varaždin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128872",
+      "photo_urls": []
+    },
+    {
+      "id": "128873",
+      "title": "Pala&#269;a Pata&#269;i&#263; - Bužan",
+      "latitude": 46.307988,
+      "longitude": 16.336973,
+      "directions": "On Franjeva&#269;ki Trg, Varaždin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128873",
+      "photo_urls": []
+    },
+    {
+      "id": "128874",
+      "title": "Žitnica",
+      "latitude": 46.309572,
+      "longitude": 16.334426,
+      "directions": "On Uršulinska Ulica, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128874",
+      "photo_urls": []
+    },
+    {
+      "id": "128875",
+      "title": "Kula Stražarnica",
+      "latitude": 46.309466,
+      "longitude": 16.335352,
+      "directions": "On Baka&#269;eva Ulica, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128875",
+      "photo_urls": []
+    },
+    {
+      "id": "128908",
+      "title": "Starí Grad",
+      "latitude": 46.310124,
+      "longitude": 16.334382,
+      "directions": "On Baka&#269;eva Ulica, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128908",
+      "photo_urls": []
+    },
+    {
+      "id": "128909",
+      "title": "Varaždin - Stari grad",
+      "latitude": 46.309559,
+      "longitude": 16.334753,
+      "directions": "Near Baka&#269;eva Ulica, Varaždin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128909",
+      "photo_urls": []
+    },
+    {
+      "id": "128932",
+      "title": "Bogoslav Šulek",
+      "latitude": 45.81114846,
+      "longitude": 15.97438556,
+      "directions": "On Ulica Nikole Tesle, Zagreb, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128932",
+      "photo_urls": []
+    },
+    {
+      "id": "128937",
+      "title": "Nikola Tesla",
+      "latitude": 45.816375,
+      "longitude": 15.973255,
+      "directions": "On Trg Svetog Marka, Zagreb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128937",
+      "photo_urls": []
+    },
+    {
+      "id": "128964",
+      "title": "Old City Hall",
+      "latitude": 45.816498,
+      "longitude": 15.973296,
+      "directions": "On Trg Sv. Marka (St. Marks Square), Zagreb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128964",
+      "photo_urls": []
+    },
+    {
+      "id": "270083",
+      "title": "Javni Zahod iz 1905 / Public Restroom from 1905",
+      "latitude": 45.80541959,
+      "longitude": 15.97167811,
+      "directions": "Near Mihanoviceva ulica, Zagreb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270083",
+      "photo_urls": []
+    },
+    {
+      "id": "270520",
+      "title": "Ku&#263;a Pelješkog Pomorskog Društva",
+      "latitude": 42.97420399,
+      "longitude": 17.17836891,
+      "directions": "On Obala Pomoraca, Orebic, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270520",
+      "photo_urls": []
+    }
+  ]
+}
