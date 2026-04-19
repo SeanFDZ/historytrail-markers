@@ -1,0 +1,119 @@
+{
+  "region_id": "jp-japan",
+  "region_name": "Japan",
+  "region_type": "country",
+  "country": "Japan",
+  "generated": "2026-04-19T06:09:40.658Z",
+  "source_timestamp": "2026-04-19T06:09:40.658Z",
+  "marker_count": 12,
+  "markers": [
+    {
+      "id": "113707",
+      "title": "Ryoma Sakamoto and Shintaro Nakaoka Assassinated Here",
+      "latitude": 35.007607,
+      "longitude": 135.759502,
+      "directions": "On Kawaramachi-dori, Kyoto, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113707",
+      "photo_urls": []
+    },
+    {
+      "id": "232068",
+      "title": "Commemorating the Battle of Iwo Jima",
+      "latitude": 24.80742018,
+      "longitude": 141.325668,
+      "directions": "Near , I&#333;jima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232068",
+      "photo_urls": []
+    },
+    {
+      "id": "243960",
+      "title": "Aioi Bridge",
+      "latitude": 34.396074,
+      "longitude": 132.45321,
+      "directions": "On Aioi-dori Avenue, Hiroshima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243960",
+      "photo_urls": []
+    },
+    {
+      "id": "243961",
+      "title": "Hypocenter",
+      "latitude": 34.3947907,
+      "longitude": 132.45470703,
+      "directions": "On , Hiroshima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243961",
+      "photo_urls": []
+    },
+    {
+      "id": "274347",
+      "title": "Higashiyama New Saigoku Thirty-Three Kannon Bodhisattvas",
+      "latitude": 33.94988333,
+      "longitude": 132.0011,
+      "directions": "On Route 22, Tabuse, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=274347",
+      "photo_urls": []
+    },
+    {
+      "id": "276227",
+      "title": "&#29509;&#23376;&#12364;&#12356;&#12427;&#23478; / House of the Lion",
+      "latitude": 26.17191111,
+      "longitude": 127.34648611,
+      "directions": "On Doro, Tokashiki, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276227",
+      "photo_urls": []
+    },
+    {
+      "id": "276237",
+      "title": "Aharen Beach and Bonito Fishing",
+      "latitude": 26.17098333,
+      "longitude": 127.34515278,
+      "directions": "Near Path to beach, Tokashiki, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276237",
+      "photo_urls": []
+    },
+    {
+      "id": "276477",
+      "title": "The Hiroshima Prefectural Industrial Promotion Hall",
+      "latitude": 34.39508333,
+      "longitude": 132.45272222,
+      "directions": "On Doro, Hiroshima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276477",
+      "photo_urls": []
+    },
+    {
+      "id": "276506",
+      "title": "Hiroshima Peace Memorial (Genbaku Dome), World Heritage Site",
+      "latitude": 34.39502222,
+      "longitude": 132.45356667,
+      "directions": "On Doro, Hiroshima, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276506",
+      "photo_urls": []
+    },
+    {
+      "id": "276907",
+      "title": "&#19977;&#26609;&#31070;&#31038; / Mihashira Shrine",
+      "latitude": 33.17002778,
+      "longitude": 130.41445278,
+      "directions": "On Doro, Yanagawa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276907",
+      "photo_urls": []
+    },
+    {
+      "id": "294997",
+      "title": "Takatora T&#333;d&#333;'s Tea Ceremony House",
+      "latitude": 35.71782778,
+      "longitude": 139.77211111,
+      "directions": "Near Ueno Zoo, Taito City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294997",
+      "photo_urls": []
+    },
+    {
+      "id": "295810",
+      "title": "Ako Gishi Graves / &#32681;&#22763;&#22675;&#35299;&#35500;",
+      "latitude": 35.63710833,
+      "longitude": 139.73673889,
+      "directions": "Near 11-1, Takanawa 2-ch&#333;me, Minato City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295810",
+      "photo_urls": []
+    }
+  ]
+}
