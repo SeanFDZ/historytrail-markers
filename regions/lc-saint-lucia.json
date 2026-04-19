@@ -1,0 +1,344 @@
+{
+  "region_id": "lc-saint-lucia",
+  "region_name": "Saint Lucia",
+  "region_type": "country",
+  "country": "Saint Lucia",
+  "generated": "2026-04-19T06:09:40.658Z",
+  "source_timestamp": "2026-04-19T06:09:40.658Z",
+  "marker_count": 37,
+  "markers": [
+    {
+      "id": "116638",
+      "title": "Choc Bay War Cemetery",
+      "latitude": 14.02226514,
+      "longitude": -60.98708618,
+      "directions": "Near Peninsular Road, Castries, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116638",
+      "photo_urls": []
+    },
+    {
+      "id": "116642",
+      "title": "Jean Baptiste Bideau",
+      "latitude": 14.01065521,
+      "longitude": -60.98993205,
+      "directions": "On Laborie Street, Castries, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116642",
+      "photo_urls": []
+    },
+    {
+      "id": "116646",
+      "title": "Simon Bolivar",
+      "latitude": 14.01077501,
+      "longitude": -60.98993461,
+      "directions": "On Laborie Street, Castries, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116646",
+      "photo_urls": []
+    },
+    {
+      "id": "116647",
+      "title": "The “Cannon” at Walcott Place",
+      "latitude": 14.00769018,
+      "longitude": -60.9878323,
+      "directions": "On Chausee Road, Castries, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116647",
+      "photo_urls": []
+    },
+    {
+      "id": "116692",
+      "title": "Sir John George Melvin Compton",
+      "latitude": 14.01000444,
+      "longitude": -60.98992927,
+      "directions": "On Laborie Street, Castries, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116692",
+      "photo_urls": []
+    },
+    {
+      "id": "116717",
+      "title": "Cooperage",
+      "latitude": 14.09222222,
+      "longitude": -60.96361111,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116717",
+      "photo_urls": []
+    },
+    {
+      "id": "116718",
+      "title": "The Bells of Gros Islet",
+      "latitude": 14.08170748,
+      "longitude": -60.95237421,
+      "directions": "On Saint John Street, Gros Islet, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116718",
+      "photo_urls": []
+    },
+    {
+      "id": "122803",
+      "title": "José Martí",
+      "latitude": 14.07525417,
+      "longitude": -60.95247825,
+      "directions": "On Flamboyant Drive, Rodney Bay, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122803",
+      "photo_urls": []
+    },
+    {
+      "id": "122851",
+      "title": "Charles Eugene Gabriel de la Croix, Marquis de Castries",
+      "latitude": 14.01210399,
+      "longitude": -60.98698399,
+      "directions": "On Darling Road, Castries, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122851",
+      "photo_urls": []
+    },
+    {
+      "id": "122869",
+      "title": "Free French World War II Memorial",
+      "latitude": 14.01179033,
+      "longitude": -60.98693529,
+      "directions": "Near Darling Road, Castries, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122869",
+      "photo_urls": []
+    },
+    {
+      "id": "122874",
+      "title": "Welcome to Rivière Dorée Grace Church",
+      "latitude": 13.76487885,
+      "longitude": -61.03622051,
+      "directions": "On Leeward Highway, Rivière Dorée, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122874",
+      "photo_urls": []
+    },
+    {
+      "id": "122884",
+      "title": "Holy Trinity Anglican Church Foundation Stone",
+      "latitude": 14.01149898,
+      "longitude": -60.9871166,
+      "directions": "On Trinity Church Road, Castries, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=122884",
+      "photo_urls": []
+    },
+    {
+      "id": "135660",
+      "title": "Derek Walcott Square",
+      "latitude": 14.00889376,
+      "longitude": -60.99046554,
+      "directions": "On Laborie Stree, Castries, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135660",
+      "photo_urls": []
+    },
+    {
+      "id": "135661",
+      "title": "In Memory of Two Banana Farmers Killed",
+      "latitude": 13.93173201,
+      "longitude": -60.93085183,
+      "directions": "On Micoud Highway, Grande Riviere, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135661",
+      "photo_urls": []
+    },
+    {
+      "id": "188061",
+      "title": "Soldiers' Barracks",
+      "latitude": 14.093621,
+      "longitude": -60.96299,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188061",
+      "photo_urls": []
+    },
+    {
+      "id": "217664",
+      "title": "Pétronille Dwine",
+      "latitude": 13.91058166,
+      "longitude": -60.89411641,
+      "directions": "On Micoud Highway, Anse Canot, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217664",
+      "photo_urls": []
+    },
+    {
+      "id": "82686",
+      "title": "William Arthur Lewis",
+      "latitude": 13.997053,
+      "longitude": -60.99408,
+      "directions": "On , Castries, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82686",
+      "photo_urls": []
+    },
+    {
+      "id": "82687",
+      "title": "The Pitons World Heritage Site",
+      "latitude": 13.86936,
+      "longitude": -61.04535,
+      "directions": "On , near Soufrière, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82687",
+      "photo_urls": []
+    },
+    {
+      "id": "82690",
+      "title": "U.S. Signal Station",
+      "latitude": 14.091393,
+      "longitude": -60.96633,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82690",
+      "photo_urls": []
+    },
+    {
+      "id": "82691",
+      "title": "Musket Redoubt",
+      "latitude": 14.091799,
+      "longitude": -60.9661,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82691",
+      "photo_urls": []
+    },
+    {
+      "id": "82692",
+      "title": "Ridge Battery",
+      "latitude": 14.092141,
+      "longitude": -60.9658,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82692",
+      "photo_urls": []
+    },
+    {
+      "id": "82693",
+      "title": "Fort Rodney",
+      "latitude": 14.091339,
+      "longitude": -60.96682,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82693",
+      "photo_urls": []
+    },
+    {
+      "id": "82694",
+      "title": "Gunslide",
+      "latitude": 14.093111,
+      "longitude": -60.96485,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82694",
+      "photo_urls": []
+    },
+    {
+      "id": "82695",
+      "title": "Lime Kiln",
+      "latitude": 14.092262,
+      "longitude": -60.96409,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82695",
+      "photo_urls": []
+    },
+    {
+      "id": "82696",
+      "title": "Josset's House",
+      "latitude": 14.091051,
+      "longitude": -60.9652,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82696",
+      "photo_urls": []
+    },
+    {
+      "id": "82697",
+      "title": "Carib Caves",
+      "latitude": 14.090537,
+      "longitude": -60.96618,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82697",
+      "photo_urls": []
+    },
+    {
+      "id": "82716",
+      "title": "C.O.'s Quarters",
+      "latitude": 14.092462,
+      "longitude": -60.9632,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82716",
+      "photo_urls": []
+    },
+    {
+      "id": "82719",
+      "title": "Officers' Quarters and Mess",
+      "latitude": 14.093826,
+      "longitude": -60.96232,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82719",
+      "photo_urls": []
+    },
+    {
+      "id": "82875",
+      "title": "Officers' Kitchen",
+      "latitude": 14.09342778,
+      "longitude": -60.96202778,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82875",
+      "photo_urls": []
+    },
+    {
+      "id": "82926",
+      "title": "27th Inniskilling Regiment",
+      "latitude": 13.99634167,
+      "longitude": -60.99300833,
+      "directions": "On , Castries, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82926",
+      "photo_urls": []
+    },
+    {
+      "id": "82930",
+      "title": "Inniskilling Fusiliers: 27th (Inniskilling) Regiment of Foot",
+      "latitude": 13.99631667,
+      "longitude": -60.99302222,
+      "directions": "On , Castries, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82930",
+      "photo_urls": []
+    },
+    {
+      "id": "83231",
+      "title": "Two-Gun Battery",
+      "latitude": 14.094131,
+      "longitude": -60.96313,
+      "directions": "On , Pigeon Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83231",
+      "photo_urls": []
+    },
+    {
+      "id": "93815",
+      "title": "World Wars Memorial",
+      "latitude": 14.00884444,
+      "longitude": -60.99101389,
+      "directions": "On Bourbon Street, Castries, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93815",
+      "photo_urls": []
+    },
+    {
+      "id": "93903",
+      "title": "Sir William Arthur Lewis",
+      "latitude": 14.00876111,
+      "longitude": -60.99068889,
+      "directions": "On Laborie Street, Castries, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93903",
+      "photo_urls": []
+    },
+    {
+      "id": "93908",
+      "title": "Hon. Derek Alton Walcott",
+      "latitude": 14.008825,
+      "longitude": -60.99070278,
+      "directions": "On Laborie Street, Castries, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93908",
+      "photo_urls": []
+    },
+    {
+      "id": "94171",
+      "title": "Government House Saint Lucia",
+      "latitude": 14.00543333,
+      "longitude": -60.99725,
+      "directions": "On Government House Road, Castries, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94171",
+      "photo_urls": []
+    },
+    {
+      "id": "94219",
+      "title": "Sir George Frederick Lawrence Charles",
+      "latitude": 14.02049722,
+      "longitude": -60.99462222,
+      "directions": "Near Peninsular Road, Castries, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94219",
+      "photo_urls": []
+    }
+  ]
+}
