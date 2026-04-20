@@ -1,0 +1,74 @@
+{
+  "region_id": "cu-cuba",
+  "region_name": "Cuba",
+  "region_type": "country",
+  "country": "Cuba",
+  "generated": "2026-04-20T06:07:37.338Z",
+  "source_timestamp": "2026-04-20T06:07:37.338Z",
+  "marker_count": 7,
+  "markers": [
+    {
+      "id": "219740",
+      "title": "Fragmento de la Muralla de La Habana",
+      "latitude": 23.14202706,
+      "longitude": -82.35646378,
+      "directions": "On Avenida Bélgica, La Habana, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219740",
+      "photo_urls": []
+    },
+    {
+      "id": "219863",
+      "title": "The Mural of the Prehistory",
+      "latitude": 22.61898318,
+      "longitude": -83.74206799,
+      "directions": "Near Valle de Dos Hermanas, Viñales, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219863",
+      "photo_urls": []
+    },
+    {
+      "id": "219864",
+      "title": "Carlos J. Zerquera y Fernández de Lara",
+      "latitude": 21.80570659,
+      "longitude": -79.98449908,
+      "directions": "On Calle Cristo, Trinidad, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219864",
+      "photo_urls": []
+    },
+    {
+      "id": "219929",
+      "title": "Roberto López Bastida",
+      "latitude": 21.80247376,
+      "longitude": -79.98456481,
+      "directions": "On Calle Gutiérrez, Trinidad, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219929",
+      "photo_urls": []
+    },
+    {
+      "id": "219968",
+      "title": "Don Antonio Herr y Grau",
+      "latitude": 21.80259228,
+      "longitude": -79.98481874,
+      "directions": "On Calle Gutiérrez, Trinidad, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=219968",
+      "photo_urls": []
+    },
+    {
+      "id": "246096",
+      "title": "Columbus Landed Here",
+      "latitude": 19.91967001,
+      "longitude": -75.16220313,
+      "directions": "Near Windward Road, Guantanamo Bay Naval Base, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=246096",
+      "photo_urls": []
+    },
+    {
+      "id": "270580",
+      "title": "Primeras conversaciones telefónicas en lengua española",
+      "latitude": 23.13725182,
+      "longitude": -82.3509027,
+      "directions": "On Amargura, La Habana, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=270580",
+      "photo_urls": []
+    }
+  ]
+}
