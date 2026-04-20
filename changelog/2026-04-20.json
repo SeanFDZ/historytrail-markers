@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-20",
+  "run_id": 110,
+  "cycle_day": 26,
+  "regions_processed": [
+    "bb-barbados"
+  ],
+  "changes": {
+    "bb-barbados": {
+      "added": 16,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 366,
+  "total_removed": 0,
+  "total_modified": 0
+}
