@@ -1,0 +1,110 @@
+{
+  "region_id": "tg-togo",
+  "region_name": "Togo",
+  "region_type": "country",
+  "country": "Togo",
+  "generated": "2026-04-20T06:07:37.339Z",
+  "source_timestamp": "2026-04-20T06:07:37.339Z",
+  "marker_count": 11,
+  "markers": [
+    {
+      "id": "228982",
+      "title": "Independence of Togo",
+      "latitude": 6.12991673,
+      "longitude": 1.21599823,
+      "directions": "On Avenue 2 Fevrier, Lomé, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228982",
+      "photo_urls": []
+    },
+    {
+      "id": "229043",
+      "title": "Paul Ahyi, Forces Vives, 1989",
+      "latitude": 6.12528322,
+      "longitude": 1.21033118,
+      "directions": "On Rue Agoucon, Lomé, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229043",
+      "photo_urls": []
+    },
+    {
+      "id": "231372",
+      "title": "The Sacred Heart of Jesus of Lomé Cathedral",
+      "latitude": 6.12505963,
+      "longitude": 1.22618795,
+      "directions": "On Rue Tokmake, Lomé, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231372",
+      "photo_urls": []
+    },
+    {
+      "id": "231449",
+      "title": "The Wharf of Lomé",
+      "latitude": 6.12254958,
+      "longitude": 1.22269747,
+      "directions": "On Boulevard de la République, Lomé, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231449",
+      "photo_urls": []
+    },
+    {
+      "id": "231881",
+      "title": "Wahala World War I Cemetery",
+      "latitude": 7.17455502,
+      "longitude": 1.16710005,
+      "directions": "Near N1, Wahala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231881",
+      "photo_urls": []
+    },
+    {
+      "id": "240292",
+      "title": "Former Central Railroad Station of Lomé",
+      "latitude": 6.1301787,
+      "longitude": 1.2195261,
+      "directions": "On Avenue de Calais, Lomé, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240292",
+      "photo_urls": []
+    },
+    {
+      "id": "240294",
+      "title": "The Lomé Advanced Training School",
+      "latitude": 6.13070098,
+      "longitude": 1.22264576,
+      "directions": "On Avenue de 24 Janvier, Lomé, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240294",
+      "photo_urls": []
+    },
+    {
+      "id": "240937",
+      "title": "Togo in 1914",
+      "latitude": 7.17446982,
+      "longitude": 1.16715635,
+      "directions": "On N1, Wahala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240937",
+      "photo_urls": []
+    },
+    {
+      "id": "241202",
+      "title": "The Battle of Chra",
+      "latitude": 7.17443351,
+      "longitude": 1.16712748,
+      "directions": "Near N1, Wahala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241202",
+      "photo_urls": []
+    },
+    {
+      "id": "241204",
+      "title": "The Consequences of the War in Togo",
+      "latitude": 7.17444131,
+      "longitude": 1.16709658,
+      "directions": "Near N1, Wahala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241204",
+      "photo_urls": []
+    },
+    {
+      "id": "243566",
+      "title": "The Cathedral of Kpalimé",
+      "latitude": 6.90834815,
+      "longitude": 0.63083941,
+      "directions": "On , Kpalimé, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243566",
+      "photo_urls": []
+    }
+  ]
+}
