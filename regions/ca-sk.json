@@ -1,0 +1,1469 @@
+{
+  "region_id": "ca-sk",
+  "region_name": "Saskatchewan",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-20T06:07:37.336Z",
+  "source_timestamp": "2026-04-20T06:07:37.336Z",
+  "marker_count": 162,
+  "markers": [
+    {
+      "id": "196883",
+      "title": "C.P.R. Station, Saskatoon/Gare du C.P. (Saskatoon)",
+      "latitude": 52.13262,
+      "longitude": -106.67066,
+      "directions": "On Idylwyld Drive North (Route 1) , Saskatoon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196883",
+      "photo_urls": []
+    },
+    {
+      "id": "196884",
+      "title": "Firehall No. 3",
+      "latitude": 52.11872,
+      "longitude": -106.65577,
+      "directions": "On 11th Street East, Saskatoon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196884",
+      "photo_urls": []
+    },
+    {
+      "id": "196885",
+      "title": "Saskatoon Land Titles Building",
+      "latitude": 52.12654,
+      "longitude": -106.66219,
+      "directions": "On 21st Street East, Saskatoon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196885",
+      "photo_urls": []
+    },
+    {
+      "id": "196886",
+      "title": "Humboldt Water Tower",
+      "latitude": 52.1955,
+      "longitude": -105.11717,
+      "directions": "On 3rd Avenue, Humboldt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196886",
+      "photo_urls": []
+    },
+    {
+      "id": "196887",
+      "title": "Humboldt and District Museum and Gallery",
+      "latitude": 52.19904,
+      "longitude": -105.12275,
+      "directions": "On Main Street (State Route 20) , Humboldt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196887",
+      "photo_urls": []
+    },
+    {
+      "id": "196889",
+      "title": "Old Humboldt Post Office",
+      "latitude": 52.19894,
+      "longitude": -105.12273,
+      "directions": "On Main Street (State Route 20) , Humboldt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196889",
+      "photo_urls": []
+    },
+    {
+      "id": "196890",
+      "title": "Old Humboldt Post Office / Ancien bureau de poste",
+      "latitude": 52.1989883,
+      "longitude": -105.12273,
+      "directions": "On Main Street (State Route 20) , Humboldt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196890",
+      "photo_urls": []
+    },
+    {
+      "id": "196891",
+      "title": "Melfort Water Tower",
+      "latitude": 52.86181,
+      "longitude": -104.61612,
+      "directions": "On Broadway Avenue North, Melfort, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196891",
+      "photo_urls": []
+    },
+    {
+      "id": "196893",
+      "title": "Prince Albert City Hall / L’hôtel de ville de Prince Albert",
+      "latitude": 53.20362,
+      "longitude": -105.75408,
+      "directions": "On Central Avenue, Prince Albert, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196893",
+      "photo_urls": []
+    },
+    {
+      "id": "196894",
+      "title": "Prince Albert Town Hall–Opera House",
+      "latitude": 53.203619,
+      "longitude": -105.754083,
+      "directions": "On Central Avenue, Prince Albert, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196894",
+      "photo_urls": []
+    },
+    {
+      "id": "196896",
+      "title": "Prince Albert Fire Department",
+      "latitude": 53.20601109,
+      "longitude": -105.75442524,
+      "directions": "On River Street, Prince Albert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196896",
+      "photo_urls": []
+    },
+    {
+      "id": "196898",
+      "title": "North Battleford Public Library",
+      "latitude": 52.77317,
+      "longitude": -108.29941,
+      "directions": "On Railway Avenue East, North Battleford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196898",
+      "photo_urls": []
+    },
+    {
+      "id": "196899",
+      "title": "Standpipe Reservoir",
+      "latitude": 51.91774152,
+      "longitude": -109.14285766,
+      "directions": "On Columbia Avenue, Kerrobert, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196899",
+      "photo_urls": []
+    },
+    {
+      "id": "196900",
+      "title": "Courthouse",
+      "latitude": 51.91814,
+      "longitude": -109.13828,
+      "directions": "On Manitoba Avenue, Kerrobert, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196900",
+      "photo_urls": []
+    },
+    {
+      "id": "196901",
+      "title": "Bank of Commerce",
+      "latitude": 51.91913233,
+      "longitude": -109.13502279,
+      "directions": "On Bosworth Street, Kerrobert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196901",
+      "photo_urls": []
+    },
+    {
+      "id": "196902",
+      "title": "Strongfield Cenotaph",
+      "latitude": 51.33206,
+      "longitude": -106.59674,
+      "directions": "On Broadway Street, Strongfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196902",
+      "photo_urls": []
+    },
+    {
+      "id": "196903",
+      "title": "Regina's Lake 1883–1960",
+      "latitude": 50.43601,
+      "longitude": -104.61753,
+      "directions": "Near Walter Scott Way, Regina, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196903",
+      "photo_urls": []
+    },
+    {
+      "id": "196905",
+      "title": "The Evolution of a Bridge",
+      "latitude": 50.43608,
+      "longitude": -104.61788,
+      "directions": "Near Walter Scott Way, Regina, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196905",
+      "photo_urls": []
+    },
+    {
+      "id": "196906",
+      "title": "Government House",
+      "latitude": 50.45429436,
+      "longitude": -104.64711161,
+      "directions": "Near Hewitt Place, Regina, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196906",
+      "photo_urls": []
+    },
+    {
+      "id": "196918",
+      "title": "Albert Library",
+      "latitude": 50.45657876,
+      "longitude": -104.62373943,
+      "directions": "On Robinson Street, Regina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196918",
+      "photo_urls": []
+    },
+    {
+      "id": "196919",
+      "title": "Connaught Library",
+      "latitude": 50.44538258,
+      "longitude": -104.63080839,
+      "directions": "On 13th Avenue, Regina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196919",
+      "photo_urls": []
+    },
+    {
+      "id": "196920",
+      "title": "Saskatchewan Revenue Building",
+      "latitude": 50.44903905,
+      "longitude": -104.61500498,
+      "directions": "On Smith Street, Regina, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196920",
+      "photo_urls": []
+    },
+    {
+      "id": "196921",
+      "title": "Regina Land Titles Building",
+      "latitude": 50.44701,
+      "longitude": -104.61275,
+      "directions": "On Victoria Avenue, Regina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196921",
+      "photo_urls": []
+    },
+    {
+      "id": "196922",
+      "title": "The Mortlach Fire Brigade",
+      "latitude": 50.45302811,
+      "longitude": -106.06737229,
+      "directions": "On Second Avenue, Mortlach, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196922",
+      "photo_urls": []
+    },
+    {
+      "id": "196924",
+      "title": "Main Street from CPR Station, c. 1908",
+      "latitude": 50.38937,
+      "longitude": -105.53486,
+      "directions": "On Manitoba Street West (State Route 363) , Moose Jaw, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196924",
+      "photo_urls": []
+    },
+    {
+      "id": "196925",
+      "title": "City Hall 1912-14",
+      "latitude": 50.39246426,
+      "longitude": -105.53490784,
+      "directions": "On Main Street North (State Route 2) , Moose Jaw, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196925",
+      "photo_urls": []
+    },
+    {
+      "id": "196926",
+      "title": "Public Library 1912-13",
+      "latitude": 50.39486136,
+      "longitude": -105.53201173,
+      "directions": "Near Langdon Crescent, Moose Jaw, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196926",
+      "photo_urls": []
+    },
+    {
+      "id": "196928",
+      "title": "Fire Hall 1909-10",
+      "latitude": 50.39269,
+      "longitude": -105.53813,
+      "directions": "On Fairford Street West, Moose Jaw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196928",
+      "photo_urls": []
+    },
+    {
+      "id": "196929",
+      "title": "Central Fire Station",
+      "latitude": 50.3927,
+      "longitude": -105.5381,
+      "directions": "On Fairford Street West, Moose Jaw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196929",
+      "photo_urls": []
+    },
+    {
+      "id": "196930",
+      "title": "Court House/Land Titles Building",
+      "latitude": 50.28979306,
+      "longitude": -107.80233376,
+      "directions": "On Lorne Street West, Swift Current, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196930",
+      "photo_urls": []
+    },
+    {
+      "id": "196931",
+      "title": "Maple Creek Cenotaph",
+      "latitude": 49.90761,
+      "longitude": -109.47938,
+      "directions": "On Jasper Street, Maple Creek, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196931",
+      "photo_urls": []
+    },
+    {
+      "id": "200632",
+      "title": "Wolseley Town Hall-Opera House",
+      "latitude": 50.42415506,
+      "longitude": -103.27116201,
+      "directions": "On Varennes Street, Wolseley, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200632",
+      "photo_urls": []
+    },
+    {
+      "id": "200678",
+      "title": "Harry Mullin",
+      "latitude": 50.14372675,
+      "longitude": -101.66592311,
+      "directions": "On Broadway Avenue, Moosomin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200678",
+      "photo_urls": []
+    },
+    {
+      "id": "200748",
+      "title": "Broadview War Memorial",
+      "latitude": 50.37874333,
+      "longitude": -102.57872833,
+      "directions": "On 6th Avenue, Broadview, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200748",
+      "photo_urls": []
+    },
+    {
+      "id": "200759",
+      "title": "Bell Farm",
+      "latitude": 50.52916156,
+      "longitude": -103.66540569,
+      "directions": "On North Railway Avenue, Indian Head, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200759",
+      "photo_urls": []
+    },
+    {
+      "id": "200761",
+      "title": "The Bell Barn: A Unique Symbol of Our Agricultural History",
+      "latitude": 50.55213609,
+      "longitude": -103.6798959,
+      "directions": "On State Route 56, Indian Head, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=200761",
+      "photo_urls": []
+    },
+    {
+      "id": "201009",
+      "title": "Pense War Memorial",
+      "latitude": 50.41403569,
+      "longitude": -104.98308023,
+      "directions": "On North Front Street, Pense, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201009",
+      "photo_urls": []
+    },
+    {
+      "id": "201010",
+      "title": "Chaplin Veterans Memorial",
+      "latitude": 50.46071177,
+      "longitude": -106.6558634,
+      "directions": "On 4th Street, Chaplin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201010",
+      "photo_urls": []
+    },
+    {
+      "id": "201011",
+      "title": "Old Morse School",
+      "latitude": 50.41608951,
+      "longitude": -107.04326895,
+      "directions": "On McKenzie Street, Morse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201011",
+      "photo_urls": []
+    },
+    {
+      "id": "201051",
+      "title": "Saskatchewan Landing",
+      "latitude": 50.64728423,
+      "longitude": -107.96329064,
+      "directions": "Near State Route 4, near Stewart Valley, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201051",
+      "photo_urls": []
+    },
+    {
+      "id": "201114",
+      "title": "Hamlet of Antelope",
+      "latitude": 50.14695702,
+      "longitude": -108.32865903,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Antelope, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201114",
+      "photo_urls": []
+    },
+    {
+      "id": "201115",
+      "title": "Kemmel Hill",
+      "latitude": 50.14695567,
+      "longitude": -108.32866649,
+      "directions": "Near Trans-Canada Highway (State Route 1) , Antelope, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201115",
+      "photo_urls": []
+    },
+    {
+      "id": "201262",
+      "title": "Swift Current - Maple Creek Trail",
+      "latitude": 50.13534134,
+      "longitude": -108.41754675,
+      "directions": "Near Trans-Canada Highway (National Route 1) , near Gull Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201262",
+      "photo_urls": []
+    },
+    {
+      "id": "201268",
+      "title": "Wong Guy Shoe Shop",
+      "latitude": 50.09524464,
+      "longitude": -108.48457197,
+      "directions": "On Proton Avenue (State Route 37) , Gull Lake, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201268",
+      "photo_urls": []
+    },
+    {
+      "id": "201271",
+      "title": "Creation of the Province of Saskatchewan",
+      "latitude": 50.44754056,
+      "longitude": -104.61221523,
+      "directions": "Near Victoria Avenue, Regina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201271",
+      "photo_urls": []
+    },
+    {
+      "id": "201376",
+      "title": "Military Nurses of Canada / Les infirmières militaires du Canada",
+      "latitude": 50.43291071,
+      "longitude": -104.61746144,
+      "directions": "On Memorial Way, Regina, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201376",
+      "photo_urls": []
+    },
+    {
+      "id": "201571",
+      "title": "The \"76\" Ranch",
+      "latitude": 50.01823874,
+      "longitude": -109.06865685,
+      "directions": "On Trans-Canada Highway (State Route 1) , Piapot, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201571",
+      "photo_urls": []
+    },
+    {
+      "id": "201573",
+      "title": "The Lister-Kaye Enterprises",
+      "latitude": 50.01823392,
+      "longitude": -109.06867082,
+      "directions": "On Trans-Canada Highway (State Route 1) , Piapot, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201573",
+      "photo_urls": []
+    },
+    {
+      "id": "201581",
+      "title": "The Ranching Industry",
+      "latitude": 50.01822798,
+      "longitude": -109.0686857,
+      "directions": "On Trans-Canada Highway (State Route 1) , Piapot, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=201581",
+      "photo_urls": []
+    },
+    {
+      "id": "202457",
+      "title": "Private George Lawrence Price",
+      "latitude": 50.39382236,
+      "longitude": -105.53167115,
+      "directions": "Near Langdon Crescent, Moose Jaw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202457",
+      "photo_urls": []
+    },
+    {
+      "id": "202460",
+      "title": "Third Meridian",
+      "latitude": 50.46619234,
+      "longitude": -106.00505208,
+      "directions": "On Trans-Canada Highway (State Route 1) , near Mortlach, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202460",
+      "photo_urls": []
+    },
+    {
+      "id": "202461",
+      "title": "First United Church",
+      "latitude": 50.28523997,
+      "longitude": -107.79577994,
+      "directions": "On 3 Avenue Northeast, Swift Current, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202461",
+      "photo_urls": []
+    },
+    {
+      "id": "202597",
+      "title": "Fort Battleford",
+      "latitude": 52.72703794,
+      "longitude": -108.29939055,
+      "directions": "Near Central Avenue, Battleford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202597",
+      "photo_urls": []
+    },
+    {
+      "id": "202598",
+      "title": "Mademoiselle Onésime Dorval",
+      "latitude": 52.81666686,
+      "longitude": -106.21632882,
+      "directions": "Near Anderson Street (State Route 783/212) , Duck Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202598",
+      "photo_urls": []
+    },
+    {
+      "id": "202631",
+      "title": "North West Mounted Police",
+      "latitude": 49.90848832,
+      "longitude": -109.48000467,
+      "directions": "On Maple Street, Maple Creek, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=202631",
+      "photo_urls": []
+    },
+    {
+      "id": "203702",
+      "title": "The John and Olive Diefenbaker Museum / Le Musée John et Olive Diefenbaker",
+      "latitude": 53.1959385,
+      "longitude": -105.76198081,
+      "directions": "On 19 Street West, Prince Albert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203702",
+      "photo_urls": []
+    },
+    {
+      "id": "203717",
+      "title": "Right Honourable John George Diefenbaker",
+      "latitude": 53.20325832,
+      "longitude": -105.75365418,
+      "directions": "Near Central Avenue, Prince Albert, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203717",
+      "photo_urls": []
+    },
+    {
+      "id": "203726",
+      "title": "Wanuskewin",
+      "latitude": 52.22417294,
+      "longitude": -106.59787588,
+      "directions": "On Wanuskewin Heritage Park Access Road, near Saskatoon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203726",
+      "photo_urls": []
+    },
+    {
+      "id": "203733",
+      "title": "Little Chief Service Station",
+      "latitude": 52.12636764,
+      "longitude": -106.67486675,
+      "directions": "Near 20th Street West, Saskatoon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203733",
+      "photo_urls": []
+    },
+    {
+      "id": "203735",
+      "title": "Dr. Seager Wheeler",
+      "latitude": 52.66347175,
+      "longitude": -106.33684202,
+      "directions": "On 6 Street, Rosthern, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203735",
+      "photo_urls": []
+    },
+    {
+      "id": "203736",
+      "title": "First Settlers in the Hague District",
+      "latitude": 52.51167735,
+      "longitude": -106.41557384,
+      "directions": "On Main Street, Hague, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203736",
+      "photo_urls": []
+    },
+    {
+      "id": "203747",
+      "title": "Gerhard Ens",
+      "latitude": 52.66344762,
+      "longitude": -106.33682531,
+      "directions": "On 2 Avenue, Rosthern, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203747",
+      "photo_urls": []
+    },
+    {
+      "id": "203767",
+      "title": "Honor Roll",
+      "latitude": 49.31449544,
+      "longitude": -103.26175019,
+      "directions": "On Appleton Avenue, Macoun, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203767",
+      "photo_urls": []
+    },
+    {
+      "id": "203775",
+      "title": "Estevan Court House",
+      "latitude": 49.1393758,
+      "longitude": -102.99276851,
+      "directions": "On 4 Street (State Route 18/47) , Estevan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203775",
+      "photo_urls": []
+    },
+    {
+      "id": "203782",
+      "title": "\"Coal Miners' Corner\"",
+      "latitude": 49.13897153,
+      "longitude": -102.99180793,
+      "directions": "On 4 Street (State Route 18/47) , Estevan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203782",
+      "photo_urls": []
+    },
+    {
+      "id": "203784",
+      "title": "Weyburn Court House",
+      "latitude": 49.66643578,
+      "longitude": -103.85208728,
+      "directions": "On Prairie Avenue, Weyburn, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203784",
+      "photo_urls": []
+    },
+    {
+      "id": "203787",
+      "title": "Wood Mountain — Fort Qu'Appelle Trail",
+      "latitude": 50.13475444,
+      "longitude": -104.62376161,
+      "directions": "On CanAm Highway (State Route 6) , near Wilcox, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203787",
+      "photo_urls": []
+    },
+    {
+      "id": "203873",
+      "title": "Lang and District",
+      "latitude": 49.91979467,
+      "longitude": -104.37207645,
+      "directions": "On Main Street, Lang, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203873",
+      "photo_urls": []
+    },
+    {
+      "id": "203899",
+      "title": "H.D. McPhail Park",
+      "latitude": 52.77669078,
+      "longitude": -108.29925682,
+      "directions": "On 100 Street (State Route 4) , North Battleford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=203899",
+      "photo_urls": []
+    },
+    {
+      "id": "204855",
+      "title": "Old Wives Massacre",
+      "latitude": 50.0446,
+      "longitude": -105.621922,
+      "directions": "On Snowbird Highway (National Route 2) , near Spring Valley, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204855",
+      "photo_urls": []
+    },
+    {
+      "id": "204860",
+      "title": "Mossbank Gunnery School",
+      "latitude": 49.930033,
+      "longitude": -105.884076,
+      "directions": "On Snowbird Highway (National Route 2) , near Mossbank, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204860",
+      "photo_urls": []
+    },
+    {
+      "id": "204874",
+      "title": "Mossbank Pioneer Post Office",
+      "latitude": 49.895387,
+      "longitude": -105.986679,
+      "directions": "On Snow Bird Highway (National Route 2) , near Mossbank, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204874",
+      "photo_urls": []
+    },
+    {
+      "id": "204884",
+      "title": "Ambroz Blacksmith Shop & Residence",
+      "latitude": 49.941131,
+      "longitude": -105.964326,
+      "directions": "On Main Street (State Route 718) , Mossbank, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=204884",
+      "photo_urls": []
+    },
+    {
+      "id": "205018",
+      "title": "Ettington",
+      "latitude": 49.868065,
+      "longitude": -106.086845,
+      "directions": "On dirt farm lane, near Mazenod, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205018",
+      "photo_urls": []
+    },
+    {
+      "id": "205022",
+      "title": "Frank Ambroz",
+      "latitude": 49.941258,
+      "longitude": -105.964358,
+      "directions": "On Main Street (State Route 718) , Mossbank, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205022",
+      "photo_urls": []
+    },
+    {
+      "id": "205049",
+      "title": "The Legacy of Irene Sutherland R.N",
+      "latitude": 49.637562,
+      "longitude": -106.00446,
+      "directions": "On Redcoat Trail (National Route 2) , near Assiniboia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205049",
+      "photo_urls": []
+    },
+    {
+      "id": "205104",
+      "title": "Wood Mountain-Qu'Appelle Trail",
+      "latitude": 49.790727,
+      "longitude": -105.355984,
+      "directions": "On , near Ormiston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205104",
+      "photo_urls": []
+    },
+    {
+      "id": "205152",
+      "title": "John Macoun",
+      "latitude": 49.612992,
+      "longitude": -108.761284,
+      "directions": "Near , near Eastend, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205152",
+      "photo_urls": []
+    },
+    {
+      "id": "205153",
+      "title": "Pine Cree Park",
+      "latitude": 49.613172,
+      "longitude": -108.761345,
+      "directions": "Near , near Eastend, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205153",
+      "photo_urls": []
+    },
+    {
+      "id": "205154",
+      "title": "Gondney School District 3781",
+      "latitude": 49.476305,
+      "longitude": -105.884825,
+      "directions": "On un-named, un-numbered dirt road, near St. Victor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205154",
+      "photo_urls": []
+    },
+    {
+      "id": "205157",
+      "title": "Assiniboia Court House",
+      "latitude": 49.628192,
+      "longitude": -105.993462,
+      "directions": "On Center Street (National Route 2) , Assiniboia, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205157",
+      "photo_urls": []
+    },
+    {
+      "id": "205162",
+      "title": "In Memory of Edouard Beaupre",
+      "latitude": 49.389661,
+      "longitude": -105.636094,
+      "directions": "On Edouard Beaupre Street, Willow Bunch, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205162",
+      "photo_urls": []
+    },
+    {
+      "id": "205165",
+      "title": "Chimney Coulee",
+      "latitude": 49.57172,
+      "longitude": -108.806946,
+      "directions": "Near Chimney Coulee Road, near Eastend, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205165",
+      "photo_urls": []
+    },
+    {
+      "id": "205198",
+      "title": "Jean-Louis Légaré",
+      "latitude": 49.389901,
+      "longitude": -105.634122,
+      "directions": "On Edouard Beaupre Street, Willow Bunch, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205198",
+      "photo_urls": []
+    },
+    {
+      "id": "206990",
+      "title": "Royal Bank of Canada",
+      "latitude": 51.04739653,
+      "longitude": -105.8203053,
+      "directions": "On Third Street, Craik, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=206990",
+      "photo_urls": []
+    },
+    {
+      "id": "207165",
+      "title": "Yellow Grass Railroad Station",
+      "latitude": 49.8071352,
+      "longitude": -104.15803354,
+      "directions": "On CanAm Highway (State Route 39) , Yellow Grass, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=207165",
+      "photo_urls": []
+    },
+    {
+      "id": "209030",
+      "title": "Milestone World War Memorial",
+      "latitude": 49.99238678,
+      "longitude": -104.51692536,
+      "directions": "On Main Street, Milestone, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209030",
+      "photo_urls": []
+    },
+    {
+      "id": "209039",
+      "title": "Mayor Fred J. Hack",
+      "latitude": 50.33358742,
+      "longitude": -102.26695373,
+      "directions": "On Lalonde Street, Whitewood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209039",
+      "photo_urls": []
+    },
+    {
+      "id": "211647",
+      "title": "The Qu'Appelle Valley",
+      "latitude": 50.64949711,
+      "longitude": -104.86687975,
+      "directions": "On James Street (State Route 641) , Lumsden, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211647",
+      "photo_urls": []
+    },
+    {
+      "id": "211670",
+      "title": "The Surveyor",
+      "latitude": 50.84983914,
+      "longitude": -105.56473875,
+      "directions": "On Louis Riel Trail (State Route 11) , Chamberlain, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211670",
+      "photo_urls": []
+    },
+    {
+      "id": "211676",
+      "title": "No. 23 Elementary Flying Training School",
+      "latitude": 51.26259106,
+      "longitude": -105.98944528,
+      "directions": "On Washington Avenue, Davidson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211676",
+      "photo_urls": []
+    },
+    {
+      "id": "211789",
+      "title": "Saskatchewan Valley Land Company",
+      "latitude": 51.49927244,
+      "longitude": -106.273656,
+      "directions": "Near Front Avenue, Kenaston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211789",
+      "photo_urls": []
+    },
+    {
+      "id": "211794",
+      "title": "Hanley Fire Bell",
+      "latitude": 51.62702008,
+      "longitude": -106.44104196,
+      "directions": "On Lincoln Street, Hanley, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211794",
+      "photo_urls": []
+    },
+    {
+      "id": "211795",
+      "title": "Dundurn War Memorial",
+      "latitude": 51.81125222,
+      "longitude": -106.50738087,
+      "directions": "On 2nd Avenue, Dundurn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211795",
+      "photo_urls": []
+    },
+    {
+      "id": "211796",
+      "title": "Fort Ellice - Elbow Trail",
+      "latitude": 50.71663073,
+      "longitude": -105.20491517,
+      "directions": "On Louis Riel Trail (State Route 11) , Bethune, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211796",
+      "photo_urls": []
+    },
+    {
+      "id": "211797",
+      "title": "Sandra Schmirler Curling Accomplishments",
+      "latitude": 52.0596354,
+      "longitude": -107.97960554,
+      "directions": "On King Street, Biggar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211797",
+      "photo_urls": []
+    },
+    {
+      "id": "211799",
+      "title": "From Dream to Reality",
+      "latitude": 52.05962014,
+      "longitude": -107.97961004,
+      "directions": "On King Street, Biggar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211799",
+      "photo_urls": []
+    },
+    {
+      "id": "211800",
+      "title": "Sandra Marie Schmirler",
+      "latitude": 52.0579094,
+      "longitude": -107.97996713,
+      "directions": "On 6 Avenue East, Biggar, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211800",
+      "photo_urls": []
+    },
+    {
+      "id": "211858",
+      "title": "Biggar Curling Club",
+      "latitude": 52.05219975,
+      "longitude": -107.97865794,
+      "directions": "On Ontario Street, Biggar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211858",
+      "photo_urls": []
+    },
+    {
+      "id": "211872",
+      "title": "Cando School District",
+      "latitude": 52.37105947,
+      "longitude": -108.21537523,
+      "directions": "On 7 Street, Cando, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211872",
+      "photo_urls": []
+    },
+    {
+      "id": "211875",
+      "title": "Saskatchewan 75th Anniversary Windmill",
+      "latitude": 53.18634832,
+      "longitude": -108.76269253,
+      "directions": "On State Route 26, Edam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211875",
+      "photo_urls": []
+    },
+    {
+      "id": "211882",
+      "title": "World War I and II",
+      "latitude": 53.33598289,
+      "longitude": -108.8794107,
+      "directions": "On Wright Street, Mervin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211882",
+      "photo_urls": []
+    },
+    {
+      "id": "211883",
+      "title": "Lest We Forget",
+      "latitude": 53.18755934,
+      "longitude": -108.76755303,
+      "directions": "On Railway Avenue, Edam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211883",
+      "photo_urls": []
+    },
+    {
+      "id": "211889",
+      "title": "Meota Public School",
+      "latitude": 53.03386333,
+      "longitude": -108.45243667,
+      "directions": "On 2 Avenue, Meota, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211889",
+      "photo_urls": []
+    },
+    {
+      "id": "211898",
+      "title": "To Our Pioneers • To Our Citizens",
+      "latitude": 53.36164476,
+      "longitude": -108.35500594,
+      "directions": "On Railway Avenue (State Route 3/4) , Glaslyn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211898",
+      "photo_urls": []
+    },
+    {
+      "id": "211899",
+      "title": "Seat of the Territorial Government 1878-1883",
+      "latitude": 52.71229597,
+      "longitude": -108.30823707,
+      "directions": "On 3 Avenue West, Battleford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211899",
+      "photo_urls": []
+    },
+    {
+      "id": "211900",
+      "title": "Cochin — Green Lake Trail",
+      "latitude": 53.04070098,
+      "longitude": -108.33362065,
+      "directions": "On State Route 4, near Cochin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211900",
+      "photo_urls": []
+    },
+    {
+      "id": "211919",
+      "title": "Government House Battleford",
+      "latitude": 52.71194,
+      "longitude": -108.308365,
+      "directions": "On 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211919",
+      "photo_urls": []
+    },
+    {
+      "id": "211929",
+      "title": "Government House, Battleford",
+      "latitude": 52.71219813,
+      "longitude": -108.30829146,
+      "directions": "On 3 Avenue West, Battleford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211929",
+      "photo_urls": []
+    },
+    {
+      "id": "211931",
+      "title": "Government House",
+      "latitude": 52.71173622,
+      "longitude": -108.30849897,
+      "directions": "Near 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211931",
+      "photo_urls": []
+    },
+    {
+      "id": "211933",
+      "title": "Indian Industrial School",
+      "latitude": 52.71172127,
+      "longitude": -108.30847851,
+      "directions": "Near 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211933",
+      "photo_urls": []
+    },
+    {
+      "id": "211939",
+      "title": "Seventh Day Adventists Academy",
+      "latitude": 52.71171078,
+      "longitude": -108.30845998,
+      "directions": "Near 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211939",
+      "photo_urls": []
+    },
+    {
+      "id": "211941",
+      "title": "Oblate Seminary",
+      "latitude": 52.71169923,
+      "longitude": -108.30843842,
+      "directions": "Near 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211941",
+      "photo_urls": []
+    },
+    {
+      "id": "211942",
+      "title": "The End of an Era",
+      "latitude": 52.71168626,
+      "longitude": -108.30841996,
+      "directions": "Near 3 Avenue West, Battleford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211942",
+      "photo_urls": []
+    },
+    {
+      "id": "211999",
+      "title": "Land Registry Office",
+      "latitude": 52.71456863,
+      "longitude": -108.31564143,
+      "directions": "On Old Saskatchewan Highway 4 (State Route 658) , Battleford, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=211999",
+      "photo_urls": []
+    },
+    {
+      "id": "212000",
+      "title": "Battleford Land Registry Building",
+      "latitude": 52.71452264,
+      "longitude": -108.31567484,
+      "directions": "On Old Saskatchewan Highway 4 (State Route 658) , Battleford, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212000",
+      "photo_urls": []
+    },
+    {
+      "id": "212200",
+      "title": "Paynton School Division and School",
+      "latitude": 53.01263119,
+      "longitude": -108.9328503,
+      "directions": "Near 1 Street East, Paynton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212200",
+      "photo_urls": []
+    },
+    {
+      "id": "212315",
+      "title": "Canadian National Railway #1158",
+      "latitude": 53.08511346,
+      "longitude": -109.29156214,
+      "directions": "On Railway Avenue, Maidstone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212315",
+      "photo_urls": []
+    },
+    {
+      "id": "212375",
+      "title": "The Barr Colonists",
+      "latitude": 53.12434971,
+      "longitude": -109.61669617,
+      "directions": "On Main Street, Lashburn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212375",
+      "photo_urls": []
+    },
+    {
+      "id": "212376",
+      "title": "Building the Town",
+      "latitude": 53.12439166,
+      "longitude": -109.61664841,
+      "directions": "On Main Street, Lashburn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212376",
+      "photo_urls": []
+    },
+    {
+      "id": "212377",
+      "title": "The Building Continues — The Community Grows",
+      "latitude": 53.12439302,
+      "longitude": -109.616737,
+      "directions": "On Main Street, Lashburn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212377",
+      "photo_urls": []
+    },
+    {
+      "id": "215979",
+      "title": "Hon. Walter Scott",
+      "latitude": 50.4474282,
+      "longitude": -104.61235831,
+      "directions": "Near Victoria Avenue, Regina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=215979",
+      "photo_urls": []
+    },
+    {
+      "id": "220898",
+      "title": "College Building",
+      "latitude": 52.13080714,
+      "longitude": -106.63275232,
+      "directions": "Near Administration Place, Saskatoon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220898",
+      "photo_urls": []
+    },
+    {
+      "id": "220952",
+      "title": "College Building",
+      "latitude": 52.13064885,
+      "longitude": -106.63289312,
+      "directions": "Near Administration Place, Saskatoon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220952",
+      "photo_urls": []
+    },
+    {
+      "id": "220990",
+      "title": "North West Rebellion / L'insurrection du Nord-Ouest",
+      "latitude": 52.73854059,
+      "longitude": -108.30894472,
+      "directions": "On 2 Avenue West, Battleford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220990",
+      "photo_urls": []
+    },
+    {
+      "id": "285368",
+      "title": "Manitoba Saskatchewan Border on International Boundary",
+      "latitude": 48.99956616,
+      "longitude": -101.36198948,
+      "directions": "On unnamed dirt road, near Gainsborough, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285368",
+      "photo_urls": []
+    },
+    {
+      "id": "286081",
+      "title": "Winlaw Pioneers",
+      "latitude": 49.04398213,
+      "longitude": -101.43977024,
+      "directions": "On Township Road 13, Gainsborough, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286081",
+      "photo_urls": []
+    },
+    {
+      "id": "286082",
+      "title": "Winlaw School and District",
+      "latitude": 49.04408733,
+      "longitude": -101.42925967,
+      "directions": "On Township Road 13, Gainsborough, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286082",
+      "photo_urls": []
+    },
+    {
+      "id": "286086",
+      "title": "St. John's School",
+      "latitude": 50.75744312,
+      "longitude": -109.53690316,
+      "directions": "On State Route 21, Mendham, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286086",
+      "photo_urls": []
+    },
+    {
+      "id": "286089",
+      "title": "Crater Lake",
+      "latitude": 50.95173268,
+      "longitude": -102.45113596,
+      "directions": "On SK Highway 9 (State Route 9) , near Yorkton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286089",
+      "photo_urls": []
+    },
+    {
+      "id": "288795",
+      "title": "Second Meridian",
+      "latitude": 50.27267978,
+      "longitude": -102.00646527,
+      "directions": "On Trans - Canada Highway (National Route 1) , near Wapella, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288795",
+      "photo_urls": []
+    },
+    {
+      "id": "288796",
+      "title": "New Stockholm Church",
+      "latitude": 50.57137493,
+      "longitude": -102.28165556,
+      "directions": "On Saskota Flyway, Stockholm, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288796",
+      "photo_urls": []
+    },
+    {
+      "id": "288798",
+      "title": "The New Stockholm Settlement",
+      "latitude": 50.57137636,
+      "longitude": -102.28166723,
+      "directions": "On Saskota Flyway, Stockholm, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288798",
+      "photo_urls": []
+    },
+    {
+      "id": "288898",
+      "title": "McIntyre Hall",
+      "latitude": 50.3917306,
+      "longitude": -105.53632281,
+      "directions": "On High Street West, Moose Jaw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288898",
+      "photo_urls": []
+    },
+    {
+      "id": "288971",
+      "title": "Fort Walsh",
+      "latitude": 49.75573097,
+      "longitude": -107.74335293,
+      "directions": "On Saskatchewan 4 (State Route 4) , Cadillac, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288971",
+      "photo_urls": []
+    },
+    {
+      "id": "288973",
+      "title": "Smith Barn",
+      "latitude": 50.89129044,
+      "longitude": -109.53691306,
+      "directions": "On Saskatchewan 21 (State Route 21) , Leader, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288973",
+      "photo_urls": []
+    },
+    {
+      "id": "288974",
+      "title": "Seat of Territorial Government",
+      "latitude": 50.45547925,
+      "longitude": -104.6293939,
+      "directions": "On Dewdney Avenue, Regina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288974",
+      "photo_urls": []
+    },
+    {
+      "id": "288976",
+      "title": "Moose Jaw Court House",
+      "latitude": 50.39360346,
+      "longitude": -105.53706944,
+      "directions": "On Ominica Street West, Moose Jaw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288976",
+      "photo_urls": []
+    },
+    {
+      "id": "288977",
+      "title": "Moose Jaw Court House",
+      "latitude": 50.39365435,
+      "longitude": -105.53695918,
+      "directions": "On Ominica Street West, Moose Jaw, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=288977",
+      "photo_urls": []
+    },
+    {
+      "id": "289006",
+      "title": "Morris Rod-Weeder",
+      "latitude": 51.19911586,
+      "longitude": -102.44981705,
+      "directions": "On Yellowhead Highway, Yorkton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289006",
+      "photo_urls": []
+    },
+    {
+      "id": "289100",
+      "title": "Saskatchewan Government Telephones Head Office",
+      "latitude": 50.44154277,
+      "longitude": -104.61833527,
+      "directions": "On Albert Street (State Route 6) , Regina, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289100",
+      "photo_urls": []
+    },
+    {
+      "id": "289134",
+      "title": "Centennial of Confederation",
+      "latitude": 50.39394132,
+      "longitude": -105.53295499,
+      "directions": "On Langdon Crescent, Moose Jaw, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289134",
+      "photo_urls": []
+    },
+    {
+      "id": "289145",
+      "title": "Chief Payepot",
+      "latitude": 50.44741292,
+      "longitude": -104.61614208,
+      "directions": "On Victoria Avenue, Regina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289145",
+      "photo_urls": []
+    },
+    {
+      "id": "289821",
+      "title": "Piapot",
+      "latitude": 49.98901667,
+      "longitude": -109.12799223,
+      "directions": "On Local Route 614, Piapot, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289821",
+      "photo_urls": []
+    },
+    {
+      "id": "289822",
+      "title": "Ukrainian Orthodox Church",
+      "latitude": 51.22254493,
+      "longitude": -101.8844043,
+      "directions": "On 1 Avenue South, Wroxton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289822",
+      "photo_urls": []
+    },
+    {
+      "id": "289887",
+      "title": "Saskatchewan Legislative Building",
+      "latitude": 50.43286605,
+      "longitude": -104.61503636,
+      "directions": "On Legislative Drive, Regina, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289887",
+      "photo_urls": []
+    },
+    {
+      "id": "289889",
+      "title": "James Morrow Walsh",
+      "latitude": 49.57315565,
+      "longitude": -109.88104286,
+      "directions": "On State Route 271, Fort Walsh, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289889",
+      "photo_urls": []
+    },
+    {
+      "id": "289891",
+      "title": "Cypress Hills Massacre National Historic Site",
+      "latitude": 49.57358141,
+      "longitude": -109.88017839,
+      "directions": "On State Route 271, Fort Walsh, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289891",
+      "photo_urls": []
+    },
+    {
+      "id": "289892",
+      "title": "Yorkton Court House",
+      "latitude": 51.21668044,
+      "longitude": -102.46067889,
+      "directions": "On Darlington Street East, Yorkton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289892",
+      "photo_urls": []
+    },
+    {
+      "id": "289895",
+      "title": "St Paul's Anglican Cathedral",
+      "latitude": 50.44896881,
+      "longitude": -104.61633479,
+      "directions": "On 1861 McIntyre Street, Regina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289895",
+      "photo_urls": []
+    },
+    {
+      "id": "289900",
+      "title": "A Tribute to Frederick George Light",
+      "latitude": 52.73412988,
+      "longitude": -108.30141015,
+      "directions": "On Central Avenue, Battleford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289900",
+      "photo_urls": []
+    },
+    {
+      "id": "289967",
+      "title": "Telegraph Flat",
+      "latitude": 52.71581608,
+      "longitude": -108.30149069,
+      "directions": "On 2 Street South (State Route Old 658) , Battleford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289967",
+      "photo_urls": []
+    },
+    {
+      "id": "289980",
+      "title": "North-West Council Government House",
+      "latitude": 52.71503146,
+      "longitude": -108.31563975,
+      "directions": "On Old Saskatchewan Highway 4 (State Route 658) , Battleford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289980",
+      "photo_urls": []
+    },
+    {
+      "id": "289983",
+      "title": "The Saskatchewan Herald",
+      "latitude": 52.71580889,
+      "longitude": -108.30168201,
+      "directions": "On 2 Street South (State Route Old 658) , Battleford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289983",
+      "photo_urls": []
+    },
+    {
+      "id": "290054",
+      "title": "Piapot Saloon",
+      "latitude": 49.98731046,
+      "longitude": -109.12261362,
+      "directions": "On Pacific Avenue, Piapot, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290054",
+      "photo_urls": []
+    },
+    {
+      "id": "291195",
+      "title": "The Knox-Metropolitan United Church",
+      "latitude": 50.44756302,
+      "longitude": -104.61397765,
+      "directions": "On Lorne Street, Regina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291195",
+      "photo_urls": []
+    },
+    {
+      "id": "291197",
+      "title": "The Northern Bank",
+      "latitude": 50.44986651,
+      "longitude": -104.61063793,
+      "directions": "On Scarth Street, Regina, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291197",
+      "photo_urls": []
+    },
+    {
+      "id": "291198",
+      "title": "The Albert Memorial Bridge",
+      "latitude": 50.4372995,
+      "longitude": -104.61795372,
+      "directions": "On Albert Street (State Route 6) , Regina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291198",
+      "photo_urls": []
+    },
+    {
+      "id": "291280",
+      "title": "Pile of Bones Creek",
+      "latitude": 50.4363132,
+      "longitude": -104.61780235,
+      "directions": "On Albert Street Promenade, Regina, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291280",
+      "photo_urls": []
+    },
+    {
+      "id": "293849",
+      "title": "Torquay - Outram School Districts",
+      "latitude": 49.13697488,
+      "longitude": -103.49510098,
+      "directions": "On Miller Street, Torquay, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293849",
+      "photo_urls": []
+    },
+    {
+      "id": "8492",
+      "title": "Ukrainian Settlers of Canora",
+      "latitude": 51.63063,
+      "longitude": -102.4307,
+      "directions": "On Norway Road (State Route 9) , Canora, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8492",
+      "photo_urls": []
+    },
+    {
+      "id": "8531",
+      "title": "Rosenort Mennonite Church",
+      "latitude": 52.66797,
+      "longitude": -106.48934,
+      "directions": "On State Route 312, near Rosthern, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=8531",
+      "photo_urls": []
+    }
+  ]
+}
