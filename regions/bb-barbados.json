@@ -1,0 +1,155 @@
+{
+  "region_id": "bb-barbados",
+  "region_name": "Barbados",
+  "region_type": "country",
+  "country": "Barbados",
+  "generated": "2026-04-20T06:07:37.335Z",
+  "source_timestamp": "2026-04-20T06:07:37.335Z",
+  "marker_count": 16,
+  "markers": [
+    {
+      "id": "134545",
+      "title": "Engineer’s Office & Quarters",
+      "latitude": 13.08156942,
+      "longitude": -59.60619398,
+      "directions": "On Garrison Road, Bridgetown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134545",
+      "photo_urls": []
+    },
+    {
+      "id": "135028",
+      "title": "Hastings",
+      "latitude": 13.07706389,
+      "longitude": -59.60323109,
+      "directions": "On Hastings Main Road, Bridgetown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135028",
+      "photo_urls": []
+    },
+    {
+      "id": "135029",
+      "title": "The Main Guard",
+      "latitude": 13.08024435,
+      "longitude": -59.60682464,
+      "directions": "On Garrison Road, Bridgetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135029",
+      "photo_urls": []
+    },
+    {
+      "id": "135030",
+      "title": "Royal Artillery Barracks",
+      "latitude": 13.08050096,
+      "longitude": -59.60680972,
+      "directions": "On Garrison Road, Bridgetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135030",
+      "photo_urls": []
+    },
+    {
+      "id": "135031",
+      "title": "Monument to Those Lost in the 1831 Hurricane",
+      "latitude": 13.08142582,
+      "longitude": -59.60667025,
+      "directions": "On Garrison Road, Bridgetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135031",
+      "photo_urls": []
+    },
+    {
+      "id": "135032",
+      "title": "Sir Grantley Herbert Adams",
+      "latitude": 13.08656873,
+      "longitude": -59.60893921,
+      "directions": "On Bay Street, Bridgetown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135032",
+      "photo_urls": []
+    },
+    {
+      "id": "135034",
+      "title": "Errol Walton Barrow",
+      "latitude": 13.08204744,
+      "longitude": -59.60939019,
+      "directions": "On Aquatic Gap, Bridgetown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135034",
+      "photo_urls": []
+    },
+    {
+      "id": "135035",
+      "title": "The Barbados Military Cemetery",
+      "latitude": 13.0794996,
+      "longitude": -59.6098358,
+      "directions": "On Unnamed road, Bridgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135035",
+      "photo_urls": []
+    },
+    {
+      "id": "135051",
+      "title": "Commonwealth War Graves",
+      "latitude": 13.07921918,
+      "longitude": -59.60932883,
+      "directions": "Near Unnamed road, Bridgetown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135051",
+      "photo_urls": []
+    },
+    {
+      "id": "135152",
+      "title": "Memorial to Barbadian Merchant Seamen of World War II",
+      "latitude": 13.07858634,
+      "longitude": -59.60987414,
+      "directions": "Near Unnamed road, Bridgetown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135152",
+      "photo_urls": []
+    },
+    {
+      "id": "135176",
+      "title": "Barbados Independence Monument",
+      "latitude": 13.07948245,
+      "longitude": -59.60582229,
+      "directions": "On Hastings Main Road (Route H7) , Bridgetown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135176",
+      "photo_urls": []
+    },
+    {
+      "id": "135177",
+      "title": "Saint Matthias Anglican Church",
+      "latitude": 13.07596804,
+      "longitude": -59.59964625,
+      "directions": "On St. Matthias Road, Bridgetown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135177",
+      "photo_urls": []
+    },
+    {
+      "id": "261071",
+      "title": "Soldiers Brick Barracks",
+      "latitude": 13.08260278,
+      "longitude": -59.60270278,
+      "directions": "On Dalkeith Road, Bridgetown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261071",
+      "photo_urls": []
+    },
+    {
+      "id": "261073",
+      "title": "Ordnance Hospital Ward",
+      "latitude": 13.07928889,
+      "longitude": -59.60361111,
+      "directions": "On Garrison Road, Bridgetown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261073",
+      "photo_urls": []
+    },
+    {
+      "id": "261077",
+      "title": "Ordnance Hospital Kitchen",
+      "latitude": 13.07898333,
+      "longitude": -59.60380556,
+      "directions": "On Letchworth Complex, Bridgetown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261077",
+      "photo_urls": []
+    },
+    {
+      "id": "261728",
+      "title": "Commissariat for the British Garrison",
+      "latitude": 13.08138738,
+      "longitude": -59.60777833,
+      "directions": "On Hastings Main Road (Route H7) , Bridgetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=261728",
+      "photo_urls": []
+    }
+  ]
+}
