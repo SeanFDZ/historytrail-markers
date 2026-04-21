@@ -1,0 +1,758 @@
+{
+  "region_id": "cz-czechia",
+  "region_name": "Czechia",
+  "region_type": "country",
+  "country": "Czechia",
+  "generated": "2026-04-21T11:58:56.816Z",
+  "source_timestamp": "2026-04-21T11:58:56.816Z",
+  "marker_count": 83,
+  "markers": [
+    {
+      "id": "126920",
+      "title": "Díky, Ameriko!",
+      "latitude": 49.74398361,
+      "longitude": 13.37264108,
+      "directions": "On Americká, Pilsen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126920",
+      "photo_urls": []
+    },
+    {
+      "id": "22500",
+      "title": "Garrison Church",
+      "latitude": 50.5108561,
+      "longitude": 14.1509378,
+      "directions": "Near Námestí &#268;eskoslovenské Armády, Terezín, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22500",
+      "photo_urls": []
+    },
+    {
+      "id": "22552",
+      "title": "Josef Charvát",
+      "latitude": 50.08036348,
+      "longitude": 14.4146016,
+      "directions": "On Ostrovní, Praha, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22552",
+      "photo_urls": []
+    },
+    {
+      "id": "22626",
+      "title": "The Food Storeroom",
+      "latitude": 50.5084186,
+      "longitude": 14.1510236,
+      "directions": "On Legií, Terezín, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22626",
+      "photo_urls": []
+    },
+    {
+      "id": "226439",
+      "title": "Here Gregor Johann Mendel Lectured on his Discovery in 1865",
+      "latitude": 49.19502461,
+      "longitude": 16.61259145,
+      "directions": "On Jánská, Brno, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226439",
+      "photo_urls": []
+    },
+    {
+      "id": "226462",
+      "title": "Birthplace of Gregor Mendel",
+      "latitude": 49.61960774,
+      "longitude": 17.83493042,
+      "directions": "Near 4418, Vražné, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226462",
+      "photo_urls": []
+    },
+    {
+      "id": "22657",
+      "title": "Vojt&#283;ch Hynais",
+      "latitude": 50.08034025,
+      "longitude": 14.41405043,
+      "directions": "On Ostrovní, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22657",
+      "photo_urls": []
+    },
+    {
+      "id": "22763",
+      "title": "T.R. Field Šumavansky",
+      "latitude": 50.08043534,
+      "longitude": 14.41602386,
+      "directions": "On Ostrovní, Praha, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22763",
+      "photo_urls": []
+    },
+    {
+      "id": "22972",
+      "title": "Rudolf Kremli&#269;ka",
+      "latitude": 50.089667,
+      "longitude": 14.41937327,
+      "directions": "On Parížská, Praha, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22972",
+      "photo_urls": []
+    },
+    {
+      "id": "22987",
+      "title": "Ladislav Zelenka",
+      "latitude": 50.08737775,
+      "longitude": 14.40613389,
+      "directions": "On Mostecká, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=22987",
+      "photo_urls": []
+    },
+    {
+      "id": "23067",
+      "title": "Vojta Náprstek",
+      "latitude": 50.08404672,
+      "longitude": 14.41666692,
+      "directions": "On Betlémské námestí, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23067",
+      "photo_urls": []
+    },
+    {
+      "id": "23108",
+      "title": "Ema Destinnová",
+      "latitude": 50.087863,
+      "longitude": 14.4046908,
+      "directions": "On Malostranské námestí, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=23108",
+      "photo_urls": []
+    },
+    {
+      "id": "278996",
+      "title": "Staré gymnázium &#269;. p. 185 / Old grammar school no. 185",
+      "latitude": 50.08059069,
+      "longitude": 12.37107457,
+      "directions": "On Kostelní námestí, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278996",
+      "photo_urls": []
+    },
+    {
+      "id": "279005",
+      "title": "M&#283;stský d&#367;m &#269;. p. 189 / Town house no. 189",
+      "latitude": 50.08045742,
+      "longitude": 12.37069361,
+      "directions": "On Kostelní námestí, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279005",
+      "photo_urls": []
+    },
+    {
+      "id": "279006",
+      "title": "M&#283;stský d&#367;m &#269;. p. 505 / Town house no. 505",
+      "latitude": 50.08030704,
+      "longitude": 12.37039286,
+      "directions": "On Kostelní, Cheb, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279006",
+      "photo_urls": []
+    },
+    {
+      "id": "279010",
+      "title": "D&#367;m Kriegelstein&#367; &#269;. p. 493 / The Kriegelstein house no. 493",
+      "latitude": 50.08009838,
+      "longitude": 12.3701089,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279010",
+      "photo_urls": []
+    },
+    {
+      "id": "279011",
+      "title": "M&#283;stský Pachelbelský d&#367;m &#269;. p. 492 / The Pachelbel town house no. 492",
+      "latitude": 50.08007642,
+      "longitude": 12.37006637,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279011",
+      "photo_urls": []
+    },
+    {
+      "id": "279014",
+      "title": "Albrecht Wallenstein",
+      "latitude": 50.08007475,
+      "longitude": 12.37002544,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279014",
+      "photo_urls": []
+    },
+    {
+      "id": "279016",
+      "title": "Kramá&#345;ská uli&#269;ka / Shopkeeper Lane",
+      "latitude": 50.07994686,
+      "longitude": 12.36996584,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279016",
+      "photo_urls": []
+    },
+    {
+      "id": "279017",
+      "title": "Spalí&#269;ek / Cluster of Houses",
+      "latitude": 50.07967899,
+      "longitude": 12.37027605,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279017",
+      "photo_urls": []
+    },
+    {
+      "id": "279188",
+      "title": "Špalí&#269;ek",
+      "latitude": 50.07959636,
+      "longitude": 12.36996928,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279188",
+      "photo_urls": []
+    },
+    {
+      "id": "279239",
+      "title": "Krama&#345;ská uli&#269;ka / Shopkeeper Lane",
+      "latitude": 50.07962654,
+      "longitude": 12.37011514,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279239",
+      "photo_urls": []
+    },
+    {
+      "id": "279240",
+      "title": "D&#367;m Eck&#367; &#269;. p. 510 / The Eck building no. 510",
+      "latitude": 50.07969589,
+      "longitude": 12.37067701,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279240",
+      "photo_urls": []
+    },
+    {
+      "id": "279241",
+      "title": "D&#367;m U Zlatého lva &#269;. p. 509 / The Golden Lion building no. 509",
+      "latitude": 50.07985647,
+      "longitude": 12.37060806,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279241",
+      "photo_urls": []
+    },
+    {
+      "id": "279244",
+      "title": "Gablerovský d&#367;m &#269;. p. 507 / The Gabler house no. 507",
+      "latitude": 50.08000347,
+      "longitude": 12.37054096,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279244",
+      "photo_urls": []
+    },
+    {
+      "id": "279245",
+      "title": "D&#367;m Kandler&#367; &#269;. p. 491 / The Kandler house no 491",
+      "latitude": 50.08004133,
+      "longitude": 12.36975093,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279245",
+      "photo_urls": []
+    },
+    {
+      "id": "279247",
+      "title": "Werner&#367;v d&#367;m &#269;. p. 482 / The Werner house no. 482",
+      "latitude": 50.0794614,
+      "longitude": 12.36954344,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279247",
+      "photo_urls": []
+    },
+    {
+      "id": "279249",
+      "title": "Schlick&#367;v d&#367;m &#269;. p. 481 / The Schlick house no. 481",
+      "latitude": 50.07940859,
+      "longitude": 12.36960186,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279249",
+      "photo_urls": []
+    },
+    {
+      "id": "279250",
+      "title": "Wildenauer&#367;v d&#367;m &#269;. p. 480 / The Wildenauer house no. 480",
+      "latitude": 50.07926801,
+      "longitude": 12.36978769,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279250",
+      "photo_urls": []
+    },
+    {
+      "id": "279252",
+      "title": "Löwyho d&#367;m &#269;. p. 479 / The Löwy building no. 479",
+      "latitude": 50.07919508,
+      "longitude": 12.36987559,
+      "directions": "On nám. Krále Ji&#345;ího z Pod&#283;brad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279252",
+      "photo_urls": []
+    },
+    {
+      "id": "279253",
+      "title": "Grüner&#367;v d&#367;m &#269;. p. 478 / The Grüner house no. 478",
+      "latitude": 50.07908544,
+      "longitude": 12.37001735,
+      "directions": "On nám. Krále Ji&#345;ího z Pod&#283;brad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279253",
+      "photo_urls": []
+    },
+    {
+      "id": "279255",
+      "title": "D&#367;m U &#268;erného medv&#283;da &#269;. p. 477 / The Black Bear building no. 477",
+      "latitude": 50.07896081,
+      "longitude": 12.37018412,
+      "directions": "On nám. Krále Ji&#345;ího z Pod&#283;brad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279255",
+      "photo_urls": []
+    },
+    {
+      "id": "279256",
+      "title": "D&#367;m Brentano &#269;. p. 514 / The Brentano house no. 514",
+      "latitude": 50.0793767,
+      "longitude": 12.37083584,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279256",
+      "photo_urls": []
+    },
+    {
+      "id": "279257",
+      "title": "D&#367;m Loimann&#367; &#269;. p. 513 / The Loimann house no. 513",
+      "latitude": 50.07946418,
+      "longitude": 12.37078867,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279257",
+      "photo_urls": []
+    },
+    {
+      "id": "279258",
+      "title": "D&#367;m U Jednorožce &#269;. p. 512 / The Unicorn building no. 512",
+      "latitude": 50.07956207,
+      "longitude": 12.37074533,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279258",
+      "photo_urls": []
+    },
+    {
+      "id": "279269",
+      "title": "Václav Kadlec",
+      "latitude": 50.07959367,
+      "longitude": 12.37072617,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279269",
+      "photo_urls": []
+    },
+    {
+      "id": "279279",
+      "title": "D&#367;m U &#268;erného orla &#269;. p. 511 / The Black Eagle building no. 511",
+      "latitude": 50.07962119,
+      "longitude": 12.37071151,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279279",
+      "photo_urls": []
+    },
+    {
+      "id": "279282",
+      "title": "St&#345;edov&#283;ká radnice / The Medieval Town Hall",
+      "latitude": 50.07905382,
+      "longitude": 12.37098322,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279282",
+      "photo_urls": []
+    },
+    {
+      "id": "279301",
+      "title": "Nová radnice / New Town Hall",
+      "latitude": 50.07876275,
+      "longitude": 12.37115608,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279301",
+      "photo_urls": []
+    },
+    {
+      "id": "279302",
+      "title": "D&#367;m Minetti&#367; &#269;. p. 474 / The Minetti house no. 474",
+      "latitude": 50.0786087,
+      "longitude": 12.3706619,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279302",
+      "photo_urls": []
+    },
+    {
+      "id": "279525",
+      "title": "D&#367;m Werndl&#367; &#269;. p. 473 / The Werndl house no. 473",
+      "latitude": 50.07850016,
+      "longitude": 12.37075798,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279525",
+      "photo_urls": []
+    },
+    {
+      "id": "279526",
+      "title": "D&#367;m Martini &#269;. p. 472 / The Martini house no. 472",
+      "latitude": 50.07834982,
+      "longitude": 12.3708697,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279526",
+      "photo_urls": []
+    },
+    {
+      "id": "279530",
+      "title": "D&#367;m Pachelbel&#367; &#269;. p. 3 / The Pachelbel building no. 3",
+      "latitude": 50.07839591,
+      "longitude": 12.37083755,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279530",
+      "photo_urls": []
+    },
+    {
+      "id": "279531",
+      "title": "D&#367;m U dvou arcivévod&#367; &#269;. p. 471 / The Two Archdukes building no. 471",
+      "latitude": 50.07823385,
+      "longitude": 12.37095576,
+      "directions": "On námestí Krále Jirího z Podebrad, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279531",
+      "photo_urls": []
+    },
+    {
+      "id": "279532",
+      "title": "Bojmír Hutta",
+      "latitude": 50.07872471,
+      "longitude": 12.37023443,
+      "directions": "On Jatecní, Cheb, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279532",
+      "photo_urls": []
+    },
+    {
+      "id": "279540",
+      "title": "M&#283;stský d&#367;m &#269;. p. 457 / Town house no. 457",
+      "latitude": 50.07846056,
+      "longitude": 12.37002442,
+      "directions": "On Jatecní, Cheb, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279540",
+      "photo_urls": []
+    },
+    {
+      "id": "279542",
+      "title": "M&#283;stský d&#367;m &#269;. p. 454 / Town house no. 454",
+      "latitude": 50.07857512,
+      "longitude": 12.36994826,
+      "directions": "On Jatecní, Cheb, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279542",
+      "photo_urls": []
+    },
+    {
+      "id": "279543",
+      "title": "M&#283;stský d&#367;m &#269;. p. 458 / Town house no. 458",
+      "latitude": 50.07838551,
+      "longitude": 12.36987941,
+      "directions": "On Jatecní, Cheb, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279543",
+      "photo_urls": []
+    },
+    {
+      "id": "279544",
+      "title": "M&#283;stský d&#367;m &#269;. p. 448 / Town house no. 448",
+      "latitude": 50.07826258,
+      "longitude": 12.36932311,
+      "directions": "On Jatecní, Cheb, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279544",
+      "photo_urls": []
+    },
+    {
+      "id": "279545",
+      "title": "M&#283;stský d&#367;m &#269;. p. 461 / Town house no. 461",
+      "latitude": 50.07816034,
+      "longitude": 12.36940632,
+      "directions": "On Jatecní, Cheb, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279545",
+      "photo_urls": []
+    },
+    {
+      "id": "279567",
+      "title": "M&#283;stský d&#367;m &#269;. p. 27 / Town house no. 27",
+      "latitude": 50.07793831,
+      "longitude": 12.36918922,
+      "directions": "On Dlouhá, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279567",
+      "photo_urls": []
+    },
+    {
+      "id": "285738",
+      "title": "M&#283;stský d&#367;m &#269;. p. 26 / Town house no. 26",
+      "latitude": 50.07778996,
+      "longitude": 12.36950904,
+      "directions": "On Dlouhá, Cheb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285738",
+      "photo_urls": []
+    },
+    {
+      "id": "285739",
+      "title": "M&#283;stský d&#367;m &#269;. p. 462 / Town house no. 462",
+      "latitude": 50.07797391,
+      "longitude": 12.36933641,
+      "directions": "On Dlouhá, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285739",
+      "photo_urls": []
+    },
+    {
+      "id": "285741",
+      "title": "M&#283;stský d&#367;m &#269;. p. 447 / Town house no. 447",
+      "latitude": 50.07818946,
+      "longitude": 12.36892177,
+      "directions": "On Dlouhá, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285741",
+      "photo_urls": []
+    },
+    {
+      "id": "285745",
+      "title": "M&#283;stský d&#367;m &#269;. p. 36 / Town house no. 36",
+      "latitude": 50.07814194,
+      "longitude": 12.3685438,
+      "directions": "On Františkánské námestí, Cheb, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285745",
+      "photo_urls": []
+    },
+    {
+      "id": "285748",
+      "title": "Kostel Svaté Kláry / Church of St. Clare",
+      "latitude": 50.07758511,
+      "longitude": 12.36842185,
+      "directions": "On Františkánské námestí, Cheb, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285748",
+      "photo_urls": []
+    },
+    {
+      "id": "285752",
+      "title": "Pseudorománská synagoga, 1893 / Pseudo-Romanesque Synagogue, 1893",
+      "latitude": 50.0774522,
+      "longitude": 12.36586188,
+      "directions": "On Hradební, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285752",
+      "photo_urls": []
+    },
+    {
+      "id": "285756",
+      "title": "M&#283;stský d&#367;m &#269;. p. 397 / Town house no. 397",
+      "latitude": 50.07922478,
+      "longitude": 12.36686807,
+      "directions": "On Ružový kopecek, Cheb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285756",
+      "photo_urls": []
+    },
+    {
+      "id": "285759",
+      "title": "M&#283;stský d&#367;m &#269;. p. 353 / Town house no. 353",
+      "latitude": 50.07957529,
+      "longitude": 12.36657755,
+      "directions": "On Ružový kopecek, Cheb, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285759",
+      "photo_urls": []
+    },
+    {
+      "id": "285762",
+      "title": "M&#283;stský d&#367;m &#269;. p. 77 / Town house no. 77",
+      "latitude": 50.08053069,
+      "longitude": 12.36631057,
+      "directions": "On Dobrovského, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285762",
+      "photo_urls": []
+    },
+    {
+      "id": "285883",
+      "title": "Chebský Hrad / Cheb Castle",
+      "latitude": 50.0807387,
+      "longitude": 12.3665977,
+      "directions": "On Dobrovského, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285883",
+      "photo_urls": []
+    },
+    {
+      "id": "285884",
+      "title": "Historie Chebského hradu / Cheb Castle History",
+      "latitude": 50.0807464,
+      "longitude": 12.3665171,
+      "directions": "On Dobrovského, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285884",
+      "photo_urls": []
+    },
+    {
+      "id": "285895",
+      "title": "Bombarda, 15. Století / Bombard, 15th Century",
+      "latitude": 50.08126407,
+      "longitude": 12.36558366,
+      "directions": "On Elišky Krásnohorské, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285895",
+      "photo_urls": []
+    },
+    {
+      "id": "285904",
+      "title": "Purkrabí a Zlovolný Duch / Burgrave and the Malevolent Ghost",
+      "latitude": 50.08138467,
+      "longitude": 12.36632204,
+      "directions": "On Dobrovského, Cheb, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285904",
+      "photo_urls": []
+    },
+    {
+      "id": "285909",
+      "title": "M&#283;stský d&#367;m &#269;. p. 267 / Town house no. 267",
+      "latitude": 50.08067048,
+      "longitude": 12.36798092,
+      "directions": "On Jánské námestí, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285909",
+      "photo_urls": []
+    },
+    {
+      "id": "285910",
+      "title": "M&#283;stský d&#367;m &#269;. p. 266 / Town house no. 266",
+      "latitude": 50.08072041,
+      "longitude": 12.36815852,
+      "directions": "On Jánské námestí, Cheb, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285910",
+      "photo_urls": []
+    },
+    {
+      "id": "285913",
+      "title": "M&#283;stský d&#367;m &#269;. p. 241 / Town house no. 241",
+      "latitude": 50.08117796,
+      "longitude": 12.36849591,
+      "directions": "On Kollárova, Cheb, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285913",
+      "photo_urls": []
+    },
+    {
+      "id": "285914",
+      "title": "M&#283;stský d&#367;m &#269;. p. 111 / Town house no. 111",
+      "latitude": 50.0817628,
+      "longitude": 12.37036408,
+      "directions": "On Kasární námestí, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285914",
+      "photo_urls": []
+    },
+    {
+      "id": "285915",
+      "title": "M&#283;stský d&#367;m &#269;. p. 112 / Town house no. 112",
+      "latitude": 50.08176574,
+      "longitude": 12.37052998,
+      "directions": "On Smetanova, Cheb, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=285915",
+      "photo_urls": []
+    },
+    {
+      "id": "37595",
+      "title": "Here Albert Einstein Played the Violin",
+      "latitude": 50.08724695,
+      "longitude": 14.42181006,
+      "directions": "Near Celetná, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=37595",
+      "photo_urls": []
+    },
+    {
+      "id": "38193",
+      "title": "Albert Schweitzer",
+      "latitude": 50.080257,
+      "longitude": 14.4179168,
+      "directions": "On V jirchá&#345;ich, Praha, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=38193",
+      "photo_urls": []
+    },
+    {
+      "id": "40517",
+      "title": "Jan Neruda",
+      "latitude": 50.0885062,
+      "longitude": 14.3972685,
+      "directions": "On Nerudova, Praha, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40517",
+      "photo_urls": []
+    },
+    {
+      "id": "40632",
+      "title": "Tycho Brahe Lived Here",
+      "latitude": 50.0907498,
+      "longitude": 14.39299307,
+      "directions": "On Nový Svét, Praha, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40632",
+      "photo_urls": []
+    },
+    {
+      "id": "40762",
+      "title": "Francis Skaryna",
+      "latitude": 50.08644928,
+      "longitude": 14.41647112,
+      "directions": "Near Husova, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40762",
+      "photo_urls": []
+    },
+    {
+      "id": "40763",
+      "title": "Birthplace of Jaroslav Heyrovský",
+      "latitude": 50.08860736,
+      "longitude": 14.41567719,
+      "directions": "On Kaprova, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40763",
+      "photo_urls": []
+    },
+    {
+      "id": "40804",
+      "title": "Michael the Brave (1558-1601)",
+      "latitude": 50.0885084,
+      "longitude": 14.401096,
+      "directions": "On Nerudova, Praha, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40804",
+      "photo_urls": []
+    },
+    {
+      "id": "40930",
+      "title": "The 25th of February, 1948",
+      "latitude": 50.08869684,
+      "longitude": 14.39690172,
+      "directions": "On Nerudova, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40930",
+      "photo_urls": []
+    },
+    {
+      "id": "40962",
+      "title": "Johannes Kepler",
+      "latitude": 50.08599924,
+      "longitude": 14.41492751,
+      "directions": "On Karlova, Praha, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40962",
+      "photo_urls": []
+    },
+    {
+      "id": "40985",
+      "title": "Bohuslav Balbín",
+      "latitude": 50.08637872,
+      "longitude": 14.41541165,
+      "directions": "Near K&#345;ižovnická, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40985",
+      "photo_urls": []
+    },
+    {
+      "id": "40997",
+      "title": "Church of St. Salvador",
+      "latitude": 50.08611713,
+      "longitude": 14.41449165,
+      "directions": "On K&#345;ižovnická, Praha, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40997",
+      "photo_urls": []
+    },
+    {
+      "id": "41066",
+      "title": "Josef Myslive&#269;ek",
+      "latitude": 50.08538914,
+      "longitude": 14.41302717,
+      "directions": "Near Novotného Lávka, Praha, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41066",
+      "photo_urls": []
+    },
+    {
+      "id": "41262",
+      "title": "The Novotny Footbridge",
+      "latitude": 50.08539602,
+      "longitude": 14.41347241,
+      "directions": "On Novotného Lávka, Praha, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41262",
+      "photo_urls": []
+    },
+    {
+      "id": "41319",
+      "title": "Franz Kafka",
+      "latitude": 50.08782089,
+      "longitude": 14.4192405,
+      "directions": "On Námesti Franze Kafky, Praha, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=41319",
+      "photo_urls": []
+    }
+  ]
+}
