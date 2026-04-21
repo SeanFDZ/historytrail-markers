@@ -1,0 +1,182 @@
+{
+  "region_id": "gd-grenada",
+  "region_name": "Grenada",
+  "region_type": "country",
+  "country": "Grenada",
+  "generated": "2026-04-21T11:58:56.817Z",
+  "source_timestamp": "2026-04-21T11:58:56.817Z",
+  "marker_count": 19,
+  "markers": [
+    {
+      "id": "134953",
+      "title": "Memorial to the Fallen in Grenada",
+      "latitude": 12.00761307,
+      "longitude": -61.78318788,
+      "directions": "On Maurice Bishop Memorial Highway, Calliste, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134953",
+      "photo_urls": []
+    },
+    {
+      "id": "135180",
+      "title": "Port Louis (1650)",
+      "latitude": 12.0461481,
+      "longitude": -61.74599247,
+      "directions": "On Lagoon Road, Saint George&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135180",
+      "photo_urls": []
+    },
+    {
+      "id": "135181",
+      "title": "Destruction of the Bianca C",
+      "latitude": 12.05236386,
+      "longitude": -61.75021967,
+      "directions": "On Wharf Road, Saint George&#39;s, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135181",
+      "photo_urls": []
+    },
+    {
+      "id": "135182",
+      "title": "Grenada Seamen and Waterfront Workers’ Union",
+      "latitude": 12.0525682,
+      "longitude": -61.75009477,
+      "directions": "On Wharf Road, Saint George&#39;s, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135182",
+      "photo_urls": []
+    },
+    {
+      "id": "135186",
+      "title": "Assassination of Maurice Bishop",
+      "latitude": 12.04932926,
+      "longitude": -61.75410055,
+      "directions": "Near Grand Etang Road, St. George&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135186",
+      "photo_urls": []
+    },
+    {
+      "id": "135193",
+      "title": "Grenada National Museum",
+      "latitude": 12.05061488,
+      "longitude": -61.75260729,
+      "directions": "On Monckton Street, Saint George&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135193",
+      "photo_urls": []
+    },
+    {
+      "id": "135201",
+      "title": "Antilles Hotel",
+      "latitude": 12.05045144,
+      "longitude": -61.75264404,
+      "directions": "On Monckton Road, St. George&#39;s, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135201",
+      "photo_urls": []
+    },
+    {
+      "id": "135203",
+      "title": "St. Andrew's Presbyterian Kirk",
+      "latitude": 12.05095661,
+      "longitude": -61.75356909,
+      "directions": "On Grand Etang Road, Saint George&#39;s, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135203",
+      "photo_urls": []
+    },
+    {
+      "id": "135205",
+      "title": "Sedan Porches",
+      "latitude": 12.05276563,
+      "longitude": -61.75255775,
+      "directions": "On Market Hill, Saint George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135205",
+      "photo_urls": []
+    },
+    {
+      "id": "135206",
+      "title": "Historic Sedan Chair Portico",
+      "latitude": 12.05279949,
+      "longitude": -61.75245925,
+      "directions": "On Market Hill, Saint George&#39;s, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135206",
+      "photo_urls": []
+    },
+    {
+      "id": "135225",
+      "title": "Roman Catholic Cathedral",
+      "latitude": 12.053368,
+      "longitude": -61.75226379,
+      "directions": "On Church Street, Saint George&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135225",
+      "photo_urls": []
+    },
+    {
+      "id": "135227",
+      "title": "Marryshow House",
+      "latitude": 12.05260808,
+      "longitude": -61.7485032,
+      "directions": "On H.A. Blaize Street, Saint George&#39;s, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135227",
+      "photo_urls": []
+    },
+    {
+      "id": "135228",
+      "title": "Fort Frederick",
+      "latitude": 12.04826594,
+      "longitude": -61.73746405,
+      "directions": "Near Richmond Hill, Mount Helicon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135228",
+      "photo_urls": []
+    },
+    {
+      "id": "135229",
+      "title": "In the Bowels of the Fort",
+      "latitude": 12.04800791,
+      "longitude": -61.73741231,
+      "directions": "Near Richmond Hill, Mount Helicon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135229",
+      "photo_urls": []
+    },
+    {
+      "id": "135230",
+      "title": "Backwards Facing Forts",
+      "latitude": 12.04777017,
+      "longitude": -61.73715606,
+      "directions": "Near Richmond Hill, St. George&#39;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135230",
+      "photo_urls": []
+    },
+    {
+      "id": "135232",
+      "title": "Mona Monkey",
+      "latitude": 12.17554271,
+      "longitude": -61.62744189,
+      "directions": "Near Belmont, Tivoli, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135232",
+      "photo_urls": []
+    },
+    {
+      "id": "135233",
+      "title": "Welcome to Grand Etang Forest Reserve",
+      "latitude": 12.093779,
+      "longitude": -61.69499704,
+      "directions": "On Grand Etang Road, St. Cyr, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135233",
+      "photo_urls": []
+    },
+    {
+      "id": "94081",
+      "title": "St. George's Methodist Church",
+      "latitude": 12.05329444,
+      "longitude": -61.75069722,
+      "directions": "On Chapel Alley, Saint George&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94081",
+      "photo_urls": []
+    },
+    {
+      "id": "94504",
+      "title": "Geoffrey H. Bourne, DSC, DPHIL",
+      "latitude": 11.99964167,
+      "longitude": -61.77431111,
+      "directions": "On Chancellery Drive, True Blue, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94504",
+      "photo_urls": []
+    }
+  ]
+}
