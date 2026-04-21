@@ -1,0 +1,614 @@
+{
+  "region_id": "nz-new-zealand",
+  "region_name": "New Zealand",
+  "region_type": "country",
+  "country": "New Zealand",
+  "generated": "2026-04-21T11:58:56.817Z",
+  "source_timestamp": "2026-04-21T11:58:56.817Z",
+  "marker_count": 67,
+  "markers": [
+    {
+      "id": "184758",
+      "title": "Welcome to the Arrowtown Chinese Settlement",
+      "latitude": -44.937634,
+      "longitude": 168.828909,
+      "directions": "Near Buckingham Street, Arrowtown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184758",
+      "photo_urls": []
+    },
+    {
+      "id": "184767",
+      "title": "Invited but Unwelcome",
+      "latitude": -44.937545,
+      "longitude": 168.828411,
+      "directions": "Near Buckingham Street, Arrowtown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184767",
+      "photo_urls": []
+    },
+    {
+      "id": "184805",
+      "title": "Jackson's Bay",
+      "latitude": -43.97237754,
+      "longitude": 168.61407475,
+      "directions": "On Haast-Jackson Bay Road, Jackson Bay, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184805",
+      "photo_urls": []
+    },
+    {
+      "id": "184814",
+      "title": "Frontier Building … Legendary Man",
+      "latitude": -43.222196,
+      "longitude": 170.164982,
+      "directions": "On The Strand, &#332;k&#257;rito, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184814",
+      "photo_urls": []
+    },
+    {
+      "id": "184821",
+      "title": "Guiding Light",
+      "latitude": -41.74924954,
+      "longitude": 171.46617693,
+      "directions": "On Cape Foulwind Walkway, Cape Foulwind, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184821",
+      "photo_urls": []
+    },
+    {
+      "id": "184838",
+      "title": "The History of the Karamea Estuary",
+      "latitude": -41.249749,
+      "longitude": 172.10409,
+      "directions": "On Ray Street, Karamea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=184838",
+      "photo_urls": []
+    },
+    {
+      "id": "185280",
+      "title": "Peter's Pool",
+      "latitude": -43.419534,
+      "longitude": 170.17211,
+      "directions": "Near Douglas Walk, Franz Josef / Waiau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185280",
+      "photo_urls": []
+    },
+    {
+      "id": "185281",
+      "title": "Te Wahipounamu — <i>South West New Zealand</i> World Heritage Area",
+      "latitude": -45.5334501,
+      "longitude": 167.85307283,
+      "directions": "Near Te Anau-Mossburn Highway (State Route 94) , The Key, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185281",
+      "photo_urls": []
+    },
+    {
+      "id": "185655",
+      "title": "Welcome to Ship Creek",
+      "latitude": -43.757895,
+      "longitude": 169.147636,
+      "directions": "Near Haast Highway (State Route 6) , Haast, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=185655",
+      "photo_urls": []
+    },
+    {
+      "id": "222462",
+      "title": "The Ubiquitous Scow",
+      "latitude": -36.843215,
+      "longitude": 174.7616,
+      "directions": "On Customs Street West, Auckland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222462",
+      "photo_urls": []
+    },
+    {
+      "id": "222467",
+      "title": "Ferry Building",
+      "latitude": -36.843131,
+      "longitude": 174.76687,
+      "directions": "On Quay Street, Auckland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222467",
+      "photo_urls": []
+    },
+    {
+      "id": "222474",
+      "title": "South African War Memorial",
+      "latitude": -36.849863,
+      "longitude": 174.767814,
+      "directions": "Near Princes Street, Auckland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222474",
+      "photo_urls": []
+    },
+    {
+      "id": "222482",
+      "title": "The Dilworth Building",
+      "latitude": -36.844841,
+      "longitude": 174.766721,
+      "directions": "On Queen Street, Auckland, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222482",
+      "photo_urls": []
+    },
+    {
+      "id": "222509",
+      "title": "Administrator House",
+      "latitude": -36.847152,
+      "longitude": 174.767173,
+      "directions": "On O&#39;Connell Street, Auckland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222509",
+      "photo_urls": []
+    },
+    {
+      "id": "222525",
+      "title": "Police Station & Court",
+      "latitude": -36.847659,
+      "longitude": 174.767047,
+      "directions": "On O&#39;Connell Street, Auckland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222525",
+      "photo_urls": []
+    },
+    {
+      "id": "222901",
+      "title": "General Building",
+      "latitude": -36.846945,
+      "longitude": 174.767304,
+      "directions": "On Shortland, Auckland, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=222901",
+      "photo_urls": []
+    },
+    {
+      "id": "223240",
+      "title": "Taihape Clock Tower",
+      "latitude": -39.676336,
+      "longitude": 175.798692,
+      "directions": "On Huia Street, Taihape, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223240",
+      "photo_urls": []
+    },
+    {
+      "id": "223354",
+      "title": "Hikitia Floating Crane",
+      "latitude": -41.289197,
+      "longitude": 174.780344,
+      "directions": "On Commonwealth Walkway, Wellington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223354",
+      "photo_urls": []
+    },
+    {
+      "id": "223831",
+      "title": "Lord Freyberg Statue",
+      "latitude": -36.847768,
+      "longitude": 174.766817,
+      "directions": "On Freyberg Place, Auckland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=223831",
+      "photo_urls": []
+    },
+    {
+      "id": "249701",
+      "title": "Dumont d'Urville",
+      "latitude": -40.9654296,
+      "longitude": 173.05230207,
+      "directions": "On Abel Tasman Coast Track, near Torrent Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=249701",
+      "photo_urls": []
+    },
+    {
+      "id": "289655",
+      "title": "Jean Batten",
+      "latitude": -37.00483333,
+      "longitude": 174.78833056,
+      "directions": "On Cyril Kay Road, Auckland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289655",
+      "photo_urls": []
+    },
+    {
+      "id": "289856",
+      "title": "Government Gardens",
+      "latitude": -38.1350675,
+      "longitude": 176.2557705,
+      "directions": "On Queens Drive, Rotorua, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289856",
+      "photo_urls": []
+    },
+    {
+      "id": "289909",
+      "title": "Wylie Memorial",
+      "latitude": -38.1352336,
+      "longitude": 176.2569353,
+      "directions": "On Queens Drive, Rotorua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289909",
+      "photo_urls": []
+    },
+    {
+      "id": "289977",
+      "title": "Tongariro National Park World Heritage Site",
+      "latitude": -39.2014555,
+      "longitude": 175.540053,
+      "directions": "On State Route 48, Mt. Ruapehu, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=289977",
+      "photo_urls": []
+    },
+    {
+      "id": "290101",
+      "title": "Addington Water Tower",
+      "latitude": -43.5392036,
+      "longitude": 172.6076039,
+      "directions": "On Clarence Street, Christchurch, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290101",
+      "photo_urls": []
+    },
+    {
+      "id": "290235",
+      "title": "Goldrush",
+      "latitude": -42.4486166,
+      "longitude": 171.2138285,
+      "directions": "On MacKay Street, Greymouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290235",
+      "photo_urls": []
+    },
+    {
+      "id": "290236",
+      "title": "The Purchase of Westland: 1860",
+      "latitude": -42.4487472,
+      "longitude": 171.2134983,
+      "directions": "On MacKay Street, Greymouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290236",
+      "photo_urls": []
+    },
+    {
+      "id": "290330",
+      "title": "Don't let rowi become just a memory",
+      "latitude": -43.3863789,
+      "longitude": 170.1818853,
+      "directions": "On Main Road, Franz Josef / Waiau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290330",
+      "photo_urls": []
+    },
+    {
+      "id": "290349",
+      "title": "W&#257;naka Police Stations",
+      "latitude": -44.6954539,
+      "longitude": 169.1362859,
+      "directions": "On Dunmore Street, Wanaka, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290349",
+      "photo_urls": []
+    },
+    {
+      "id": "290423",
+      "title": "New Zealand Moa (Dinomithiformes)",
+      "latitude": -45.0327501,
+      "longitude": 168.65845956,
+      "directions": "On Beach Street, Queenstown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290423",
+      "photo_urls": []
+    },
+    {
+      "id": "290474",
+      "title": "The Manure Room",
+      "latitude": -44.9567706,
+      "longitude": 168.8125192,
+      "directions": "On Ayr Avenue, Arrowtown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290474",
+      "photo_urls": []
+    },
+    {
+      "id": "290526",
+      "title": "The Hayloft",
+      "latitude": -44.9565091,
+      "longitude": 168.8124896,
+      "directions": "Near William Paterson Close, Arrowtown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290526",
+      "photo_urls": []
+    },
+    {
+      "id": "290530",
+      "title": "The Dairy",
+      "latitude": -44.9569579,
+      "longitude": 168.8121909,
+      "directions": "On Ayr Avenue, Arrowtown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290530",
+      "photo_urls": []
+    },
+    {
+      "id": "290532",
+      "title": "The Mary Cotter Tree",
+      "latitude": -44.9389764,
+      "longitude": 168.8336723,
+      "directions": "On Wiltshire Street, Arrowtown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290532",
+      "photo_urls": []
+    },
+    {
+      "id": "290534",
+      "title": "Bank of New Zealand",
+      "latitude": -44.9387054,
+      "longitude": 168.8334859,
+      "directions": "On Buckingham Street, Arrowtown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290534",
+      "photo_urls": []
+    },
+    {
+      "id": "290535",
+      "title": "Crown Range Summit",
+      "latitude": -44.992337,
+      "longitude": 168.9386401,
+      "directions": "On Crown Range Road, Roaring Meg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290535",
+      "photo_urls": []
+    },
+    {
+      "id": "290613",
+      "title": "New Zealand Centennial",
+      "latitude": -38.1624985,
+      "longitude": 176.2567598,
+      "directions": "On Huarere Street, Rotorua, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290613",
+      "photo_urls": []
+    },
+    {
+      "id": "290651",
+      "title": "W.J.M. Larnach Mansion",
+      "latitude": -45.8616138,
+      "longitude": 170.6269437,
+      "directions": "Near Camp Road, Dunedin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290651",
+      "photo_urls": []
+    },
+    {
+      "id": "290795",
+      "title": "The Exchange",
+      "latitude": -45.8778248,
+      "longitude": 170.5018704,
+      "directions": "On Rattray Street, Dunedin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290795",
+      "photo_urls": []
+    },
+    {
+      "id": "290816",
+      "title": "Salvation Army",
+      "latitude": -36.84834416,
+      "longitude": 174.76341672,
+      "directions": "On Albert Street, Auckland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290816",
+      "photo_urls": []
+    },
+    {
+      "id": "290945",
+      "title": "Quo Fas et Gloria Ducunt",
+      "latitude": -45.7761679,
+      "longitude": 170.7289828,
+      "directions": "Near Harington Point Road, Harington Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290945",
+      "photo_urls": []
+    },
+    {
+      "id": "291276",
+      "title": "Maungawhau Mt. Eden",
+      "latitude": -36.8750516,
+      "longitude": 174.7641206,
+      "directions": "On Puhi Huia Road, Auckland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291276",
+      "photo_urls": []
+    },
+    {
+      "id": "291279",
+      "title": "Auckland Provincial Surveyors Association",
+      "latitude": -36.87492266,
+      "longitude": 174.76423207,
+      "directions": "On Puhi Huia Road, Auckland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291279",
+      "photo_urls": []
+    },
+    {
+      "id": "291282",
+      "title": "Achilles Point",
+      "latitude": -36.8440375,
+      "longitude": 174.8641121,
+      "directions": "On Cliff Road, Auckland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291282",
+      "photo_urls": []
+    },
+    {
+      "id": "291311",
+      "title": "Dunedin Cross",
+      "latitude": -45.8769853,
+      "longitude": 170.5052281,
+      "directions": "On Queens Gardens (State Route 1) , Dunedin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291311",
+      "photo_urls": []
+    },
+    {
+      "id": "291313",
+      "title": "Law Courts",
+      "latitude": -45.87534761,
+      "longitude": 170.50767472,
+      "directions": "On Stuart Street, Dunedin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291313",
+      "photo_urls": []
+    },
+    {
+      "id": "291316",
+      "title": "Passchendaele Memorial",
+      "latitude": -45.87524963,
+      "longitude": 170.50868571,
+      "directions": "On Castle Street, Dunedin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291316",
+      "photo_urls": []
+    },
+    {
+      "id": "291317",
+      "title": "Geoff Todd's School of Self-Defence",
+      "latitude": -45.87515921,
+      "longitude": 170.50777777,
+      "directions": "On Stuart Street, Dunedin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291317",
+      "photo_urls": []
+    },
+    {
+      "id": "291318",
+      "title": "Former Bank of New Zealand",
+      "latitude": -45.8773075,
+      "longitude": 170.50193117,
+      "directions": "On Princes Street, Dunedin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291318",
+      "photo_urls": []
+    },
+    {
+      "id": "291319",
+      "title": "In Memory of Captain William Cargill",
+      "latitude": -45.87767485,
+      "longitude": 170.50184727,
+      "directions": "On Rattray Street, Dunedin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291319",
+      "photo_urls": []
+    },
+    {
+      "id": "291331",
+      "title": "Bank of New Zealand",
+      "latitude": -45.87735874,
+      "longitude": 170.50190736,
+      "directions": "On Princes Street, Dunedin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291331",
+      "photo_urls": []
+    },
+    {
+      "id": "291335",
+      "title": "Taiaroa Head Jail",
+      "latitude": -45.7760128,
+      "longitude": 170.7282966,
+      "directions": "On Harington Point Road, Harington Point, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291335",
+      "photo_urls": []
+    },
+    {
+      "id": "291634",
+      "title": "National Bank Coromandel",
+      "latitude": -36.76012626,
+      "longitude": 175.49749643,
+      "directions": "On Kapanga Road, Coromandel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291634",
+      "photo_urls": []
+    },
+    {
+      "id": "291656",
+      "title": "Oi Manawa Canterbury Earthquake National Memorial",
+      "latitude": -43.5346314,
+      "longitude": 172.6315735,
+      "directions": "Near Oxford Terrace, Christchurch, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291656",
+      "photo_urls": []
+    },
+    {
+      "id": "291701",
+      "title": "Prince’s Gate Arches",
+      "latitude": -38.13505053,
+      "longitude": 176.2559443,
+      "directions": "On Hinemaru Street, Rotorua, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291701",
+      "photo_urls": []
+    },
+    {
+      "id": "291704",
+      "title": "The Croquet Pavilion and sports in the gardens",
+      "latitude": -38.13498034,
+      "longitude": 176.25764774,
+      "directions": "On Queens Drive, Rotorua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291704",
+      "photo_urls": []
+    },
+    {
+      "id": "291862",
+      "title": "Seddon Memorial",
+      "latitude": -41.27952183,
+      "longitude": 174.77181539,
+      "directions": "On Kinross Street, Wellington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291862",
+      "photo_urls": []
+    },
+    {
+      "id": "291863",
+      "title": "Priest & Radium Hot Springs",
+      "latitude": -38.13813529,
+      "longitude": 176.25862511,
+      "directions": "Near Hatupatu Drive, Rotorua, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291863",
+      "photo_urls": []
+    },
+    {
+      "id": "291999",
+      "title": "Arthur’s Pass Chapel",
+      "latitude": -42.94030025,
+      "longitude": 171.56193543,
+      "directions": "On West Coast Road, Arthur&#39;s Pass Village, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291999",
+      "photo_urls": []
+    },
+    {
+      "id": "292007",
+      "title": "The Locomotive Turntable",
+      "latitude": -42.94083728,
+      "longitude": 171.56306492,
+      "directions": "On West Coast Road, Arthur&#39;s Pass Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292007",
+      "photo_urls": []
+    },
+    {
+      "id": "292715",
+      "title": "Sacred Site - Maungawhau",
+      "latitude": -36.8767648,
+      "longitude": 174.7638949,
+      "directions": "On Mount Eden Road, Auckland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292715",
+      "photo_urls": []
+    },
+    {
+      "id": "295654",
+      "title": "Roto Kanapanapa",
+      "latitude": -38.165313,
+      "longitude": 176.257227,
+      "directions": "Near Hinganoa Drive, Rotorua, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295654",
+      "photo_urls": []
+    },
+    {
+      "id": "296248",
+      "title": "Boer War 1899-1902",
+      "latitude": -38.1352993,
+      "longitude": 176.2568724,
+      "directions": "On Queens Drive, Rotorua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296248",
+      "photo_urls": []
+    },
+    {
+      "id": "296253",
+      "title": "This stone laid by Te Naera Te Houkotuku",
+      "latitude": -38.1350539,
+      "longitude": 176.2540974,
+      "directions": "On Fenton Street, Rotorua, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296253",
+      "photo_urls": []
+    },
+    {
+      "id": "296256",
+      "title": "George Bernard Shaw",
+      "latitude": -38.0643919,
+      "longitude": 176.3609259,
+      "directions": "Near State Route 30, Rotorua, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296256",
+      "photo_urls": []
+    },
+    {
+      "id": "296260",
+      "title": "Nga Whakairo Tupuna (Ancestral Carvings) at the Hinemoa and Arawa Street entrances to the gardens",
+      "latitude": -38.1350198,
+      "longitude": 176.255691,
+      "directions": "On Hinemaru Street, Rotorua, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296260",
+      "photo_urls": []
+    },
+    {
+      "id": "296323",
+      "title": "Te Arawa H&#257;hi Mihinare / Te Arawa Anglican Church",
+      "latitude": -38.1616991,
+      "longitude": 176.2579119,
+      "directions": "On Huarere Street, Rotorua, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296323",
+      "photo_urls": []
+    }
+  ]
+}
