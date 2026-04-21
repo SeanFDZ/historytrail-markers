@@ -1,0 +1,1550 @@
+{
+  "region_id": "tr-turkiye",
+  "region_name": "Turkiye",
+  "region_type": "country",
+  "country": "Turkiye",
+  "generated": "2026-04-21T11:58:56.818Z",
+  "source_timestamp": "2026-04-21T11:58:56.818Z",
+  "marker_count": 171,
+  "markers": [
+    {
+      "id": "114675",
+      "title": "Research History of Ephesos",
+      "latitude": 37.93601667,
+      "longitude": 27.34573333,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114675",
+      "photo_urls": []
+    },
+    {
+      "id": "114703",
+      "title": "The Early Ephesos",
+      "latitude": 37.93605,
+      "longitude": 27.34571667,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114703",
+      "photo_urls": []
+    },
+    {
+      "id": "114718",
+      "title": "The Hellenistic Ephesos",
+      "latitude": 37.93606667,
+      "longitude": 27.34571667,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114718",
+      "photo_urls": []
+    },
+    {
+      "id": "114723",
+      "title": "Roman Ephesos",
+      "latitude": 37.93608333,
+      "longitude": 27.3457,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114723",
+      "photo_urls": []
+    },
+    {
+      "id": "114972",
+      "title": "Byzantine Ephesos",
+      "latitude": 37.9361,
+      "longitude": 27.3457,
+      "directions": "On Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114972",
+      "photo_urls": []
+    },
+    {
+      "id": "114980",
+      "title": "Ancient Ephesos",
+      "latitude": 37.93615,
+      "longitude": 27.34566667,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114980",
+      "photo_urls": []
+    },
+    {
+      "id": "114998",
+      "title": "Baths at the 'State Agora'",
+      "latitude": 37.93623333,
+      "longitude": 27.34528333,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114998",
+      "photo_urls": []
+    },
+    {
+      "id": "115009",
+      "title": "Temple on the 'State Agora'",
+      "latitude": 37.9364,
+      "longitude": 27.34411667,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115009",
+      "photo_urls": []
+    },
+    {
+      "id": "115080",
+      "title": "The 'Heracles Gate'",
+      "latitude": 37.93748333,
+      "longitude": 27.34293333,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115080",
+      "photo_urls": []
+    },
+    {
+      "id": "115276",
+      "title": "The Heroon of Androclos",
+      "latitude": 37.938819,
+      "longitude": 27.341354,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115276",
+      "photo_urls": []
+    },
+    {
+      "id": "115278",
+      "title": "The Varius Bath",
+      "latitude": 37.938359,
+      "longitude": 27.342153,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115278",
+      "photo_urls": []
+    },
+    {
+      "id": "115289",
+      "title": "Hadrian's Gate",
+      "latitude": 37.938922,
+      "longitude": 27.341252,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115289",
+      "photo_urls": []
+    },
+    {
+      "id": "115299",
+      "title": "The South Gate of the Agora",
+      "latitude": 37.939347,
+      "longitude": 27.341157,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115299",
+      "photo_urls": []
+    },
+    {
+      "id": "115318",
+      "title": "The Archaic-Classical Settlement and the Sepulchre Street",
+      "latitude": 37.939657,
+      "longitude": 27.340694,
+      "directions": "Near Efes Yolu, Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115318",
+      "photo_urls": []
+    },
+    {
+      "id": "115325",
+      "title": "The Last Home of the Blessed Virgin the Mother of Jesus Christ",
+      "latitude": 37.911897,
+      "longitude": 27.333346,
+      "directions": "Near Meryem Ana Yolu, near Sultaniye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115325",
+      "photo_urls": []
+    },
+    {
+      "id": "118843",
+      "title": "Hierapolis",
+      "latitude": 37.92178333,
+      "longitude": 29.13,
+      "directions": "Near Pamukkale, near Pamukkale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118843",
+      "photo_urls": []
+    },
+    {
+      "id": "118853",
+      "title": "Martyrion of St. Philip",
+      "latitude": 37.93106667,
+      "longitude": 29.13026667,
+      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118853",
+      "photo_urls": []
+    },
+    {
+      "id": "118880",
+      "title": "The Theatre",
+      "latitude": 37.92705,
+      "longitude": 29.129466,
+      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118880",
+      "photo_urls": []
+    },
+    {
+      "id": "118898",
+      "title": "Temple Nymphaeum (3rd century AD) / Tapinak Nymphaeumu(i.S, III. yÃ¼zyÄ±l)",
+      "latitude": 37.927003,
+      "longitude": 29.125911,
+      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118898",
+      "photo_urls": []
+    },
+    {
+      "id": "119167",
+      "title": "Yildirim Beyazit Mosque (1390 - 1400 AD)",
+      "latitude": 38.34943333,
+      "longitude": 28.51768333,
+      "directions": "On &#304;smet Pa&#351;a Caddesi, Ala&#351;ehir, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119167",
+      "photo_urls": []
+    },
+    {
+      "id": "119176",
+      "title": "St. Jean Kilisesi",
+      "latitude": 38.3493,
+      "longitude": 28.51768333,
+      "directions": "On &#304;smet Pa&#351;a Caddesi, Ala&#351;ehir, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119176",
+      "photo_urls": []
+    },
+    {
+      "id": "119223",
+      "title": "Sardis",
+      "latitude": 38.48883333,
+      "longitude": 28.039,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119223",
+      "photo_urls": []
+    },
+    {
+      "id": "119275",
+      "title": "Tuvaletler / Latrines",
+      "latitude": 38.48866667,
+      "longitude": 28.03895,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119275",
+      "photo_urls": []
+    },
+    {
+      "id": "119303",
+      "title": "Boya Dükkán / Paint Shop",
+      "latitude": 38.488468,
+      "longitude": 28.03927,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119303",
+      "photo_urls": []
+    },
+    {
+      "id": "119305",
+      "title": "Lokantalar / Restaurants",
+      "latitude": 38.488331,
+      "longitude": 28.039591,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119305",
+      "photo_urls": []
+    },
+    {
+      "id": "119309",
+      "title": "Roman Avenue",
+      "latitude": 38.48815,
+      "longitude": 28.039714,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119309",
+      "photo_urls": []
+    },
+    {
+      "id": "119350",
+      "title": "(Yakub'un) Boya Dükkáni / (Jacob's) Paint Shop",
+      "latitude": 38.48815,
+      "longitude": 28.03998333,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119350",
+      "photo_urls": []
+    },
+    {
+      "id": "119351",
+      "title": "Mesken / Residence",
+      "latitude": 38.488193,
+      "longitude": 28.039887,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119351",
+      "photo_urls": []
+    },
+    {
+      "id": "119363",
+      "title": "Synagogue Forecourt",
+      "latitude": 38.48794,
+      "longitude": 28.040672,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119363",
+      "photo_urls": []
+    },
+    {
+      "id": "119383",
+      "title": "Synagogue",
+      "latitude": 38.488026,
+      "longitude": 28.040734,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119383",
+      "photo_urls": []
+    },
+    {
+      "id": "119405",
+      "title": "Synagogue - Main Hall",
+      "latitude": 38.48808333,
+      "longitude": 28.04028333,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119405",
+      "photo_urls": []
+    },
+    {
+      "id": "119407",
+      "title": "Bath-Gymnasium Complex",
+      "latitude": 38.488258,
+      "longitude": 28.040357,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119407",
+      "photo_urls": []
+    },
+    {
+      "id": "119416",
+      "title": "Iron Crane",
+      "latitude": 38.479702,
+      "longitude": 28.030322,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119416",
+      "photo_urls": []
+    },
+    {
+      "id": "119432",
+      "title": "The Ancient City of Smyrna",
+      "latitude": 38.41851667,
+      "longitude": 27.13856667,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119432",
+      "photo_urls": []
+    },
+    {
+      "id": "119464",
+      "title": "The West Portico",
+      "latitude": 38.41869,
+      "longitude": 27.138427,
+      "directions": "On Tarik Sari Soka&#287;&#305;, &#304;zmir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119464",
+      "photo_urls": []
+    },
+    {
+      "id": "119488",
+      "title": "Temple of Artemis: History and Ground Plan",
+      "latitude": 38.479799,
+      "longitude": 28.030415,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119488",
+      "photo_urls": []
+    },
+    {
+      "id": "119504",
+      "title": "The Altar of Artemis",
+      "latitude": 38.47978333,
+      "longitude": 28.03041667,
+      "directions": "Near Kenan Evren Cd., near Sart, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119504",
+      "photo_urls": []
+    },
+    {
+      "id": "119632",
+      "title": "The Ancient City of Smyrna",
+      "latitude": 38.41853333,
+      "longitude": 27.13858333,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119632",
+      "photo_urls": []
+    },
+    {
+      "id": "119638",
+      "title": "The Agora of Smyrna",
+      "latitude": 38.41848333,
+      "longitude": 27.13853333,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119638",
+      "photo_urls": []
+    },
+    {
+      "id": "119657",
+      "title": "The Agora of Smyrna",
+      "latitude": 38.41846667,
+      "longitude": 27.13851667,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119657",
+      "photo_urls": []
+    },
+    {
+      "id": "119670",
+      "title": "The Dream of Alexander the Great",
+      "latitude": 38.419158,
+      "longitude": 27.138246,
+      "directions": "On Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119670",
+      "photo_urls": []
+    },
+    {
+      "id": "119687",
+      "title": "Neocorus of the Cult of the Emperor at Smyrna",
+      "latitude": 38.419026,
+      "longitude": 27.138418,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119687",
+      "photo_urls": []
+    },
+    {
+      "id": "119691",
+      "title": "The Basement of the West Portico",
+      "latitude": 38.419137,
+      "longitude": 27.138323,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119691",
+      "photo_urls": []
+    },
+    {
+      "id": "119725",
+      "title": "Honorary Inscription",
+      "latitude": 38.419046,
+      "longitude": 27.138412,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119725",
+      "photo_urls": []
+    },
+    {
+      "id": "119729",
+      "title": "Water Channels",
+      "latitude": 38.41902,
+      "longitude": 27.138226,
+      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119729",
+      "photo_urls": []
+    },
+    {
+      "id": "119733",
+      "title": "Ancient City of Thyateira (Thyatira)",
+      "latitude": 38.920253,
+      "longitude": 27.835906,
+      "directions": "On 16. Sk., Akhisar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119733",
+      "photo_urls": []
+    },
+    {
+      "id": "119765",
+      "title": "Apsidal Building",
+      "latitude": 38.920173,
+      "longitude": 27.836172,
+      "directions": "Near 16. Sokak, Akhisar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119765",
+      "photo_urls": []
+    },
+    {
+      "id": "119801",
+      "title": "The Roman Columned Street",
+      "latitude": 38.92009,
+      "longitude": 27.836487,
+      "directions": "Near &#350;ehit Polis Cemal Ilgaz Caddesi, Akhisar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119801",
+      "photo_urls": []
+    },
+    {
+      "id": "119822",
+      "title": "Pergamon Acropolis",
+      "latitude": 39.13178333,
+      "longitude": 27.18538333,
+      "directions": "On Akropol Caddesi, Hamzal&#305;süleymaniye, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119822",
+      "photo_urls": []
+    },
+    {
+      "id": "119831",
+      "title": "The Temple of Trajan",
+      "latitude": 39.13258333,
+      "longitude": 27.18385,
+      "directions": "Near Akropol Caddesi, near Bergama Osb, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119831",
+      "photo_urls": []
+    },
+    {
+      "id": "119882",
+      "title": "Theater / Tiyatro",
+      "latitude": 39.48806667,
+      "longitude": 26.33771667,
+      "directions": "On Behram Yolu, Assos, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119882",
+      "photo_urls": []
+    },
+    {
+      "id": "123122",
+      "title": "The Pithos Garden",
+      "latitude": 39.957001,
+      "longitude": 26.240262,
+      "directions": "Near Tevfikiye Yolu, near Tevfikiye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123122",
+      "photo_urls": []
+    },
+    {
+      "id": "123200",
+      "title": "The East Wall",
+      "latitude": 39.957054,
+      "longitude": 26.239543,
+      "directions": "Near Tevfikiye Yolu, near Tevfikiye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123200",
+      "photo_urls": []
+    },
+    {
+      "id": "123228",
+      "title": "The Northern Bastion",
+      "latitude": 39.957855,
+      "longitude": 26.239254,
+      "directions": "Near Tevfikiye Yolu, near Tevfikiye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123228",
+      "photo_urls": []
+    },
+    {
+      "id": "123252",
+      "title": "The Temple of Athena",
+      "latitude": 39.957781,
+      "longitude": 26.238887,
+      "directions": "On Tevfikiye Yolu, near Tevfikiye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123252",
+      "photo_urls": []
+    },
+    {
+      "id": "123278",
+      "title": "Citadel Wall",
+      "latitude": 39.957451,
+      "longitude": 26.238855,
+      "directions": "Near Tevfikiye Yolu, near Tevfikiye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123278",
+      "photo_urls": []
+    },
+    {
+      "id": "43712",
+      "title": "The Basilica of St. John",
+      "latitude": 37.951774,
+      "longitude": 27.367976,
+      "directions": "Near St. Jean Caddesi, Selçuk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=43712",
+      "photo_urls": []
+    },
+    {
+      "id": "43715",
+      "title": "St. Jean'in (Aziz Yahya) Kimli&#287;i Ve Hayat&#305;/The Life of St. John",
+      "latitude": 37.952473,
+      "longitude": 27.367956,
+      "directions": "Near St. Jean Caddisi, Selçuk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=43715",
+      "photo_urls": []
+    },
+    {
+      "id": "43721",
+      "title": "St. Jean (Aziz Yahya) Kilisesi / The Church of St. John",
+      "latitude": 37.952598,
+      "longitude": 27.367768,
+      "directions": "Near St. Jean Caddisi, Selçuk, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=43721",
+      "photo_urls": []
+    },
+    {
+      "id": "43992",
+      "title": "The Celsus Library",
+      "latitude": 37.939139,
+      "longitude": 27.34075,
+      "directions": "Near Efes Harabeleri (Marble Road/Curetes Street), near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=43992",
+      "photo_urls": []
+    },
+    {
+      "id": "44049",
+      "title": "Last Home of the Blessed Virgin, the Mother of Jesus Christ",
+      "latitude": 37.911753,
+      "longitude": 27.333653,
+      "directions": "Near , near Sultaniye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44049",
+      "photo_urls": []
+    },
+    {
+      "id": "44269",
+      "title": "Processional Way",
+      "latitude": 37.936223,
+      "longitude": 27.345191,
+      "directions": "On Efes Harabelari / Culetes Street, near Acarlar, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44269",
+      "photo_urls": []
+    },
+    {
+      "id": "83891",
+      "title": "Çengel Han",
+      "latitude": 39.937375,
+      "longitude": 32.864011,
+      "directions": "On Atpazari Sokak, Ankara, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83891",
+      "photo_urls": []
+    },
+    {
+      "id": "83912",
+      "title": "Ankara Castle",
+      "latitude": 39.937745,
+      "longitude": 32.863686,
+      "directions": "On Kale Kapisi Sokak, Ankara, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83912",
+      "photo_urls": []
+    },
+    {
+      "id": "83979",
+      "title": "&#304;smet &#304;nönü",
+      "latitude": 39.925404,
+      "longitude": 32.836863,
+      "directions": "Near An&#305;tkabir, Ankara, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83979",
+      "photo_urls": []
+    },
+    {
+      "id": "83995",
+      "title": "History of the Museum Buildings",
+      "latitude": 39.93835,
+      "longitude": 32.86183,
+      "directions": "On Gözcü Sokak, Ankara, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83995",
+      "photo_urls": []
+    },
+    {
+      "id": "84034",
+      "title": "Özkonak Underground Town",
+      "latitude": 38.80702,
+      "longitude": 34.841255,
+      "directions": "Near Özkonak Yeralt&#305; &#350;ehri Yolu, near Özkonak, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84034",
+      "photo_urls": []
+    },
+    {
+      "id": "84035",
+      "title": "Nunnery and Monastery",
+      "latitude": 38.639447,
+      "longitude": 34.845245,
+      "directions": "Near Müze Cadde, Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84035",
+      "photo_urls": []
+    },
+    {
+      "id": "84117",
+      "title": "Chapel of St. Barbara",
+      "latitude": 38.638967,
+      "longitude": 34.845118,
+      "directions": "On Müze Cadde, near Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84117",
+      "photo_urls": []
+    },
+    {
+      "id": "84119",
+      "title": "Y&#305;lanl&#305; (St. Onuphorius) Church",
+      "latitude": 38.638931,
+      "longitude": 34.845497,
+      "directions": "Near Müze Cadde, near Göreme, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84119",
+      "photo_urls": []
+    },
+    {
+      "id": "84120",
+      "title": "Larder/Kitchen/Refectory",
+      "latitude": 38.639017,
+      "longitude": 34.845593,
+      "directions": "Near Müze Cadde, Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84120",
+      "photo_urls": []
+    },
+    {
+      "id": "84121",
+      "title": "Karanl&#305;k (Dark) Church",
+      "latitude": 38.639111,
+      "longitude": 34.845667,
+      "directions": "Near Müze Cadde, Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84121",
+      "photo_urls": []
+    },
+    {
+      "id": "84126",
+      "title": "Chapel of St. Catherine",
+      "latitude": 38.639289,
+      "longitude": 34.84571,
+      "directions": "Near Müze Cadde, near Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84126",
+      "photo_urls": []
+    },
+    {
+      "id": "84151",
+      "title": "Çar&#305;kl&#305; (Sandals) Church",
+      "latitude": 38.639275,
+      "longitude": 34.845815,
+      "directions": "Near Müze Cadde, near Göreme, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84151",
+      "photo_urls": []
+    },
+    {
+      "id": "84152",
+      "title": "Elmal&#305; (Apple) Church",
+      "latitude": 38.639205,
+      "longitude": 34.845175,
+      "directions": "Near Müze Cadde, near Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84152",
+      "photo_urls": []
+    },
+    {
+      "id": "84155",
+      "title": "Chapel of St. Basil",
+      "latitude": 38.638989,
+      "longitude": 34.845164,
+      "directions": "On Müze Cadde, near Göreme, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84155",
+      "photo_urls": []
+    },
+    {
+      "id": "84156",
+      "title": "Tokal&#305; (Buckle) Church",
+      "latitude": 38.641044,
+      "longitude": 34.844615,
+      "directions": "Near Müze Cadde, near Göreme, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84156",
+      "photo_urls": []
+    },
+    {
+      "id": "84169",
+      "title": "Aksaray - Sultanhani Caravanserai (1229)",
+      "latitude": 38.248128,
+      "longitude": 33.547043,
+      "directions": "On Atatürk Caddesi, Sultanhan&#305;, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84169",
+      "photo_urls": []
+    },
+    {
+      "id": "84193",
+      "title": "Aspendos",
+      "latitude": 36.939359,
+      "longitude": 31.172681,
+      "directions": "Near Aspendos Yolu, near Belk&#305;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84193",
+      "photo_urls": []
+    },
+    {
+      "id": "84194",
+      "title": "The Theatre of Aspendos",
+      "latitude": 36.93923,
+      "longitude": 31.17252,
+      "directions": "On Aspendos Yolu, near Belk&#305;s, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84194",
+      "photo_urls": []
+    },
+    {
+      "id": "84207",
+      "title": "Macellum / Agora",
+      "latitude": 36.961167,
+      "longitude": 30.854367,
+      "directions": "Near Perge Yolu, near Barbaros, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84207",
+      "photo_urls": []
+    },
+    {
+      "id": "84208",
+      "title": "Southern Baths",
+      "latitude": 36.961373,
+      "longitude": 30.853443,
+      "directions": "Near Perge Yolu, Barbaros, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84208",
+      "photo_urls": []
+    },
+    {
+      "id": "84209",
+      "title": "Roman Door",
+      "latitude": 36.960509,
+      "longitude": 30.854037,
+      "directions": "Near Perge Yolu, near Barbaros, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84209",
+      "photo_urls": []
+    },
+    {
+      "id": "84210",
+      "title": "Perge",
+      "latitude": 36.960033,
+      "longitude": 30.853954,
+      "directions": "On Perge Yolu, near Barbaros, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84210",
+      "photo_urls": []
+    },
+    {
+      "id": "84215",
+      "title": "Perge",
+      "latitude": 36.960008,
+      "longitude": 30.853909,
+      "directions": "On Perge Yolu, near Barbaros, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84215",
+      "photo_urls": []
+    },
+    {
+      "id": "84257",
+      "title": "Caunus",
+      "latitude": 36.822856,
+      "longitude": 28.623303,
+      "directions": "On Isimsiz Yol, near Çandir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84257",
+      "photo_urls": []
+    },
+    {
+      "id": "84274",
+      "title": "Mevlâna Museum",
+      "latitude": 37.870502,
+      "longitude": 32.505817,
+      "directions": "Near Aslanli Kisla Cadde, Konya, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84274",
+      "photo_urls": []
+    },
+    {
+      "id": "84275",
+      "title": "The Tomb of Ahmed Eflâkî Dede",
+      "latitude": 37.870768,
+      "longitude": 32.505817,
+      "directions": "Near Aslanli Kisla Cadde, Konya, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84275",
+      "photo_urls": []
+    },
+    {
+      "id": "84281",
+      "title": "The 'State Agora'",
+      "latitude": 37.936367,
+      "longitude": 27.345172,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84281",
+      "photo_urls": []
+    },
+    {
+      "id": "84282",
+      "title": "The Bouleuterion",
+      "latitude": 37.936671,
+      "longitude": 27.344915,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84282",
+      "photo_urls": []
+    },
+    {
+      "id": "84335",
+      "title": "The 'Rhodian Peristyle' and The Prytaneum",
+      "latitude": 37.936884,
+      "longitude": 27.344327,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84335",
+      "photo_urls": []
+    },
+    {
+      "id": "84336",
+      "title": "The Temple of Domitian",
+      "latitude": 37.937246,
+      "longitude": 27.34329,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84336",
+      "photo_urls": []
+    },
+    {
+      "id": "84337",
+      "title": "Pollio Monument and Fountain of Domitian",
+      "latitude": 37.936862,
+      "longitude": 27.34332,
+      "directions": "Near Efes Yolu, Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84337",
+      "photo_urls": []
+    },
+    {
+      "id": "84342",
+      "title": "Hydrekdocheion",
+      "latitude": 37.936203,
+      "longitude": 27.343324,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84342",
+      "photo_urls": []
+    },
+    {
+      "id": "84343",
+      "title": "The Inscriptions Museum",
+      "latitude": 37.936195,
+      "longitude": 27.343213,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84343",
+      "photo_urls": []
+    },
+    {
+      "id": "84345",
+      "title": "The Memmius Monument",
+      "latitude": 37.937213,
+      "longitude": 27.343099,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84345",
+      "photo_urls": []
+    },
+    {
+      "id": "84361",
+      "title": "Hellenistic Fountain House",
+      "latitude": 37.94111,
+      "longitude": 27.342018,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84361",
+      "photo_urls": []
+    },
+    {
+      "id": "84362",
+      "title": "The Great Theatre",
+      "latitude": 37.940819,
+      "longitude": 27.34206,
+      "directions": "On Efes Harabeleri (Marble Road/Harbor Street), near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84362",
+      "photo_urls": []
+    },
+    {
+      "id": "84363",
+      "title": "Tetragonos Agora - The Commercial Market",
+      "latitude": 37.939573,
+      "longitude": 27.341173,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84363",
+      "photo_urls": []
+    },
+    {
+      "id": "84364",
+      "title": "The So-Called House of Pleasure",
+      "latitude": 37.93906,
+      "longitude": 27.341508,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84364",
+      "photo_urls": []
+    },
+    {
+      "id": "84519",
+      "title": "The Nymphaeum Traiani",
+      "latitude": 37.938148,
+      "longitude": 27.342417,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84519",
+      "photo_urls": []
+    },
+    {
+      "id": "84520",
+      "title": "Terrace House 1",
+      "latitude": 37.938213,
+      "longitude": 27.342108,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84520",
+      "photo_urls": []
+    },
+    {
+      "id": "84521",
+      "title": "The So-Called Alytarchs' Stoa",
+      "latitude": 37.938347,
+      "longitude": 27.341932,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84521",
+      "photo_urls": []
+    },
+    {
+      "id": "84541",
+      "title": "The Temple of Hadrian",
+      "latitude": 37.938557,
+      "longitude": 27.341882,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84541",
+      "photo_urls": []
+    },
+    {
+      "id": "84542",
+      "title": "The Latrine",
+      "latitude": 37.938772,
+      "longitude": 27.341584,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84542",
+      "photo_urls": []
+    },
+    {
+      "id": "84543",
+      "title": "Terrace House 2",
+      "latitude": 37.938594,
+      "longitude": 27.341612,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84543",
+      "photo_urls": []
+    },
+    {
+      "id": "84554",
+      "title": "The Hellenistic Fountain and the Hexagon",
+      "latitude": 37.93852,
+      "longitude": 27.341702,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84554",
+      "photo_urls": []
+    },
+    {
+      "id": "84555",
+      "title": "Peristyle Courtyard of Dwelling Unit 6",
+      "latitude": 37.938329,
+      "longitude": 27.34153,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84555",
+      "photo_urls": []
+    },
+    {
+      "id": "84556",
+      "title": "Graffiti in Terrace House 2",
+      "latitude": 37.938151,
+      "longitude": 27.341189,
+      "directions": "Near Efes Yolu, near Acarlar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84556",
+      "photo_urls": []
+    },
+    {
+      "id": "84566",
+      "title": "The Roman Bath",
+      "latitude": 36.826478,
+      "longitude": 28.621592,
+      "directions": "Near Isimsiz Yol, near Çandir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84566",
+      "photo_urls": []
+    },
+    {
+      "id": "84567",
+      "title": "The Domed Church",
+      "latitude": 36.826241,
+      "longitude": 28.622179,
+      "directions": "On Isimsiz Yol, near Çandir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84567",
+      "photo_urls": []
+    },
+    {
+      "id": "84568",
+      "title": "Theater Fountain",
+      "latitude": 36.82576,
+      "longitude": 28.623366,
+      "directions": "Near Isimsiz Yol, near Çandir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84568",
+      "photo_urls": []
+    },
+    {
+      "id": "84569",
+      "title": "Theater",
+      "latitude": 36.825726,
+      "longitude": 28.623261,
+      "directions": "Near Isimsiz Yol, near Çandir, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84569",
+      "photo_urls": []
+    },
+    {
+      "id": "84609",
+      "title": "Topkapi Palace",
+      "latitude": 41.008444,
+      "longitude": 28.98138,
+      "directions": "On So&#x11F;uk Ã‡e&#x15F;me Sokak, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84609",
+      "photo_urls": []
+    },
+    {
+      "id": "84610",
+      "title": "The Fountain of Ahmed III",
+      "latitude": 41.008115,
+      "longitude": 28.981299,
+      "directions": "On So&#x11F;uk Ã‡e&#x15F;me Sokak, &#304;stanbul, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84610",
+      "photo_urls": []
+    },
+    {
+      "id": "84632",
+      "title": "Haseki Hurrem Bathhouse",
+      "latitude": 41.007235,
+      "longitude": 28.979303,
+      "directions": "On Ayasofya Meydan&#x131;, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84632",
+      "photo_urls": []
+    },
+    {
+      "id": "84635",
+      "title": "Mausoleum of Sultan Ahmed I",
+      "latitude": 41.007013,
+      "longitude": 28.977367,
+      "directions": "On Kabasakal Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84635",
+      "photo_urls": []
+    },
+    {
+      "id": "84689",
+      "title": "Cistern of Philoxenos",
+      "latitude": 41.007958,
+      "longitude": 28.975452,
+      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84689",
+      "photo_urls": []
+    },
+    {
+      "id": "84691",
+      "title": "St. Euphemia's Martyrion",
+      "latitude": 41.007672,
+      "longitude": 28.975345,
+      "directions": "Near Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84691",
+      "photo_urls": []
+    },
+    {
+      "id": "84692",
+      "title": "German Fountain",
+      "latitude": 41.007081,
+      "longitude": 28.976615,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84692",
+      "photo_urls": []
+    },
+    {
+      "id": "84709",
+      "title": "Admiral Hayrettin",
+      "latitude": 41.004069,
+      "longitude": 28.98188,
+      "directions": "On Ah&#x131;rkap&#x131; Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84709",
+      "photo_urls": []
+    },
+    {
+      "id": "84710",
+      "title": "Walled Obelisk",
+      "latitude": 41.005662,
+      "longitude": 28.9751,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84710",
+      "photo_urls": []
+    },
+    {
+      "id": "84711",
+      "title": "Obelisk of Theodosius",
+      "latitude": 41.005871,
+      "longitude": 28.975352,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84711",
+      "photo_urls": []
+    },
+    {
+      "id": "84712",
+      "title": "Serpent Column",
+      "latitude": 41.006135,
+      "longitude": 28.975625,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84712",
+      "photo_urls": []
+    },
+    {
+      "id": "84738",
+      "title": "The Milion Stone",
+      "latitude": 41.008068,
+      "longitude": 28.978125,
+      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84738",
+      "photo_urls": []
+    },
+    {
+      "id": "84739",
+      "title": "Million",
+      "latitude": 41.008117,
+      "longitude": 28.978178,
+      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84739",
+      "photo_urls": []
+    },
+    {
+      "id": "84740",
+      "title": "Basilica Cistern",
+      "latitude": 41.008445,
+      "longitude": 28.97791,
+      "directions": "On Yerebatan Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84740",
+      "photo_urls": []
+    },
+    {
+      "id": "84745",
+      "title": "The Basilica Cistern",
+      "latitude": 41.008408,
+      "longitude": 28.977964,
+      "directions": "On Yerebatan Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84745",
+      "photo_urls": []
+    },
+    {
+      "id": "84754",
+      "title": "Hagia Sophia",
+      "latitude": 41.008787,
+      "longitude": 28.979414,
+      "directions": "On Caferiye Sokak, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84754",
+      "photo_urls": []
+    },
+    {
+      "id": "84755",
+      "title": "The Remnants of the Theodosian Hagia Sophia (5th Century)",
+      "latitude": 41.009026,
+      "longitude": 28.979569,
+      "directions": "On Caferiye Sokak, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84755",
+      "photo_urls": []
+    },
+    {
+      "id": "84756",
+      "title": "The Türbe (Tomb) of Sultan Mehmed III",
+      "latitude": 41.007985,
+      "longitude": 28.979805,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84756",
+      "photo_urls": []
+    },
+    {
+      "id": "84757",
+      "title": "The Türbe (Tomb) of Sultan Selim II",
+      "latitude": 41.008171,
+      "longitude": 28.979516,
+      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84757",
+      "photo_urls": []
+    },
+    {
+      "id": "84812",
+      "title": "Rustem Pasha Mosque",
+      "latitude": 41.017721,
+      "longitude": 28.968673,
+      "directions": "On Mahkeme Sokak, &#304;stanbul, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84812",
+      "photo_urls": []
+    },
+    {
+      "id": "84814",
+      "title": "The History of the Egyptian Bazaar",
+      "latitude": 41.017237,
+      "longitude": 28.971178,
+      "directions": "On Tahmis Sokak, &#304;stanbul, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84814",
+      "photo_urls": []
+    },
+    {
+      "id": "84815",
+      "title": "Marmara Land Walls (Theodosian Walls)",
+      "latitude": 41.004093,
+      "longitude": 28.982321,
+      "directions": "On Ah&#x131;rkap&#x131; Caddesi, &#304;stanbul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84815",
+      "photo_urls": []
+    },
+    {
+      "id": "84829",
+      "title": "The Tunnel",
+      "latitude": 41.027817,
+      "longitude": 28.971918,
+      "directions": "On Me&#x15F;rutiyet Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84829",
+      "photo_urls": []
+    },
+    {
+      "id": "84831",
+      "title": "Maksem Taksim",
+      "latitude": 41.036331,
+      "longitude": 28.984389,
+      "directions": "On Taksim Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84831",
+      "photo_urls": []
+    },
+    {
+      "id": "84857",
+      "title": "March 16th Martyrs",
+      "latitude": 41.012405,
+      "longitude": 28.95954,
+      "directions": "On 16 Mart &#x15E;ehitleri Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84857",
+      "photo_urls": []
+    },
+    {
+      "id": "84860",
+      "title": "The Tomb of Suleiman the Magnificent",
+      "latitude": 41.015489,
+      "longitude": 28.963906,
+      "directions": "Near Kirazl&#x131; Mescit Sokak, &#304;stanbul, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84860",
+      "photo_urls": []
+    },
+    {
+      "id": "84862",
+      "title": "Suleymaniye Mosque and Social Complex",
+      "latitude": 41.015278,
+      "longitude": 28.963694,
+      "directions": "On Profesör S&#x131;dd&#x131;k Sami Onar Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84862",
+      "photo_urls": []
+    },
+    {
+      "id": "84876",
+      "title": "Mimar Sinan",
+      "latitude": 41.017274,
+      "longitude": 28.963846,
+      "directions": "On Mimar Sinan Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84876",
+      "photo_urls": []
+    },
+    {
+      "id": "84877",
+      "title": "Galatasaray&#305; Hamami",
+      "latitude": 41.03287,
+      "longitude": 28.979908,
+      "directions": "On Turnac&#305;ba&#351;&#305; Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84877",
+      "photo_urls": []
+    },
+    {
+      "id": "84878",
+      "title": "Galata Tower",
+      "latitude": 41.025611,
+      "longitude": 28.97428,
+      "directions": "On Galata Kulesi, &#304;stanbul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84878",
+      "photo_urls": []
+    },
+    {
+      "id": "84948",
+      "title": "Firuz Aga Mosque",
+      "latitude": 41.007947,
+      "longitude": 28.976265,
+      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84948",
+      "photo_urls": []
+    },
+    {
+      "id": "84950",
+      "title": "&#350;imke&#351;hane",
+      "latitude": 41.009342,
+      "longitude": 28.962611,
+      "directions": "On Darphane Sokak, &#304;stanbul, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84950",
+      "photo_urls": []
+    },
+    {
+      "id": "84952",
+      "title": "The Ruins of the Triumphal Arch of Theodosius",
+      "latitude": 41.009422,
+      "longitude": 28.962209,
+      "directions": "On Ordu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84952",
+      "photo_urls": []
+    },
+    {
+      "id": "84979",
+      "title": "Ruins of Bucoleon Palace",
+      "latitude": 41.002377,
+      "longitude": 28.976194,
+      "directions": "On Kap&#x131;a&#x11F;as&#x131; Hisar&#x131; Sokak, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84979",
+      "photo_urls": []
+    },
+    {
+      "id": "84980",
+      "title": "The Building of Ministry of Post and Telegraph (Grand Post Office)",
+      "latitude": 41.014446,
+      "longitude": 28.974347,
+      "directions": "On BÃ¼yÃ¼k Postane Caddesi, &#304;stanbul, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=84980",
+      "photo_urls": []
+    },
+    {
+      "id": "85033",
+      "title": "Pasakapisi",
+      "latitude": 41.011161,
+      "longitude": 28.978067,
+      "directions": "On Alaykö&#x15F;kÃ¼ Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85033",
+      "photo_urls": []
+    },
+    {
+      "id": "85041",
+      "title": "Gulhane Park",
+      "latitude": 41.01094,
+      "longitude": 28.978967,
+      "directions": "Near Alemdar Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85041",
+      "photo_urls": []
+    },
+    {
+      "id": "85044",
+      "title": "Alay Pavillion",
+      "latitude": 41.010881,
+      "longitude": 28.978248,
+      "directions": "On Alemdar Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85044",
+      "photo_urls": []
+    },
+    {
+      "id": "85075",
+      "title": "Sirkeci Terminal",
+      "latitude": 41.015177,
+      "longitude": 28.976342,
+      "directions": "On Ankara Caddesi, &#304;stanbul, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85075",
+      "photo_urls": []
+    },
+    {
+      "id": "85077",
+      "title": "&#350;ehzade Mosque and Complex",
+      "latitude": 41.013892,
+      "longitude": 28.956073,
+      "directions": "On 15 Temmuz &#x15E;ehitleri Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85077",
+      "photo_urls": []
+    },
+    {
+      "id": "85110",
+      "title": "Lone Pine Cemetery",
+      "latitude": 40.230355,
+      "longitude": 26.287604,
+      "directions": "Near Edirne Çanakkale Yolu (Route E87/D55) , near Eceabat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85110",
+      "photo_urls": []
+    },
+    {
+      "id": "85111",
+      "title": "The Gallipoli Campaign of 1915",
+      "latitude": 40.230559,
+      "longitude": 26.287081,
+      "directions": "On Edirne Çanakkale Yolu (Route E87/D55) , near Eceabat, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85111",
+      "photo_urls": []
+    },
+    {
+      "id": "85113",
+      "title": "57th Infantry Regiment",
+      "latitude": 40.24019,
+      "longitude": 26.292506,
+      "directions": "On Edirne Çanakkale Yolu (Route E87/D55) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85113",
+      "photo_urls": []
+    },
+    {
+      "id": "85115",
+      "title": "The Nek Cemetery",
+      "latitude": 40.242412,
+      "longitude": 26.290285,
+      "directions": "On Edirne Çanakkale Yolu (State Route E87/D55) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85115",
+      "photo_urls": []
+    },
+    {
+      "id": "85145",
+      "title": "The Nek",
+      "latitude": 40.242456,
+      "longitude": 26.290557,
+      "directions": "Near Edirne Çanakkale Yolu (Route E87/D55) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85145",
+      "photo_urls": []
+    },
+    {
+      "id": "85147",
+      "title": "The Nek - Sergeant Mehmet's Memorial",
+      "latitude": 40.242566,
+      "longitude": 26.290971,
+      "directions": "Near Edirne Çanakkale Yolu (Route E87) , near Eceabat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85147",
+      "photo_urls": []
+    },
+    {
+      "id": "85148",
+      "title": "The Moment When Mustafa Kemal Was Granted to Our Nation (with his own words)",
+      "latitude": 40.252433,
+      "longitude": 26.308336,
+      "directions": "On Edirne Çanakkale Yolu (Route E87) , near Eceabat, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85148",
+      "photo_urls": []
+    },
+    {
+      "id": "85151",
+      "title": "Chunuk Bair",
+      "latitude": 40.252355,
+      "longitude": 26.308088,
+      "directions": "Near Edirne Çanakkale Yolu, Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85151",
+      "photo_urls": []
+    },
+    {
+      "id": "85183",
+      "title": "Ariburnu",
+      "latitude": 40.238662,
+      "longitude": 26.277168,
+      "directions": "On Edirne Çanakkale Yolu (Route E87) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85183",
+      "photo_urls": []
+    },
+    {
+      "id": "85184",
+      "title": "Ari Burnu Cemetery",
+      "latitude": 40.238846,
+      "longitude": 26.277002,
+      "directions": "Near Edirne Çanakkale Yolu (Route E87) , Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85184",
+      "photo_urls": []
+    },
+    {
+      "id": "85219",
+      "title": "Anzac Cove",
+      "latitude": 40.234604,
+      "longitude": 26.277347,
+      "directions": "On Edirne Çanakkale Yolu (Route D550) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85219",
+      "photo_urls": []
+    },
+    {
+      "id": "85220",
+      "title": "Atatürk's Tribute",
+      "latitude": 40.238656,
+      "longitude": 26.276985,
+      "directions": "On Edirne Çanakkale Yolu (Route D550) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85220",
+      "photo_urls": []
+    },
+    {
+      "id": "85241",
+      "title": "Beach Cemetery",
+      "latitude": 40.232544,
+      "longitude": 26.276605,
+      "directions": "Near Edirne Çanakkale Yolu (Route D550) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85241",
+      "photo_urls": []
+    },
+    {
+      "id": "85248",
+      "title": "Monument of Respect for the Mehmetcik",
+      "latitude": 40.220035,
+      "longitude": 26.284881,
+      "directions": "On Edirne Çanakkale Yolu (Route D550) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85248",
+      "photo_urls": []
+    },
+    {
+      "id": "85281",
+      "title": "North Beach & Sphinx",
+      "latitude": 40.238971,
+      "longitude": 26.278047,
+      "directions": "Near Edirne Çanakkale Yolu (Route E87) , near Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85281",
+      "photo_urls": []
+    },
+    {
+      "id": "85295",
+      "title": "Anzac Commemorative Site",
+      "latitude": 40.240774,
+      "longitude": 26.280932,
+      "directions": "On Edirne Çanakkale Yolu (State Route D550) , Eceabat, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85295",
+      "photo_urls": []
+    },
+    {
+      "id": "86075",
+      "title": "Kapi Agasi Mahmud Aga Mosque",
+      "latitude": 41.003341,
+      "longitude": 28.976697,
+      "directions": "On Fenerlikap&#x131; Sokak, &#304;stanbul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=86075",
+      "photo_urls": []
+    },
+    {
+      "id": "95748",
+      "title": "Adnan Kahveci",
+      "latitude": 40.900049,
+      "longitude": 29.227018,
+      "directions": "On Abdi &#304;pekçi Caddesi, &#304;stanbul, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95748",
+      "photo_urls": []
+    }
+  ]
+}
