@@ -1,0 +1,533 @@
+{
+  "region_id": "ca-yt",
+  "region_name": "Yukon",
+  "region_type": "province",
+  "country": "Canada",
+  "generated": "2026-04-21T11:58:56.815Z",
+  "source_timestamp": "2026-04-21T11:58:56.815Z",
+  "marker_count": 58,
+  "markers": [
+    {
+      "id": "108780",
+      "title": "The Overland Trail",
+      "latitude": 61.8176033,
+      "longitude": -136.05797,
+      "directions": "Near Klondike Highway (State Route 2) , Montague, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108780",
+      "photo_urls": []
+    },
+    {
+      "id": "108781",
+      "title": "Pelly Crossing",
+      "latitude": 62.82703667,
+      "longitude": -136.579905,
+      "directions": "On Klondike Highway (State Route 2) , Pelly Crossing, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108781",
+      "photo_urls": []
+    },
+    {
+      "id": "108782",
+      "title": "Sternwheelers on the Stewart River",
+      "latitude": 63.45419165,
+      "longitude": -136.94063002,
+      "directions": "On Klondike Highway (State Route 2) , Stewart Crossing, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108782",
+      "photo_urls": []
+    },
+    {
+      "id": "248650",
+      "title": "White Pass & Yukon Route Railway",
+      "latitude": 60.16476277,
+      "longitude": -134.7060739,
+      "directions": "On Dawson Charlie Street, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248650",
+      "photo_urls": []
+    },
+    {
+      "id": "248651",
+      "title": "The Duchess",
+      "latitude": 60.16487864,
+      "longitude": -134.70566511,
+      "directions": "On Dawson Charlie Street, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248651",
+      "photo_urls": []
+    },
+    {
+      "id": "248652",
+      "title": "The Matthew Watson Store",
+      "latitude": 60.16479057,
+      "longitude": -134.70653415,
+      "directions": "On Dawson Charlie Street, Carcross, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248652",
+      "photo_urls": []
+    },
+    {
+      "id": "248653",
+      "title": "SS Tutshi",
+      "latitude": 60.16477493,
+      "longitude": -134.70447668,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248653",
+      "photo_urls": []
+    },
+    {
+      "id": "248654",
+      "title": "\"To the Land Where Beauty Does Abide\"",
+      "latitude": 60.16505757,
+      "longitude": -134.70427133,
+      "directions": "On Caribou Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248654",
+      "photo_urls": []
+    },
+    {
+      "id": "248655",
+      "title": "Restoration of the \"SS Tutshi\"",
+      "latitude": 60.16507814,
+      "longitude": -134.70414811,
+      "directions": "On Caribou Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248655",
+      "photo_urls": []
+    },
+    {
+      "id": "248659",
+      "title": "Taagísh Shaaná<u>x</u> Deiyi / Xóots Leitóo<u>x</u>",
+      "latitude": 60.16481428,
+      "longitude": -134.70452709,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248659",
+      "photo_urls": []
+    },
+    {
+      "id": "248660",
+      "title": "A Matter of Safety",
+      "latitude": 60.16497321,
+      "longitude": -134.70406488,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248660",
+      "photo_urls": []
+    },
+    {
+      "id": "248662",
+      "title": "Nen/Haa aaní/The land",
+      "latitude": 60.16487625,
+      "longitude": -134.70401088,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248662",
+      "photo_urls": []
+    },
+    {
+      "id": "248664",
+      "title": "Caribou Hotel Historic Site",
+      "latitude": 60.16511884,
+      "longitude": -134.70634103,
+      "directions": "On Dawson Charlie Street, Carcross, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248664",
+      "photo_urls": []
+    },
+    {
+      "id": "248668",
+      "title": "Boats of the Southern Lakes",
+      "latitude": 60.16494524,
+      "longitude": -134.70383654,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248668",
+      "photo_urls": []
+    },
+    {
+      "id": "248716",
+      "title": "\"Tutshi\" Mechanics",
+      "latitude": 60.16502885,
+      "longitude": -134.70390726,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248716",
+      "photo_urls": []
+    },
+    {
+      "id": "248717",
+      "title": "\"The Crew of the \"SS Tutshi\"",
+      "latitude": 60.16500143,
+      "longitude": -134.70384552,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248717",
+      "photo_urls": []
+    },
+    {
+      "id": "248719",
+      "title": "Adapting to Changing Times",
+      "latitude": 60.16500989,
+      "longitude": -134.70390955,
+      "directions": "On Caribou Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248719",
+      "photo_urls": []
+    },
+    {
+      "id": "248720",
+      "title": "SS Tutshi Mechanical Equipment",
+      "latitude": 60.16504811,
+      "longitude": -134.70388949,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248720",
+      "photo_urls": []
+    },
+    {
+      "id": "248722",
+      "title": "Safe Harbour",
+      "latitude": 60.16492658,
+      "longitude": -134.70407591,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248722",
+      "photo_urls": []
+    },
+    {
+      "id": "248728",
+      "title": "WP & YR and Carcross",
+      "latitude": 60.16496087,
+      "longitude": -134.70393399,
+      "directions": "On Yukon Road, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248728",
+      "photo_urls": []
+    },
+    {
+      "id": "248729",
+      "title": "Freighting on the Southern Lakes",
+      "latitude": 60.16497205,
+      "longitude": -134.7038253,
+      "directions": "On Dawson Charlie Highway, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=248729",
+      "photo_urls": []
+    },
+    {
+      "id": "282328",
+      "title": "White Pass and Yukon Railway / Chemin de Fer White Pass and Yukon",
+      "latitude": 60.16482165,
+      "longitude": -134.70597283,
+      "directions": "On Dawson Charlie Street, Carcross, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282328",
+      "photo_urls": []
+    },
+    {
+      "id": "42695",
+      "title": "Robert Service's Cabin / La cabane de Robert Service",
+      "latitude": 64.056,
+      "longitude": -139.43071,
+      "directions": "On Eighth Avenue, Dawson City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42695",
+      "photo_urls": []
+    },
+    {
+      "id": "42699",
+      "title": "SS Klondike",
+      "latitude": 60.71375,
+      "longitude": -135.0486,
+      "directions": "Near South Access Road, Whitehorse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42699",
+      "photo_urls": []
+    },
+    {
+      "id": "42727",
+      "title": "Copper Nugget",
+      "latitude": 60.72165,
+      "longitude": -135.05174,
+      "directions": "On Front Street, Whitehorse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42727",
+      "photo_urls": []
+    },
+    {
+      "id": "42832",
+      "title": "Alaska Highway",
+      "latitude": 60.71197,
+      "longitude": -135.0795,
+      "directions": "Near Norseman Road, Whitehorse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42832",
+      "photo_urls": []
+    },
+    {
+      "id": "42863",
+      "title": "White Pass and Yukon Route Railway",
+      "latitude": 60.72004,
+      "longitude": -135.05003,
+      "directions": "On 1st Avenue, Whitehorse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42863",
+      "photo_urls": []
+    },
+    {
+      "id": "42864",
+      "title": "Log Church & Rectory",
+      "latitude": 60.71834,
+      "longitude": -135.05413,
+      "directions": "On Elliott Street, Whitehorse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=42864",
+      "photo_urls": []
+    },
+    {
+      "id": "44702",
+      "title": "Discovery Claim / Concession de la Découverte",
+      "latitude": 63.92782324,
+      "longitude": -139.32523581,
+      "directions": "On Bonanza Creek Road, near Grand Forks, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44702",
+      "photo_urls": []
+    },
+    {
+      "id": "44711",
+      "title": "West Dawson",
+      "latitude": 64.071674,
+      "longitude": -139.43703,
+      "directions": "On Top of the World Highway, West Dawson, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44711",
+      "photo_urls": []
+    },
+    {
+      "id": "44761",
+      "title": "Yukon Saw Mill Office Historic Site",
+      "latitude": 64.06581,
+      "longitude": -139.430155,
+      "directions": "On Front Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44761",
+      "photo_urls": []
+    },
+    {
+      "id": "44762",
+      "title": "The Midnight Dome",
+      "latitude": 64.067959,
+      "longitude": -139.39646,
+      "directions": "On Midnight Dome Road, near Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44762",
+      "photo_urls": []
+    },
+    {
+      "id": "44857",
+      "title": "Bank of British North America / La Bank of British North America",
+      "latitude": 64.062168,
+      "longitude": -139.43427,
+      "directions": "On 2nd Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44857",
+      "photo_urls": []
+    },
+    {
+      "id": "44859",
+      "title": "The B.Y.N. Co. Ticket Office / La billettetereie de la compagnie B.Y.N.",
+      "latitude": 64.064242,
+      "longitude": -139.43311,
+      "directions": "On Front Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44859",
+      "photo_urls": []
+    },
+    {
+      "id": "44887",
+      "title": "Ruby’s Place / La maison de Ruby",
+      "latitude": 64.061202,
+      "longitude": -139.43517,
+      "directions": "On Second Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44887",
+      "photo_urls": []
+    },
+    {
+      "id": "44890",
+      "title": "Palace Grand Theatre/Le théâtre Grand Palace",
+      "latitude": 64.06351,
+      "longitude": -139.43136,
+      "directions": "On King Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44890",
+      "photo_urls": []
+    },
+    {
+      "id": "44933",
+      "title": "Madame Tremblay’s Store / Le magasin de Madame Tremblay",
+      "latitude": 64.062966,
+      "longitude": -139.43041,
+      "directions": "On 3rd Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44933",
+      "photo_urls": []
+    },
+    {
+      "id": "44936",
+      "title": "Post Office / Le bureau de poste",
+      "latitude": 64.063022,
+      "longitude": -139.43088,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44936",
+      "photo_urls": []
+    },
+    {
+      "id": "49301",
+      "title": "Dawson Daily News",
+      "latitude": 64.062121,
+      "longitude": -139.4317,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49301",
+      "photo_urls": []
+    },
+    {
+      "id": "49302",
+      "title": "K.T.M. Company",
+      "latitude": 64.061108,
+      "longitude": -139.4332,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49302",
+      "photo_urls": []
+    },
+    {
+      "id": "49303",
+      "title": "Harrington’s Store",
+      "latitude": 64.06077,
+      "longitude": -139.434407,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49303",
+      "photo_urls": []
+    },
+    {
+      "id": "49304",
+      "title": "Billy Bigg’s Blacksmith Shop",
+      "latitude": 64.060301,
+      "longitude": -139.43427,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49304",
+      "photo_urls": []
+    },
+    {
+      "id": "49305",
+      "title": "3rd Avenue Complex",
+      "latitude": 64.059587,
+      "longitude": -139.43556,
+      "directions": "On Third Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49305",
+      "photo_urls": []
+    },
+    {
+      "id": "49306",
+      "title": "Yukon Hotel",
+      "latitude": 64.059399,
+      "longitude": -139.43822,
+      "directions": "On Front Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49306",
+      "photo_urls": []
+    },
+    {
+      "id": "49307",
+      "title": "St. Andrew’s Church and Manse",
+      "latitude": 64.058048,
+      "longitude": -139.43586,
+      "directions": "On Church Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49307",
+      "photo_urls": []
+    },
+    {
+      "id": "49341",
+      "title": "N.W.M.P. Commanding Officer’s Quarters",
+      "latitude": 64.056001,
+      "longitude": -139.43453,
+      "directions": "On Fifth Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49341",
+      "photo_urls": []
+    },
+    {
+      "id": "49343",
+      "title": "Macaulay’s Residence / Résidence Macaulay",
+      "latitude": 64.059493,
+      "longitude": -139.43002,
+      "directions": "On Princess Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49343",
+      "photo_urls": []
+    },
+    {
+      "id": "49345",
+      "title": "Dr. Brown’s Residence",
+      "latitude": 64.059118,
+      "longitude": -139.42878,
+      "directions": "On Princess Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49345",
+      "photo_urls": []
+    },
+    {
+      "id": "49346",
+      "title": "Northern Commercial Co. Warehouse",
+      "latitude": 64.062046,
+      "longitude": -139.42754,
+      "directions": "On King Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49346",
+      "photo_urls": []
+    },
+    {
+      "id": "49348",
+      "title": "Arctic Brotherhood Hall",
+      "latitude": 64.06150661,
+      "longitude": -139.43066597,
+      "directions": "On Fourth Avenue, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49348",
+      "photo_urls": []
+    },
+    {
+      "id": "49349",
+      "title": "Tribute to the Miner",
+      "latitude": 64.061464,
+      "longitude": -139.43732,
+      "directions": "On Front Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49349",
+      "photo_urls": []
+    },
+    {
+      "id": "49366",
+      "title": "White Pass & Yukon Route",
+      "latitude": 60.165212,
+      "longitude": -134.70389,
+      "directions": "On Tagish Avenue, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49366",
+      "photo_urls": []
+    },
+    {
+      "id": "49612",
+      "title": "The Tatshenshini River",
+      "latitude": 60.038789,
+      "longitude": -136.88289,
+      "directions": "On Haines Highway (State Route 3) , near Haines Junction, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=49612",
+      "photo_urls": []
+    },
+    {
+      "id": "68899",
+      "title": "Carcross during World War II",
+      "latitude": 60.166272,
+      "longitude": -134.70578,
+      "directions": "Near Klondike Highway (State Route 2) , Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68899",
+      "photo_urls": []
+    },
+    {
+      "id": "70916",
+      "title": "Rev. William Henry Judge, S.J.",
+      "latitude": 64.062159,
+      "longitude": -139.42805,
+      "directions": "On King Street, Dawson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70916",
+      "photo_urls": []
+    },
+    {
+      "id": "72697",
+      "title": "Welcome to the Sign Post Forest",
+      "latitude": 60.063593,
+      "longitude": -128.71501,
+      "directions": "On Alaska Highway (State Route 1) , Watson Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72697",
+      "photo_urls": []
+    },
+    {
+      "id": "72917",
+      "title": "White Pass & Yukon Route",
+      "latitude": 60.165212,
+      "longitude": -134.70346,
+      "directions": "On Tagish Avenue, Carcross, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72917",
+      "photo_urls": []
+    },
+    {
+      "id": "93750",
+      "title": "James “Skookum” Jim Mason",
+      "latitude": 60.16493,
+      "longitude": -134.705393,
+      "directions": "On Tagish Ave, Carcross, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93750",
+      "photo_urls": []
+    }
+  ]
+}
