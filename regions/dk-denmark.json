@@ -1,0 +1,524 @@
+{
+  "region_id": "dk-denmark",
+  "region_name": "Denmark",
+  "region_type": "country",
+  "country": "Denmark",
+  "generated": "2026-04-22T06:05:59.708Z",
+  "source_timestamp": "2026-04-22T06:05:59.708Z",
+  "marker_count": 57,
+  "markers": [
+    {
+      "id": "123973",
+      "title": "Inge Lehmann",
+      "latitude": 55.67993849,
+      "longitude": 12.57324692,
+      "directions": "On Frue Plads, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123973",
+      "photo_urls": []
+    },
+    {
+      "id": "123989",
+      "title": "Hans Christian Andersen at Vestergade 57-59",
+      "latitude": 55.39505152,
+      "longitude": 10.38407888,
+      "directions": "Near Vintapperstræde, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123989",
+      "photo_urls": []
+    },
+    {
+      "id": "124134",
+      "title": "Nyborg Stjerneskanse / Nyborg's Star Redoubt",
+      "latitude": 55.31597745,
+      "longitude": 10.81317172,
+      "directions": "On Østerøvej, Nyborg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124134",
+      "photo_urls": []
+    },
+    {
+      "id": "124168",
+      "title": "Ambrosius Stub",
+      "latitude": 55.39491265,
+      "longitude": 10.38542401,
+      "directions": "On Sankt Anne Gade, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124168",
+      "photo_urls": []
+    },
+    {
+      "id": "124171",
+      "title": "Holger Danske Gruppe War Memorial",
+      "latitude": 55.67860661,
+      "longitude": 12.57252162,
+      "directions": "On Skindergade, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124171",
+      "photo_urls": []
+    },
+    {
+      "id": "124181",
+      "title": "Nonnebakken / \"Nunnery Hill\"",
+      "latitude": 55.39170873,
+      "longitude": 10.38774546,
+      "directions": "On Hunderupvej, Odense, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124181",
+      "photo_urls": []
+    },
+    {
+      "id": "124216",
+      "title": "Louis Pio",
+      "latitude": 55.67851587,
+      "longitude": 12.58111467,
+      "directions": "On Lille Kirkestræde, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124216",
+      "photo_urls": []
+    },
+    {
+      "id": "124217",
+      "title": "Ludvig Holberg",
+      "latitude": 55.68024261,
+      "longitude": 12.57331589,
+      "directions": "On Fiolstræde, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124217",
+      "photo_urls": []
+    },
+    {
+      "id": "124229",
+      "title": "Hans Christian Andersen",
+      "latitude": 55.67958478,
+      "longitude": 12.59040692,
+      "directions": "On Nyhavn, Copenhagen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124229",
+      "photo_urls": []
+    },
+    {
+      "id": "124252",
+      "title": "Hans Christian Ørsted",
+      "latitude": 55.68038612,
+      "longitude": 12.57106896,
+      "directions": "On Nørregade, Copenhagen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124252",
+      "photo_urls": []
+    },
+    {
+      "id": "124296",
+      "title": "Mindeankeret / The Memorial Anchor",
+      "latitude": 55.68065358,
+      "longitude": 12.58747201,
+      "directions": "On Nyhavn, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124296",
+      "photo_urls": []
+    },
+    {
+      "id": "124420",
+      "title": "Han Christian Lumbye",
+      "latitude": 55.67835967,
+      "longitude": 12.57630007,
+      "directions": "On Hyskenstræde, Copenhagen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124420",
+      "photo_urls": []
+    },
+    {
+      "id": "125149",
+      "title": "Norske Selskab / The Norwegian Society",
+      "latitude": 55.6811531,
+      "longitude": 12.58077316,
+      "directions": "On Sværtegade, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125149",
+      "photo_urls": []
+    },
+    {
+      "id": "125151",
+      "title": "Harald Høffding",
+      "latitude": 55.67846077,
+      "longitude": 12.57218651,
+      "directions": "On Nørregade, Copenhagen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125151",
+      "photo_urls": []
+    },
+    {
+      "id": "125268",
+      "title": "Copenhagen Business School",
+      "latitude": 55.68237859,
+      "longitude": 12.57206059,
+      "directions": "On Rosengården, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125268",
+      "photo_urls": []
+    },
+    {
+      "id": "125270",
+      "title": "Museumshuset / Museum Building",
+      "latitude": 55.6805629,
+      "longitude": 12.57215969,
+      "directions": "On Krystalgade, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125270",
+      "photo_urls": []
+    },
+    {
+      "id": "125294",
+      "title": "Dagbladet Politiken / The Politiken Newspaper",
+      "latitude": 55.67968329,
+      "longitude": 12.58281145,
+      "directions": "On Østergade, Copenhagen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125294",
+      "photo_urls": []
+    },
+    {
+      "id": "125315",
+      "title": "Georg Brandes",
+      "latitude": 55.68120923,
+      "longitude": 12.57446789,
+      "directions": "On Krystalgade, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125315",
+      "photo_urls": []
+    },
+    {
+      "id": "125317",
+      "title": "Hans Christian Ørsted",
+      "latitude": 55.67912179,
+      "longitude": 12.57075406,
+      "directions": "On Studiestræde, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125317",
+      "photo_urls": []
+    },
+    {
+      "id": "125940",
+      "title": "In Memory of Dan Uzan",
+      "latitude": 55.68105532,
+      "longitude": 12.57384499,
+      "directions": "On Krystalgade, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=125940",
+      "photo_urls": []
+    },
+    {
+      "id": "127249",
+      "title": "Hans Christian Andersen - School",
+      "latitude": 55.39697539,
+      "longitude": 10.39155745,
+      "directions": "On Paaskestræde, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127249",
+      "photo_urls": []
+    },
+    {
+      "id": "127254",
+      "title": "The Oldest Kingdom of the World",
+      "latitude": 55.39733628,
+      "longitude": 10.39188287,
+      "directions": "On Overgade, Odense, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127254",
+      "photo_urls": []
+    },
+    {
+      "id": "127263",
+      "title": "Hovedbygningen / Main Building",
+      "latitude": 55.67983735,
+      "longitude": 12.57255491,
+      "directions": "On Frue Plads, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127263",
+      "photo_urls": []
+    },
+    {
+      "id": "127449",
+      "title": "Universitetsbiblioteket / University Library",
+      "latitude": 55.68008669,
+      "longitude": 12.57325764,
+      "directions": "On Fiolstræde, Copenhagen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127449",
+      "photo_urls": []
+    },
+    {
+      "id": "127650",
+      "title": "Samvirkende Fagforbund / Cooperative Trade Union",
+      "latitude": 55.6774689,
+      "longitude": 12.57440161,
+      "directions": "On Brolæggerstræde, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127650",
+      "photo_urls": []
+    },
+    {
+      "id": "127664",
+      "title": "3rd Regiment Operation Safari World War II Memorial",
+      "latitude": 55.31733325,
+      "longitude": 10.81247776,
+      "directions": "On Østerøvej, Nyborg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127664",
+      "photo_urls": []
+    },
+    {
+      "id": "127669",
+      "title": "Nonner på Vikingborgen / Nuns at the Viking Fortress",
+      "latitude": 55.39240698,
+      "longitude": 10.38809415,
+      "directions": "Near Nonnebakken, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127669",
+      "photo_urls": []
+    },
+    {
+      "id": "127776",
+      "title": "Munke Mølle / Monks' Mill",
+      "latitude": 55.39297075,
+      "longitude": 10.38934805,
+      "directions": "Near Munkemøllestræde, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127776",
+      "photo_urls": []
+    },
+    {
+      "id": "127790",
+      "title": "Bethelskibet / Bethel Ship",
+      "latitude": 55.68053188,
+      "longitude": 12.58772217,
+      "directions": "Near Nyhavn, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=127790",
+      "photo_urls": []
+    },
+    {
+      "id": "128398",
+      "title": "Johan Herman Wessel",
+      "latitude": 55.67991322,
+      "longitude": 12.57637141,
+      "directions": "On Gråbrødre Torv, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128398",
+      "photo_urls": []
+    },
+    {
+      "id": "128957",
+      "title": "Strandporten / Strand Port",
+      "latitude": 55.31020331,
+      "longitude": 10.79204555,
+      "directions": "On Havnegade, Nyborg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128957",
+      "photo_urls": []
+    },
+    {
+      "id": "129101",
+      "title": "En historie for en omvej / A Story of a Detour",
+      "latitude": 55.67771541,
+      "longitude": 12.57495347,
+      "directions": "On Brolæggerstræde, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129101",
+      "photo_urls": []
+    },
+    {
+      "id": "129113",
+      "title": "J.C. Jacobsen",
+      "latitude": 55.67763514,
+      "longitude": 12.57482946,
+      "directions": "On Knabrostræde, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129113",
+      "photo_urls": []
+    },
+    {
+      "id": "129123",
+      "title": "Carl and J.C. Jacobsen",
+      "latitude": 55.67770313,
+      "longitude": 12.57492945,
+      "directions": "On Brolæggerstræde, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129123",
+      "photo_urls": []
+    },
+    {
+      "id": "130370",
+      "title": "Kongemord og Tordenskræpper / Royal Murder and Red Butterbur",
+      "latitude": 55.39504112,
+      "longitude": 10.38996499,
+      "directions": "On Klingenberg, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130370",
+      "photo_urls": []
+    },
+    {
+      "id": "130385",
+      "title": "Grønbenet Gakket Gangart / Washladies, Water Sprites, and Waddlers",
+      "latitude": 55.39609914,
+      "longitude": 10.39262685,
+      "directions": "Near Paaskestræde, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130385",
+      "photo_urls": []
+    },
+    {
+      "id": "130409",
+      "title": "Ølbryggeri Og Gelændergaranti / A Beer Brewery and the Guaranteed Railings",
+      "latitude": 55.39623938,
+      "longitude": 10.39493378,
+      "directions": "Near Frederiksgade, Odense, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=130409",
+      "photo_urls": []
+    },
+    {
+      "id": "227358",
+      "title": "Niels Bohr",
+      "latitude": 55.67754049,
+      "longitude": 12.58122976,
+      "directions": "On Ved Stranden, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227358",
+      "photo_urls": []
+    },
+    {
+      "id": "227388",
+      "title": "Hans Christian Andersen",
+      "latitude": 55.6826641,
+      "longitude": 12.59190649,
+      "directions": "On Amaliegade, Copenhagen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227388",
+      "photo_urls": []
+    },
+    {
+      "id": "227520",
+      "title": "August Bournonville",
+      "latitude": 55.67844692,
+      "longitude": 12.58262991,
+      "directions": "On Vingårdstræde, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227520",
+      "photo_urls": []
+    },
+    {
+      "id": "227596",
+      "title": "Danmarks Første Offentlige Teatre / Denmark’s First Public Theater",
+      "latitude": 55.68135839,
+      "longitude": 12.5837595,
+      "directions": "On Ny Adelgade, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227596",
+      "photo_urls": []
+    },
+    {
+      "id": "227743",
+      "title": "Frederik Kuhlau",
+      "latitude": 55.68037783,
+      "longitude": 12.58965173,
+      "directions": "On Nyhavn, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227743",
+      "photo_urls": []
+    },
+    {
+      "id": "227855",
+      "title": "Dagbladet Information",
+      "latitude": 55.68250768,
+      "longitude": 12.58761193,
+      "directions": "On Sct. Anna Passage, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227855",
+      "photo_urls": []
+    },
+    {
+      "id": "228969",
+      "title": "Niels Stensen",
+      "latitude": 55.6807641,
+      "longitude": 12.57792362,
+      "directions": "On Klareboderne, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228969",
+      "photo_urls": []
+    },
+    {
+      "id": "229297",
+      "title": "Holger Drachmann",
+      "latitude": 55.67869262,
+      "longitude": 12.57854446,
+      "directions": "On Strøget, Copenhagen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229297",
+      "photo_urls": []
+    },
+    {
+      "id": "229344",
+      "title": "Sankt Joseph Søstrene / The Sisters of Saint Joseph",
+      "latitude": 55.68205527,
+      "longitude": 12.58884986,
+      "directions": "On Sankt Annæ Plads, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229344",
+      "photo_urls": []
+    },
+    {
+      "id": "229628",
+      "title": "Tre Af Denmarks Store Helte / Three of Denmark’s Great Heroes",
+      "latitude": 55.68283378,
+      "longitude": 12.5866596,
+      "directions": "On Store Kongensgade, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229628",
+      "photo_urls": []
+    },
+    {
+      "id": "229919",
+      "title": "Hans Christian Andersen",
+      "latitude": 55.67833484,
+      "longitude": 12.58761326,
+      "directions": "On Tordenskjoldsgade, Copenhagen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229919",
+      "photo_urls": []
+    },
+    {
+      "id": "230074",
+      "title": "Lille Grønnegadeteatret / Lille Grønnegade Theatre",
+      "latitude": 55.68136758,
+      "longitude": 12.58375206,
+      "directions": "On Ny Adelgade, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230074",
+      "photo_urls": []
+    },
+    {
+      "id": "230565",
+      "title": "Store Strandstræde 20",
+      "latitude": 55.68124098,
+      "longitude": 12.58957003,
+      "directions": "On Store Strandstræde, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230565",
+      "photo_urls": []
+    },
+    {
+      "id": "230583",
+      "title": "Beliggenhed, Beliggenhed, Beliggenhed / Location, Location, Location",
+      "latitude": 55.68193703,
+      "longitude": 12.59170605,
+      "directions": "On Amaliegade, Copenhagen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230583",
+      "photo_urls": []
+    },
+    {
+      "id": "230678",
+      "title": "Svenska residenset / Det svenske residenspalæ / The Swedish Residence",
+      "latitude": 55.68171705,
+      "longitude": 12.591664,
+      "directions": "On Sankt Annæ Plads, Copenhagen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230678",
+      "photo_urls": []
+    },
+    {
+      "id": "231653",
+      "title": "Hans Christian Andersen",
+      "latitude": 55.6795282,
+      "longitude": 12.59289626,
+      "directions": "On Nyhavn, Copenhagen, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231653",
+      "photo_urls": []
+    },
+    {
+      "id": "240677",
+      "title": "Søren Kierkegaard",
+      "latitude": 55.68111421,
+      "longitude": 12.57844386,
+      "directions": "On Klareboderne, Copenhagen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240677",
+      "photo_urls": []
+    },
+    {
+      "id": "244094",
+      "title": "Maglekilde",
+      "latitude": 55.64298,
+      "longitude": 12.07649167,
+      "directions": "On Maglekildevej, Roskilde, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244094",
+      "photo_urls": []
+    },
+    {
+      "id": "244143",
+      "title": "Tycho Brahe",
+      "latitude": 55.67201167,
+      "longitude": 12.56786167,
+      "directions": "Near Bernstorffsgade, Copenhagen Municipality, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244143",
+      "photo_urls": []
+    },
+    {
+      "id": "244230",
+      "title": "\"Den Iille Havfrue\" af Edvard Eriksen",
+      "latitude": 55.69282833,
+      "longitude": 12.59908,
+      "directions": "Near Langelinie, Copenhagen, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244230",
+      "photo_urls": []
+    }
+  ]
+}
