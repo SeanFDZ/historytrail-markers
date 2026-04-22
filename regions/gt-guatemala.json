@@ -1,0 +1,3062 @@
+{
+  "region_id": "gt-guatemala",
+  "region_name": "Guatemala",
+  "region_type": "country",
+  "country": "Guatemala",
+  "generated": "2026-04-22T06:05:59.708Z",
+  "source_timestamp": "2026-04-22T06:05:59.708Z",
+  "marker_count": 339,
+  "markers": [
+    {
+      "id": "100382",
+      "title": "José Rodrigo Xóc Perez",
+      "latitude": 14.69165833,
+      "longitude": -91.11669167,
+      "directions": "On Calle Principal, San Antonio Palopó, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100382",
+      "photo_urls": []
+    },
+    {
+      "id": "100386",
+      "title": "Rafael Álvarez Ovalle",
+      "latitude": 14.739777,
+      "longitude": -90.88729,
+      "directions": "On Calle Principal, San Juan Comalapa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100386",
+      "photo_urls": []
+    },
+    {
+      "id": "100457",
+      "title": "José Martí in Guatemala",
+      "latitude": 14.63594722,
+      "longitude": -90.51659444,
+      "directions": "On 4a Avenida, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100457",
+      "photo_urls": []
+    },
+    {
+      "id": "100615",
+      "title": "House of Miguel Garcia Granados",
+      "latitude": 14.63759444,
+      "longitude": -90.51602222,
+      "directions": "On 12 Calle, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100615",
+      "photo_urls": []
+    },
+    {
+      "id": "100759",
+      "title": "General Miguel Garcia Granados",
+      "latitude": 14.96649167,
+      "longitude": -91.78308056,
+      "directions": "On Carretera Interamericana, San Pedro Sacatepéquez, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100759",
+      "photo_urls": []
+    },
+    {
+      "id": "100762",
+      "title": "Bernal Diaz de Castillo",
+      "latitude": 14.60117222,
+      "longitude": -90.51921944,
+      "directions": "On 12a Calle, Ciudad de Guatemala, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100762",
+      "photo_urls": []
+    },
+    {
+      "id": "100764",
+      "title": "Parish of Santo Domingo Xenacoj",
+      "latitude": 14.680415,
+      "longitude": -90.7012,
+      "directions": "Near Carretera Interamericana, Santo Domingo Xenacoj, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100764",
+      "photo_urls": []
+    },
+    {
+      "id": "100765",
+      "title": "Manuel Tzoc, Founder of Nahualá",
+      "latitude": 14.84260556,
+      "longitude": -91.31800833,
+      "directions": "Near 1a Avenida, Nahualá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100765",
+      "photo_urls": []
+    },
+    {
+      "id": "100766",
+      "title": "Jesús Castillo",
+      "latitude": 14.837551,
+      "longitude": -91.5188,
+      "directions": "On 1a Calle, Quetzaltenango, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100766",
+      "photo_urls": []
+    },
+    {
+      "id": "100773",
+      "title": "1962 Student Protests in Quetzaltenango",
+      "latitude": 14.837227,
+      "longitude": -91.5183,
+      "directions": "On 1a Calle, Quetzaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100773",
+      "photo_urls": []
+    },
+    {
+      "id": "100790",
+      "title": "The German School of Guatemala",
+      "latitude": 14.83618889,
+      "longitude": -91.51850833,
+      "directions": "On 3a Calle, Quetzaltenango, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100790",
+      "photo_urls": []
+    },
+    {
+      "id": "100800",
+      "title": "Osmundo Arriola",
+      "latitude": 14.83765278,
+      "longitude": -91.51914167,
+      "directions": "On 1a Calle, Quetzaltenango, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100800",
+      "photo_urls": []
+    },
+    {
+      "id": "100801",
+      "title": "Rosario de Paz Chajchalac de Mendizabal",
+      "latitude": 14.837766,
+      "longitude": -91.5187,
+      "directions": "On 1a Calle, Quetzaltenango, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100801",
+      "photo_urls": []
+    },
+    {
+      "id": "100805",
+      "title": "Juan José Ortega",
+      "latitude": 14.835792,
+      "longitude": -91.51878,
+      "directions": "On 13a Avenida, Quetzaltenango, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100805",
+      "photo_urls": []
+    },
+    {
+      "id": "100806",
+      "title": "Cathedral of the Holy Spirit",
+      "latitude": 14.83365,
+      "longitude": -91.51822778,
+      "directions": "On 11a Avenida, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100806",
+      "photo_urls": []
+    },
+    {
+      "id": "100970",
+      "title": "J. Adrian Coronado y Polanco",
+      "latitude": 14.55135,
+      "longitude": -90.73059722,
+      "directions": "On Plazuela Escuela de Cristo, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100970",
+      "photo_urls": []
+    },
+    {
+      "id": "100996",
+      "title": "Bishop Álvaro Leonel Ramazzini Imeri",
+      "latitude": 14.96218611,
+      "longitude": -91.79560833,
+      "directions": "On Avenida Obispo Álvaro Ramazzini, San Marcos, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=100996",
+      "photo_urls": []
+    },
+    {
+      "id": "101001",
+      "title": "The Church of the First Bishop of Guatemala",
+      "latitude": 14.523556,
+      "longitude": -90.72774,
+      "directions": "Near Vía Sin Nombre, Aldea San Juan del Obispo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=101001",
+      "photo_urls": []
+    },
+    {
+      "id": "101213",
+      "title": "San Juan Comalapa Memorial to Genocide Victims",
+      "latitude": 14.733191,
+      "longitude": -90.88697,
+      "directions": "On Highway Chm. 2, San Juan Comalapa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=101213",
+      "photo_urls": []
+    },
+    {
+      "id": "103524",
+      "title": "Las Delicias Fountain",
+      "latitude": 14.557483,
+      "longitude": -90.7273,
+      "directions": "On 4a Calle Oriente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103524",
+      "photo_urls": []
+    },
+    {
+      "id": "103528",
+      "title": "José Luis de León Diaz",
+      "latitude": 14.522786,
+      "longitude": -90.727,
+      "directions": "On 1a Avenida Norte, Aldea San Juan del Obispo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103528",
+      "photo_urls": []
+    },
+    {
+      "id": "103557",
+      "title": "General Justo Rufino Barrios",
+      "latitude": 14.660812,
+      "longitude": -90.81898,
+      "directions": "On Calle Real, Chimaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103557",
+      "photo_urls": []
+    },
+    {
+      "id": "103566",
+      "title": "Chimaltenango Memorial to the Victims of Guatemala's Armed Conflict",
+      "latitude": 14.66121667,
+      "longitude": -90.81941944,
+      "directions": "Near Calle Real, Chimaltenango, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103566",
+      "photo_urls": []
+    },
+    {
+      "id": "103568",
+      "title": "José Simeon Cañas",
+      "latitude": 14.66109444,
+      "longitude": -90.81943611,
+      "directions": "Near Calle Real, Chimaltenango, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103568",
+      "photo_urls": []
+    },
+    {
+      "id": "103571",
+      "title": "Tree of Saint Peter",
+      "latitude": 14.64714722,
+      "longitude": -90.73670833,
+      "directions": "Near 0 Avenida, Sumpango, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103571",
+      "photo_urls": []
+    },
+    {
+      "id": "103965",
+      "title": "Canadian Assistance after the 1976 Earthquake",
+      "latitude": 14.620748,
+      "longitude": -90.84583,
+      "directions": "On 2a calle Zona 3, San Andrés Itzapa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=103965",
+      "photo_urls": []
+    },
+    {
+      "id": "105113",
+      "title": "Isabella I of Castile",
+      "latitude": 14.56424167,
+      "longitude": -90.73539722,
+      "directions": "On Calle Ancha de los Herreros, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105113",
+      "photo_urls": []
+    },
+    {
+      "id": "105137",
+      "title": "The Esquisuchil Medicinal Tree (Bourreria huanita)",
+      "latitude": 14.52654539,
+      "longitude": -90.75178832,
+      "directions": "On Calle a San Pedro las Huertas, Aldea San Miguel Escobar, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105137",
+      "photo_urls": []
+    },
+    {
+      "id": "105139",
+      "title": "House of Bartolomé Azmitia Frener",
+      "latitude": 14.55635,
+      "longitude": -90.73533611,
+      "directions": "On 6a Avenida Sur, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105139",
+      "photo_urls": []
+    },
+    {
+      "id": "105141",
+      "title": "The 100th Anniversary of the Olimpia Leal Normal Institute for Ladies",
+      "latitude": 14.556325,
+      "longitude": -90.73050556,
+      "directions": "On 5a Calle Oriente, Antigua Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105141",
+      "photo_urls": []
+    },
+    {
+      "id": "105195",
+      "title": "Memorial to Héctor Interiano, Carlos Cuevas and Gustavo Castañón",
+      "latitude": 14.64378346,
+      "longitude": -90.51686704,
+      "directions": "On 5a Calle, Ciudad de Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105195",
+      "photo_urls": []
+    },
+    {
+      "id": "105213",
+      "title": "Federico Hernández de León",
+      "latitude": 14.64379384,
+      "longitude": -90.51667929,
+      "directions": "On 5a Calle, Ciudad de Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105213",
+      "photo_urls": []
+    },
+    {
+      "id": "105214",
+      "title": "100th Anniversary of the Paulist Fathers in Guatemala",
+      "latitude": 14.63910448,
+      "longitude": -90.52015275,
+      "directions": "On 1a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105214",
+      "photo_urls": []
+    },
+    {
+      "id": "105267",
+      "title": "University of San Carlos Faculty of Medical Sciences 1918-1921",
+      "latitude": 14.64389167,
+      "longitude": -90.51656389,
+      "directions": "On 5a Calle, Ciudad de Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105267",
+      "photo_urls": []
+    },
+    {
+      "id": "105270",
+      "title": "Revolution of October 20, 1944 Memorial Highway",
+      "latitude": 14.64835335,
+      "longitude": -90.58173895,
+      "directions": "On Calzada Revolución 20 de Octubre, Mixco, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105270",
+      "photo_urls": []
+    },
+    {
+      "id": "105275",
+      "title": "José Luis de León Díaz (Luis de Lión)",
+      "latitude": 14.63878788,
+      "longitude": -90.51867217,
+      "directions": "On 11a Calle, Ciudad de Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105275",
+      "photo_urls": []
+    },
+    {
+      "id": "105283",
+      "title": "Tragedy of the “Virgen de la Asunción” Safe Home",
+      "latitude": 14.64206292,
+      "longitude": -90.51321387,
+      "directions": "Near 6a Calle, Ciudad de Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105283",
+      "photo_urls": []
+    },
+    {
+      "id": "105312",
+      "title": "The Aycinena Arcade",
+      "latitude": 14.64040983,
+      "longitude": -90.51348478,
+      "directions": "On 9a Calle, Ciudad de Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105312",
+      "photo_urls": []
+    },
+    {
+      "id": "105317",
+      "title": "Memorial to the Victims of Guatemala's Armed Conflict",
+      "latitude": 14.6415932,
+      "longitude": -90.51259696,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105317",
+      "photo_urls": []
+    },
+    {
+      "id": "105324",
+      "title": "The Founding of Tecpán Guatemala",
+      "latitude": 14.76105486,
+      "longitude": -90.991382,
+      "directions": "On 1a Avenida, Tecpán Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105324",
+      "photo_urls": []
+    },
+    {
+      "id": "106515",
+      "title": "Artisans and Exchanges at Iximché",
+      "latitude": 14.733625,
+      "longitude": -90.99497222,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106515",
+      "photo_urls": []
+    },
+    {
+      "id": "106524",
+      "title": "Plaza D at Iximché",
+      "latitude": 14.73383333,
+      "longitude": -90.99472778,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=106524",
+      "photo_urls": []
+    },
+    {
+      "id": "107270",
+      "title": "The Fountain of the Calvary",
+      "latitude": 14.54720614,
+      "longitude": -90.72989076,
+      "directions": "On Alameda del Calvario, Antigua Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107270",
+      "photo_urls": []
+    },
+    {
+      "id": "107479",
+      "title": "The Bridge of Glory",
+      "latitude": 14.48134061,
+      "longitude": -90.61555088,
+      "directions": "On 2a Calle, Amatitlán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107479",
+      "photo_urls": []
+    },
+    {
+      "id": "109090",
+      "title": "The Sociopolitical Organization of Mayan Social Classes",
+      "latitude": 14.73496764,
+      "longitude": -90.99598736,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109090",
+      "photo_urls": []
+    },
+    {
+      "id": "109487",
+      "title": "Saint Sebastian Catholic Church of El Tejar",
+      "latitude": 14.64572624,
+      "longitude": -90.791426,
+      "directions": "On Calle sin nombre, El Tejar, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=109487",
+      "photo_urls": []
+    },
+    {
+      "id": "111131",
+      "title": "Coronel Don Antonio José Irisarri",
+      "latitude": 15.479743,
+      "longitude": -90.40227,
+      "directions": "Near Vía Sin Nombre, Cobán, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=111131",
+      "photo_urls": []
+    },
+    {
+      "id": "112546",
+      "title": "Martyrs of the Internal Armed Conflict from 1979 to 1983",
+      "latitude": 15.81272529,
+      "longitude": -90.29129863,
+      "directions": "On RD-AV-9, Chisec, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=112546",
+      "photo_urls": []
+    },
+    {
+      "id": "113491",
+      "title": "Our Lady of Carmen Catholic Church",
+      "latitude": 14.64683432,
+      "longitude": -90.50545692,
+      "directions": "Near 12 Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=113491",
+      "photo_urls": []
+    },
+    {
+      "id": "114192",
+      "title": "Martyrs and Heroes Memorial of El Triunfo",
+      "latitude": 14.285833,
+      "longitude": -91.80444,
+      "directions": "On Calle Principal, El Triunfo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114192",
+      "photo_urls": []
+    },
+    {
+      "id": "115183",
+      "title": "Assassination of Manuel Colom Argueta",
+      "latitude": 14.61055449,
+      "longitude": -90.52220584,
+      "directions": "On 5a Calle, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115183",
+      "photo_urls": []
+    },
+    {
+      "id": "115204",
+      "title": "Ramiro Samayoa Martínez",
+      "latitude": 14.60759736,
+      "longitude": -90.52332158,
+      "directions": "On 8a Calle, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115204",
+      "photo_urls": []
+    },
+    {
+      "id": "115288",
+      "title": "Conrado de la Cruz and Herlindo Cifuentes Castillo",
+      "latitude": 14.64213464,
+      "longitude": -90.51152362,
+      "directions": "On 6a Calle, Ciudad de Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115288",
+      "photo_urls": []
+    },
+    {
+      "id": "115588",
+      "title": "The Tower of the Reformer",
+      "latitude": 14.61303126,
+      "longitude": -90.51650236,
+      "directions": "On 2a Calle, Ciudad de Guatemala, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115588",
+      "photo_urls": []
+    },
+    {
+      "id": "115869",
+      "title": "The Chapel of Nuestra Señora de las Angustias",
+      "latitude": 14.61601053,
+      "longitude": -90.51491345,
+      "directions": "On Ruta 6, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115869",
+      "photo_urls": []
+    },
+    {
+      "id": "115871",
+      "title": "Guatemalan Institute of Tourism",
+      "latitude": 14.62472222,
+      "longitude": -90.51472222,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115871",
+      "photo_urls": []
+    },
+    {
+      "id": "115873",
+      "title": "Mural of the Guatemalan Nationality",
+      "latitude": 14.62609395,
+      "longitude": -90.51477291,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115873",
+      "photo_urls": []
+    },
+    {
+      "id": "115886",
+      "title": "Crédito Hipotecario Nacional",
+      "latitude": 14.62573168,
+      "longitude": -90.51453183,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115886",
+      "photo_urls": []
+    },
+    {
+      "id": "115897",
+      "title": "Birthplace of Antonio José de Irisarri",
+      "latitude": 14.63727072,
+      "longitude": -90.51309758,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115897",
+      "photo_urls": []
+    },
+    {
+      "id": "115911",
+      "title": "Former Postal Service",
+      "latitude": 14.63722222,
+      "longitude": -90.51305556,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115911",
+      "photo_urls": []
+    },
+    {
+      "id": "115912",
+      "title": "Ibargüen House",
+      "latitude": 14.6373012,
+      "longitude": -90.5131749,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115912",
+      "photo_urls": []
+    },
+    {
+      "id": "115913",
+      "title": "Herrera Luna House",
+      "latitude": 14.63780372,
+      "longitude": -90.51309264,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115913",
+      "photo_urls": []
+    },
+    {
+      "id": "115914",
+      "title": "Alberto Velázquez",
+      "latitude": 14.64428264,
+      "longitude": -90.51220792,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115914",
+      "photo_urls": []
+    },
+    {
+      "id": "115915",
+      "title": "Presidential House",
+      "latitude": 14.64361111,
+      "longitude": -90.51361111,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115915",
+      "photo_urls": []
+    },
+    {
+      "id": "115916",
+      "title": "Shopping Arcade",
+      "latitude": 14.64126351,
+      "longitude": -90.51397266,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115916",
+      "photo_urls": []
+    },
+    {
+      "id": "116182",
+      "title": "Juan Corz",
+      "latitude": 14.64657197,
+      "longitude": -90.50551383,
+      "directions": "Near 12 Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116182",
+      "photo_urls": []
+    },
+    {
+      "id": "116184",
+      "title": "The Mexican Fountain at El Cerrito del Carmen",
+      "latitude": 14.64783643,
+      "longitude": -90.50497633,
+      "directions": "Near 12 Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116184",
+      "photo_urls": []
+    },
+    {
+      "id": "116202",
+      "title": "Bicentennial of the Declaration of the Rights of Man and of the Citizen",
+      "latitude": 14.62722928,
+      "longitude": -90.51366957,
+      "directions": "On 7a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116202",
+      "photo_urls": []
+    },
+    {
+      "id": "116207",
+      "title": "Pavón House",
+      "latitude": 14.63896997,
+      "longitude": -90.51441444,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116207",
+      "photo_urls": []
+    },
+    {
+      "id": "116210",
+      "title": "Municipal Headquarters of Guatemala City",
+      "latitude": 14.62717209,
+      "longitude": -90.51576002,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116210",
+      "photo_urls": []
+    },
+    {
+      "id": "116230",
+      "title": "50th Anniversary of the Guatemalan Social Security Institute",
+      "latitude": 14.62634348,
+      "longitude": -90.51527664,
+      "directions": "On 22 Calle, Ciudad de Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116230",
+      "photo_urls": []
+    },
+    {
+      "id": "116254",
+      "title": "Juan José Arévalo Bermejo",
+      "latitude": 14.62597388,
+      "longitude": -90.51537845,
+      "directions": "On 22 Calle, Ciudad de Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116254",
+      "photo_urls": []
+    },
+    {
+      "id": "116466",
+      "title": "General Francisco Morazán",
+      "latitude": 14.65169592,
+      "longitude": -90.51268475,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116466",
+      "photo_urls": []
+    },
+    {
+      "id": "116474",
+      "title": "First Autonomous University in Guatemala",
+      "latitude": 14.65093722,
+      "longitude": -90.51320424,
+      "directions": "On Avenida Simeón Cañas, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116474",
+      "photo_urls": []
+    },
+    {
+      "id": "116482",
+      "title": "Yurrita House",
+      "latitude": 14.64840569,
+      "longitude": -90.51298901,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116482",
+      "photo_urls": []
+    },
+    {
+      "id": "116604",
+      "title": "Jocotenango Park",
+      "latitude": 14.65028151,
+      "longitude": -90.51287792,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116604",
+      "photo_urls": []
+    },
+    {
+      "id": "116606",
+      "title": "The Guatemalan Peace Accords",
+      "latitude": 14.62711346,
+      "longitude": -90.51523969,
+      "directions": "On Calle del Castillo, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116606",
+      "photo_urls": []
+    },
+    {
+      "id": "116660",
+      "title": "José Martí",
+      "latitude": 14.65151753,
+      "longitude": -90.50694322,
+      "directions": "On Calle Martí, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=116660",
+      "photo_urls": []
+    },
+    {
+      "id": "118654",
+      "title": "Memorial to the Fallen and Missing of the Community of December 29",
+      "latitude": 14.64196944,
+      "longitude": -90.87505278,
+      "directions": "Near 1 Avenida, near Zaragoza, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118654",
+      "photo_urls": []
+    },
+    {
+      "id": "118692",
+      "title": "La Reforma Avenue",
+      "latitude": 14.60898056,
+      "longitude": -90.51522778,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118692",
+      "photo_urls": []
+    },
+    {
+      "id": "120425",
+      "title": "Carlos Castillo Armas",
+      "latitude": 14.22956636,
+      "longitude": -90.94728367,
+      "directions": "Near Vía Sin Nombre, La Democracia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=120425",
+      "photo_urls": []
+    },
+    {
+      "id": "123968",
+      "title": "Memorial to United States Officials in Guatemala",
+      "latitude": 14.60695381,
+      "longitude": -90.51498376,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=123968",
+      "photo_urls": []
+    },
+    {
+      "id": "124075",
+      "title": "Paseo de la Sexta",
+      "latitude": 14.6414295,
+      "longitude": -90.51406575,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=124075",
+      "photo_urls": []
+    },
+    {
+      "id": "126546",
+      "title": "Memorial to the Victims of Guatemala's Armed Con&#64258;ict in Cubulco",
+      "latitude": 15.10166667,
+      "longitude": -90.63,
+      "directions": "On 3a Avenida, Cubulco, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126546",
+      "photo_urls": []
+    },
+    {
+      "id": "126862",
+      "title": "Jorge Toriello Garrido",
+      "latitude": 14.63128466,
+      "longitude": -90.52845111,
+      "directions": "Near Avenida Cementerio, Mixco, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126862",
+      "photo_urls": []
+    },
+    {
+      "id": "128517",
+      "title": "The Lions Club of Antigua Guatemala",
+      "latitude": 14.55789565,
+      "longitude": -90.73433303,
+      "directions": "On 5a Avenida Norte, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128517",
+      "photo_urls": []
+    },
+    {
+      "id": "128524",
+      "title": "Mariano Navarrete",
+      "latitude": 14.56578069,
+      "longitude": -90.73837237,
+      "directions": "On Calle Ancha de los Herreros, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128524",
+      "photo_urls": []
+    },
+    {
+      "id": "128525",
+      "title": "The Hermitage of the Holy Calvary",
+      "latitude": 14.54543791,
+      "longitude": -90.72980161,
+      "directions": "On Callejón del Calvario, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128525",
+      "photo_urls": []
+    },
+    {
+      "id": "128571",
+      "title": "Juan José Rodil and Companions",
+      "latitude": 14.55613512,
+      "longitude": -90.74227211,
+      "directions": "Near Calle San Bartolomé Becerra, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128571",
+      "photo_urls": []
+    },
+    {
+      "id": "128575",
+      "title": "Father Hermógenes López Coarchita",
+      "latitude": 14.555582,
+      "longitude": -90.74195141,
+      "directions": "Near Calle de San Bartolomé Becerra, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128575",
+      "photo_urls": []
+    },
+    {
+      "id": "128576",
+      "title": "Manuel Gálvez y Corral",
+      "latitude": 14.56027429,
+      "longitude": -90.7310724,
+      "directions": "On 2a Avenida Norte, Antigua Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128576",
+      "photo_urls": []
+    },
+    {
+      "id": "128613",
+      "title": "Dr. Frederick Wilson Popenoe",
+      "latitude": 14.55568056,
+      "longitude": -90.74185485,
+      "directions": "Near Calle de San Bartolomé Becerra, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128613",
+      "photo_urls": []
+    },
+    {
+      "id": "128631",
+      "title": "10th Anniversary of the Guatemalan Peace Accords",
+      "latitude": 14.84487158,
+      "longitude": -91.52407467,
+      "directions": "On 4a Calle, Quetzaltenango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128631",
+      "photo_urls": []
+    },
+    {
+      "id": "128639",
+      "title": "Monument to Benito Juárez",
+      "latitude": 14.84388889,
+      "longitude": -91.51972222,
+      "directions": "On 4a Calle, Quetzaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128639",
+      "photo_urls": []
+    },
+    {
+      "id": "128645",
+      "title": "Hospital General de Occidente “San Juan de Dios”",
+      "latitude": 14.83981338,
+      "longitude": -91.51794452,
+      "directions": "On 14 Avenida, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128645",
+      "photo_urls": []
+    },
+    {
+      "id": "128649",
+      "title": "National Girls School No. 2 \"Antonia Estrada Monzón\"",
+      "latitude": 14.83850003,
+      "longitude": -91.51848503,
+      "directions": "On 14 Avenida, Quetzaltenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128649",
+      "photo_urls": []
+    },
+    {
+      "id": "128679",
+      "title": "Bethel Evangelical Presbyterian Church",
+      "latitude": 14.83773393,
+      "longitude": -91.51857588,
+      "directions": "On 14 Avenida, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128679",
+      "photo_urls": []
+    },
+    {
+      "id": "128682",
+      "title": "The Quetzaltenango City Hall",
+      "latitude": 14.83422484,
+      "longitude": -91.5179031,
+      "directions": "On 11 Avenida, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128682",
+      "photo_urls": []
+    },
+    {
+      "id": "128690",
+      "title": "Cultural Center",
+      "latitude": 14.83345116,
+      "longitude": -91.51875066,
+      "directions": "Near 7a Calle, Quetzaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128690",
+      "photo_urls": []
+    },
+    {
+      "id": "128696",
+      "title": "Simón Bolívar",
+      "latitude": 14.83221141,
+      "longitude": -91.5128324,
+      "directions": "On Diagonal 2, Quetzaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128696",
+      "photo_urls": []
+    },
+    {
+      "id": "128730",
+      "title": "The Death of Remigio Mérida",
+      "latitude": 14.83366786,
+      "longitude": -91.51915869,
+      "directions": "On 7a Calle, Quetzaltenango, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128730",
+      "photo_urls": []
+    },
+    {
+      "id": "128732",
+      "title": "The 150th Anniversary of the Founding of Quetzaltenango",
+      "latitude": 14.83852329,
+      "longitude": -91.50736563,
+      "directions": "On Avenida La Independencia, Quetzaltenango, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128732",
+      "photo_urls": []
+    },
+    {
+      "id": "128733",
+      "title": "Manuel Lisandro Barillas",
+      "latitude": 14.83862234,
+      "longitude": -91.50713585,
+      "directions": "On Calzada Manuel Lisandro Barillas, Quetzaltenango, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128733",
+      "photo_urls": []
+    },
+    {
+      "id": "128742",
+      "title": "La Exposición Artesanal e Industrial",
+      "latitude": 14.8339216,
+      "longitude": -91.51934241,
+      "directions": "On 13 Avenida, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128742",
+      "photo_urls": []
+    },
+    {
+      "id": "128746",
+      "title": "Site of the Discovery of the Virgin of Sorrows",
+      "latitude": 14.83417182,
+      "longitude": -91.51931997,
+      "directions": "On 13 Avenida, Quetzaltenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128746",
+      "photo_urls": []
+    },
+    {
+      "id": "128749",
+      "title": "Rafael Landívar University",
+      "latitude": 14.83514727,
+      "longitude": -91.52009951,
+      "directions": "On 14 Avenida A, Quetzaltenango, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128749",
+      "photo_urls": []
+    },
+    {
+      "id": "128759",
+      "title": "Efraín Recinos",
+      "latitude": 14.83677861,
+      "longitude": -91.52126558,
+      "directions": "On 3a Calle, Quetzaltenango, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128759",
+      "photo_urls": []
+    },
+    {
+      "id": "128761",
+      "title": "Justo Rufino Barrios",
+      "latitude": 14.83669558,
+      "longitude": -91.52491578,
+      "directions": "On 3a Calle, Quetzaltenango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128761",
+      "photo_urls": []
+    },
+    {
+      "id": "128803",
+      "title": "100th Anniversary of the Birth of the Poet Osmundo Arriola",
+      "latitude": 14.83650112,
+      "longitude": -91.5254591,
+      "directions": "On 8a Calle, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128803",
+      "photo_urls": []
+    },
+    {
+      "id": "128804",
+      "title": "100th Anniversary of the Marimba Ideal",
+      "latitude": 14.83683224,
+      "longitude": -91.5259409,
+      "directions": "On 8a Calle, Quetzaltenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128804",
+      "photo_urls": []
+    },
+    {
+      "id": "128810",
+      "title": "Foundation of the Quetzaltenango Cemetery",
+      "latitude": 14.83660189,
+      "longitude": -91.52635295,
+      "directions": "On 20 Avenida, Quetzaltenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128810",
+      "photo_urls": []
+    },
+    {
+      "id": "128816",
+      "title": "The Soldiers Monument of Quetzaltenango",
+      "latitude": 14.83630857,
+      "longitude": -91.52826775,
+      "directions": "Near 20 Avenida, Quetzaltenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128816",
+      "photo_urls": []
+    },
+    {
+      "id": "128849",
+      "title": "Los Altos Electric Railway",
+      "latitude": 14.84076661,
+      "longitude": -91.52470481,
+      "directions": "On Calle Rodolfo Robles, Quetzaltenango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128849",
+      "photo_urls": []
+    },
+    {
+      "id": "128851",
+      "title": "Dr. Rodolfo Robles",
+      "latitude": 14.84070574,
+      "longitude": -91.52509404,
+      "directions": "On Calle Rodolfo Robles, Quetzaltenango, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128851",
+      "photo_urls": []
+    },
+    {
+      "id": "128870",
+      "title": "World Record for a Marathon While Jumping Rope",
+      "latitude": 14.84104188,
+      "longitude": -91.52561362,
+      "directions": "On Calle Rodolfo Robles, Quetzaltenango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128870",
+      "photo_urls": []
+    },
+    {
+      "id": "128876",
+      "title": "Mother María Encarnación Rosal",
+      "latitude": 14.84106576,
+      "longitude": -91.52649262,
+      "directions": "On Calle Rodolfo Rosales, Quetzaltenango, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128876",
+      "photo_urls": []
+    },
+    {
+      "id": "128877",
+      "title": "Coronel Luis Aguilar Pelaez",
+      "latitude": 14.84568212,
+      "longitude": -91.53335696,
+      "directions": "On Calle Rodolfo Robles, Quetzaltenango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128877",
+      "photo_urls": []
+    },
+    {
+      "id": "128889",
+      "title": "350th Anniversary of Founding of Santiago Tejutla",
+      "latitude": 15.12256809,
+      "longitude": -91.80531962,
+      "directions": "On 1a calle, Tejutla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128889",
+      "photo_urls": []
+    },
+    {
+      "id": "128895",
+      "title": "The Liberal Revolution and General Barrios",
+      "latitude": 15.12274459,
+      "longitude": -91.80563495,
+      "directions": "On RD-SM-2, Tejutla, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128895",
+      "photo_urls": []
+    },
+    {
+      "id": "128906",
+      "title": "The Roppe Hospital and Solidarity Dispensary",
+      "latitude": 15.12508074,
+      "longitude": -91.80541886,
+      "directions": "On 2a Avenida, Tejutla, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128906",
+      "photo_urls": []
+    },
+    {
+      "id": "128912",
+      "title": "Rubén Mérida Escobar",
+      "latitude": 14.96157385,
+      "longitude": -91.7981901,
+      "directions": "On Calzada Justo Rufino Barrios, San Marcos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128912",
+      "photo_urls": []
+    },
+    {
+      "id": "128920",
+      "title": "Cross of the Pregón and the Pa'ach Ceremony",
+      "latitude": 14.9645534,
+      "longitude": -91.78344534,
+      "directions": "On 7a Calle, San Pedro Sacatepéquez, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128920",
+      "photo_urls": []
+    },
+    {
+      "id": "128930",
+      "title": "Benito Juárez",
+      "latitude": 14.95884531,
+      "longitude": -91.80213263,
+      "directions": "On Calzada Justo Rufino Barrios, San Marcos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128930",
+      "photo_urls": []
+    },
+    {
+      "id": "128940",
+      "title": "The Road Workers Monument",
+      "latitude": 14.6091126,
+      "longitude": -90.66436978,
+      "directions": "On Camino a Santiago Sacatepéquez, San Lucas Sacatepéquez, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128940",
+      "photo_urls": []
+    },
+    {
+      "id": "128953",
+      "title": "The Founding of Santiago de Guatemala",
+      "latitude": 14.55664448,
+      "longitude": -90.73381808,
+      "directions": "Near 5a Calle Poniente, Antigua Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128953",
+      "photo_urls": []
+    },
+    {
+      "id": "128958",
+      "title": "The Cathedral of Santiago de Guatemala",
+      "latitude": 14.55657562,
+      "longitude": -90.73274784,
+      "directions": "Near 5a Calle Oriente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128958",
+      "photo_urls": []
+    },
+    {
+      "id": "128960",
+      "title": "Notable Burials at the Cathedral of Santiago de Guatemala",
+      "latitude": 14.55668846,
+      "longitude": -90.73249804,
+      "directions": "Near 5a Calle Oriente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=128960",
+      "photo_urls": []
+    },
+    {
+      "id": "131470",
+      "title": "A Fortified City",
+      "latitude": 14.87174444,
+      "longitude": -90.66150556,
+      "directions": "On Entrada a Mixco Viejo, Pachalúm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=131470",
+      "photo_urls": []
+    },
+    {
+      "id": "144871",
+      "title": "Calle Desiderio Roblero Gálvez",
+      "latitude": 15.23390933,
+      "longitude": -91.97352524,
+      "directions": "On 5a Calle, San José Ojetenám, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144871",
+      "photo_urls": []
+    },
+    {
+      "id": "145407",
+      "title": "Oscar Majus K.",
+      "latitude": 15.46894458,
+      "longitude": -90.37313127,
+      "directions": "On 1a Avenida, Cobán, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145407",
+      "photo_urls": []
+    },
+    {
+      "id": "145408",
+      "title": "Manuel Tot",
+      "latitude": 15.47022568,
+      "longitude": -90.37357011,
+      "directions": "On 1a Calle, Cobán, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145408",
+      "photo_urls": []
+    },
+    {
+      "id": "145409",
+      "title": "Reconstruction of the Tactic Parish Church",
+      "latitude": 15.31890323,
+      "longitude": -90.35159336,
+      "directions": "On 2da Calle, Tactic, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145409",
+      "photo_urls": []
+    },
+    {
+      "id": "145411",
+      "title": "Sebastián Castro García",
+      "latitude": 15.23277401,
+      "longitude": -90.23085926,
+      "directions": "On Camino de la Entrada, Purulhá, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145411",
+      "photo_urls": []
+    },
+    {
+      "id": "145451",
+      "title": "Salamá, Baja Verapaz",
+      "latitude": 15.10254388,
+      "longitude": -90.31871638,
+      "directions": "On 7a Calle, Salamá, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145451",
+      "photo_urls": []
+    },
+    {
+      "id": "145452",
+      "title": "Miguel Angel Asturias",
+      "latitude": 15.10212336,
+      "longitude": -90.31866654,
+      "directions": "On 5a Calle, Salamá, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145452",
+      "photo_urls": []
+    },
+    {
+      "id": "145629",
+      "title": "Mountains and Volcanoes of Guatemala",
+      "latitude": 14.9725,
+      "longitude": -91.83638889,
+      "directions": "Near Unnamed road, San Marcos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145629",
+      "photo_urls": []
+    },
+    {
+      "id": "145632",
+      "title": "Guty Enrique Alvarado Vásquez",
+      "latitude": 14.96434486,
+      "longitude": -91.79759843,
+      "directions": "On 7a Calle, San Marcos, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145632",
+      "photo_urls": []
+    },
+    {
+      "id": "145637",
+      "title": "Sibinal Victims Memorial",
+      "latitude": 15.14979555,
+      "longitude": -92.0485578,
+      "directions": "On Calle Central, Sibinal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=145637",
+      "photo_urls": []
+    },
+    {
+      "id": "148707",
+      "title": "Cesar Brañas",
+      "latitude": 14.5592344,
+      "longitude": -90.73358828,
+      "directions": "On 2a Calle Oriente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=148707",
+      "photo_urls": []
+    },
+    {
+      "id": "148743",
+      "title": "Tomb of Justo Rufino Barrios",
+      "latitude": 14.62908056,
+      "longitude": -90.52763333,
+      "directions": "Near 4a Avenida, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=148743",
+      "photo_urls": []
+    },
+    {
+      "id": "153096",
+      "title": "José Cecilio del Valle",
+      "latitude": 14.58757637,
+      "longitude": -90.52021608,
+      "directions": "On Avenida Las Américas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=153096",
+      "photo_urls": []
+    },
+    {
+      "id": "188652",
+      "title": "Abolition of Forced Indigenous Labor",
+      "latitude": 14.82341547,
+      "longitude": -91.51659996,
+      "directions": "On Carretera Almolonga-Quetzaltenango, Quetzaltenango, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188652",
+      "photo_urls": []
+    },
+    {
+      "id": "188653",
+      "title": "Rigoberta Menchú",
+      "latitude": 14.96284417,
+      "longitude": -91.79623395,
+      "directions": "On 10a Avenida, San Marcos, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188653",
+      "photo_urls": []
+    },
+    {
+      "id": "188654",
+      "title": "Adolfo V. Hall R.",
+      "latitude": 14.96647043,
+      "longitude": -91.79041604,
+      "directions": "Near Avenida Adolfo V. Hall, San Marcos, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188654",
+      "photo_urls": []
+    },
+    {
+      "id": "190120",
+      "title": "Carlos Castillos Armas",
+      "latitude": 14.9666098,
+      "longitude": -91.79038359,
+      "directions": "On Adolfo V. Hall, San Marcos, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=190120",
+      "photo_urls": []
+    },
+    {
+      "id": "197322",
+      "title": "Artesania Botanica",
+      "latitude": 14.69558851,
+      "longitude": -91.28495776,
+      "directions": "On Calle Chi Nima Ya&#39;, San Juan La Laguna, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197322",
+      "photo_urls": []
+    },
+    {
+      "id": "197741",
+      "title": "Martyrs of Zacualpa",
+      "latitude": 15.02714125,
+      "longitude": -90.87730817,
+      "directions": "Near 1a Calle, Zacualpa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=197741",
+      "photo_urls": []
+    },
+    {
+      "id": "199006",
+      "title": "Uspantán, Land of Tradition and History",
+      "latitude": 15.346126,
+      "longitude": -90.872236,
+      "directions": "On Route 7W, Uspantán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199006",
+      "photo_urls": []
+    },
+    {
+      "id": "199043",
+      "title": "Santiago Atitlán Peace Park",
+      "latitude": 14.62760368,
+      "longitude": -91.23167038,
+      "directions": "On State Route 4, Panabaj, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199043",
+      "photo_urls": []
+    },
+    {
+      "id": "199045",
+      "title": "Origin of the Catholic Church in Almolonga",
+      "latitude": 14.81557111,
+      "longitude": -91.49484421,
+      "directions": "Near Unnamed road, Almolonga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199045",
+      "photo_urls": []
+    },
+    {
+      "id": "199051",
+      "title": "Santa María Chiquimula Community Consultation",
+      "latitude": 15.02938906,
+      "longitude": -91.33006933,
+      "directions": "Near Vía Sin Nombre, Santa María Chiquimula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=199051",
+      "photo_urls": []
+    },
+    {
+      "id": "218142",
+      "title": "Ancient Channel of Stone",
+      "latitude": 14.55351439,
+      "longitude": -90.7360142,
+      "directions": "On 7a Calle Poniente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218142",
+      "photo_urls": []
+    },
+    {
+      "id": "218323",
+      "title": "General Justo Rufino Barrios",
+      "latitude": 14.9098822,
+      "longitude": -92.05406209,
+      "directions": "On Ruta Nacional 1, Malacatán, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218323",
+      "photo_urls": []
+    },
+    {
+      "id": "218326",
+      "title": "Benito Juárez",
+      "latitude": 14.90765041,
+      "longitude": -92.06651117,
+      "directions": "On 9a Avenida, Malacatán, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=218326",
+      "photo_urls": []
+    },
+    {
+      "id": "227437",
+      "title": "Southwest Area",
+      "latitude": 14.73585776,
+      "longitude": -90.9968573,
+      "directions": "On Unnamed park road, Tecpán Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227437",
+      "photo_urls": []
+    },
+    {
+      "id": "231265",
+      "title": "Walter Williams in Guatemala",
+      "latitude": 14.545475,
+      "longitude": -90.72936944,
+      "directions": "On Carretera a Santa Maria de Jesus, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231265",
+      "photo_urls": []
+    },
+    {
+      "id": "238343",
+      "title": "Patzún Victims Memorial",
+      "latitude": 14.68265749,
+      "longitude": -91.01536997,
+      "directions": "On 5a Calle, Patzún, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238343",
+      "photo_urls": []
+    },
+    {
+      "id": "238344",
+      "title": "Guillermo Fuentes Girón",
+      "latitude": 14.77039827,
+      "longitude": -91.18317751,
+      "directions": "On National Route 1, Sololá, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=238344",
+      "photo_urls": []
+    },
+    {
+      "id": "265423",
+      "title": "Guatemalan Air Force Memorial",
+      "latitude": 14.58655086,
+      "longitude": -90.52351568,
+      "directions": "On Avenida Hincapie, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265423",
+      "photo_urls": []
+    },
+    {
+      "id": "265641",
+      "title": "Bicentenario de Guatemala",
+      "latitude": 14.58588724,
+      "longitude": -90.52142869,
+      "directions": "On 11 Calle, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265641",
+      "photo_urls": []
+    },
+    {
+      "id": "266374",
+      "title": "Primer Centenario de Miguel Garcia Granados",
+      "latitude": 14.63024511,
+      "longitude": -90.92755066,
+      "directions": "On 2a Avenida, Patzicia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266374",
+      "photo_urls": []
+    },
+    {
+      "id": "266375",
+      "title": "The Founding of Tecpán Guatemala",
+      "latitude": 14.76137486,
+      "longitude": -90.99150924,
+      "directions": "On 1a Avenida, Tecpán Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266375",
+      "photo_urls": []
+    },
+    {
+      "id": "276895",
+      "title": "Monument to the Indigenous People of Guatemala",
+      "latitude": 14.59529296,
+      "longitude": -90.51995249,
+      "directions": "On Bulevar Liberación, Ciudad de Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276895",
+      "photo_urls": []
+    },
+    {
+      "id": "293635",
+      "title": "El Viaje/The Journey",
+      "latitude": 14.59811608,
+      "longitude": -90.51455341,
+      "directions": "On 14 Calle, Ciudad de Guatemala Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293635",
+      "photo_urls": []
+    },
+    {
+      "id": "293642",
+      "title": "Estación Mapa del Sitio",
+      "latitude": 14.63667136,
+      "longitude": -91.73233092,
+      "directions": "On RD-REU-13, El Asintal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293642",
+      "photo_urls": []
+    },
+    {
+      "id": "297948",
+      "title": "Estación Recorrido",
+      "latitude": 14.63688752,
+      "longitude": -91.73258628,
+      "directions": "Near REU-13, El Asintal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297948",
+      "photo_urls": []
+    },
+    {
+      "id": "68561",
+      "title": "The Central American Act of Independence",
+      "latitude": 14.641401,
+      "longitude": -90.514079,
+      "directions": "On 6 Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=68561",
+      "photo_urls": []
+    },
+    {
+      "id": "70121",
+      "title": "Home of Brother Pedro",
+      "latitude": 14.551152,
+      "longitude": -90.728681,
+      "directions": "Near Calle de Hermano Pedro, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70121",
+      "photo_urls": []
+    },
+    {
+      "id": "70414",
+      "title": "First Printing Press in Central America",
+      "latitude": 14.557445,
+      "longitude": -90.733687,
+      "directions": "On 4ta Calle Poniente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70414",
+      "photo_urls": []
+    },
+    {
+      "id": "70570",
+      "title": "Antigua Guatemala UNESCO World Heritage Site",
+      "latitude": 14.557375,
+      "longitude": -90.733258,
+      "directions": "On 4ta Calle Poniente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70570",
+      "photo_urls": []
+    },
+    {
+      "id": "71194",
+      "title": "California Avocado Society Thanks Guatemala",
+      "latitude": 14.556819,
+      "longitude": -90.733472,
+      "directions": "Near 4a Avenida Norte, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71194",
+      "photo_urls": []
+    },
+    {
+      "id": "71216",
+      "title": "Justo Rufino Barrios",
+      "latitude": 14.964192,
+      "longitude": -91.790214,
+      "directions": "On RN-1, San Marcos, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71216",
+      "photo_urls": []
+    },
+    {
+      "id": "71290",
+      "title": "Sculptor Quirio Cataño",
+      "latitude": 14.55651138,
+      "longitude": -90.73392769,
+      "directions": "On 5a Avenida Norte, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71290",
+      "photo_urls": []
+    },
+    {
+      "id": "71294",
+      "title": "Pedro Cofiño and Ramon Palencia Shot by Firing Squad",
+      "latitude": 14.55433265,
+      "longitude": -90.72916925,
+      "directions": "On Calle de Hermano Pedro, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71294",
+      "photo_urls": []
+    },
+    {
+      "id": "71316",
+      "title": "Palace of the Captaincy General",
+      "latitude": 14.55625378,
+      "longitude": -90.73355198,
+      "directions": "Near 5a Calle Poniente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71316",
+      "photo_urls": []
+    },
+    {
+      "id": "71411",
+      "title": "Monument of the Star",
+      "latitude": 14.615312,
+      "longitude": -90.513911,
+      "directions": "On Avenida La Reforma Zona 10, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=71411",
+      "photo_urls": []
+    },
+    {
+      "id": "77970",
+      "title": "Assassination of Dr. Alberto Fuentes Mohr",
+      "latitude": 14.614331,
+      "longitude": -90.514027,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=77970",
+      "photo_urls": []
+    },
+    {
+      "id": "80178",
+      "title": "Guatemalan Revolution of 1944",
+      "latitude": 14.6425,
+      "longitude": -90.513133,
+      "directions": "Near 6a Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80178",
+      "photo_urls": []
+    },
+    {
+      "id": "80183",
+      "title": "National Day of Dignity for the Victims of Guatemala's Armed Conflict",
+      "latitude": 14.642082,
+      "longitude": -90.513209,
+      "directions": "Near 8 Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80183",
+      "photo_urls": []
+    },
+    {
+      "id": "80201",
+      "title": "Military Academy of Guatemala",
+      "latitude": 14.613355,
+      "longitude": -90.513929,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80201",
+      "photo_urls": []
+    },
+    {
+      "id": "80203",
+      "title": "Israel and Guatemala Monument",
+      "latitude": 14.609291,
+      "longitude": -90.515357,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80203",
+      "photo_urls": []
+    },
+    {
+      "id": "80205",
+      "title": "Miguel Garcia Granados",
+      "latitude": 14.612593,
+      "longitude": -90.514285,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80205",
+      "photo_urls": []
+    },
+    {
+      "id": "80258",
+      "title": "Fire at the Spanish Embassy in Guatemala",
+      "latitude": 14.6039021,
+      "longitude": -90.51965423,
+      "directions": "On 10a Calle, Ciudad de Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80258",
+      "photo_urls": []
+    },
+    {
+      "id": "80402",
+      "title": "Founding of the Department of El Quiche, Guatemala",
+      "latitude": 15.029731,
+      "longitude": -91.149004,
+      "directions": "On RN-15, Santa Cruz del Quiché, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80402",
+      "photo_urls": []
+    },
+    {
+      "id": "80449",
+      "title": "Los Esclavos Bridge",
+      "latitude": 14.253547,
+      "longitude": -90.277216,
+      "directions": "Near Vía Sin Nombre, Cuilapa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80449",
+      "photo_urls": []
+    },
+    {
+      "id": "80455",
+      "title": "El Quiché War Victims",
+      "latitude": 15.028948,
+      "longitude": -91.1491,
+      "directions": "Near RN-1, Santa Cruz del Quiché, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80455",
+      "photo_urls": []
+    },
+    {
+      "id": "81245",
+      "title": "Founding of the Botanical Garden",
+      "latitude": 14.614863,
+      "longitude": -90.513669,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81245",
+      "photo_urls": []
+    },
+    {
+      "id": "82279",
+      "title": "Dr. Manuel Avalos y Porras",
+      "latitude": 14.55743611,
+      "longitude": -90.73098889,
+      "directions": "On 4ta Calle Poniente, Antigua Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82279",
+      "photo_urls": []
+    },
+    {
+      "id": "82284",
+      "title": "Santiago Hospital and Francisco Marroquín",
+      "latitude": 14.55728611,
+      "longitude": -90.73086667,
+      "directions": "On 4a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82284",
+      "photo_urls": []
+    },
+    {
+      "id": "82616",
+      "title": "Francisco Marroquín",
+      "latitude": 14.55701667,
+      "longitude": -90.73306389,
+      "directions": "On 4 Avenida Sur, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82616",
+      "photo_urls": []
+    },
+    {
+      "id": "82622",
+      "title": "Cathedral of Antigua Guatemala",
+      "latitude": 14.556818,
+      "longitude": -90.73311,
+      "directions": "On 5a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82622",
+      "photo_urls": []
+    },
+    {
+      "id": "82623",
+      "title": "Doña Maria Gordillo de Duran",
+      "latitude": 14.55730001,
+      "longitude": -90.73145181,
+      "directions": "On 4a Calle Oriente, Antigua Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82623",
+      "photo_urls": []
+    },
+    {
+      "id": "82624",
+      "title": "Friar Ignacio Barnoya",
+      "latitude": 14.557296,
+      "longitude": -90.73089,
+      "directions": "On 4a Calle Oriente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82624",
+      "photo_urls": []
+    },
+    {
+      "id": "82625",
+      "title": "Monument to Barrios",
+      "latitude": 15.01911667,
+      "longitude": -91.79753889,
+      "directions": "On RN-12N, San Lorenzo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82625",
+      "photo_urls": []
+    },
+    {
+      "id": "83131",
+      "title": "Birthplace of General Justo Rufino Barrios",
+      "latitude": 15.03459167,
+      "longitude": -91.73996667,
+      "directions": "On Cuna de Barrios, San Lorenzo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83131",
+      "photo_urls": []
+    },
+    {
+      "id": "83132",
+      "title": "Centenary Park San Lorenzo",
+      "latitude": 15.03171389,
+      "longitude": -91.73631944,
+      "directions": "On Carretera local, San Lorenzo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83132",
+      "photo_urls": []
+    },
+    {
+      "id": "83492",
+      "title": "The University of San Carlos",
+      "latitude": 14.55631667,
+      "longitude": -90.73255278,
+      "directions": "On 5a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83492",
+      "photo_urls": []
+    },
+    {
+      "id": "83498",
+      "title": "Pedro Cortés y Larraz",
+      "latitude": 14.55648333,
+      "longitude": -90.73276389,
+      "directions": "On 5a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83498",
+      "photo_urls": []
+    },
+    {
+      "id": "83536",
+      "title": "Francisco Marroquín and the San Pedro Hospital",
+      "latitude": 14.55521667,
+      "longitude": -90.73226111,
+      "directions": "On 6a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83536",
+      "photo_urls": []
+    },
+    {
+      "id": "83640",
+      "title": "Plaza Tecún Umán",
+      "latitude": 15.02907222,
+      "longitude": -91.14898611,
+      "directions": "On RN-15, Santa Cruz del Quiché, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=83640",
+      "photo_urls": []
+    },
+    {
+      "id": "85303",
+      "title": "Friar Pedro Pardo Figueroa",
+      "latitude": 14.56291,
+      "longitude": -89.35146,
+      "directions": "Near RN-18, Esquipulas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85303",
+      "photo_urls": []
+    },
+    {
+      "id": "85316",
+      "title": "Amatal River Bridge",
+      "latitude": 14.19552222,
+      "longitude": -89.67479722,
+      "directions": "On Panamerican Highway, San Cristóbal, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85316",
+      "photo_urls": []
+    },
+    {
+      "id": "85317",
+      "title": "Tamasulapa River Bridge",
+      "latitude": 14.30360833,
+      "longitude": -89.71746111,
+      "directions": "On Panamerican Highway, Asunción Mita, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85317",
+      "photo_urls": []
+    },
+    {
+      "id": "85629",
+      "title": "The Ceiba, Guatemala's National Tree",
+      "latitude": 14.60637778,
+      "longitude": -90.51338333,
+      "directions": "Near 2A Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85629",
+      "photo_urls": []
+    },
+    {
+      "id": "86945",
+      "title": "The Quetzal as Guatemala's Currency",
+      "latitude": 14.62613889,
+      "longitude": -90.51398333,
+      "directions": "Near 7A Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=86945",
+      "photo_urls": []
+    },
+    {
+      "id": "86982",
+      "title": "José María Reina Barrios",
+      "latitude": 14.60921944,
+      "longitude": -90.51476944,
+      "directions": "On Avenida la Reforma, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=86982",
+      "photo_urls": []
+    },
+    {
+      "id": "87150",
+      "title": "Miguel Hidalgo y Costilla",
+      "latitude": 14.607518,
+      "longitude": -90.51529,
+      "directions": "On Avenida La Reforma, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87150",
+      "photo_urls": []
+    },
+    {
+      "id": "87321",
+      "title": "Founding of the First Capital of Guatemala",
+      "latitude": 14.52546389,
+      "longitude": -90.76183333,
+      "directions": "On Vía Sin Nombre, Ciudad Vieja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87321",
+      "photo_urls": []
+    },
+    {
+      "id": "87895",
+      "title": "Doña Beatriz de la Cueva",
+      "latitude": 14.52463056,
+      "longitude": -90.76123056,
+      "directions": "Near Ruta Nacional 10, Ciudad Vieja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87895",
+      "photo_urls": []
+    },
+    {
+      "id": "87905",
+      "title": "Carlos Merida",
+      "latitude": 14.59732778,
+      "longitude": -90.52911389,
+      "directions": "Near Parqueo Museos, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87905",
+      "photo_urls": []
+    },
+    {
+      "id": "87910",
+      "title": "Esquisuchil",
+      "latitude": 14.54527778,
+      "longitude": -90.73015556,
+      "directions": "Near Callejon del Calvario, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87910",
+      "photo_urls": []
+    },
+    {
+      "id": "88712",
+      "title": "Friar Augusto Ramírez Monasterio",
+      "latitude": 14.55412778,
+      "longitude": -90.72986667,
+      "directions": "Near 7a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=88712",
+      "photo_urls": []
+    },
+    {
+      "id": "89179",
+      "title": "San Pedro las Huertas Catholic Church",
+      "latitude": 14.53061667,
+      "longitude": -90.7397,
+      "directions": "On Ruta Nacional 10, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=89179",
+      "photo_urls": []
+    },
+    {
+      "id": "91089",
+      "title": "House of Bernal Díaz del Castillo",
+      "latitude": 14.55745278,
+      "longitude": -90.73603889,
+      "directions": "On 4a Calle Poniente, Antigua Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91089",
+      "photo_urls": []
+    },
+    {
+      "id": "91694",
+      "title": "Friar Bartolomé de las Casas",
+      "latitude": 14.560827,
+      "longitude": -90.73445,
+      "directions": "On 1a Calle Poniente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91694",
+      "photo_urls": []
+    },
+    {
+      "id": "91733",
+      "title": "Signers of the Act of December 25, 1919",
+      "latitude": 14.55856667,
+      "longitude": -90.73421389,
+      "directions": "On 5a Avenida Norte, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91733",
+      "photo_urls": []
+    },
+    {
+      "id": "91768",
+      "title": "Assassination of Myrna Mack",
+      "latitude": 14.636261,
+      "longitude": -90.50717,
+      "directions": "Near 12 Calle, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91768",
+      "photo_urls": []
+    },
+    {
+      "id": "91770",
+      "title": "Battle of San Lucas Monument",
+      "latitude": 14.609606,
+      "longitude": -90.65648,
+      "directions": "On 6a Calle, San Lucas Sacatepéquez, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=91770",
+      "photo_urls": []
+    },
+    {
+      "id": "92089",
+      "title": "Birthplace of Luis Cardoza y Aragón",
+      "latitude": 14.556805,
+      "longitude": -90.73215,
+      "directions": "On 3ra Avenidad Norte, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92089",
+      "photo_urls": []
+    },
+    {
+      "id": "92090",
+      "title": "Structure 11",
+      "latitude": 14.63628333,
+      "longitude": -91.73396389,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92090",
+      "photo_urls": []
+    },
+    {
+      "id": "92093",
+      "title": "Plaza Tukur Balam",
+      "latitude": 14.63612778,
+      "longitude": -91.73371944,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92093",
+      "photo_urls": []
+    },
+    {
+      "id": "92118",
+      "title": "Sweat Lodge",
+      "latitude": 14.63612778,
+      "longitude": -91.73365,
+      "directions": "On RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92118",
+      "photo_urls": []
+    },
+    {
+      "id": "92120",
+      "title": "Guacalitos Station",
+      "latitude": 14.63756667,
+      "longitude": -91.73253611,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92120",
+      "photo_urls": []
+    },
+    {
+      "id": "92168",
+      "title": "Piecitos Station",
+      "latitude": 14.63791389,
+      "longitude": -91.731675,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92168",
+      "photo_urls": []
+    },
+    {
+      "id": "92169",
+      "title": "Stela 18 Station",
+      "latitude": 14.63926111,
+      "longitude": -91.73224722,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92169",
+      "photo_urls": []
+    },
+    {
+      "id": "92170",
+      "title": "Tanmi Tnam Plaza",
+      "latitude": 14.63790278,
+      "longitude": -91.73276389,
+      "directions": "Near RD-REU-13, El Asintal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92170",
+      "photo_urls": []
+    },
+    {
+      "id": "92428",
+      "title": "Dr. Oscar Asensio del Valle",
+      "latitude": 14.55636944,
+      "longitude": -90.73123889,
+      "directions": "On 5a Calle Oriente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92428",
+      "photo_urls": []
+    },
+    {
+      "id": "92436",
+      "title": "Rafael Landívar",
+      "latitude": 14.55621667,
+      "longitude": -90.73870833,
+      "directions": "On 5a Calle Poniente, Antigua Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92436",
+      "photo_urls": []
+    },
+    {
+      "id": "92474",
+      "title": "First Council of the City of Guatemala",
+      "latitude": 14.650737,
+      "longitude": -90.498931,
+      "directions": "On Calle Marti, Ciudad de Guatemala, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92474",
+      "photo_urls": []
+    },
+    {
+      "id": "92480",
+      "title": "First Rector and Graduate of the University of San Carlos",
+      "latitude": 14.55609444,
+      "longitude": -90.73261944,
+      "directions": "Near 5a Calle Oriente, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92480",
+      "photo_urls": []
+    },
+    {
+      "id": "92494",
+      "title": "Manuel Benítez",
+      "latitude": 14.555375,
+      "longitude": -90.73280278,
+      "directions": "On 3a Calle Oriente, Antigua Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92494",
+      "photo_urls": []
+    },
+    {
+      "id": "92531",
+      "title": "Volcano Agua",
+      "latitude": 14.55256944,
+      "longitude": -90.72289167,
+      "directions": "Near Vía Sin Nombre, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92531",
+      "photo_urls": []
+    },
+    {
+      "id": "92582",
+      "title": "Volcanos Fuego and Acatenango",
+      "latitude": 14.55257778,
+      "longitude": -90.7229,
+      "directions": "Near Vía Sin Nombre, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92582",
+      "photo_urls": []
+    },
+    {
+      "id": "93434",
+      "title": "The Mirador Canal",
+      "latitude": 14.620361,
+      "longitude": -90.55433,
+      "directions": "Near 7a Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93434",
+      "photo_urls": []
+    },
+    {
+      "id": "93884",
+      "title": "The Ceiba, Guatemala's National Tree",
+      "latitude": 14.40420278,
+      "longitude": -90.69845556,
+      "directions": "On 1ra Avenida, Palín, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93884",
+      "photo_urls": []
+    },
+    {
+      "id": "94044",
+      "title": "La Palangana Building Complex",
+      "latitude": 14.630909,
+      "longitude": -90.54751,
+      "directions": "Near 11a Calle, Zona 11, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94044",
+      "photo_urls": []
+    },
+    {
+      "id": "94045",
+      "title": "Monuments in La Palangana",
+      "latitude": 14.630707,
+      "longitude": -90.54764,
+      "directions": "Near 11a Calle, Zona 11, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94045",
+      "photo_urls": []
+    },
+    {
+      "id": "94046",
+      "title": "Ceremonial Area",
+      "latitude": 14.63232778,
+      "longitude": -90.54792778,
+      "directions": "Near 11a Avenidad, Zona 11, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94046",
+      "photo_urls": []
+    },
+    {
+      "id": "94080",
+      "title": "The Acropolis at Kaminaljuyú",
+      "latitude": 14.63250556,
+      "longitude": -90.54892778,
+      "directions": "Near 11a Calle, Zona 11, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94080",
+      "photo_urls": []
+    },
+    {
+      "id": "94960",
+      "title": "Captain Braulio Laguardia Morales",
+      "latitude": 14.554188,
+      "longitude": -90.73526,
+      "directions": "On 7a Calle Poniente, Antigua Guatemala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94960",
+      "photo_urls": []
+    },
+    {
+      "id": "95266",
+      "title": "The Act of Patzicia",
+      "latitude": 14.63029444,
+      "longitude": -90.92762778,
+      "directions": "Near 1a Calle, Patzicia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95266",
+      "photo_urls": []
+    },
+    {
+      "id": "95269",
+      "title": "Mariano Guerrero de Léon",
+      "latitude": 14.645535,
+      "longitude": -90.51348,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95269",
+      "photo_urls": []
+    },
+    {
+      "id": "95292",
+      "title": "Oliverio Castañeda de León",
+      "latitude": 14.587764,
+      "longitude": -90.54963,
+      "directions": "Near Vía Sin Nombre, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95292",
+      "photo_urls": []
+    },
+    {
+      "id": "95613",
+      "title": "Tribute to General Justo Rufino Barrios",
+      "latitude": 14.4841,
+      "longitude": -90.80403889,
+      "directions": "On Calle Real, Alotenango, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95613",
+      "photo_urls": []
+    },
+    {
+      "id": "95618",
+      "title": "Tribute to Ana Guerra de Jesus",
+      "latitude": 14.55746389,
+      "longitude": -90.73628333,
+      "directions": "On 7a Avenida Norte, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95618",
+      "photo_urls": []
+    },
+    {
+      "id": "95677",
+      "title": "Mayan Compacting Stone",
+      "latitude": 14.27558611,
+      "longitude": -90.29881944,
+      "directions": "On 2da Avenida, Cuilapa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95677",
+      "photo_urls": []
+    },
+    {
+      "id": "95679",
+      "title": "General Justo Rufino Barrios",
+      "latitude": 14.52382222,
+      "longitude": -90.79717222,
+      "directions": "On Vía Sin Nombre, San Miguel Dueñas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95679",
+      "photo_urls": []
+    },
+    {
+      "id": "95680",
+      "title": "The 20th Anniversary of the Guatemalan Peace Accords",
+      "latitude": 14.60948611,
+      "longitude": -90.80180278,
+      "directions": "On 1a Avenida Poniente, Parramos, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95680",
+      "photo_urls": []
+    },
+    {
+      "id": "95681",
+      "title": "Adrian Recinos Born in this House",
+      "latitude": 14.55599158,
+      "longitude": -90.73426813,
+      "directions": "On 5a Avenida Sur, Antigua Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95681",
+      "photo_urls": []
+    },
+    {
+      "id": "95683",
+      "title": "Santa Catarina Barahona",
+      "latitude": 14.55161944,
+      "longitude": -90.78649167,
+      "directions": "On Vía Sin Nombre, Santa Catarina Barahona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95683",
+      "photo_urls": []
+    },
+    {
+      "id": "95684",
+      "title": "Don Rafael V. Alvarez Polanco",
+      "latitude": 14.55270556,
+      "longitude": -90.73034722,
+      "directions": "On Calle de los Pasos, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95684",
+      "photo_urls": []
+    },
+    {
+      "id": "95716",
+      "title": "The Fountain of Antigua's Central Park",
+      "latitude": 14.55686389,
+      "longitude": -90.73375833,
+      "directions": "Near 5a Avenida, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95716",
+      "photo_urls": []
+    },
+    {
+      "id": "95836",
+      "title": "Assassination of Bishop Juan José Gerardi Conedera",
+      "latitude": 14.64638333,
+      "longitude": -90.512725,
+      "directions": "Near 6a Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95836",
+      "photo_urls": []
+    },
+    {
+      "id": "95837",
+      "title": "Myrna Elizabeth Mack Chang",
+      "latitude": 14.64665,
+      "longitude": -90.51332222,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95837",
+      "photo_urls": []
+    },
+    {
+      "id": "95838",
+      "title": "Engineer Claudio Urrutia M.",
+      "latitude": 14.66078056,
+      "longitude": -90.50869722,
+      "directions": "Near Avenidad Simeon Cañas, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95838",
+      "photo_urls": []
+    },
+    {
+      "id": "95841",
+      "title": "Engineer Francisco Vela",
+      "latitude": 14.66069167,
+      "longitude": -90.50871944,
+      "directions": "Near Avenida Simeon Cañas, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95841",
+      "photo_urls": []
+    },
+    {
+      "id": "95845",
+      "title": "Lieutenant Colonel and Engineer Francisco Vela",
+      "latitude": 14.66081944,
+      "longitude": -90.50833889,
+      "directions": "Near Avenida Simeon Cañas, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95845",
+      "photo_urls": []
+    },
+    {
+      "id": "95847",
+      "title": "Dr. Carlos Martínez Durán",
+      "latitude": 14.58860833,
+      "longitude": -90.54833333,
+      "directions": "On Boulevard Universitario, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95847",
+      "photo_urls": []
+    },
+    {
+      "id": "95849",
+      "title": "300th Anniversary of the Founding of the San Carlos University of Guatemala",
+      "latitude": 14.58823889,
+      "longitude": -90.55160556,
+      "directions": "Near Boulevard Universitario, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95849",
+      "photo_urls": []
+    },
+    {
+      "id": "95853",
+      "title": "Martyrs' Plaza of the University of San Carlos of Guatemala",
+      "latitude": 14.5877,
+      "longitude": -90.55172778,
+      "directions": "Near Boulevard Universitario, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95853",
+      "photo_urls": []
+    },
+    {
+      "id": "95860",
+      "title": "Assassination of Mario López Larrave",
+      "latitude": 14.58720833,
+      "longitude": -90.55185,
+      "directions": "Near Boulevard Universitario, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95860",
+      "photo_urls": []
+    },
+    {
+      "id": "95866",
+      "title": "First Ordination of a Priest in Cuilapa Cathedral",
+      "latitude": 14.278902,
+      "longitude": -90.29917,
+      "directions": "On 1a Avenida, Cuilapa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95866",
+      "photo_urls": []
+    },
+    {
+      "id": "95873",
+      "title": "Tragic Accident in San Antonio Aguas Calientes",
+      "latitude": 14.547234,
+      "longitude": -90.78123,
+      "directions": "On 5 Avenida, San Antonio Aguas Calientes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95873",
+      "photo_urls": []
+    },
+    {
+      "id": "95874",
+      "title": "Juanito Cucuy Taj",
+      "latitude": 14.535348,
+      "longitude": -90.77296,
+      "directions": "On Calle Principal de San Lorenzo el Cubo, Ciudad Vieja, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95874",
+      "photo_urls": []
+    },
+    {
+      "id": "95875",
+      "title": "Reconstruction After Guatemala's 1976 Earthquake",
+      "latitude": 14.606633,
+      "longitude": -90.67894,
+      "directions": "On 2a Avenida, San Bartolomé Milpas Altas, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95875",
+      "photo_urls": []
+    },
+    {
+      "id": "95876",
+      "title": "Catholic Church of Santa Ana",
+      "latitude": 14.54803056,
+      "longitude": -90.72553889,
+      "directions": "Near Callejon Contreras, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95876",
+      "photo_urls": []
+    },
+    {
+      "id": "95878",
+      "title": "Assassination of Maria Chinchilla",
+      "latitude": 14.631775,
+      "longitude": -90.51548,
+      "directions": "Near 17a Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95878",
+      "photo_urls": []
+    },
+    {
+      "id": "95881",
+      "title": "Santo Tomás Milpas Altas",
+      "latitude": 14.55915556,
+      "longitude": -90.67021944,
+      "directions": "On Vía Sin Nombre, Santa Lucia Milpas Altas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95881",
+      "photo_urls": []
+    },
+    {
+      "id": "95892",
+      "title": "Mario Méndez Montenegro",
+      "latitude": 14.62781944,
+      "longitude": -90.51595278,
+      "directions": "On 6a Avenida, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95892",
+      "photo_urls": []
+    },
+    {
+      "id": "95895",
+      "title": "First Location of Olimpia Leal Normal School",
+      "latitude": 14.55353611,
+      "longitude": -90.73123889,
+      "directions": "On 2a Avenida Sur, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95895",
+      "photo_urls": []
+    },
+    {
+      "id": "95899",
+      "title": "Assassination of Oliverio Castañeda de Leon",
+      "latitude": 14.64104444,
+      "longitude": -90.51404444,
+      "directions": "Near 6a Avenida, Ciudad de Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95899",
+      "photo_urls": []
+    },
+    {
+      "id": "95902",
+      "title": "Workers Night School of Antigua Guatemala",
+      "latitude": 14.55966389,
+      "longitude": -90.73792222,
+      "directions": "On Alameda Santa Lucía, Antigua Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95902",
+      "photo_urls": []
+    },
+    {
+      "id": "95903",
+      "title": "300th Anniversary of the Printing Press in Guatemala",
+      "latitude": 14.63076667,
+      "longitude": -90.51442778,
+      "directions": "On 18a Calle, Ciudad de Guatemala, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95903",
+      "photo_urls": []
+    },
+    {
+      "id": "95919",
+      "title": "Stela Commemorating the End of the Oxlajpiq/Oxlajb’ak’tun",
+      "latitude": 14.73649167,
+      "longitude": -90.997025,
+      "directions": "Near Vía Sin Nombre, near Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95919",
+      "photo_urls": []
+    },
+    {
+      "id": "95922",
+      "title": "Entrance to the City's Center",
+      "latitude": 14.73629167,
+      "longitude": -90.9971,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95922",
+      "photo_urls": []
+    },
+    {
+      "id": "95928",
+      "title": "Plaza A of Iximche",
+      "latitude": 14.73570278,
+      "longitude": -90.99631389,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95928",
+      "photo_urls": []
+    },
+    {
+      "id": "95929",
+      "title": "Sotz'il Palace",
+      "latitude": 14.73532778,
+      "longitude": -90.99546111,
+      "directions": "On Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95929",
+      "photo_urls": []
+    },
+    {
+      "id": "95930",
+      "title": "Temple 5 at Iximche",
+      "latitude": 14.73446944,
+      "longitude": -90.99484167,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95930",
+      "photo_urls": []
+    },
+    {
+      "id": "95931",
+      "title": "Xajil Palace",
+      "latitude": 14.73433611,
+      "longitude": -90.99491111,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=95931",
+      "photo_urls": []
+    },
+    {
+      "id": "96041",
+      "title": "100th Anniversary of the Cross of San Bartolomé Becerra",
+      "latitude": 14.55128611,
+      "longitude": -90.74835833,
+      "directions": "On Carretera a San Bartolomé Becerra, Aldea San Bartolomé Becerra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96041",
+      "photo_urls": []
+    },
+    {
+      "id": "96094",
+      "title": "Mesoamerica and the Mayan Civilization",
+      "latitude": 14.73590833,
+      "longitude": -90.99659722,
+      "directions": "Near Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96094",
+      "photo_urls": []
+    },
+    {
+      "id": "96119",
+      "title": "Rafael Landívar",
+      "latitude": 14.55644444,
+      "longitude": -90.73818333,
+      "directions": "On Alameda de Santa Lucía, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96119",
+      "photo_urls": []
+    },
+    {
+      "id": "96198",
+      "title": "Archaeological Park Chuwa Nima’ Ab’äj",
+      "latitude": 14.87174444,
+      "longitude": -90.66150556,
+      "directions": "On Entrada a Mixco Viejo, near Pachalúm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96198",
+      "photo_urls": []
+    },
+    {
+      "id": "97520",
+      "title": "Temple II",
+      "latitude": 17.22201944,
+      "longitude": -89.62424444,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97520",
+      "photo_urls": []
+    },
+    {
+      "id": "97779",
+      "title": "First Cathedral in Guatemala City",
+      "latitude": 14.64065278,
+      "longitude": -90.50948333,
+      "directions": "On 8a Calle, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97779",
+      "photo_urls": []
+    },
+    {
+      "id": "97816",
+      "title": "East Plaza at Tikal",
+      "latitude": 17.22216111,
+      "longitude": -89.62239167,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97816",
+      "photo_urls": []
+    },
+    {
+      "id": "97839",
+      "title": "Neuro-Psychiatric Hospital Fire in Guatemala City",
+      "latitude": 14.63951389,
+      "longitude": -90.51097778,
+      "directions": "On 9a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97839",
+      "photo_urls": []
+    },
+    {
+      "id": "97902",
+      "title": "Dolores Bedoya de Molina",
+      "latitude": 14.63469444,
+      "longitude": -90.51339722,
+      "directions": "On 14a Calle, Ciudad de Guatemala, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97902",
+      "photo_urls": []
+    },
+    {
+      "id": "97993",
+      "title": "The Acropolis at Quiriguá",
+      "latitude": 15.26888611,
+      "longitude": -89.04069444,
+      "directions": "Near , Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97993",
+      "photo_urls": []
+    },
+    {
+      "id": "97994",
+      "title": "The Great Plaza at Quirigua",
+      "latitude": 15.27274167,
+      "longitude": -89.04093056,
+      "directions": "Near Ruinas de Quirigua, Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97994",
+      "photo_urls": []
+    },
+    {
+      "id": "97996",
+      "title": "Quirigua within the Context of the Mayan Cities",
+      "latitude": 15.27319722,
+      "longitude": -89.04121389,
+      "directions": "Near Ruinas de Quirigua, Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97996",
+      "photo_urls": []
+    },
+    {
+      "id": "97999",
+      "title": "Quirigua: History of the City, its Environment and Discovery",
+      "latitude": 15.27368611,
+      "longitude": -89.04183889,
+      "directions": "Near Ruinas de Quirigua, Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97999",
+      "photo_urls": []
+    },
+    {
+      "id": "98002",
+      "title": "The Guatemalan Military Museum",
+      "latitude": 14.62818333,
+      "longitude": -90.51668611,
+      "directions": "Near 19a Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98002",
+      "photo_urls": []
+    },
+    {
+      "id": "98013",
+      "title": "Students Massacred on April 12, 1962",
+      "latitude": 14.638855,
+      "longitude": -90.51107,
+      "directions": "On 9a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98013",
+      "photo_urls": []
+    },
+    {
+      "id": "98015",
+      "title": "Julio and Enrique de la Riva",
+      "latitude": 14.638245,
+      "longitude": -90.51126,
+      "directions": "On 9a Avenida, Ciudad de Guatemala, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98015",
+      "photo_urls": []
+    },
+    {
+      "id": "98016",
+      "title": "Murder of Abner Abdiel Hernandez Orellana",
+      "latitude": 14.639578,
+      "longitude": -90.51093,
+      "directions": "On 9a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98016",
+      "photo_urls": []
+    },
+    {
+      "id": "98029",
+      "title": "Sebastián de Arévalo",
+      "latitude": 14.56284444,
+      "longitude": -90.73526667,
+      "directions": "On 6a Avenida, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98029",
+      "photo_urls": []
+    },
+    {
+      "id": "98039",
+      "title": "Candelaria Pilgrimage of 1963 to Antigua",
+      "latitude": 14.56316944,
+      "longitude": -90.72882778,
+      "directions": "On 1ra Avenida Norte, Antigua Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98039",
+      "photo_urls": []
+    },
+    {
+      "id": "98351",
+      "title": "Doctor Adolfo Mijangos López",
+      "latitude": 14.638685,
+      "longitude": -90.51082,
+      "directions": "On 9a Avenida, Ciudad de Guatemala, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98351",
+      "photo_urls": []
+    },
+    {
+      "id": "98352",
+      "title": "Irma Marina Flaquer Azurdia",
+      "latitude": 14.574488,
+      "longitude": -90.52432,
+      "directions": "Near Avenida Las Americas, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98352",
+      "photo_urls": []
+    },
+    {
+      "id": "98355",
+      "title": "Captain General Bernardo O'Higgins Riquelme",
+      "latitude": 14.58303611,
+      "longitude": -90.52136111,
+      "directions": "Near Avenida Las Americas, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98355",
+      "photo_urls": []
+    },
+    {
+      "id": "98356",
+      "title": "Benito Juárez",
+      "latitude": 14.58411944,
+      "longitude": -90.52108056,
+      "directions": "On Avenida Las Americas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98356",
+      "photo_urls": []
+    },
+    {
+      "id": "98362",
+      "title": "General José de San Martín",
+      "latitude": 14.585673,
+      "longitude": -90.52077,
+      "directions": "On Avenida Las Americas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98362",
+      "photo_urls": []
+    },
+    {
+      "id": "98366",
+      "title": "General Francisco de Paula Santander",
+      "latitude": 14.58903889,
+      "longitude": -90.51976667,
+      "directions": "On Avenida Las Americas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98366",
+      "photo_urls": []
+    },
+    {
+      "id": "98486",
+      "title": "Antonio José de Irisarri",
+      "latitude": 14.59105,
+      "longitude": -90.51895278,
+      "directions": "On Avenida Las Americas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98486",
+      "photo_urls": []
+    },
+    {
+      "id": "98552",
+      "title": "Mobile Military Police",
+      "latitude": 14.62819444,
+      "longitude": -90.51626667,
+      "directions": "Near 19a Calle, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98552",
+      "photo_urls": []
+    },
+    {
+      "id": "98562",
+      "title": "Simón Bolívar",
+      "latitude": 14.59233056,
+      "longitude": -90.51846389,
+      "directions": "On Avenida Las Americas, Ciudad de Guatemala, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98562",
+      "photo_urls": []
+    },
+    {
+      "id": "98857",
+      "title": "Mayan Civilization in the Post Classic Period",
+      "latitude": 14.73581944,
+      "longitude": -90.99661389,
+      "directions": "On Vía Sin Nombre, Tecpán Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98857",
+      "photo_urls": []
+    },
+    {
+      "id": "98946",
+      "title": "Mariano Navarrete",
+      "latitude": 14.564246,
+      "longitude": -90.73745,
+      "directions": "On Avenida El Desengaño, Antigua Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98946",
+      "photo_urls": []
+    },
+    {
+      "id": "98948",
+      "title": "The Men's Teaching Institute of Antigua",
+      "latitude": 14.563649,
+      "longitude": -90.73628,
+      "directions": "On 7a Avenida, Antigua Guatemala, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98948",
+      "photo_urls": []
+    },
+    {
+      "id": "98949",
+      "title": "The Dramatic Academy of Antigua",
+      "latitude": 14.563035,
+      "longitude": -90.73632,
+      "directions": "On 7a Avenida, Antigua Guatemala, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98949",
+      "photo_urls": []
+    },
+    {
+      "id": "98963",
+      "title": "The 150th Anniversary of San Marcos Department",
+      "latitude": 14.96537952,
+      "longitude": -91.78735743,
+      "directions": "Near Calzada Justo Rufino Barrios, San Marcos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98963",
+      "photo_urls": []
+    },
+    {
+      "id": "98984",
+      "title": "The Ball Court Plaza",
+      "latitude": 15.26945278,
+      "longitude": -89.04068889,
+      "directions": "On , Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98984",
+      "photo_urls": []
+    },
+    {
+      "id": "98985",
+      "title": "A Contemporary Altar at Quiriguá",
+      "latitude": 15.27139722,
+      "longitude": -89.04070278,
+      "directions": "Near Vía Sin Nombre, Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98985",
+      "photo_urls": []
+    },
+    {
+      "id": "98986",
+      "title": "The Stelae of Quiriguá",
+      "latitude": 15.27209444,
+      "longitude": -89.04059722,
+      "directions": "Near Vía Sin Nombre, Quiriguá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98986",
+      "photo_urls": []
+    },
+    {
+      "id": "98999",
+      "title": "Tayasal Archaeological Site",
+      "latitude": 16.93784444,
+      "longitude": -89.89762222,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=98999",
+      "photo_urls": []
+    },
+    {
+      "id": "99025",
+      "title": "Tikal Archaeological Park",
+      "latitude": 17.22485,
+      "longitude": -89.61336389,
+      "directions": "On Carretera 3, Flores, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99025",
+      "photo_urls": []
+    },
+    {
+      "id": "99027",
+      "title": "Temple III at Tikal National Park",
+      "latitude": 17.22187222,
+      "longitude": -89.625825,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99027",
+      "photo_urls": []
+    },
+    {
+      "id": "99033",
+      "title": "Sloping Panel Temple at Tikal National Park",
+      "latitude": 17.22025556,
+      "longitude": -89.62808889,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99033",
+      "photo_urls": []
+    },
+    {
+      "id": "99095",
+      "title": "The Bat Palace",
+      "latitude": 17.22209722,
+      "longitude": -89.6279,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99095",
+      "photo_urls": []
+    },
+    {
+      "id": "99096",
+      "title": "Twin Pyramid Complex N",
+      "latitude": 17.22260278,
+      "longitude": -89.62864722,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99096",
+      "photo_urls": []
+    },
+    {
+      "id": "99099",
+      "title": "Great Pyramid",
+      "latitude": 17.21988611,
+      "longitude": -89.62776944,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99099",
+      "photo_urls": []
+    },
+    {
+      "id": "99105",
+      "title": "Temple V at Tikal",
+      "latitude": 17.21985,
+      "longitude": -89.623475,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99105",
+      "photo_urls": []
+    },
+    {
+      "id": "99109",
+      "title": "The \"Acanaladuras\" Palace",
+      "latitude": 17.21946667,
+      "longitude": -89.61981944,
+      "directions": "Near Vía Sin Nombre, Flores, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99109",
+      "photo_urls": []
+    },
+    {
+      "id": "99110",
+      "title": "The Eastern Acropolis of Yaxhá",
+      "latitude": 17.07186389,
+      "longitude": -89.39844444,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99110",
+      "photo_urls": []
+    },
+    {
+      "id": "99148",
+      "title": "Yaxhá",
+      "latitude": 17.070425,
+      "longitude": -89.39943056,
+      "directions": "Near , Melchor de Mencos, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99148",
+      "photo_urls": []
+    },
+    {
+      "id": "99150",
+      "title": "Minor Astronomical Complex at Yaxhá",
+      "latitude": 17.07046389,
+      "longitude": -89.39953611,
+      "directions": "On , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99150",
+      "photo_urls": []
+    },
+    {
+      "id": "99151",
+      "title": "The Quarry Causeway",
+      "latitude": 17.07184444,
+      "longitude": -89.40046667,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99151",
+      "photo_urls": []
+    },
+    {
+      "id": "99153",
+      "title": "Intersection of the Eastern and Quarry Causeways",
+      "latitude": 17.07316111,
+      "longitude": -89.40156667,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99153",
+      "photo_urls": []
+    },
+    {
+      "id": "99193",
+      "title": "Sacrificial Pyramid",
+      "latitude": 17.07356111,
+      "longitude": -89.40234444,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99193",
+      "photo_urls": []
+    },
+    {
+      "id": "99194",
+      "title": "The Palace's Ballgame",
+      "latitude": 17.07366944,
+      "longitude": -89.40248056,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99194",
+      "photo_urls": []
+    },
+    {
+      "id": "99250",
+      "title": "The Plaza of the Birds",
+      "latitude": 17.07466389,
+      "longitude": -89.40280278,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99250",
+      "photo_urls": []
+    },
+    {
+      "id": "99252",
+      "title": "The North Acropolis at Yaxhá",
+      "latitude": 17.07585556,
+      "longitude": -89.40241944,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99252",
+      "photo_urls": []
+    },
+    {
+      "id": "99264",
+      "title": "East Causeway Residential Zone",
+      "latitude": 17.0734,
+      "longitude": -89.400025,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99264",
+      "photo_urls": []
+    },
+    {
+      "id": "99275",
+      "title": "Plaza of the Columns",
+      "latitude": 17.07159444,
+      "longitude": -89.3992,
+      "directions": "Near , Melchor de Mencos, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99275",
+      "photo_urls": []
+    },
+    {
+      "id": "99276",
+      "title": "Semuc Champey Pools",
+      "latitude": 15.53386667,
+      "longitude": -89.95943333,
+      "directions": "Near , Lanquín, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99276",
+      "photo_urls": []
+    },
+    {
+      "id": "99281",
+      "title": "José Mariano Mociño",
+      "latitude": 15.21301389,
+      "longitude": -90.21723056,
+      "directions": "Near CA-14, Purulhá, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99281",
+      "photo_urls": []
+    },
+    {
+      "id": "99295",
+      "title": "Mario Dary Rivera",
+      "latitude": 14.60015278,
+      "longitude": -90.52705278,
+      "directions": "Near 7A Avenida, Ciudad de Guatemala, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99295",
+      "photo_urls": []
+    },
+    {
+      "id": "99872",
+      "title": "Assassination of Walter Voordeckers",
+      "latitude": 14.33166944,
+      "longitude": -91.02491667,
+      "directions": "On 6a Calle, Santa Lucía Cotzumalguapa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=99872",
+      "photo_urls": []
+    }
+  ]
+}
