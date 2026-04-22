@@ -1,0 +1,29 @@
+{
+  "region_id": "sc-seychelles",
+  "region_name": "Seychelles",
+  "region_type": "country",
+  "country": "Seychelles",
+  "generated": "2026-04-22T06:05:59.713Z",
+  "source_timestamp": "2026-04-22T06:05:59.713Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "258403",
+      "title": "The Victoria Memorial Clock Tower (1903)",
+      "latitude": -4.62334791,
+      "longitude": 55.45239285,
+      "directions": "On Independence Avenue, Victoria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258403",
+      "photo_urls": []
+    },
+    {
+      "id": "258458",
+      "title": "Liberty House (1953)",
+      "latitude": -4.62301724,
+      "longitude": 55.45242321,
+      "directions": "On Independence Avenue, Victoria, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258458",
+      "photo_urls": []
+    }
+  ]
+}
