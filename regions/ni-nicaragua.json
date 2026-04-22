@@ -1,0 +1,524 @@
+{
+  "region_id": "ni-nicaragua",
+  "region_name": "Nicaragua",
+  "region_type": "country",
+  "country": "Nicaragua",
+  "generated": "2026-04-22T06:05:59.712Z",
+  "source_timestamp": "2026-04-22T06:05:59.712Z",
+  "marker_count": 57,
+  "markers": [
+    {
+      "id": "133485",
+      "title": "Garibaldi in Granada",
+      "latitude": 11.92972222,
+      "longitude": -85.95277778,
+      "directions": "On Avenida la Sirena, Granada, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133485",
+      "photo_urls": []
+    },
+    {
+      "id": "133500",
+      "title": "La Gran Francia",
+      "latitude": 11.92928257,
+      "longitude": -85.95354147,
+      "directions": "On Avenida Guzmán, Granada, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133500",
+      "photo_urls": []
+    },
+    {
+      "id": "133613",
+      "title": "Workers Fallen in the Sandinista Revolution",
+      "latitude": 12.14389039,
+      "longitude": -86.29022349,
+      "directions": "On 19 Avenida Suroeste, Managua, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133613",
+      "photo_urls": []
+    },
+    {
+      "id": "133614",
+      "title": "María Romero Meneses",
+      "latitude": 11.9297591,
+      "longitude": -85.95357714,
+      "directions": "Near El Caimito, Granada, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133614",
+      "photo_urls": []
+    },
+    {
+      "id": "133660",
+      "title": "Father Rafael Villavicencio",
+      "latitude": 11.92995517,
+      "longitude": -85.95358254,
+      "directions": "On Calle la Calzada, Granada, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133660",
+      "photo_urls": []
+    },
+    {
+      "id": "133661",
+      "title": "Casa de los Leones",
+      "latitude": 11.93108209,
+      "longitude": -85.95347342,
+      "directions": "On Avenida Guzmán, Granada, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133661",
+      "photo_urls": []
+    },
+    {
+      "id": "133662",
+      "title": "Rubén Darío in Granada",
+      "latitude": 11.93138704,
+      "longitude": -85.95369641,
+      "directions": "On Avenida Gúzman, Granada, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133662",
+      "photo_urls": []
+    },
+    {
+      "id": "133666",
+      "title": "Tribute to Nicaraguan Independence Leaders",
+      "latitude": 11.93092726,
+      "longitude": -85.95356462,
+      "directions": "On Avenida Guzmán, Granada, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133666",
+      "photo_urls": []
+    },
+    {
+      "id": "134577",
+      "title": "Monsignor Oscar Romero Arnulfo",
+      "latitude": 13.09671657,
+      "longitude": -86.3539783,
+      "directions": "On Calle 6 NE, Estelí, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134577",
+      "photo_urls": []
+    },
+    {
+      "id": "134578",
+      "title": "Francisco Rivera Quintero",
+      "latitude": 13.09654937,
+      "longitude": -86.35366297,
+      "directions": "On Calle 6 NE, Estelí, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134578",
+      "photo_urls": []
+    },
+    {
+      "id": "134581",
+      "title": "José Filemon Herrera",
+      "latitude": 13.09320996,
+      "longitude": -86.35570398,
+      "directions": "On Avenida 1 NE, Estelí, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134581",
+      "photo_urls": []
+    },
+    {
+      "id": "134585",
+      "title": "Rubén Darío",
+      "latitude": 13.09226167,
+      "longitude": -86.00295034,
+      "directions": "On Avenida Central, Jinotega, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134585",
+      "photo_urls": []
+    },
+    {
+      "id": "134586",
+      "title": "The Cathedral of Jinotega",
+      "latitude": 13.0919034,
+      "longitude": -86.0026419,
+      "directions": "On Avenida Central, Jinotega, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134586",
+      "photo_urls": []
+    },
+    {
+      "id": "134612",
+      "title": "First Leaders of Jinotega",
+      "latitude": 13.09146665,
+      "longitude": -86.00344448,
+      "directions": "On Calle Central, Jinotega, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134612",
+      "photo_urls": []
+    },
+    {
+      "id": "134613",
+      "title": "Parish House of Jinotega",
+      "latitude": 13.09190032,
+      "longitude": -86.00190421,
+      "directions": "On 1a Avenida Noreste, Jinotega, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134613",
+      "photo_urls": []
+    },
+    {
+      "id": "134614",
+      "title": "The Cathedral of Matagalpa",
+      "latitude": 12.92876367,
+      "longitude": -85.91864419,
+      "directions": "On Calle, Matagalpa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134614",
+      "photo_urls": []
+    },
+    {
+      "id": "134617",
+      "title": "Carlos Fonseca Amador",
+      "latitude": 12.92801661,
+      "longitude": -85.9185193,
+      "directions": "On Calle Francisco Aráuz Blandón, Matagalpa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134617",
+      "photo_urls": []
+    },
+    {
+      "id": "134619",
+      "title": "General José Francisco Morazán Quezada",
+      "latitude": 12.92799167,
+      "longitude": -85.91867906,
+      "directions": "On Calle Francisco Aráuz Blandón, Matagalpa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134619",
+      "photo_urls": []
+    },
+    {
+      "id": "134621",
+      "title": "The Indian Archers of Matagalpa",
+      "latitude": 12.92819895,
+      "longitude": -85.91793388,
+      "directions": "On Paseo Juan Pablo II, Matagalpa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134621",
+      "photo_urls": []
+    },
+    {
+      "id": "134622",
+      "title": "Heroes Fallen in the Liberation of Jinotepe",
+      "latitude": 11.84836744,
+      "longitude": -86.19927681,
+      "directions": "On Calle Central, Jinotepe, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134622",
+      "photo_urls": []
+    },
+    {
+      "id": "134623",
+      "title": "Monument to Nicaraguan Revolutions",
+      "latitude": 11.85210657,
+      "longitude": -86.20118785,
+      "directions": "On Carretera Panamericana, Jinotepe, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134623",
+      "photo_urls": []
+    },
+    {
+      "id": "134828",
+      "title": "Amanda López Pineda",
+      "latitude": 13.09149574,
+      "longitude": -86.00305645,
+      "directions": "On Calle Central, Jinotega, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134828",
+      "photo_urls": []
+    },
+    {
+      "id": "134831",
+      "title": "Monsignor Rubén Baltodano y Alfaro",
+      "latitude": 13.09149035,
+      "longitude": -86.00313445,
+      "directions": "On Calle Central, Jinotega, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134831",
+      "photo_urls": []
+    },
+    {
+      "id": "134832",
+      "title": "Harvey Wells Moller",
+      "latitude": 13.09149835,
+      "longitude": -86.00320398,
+      "directions": "On Calle Central, Jinotega, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134832",
+      "photo_urls": []
+    },
+    {
+      "id": "134860",
+      "title": "Doctor Gustavo Blandón Zeledón",
+      "latitude": 13.09155627,
+      "longitude": -86.00306989,
+      "directions": "On Calle Central, Jinotega, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134860",
+      "photo_urls": []
+    },
+    {
+      "id": "134863",
+      "title": "Bishop Pedro Lisimaco Vílchez",
+      "latitude": 13.09155896,
+      "longitude": -86.00313156,
+      "directions": "On Calle Central, Jinotega, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134863",
+      "photo_urls": []
+    },
+    {
+      "id": "134864",
+      "title": "General Patricio Centeno Martínez",
+      "latitude": 13.09155805,
+      "longitude": -86.00319861,
+      "directions": "On Calle Central, Jinotega, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134864",
+      "photo_urls": []
+    },
+    {
+      "id": "134865",
+      "title": "Alfredo Alegría Rosales",
+      "latitude": 13.09165344,
+      "longitude": -86.00358798,
+      "directions": "On 1a Avenida Noroeste, Jinotega, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=134865",
+      "photo_urls": []
+    },
+    {
+      "id": "80267",
+      "title": "William Walker's Stables",
+      "latitude": 11.930766,
+      "longitude": -85.953419,
+      "directions": "On Calle La Libertad, Granada, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80267",
+      "photo_urls": []
+    },
+    {
+      "id": "92583",
+      "title": "Here Were Shot Four Patriots",
+      "latitude": 11.97430278,
+      "longitude": -86.09670278,
+      "directions": "On Calle Hospital Viejo, Masaya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92583",
+      "photo_urls": []
+    },
+    {
+      "id": "92584",
+      "title": "Carlos Ulloa A.",
+      "latitude": 11.973387,
+      "longitude": -86.09652,
+      "directions": "On Calle San Miguel, Masaya, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92584",
+      "photo_urls": []
+    },
+    {
+      "id": "93464",
+      "title": "Monument to the Heroes of April 4, 1954",
+      "latitude": 12.141863,
+      "longitude": -86.2724,
+      "directions": "On 9a Calle Suroeste, Managua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93464",
+      "photo_urls": []
+    },
+    {
+      "id": "93497",
+      "title": "The Presidential House of Nicaragua",
+      "latitude": 12.141481,
+      "longitude": -86.27309,
+      "directions": "On 9a Calle Suroeste, Managua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93497",
+      "photo_urls": []
+    },
+    {
+      "id": "93498",
+      "title": "Fulgencio Vega",
+      "latitude": 12.15603,
+      "longitude": -86.27339,
+      "directions": "On Avenida Bolivar, Managua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93498",
+      "photo_urls": []
+    },
+    {
+      "id": "93529",
+      "title": "Assassination of General Augusto C. Sandino",
+      "latitude": 12.14148333,
+      "longitude": -86.27349722,
+      "directions": "On 9a Calle Suroeste, Managua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93529",
+      "photo_urls": []
+    },
+    {
+      "id": "93564",
+      "title": "Dr. Pedro Joaquin Chamorro Cardenal",
+      "latitude": 12.14170278,
+      "longitude": -86.27300278,
+      "directions": "On 9a Calle Suroeste, Managua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93564",
+      "photo_urls": []
+    },
+    {
+      "id": "93575",
+      "title": "Francisco Morazán",
+      "latitude": 12.15685,
+      "longitude": -86.273225,
+      "directions": "On Avenida Bolivar, Managua, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93575",
+      "photo_urls": []
+    },
+    {
+      "id": "93577",
+      "title": "Tomb of Three Founders of the Sandinistas",
+      "latitude": 12.15651944,
+      "longitude": -86.27272778,
+      "directions": "Near , Managua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93577",
+      "photo_urls": []
+    },
+    {
+      "id": "93587",
+      "title": "Heroes of October 17, 1977",
+      "latitude": 11.973739,
+      "longitude": -86.09658,
+      "directions": "On Calle Principal, Masaya, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93587",
+      "photo_urls": []
+    },
+    {
+      "id": "93594",
+      "title": "Masaya Boy's School",
+      "latitude": 11.975944,
+      "longitude": -86.09664,
+      "directions": "On Calle a San Jerónimo, Masaya, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93594",
+      "photo_urls": []
+    },
+    {
+      "id": "93609",
+      "title": "Martyrs of the National Workers Front",
+      "latitude": 12.154391,
+      "longitude": -86.27403,
+      "directions": "On Avenida Bolivar, Managua, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93609",
+      "photo_urls": []
+    },
+    {
+      "id": "93622",
+      "title": "Visits of Pope John Paul II to Nicaragua",
+      "latitude": 12.15909167,
+      "longitude": -86.27475,
+      "directions": "Near Paseo Xolotlán, Managua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93622",
+      "photo_urls": []
+    },
+    {
+      "id": "93627",
+      "title": "Rubén Darío's Home",
+      "latitude": 12.159866,
+      "longitude": -86.27215,
+      "directions": "Near Paseo Xolotlán, Managua, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93627",
+      "photo_urls": []
+    },
+    {
+      "id": "93651",
+      "title": "Gonzalo Rivas Novoa",
+      "latitude": 11.976424,
+      "longitude": -86.0968,
+      "directions": "On Calle a San Jerónimo, Masaya, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93651",
+      "photo_urls": []
+    },
+    {
+      "id": "93652",
+      "title": "General Rigoberto Cabezas",
+      "latitude": 11.97841667,
+      "longitude": -86.09735,
+      "directions": "On Calle de San Jerónimo, Masaya, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93652",
+      "photo_urls": []
+    },
+    {
+      "id": "93654",
+      "title": "Momotombito Island",
+      "latitude": 12.40555278,
+      "longitude": -86.61077222,
+      "directions": "Near Calle Principal de Puerto Momotombo, La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93654",
+      "photo_urls": []
+    },
+    {
+      "id": "93771",
+      "title": "Ruins of Old León",
+      "latitude": 12.40264444,
+      "longitude": -86.61607222,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93771",
+      "photo_urls": []
+    },
+    {
+      "id": "93785",
+      "title": "“The Palace of Governor Rodrigo de Contreras”",
+      "latitude": 12.402211,
+      "longitude": -86.61685,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93785",
+      "photo_urls": []
+    },
+    {
+      "id": "93789",
+      "title": "“The Town Council”",
+      "latitude": 12.40179167,
+      "longitude": -86.61746111,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93789",
+      "photo_urls": []
+    },
+    {
+      "id": "93790",
+      "title": "\"The Town Square\"",
+      "latitude": 12.40168056,
+      "longitude": -86.61720278,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93790",
+      "photo_urls": []
+    },
+    {
+      "id": "93791",
+      "title": "“The Saint Mary of Graces Cathedral”",
+      "latitude": 12.40150278,
+      "longitude": -86.61684444,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93791",
+      "photo_urls": []
+    },
+    {
+      "id": "93792",
+      "title": "“The House of Ana Jiménez”",
+      "latitude": 12.40098333,
+      "longitude": -86.61682778,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93792",
+      "photo_urls": []
+    },
+    {
+      "id": "93921",
+      "title": "\"The Royal Road\"",
+      "latitude": 12.40108056,
+      "longitude": -86.61724167,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93921",
+      "photo_urls": []
+    },
+    {
+      "id": "93922",
+      "title": "\"Unidentified\" Colonial Structure No 11",
+      "latitude": 12.40098056,
+      "longitude": -86.61782778,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93922",
+      "photo_urls": []
+    },
+    {
+      "id": "93924",
+      "title": "\"The Fortress\"",
+      "latitude": 12.40025278,
+      "longitude": -86.61579167,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93924",
+      "photo_urls": []
+    },
+    {
+      "id": "93925",
+      "title": "\"The House of Martín\"",
+      "latitude": 12.4014,
+      "longitude": -86.61581389,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93925",
+      "photo_urls": []
+    },
+    {
+      "id": "93926",
+      "title": "\"The House of Hernando de Soto and Hernán Ponce de León\"",
+      "latitude": 12.40175833,
+      "longitude": -86.61608889,
+      "directions": "Near , La Paz Centro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93926",
+      "photo_urls": []
+    }
+  ]
+}
