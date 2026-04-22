@@ -1,0 +1,29 @@
+{
+  "region_id": "ua-ukraine",
+  "region_name": "Ukraine",
+  "region_type": "country",
+  "country": "Ukraine",
+  "generated": "2026-04-22T06:05:59.713Z",
+  "source_timestamp": "2026-04-22T06:05:59.713Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "241679",
+      "title": "The Church of the Holy Trinity",
+      "latitude": 48.397134,
+      "longitude": 24.598946,
+      "directions": "On Hrushevs&#39;koho Street, Mykulychyn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241679",
+      "photo_urls": []
+    },
+    {
+      "id": "72236",
+      "title": "Monument Kupriyan Sivy",
+      "latitude": 50.70777778,
+      "longitude": 25.36055556,
+      "directions": "On Budivelna street, near Boratyn, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=72236",
+      "photo_urls": []
+    }
+  ]
+}
