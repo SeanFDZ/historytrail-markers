@@ -1,0 +1,38 @@
+{
+  "region_id": "ki-kiribati",
+  "region_name": "Kiribati",
+  "region_type": "country",
+  "country": "Kiribati",
+  "generated": "2026-04-22T06:05:59.712Z",
+  "source_timestamp": "2026-04-22T06:05:59.712Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "85150",
+      "title": "Battle of Tarawa Memorial",
+      "latitude": 1.35622,
+      "longitude": 172.92771,
+      "directions": "Near Rue de Betio, Betio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=85150",
+      "photo_urls": []
+    },
+    {
+      "id": "89208",
+      "title": "Betio Memorial Tarawa",
+      "latitude": 1.35389444,
+      "longitude": 172.92265278,
+      "directions": "Near , Betio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=89208",
+      "photo_urls": []
+    },
+    {
+      "id": "89211",
+      "title": "New Zealand Memorial to U.S. Marines and Navy",
+      "latitude": 1.35855556,
+      "longitude": 172.92842222,
+      "directions": "Near , Betio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=89211",
+      "photo_urls": []
+    }
+  ]
+}
