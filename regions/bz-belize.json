@@ -1,0 +1,416 @@
+{
+  "region_id": "bz-belize",
+  "region_name": "Belize",
+  "region_type": "country",
+  "country": "Belize",
+  "generated": "2026-04-22T06:05:59.707Z",
+  "source_timestamp": "2026-04-22T06:05:59.707Z",
+  "marker_count": 45,
+  "markers": [
+    {
+      "id": "104926",
+      "title": "The Belize Defence Force Fallen",
+      "latitude": 17.54338342,
+      "longitude": -88.3041653,
+      "directions": "On Old Airport Road, Ladyville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104926",
+      "photo_urls": []
+    },
+    {
+      "id": "104960",
+      "title": "The Tomb of the Jade Head at Altun Ha",
+      "latitude": 17.76569706,
+      "longitude": -88.34671319,
+      "directions": "Near Old Northern Highway, near Rock Stone Pond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104960",
+      "photo_urls": []
+    },
+    {
+      "id": "104977",
+      "title": "Lila ‘Leela' Genus Vernon",
+      "latitude": 16.10046944,
+      "longitude": -88.80341291,
+      "directions": "On Main Middle Street, Punta Gorda, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104977",
+      "photo_urls": []
+    },
+    {
+      "id": "104988",
+      "title": "Ceiba Tree",
+      "latitude": 17.35249167,
+      "longitude": -88.55331389,
+      "directions": "Near Western Highway, La Democracia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104988",
+      "photo_urls": []
+    },
+    {
+      "id": "105009",
+      "title": "Ball Court",
+      "latitude": 16.28251389,
+      "longitude": -88.959175,
+      "directions": "Near Southern Highway, near San Pedro Columbia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105009",
+      "photo_urls": []
+    },
+    {
+      "id": "105026",
+      "title": "The Rt. Hon. George Cadle Price",
+      "latitude": 16.10017778,
+      "longitude": -88.80413889,
+      "directions": "On George Price Street, Punta Gorda, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105026",
+      "photo_urls": []
+    },
+    {
+      "id": "105057",
+      "title": "Felipe Santiago Ricalde",
+      "latitude": 18.39175369,
+      "longitude": -88.38633209,
+      "directions": "On 1st Street North, Corozal Town, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105057",
+      "photo_urls": []
+    },
+    {
+      "id": "105062",
+      "title": "Fort Barlee",
+      "latitude": 18.39222201,
+      "longitude": -88.3866325,
+      "directions": "On 5th Avenue, Corozal Town, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105062",
+      "photo_urls": []
+    },
+    {
+      "id": "105064",
+      "title": "Corozal Town Central Park",
+      "latitude": 18.39152222,
+      "longitude": -88.38684167,
+      "directions": "On 1st Street South, Corozal Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105064",
+      "photo_urls": []
+    },
+    {
+      "id": "105066",
+      "title": "Parish Office/Priest’s Residence/Xavier College",
+      "latitude": 18.39083889,
+      "longitude": -88.38608611,
+      "directions": "On 1st Street South, Corozal Town, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105066",
+      "photo_urls": []
+    },
+    {
+      "id": "105068",
+      "title": "Schofield Residence",
+      "latitude": 18.39044341,
+      "longitude": -88.38554084,
+      "directions": "On 1st Avenue, Corozal Town, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105068",
+      "photo_urls": []
+    },
+    {
+      "id": "105069",
+      "title": "Her Majesty's Prison",
+      "latitude": 18.39028611,
+      "longitude": -88.38674167,
+      "directions": "On 2nd Street South, Corozal Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105069",
+      "photo_urls": []
+    },
+    {
+      "id": "105070",
+      "title": "Corozal Town Hall",
+      "latitude": 18.39133889,
+      "longitude": -88.386825,
+      "directions": "On 1st Street South, Corozal Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105070",
+      "photo_urls": []
+    },
+    {
+      "id": "105090",
+      "title": "House of Culture/Public Market",
+      "latitude": 18.38993889,
+      "longitude": -88.38651389,
+      "directions": "On 1st Avenue, Corozal Town, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105090",
+      "photo_urls": []
+    },
+    {
+      "id": "105098",
+      "title": "The High Temple at Lamanai",
+      "latitude": 17.76759722,
+      "longitude": -88.65261944,
+      "directions": "Near no nearby street, Indian Church, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105098",
+      "photo_urls": []
+    },
+    {
+      "id": "105099",
+      "title": "Stela 9 at Lamanai",
+      "latitude": 17.76648056,
+      "longitude": -88.65224444,
+      "directions": "Near no nearby street, Indian Church, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105099",
+      "photo_urls": []
+    },
+    {
+      "id": "105101",
+      "title": "Royal Complex at Lamanai",
+      "latitude": 17.76585278,
+      "longitude": -88.65260278,
+      "directions": "Near no nearby street, Indian Church, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=105101",
+      "photo_urls": []
+    },
+    {
+      "id": "118824",
+      "title": "Saint John's Anglican Cathedral",
+      "latitude": 17.48880701,
+      "longitude": -88.18809482,
+      "directions": "On Albert Street, Belize City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118824",
+      "photo_urls": []
+    },
+    {
+      "id": "118867",
+      "title": "Olmec Colossal Head",
+      "latitude": 17.25281697,
+      "longitude": -88.77554856,
+      "directions": "On Constitution Drive, Belmopan, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118867",
+      "photo_urls": []
+    },
+    {
+      "id": "118896",
+      "title": "Belize's 10th Anniversary of Independence",
+      "latitude": 17.24994146,
+      "longitude": -88.77299298,
+      "directions": "Near Bliss Parade, Belmopan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118896",
+      "photo_urls": []
+    },
+    {
+      "id": "118897",
+      "title": "The Centennial of El Cayo",
+      "latitude": 17.16111111,
+      "longitude": -89.07027778,
+      "directions": "On Joseph Andrews Drive, San Ignacio, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118897",
+      "photo_urls": []
+    },
+    {
+      "id": "118913",
+      "title": "Belize National World War I Cenotaph",
+      "latitude": 17.49461903,
+      "longitude": -88.18203738,
+      "directions": "Near Marine Parade Boulevard, Belize City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118913",
+      "photo_urls": []
+    },
+    {
+      "id": "118995",
+      "title": "British Honduras Territorial Force Memorial",
+      "latitude": 17.49462538,
+      "longitude": -88.1818884,
+      "directions": "Near South Park Street, Belize City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118995",
+      "photo_urls": []
+    },
+    {
+      "id": "119026",
+      "title": "Mule Park",
+      "latitude": 17.49485353,
+      "longitude": -88.18711877,
+      "directions": "On Albert Street, Belize City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=119026",
+      "photo_urls": []
+    },
+    {
+      "id": "121903",
+      "title": "The Serpon Sugar Mill",
+      "latitude": 16.82677621,
+      "longitude": -88.34470631,
+      "directions": "Near South Hopkins Road, near Hopkins, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121903",
+      "photo_urls": []
+    },
+    {
+      "id": "133812",
+      "title": "The Flag of Belize",
+      "latitude": 17.25002331,
+      "longitude": -88.77372198,
+      "directions": "Near Bliss Parade, Belmopan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=133812",
+      "photo_urls": []
+    },
+    {
+      "id": "195277",
+      "title": "Thomas Vincent Ramos",
+      "latitude": 16.97610115,
+      "longitude": -88.2239663,
+      "directions": "On Front Street, Dangriga, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=195277",
+      "photo_urls": []
+    },
+    {
+      "id": "196275",
+      "title": "Esperanza",
+      "latitude": 17.17359999,
+      "longitude": -89.0492691,
+      "directions": "On Western Highway, Esperanza, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=196275",
+      "photo_urls": []
+    },
+    {
+      "id": "239939",
+      "title": "Black Howler Monkey",
+      "latitude": 16.4772425,
+      "longitude": -88.40490378,
+      "directions": "On no nearby street, Harvest Caye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239939",
+      "photo_urls": []
+    },
+    {
+      "id": "239941",
+      "title": "Hawksbill Turtle",
+      "latitude": 16.4778224,
+      "longitude": -88.40434859,
+      "directions": "On no nearby street, Harvest Caye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239941",
+      "photo_urls": []
+    },
+    {
+      "id": "239942",
+      "title": "Dugout Canoe",
+      "latitude": 16.4775922,
+      "longitude": -88.40471305,
+      "directions": "On no nearby street, Harvest Caye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239942",
+      "photo_urls": []
+    },
+    {
+      "id": "239944",
+      "title": "Antillean Manatee",
+      "latitude": 16.47780862,
+      "longitude": -88.40436185,
+      "directions": "On no nearby street, Harvest Caye, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239944",
+      "photo_urls": []
+    },
+    {
+      "id": "240325",
+      "title": "Ball Court",
+      "latitude": 16.3216245,
+      "longitude": -88.8244758,
+      "directions": "On Nim Li Punit Mayan Ruins Road, Indian Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240325",
+      "photo_urls": []
+    },
+    {
+      "id": "240328",
+      "title": "E-Group",
+      "latitude": 16.3208101,
+      "longitude": -88.8246849,
+      "directions": "On Nim Li Punit Mayan Ruins Road, Indian Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240328",
+      "photo_urls": []
+    },
+    {
+      "id": "240330",
+      "title": "Tomb #1",
+      "latitude": 16.3202855,
+      "longitude": -88.8250016,
+      "directions": "On Nim Li Punit Mayan Ruins Road, Indian Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240330",
+      "photo_urls": []
+    },
+    {
+      "id": "240334",
+      "title": "The Royal Residence",
+      "latitude": 16.3206734,
+      "longitude": -88.8250842,
+      "directions": "On Nim Li Punit Mayan Ruins Road, Indian Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240334",
+      "photo_urls": []
+    },
+    {
+      "id": "265753",
+      "title": "18th Century Cannon",
+      "latitude": 17.54333077,
+      "longitude": -88.30411177,
+      "directions": "On Old Airport Road, Ladyville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265753",
+      "photo_urls": []
+    },
+    {
+      "id": "81212",
+      "title": "Founding of Belmopan",
+      "latitude": 17.272524,
+      "longitude": -88.780455,
+      "directions": "On Western Highway, Belmopan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81212",
+      "photo_urls": []
+    },
+    {
+      "id": "81213",
+      "title": "Death of William Hart Bennett",
+      "latitude": 17.493995,
+      "longitude": -88.18662,
+      "directions": "On Regent Street, Belize City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81213",
+      "photo_urls": []
+    },
+    {
+      "id": "81220",
+      "title": "Agripino Cawich Bridge",
+      "latitude": 17.266804,
+      "longitude": -88.81256,
+      "directions": "On Young Bank Bridge, Belmopan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81220",
+      "photo_urls": []
+    },
+    {
+      "id": "81221",
+      "title": "Antonio Soberanis Gomez",
+      "latitude": 17.49421,
+      "longitude": -88.18695,
+      "directions": "On Albert Street, Belize City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81221",
+      "photo_urls": []
+    },
+    {
+      "id": "81450",
+      "title": "Burrell Boom",
+      "latitude": 17.56887222,
+      "longitude": -88.40779167,
+      "directions": "On an unnamed road, Burrell Boom, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=81450",
+      "photo_urls": []
+    },
+    {
+      "id": "94395",
+      "title": "Harriot W. Topsey",
+      "latitude": 17.25225,
+      "longitude": -88.77529167,
+      "directions": "On Constitution Drive, Belmopan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94395",
+      "photo_urls": []
+    },
+    {
+      "id": "94508",
+      "title": "Rt. Hon. George C. Price",
+      "latitude": 17.24731389,
+      "longitude": -88.76114722,
+      "directions": "On Price Center Road, Belmopan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94508",
+      "photo_urls": []
+    },
+    {
+      "id": "94539",
+      "title": "Altar 21 at Caracol",
+      "latitude": 16.76140556,
+      "longitude": -89.12071111,
+      "directions": "Near Caracol Road, San Ignacio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94539",
+      "photo_urls": []
+    }
+  ]
+}
