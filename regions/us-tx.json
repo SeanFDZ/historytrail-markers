@@ -3,9 +3,9 @@
   "region_name": "Texas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.441Z",
-  "source_timestamp": "2026-04-11T19:21:31.441Z",
-  "marker_count": 16890,
+  "generated": "2026-04-23T06:04:43.878Z",
+  "source_timestamp": "2026-04-23T06:04:43.878Z",
+  "marker_count": 17148,
   "markers": [
     {
       "id": "100016",
@@ -1308,7 +1308,7 @@
       "title": "Zimmerman House",
       "latitude": 33.98020172,
       "longitude": -101.34313965,
-      "directions": "Near , Floydada, ",
+      "directions": "Near South 1st Street, Floydada, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104631",
       "photo_urls": []
     },
@@ -1596,7 +1596,7 @@
       "title": "Cottle County",
       "latitude": 34.012677,
       "longitude": -100.301703,
-      "directions": "Near , Paducah, ",
+      "directions": "Near Easly Street, Paducah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104855",
       "photo_urls": []
     },
@@ -2649,7 +2649,7 @@
       "title": "Congressional Medal of Honor Recipients",
       "latitude": 33.5638504,
       "longitude": -101.81471252,
-      "directions": "Near , Lubbock, ",
+      "directions": "Near Teak Avenue, Lubbock, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=106403",
       "photo_urls": []
     },
@@ -3684,7 +3684,7 @@
       "title": "Dodson House",
       "latitude": 32.7061348,
       "longitude": -100.88987732,
-      "directions": "Near , Snyder, ",
+      "directions": "Near East 37th Street, Snyder, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=110877",
       "photo_urls": []
     },
@@ -3693,7 +3693,7 @@
       "title": "Engine No. 5",
       "latitude": 32.706357,
       "longitude": -100.889093,
-      "directions": "Near , Snyder, ",
+      "directions": "Near East Coliseum Drive, Snyder, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=110878",
       "photo_urls": []
     },
@@ -4773,7 +4773,7 @@
       "title": "The Prairie Dog",
       "latitude": 32.69631195,
       "longitude": -100.92285156,
-      "directions": "Near , Snyder, ",
+      "directions": "Near 45th Street, Snyder, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=111755",
       "photo_urls": []
     },
@@ -4782,7 +4782,7 @@
       "title": "Quanah Parker",
       "latitude": 32.67782211,
       "longitude": -100.91459656,
-      "directions": "Near , Snyder, ",
+      "directions": "Near College Avenue, Snyder, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=111756",
       "photo_urls": []
     },
@@ -6033,7 +6033,7 @@
       "title": "Battle of Coleto and Goliad Massacre",
       "latitude": 28.68706169,
       "longitude": -97.23250664,
-      "directions": "Near , near Fannin, ",
+      "directions": "Near Farm to Market 2506, near Fannin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=116301",
       "photo_urls": []
     },
@@ -9093,7 +9093,7 @@
       "title": "Site of Fort Griffin",
       "latitude": 29.73271029,
       "longitude": -93.87307051,
-      "directions": "Near , Sabine Pass, ",
+      "directions": "Near Dick Dowling Road, Sabine Pass, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118779",
       "photo_urls": []
     },
@@ -9102,7 +9102,7 @@
       "title": "Commodore Leon Smith",
       "latitude": 29.732213,
       "longitude": -93.87320738,
-      "directions": "Near , Sabine Pass, ",
+      "directions": "Near Dick Dowling Road, Sabine Pass, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118780",
       "photo_urls": []
     },
@@ -9120,7 +9120,7 @@
       "title": "Capture of the <i>USS Morning Light</i> and <i>USS Velocity</i>",
       "latitude": 29.73313087,
       "longitude": -93.87326078,
-      "directions": "Near , Sabine Pass, ",
+      "directions": "Near Dick Dowling Road, Sabine Pass, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118789",
       "photo_urls": []
     },
@@ -9147,7 +9147,7 @@
       "title": "Richard Dowling",
       "latitude": 29.73261963,
       "longitude": -93.87311137,
-      "directions": "Near , Sabine Pass, ",
+      "directions": "Near Dick Dowling Road, Sabine Pass, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118792",
       "photo_urls": []
     },
@@ -9174,7 +9174,7 @@
       "title": "Union Casualties at the Battle of Sabine Pass",
       "latitude": 29.73253009,
       "longitude": -93.8729472,
-      "directions": "Near , Sabine Pass, ",
+      "directions": "Near Dick Dowling Road, Sabine Pass, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118812",
       "photo_urls": []
     },
@@ -9327,7 +9327,7 @@
       "title": "Kenneth Lewis Anderson",
       "latitude": 30.48245,
       "longitude": -95.985466,
-      "directions": "Near , Anderson, ",
+      "directions": "Near South Main Street, Anderson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118937",
       "photo_urls": []
     },
@@ -9336,7 +9336,7 @@
       "title": "Michael Moore Kennard",
       "latitude": 30.4825,
       "longitude": -95.985535,
-      "directions": "Near , Anderson, ",
+      "directions": "Near South Main Street, Anderson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118939",
       "photo_urls": []
     },
@@ -11352,7 +11352,7 @@
       "title": "Evangelical Free Church",
       "latitude": 30.63359,
       "longitude": -97.66274,
-      "directions": "On , Georgetown, ",
+      "directions": "On East University Avenue, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119879",
       "photo_urls": []
     },
@@ -12378,7 +12378,7 @@
       "title": "First United Methodist Church of Hico",
       "latitude": 31.982208,
       "longitude": -98.03412,
-      "directions": "On , Hico, (On the right when traveling south)",
+      "directions": "On West 1st Street, Hico, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121023",
       "photo_urls": []
     },
@@ -12675,7 +12675,7 @@
       "title": "Mission San Francisco de Los Tejas",
       "latitude": 31.541271,
       "longitude": -95.234512,
-      "directions": "Near , near Weches, ",
+      "directions": "Near Texas 21, near Weches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121406",
       "photo_urls": []
     },
@@ -12936,7 +12936,7 @@
       "title": "Old Cemetery on the Hill",
       "latitude": 27.95934,
       "longitude": -97.76233,
-      "directions": "Near , San Patricio, ",
+      "directions": "Near CR 1441, San Patricio, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121965",
       "photo_urls": []
     },
@@ -13080,7 +13080,7 @@
       "title": "Earle's Chapel Methodist Church",
       "latitude": 31.94027936,
       "longitude": -95.34385265,
-      "directions": "Near , near Jacksonville, ",
+      "directions": "Near County Road 3221, near Jacksonville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=122852",
       "photo_urls": []
     },
@@ -13089,7 +13089,7 @@
       "title": "Earle's Chapel Cemetery",
       "latitude": 31.939969,
       "longitude": -95.34413,
-      "directions": "Near , near Jacksonville, ",
+      "directions": "Near County Road 3221, near Jacksonville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=122853",
       "photo_urls": []
     },
@@ -13098,7 +13098,7 @@
       "title": "First Baptist Church",
       "latitude": 31.964261,
       "longitude": -95.24872,
-      "directions": "Near , Jacksonville, ",
+      "directions": "Near Phillip Avenue, Jacksonville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=122855",
       "photo_urls": []
     },
@@ -13701,7 +13701,7 @@
       "title": "Gabriel Mills",
       "latitude": 30.780594,
       "longitude": -97.920778,
-      "directions": "On , Liberty Hill, ",
+      "directions": "On County Road 236, Liberty Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125511",
       "photo_urls": []
     },
@@ -14079,7 +14079,7 @@
       "title": "The Crossroads",
       "latitude": 32.81093333,
       "longitude": -96.8112,
-      "directions": "On , Dallas, (On the right when traveling south)",
+      "directions": "On Cedar Springs Road, Dallas, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125945",
       "photo_urls": []
     },
@@ -14106,7 +14106,7 @@
       "title": "Burleson's Advance",
       "latitude": 29.75272732,
       "longitude": -95.08584279,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Battleground Road, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125951",
       "photo_urls": []
     },
@@ -14142,7 +14142,7 @@
       "title": "Mexican Breastworks",
       "latitude": 29.74635667,
       "longitude": -95.07778517,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Pr 1836 North, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125955",
       "photo_urls": []
     },
@@ -14169,7 +14169,7 @@
       "title": "Millard's Camp",
       "latitude": 29.7530459,
       "longitude": -95.09025517,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Pr 1836 North, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125962",
       "photo_urls": []
     },
@@ -14178,7 +14178,7 @@
       "title": "Lamar's Camp",
       "latitude": 29.7526401,
       "longitude": -95.09017468,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Independence Parkway, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125963",
       "photo_urls": []
     },
@@ -14187,7 +14187,7 @@
       "title": "Burleson's Camp",
       "latitude": 29.7538135,
       "longitude": -95.09026016,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Pr 1836 North, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125964",
       "photo_urls": []
     },
@@ -14205,7 +14205,7 @@
       "title": "Sherman's Camp",
       "latitude": 29.75464428,
       "longitude": -95.09026137,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Battleground Road, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125967",
       "photo_urls": []
     },
@@ -14259,7 +14259,7 @@
       "title": "Site of Surrender of Santa Anna",
       "latitude": 29.75356101,
       "longitude": -95.0908787,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Pr 1836 North, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126006",
       "photo_urls": []
     },
@@ -14268,7 +14268,7 @@
       "title": "San Jacinto Battleground Park",
       "latitude": 29.7533415,
       "longitude": -95.0901627,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Independence Parkway, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126008",
       "photo_urls": []
     },
@@ -14430,7 +14430,7 @@
       "title": "Roster Company No. 6",
       "latitude": 29.75303333,
       "longitude": -95.09008333,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Pr 1836 North, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126245",
       "photo_urls": []
     },
@@ -14448,7 +14448,7 @@
       "title": "David Thomas",
       "latitude": 29.75357464,
       "longitude": -95.08979809,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Independence Parkway, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126262",
       "photo_urls": []
     },
@@ -14457,7 +14457,7 @@
       "title": "Lorenzo de Zavala",
       "latitude": 29.75350065,
       "longitude": -95.08979799,
-      "directions": "Near , near La Porte, ",
+      "directions": "Near Independence Parkway, near La Porte, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126265",
       "photo_urls": []
     },
@@ -19038,7 +19038,7 @@
       "title": "Mason-Foster House",
       "latitude": 29.34816297,
       "longitude": -100.895989,
-      "directions": "On , Del Rio, (On the right when traveling south)",
+      "directions": "On Hudson Drive, Del Rio, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=133873",
       "photo_urls": []
     },
@@ -20460,7 +20460,7 @@
       "title": "Immanuel Lutheran Church",
       "latitude": 30.552477,
       "longitude": -97.45298,
-      "directions": "On , Taylor, ",
+      "directions": "On County Road 401, Taylor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=138633",
       "photo_urls": []
     },
@@ -35508,7 +35508,7 @@
       "title": "Kerrville Mountain Sun",
       "latitude": 30.04637202,
       "longitude": -99.13941617,
-      "directions": "On Jefferson Street, Kerrville, (On the left when traveling north)",
+      "directions": "On Main Street, Kerrville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=162428",
       "photo_urls": []
     },
@@ -35931,7 +35931,7 @@
       "title": "Frio County",
       "latitude": 28.88862577,
       "longitude": -99.09373767,
-      "directions": "On , Pearsall, (On the right when traveling east)",
+      "directions": "On East San Antonio Street, Pearsall, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=162751",
       "photo_urls": []
     },
@@ -51924,7 +51924,7 @@
       "title": "Historic Hidalgo",
       "latitude": 26.12428,
       "longitude": -98.24621,
-      "directions": "Near , Hidalgo, ",
+      "directions": "Near North 10th Street, Hidalgo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180737",
       "photo_urls": []
     },
@@ -54975,7 +54975,7 @@
       "title": "Tim Cole",
       "latitude": 32.79343,
       "longitude": -97.310758,
-      "directions": "Near , Fort Worth, (On the left when traveling east)",
+      "directions": "Near Mount Olivet Cemetery, Fort Worth, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=186622",
       "photo_urls": []
     },
@@ -64146,7 +64146,7 @@
       "title": "Depression-Era Projects in Wise County",
       "latitude": 33.23348333,
       "longitude": -97.58665,
-      "directions": "On , Decatur, ",
+      "directions": "On South Trinity Street, Decatur, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=198795",
       "photo_urls": []
     },
@@ -66664,9 +66664,9 @@
     {
       "id": "201947",
       "title": "Camp Wallace",
-      "latitude": 29.35793,
-      "longitude": -95.04443,
-      "directions": "Near State Route 6, near Hitchcock, (On the left when traveling south)",
+      "latitude": 29.3606236,
+      "longitude": -95.049127,
+      "directions": "On Jack Brooks Road, near Hitchcock, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=201947",
       "photo_urls": []
     },
@@ -68475,7 +68475,7 @@
       "title": "John Reagen Baker",
       "latitude": 29.23055,
       "longitude": -97.96951667,
-      "directions": "Near , Stockdale, ",
+      "directions": "Near Cemetery Street, Stockdale, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=203596",
       "photo_urls": []
     },
@@ -71940,7 +71940,7 @@
       "title": "John Van Bibber",
       "latitude": 28.81074914,
       "longitude": -97.01029706,
-      "directions": "On , Victoria, ",
+      "directions": "On West Brazos Street, Victoria, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207918",
       "photo_urls": []
     },
@@ -76836,7 +76836,7 @@
       "title": "Attwater Prairie Chicken Preserve",
       "latitude": 29.67428291,
       "longitude": -96.28749933,
-      "directions": "On , Eagle Lake, ",
+      "directions": "On no nearby street, Eagle Lake, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=213745",
       "photo_urls": []
     },
@@ -77853,7 +77853,7 @@
       "title": "Birthplace of Dwight Eisenhower",
       "latitude": 33.748417,
       "longitude": -96.533894,
-      "directions": "Near , Denison, ",
+      "directions": "Near East Day Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215133",
       "photo_urls": []
     },
@@ -78348,7 +78348,7 @@
       "title": "Robert David Law",
       "latitude": 32.79193333,
       "longitude": -97.31101667,
-      "directions": "Near , Fort Worth, ",
+      "directions": "Near Mount Olivet Cemetery, Fort Worth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=217313",
       "photo_urls": []
     },
@@ -78789,7 +78789,7 @@
       "title": "The Fort Worth Hotel",
       "latitude": 32.75786155,
       "longitude": -97.33466058,
-      "directions": "On , Fort Worth, ",
+      "directions": "On North Houston Street, Fort Worth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=217741",
       "photo_urls": []
     },
@@ -80778,7 +80778,7 @@
       "title": "St. John Missionary Baptist Church",
       "latitude": 33.24014432,
       "longitude": -97.57751711,
-      "directions": "On , Decatur, (On the right when traveling north)",
+      "directions": "On Farm to Market 51, Decatur, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=220246",
       "photo_urls": []
     },
@@ -82137,7 +82137,7 @@
       "title": "Stephen Fuller Austin",
       "latitude": 31.62181298,
       "longitude": -94.64956515,
-      "directions": "Near , Nacogdoches, ",
+      "directions": "Near North Street, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221303",
       "photo_urls": []
     },
@@ -82146,7 +82146,7 @@
       "title": "Austin Building",
       "latitude": 31.62189452,
       "longitude": -94.64967722,
-      "directions": "On , Nacogdoches, ",
+      "directions": "On North Street, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221305",
       "photo_urls": []
     },
@@ -82191,7 +82191,7 @@
       "title": "Thomas Jefferson Rusk",
       "latitude": 31.62124714,
       "longitude": -94.64924746,
-      "directions": "Near , Nacogdoches, ",
+      "directions": "Near Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221327",
       "photo_urls": []
     },
@@ -82200,7 +82200,7 @@
       "title": "Rusk Building",
       "latitude": 31.62126105,
       "longitude": -94.64923558,
-      "directions": "On , Nacogdoches, ",
+      "directions": "On Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221328",
       "photo_urls": []
     },
@@ -82209,7 +82209,7 @@
       "title": "The University Tradition in Nacogdoches",
       "latitude": 31.6214043,
       "longitude": -94.64922643,
-      "directions": "Near , Nacogdoches, ",
+      "directions": "Near Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221333",
       "photo_urls": []
     },
@@ -82218,7 +82218,7 @@
       "title": "Pioneering Higher Education in East Texas",
       "latitude": 31.62149908,
       "longitude": -94.64922455,
-      "directions": "Near , Nacogdoches, ",
+      "directions": "Near Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221335",
       "photo_urls": []
     },
@@ -82227,7 +82227,7 @@
       "title": "Alton W. Birdwell",
       "latitude": 31.62155329,
       "longitude": -94.64926056,
-      "directions": "On , Nacogdoches, ",
+      "directions": "On Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221341",
       "photo_urls": []
     },
@@ -82236,7 +82236,7 @@
       "title": "Karle Wilson Baker",
       "latitude": 31.62170464,
       "longitude": -94.64997052,
-      "directions": "On , Nacogdoches, ",
+      "directions": "On Vista Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221345",
       "photo_urls": []
     },
@@ -82461,7 +82461,7 @@
       "title": "Paul Lewis Boynton",
       "latitude": 31.62155863,
       "longitude": -94.64925259,
-      "directions": "Near , Nacogdoches, ",
+      "directions": "Near Alumni Drive, Nacogdoches, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221454",
       "photo_urls": []
     },
@@ -89031,7 +89031,7 @@
       "title": "Harmony Baptist Church and Cemetery",
       "latitude": 29.05193167,
       "longitude": -97.81850629,
-      "directions": "On , near Ecleto, (On the right when traveling north)",
+      "directions": "On County Road 262, near Ecleto, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=235017",
       "photo_urls": []
     },
@@ -90714,7 +90714,7 @@
       "title": "Resisting the Faith",
       "latitude": 29.6770033,
       "longitude": -100.0156251,
-      "directions": "On , Camp Wood, ",
+      "directions": "On Texas 55, Camp Wood, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=237279",
       "photo_urls": []
     },
@@ -93819,7 +93819,7 @@
       "title": "Site of Camp Wood",
       "latitude": 29.67671701,
       "longitude": -100.01497646,
-      "directions": "On , Camp Wood, (On the left when traveling north)",
+      "directions": "On Texas 55, Camp Wood, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24382",
       "photo_urls": []
     },
@@ -97635,7 +97635,7 @@
       "title": "Fredericksburg College Building",
       "latitude": 30.27965327,
       "longitude": -98.87007342,
-      "directions": "On , Fredericksburg, ",
+      "directions": "On West Travis Street, Fredericksburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=248635",
       "photo_urls": []
     },
@@ -97905,7 +97905,7 @@
       "title": "Pond Springs Community and School",
       "latitude": 30.446195,
       "longitude": -97.765178,
-      "directions": "On , Austin, ",
+      "directions": "On Tantara Drive, Austin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24934",
       "photo_urls": []
     },
@@ -97932,7 +97932,7 @@
       "title": "St. James Church",
       "latitude": 30.572931,
       "longitude": -97.414967,
-      "directions": "On , Taylor, (On the right when traveling north)",
+      "directions": "On Davis Street, Taylor, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24939",
       "photo_urls": []
     },
@@ -98130,7 +98130,7 @@
       "title": "H. C. Craig Bulding",
       "latitude": 30.637462,
       "longitude": -97.677671,
-      "directions": "On , Georgetown, ",
+      "directions": "On West 7th Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25036",
       "photo_urls": []
     },
@@ -98184,7 +98184,7 @@
       "title": "Shafer Saddlery",
       "latitude": 30.63701271,
       "longitude": -97.67687331,
-      "directions": "On , Georgetown, (On the right when traveling north)",
+      "directions": "On South Main Street, Georgetown, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25056",
       "photo_urls": []
     },
@@ -98463,7 +98463,7 @@
       "title": "St. Peters United Church of Christ",
       "latitude": 30.457673,
       "longitude": -97.390988,
-      "directions": "On , Coupland, (On the right when traveling west)",
+      "directions": "On South Broad Street, Coupland, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25177",
       "photo_urls": []
     },
@@ -98490,7 +98490,7 @@
       "title": "The Taylor Public Schools",
       "latitude": 30.57418414,
       "longitude": -97.41323741,
-      "directions": "Near , Taylor, ",
+      "directions": "Near Fowzer Street, Taylor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25180",
       "photo_urls": []
     },
@@ -98643,7 +98643,7 @@
       "title": "Taylor Brethren Church",
       "latitude": 30.573226,
       "longitude": -97.428657,
-      "directions": "On , Taylor, (On the right when traveling north)",
+      "directions": "On Sloan Street, Taylor, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25219",
       "photo_urls": []
     },
@@ -98778,7 +98778,7 @@
       "title": "Union Hall Independent Missionary Baptist Church of Christ",
       "latitude": 30.645361,
       "longitude": -97.86398,
-      "directions": "Near , near Liberty Hill, ",
+      "directions": "Near Seward Junction Loop, near Liberty Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25250",
       "photo_urls": []
     },
@@ -98796,7 +98796,7 @@
       "title": "Zion Lutheran Church",
       "latitude": 30.742555,
       "longitude": -97.599074,
-      "directions": "Near , Walburg, ",
+      "directions": "Near Farm to Market Road 1105, Walburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25255",
       "photo_urls": []
     },
@@ -98850,7 +98850,7 @@
       "title": "Williamson County Sun",
       "latitude": 30.637312,
       "longitude": -97.677008,
-      "directions": "On , Georgetown, (On the right when traveling north)",
+      "directions": "On South Main Street, Georgetown, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25319",
       "photo_urls": []
     },
@@ -99282,7 +99282,7 @@
       "title": "Palm Valley Lutheran Church",
       "latitude": 30.522149,
       "longitude": -97.64582,
-      "directions": "Near , Round Rock, ",
+      "directions": "Near East Palm Valley Boulevard, Round Rock, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25419",
       "photo_urls": []
     },
@@ -99300,7 +99300,7 @@
       "title": "The Tenth Street United Methodist Church",
       "latitude": 30.575868,
       "longitude": -97.414474,
-      "directions": "On , Taylor, (On the right when traveling west)",
+      "directions": "On West 10th Street, Taylor, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25421",
       "photo_urls": []
     },
@@ -99930,7 +99930,7 @@
       "title": "Tucker-Smith House",
       "latitude": 30.573085,
       "longitude": -97.416244,
-      "directions": "Near , Taylor, ",
+      "directions": "Near West 7th Street, Taylor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25507",
       "photo_urls": []
     },
@@ -100029,7 +100029,7 @@
       "title": "Type Cemetery",
       "latitude": 30.435725,
       "longitude": -97.33138,
-      "directions": "Near , near Elgin, ",
+      "directions": "Near County Road 467, near Elgin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25511",
       "photo_urls": []
     },
@@ -100623,7 +100623,7 @@
       "title": "William Cornelius Dalrymple",
       "latitude": 30.624752,
       "longitude": -97.676091,
-      "directions": "Near , Georgetown, ",
+      "directions": "Near 20th Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25554",
       "photo_urls": []
     },
@@ -101811,7 +101811,7 @@
       "title": "Bethel Baptist Church",
       "latitude": 33.46006353,
       "longitude": -96.40130081,
-      "directions": "On , Whitewright, (On the right when traveling north)",
+      "directions": "On State Highway 160, Whitewright, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=256962",
       "photo_urls": []
     },
@@ -102837,7 +102837,7 @@
       "title": "Waples Memorial United Methodist Church",
       "latitude": 33.75557784,
       "longitude": -96.54750325,
-      "directions": "On , Denison, ",
+      "directions": "On West Main Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=258722",
       "photo_urls": []
     },
@@ -107211,7 +107211,7 @@
       "title": "Koppel Building",
       "latitude": 30.2661272,
       "longitude": -97.74371974,
-      "directions": "On , Austin, (On the left when traveling north)",
+      "directions": "On West 4th Street, Austin, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=267157",
       "photo_urls": []
     },
@@ -108012,7 +108012,7 @@
       "title": "Lyles-Sanders Cemetery",
       "latitude": 31.91823293,
       "longitude": -94.78007698,
-      "directions": "On , near Mount Enterprise, ",
+      "directions": "On County Road 3206, near Mount Enterprise, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=268418",
       "photo_urls": []
     },
@@ -108192,7 +108192,7 @@
       "title": "Joseph Benedict Beauchamp",
       "latitude": 32.1770919,
       "longitude": -94.4392162,
-      "directions": "On , near Carthage, ",
+      "directions": "On County Road 114, near Carthage, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=268524",
       "photo_urls": []
     },
@@ -108291,7 +108291,7 @@
       "title": "Neil McLennan",
       "latitude": 31.53386389,
       "longitude": -97.1050422,
-      "directions": "On , Waco, ",
+      "directions": "On North 4th Street, Waco, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=268546",
       "photo_urls": []
     },
@@ -115167,7 +115167,7 @@
       "title": "Dr. Samuel Hiatt Burnside / Mary Margaret Grice Burnside",
       "latitude": 33.91173595,
       "longitude": -98.5071272,
-      "directions": "On , Wichita Falls, ",
+      "directions": "On 5th Street, Wichita Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=287319",
       "photo_urls": []
     },
@@ -115644,7 +115644,7 @@
       "title": "District Court Tree",
       "latitude": 29.70619016,
       "longitude": -96.53928143,
-      "directions": "On , Columbus, (In the median)",
+      "directions": "On Travis Street, Columbus, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28804",
       "photo_urls": []
     },
@@ -115851,7 +115851,7 @@
       "title": "Gunhild Weber House",
       "latitude": 32.72908679,
       "longitude": -97.33694053,
-      "directions": "On , Fort Worth, (On the right when traveling south)",
+      "directions": "On South Adams Street, Fort Worth, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=288250",
       "photo_urls": []
     },
@@ -118965,7 +118965,7 @@
       "title": "The Atelier Building",
       "latitude": 32.75153888,
       "longitude": -97.33071112,
-      "directions": "On , Fort Worth, (On the left when traveling west)",
+      "directions": "On Houston Street, Fort Worth, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290789",
       "photo_urls": []
     },
@@ -118983,7 +118983,7 @@
       "title": "Bradford Knapp",
       "latitude": 33.56542587,
       "longitude": -101.80725098,
-      "directions": "Near , Lubbock, ",
+      "directions": "Near East 31st Street, Lubbock, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290791",
       "photo_urls": []
     },
@@ -122777,6 +122777,15 @@
       "photo_urls": []
     },
     {
+      "id": "293792",
+      "title": "Big Bend National Park",
+      "latitude": 29.32805635,
+      "longitude": -103.20602436,
+      "directions": "On Main Park Road (U.S. 385) , Big Bend National Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293792",
+      "photo_urls": []
+    },
+    {
       "id": "293794",
       "title": "Shiner Brethren Cemetery",
       "latitude": 29.37852843,
@@ -122885,12 +122894,147 @@
       "photo_urls": []
     },
     {
+      "id": "293821",
+      "title": "Sharing Our Story",
+      "latitude": 28.6994852,
+      "longitude": -96.2163834,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293821",
+      "photo_urls": []
+    },
+    {
+      "id": "293823",
+      "title": "Hotel Fence Wrap Exhibit",
+      "latitude": 28.69948554,
+      "longitude": -96.2164453,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293823",
+      "photo_urls": []
+    },
+    {
+      "id": "293825",
+      "title": "Whose land was this?",
+      "latitude": 28.69948455,
+      "longitude": -96.2163457,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293825",
+      "photo_urls": []
+    },
+    {
+      "id": "293826",
+      "title": "Shanghai Pierce's Bull Pasture",
+      "latitude": 28.69947787,
+      "longitude": -96.21631799,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293826",
+      "photo_urls": []
+    },
+    {
+      "id": "293827",
+      "title": "Bay View Hotel",
+      "latitude": 28.69948055,
+      "longitude": -96.2162638,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293827",
+      "photo_urls": []
+    },
+    {
+      "id": "293828",
+      "title": "A Brand New Town is Born",
+      "latitude": 28.69946987,
+      "longitude": -96.21617545,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293828",
+      "photo_urls": []
+    },
+    {
+      "id": "293829",
+      "title": "On the Move",
+      "latitude": 28.69947031,
+      "longitude": -96.21621649,
+      "directions": "On South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293829",
+      "photo_urls": []
+    },
+    {
+      "id": "293831",
+      "title": "The Pleasure Pavilion",
+      "latitude": 28.69946771,
+      "longitude": -96.2160634,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293831",
+      "photo_urls": []
+    },
+    {
+      "id": "293833",
+      "title": "Bigger and Better",
+      "latitude": 28.69946155,
+      "longitude": -96.21586615,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293833",
+      "photo_urls": []
+    },
+    {
+      "id": "293835",
+      "title": "A Scary Night!",
+      "latitude": 28.69947186,
+      "longitude": -96.2158273,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293835",
+      "photo_urls": []
+    },
+    {
+      "id": "293837",
+      "title": "The Strong Arm of the Law",
+      "latitude": 28.69946136,
+      "longitude": -96.21578565,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293837",
+      "photo_urls": []
+    },
+    {
+      "id": "293839",
+      "title": "Supporting Our Soldiers",
+      "latitude": 28.69946278,
+      "longitude": -96.21569032,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293839",
+      "photo_urls": []
+    },
+    {
       "id": "293840",
       "title": "Bowling and Books on the Bay",
-      "latitude": 28.69945835,
-      "longitude": -96.21570087,
+      "latitude": 28.69945486,
+      "longitude": -96.21574104,
       "directions": "Near South Bay Boulevard, Palacios, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293840",
+      "photo_urls": []
+    },
+    {
+      "id": "293842",
+      "title": "On the Decline",
+      "latitude": 28.69944968,
+      "longitude": -96.21562974,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293842",
+      "photo_urls": []
+    },
+    {
+      "id": "293843",
+      "title": "Then Along Came the Luthers!",
+      "latitude": 28.6994578,
+      "longitude": -96.21559639,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293843",
+      "photo_urls": []
+    },
+    {
+      "id": "293844",
+      "title": "Charles and Elsie Luther",
+      "latitude": 28.69945932,
+      "longitude": -96.21556812,
+      "directions": "On South Bay Boulevard, Palacios, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293844",
       "photo_urls": []
     },
     {
@@ -122900,6 +123044,213 @@
       "longitude": -94.65501081,
       "directions": "On Main Street, Nacogdoches, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29390",
+      "photo_urls": []
+    },
+    {
+      "id": "293901",
+      "title": "Courageous Sisters",
+      "latitude": 28.69947918,
+      "longitude": -96.21549253,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293901",
+      "photo_urls": []
+    },
+    {
+      "id": "293902",
+      "title": "The Military Moved In",
+      "latitude": 28.69953674,
+      "longitude": -96.21548547,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293902",
+      "photo_urls": []
+    },
+    {
+      "id": "293903",
+      "title": "The Stars Shine Bright",
+      "latitude": 28.69957689,
+      "longitude": -96.21548694,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293903",
+      "photo_urls": []
+    },
+    {
+      "id": "293904",
+      "title": "Rita Hayworth",
+      "latitude": 28.69963167,
+      "longitude": -96.21548848,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293904",
+      "photo_urls": []
+    },
+    {
+      "id": "293905",
+      "title": "Fire! Fire!",
+      "latitude": 28.69965506,
+      "longitude": -96.21548985,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293905",
+      "photo_urls": []
+    },
+    {
+      "id": "293906",
+      "title": "May Callaway - LBJ Confidante",
+      "latitude": 28.6996804,
+      "longitude": -96.215491,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293906",
+      "photo_urls": []
+    },
+    {
+      "id": "293907",
+      "title": "And What about Mrs. Callaway's Great, Great Grandfather?",
+      "latitude": 28.69972172,
+      "longitude": -96.21548839,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293907",
+      "photo_urls": []
+    },
+    {
+      "id": "293908",
+      "title": "The Wrath of Carla",
+      "latitude": 28.69973545,
+      "longitude": -96.21551149,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293908",
+      "photo_urls": []
+    },
+    {
+      "id": "293909",
+      "title": "So, Is It Haunted?",
+      "latitude": 28.69972777,
+      "longitude": -96.2156174,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293909",
+      "photo_urls": []
+    },
+    {
+      "id": "293910",
+      "title": "The Most Important Shipwreck in the Western World",
+      "latitude": 28.69974643,
+      "longitude": -96.2157087,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293910",
+      "photo_urls": []
+    },
+    {
+      "id": "293911",
+      "title": "Palacios is for the Birds",
+      "latitude": 28.69973878,
+      "longitude": -96.21584198,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293911",
+      "photo_urls": []
+    },
+    {
+      "id": "293912",
+      "title": "Claire Joy and Jack",
+      "latitude": 28.69974444,
+      "longitude": -96.21601213,
+      "directions": "On South Bay Boulevard, Palacios, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293912",
+      "photo_urls": []
+    },
+    {
+      "id": "293913",
+      "title": "Bulldozers? Save The Luther",
+      "latitude": 28.69974361,
+      "longitude": -96.21616228,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293913",
+      "photo_urls": []
+    },
+    {
+      "id": "293914",
+      "title": "Native Son Keeps the Legacy Alive",
+      "latitude": 28.69975077,
+      "longitude": -96.21629375,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293914",
+      "photo_urls": []
+    },
+    {
+      "id": "293915",
+      "title": "Treasures Rescued, Build Ransacked",
+      "latitude": 28.6997425,
+      "longitude": -96.21626477,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293915",
+      "photo_urls": []
+    },
+    {
+      "id": "293916",
+      "title": "And the Tree was Dying!",
+      "latitude": 28.69975009,
+      "longitude": -96.2163209,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293916",
+      "photo_urls": []
+    },
+    {
+      "id": "293917",
+      "title": "Contract to Demolish Withdrawn",
+      "latitude": 28.69974987,
+      "longitude": -96.21632634,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293917",
+      "photo_urls": []
+    },
+    {
+      "id": "293918",
+      "title": "Honor Uncle Jackie's Wishes!",
+      "latitude": 28.69974247,
+      "longitude": -96.2163505,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293918",
+      "photo_urls": []
+    },
+    {
+      "id": "293919",
+      "title": "Cleaning, Sorting and Saving",
+      "latitude": 28.69974379,
+      "longitude": -96.21635796,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293919",
+      "photo_urls": []
+    },
+    {
+      "id": "293920",
+      "title": "It Took a Village",
+      "latitude": 28.69975233,
+      "longitude": -96.21640884,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293920",
+      "photo_urls": []
+    },
+    {
+      "id": "293921",
+      "title": "Sold!",
+      "latitude": 28.69969768,
+      "longitude": -96.21645271,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293921",
+      "photo_urls": []
+    },
+    {
+      "id": "293922",
+      "title": "What's the Plan? / Current Progress",
+      "latitude": 28.69965421,
+      "longitude": -96.21645942,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293922",
+      "photo_urls": []
+    },
+    {
+      "id": "293924",
+      "title": "Legacy",
+      "latitude": 28.69957504,
+      "longitude": -96.21647092,
+      "directions": "Near South Bay Boulevard, Palacios, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293924",
       "photo_urls": []
     },
     {
@@ -122916,7 +123267,7 @@
       "title": "Yarborough House",
       "latitude": 32.30613838,
       "longitude": -95.48920114,
-      "directions": "On , Chandler, ",
+      "directions": "On State Highway 31 West, Chandler, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293930",
       "photo_urls": []
     },
@@ -123069,7 +123420,7 @@
       "title": "Edom Methodist Church",
       "latitude": 32.37184436,
       "longitude": -95.60869411,
-      "directions": "On , Edom, (On the left when traveling west)",
+      "directions": "On Farm to Market Road 314, Edom, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293970",
       "photo_urls": []
     },
@@ -123087,7 +123438,7 @@
       "title": "Potters Brown",
       "latitude": 32.3724397,
       "longitude": -95.61026978,
-      "directions": "On , Edom, (On the right when traveling west)",
+      "directions": "On Farm to Market Road 279, Edom, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293976",
       "photo_urls": []
     },
@@ -123209,12 +123560,219 @@
       "photo_urls": []
     },
     {
+      "id": "294238",
+      "title": "Carrollton Train Depot",
+      "latitude": 32.95549722,
+      "longitude": -96.90758611,
+      "directions": "On North Denton Drive, Carrollton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294238",
+      "photo_urls": []
+    },
+    {
       "id": "29427",
       "title": "The Civilian Conservation Corps and Forestry in Texas",
       "latitude": 31.356121,
       "longitude": -94.752461,
       "directions": "On Raguet Street, Lufkin, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29427",
+      "photo_urls": []
+    },
+    {
+      "id": "294308",
+      "title": "Peter W. Grayson",
+      "latitude": 33.636272,
+      "longitude": -96.609458,
+      "directions": "On Houston Street (State Route 56) , Sherman, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294308",
+      "photo_urls": []
+    },
+    {
+      "id": "294330",
+      "title": "Home of Ferdinand Lindheimer",
+      "latitude": 29.70052567,
+      "longitude": -98.11846205,
+      "directions": "On Comal Avenue, New Braunfels, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294330",
+      "photo_urls": []
+    },
+    {
+      "id": "294342",
+      "title": "They Came ... and Left",
+      "latitude": 27.49095342,
+      "longitude": -97.28013371,
+      "directions": "On Park Road 22, near Corpus Christi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294342",
+      "photo_urls": []
+    },
+    {
+      "id": "294343",
+      "title": "One of a Kind",
+      "latitude": 27.49098554,
+      "longitude": -97.28012075,
+      "directions": "On Park Road 22, near Corpus Christi, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294343",
+      "photo_urls": []
+    },
+    {
+      "id": "294380",
+      "title": "Sherman Riot of 1930",
+      "latitude": 33.6360781,
+      "longitude": -96.6100773,
+      "directions": "On West Houston Street, Sherman, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294380",
+      "photo_urls": []
+    },
+    {
+      "id": "294393",
+      "title": "Novillo Line Camp",
+      "latitude": 27.46325626,
+      "longitude": -97.29073065,
+      "directions": "On Bird Island Basin Road, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294393",
+      "photo_urls": []
+    },
+    {
+      "id": "294442",
+      "title": "Remembering Ancestors",
+      "latitude": 29.87118406,
+      "longitude": -93.93351102,
+      "directions": "On 4th Street, Port Arthur, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294442",
+      "photo_urls": []
+    },
+    {
+      "id": "294451",
+      "title": "George Washington Lonis",
+      "latitude": 29.57357093,
+      "longitude": -97.93520806,
+      "directions": "Near East Walnut Street (County Route 202) , Seguin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294451",
+      "photo_urls": []
+    },
+    {
+      "id": "294452",
+      "title": "Robert D. McAnelly",
+      "latitude": 29.57360333,
+      "longitude": -97.93521124,
+      "directions": "Near East Walnut Street (County Route 202) , Seguin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294452",
+      "photo_urls": []
+    },
+    {
+      "id": "294462",
+      "title": "Colonel Nathaniel Benton",
+      "latitude": 29.57182905,
+      "longitude": -97.98074249,
+      "directions": "On Prexy Drive, Seguin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294462",
+      "photo_urls": []
+    },
+    {
+      "id": "294463",
+      "title": "Henry Eustace McCulloch",
+      "latitude": 29.57301616,
+      "longitude": -97.93508377,
+      "directions": "On East Walnut Street, Seguin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294463",
+      "photo_urls": []
+    },
+    {
+      "id": "294464",
+      "title": "Joseph Sonka House",
+      "latitude": 29.57404244,
+      "longitude": -97.96936404,
+      "directions": "On North Guadalupe Street, Seguin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294464",
+      "photo_urls": []
+    },
+    {
+      "id": "294466",
+      "title": "Duncan's Ferry",
+      "latitude": 29.51356906,
+      "longitude": -97.5006586,
+      "directions": "On U.S. Alternate 90, near Gonzales, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294466",
+      "photo_urls": []
+    },
+    {
+      "id": "294469",
+      "title": "Market Square",
+      "latitude": 29.50005275,
+      "longitude": -97.45493101,
+      "directions": "On St John Street, Gonzales, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294469",
+      "photo_urls": []
+    },
+    {
+      "id": "294470",
+      "title": "King Cemetery",
+      "latitude": 29.50473535,
+      "longitude": -97.5980737,
+      "directions": "On U.S. Alternate 90, near Gonzales, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294470",
+      "photo_urls": []
+    },
+    {
+      "id": "294471",
+      "title": "San Geronimo Cemetery",
+      "latitude": 29.57401863,
+      "longitude": -97.93662455,
+      "directions": "On East Walnut Street, Seguin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294471",
+      "photo_urls": []
+    },
+    {
+      "id": "294473",
+      "title": "Cypress Bend Park",
+      "latitude": 29.71071577,
+      "longitude": -98.10813675,
+      "directions": "On Peace Avenue, New Braunfels, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294473",
+      "photo_urls": []
+    },
+    {
+      "id": "294480",
+      "title": "Our Lady of Perpetual Help Cemetery",
+      "latitude": 29.71210399,
+      "longitude": -98.10950142,
+      "directions": "On Peace Avenue, New Braunfels, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294480",
+      "photo_urls": []
+    },
+    {
+      "id": "294487",
+      "title": "Comal Cemetery",
+      "latitude": 29.71333926,
+      "longitude": -98.10894099,
+      "directions": "On Peace Avenue, New Braunfels, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294487",
+      "photo_urls": []
+    },
+    {
+      "id": "294488",
+      "title": "Panteón Hidalgo (Hidalgo Cemetery)",
+      "latitude": 29.71242798,
+      "longitude": -98.10972711,
+      "directions": "On Peace Avenue, New Braunfels, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294488",
+      "photo_urls": []
+    },
+    {
+      "id": "294489",
+      "title": "Albert and Marie Kopplin House",
+      "latitude": 29.69690136,
+      "longitude": -98.1210692,
+      "directions": "On Hill Avenue, New Braunfels, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294489",
+      "photo_urls": []
+    },
+    {
+      "id": "294495",
+      "title": "1919 Storm",
+      "latitude": 27.81585097,
+      "longitude": -97.39063016,
+      "directions": "On North Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294495",
       "photo_urls": []
     },
     {
@@ -123236,6 +123794,51 @@
       "photo_urls": []
     },
     {
+      "id": "294553",
+      "title": "Phoenix Saloon",
+      "latitude": 29.70206492,
+      "longitude": -98.1252717,
+      "directions": "On West San Antonio Street, New Braunfels, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294553",
+      "photo_urls": []
+    },
+    {
+      "id": "294555",
+      "title": "Dorward Drug",
+      "latitude": 32.77053331,
+      "longitude": -101.44539485,
+      "directions": "On Coyote Drive (U.S. 180) , Gail, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294555",
+      "photo_urls": []
+    },
+    {
+      "id": "294556",
+      "title": "1902–1904 Land Rushes",
+      "latitude": 32.76955087,
+      "longitude": -101.44519633,
+      "directions": "On Oak Street (Ranch to Market Road 669) , Gail, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294556",
+      "photo_urls": []
+    },
+    {
+      "id": "294557",
+      "title": "Cheeves Bros. Dry Goods",
+      "latitude": 32.38470855,
+      "longitude": -96.8489675,
+      "directions": "On South Rogers Street, Waxahachie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294557",
+      "photo_urls": []
+    },
+    {
+      "id": "294558",
+      "title": "The Fires of 1882",
+      "latitude": 32.3860611,
+      "longitude": -96.84792128,
+      "directions": "On Rogers Street, Waxahachie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294558",
+      "photo_urls": []
+    },
+    {
       "id": "29460",
       "title": "Battle of Nacogdoches",
       "latitude": 31.60306667,
@@ -123254,12 +123857,381 @@
       "photo_urls": []
     },
     {
+      "id": "294646",
+      "title": "Mizpah Gate",
+      "latitude": 32.39646119,
+      "longitude": -97.32651647,
+      "directions": "On Hillcrest Street, Keene, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294646",
+      "photo_urls": []
+    },
+    {
+      "id": "294675",
+      "title": "George Thompson Ruby",
+      "latitude": 29.30309049,
+      "longitude": -94.78997067,
+      "directions": "On Moody Avenue, Galveston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294675",
+      "photo_urls": []
+    },
+    {
+      "id": "294748",
+      "title": "Orchard Cemetery",
+      "latitude": 29.60631339,
+      "longitude": -95.9829762,
+      "directions": "On State Route 36, near Orchard, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294748",
+      "photo_urls": []
+    },
+    {
+      "id": "294792",
+      "title": "Travis Lodge No.117, A.F. & A.M.",
+      "latitude": 33.6639053,
+      "longitude": -96.6166132,
+      "directions": "On North Travis Street (Route .1) , Sherman, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294792",
+      "photo_urls": []
+    },
+    {
       "id": "2948",
       "title": "Doak Home",
       "latitude": 30.57297,
       "longitude": -97.41668,
       "directions": "On West 7th Street, Taylor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2948",
+      "photo_urls": []
+    },
+    {
+      "id": "294815",
+      "title": "Umphress-Taylor Home",
+      "latitude": 33.4158996,
+      "longitude": -96.57382584,
+      "directions": "On Paris Street, Van Alstyne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294815",
+      "photo_urls": []
+    },
+    {
+      "id": "294818",
+      "title": "Cadiz Baptist Church",
+      "latitude": 28.42752568,
+      "longitude": -97.9395136,
+      "directions": "On Farm to Market Road 799, near Beeville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294818",
+      "photo_urls": []
+    },
+    {
+      "id": "294819",
+      "title": "Swedish Evangelical Free Church Cemetery",
+      "latitude": 28.70270271,
+      "longitude": -97.96298304,
+      "directions": "On County Road 150, near Kenedy, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294819",
+      "photo_urls": []
+    },
+    {
+      "id": "294820",
+      "title": "Elim Lutheran Church Cemetery",
+      "latitude": 28.72051714,
+      "longitude": -97.95364418,
+      "directions": "Near County Road 181, Kenedy, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294820",
+      "photo_urls": []
+    },
+    {
+      "id": "294821",
+      "title": "Kenedy Enemy Alien Detention Station, World War II",
+      "latitude": 28.8049727,
+      "longitude": -97.846982,
+      "directions": "On Clinton Place, Kenedy, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294821",
+      "photo_urls": []
+    },
+    {
+      "id": "294822",
+      "title": "First Baptist Church of Kenedy",
+      "latitude": 28.81380246,
+      "longitude": -97.84612149,
+      "directions": "On East School Street, Kenedy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294822",
+      "photo_urls": []
+    },
+    {
+      "id": "294823",
+      "title": "<small>Home of</small> John Ruckman",
+      "latitude": 28.94773457,
+      "longitude": -97.820941,
+      "directions": "On County Road 300, Helena, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294823",
+      "photo_urls": []
+    },
+    {
+      "id": "294824",
+      "title": "L. P. Smith House",
+      "latitude": 31.68030499,
+      "longitude": -96.47922603,
+      "directions": "On South Kaufman Street, Mexia, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294824",
+      "photo_urls": []
+    },
+    {
+      "id": "294825",
+      "title": "Boettcher House",
+      "latitude": 30.71164399,
+      "longitude": -95.55550756,
+      "directions": "On Avenue North 1/2, Huntsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294825",
+      "photo_urls": []
+    },
+    {
+      "id": "294826",
+      "title": "Emancipation Park",
+      "latitude": 30.7305835,
+      "longitude": -95.54249662,
+      "directions": "On Martin Luther King Dr, Huntsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294826",
+      "photo_urls": []
+    },
+    {
+      "id": "294827",
+      "title": "Cook Springs Baptist Church",
+      "latitude": 30.76485206,
+      "longitude": -95.66442057,
+      "directions": "On State Route 75, near Huntsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294827",
+      "photo_urls": []
+    },
+    {
+      "id": "294828",
+      "title": "Homesite and Burial Place of General Joseph Burton Johnson",
+      "latitude": 31.78258955,
+      "longitude": -96.23419969,
+      "directions": "On County Route 1131, near Fairfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294828",
+      "photo_urls": []
+    },
+    {
+      "id": "294829",
+      "title": "Czerner Kowalik House",
+      "latitude": 28.95582231,
+      "longitude": -97.90276301,
+      "directions": "On Farm to Market 81, Panna Maria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294829",
+      "photo_urls": []
+    },
+    {
+      "id": "294830",
+      "title": "Grange Hall Community",
+      "latitude": 31.77761043,
+      "longitude": -96.22345435,
+      "directions": "On County Route 1140, near Fairfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294830",
+      "photo_urls": []
+    },
+    {
+      "id": "294831",
+      "title": "Evans Chapel United Methodist Church",
+      "latitude": 31.13136725,
+      "longitude": -96.02755987,
+      "directions": "On Farm to Market Road 977, near Leona, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294831",
+      "photo_urls": []
+    },
+    {
+      "id": "294832",
+      "title": "Greer Family Cemetery",
+      "latitude": 31.07526959,
+      "longitude": -96.23923654,
+      "directions": "On County Route 469, near Normangee, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294832",
+      "photo_urls": []
+    },
+    {
+      "id": "294833",
+      "title": "Cobb Cemetery",
+      "latitude": 31.43675143,
+      "longitude": -96.5450167,
+      "directions": "On County Route 778, near Thornton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294833",
+      "photo_urls": []
+    },
+    {
+      "id": "294834",
+      "title": "Harmony Cemetery",
+      "latitude": 30.83195999,
+      "longitude": -95.73241468,
+      "directions": "On State Route 75, near Huntsville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294834",
+      "photo_urls": []
+    },
+    {
+      "id": "294836",
+      "title": "Cowboys and More / Vaqueros y Más",
+      "latitude": 29.13935673,
+      "longitude": -98.17517278,
+      "directions": "On Goliad Road, Floresville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294836",
+      "photo_urls": []
+    },
+    {
+      "id": "294839",
+      "title": "Rancho de Patguilla",
+      "latitude": 29.139266,
+      "longitude": -98.17562977,
+      "directions": "On Peach Street, Floresville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294839",
+      "photo_urls": []
+    },
+    {
+      "id": "294842",
+      "title": "Faville House",
+      "latitude": 29.42164909,
+      "longitude": -98.48836529,
+      "directions": "On Villita Street, San Antonio, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294842",
+      "photo_urls": []
+    },
+    {
+      "id": "294843",
+      "title": "Cirilus Gissi House",
+      "latitude": 29.42107767,
+      "longitude": -98.48908239,
+      "directions": "On King Philip, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294843",
+      "photo_urls": []
+    },
+    {
+      "id": "294917",
+      "title": "Yturri-Edmunds House and Mill",
+      "latitude": 29.39883231,
+      "longitude": -98.48867028,
+      "directions": "On South River Walk, San Antonio, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294917",
+      "photo_urls": []
+    },
+    {
+      "id": "294919",
+      "title": "Edgewood Independent School District",
+      "latitude": 29.39880632,
+      "longitude": -98.48854426,
+      "directions": "On South River Walk, San Antonio, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294919",
+      "photo_urls": []
+    },
+    {
+      "id": "294920",
+      "title": "Mayor Maury Maverick Plaza",
+      "latitude": 29.42131884,
+      "longitude": -98.48895156,
+      "directions": "On King Philip, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294920",
+      "photo_urls": []
+    },
+    {
+      "id": "294927",
+      "title": "Alexander and Blanche Joske House",
+      "latitude": 29.41538432,
+      "longitude": -98.49259051,
+      "directions": "On King William Street, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294927",
+      "photo_urls": []
+    },
+    {
+      "id": "294932",
+      "title": "Malvina Nelson House",
+      "latitude": 29.41624787,
+      "longitude": -98.49154155,
+      "directions": "On King William Street, San Antonio, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294932",
+      "photo_urls": []
+    },
+    {
+      "id": "294942",
+      "title": "John William and María Jesusa Curbelo-Delgado Smith",
+      "latitude": 29.43201004,
+      "longitude": -98.49798729,
+      "directions": "On Camaron Street, San Antonio, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294942",
+      "photo_urls": []
+    },
+    {
+      "id": "294946",
+      "title": "San Pedro Creek",
+      "latitude": 29.43127967,
+      "longitude": -98.49750375,
+      "directions": "On Camaron Street, San Antonio, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294946",
+      "photo_urls": []
+    },
+    {
+      "id": "294951",
+      "title": "First Presbyterian Church",
+      "latitude": 29.429061,
+      "longitude": -98.48489698,
+      "directions": "On North Alamo Street, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294951",
+      "photo_urls": []
+    },
+    {
+      "id": "294958",
+      "title": "Sidney Lanier High School War Fallen",
+      "latitude": 29.42252504,
+      "longitude": -98.51459301,
+      "directions": "On West César E Chávez Boulevard, San Antonio, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294958",
+      "photo_urls": []
+    },
+    {
+      "id": "294966",
+      "title": "Peacock Military Academy",
+      "latitude": 29.45216086,
+      "longitude": -98.53884734,
+      "directions": "On West Ashby Place, San Antonio, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294966",
+      "photo_urls": []
+    },
+    {
+      "id": "294968",
+      "title": "Texas' First All-Spanish Radio Program",
+      "latitude": 29.45310939,
+      "longitude": -98.56239247,
+      "directions": "Near Camino Santa Maria, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294968",
+      "photo_urls": []
+    },
+    {
+      "id": "294971",
+      "title": "Clara Driscoll, Saviour of the Alamo",
+      "latitude": 29.42590336,
+      "longitude": -98.48643867,
+      "directions": "Near Alamo Plaza, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294971",
+      "photo_urls": []
+    },
+    {
+      "id": "295010",
+      "title": "Locke Hill Auditorium",
+      "latitude": 29.55489562,
+      "longitude": -98.58643489,
+      "directions": "On Interstate 10, San Antonio, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295010",
+      "photo_urls": []
+    },
+    {
+      "id": "295013",
+      "title": "Wetmore Community Cemetery",
+      "latitude": 29.57769073,
+      "longitude": -98.40067918,
+      "directions": "On Higgins Road, San Antonio, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295013",
+      "photo_urls": []
+    },
+    {
+      "id": "295022",
+      "title": "Fort Hood Communities",
+      "latitude": 31.36668333,
+      "longitude": -97.68986667,
+      "directions": "On State Route 36, Gatesville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295022",
       "photo_urls": []
     },
     {
@@ -123281,12 +124253,165 @@
       "photo_urls": []
     },
     {
+      "id": "295291",
+      "title": "Barreda House",
+      "latitude": 25.90521672,
+      "longitude": -97.501348,
+      "directions": "On East Washington Street, Brownsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295291",
+      "photo_urls": []
+    },
+    {
+      "id": "295293",
+      "title": "Site of Old Grammar School",
+      "latitude": 25.90554245,
+      "longitude": -97.49893185,
+      "directions": "On East 8th Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295293",
+      "photo_urls": []
+    },
+    {
+      "id": "295296",
+      "title": "Putegnat Elementary",
+      "latitude": 25.90557685,
+      "longitude": -97.49884061,
+      "directions": "On East 8th Street, Brownsville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295296",
+      "photo_urls": []
+    },
+    {
+      "id": "295307",
+      "title": "Washington Park",
+      "latitude": 25.90566164,
+      "longitude": -97.49901372,
+      "directions": "On E 8th Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295307",
+      "photo_urls": []
+    },
+    {
+      "id": "295308",
+      "title": "Market Square",
+      "latitude": 25.90214294,
+      "longitude": -97.49720486,
+      "directions": "On Market Square Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295308",
+      "photo_urls": []
+    },
+    {
+      "id": "295310",
+      "title": "Vuittonet-St. Joseph's Pharmacy Building",
+      "latitude": 25.90230752,
+      "longitude": -97.49663458,
+      "directions": "On East Adams Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295310",
+      "photo_urls": []
+    },
+    {
+      "id": "295312",
+      "title": "San Fernando Building",
+      "latitude": 25.90261552,
+      "longitude": -97.49739447,
+      "directions": "Near Market Square Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295312",
+      "photo_urls": []
+    },
+    {
+      "id": "295313",
+      "title": "Miguel Fernandez Hide Yard",
+      "latitude": 25.90297017,
+      "longitude": -97.4973538,
+      "directions": "On East Adams Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295313",
+      "photo_urls": []
+    },
+    {
+      "id": "295315",
+      "title": "Old City Library",
+      "latitude": 25.90334003,
+      "longitude": -97.49806398,
+      "directions": "On East Adams Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295315",
+      "photo_urls": []
+    },
+    {
+      "id": "295319",
+      "title": "Fort Brown Memorial Center",
+      "latitude": 25.8993918,
+      "longitude": -97.49426673,
+      "directions": "Near Taylor Avenue, Brownsville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295319",
+      "photo_urls": []
+    },
+    {
+      "id": "295322",
+      "title": "Post Chapel",
+      "latitude": 25.89851209,
+      "longitude": -97.49133551,
+      "directions": "On Gorgas Drive, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295322",
+      "photo_urls": []
+    },
+    {
+      "id": "295327",
+      "title": "The Jean B. Eckhoff Memorial Chimes",
+      "latitude": 25.89922001,
+      "longitude": -97.49166278,
+      "directions": "Near May Street, Brownsville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295327",
+      "photo_urls": []
+    },
+    {
+      "id": "295329",
+      "title": "Jack L. Knight Congressional Medal of Honor",
+      "latitude": 25.89918761,
+      "longitude": -97.4918949,
+      "directions": "Near May Street, Brownsville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295329",
+      "photo_urls": []
+    },
+    {
       "id": "29533",
       "title": "Reuter House",
       "latitude": 30.2409,
       "longitude": -97.74486,
       "directions": "On Rosedale Terrace, Austin, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29533",
+      "photo_urls": []
+    },
+    {
+      "id": "295340",
+      "title": "Porfirio Diaz House",
+      "latitude": 25.90074039,
+      "longitude": -97.49628657,
+      "directions": "On East Washington Street, Brownsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295340",
+      "photo_urls": []
+    },
+    {
+      "id": "295341",
+      "title": "The Gem",
+      "latitude": 25.89990846,
+      "longitude": -97.49771014,
+      "directions": "On East 13th Street, Brownsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295341",
+      "photo_urls": []
+    },
+    {
+      "id": "295342",
+      "title": "The Gem",
+      "latitude": 25.89991842,
+      "longitude": -97.49766806,
+      "directions": "On East 13th Street, Brownsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295342",
+      "photo_urls": []
+    },
+    {
+      "id": "295347",
+      "title": "The Gem/La Joya",
+      "latitude": 25.89997606,
+      "longitude": -97.49769937,
+      "directions": "On East 13th Street, Brownsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295347",
       "photo_urls": []
     },
     {
@@ -123299,12 +124424,48 @@
       "photo_urls": []
     },
     {
+      "id": "295354",
+      "title": "Webb Drug Store",
+      "latitude": 25.89996145,
+      "longitude": -97.49783188,
+      "directions": "On East 13th Street, Brownsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295354",
+      "photo_urls": []
+    },
+    {
+      "id": "295356",
+      "title": "<small> Former Site of</small> Convent of the Incarnate Word and Blessed Sacrament",
+      "latitude": 25.90266089,
+      "longitude": -97.50309022,
+      "directions": "Near East Saint Francis Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295356",
+      "photo_urls": []
+    },
+    {
+      "id": "295359",
+      "title": "Celaya House",
+      "latitude": 25.90375573,
+      "longitude": -97.50530757,
+      "directions": "On East Saint Francis Street, Brownsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295359",
+      "photo_urls": []
+    },
+    {
       "id": "29536",
       "title": "The “Austin Statesman”",
       "latitude": 30.25831,
       "longitude": -97.74378,
       "directions": "Near Congress Avenue, Austin, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29536",
+      "photo_urls": []
+    },
+    {
+      "id": "295361",
+      "title": "Augustine Celaya House",
+      "latitude": 25.90377663,
+      "longitude": -97.50529311,
+      "directions": "On East Saint Francis Street, Brownsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295361",
       "photo_urls": []
     },
     {
@@ -123317,12 +124478,66 @@
       "photo_urls": []
     },
     {
+      "id": "295370",
+      "title": "Eleventh Airborne Memorial",
+      "latitude": 27.87357969,
+      "longitude": -97.18250101,
+      "directions": "On Texas 361, Ingleside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295370",
+      "photo_urls": []
+    },
+    {
+      "id": "295371",
+      "title": "Corpus Christi Global War on Terrorism Memorial",
+      "latitude": 27.79046017,
+      "longitude": -97.39307376,
+      "directions": "On South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295371",
+      "photo_urls": []
+    },
+    {
+      "id": "295372",
+      "title": "Sherrill Park",
+      "latitude": 27.7905994,
+      "longitude": -97.39301166,
+      "directions": "On South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295372",
+      "photo_urls": []
+    },
+    {
+      "id": "295373",
+      "title": "Corpus Christi and Nueces County Vietnam Veterans Memorial",
+      "latitude": 27.7906978,
+      "longitude": -97.39279038,
+      "directions": "On South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295373",
+      "photo_urls": []
+    },
+    {
       "id": "29538",
       "title": "Michael Paggi House",
       "latitude": 30.26363,
       "longitude": -97.75671,
       "directions": "Near Lee Barton Drive, Austin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29538",
+      "photo_urls": []
+    },
+    {
+      "id": "295383",
+      "title": "In Honor of our Brothers in Arms",
+      "latitude": 27.79089111,
+      "longitude": -97.39288425,
+      "directions": "On South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295383",
+      "photo_urls": []
+    },
+    {
+      "id": "295387",
+      "title": "Peaceful Gardens Memorial Park",
+      "latitude": 33.4531237,
+      "longitude": -101.8469544,
+      "directions": "Near State Route Loop 493, Lubbock, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295387",
       "photo_urls": []
     },
     {
@@ -123335,12 +124550,435 @@
       "photo_urls": []
     },
     {
+      "id": "295391",
+      "title": "Paul Whitfield Horn",
+      "latitude": 33.563592,
+      "longitude": -101.80823,
+      "directions": "Near E 31st Street, Lubbock, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295391",
+      "photo_urls": []
+    },
+    {
+      "id": "295396",
+      "title": "Loss of Crew aboard Coast Guard Aircraft No. 2123",
+      "latitude": 27.79081063,
+      "longitude": -97.39307005,
+      "directions": "On South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295396",
+      "photo_urls": []
+    },
+    {
+      "id": "295397",
+      "title": "Korean War Veterans Memorial",
+      "latitude": 27.79080721,
+      "longitude": -97.39298635,
+      "directions": "Near South Shoreline Boulevard, Corpus Christi, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295397",
+      "photo_urls": []
+    },
+    {
+      "id": "295399",
+      "title": "Lyford",
+      "latitude": 26.41035041,
+      "longitude": -97.79108967,
+      "directions": "On West Main Avenue, Lyford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295399",
+      "photo_urls": []
+    },
+    {
       "id": "29540",
       "title": "Rocky Cliff",
       "latitude": 30.26104,
       "longitude": -97.76797,
       "directions": "Near Barton Boulevard, Austin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29540",
+      "photo_urls": []
+    },
+    {
+      "id": "295401",
+      "title": "Sebastian",
+      "latitude": 26.34249002,
+      "longitude": -97.79034525,
+      "directions": "On Business 77, Sebastian, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295401",
+      "photo_urls": []
+    },
+    {
+      "id": "295408",
+      "title": "The A.C. Purvis House",
+      "latitude": 26.13385691,
+      "longitude": -97.62865888,
+      "directions": "On North Reagan Street, San Benito, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295408",
+      "photo_urls": []
+    },
+    {
+      "id": "295411",
+      "title": "Bobby Joe Morrow",
+      "latitude": 26.14295536,
+      "longitude": -97.64626072,
+      "directions": "On La Palma Street, San Benito, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295411",
+      "photo_urls": []
+    },
+    {
+      "id": "295412",
+      "title": "Joe Callandret School",
+      "latitude": 26.14082269,
+      "longitude": -97.63681648,
+      "directions": "On Doherty Street, San Benito, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295412",
+      "photo_urls": []
+    },
+    {
+      "id": "295431",
+      "title": "Willie Lusk Jr.",
+      "latitude": 33.5706899,
+      "longitude": -101.8204823,
+      "directions": "On Oak Avenue, Lubbock, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295431",
+      "photo_urls": []
+    },
+    {
+      "id": "295434",
+      "title": "Texas Vietnam Veterans Memorial Highway",
+      "latitude": 25.98504855,
+      "longitude": -97.52087631,
+      "directions": "On Frontage Road, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295434",
+      "photo_urls": []
+    },
+    {
+      "id": "295437",
+      "title": "Combat Wounded Veterans",
+      "latitude": 26.09926062,
+      "longitude": -97.28931862,
+      "directions": "On Santa Isabel Boulevard, Laguna Vista, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295437",
+      "photo_urls": []
+    },
+    {
+      "id": "295438",
+      "title": "The Fujita Scale",
+      "latitude": 33.5887136,
+      "longitude": -101.8545984,
+      "directions": "On 8th Ave, Lubbock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295438",
+      "photo_urls": []
+    },
+    {
+      "id": "295440",
+      "title": "Laguna Vista Area Veterans Memorial",
+      "latitude": 26.09940231,
+      "longitude": -97.28951954,
+      "directions": "On Santa Isabel Boulevard, Laguna Vista, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295440",
+      "photo_urls": []
+    },
+    {
+      "id": "295442",
+      "title": "The 1970 Lubbock Tornado",
+      "latitude": 33.5887136,
+      "longitude": -101.8545984,
+      "directions": "On 8th Ave, Lubbock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295442",
+      "photo_urls": []
+    },
+    {
+      "id": "295444",
+      "title": "USS Constellation (CV-64)",
+      "latitude": 26.09988545,
+      "longitude": -97.28962675,
+      "directions": "On Morris Street, Laguna Vista, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295444",
+      "photo_urls": []
+    },
+    {
+      "id": "295497",
+      "title": "African American Community in Gillespie County",
+      "latitude": 30.27023611,
+      "longitude": -98.86001667,
+      "directions": "On East Schubert Street, Fredericksburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295497",
+      "photo_urls": []
+    },
+    {
+      "id": "295505",
+      "title": "Old San Felipe Road",
+      "latitude": 29.74790448,
+      "longitude": -95.42650742,
+      "directions": "On San Felipe Street, Houston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295505",
+      "photo_urls": []
+    },
+    {
+      "id": "295511",
+      "title": "Roots of a Frontier President",
+      "latitude": 30.27599783,
+      "longitude": -98.41760087,
+      "directions": "On West Main Street, Johnson City, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295511",
+      "photo_urls": []
+    },
+    {
+      "id": "295515",
+      "title": "Brown Cemetery",
+      "latitude": 30.24020351,
+      "longitude": -98.56954726,
+      "directions": "On Hye-Albert Road, Hye, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295515",
+      "photo_urls": []
+    },
+    {
+      "id": "295517",
+      "title": "Lydon Baines Johnson State Park",
+      "latitude": 30.23495534,
+      "longitude": -98.62895706,
+      "directions": "On U.S. 290, Stonewall, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295517",
+      "photo_urls": []
+    },
+    {
+      "id": "295537",
+      "title": "Veterans Memorial Poles and Flags",
+      "latitude": 30.23496766,
+      "longitude": -98.6292799,
+      "directions": "On U.S. 290, Stonewall, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295537",
+      "photo_urls": []
+    },
+    {
+      "id": "295540",
+      "title": "Hereford: Breed of Choice",
+      "latitude": 30.25856433,
+      "longitude": -98.62167138,
+      "directions": "On Malechek Road, Stonewall, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295540",
+      "photo_urls": []
+    },
+    {
+      "id": "295546",
+      "title": "LBJ – The Image",
+      "latitude": 30.247634,
+      "longitude": -98.625526,
+      "directions": "On Malecek Road, near Stonewall, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295546",
+      "photo_urls": []
+    },
+    {
+      "id": "295547",
+      "title": "LBJ - The Western Image",
+      "latitude": 30.24762872,
+      "longitude": -98.6255142,
+      "directions": "On Malecek Road, Stonewall, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295547",
+      "photo_urls": []
+    },
+    {
+      "id": "295562",
+      "title": "Schertz Historic Site",
+      "latitude": 29.64565,
+      "longitude": -98.22364,
+      "directions": "On Old Nacogdoches Road, near Schertz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295562",
+      "photo_urls": []
+    },
+    {
+      "id": "295565",
+      "title": "Cibolo",
+      "latitude": 29.55935,
+      "longitude": -98.23552,
+      "directions": "On Farm to Market Road 78, Cibolo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295565",
+      "photo_urls": []
+    },
+    {
+      "id": "295566",
+      "title": "Schertz Historic Site",
+      "latitude": 29.56759385,
+      "longitude": -98.27146489,
+      "directions": "On Schertz Parkway, Schertz, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295566",
+      "photo_urls": []
+    },
+    {
+      "id": "295582",
+      "title": "Hampton Coker",
+      "latitude": 29.5557223,
+      "longitude": -98.49215408,
+      "directions": "Near East North Loop Road, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295582",
+      "photo_urls": []
+    },
+    {
+      "id": "295583",
+      "title": "St. Mary's University Sesquicentennial",
+      "latitude": 29.45241567,
+      "longitude": -98.56128088,
+      "directions": "Near Camino Santa Maria, San Antonio, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295583",
+      "photo_urls": []
+    },
+    {
+      "id": "295584",
+      "title": "Memorial Plaza",
+      "latitude": 29.45262831,
+      "longitude": -98.56148734,
+      "directions": "Near Camino Santa Maria, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295584",
+      "photo_urls": []
+    },
+    {
+      "id": "295586",
+      "title": "Former St. Mary's University Fallen in Defense of Freedom Memorial",
+      "latitude": 29.45273185,
+      "longitude": -98.56131726,
+      "directions": "Near Camino Santa Maria, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295586",
+      "photo_urls": []
+    },
+    {
+      "id": "295590",
+      "title": "Former St. Mary's University Fallen in World War II",
+      "latitude": 29.45262814,
+      "longitude": -98.56134818,
+      "directions": "Near Camino Santa Maria, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295590",
+      "photo_urls": []
+    },
+    {
+      "id": "295591",
+      "title": "Fox Tech Vietnam Fallen Heroes Memorial",
+      "latitude": 29.43283085,
+      "longitude": -98.49431926,
+      "directions": "On North Main Avenue, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295591",
+      "photo_urls": []
+    },
+    {
+      "id": "295592",
+      "title": "San Francesco di Paola",
+      "latitude": 29.42994605,
+      "longitude": -98.49904413,
+      "directions": "On Columbus Street, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295592",
+      "photo_urls": []
+    },
+    {
+      "id": "295594",
+      "title": "In Recognition of the Hispanic in Texas",
+      "latitude": 29.42459605,
+      "longitude": -98.49492512,
+      "directions": "On Military Plaza, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295594",
+      "photo_urls": []
+    },
+    {
+      "id": "295612",
+      "title": "USS Ranger (CV-61)",
+      "latitude": 26.09984062,
+      "longitude": -97.28970414,
+      "directions": "On Morris Street, Laguna Vista, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295612",
+      "photo_urls": []
+    },
+    {
+      "id": "295614",
+      "title": "USS Independence (CV-62)",
+      "latitude": 26.09990435,
+      "longitude": -97.2897457,
+      "directions": "On Morris Street, Laguna Vista, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295614",
+      "photo_urls": []
+    },
+    {
+      "id": "295615",
+      "title": "1923 Point Isabel Coast Guard Building",
+      "latitude": 26.07446682,
+      "longitude": -97.16416478,
+      "directions": "Near Wallace L Reed Road, South Padre Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295615",
+      "photo_urls": []
+    },
+    {
+      "id": "295616",
+      "title": "Queen Isabella Causeway Collapse Loss Memorial",
+      "latitude": 26.08506388,
+      "longitude": -97.16709242,
+      "directions": "On Padre Boulevard, South Padre Island, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295616",
+      "photo_urls": []
+    },
+    {
+      "id": "295618",
+      "title": "Rio Grande Rail Road Company",
+      "latitude": 26.0771813,
+      "longitude": -97.20522688,
+      "directions": "On South Garcia Street, Port Isabel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295618",
+      "photo_urls": []
+    },
+    {
+      "id": "295623",
+      "title": "Judith Calderoni-Yturria and Richard Champion House",
+      "latitude": 25.91689432,
+      "longitude": -97.51386519,
+      "directions": "On West Washington Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295623",
+      "photo_urls": []
+    },
+    {
+      "id": "295624",
+      "title": "Browne-Wagner Home",
+      "latitude": 25.90614629,
+      "longitude": -97.50610484,
+      "directions": "On East Saint Charles Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295624",
+      "photo_urls": []
+    },
+    {
+      "id": "295625",
+      "title": "Browne/Wagner House",
+      "latitude": 25.90624604,
+      "longitude": -97.50612952,
+      "directions": "On East Saint Charles Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295625",
+      "photo_urls": []
+    },
+    {
+      "id": "295626",
+      "title": "Browne-Wagner House",
+      "latitude": 25.90625225,
+      "longitude": -97.5061238,
+      "directions": "On East Saint Charles Street, Brownsville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295626",
+      "photo_urls": []
+    },
+    {
+      "id": "295627",
+      "title": "McNair Park",
+      "latitude": 25.90547234,
+      "longitude": -97.50566394,
+      "directions": "On East Saint Charles Street, Brownsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295627",
+      "photo_urls": []
+    },
+    {
+      "id": "295629",
+      "title": "Cecilio Lerma and Dolores Garcia Lerma",
+      "latitude": 25.90073486,
+      "longitude": -97.49597961,
+      "directions": "Near East Washington Street, Brownsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295629",
+      "photo_urls": []
+    },
+    {
+      "id": "295635",
+      "title": "Kiowa Raid of 1868",
+      "latitude": 33.52856151,
+      "longitude": -97.16605922,
+      "directions": "On Interstate 35, near Valley View, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295635",
       "photo_urls": []
     },
     {
@@ -123389,12 +125027,282 @@
       "photo_urls": []
     },
     {
+      "id": "295813",
+      "title": "Elmwood Cemetery",
+      "latitude": 32.80926265,
+      "longitude": -98.10125492,
+      "directions": "On East Hubbard Street (U.S. 180) , Mineral Wells, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295813",
+      "photo_urls": []
+    },
+    {
+      "id": "295814",
+      "title": "First Baptist Church of Santo",
+      "latitude": 32.60202876,
+      "longitude": -98.21677911,
+      "directions": "On West Palo Pinto Street, Santo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295814",
+      "photo_urls": []
+    },
+    {
+      "id": "295815",
+      "title": "Mount Zion Cemetery",
+      "latitude": 32.59123104,
+      "longitude": -98.70635297,
+      "directions": "On County Route 127, near La Casa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295815",
+      "photo_urls": []
+    },
+    {
+      "id": "295817",
+      "title": "New Hope Baptist Church",
+      "latitude": 32.60928279,
+      "longitude": -98.67380182,
+      "directions": "On Farm to Market Road 717, near Ranger, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295817",
+      "photo_urls": []
+    },
+    {
+      "id": "295818",
+      "title": "The Muncey Massacre",
+      "latitude": 33.06748333,
+      "longitude": -96.68141111,
+      "directions": "Near Bluebonnet Trail, Plano, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295818",
+      "photo_urls": []
+    },
+    {
+      "id": "295819",
+      "title": "Parks Camp",
+      "latitude": 32.66323564,
+      "longitude": -98.88027185,
+      "directions": "On Farm to Market Road 576, near Breckenridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295819",
+      "photo_urls": []
+    },
+    {
+      "id": "295820",
+      "title": "Bullock Cemetery",
+      "latitude": 32.51454974,
+      "longitude": -98.68637586,
+      "directions": "On Farm to Market Road 717, near Ranger, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295820",
+      "photo_urls": []
+    },
+    {
+      "id": "295821",
+      "title": "Brad Cemetery",
+      "latitude": 32.73294774,
+      "longitude": -98.46807311,
+      "directions": "On U.S. 180, near Palo Pinto, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295821",
+      "photo_urls": []
+    },
+    {
+      "id": "295823",
+      "title": "Wayland School",
+      "latitude": 32.60837251,
+      "longitude": -98.82842066,
+      "directions": "On Farm to Market Road 1852, Wayland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295823",
+      "photo_urls": []
+    },
+    {
+      "id": "295824",
+      "title": "William Whipple Johnson",
+      "latitude": 32.62719347,
+      "longitude": -98.33904105,
+      "directions": "On Ranch to Market Road 3137, near Gordon, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295824",
+      "photo_urls": []
+    },
+    {
+      "id": "295825",
+      "title": "Breckenridge Cemetery",
+      "latitude": 32.74995536,
+      "longitude": -98.88626781,
+      "directions": "On W Elliott Street, Breckenridge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295825",
+      "photo_urls": []
+    },
+    {
       "id": "29591",
       "title": "Paso de la Santa Cruz",
       "latitude": 30.92412,
       "longitude": -99.78411,
       "directions": "On Frisco Avenue (U.S. 83) , Menard, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29591",
+      "photo_urls": []
+    },
+    {
+      "id": "295925",
+      "title": "Aransas Pass Light Station",
+      "latitude": 27.86317417,
+      "longitude": -97.05584369,
+      "directions": "Near State Route 361, Aransas Pass, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295925",
+      "photo_urls": []
+    },
+    {
+      "id": "295927",
+      "title": "Aransas Pass Light Station",
+      "latitude": 27.86318161,
+      "longitude": -97.0557967,
+      "directions": "Near State Route 361, Aransas Pass, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295927",
+      "photo_urls": []
+    },
+    {
+      "id": "296017",
+      "title": "World War One Eagle Memorial",
+      "latitude": 32.50127752,
+      "longitude": -94.72249979,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296017",
+      "photo_urls": []
+    },
+    {
+      "id": "296019",
+      "title": "World War II",
+      "latitude": 32.50132773,
+      "longitude": -94.72228302,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296019",
+      "photo_urls": []
+    },
+    {
+      "id": "296020",
+      "title": "Iraq",
+      "latitude": 32.50134258,
+      "longitude": -94.72209636,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296020",
+      "photo_urls": []
+    },
+    {
+      "id": "296021",
+      "title": "\"Little Wars\" Memorial",
+      "latitude": 32.50143286,
+      "longitude": -94.72217527,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296021",
+      "photo_urls": []
+    },
+    {
+      "id": "296023",
+      "title": "Let Us Not Forget",
+      "latitude": 32.50148729,
+      "longitude": -94.72225249,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296023",
+      "photo_urls": []
+    },
+    {
+      "id": "296024",
+      "title": "The Korean War",
+      "latitude": 32.50153728,
+      "longitude": -94.72232716,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296024",
+      "photo_urls": []
+    },
+    {
+      "id": "296025",
+      "title": "Vietnam",
+      "latitude": 32.50173507,
+      "longitude": -94.72244944,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296025",
+      "photo_urls": []
+    },
+    {
+      "id": "296026",
+      "title": "Vietnam Memorial Wall",
+      "latitude": 32.50178675,
+      "longitude": -94.72248105,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296026",
+      "photo_urls": []
+    },
+    {
+      "id": "296027",
+      "title": "Honoring Gold Star Mothers",
+      "latitude": 32.50196243,
+      "longitude": -94.72224695,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296027",
+      "photo_urls": []
+    },
+    {
+      "id": "296029",
+      "title": "Women in the Military",
+      "latitude": 32.50204067,
+      "longitude": -94.72225136,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296029",
+      "photo_urls": []
+    },
+    {
+      "id": "296030",
+      "title": "If By Crying Memorial",
+      "latitude": 32.50200442,
+      "longitude": -94.72171709,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296030",
+      "photo_urls": []
+    },
+    {
+      "id": "296031",
+      "title": "No Man Left Behind",
+      "latitude": 32.50195756,
+      "longitude": -94.72147428,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296031",
+      "photo_urls": []
+    },
+    {
+      "id": "296032",
+      "title": "Paws on the Ground",
+      "latitude": 32.50196516,
+      "longitude": -94.72135858,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296032",
+      "photo_urls": []
+    },
+    {
+      "id": "296090",
+      "title": "We Honor and Remember their Sacrifice",
+      "latitude": 32.5013694,
+      "longitude": -94.72247646,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296090",
+      "photo_urls": []
+    },
+    {
+      "id": "296091",
+      "title": "Combat Wounded Veterans",
+      "latitude": 32.50208394,
+      "longitude": -94.72258113,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296091",
+      "photo_urls": []
+    },
+    {
+      "id": "296092",
+      "title": "Because of you, Unknown Soldier",
+      "latitude": 32.50200208,
+      "longitude": -94.72250676,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296092",
+      "photo_urls": []
+    },
+    {
+      "id": "296093",
+      "title": "USA Veterans Memorial",
+      "latitude": 32.50204845,
+      "longitude": -94.72177043,
+      "directions": "On East Park Lane, Longview, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296093",
       "photo_urls": []
     },
     {
@@ -123407,6 +125315,195 @@
       "photo_urls": []
     },
     {
+      "id": "296231",
+      "title": "Dr. Edgar Ewell Ward",
+      "latitude": 32.76418333,
+      "longitude": -96.76305278,
+      "directions": "On Dathe Street, Dallas, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296231",
+      "photo_urls": []
+    },
+    {
+      "id": "296235",
+      "title": "Dr. Walter Ree McMillan",
+      "latitude": 32.80039167,
+      "longitude": -96.79456389,
+      "directions": "On North Hall Street, Dallas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296235",
+      "photo_urls": []
+    },
+    {
+      "id": "296286",
+      "title": "New Hope Cemetery",
+      "latitude": 32.67818415,
+      "longitude": -95.93148901,
+      "directions": "On County Route 3420, near Wills Point, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296286",
+      "photo_urls": []
+    },
+    {
+      "id": "296287",
+      "title": "Slaughter School",
+      "latitude": 32.67555351,
+      "longitude": -95.89581264,
+      "directions": "On County Route 3216, near Edgewood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296287",
+      "photo_urls": []
+    },
+    {
+      "id": "296288",
+      "title": "Highland Cemetery",
+      "latitude": 32.62880436,
+      "longitude": -95.88308707,
+      "directions": "On County Route 3204, near Edgewood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296288",
+      "photo_urls": []
+    },
+    {
+      "id": "296290",
+      "title": "Barren Ridge",
+      "latitude": 32.67656831,
+      "longitude": -95.86344601,
+      "directions": "On County Route 3105, near Edgewood, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296290",
+      "photo_urls": []
+    },
+    {
+      "id": "296291",
+      "title": "New Hope Cemetery",
+      "latitude": 32.64575952,
+      "longitude": -95.4175258,
+      "directions": "On Farm to Market Road 2422, New Hope, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296291",
+      "photo_urls": []
+    },
+    {
+      "id": "296292",
+      "title": "Smith Chapel United Methodist Church",
+      "latitude": 32.63151905,
+      "longitude": -95.38938773,
+      "directions": "On Farm to Market Road 1804, Hoard, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296292",
+      "photo_urls": []
+    },
+    {
+      "id": "296294",
+      "title": "Martin Varner",
+      "latitude": 32.65485366,
+      "longitude": -95.34606684,
+      "directions": "On Farm to Market Road 3056, near Crow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296294",
+      "photo_urls": []
+    },
+    {
+      "id": "296299",
+      "title": "Lillian Richard",
+      "latitude": 32.6267648,
+      "longitude": -95.27409465,
+      "directions": "On Farm to Market Road 2869, Fouke, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296299",
+      "photo_urls": []
+    },
+    {
+      "id": "296302",
+      "title": "Jobe Cemetery",
+      "latitude": 32.61612704,
+      "longitude": -95.24683025,
+      "directions": "On County Route 3431, Hawkins, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296302",
+      "photo_urls": []
+    },
+    {
+      "id": "296304",
+      "title": "Carmel Cemetery",
+      "latitude": 32.54538871,
+      "longitude": -95.48429215,
+      "directions": "On County Route 481, near Lindale, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296304",
+      "photo_urls": []
+    },
+    {
+      "id": "296363",
+      "title": "James H. White",
+      "latitude": 31.77931389,
+      "longitude": -106.44886667,
+      "directions": "Near N Stevens St, El Paso, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296363",
+      "photo_urls": []
+    },
+    {
+      "id": "296413",
+      "title": "José Francisco Calahorra y Saenz",
+      "latitude": 32.66551285,
+      "longitude": -95.83720872,
+      "directions": "On County Route 1117, near Fruitvale, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296413",
+      "photo_urls": []
+    },
+    {
+      "id": "296443",
+      "title": "Bethesda Presbyterian Church and Cemetery",
+      "latitude": 32.5475,
+      "longitude": -95.360262,
+      "directions": "On Farm to Market Road 2710, Lindale, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296443",
+      "photo_urls": []
+    },
+    {
+      "id": "296445",
+      "title": "Rosenwald Schools in Wood County",
+      "latitude": 32.62677606,
+      "longitude": -95.27409459,
+      "directions": "On Farm to Market Road 2869, near Hawkins, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296445",
+      "photo_urls": []
+    },
+    {
+      "id": "296498",
+      "title": "Bussey Building",
+      "latitude": 35.21114499,
+      "longitude": -101.86713102,
+      "directions": "On Southwest 6th Avenue (Texas Hwy 279) (U.S. Old 66) , Amarillo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296498",
+      "photo_urls": []
+    },
+    {
+      "id": "296499",
+      "title": "Dutch Mill Service Station & Café",
+      "latitude": 35.2110882,
+      "longitude": -101.87474175,
+      "directions": "On Southwest 6th Avenue (Texas Hwy 279) (U.S. Old 66) , Amarillo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296499",
+      "photo_urls": []
+    },
+    {
+      "id": "296565",
+      "title": "Dr. Thomas F. Freeman",
+      "latitude": 29.72198739,
+      "longitude": -95.36096789,
+      "directions": "Near Beechnut Street, Houston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296565",
+      "photo_urls": []
+    },
+    {
+      "id": "296566",
+      "title": "Angelo and Lillian Minella House",
+      "latitude": 29.72946111,
+      "longitude": -95.31583056,
+      "directions": "On Brookside Drive, Houston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296566",
+      "photo_urls": []
+    },
+    {
+      "id": "296567",
+      "title": "Choctaw Code Talkers in World War I",
+      "latitude": 32.74399903,
+      "longitude": -97.38009487,
+      "directions": "On Camp Bowie Boulevard, Fort Worth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296567",
+      "photo_urls": []
+    },
+    {
       "id": "29660",
       "title": "Ingraham Building",
       "latitude": 31.60259687,
@@ -123416,12 +125513,39 @@
       "photo_urls": []
     },
     {
+      "id": "296696",
+      "title": "First Texas Hometown",
+      "latitude": 31.88281169,
+      "longitude": -102.31896574,
+      "directions": "Near East University Boulevard, Odessa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296696",
+      "photo_urls": []
+    },
+    {
+      "id": "296735",
+      "title": "\"At Odessa We Became Texans and Proud of It\"",
+      "latitude": 31.88281865,
+      "longitude": -102.31896955,
+      "directions": "Near East University Boulevard, Odessa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296735",
+      "photo_urls": []
+    },
+    {
       "id": "29700",
       "title": "Milam Lodge #2, Ancient Free and Accepted Masons of Texas",
       "latitude": 31.60405556,
       "longitude": -94.65398213,
       "directions": "On Fredonia Street, Nacogdoches, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29700",
+      "photo_urls": []
+    },
+    {
+      "id": "297010",
+      "title": "Bell Cemetery",
+      "latitude": 31.70500662,
+      "longitude": -95.56352794,
+      "directions": "On County Route 151, Alderbranch, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297010",
       "photo_urls": []
     },
     {
@@ -123452,6 +125576,51 @@
       "photo_urls": []
     },
     {
+      "id": "297189",
+      "title": "General Edward H. Tarrant",
+      "latitude": 32.7235,
+      "longitude": -97.18685,
+      "directions": "On West Pioneer Parkway (State Route Spur 303) , Arlington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297189",
+      "photo_urls": []
+    },
+    {
+      "id": "297256",
+      "title": "Wyatt's Chapel Church/School Site",
+      "latitude": 32.59670123,
+      "longitude": -97.14960505,
+      "directions": "On U.S. 287 Frontage Road, Mansfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297256",
+      "photo_urls": []
+    },
+    {
+      "id": "297296",
+      "title": "Anshe Sphard Synagogue",
+      "latitude": 32.79069414,
+      "longitude": -96.80522396,
+      "directions": "On Harry Hines Blvd, Dallas, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297296",
+      "photo_urls": []
+    },
+    {
+      "id": "297335",
+      "title": "The Old Courthouse",
+      "latitude": 28.02569376,
+      "longitude": -97.05263973,
+      "directions": "On North Live Oak Street, Rockport, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297335",
+      "photo_urls": []
+    },
+    {
+      "id": "297344",
+      "title": "The Urrea Oaks",
+      "latitude": 28.28646,
+      "longitude": -97.288179,
+      "directions": "On U.S. 77, near Refugio, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297344",
+      "photo_urls": []
+    },
+    {
       "id": "29735",
       "title": "Angelina & Neches River Railroad",
       "latitude": 31.3682,
@@ -123461,12 +125630,165 @@
       "photo_urls": []
     },
     {
+      "id": "297385",
+      "title": "Bee County",
+      "latitude": 28.61768729,
+      "longitude": -97.80230031,
+      "directions": "On U.S. 181, Pettus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297385",
+      "photo_urls": []
+    },
+    {
+      "id": "297386",
+      "title": "W. S. Robson",
+      "latitude": 29.90957677,
+      "longitude": -96.87528439,
+      "directions": "On North Monroe Street, La Grange, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297386",
+      "photo_urls": []
+    },
+    {
+      "id": "297387",
+      "title": "American Legion Hudgeons Post 230",
+      "latitude": 29.4518701,
+      "longitude": -96.94444632,
+      "directions": "On Route 3, Hallettsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297387",
+      "photo_urls": []
+    },
+    {
+      "id": "297388",
+      "title": "Chocolate Community",
+      "latitude": 28.5890319,
+      "longitude": -96.70166621,
+      "directions": "On Meadowview Lane, near Port Lavaca, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297388",
+      "photo_urls": []
+    },
+    {
+      "id": "297390",
+      "title": "La Grange M-K-T (\"Katy\") Depot",
+      "latitude": 29.9067882,
+      "longitude": -96.87883604,
+      "directions": "On North Washington Street, La Grange, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297390",
+      "photo_urls": []
+    },
+    {
+      "id": "297402",
+      "title": "Centennial Afro American Cemetery",
+      "latitude": 32.22555497,
+      "longitude": -94.070631,
+      "directions": "On Farm to Market Road 123, De Berry, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297402",
+      "photo_urls": []
+    },
+    {
+      "id": "297403",
+      "title": "Tennessee Colony Cemetery",
+      "latitude": 31.83560138,
+      "longitude": -95.83246659,
+      "directions": "On Tennessee Colony Cemetery Road (Farm to Market Road 2230) , Tennessee Colony, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297403",
+      "photo_urls": []
+    },
+    {
+      "id": "297404",
+      "title": "Wyatt's Chapel Cemetery",
+      "latitude": 32.59675048,
+      "longitude": -97.14962305,
+      "directions": "On U.S. 287 Frontage Road, Mansfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297404",
+      "photo_urls": []
+    },
+    {
+      "id": "297486",
+      "title": "First Producing Gas Well in McMullen County and First Gas Pipeline to San Antonio",
+      "latitude": 28.48011667,
+      "longitude": -98.34873333,
+      "directions": "On Park Road 8 (County Route 302) , near George West, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297486",
+      "photo_urls": []
+    },
+    {
+      "id": "297572",
+      "title": "Earle C. Driskell",
+      "latitude": 32.57459897,
+      "longitude": -97.14489543,
+      "directions": "On North Main Street (U.S. Business 287) , Mansfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297572",
+      "photo_urls": []
+    },
+    {
+      "id": "297573",
+      "title": "Earle C. Driskell",
+      "latitude": 32.57459592,
+      "longitude": -97.14489772,
+      "directions": "On North Main Street (U.S. Business 287) , Mansfield, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297573",
+      "photo_urls": []
+    },
+    {
+      "id": "297668",
+      "title": "Arnold E. A. Roitsch Archeological Site",
+      "latitude": 33.90371667,
+      "longitude": -95.113175,
+      "directions": "On Farm to Market Road 410, near Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297668",
+      "photo_urls": []
+    },
+    {
+      "id": "297669",
+      "title": "Jane Chandler Gill",
+      "latitude": 33.92252222,
+      "longitude": -95.13744444,
+      "directions": "On Farm to Market Road 410, near Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297669",
+      "photo_urls": []
+    },
+    {
       "id": "29767",
       "title": "The Rangers of Austin's Colony",
       "latitude": 29.7055,
       "longitude": -96.53993333,
       "directions": "On Spring Street, Columbus, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29767",
+      "photo_urls": []
+    },
+    {
+      "id": "297671",
+      "title": "Jesse B. Bowman",
+      "latitude": 33.92253889,
+      "longitude": -95.13741944,
+      "directions": "On Farm to Market Road 410, near Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297671",
+      "photo_urls": []
+    },
+    {
+      "id": "297672",
+      "title": "Near Here at the Old Jonesboro Crossing Sam Houston",
+      "latitude": 33.92245833,
+      "longitude": -95.13740556,
+      "directions": "On Farm to Market Road 410, near Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297672",
+      "photo_urls": []
+    },
+    {
+      "id": "297673",
+      "title": "Jonesboro",
+      "latitude": 33.92249722,
+      "longitude": -95.13740556,
+      "directions": "On Farm to Market Road 410, near Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297673",
+      "photo_urls": []
+    },
+    {
+      "id": "297703",
+      "title": "Round Mountain School",
+      "latitude": 30.572014,
+      "longitude": -97.949258,
+      "directions": "On Round Mountain Road, near Leander, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297703",
       "photo_urls": []
     },
     {
@@ -123933,7 +126255,7 @@
       "title": "Groundbreaking for the Pine Springs Visitor Center",
       "latitude": 31.89436667,
       "longitude": -104.82198333,
-      "directions": "Near , near Pine Springs, ",
+      "directions": "Near Pine Canyon Drive, near Pine Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30337",
       "photo_urls": []
     },
@@ -125202,7 +127524,7 @@
       "title": "Farmers State Bank Building",
       "latitude": 30.6368305,
       "longitude": -97.67814913,
-      "directions": "On , Georgetown, ",
+      "directions": "On South Austin Avenue, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3265",
       "photo_urls": []
     },
@@ -126876,7 +129198,7 @@
       "title": "G.W. Riley House",
       "latitude": 30.632336,
       "longitude": -97.671826,
-      "directions": "On , Georgetown, ",
+      "directions": "On South College Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3952",
       "photo_urls": []
     },
@@ -127254,7 +129576,7 @@
       "title": "Hutto Evangelical Lutheran Church",
       "latitude": 30.546462,
       "longitude": -97.544808,
-      "directions": "On , Hutto, ",
+      "directions": "On Church Street, Hutto, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=4300",
       "photo_urls": []
     },
@@ -127272,7 +129594,7 @@
       "title": "Steele Store - Makemson Hotel Building",
       "latitude": 30.636426,
       "longitude": -97.677985,
-      "directions": "Near , Georgetown, ",
+      "directions": "Near West 8th Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43032",
       "photo_urls": []
     },
@@ -127659,7 +129981,7 @@
       "title": "Lesesne-Stone Building",
       "latitude": 30.63648265,
       "longitude": -97.67712949,
-      "directions": "On , Georgetown, ",
+      "directions": "On South Main Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=4531",
       "photo_urls": []
     },
@@ -128028,7 +130350,7 @@
       "title": "Original Site of Southwestern University",
       "latitude": 30.633287,
       "longitude": -97.672867,
-      "directions": "On , Georgetown, ",
+      "directions": "On Ash Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=4909",
       "photo_urls": []
     },
@@ -130890,7 +133212,7 @@
       "title": "Refrigerator",
       "latitude": 35.193903,
       "longitude": -101.807706,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near East Interstate Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55940",
       "photo_urls": []
     },
@@ -130899,7 +133221,7 @@
       "title": "Dash for Cash",
       "latitude": 35.194074,
       "longitude": -101.807519,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near East Interstate Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55942",
       "photo_urls": []
     },
@@ -130908,7 +133230,7 @@
       "title": "Sacred",
       "latitude": 35.194077,
       "longitude": -101.807396,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near East Interstate Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55943",
       "photo_urls": []
     },
@@ -134724,7 +137046,7 @@
       "title": "Odd Fellow and Rebekah Children's Home",
       "latitude": 32.076175,
       "longitude": -96.502066,
-      "directions": "On , Corsicana, ",
+      "directions": "On North Allison Drive, Corsicana, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63600",
       "photo_urls": []
     },
@@ -136389,7 +138711,7 @@
       "title": "Construction of the Fort",
       "latitude": 31.453308,
       "longitude": -100.429967,
-      "directions": "Near , San Angelo, ",
+      "directions": "Near East Avenue D, San Angelo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72002",
       "photo_urls": []
     },
@@ -136398,7 +138720,7 @@
       "title": "E. H. Danner",
       "latitude": 31.453249,
       "longitude": -100.430273,
-      "directions": "Near , San Angelo, ",
+      "directions": "Near East Avenue D, San Angelo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72003",
       "photo_urls": []
     },
@@ -136452,7 +138774,7 @@
       "title": "Pegleg Crossing on the San Saba",
       "latitude": 30.87,
       "longitude": -99.59873,
-      "directions": "On , Menard, ",
+      "directions": "On Texas 29, Menard, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72083",
       "photo_urls": []
     },
@@ -136812,7 +139134,7 @@
       "title": "Texas Veterans Memorial",
       "latitude": 33.749018,
       "longitude": -96.534147,
-      "directions": "On , Denison, ",
+      "directions": "On East Day Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72812",
       "photo_urls": []
     },
@@ -136830,7 +139152,7 @@
       "title": "Birthplace of President Dwight D. Eisenhower",
       "latitude": 33.749019,
       "longitude": -96.534172,
-      "directions": "Near , Denison, ",
+      "directions": "Near East Day Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72843",
       "photo_urls": []
     },
@@ -136839,7 +139161,7 @@
       "title": "Dwight David Eisenhower",
       "latitude": 33.748782,
       "longitude": -96.533717,
-      "directions": "Near , Denison, ",
+      "directions": "Near East Day Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72844",
       "photo_urls": []
     },
@@ -136848,7 +139170,7 @@
       "title": "Birthplace of Dwight David Eisenhower",
       "latitude": 33.748352,
       "longitude": -96.533817,
-      "directions": "Near , Denison, ",
+      "directions": "Near East Day Street, Denison, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72845",
       "photo_urls": []
     },
@@ -137883,7 +140205,7 @@
       "title": "Morgan G. Sanders",
       "latitude": 32.4462,
       "longitude": -95.7031,
-      "directions": "On , Ben Wheeler, (On the left when traveling south)",
+      "directions": "On Farm to Market Road 858, Ben Wheeler, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=74159",
       "photo_urls": []
     },
@@ -142401,7 +144723,7 @@
       "title": "National Portable Drilling Machines",
       "latitude": 31.97345833,
       "longitude": -102.086105,
-      "directions": "Near , Midland, ",
+      "directions": "Near Interstate 20, Midland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86692",
       "photo_urls": []
     },
@@ -142410,7 +144732,7 @@
       "title": "Forth Worth “Super D” Spudder",
       "latitude": 31.97347667,
       "longitude": -102.0859,
-      "directions": "Near , Midland, ",
+      "directions": "Near Interstate 20, Midland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86694",
       "photo_urls": []
     },
@@ -142419,7 +144741,7 @@
       "title": "Keystone No. 5 ½ Traction",
       "latitude": 31.9735,
       "longitude": -102.08549667,
-      "directions": "Near , Midland, ",
+      "directions": "Near Interstate 20, Midland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86695",
       "photo_urls": []
     },
@@ -142428,7 +144750,7 @@
       "title": "Star Spudder",
       "latitude": 31.97363333,
       "longitude": -102.08538333,
-      "directions": "Near , Midland, ",
+      "directions": "Near Interstate 20, Midland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86696",
       "photo_urls": []
     },
@@ -142437,7 +144759,7 @@
       "title": "Wichtex 66 Spudder",
       "latitude": 31.97367669,
       "longitude": -102.08542633,
-      "directions": "Near , Midland, ",
+      "directions": "Near Petroleum Museum Circle, Midland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86697",
       "photo_urls": []
     },
@@ -142680,7 +145002,7 @@
       "title": "W.Y. Penn Home",
       "latitude": 30.632244,
       "longitude": -97.674047,
-      "directions": "Near , Georgetown, ",
+      "directions": "Near South Elm Street, Georgetown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=87739",
       "photo_urls": []
     },
@@ -143544,7 +145866,7 @@
       "title": "The Llano County Jail",
       "latitude": 30.75098333,
       "longitude": -98.6747,
-      "directions": "On , Llano, (On the right when traveling north)",
+      "directions": "On Oatman Street, Llano, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89322",
       "photo_urls": []
     },
@@ -143598,7 +145920,7 @@
       "title": "Acme Dry Goods Building",
       "latitude": 30.75036667,
       "longitude": -98.67646667,
-      "directions": "On , Llano, (On the right when traveling west)",
+      "directions": "On West Main Street, Llano, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89463",
       "photo_urls": []
     },
@@ -144975,7 +147297,7 @@
       "title": "Emma Grigsby Meharg",
       "latitude": 34.17683833,
       "longitude": -101.71319333,
-      "directions": "Near , Plainview, ",
+      "directions": "Near Aesthetic, Plainview, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91297",
       "photo_urls": []
     },
@@ -144984,7 +147306,7 @@
       "title": "Rawleigh Porteus Smyth",
       "latitude": 34.17711167,
       "longitude": -101.71366,
-      "directions": "Near , Plainview, ",
+      "directions": "Near Floral, Plainview, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91298",
       "photo_urls": []
     },
@@ -144993,7 +147315,7 @@
       "title": "Edwin Lowden Lowe",
       "latitude": 34.17736,
       "longitude": -101.71410833,
-      "directions": "Near , Plainview, ",
+      "directions": "Near Floral, Plainview, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91299",
       "photo_urls": []
     },
@@ -145002,7 +147324,7 @@
       "title": "W. J. \"Jeff\" Williams",
       "latitude": 34.17729667,
       "longitude": -101.712415,
-      "directions": "Near , Plainview, ",
+      "directions": "Near Floral, Plainview, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91300",
       "photo_urls": []
     },
@@ -145101,7 +147423,7 @@
       "title": "Ranching and Farming in Hale County",
       "latitude": 34.04848481,
       "longitude": -101.85392761,
-      "directions": "Near , Hale Center, ",
+      "directions": "Near Interstate 27, Hale Center, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91324",
       "photo_urls": []
     },
@@ -145587,7 +147909,7 @@
       "title": "Llano Cemetery",
       "latitude": 35.18261719,
       "longitude": -101.83097078,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near South Hayes Street, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91538",
       "photo_urls": []
     },
@@ -146073,7 +148395,7 @@
       "title": "Helium Time Columns",
       "latitude": 35.19953919,
       "longitude": -101.91349031,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near Streit Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91715",
       "photo_urls": []
     },
@@ -146082,7 +148404,7 @@
       "title": "1983 Relocation of the Helium Monument",
       "latitude": 35.19958114,
       "longitude": -101.91347503,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near Streit Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91716",
       "photo_urls": []
     },
@@ -146091,7 +148413,7 @@
       "title": "Jack B. Kelley",
       "latitude": 35.19956969,
       "longitude": -101.91345978,
-      "directions": "Near , Amarillo, ",
+      "directions": "Near Streit Drive, Amarillo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=91717",
       "photo_urls": []
     },
@@ -147432,7 +149754,7 @@
       "title": "Spearman Hotel",
       "latitude": 36.200213,
       "longitude": -101.192453,
-      "directions": "On , Spearman, (On the left when traveling east)",
+      "directions": "On Davis Street, Spearman, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=93461",
       "photo_urls": []
     },
