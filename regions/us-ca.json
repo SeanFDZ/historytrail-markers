@@ -3,9 +3,9 @@
   "region_name": "California",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.584Z",
-  "source_timestamp": "2026-04-11T19:15:03.584Z",
-  "marker_count": 12615,
+  "generated": "2026-04-23T06:04:43.337Z",
+  "source_timestamp": "2026-04-23T06:04:43.337Z",
+  "marker_count": 12773,
   "markers": [
     {
       "id": "100099",
@@ -4069,8 +4069,8 @@
     {
       "id": "110474",
       "title": "First Seat of Tehama County Government",
-      "latitude": 40.02632,
-      "longitude": -122.12168,
+      "latitude": 40.02641403,
+      "longitude": -122.12141617,
       "directions": "On D Street, Tehama, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=110474",
       "photo_urls": []
@@ -5454,10 +5454,10 @@
     },
     {
       "id": "114470",
-      "title": "William Henry \"Burro\" Schmidt",
+      "title": "Burro Schmidt Tunnel",
       "latitude": 35.41033333,
       "longitude": -117.87583333,
-      "directions": "Near Burro Schmidt Tunnel Road, near Ridgecrest, ",
+      "directions": "Near Burro Schmidt Tunnel Road, the Mojave Desert, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=114470",
       "photo_urls": []
     },
@@ -6444,10 +6444,10 @@
     },
     {
       "id": "11672",
-      "title": "El Campo Santo (The Holy Field)",
-      "latitude": 32.75146667,
-      "longitude": -117.19331667,
-      "directions": "Near San Diego Avenue, San Diego, (On the right when traveling south)",
+      "title": "El Campo Santo",
+      "latitude": 32.75155637,
+      "longitude": -117.19329925,
+      "directions": "Near San Diego Avenue, San Diego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=11672",
       "photo_urls": []
     },
@@ -6663,7 +6663,7 @@
       "title": "Old City Hall",
       "latitude": 32.683835,
       "longitude": -117.17957583,
-      "directions": "On 601 4th Street, Coronado, (On the right when traveling west)",
+      "directions": "On Loma Avenue, Coronado, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=117106",
       "photo_urls": []
     },
@@ -6687,7 +6687,7 @@
     },
     {
       "id": "117119",
-      "title": "Carey-Hizar House",
+      "title": "Carey-Hizar House - 1889",
       "latitude": 32.68350083,
       "longitude": -117.17941183,
       "directions": "On Loma Avenue, Coronado, (On the left when traveling west)",
@@ -14077,8 +14077,8 @@
     {
       "id": "13922",
       "title": "In Memory of the Bravery of Our Pioneer Officers",
-      "latitude": 38.7674354,
-      "longitude": -120.55139065,
+      "latitude": 38.76426002,
+      "longitude": -120.56074998,
       "directions": "On Pony Express Trail, near Pollack Pines, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=13922",
       "photo_urls": []
@@ -16795,9 +16795,9 @@
     {
       "id": "14504",
       "title": "La Playa Trail",
-      "latitude": 32.78425066,
-      "longitude": -117.10684687,
-      "directions": "Near San Diego Mission Road, San Diego, ",
+      "latitude": 32.78419703,
+      "longitude": -117.10703186,
+      "directions": "On San Diego Mission Road, San Diego, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14504",
       "photo_urls": []
     },
@@ -17326,8 +17326,8 @@
     {
       "id": "145635",
       "title": "First Raising of U.S. Flag",
-      "latitude": 32.7544146,
-      "longitude": -117.19696105,
+      "latitude": 32.75464011,
+      "longitude": -117.19762185,
       "directions": "Near Mason Street, San Diego, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=145635",
       "photo_urls": []
@@ -25455,7 +25455,7 @@
       "title": "Hearst Ranch",
       "latitude": 35.64397501,
       "longitude": -121.19147191,
-      "directions": "Near SLO San Simeon Road, San Simeon, ",
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=159600",
       "photo_urls": []
     },
@@ -29413,8 +29413,8 @@
     {
       "id": "167873",
       "title": "Site of the Vine Street Brown Derby",
-      "latitude": 34.100754,
-      "longitude": -118.326657,
+      "latitude": 34.10073651,
+      "longitude": -118.32656694,
       "directions": "On Vine Street, Los Angeles, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=167873",
       "photo_urls": []
@@ -36912,7 +36912,7 @@
       "title": "Hugus Alley",
       "latitude": 34.1462,
       "longitude": -118.15173333,
-      "directions": "Near Hugus Alley, Pasadena, ",
+      "directions": "On Hugus Alley, Pasadena, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=189647",
       "photo_urls": []
     },
@@ -38235,7 +38235,7 @@
       "title": "Interstate Highway 5",
       "latitude": 34.82581155,
       "longitude": -118.87030048,
-      "directions": "Near Interstate 5, near Lebec, ",
+      "directions": "Near Interstate 5,, near Lebec, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=192222",
       "photo_urls": []
     },
@@ -45360,7 +45360,7 @@
     },
     {
       "id": "205209",
-      "title": "They also serve who only stand and wait.",
+      "title": "They also serve who only stand and wait",
       "latitude": 32.67344523,
       "longitude": -117.2417967,
       "directions": "Near Cabrillo Memorial Drive, San Diego, ",
@@ -53929,8 +53929,8 @@
     {
       "id": "223892",
       "title": "Site with Many Cultures",
-      "latitude": 32.75998611,
-      "longitude": -117.19335556,
+      "latitude": 32.76000995,
+      "longitude": -117.19343945,
       "directions": "Near Presidio Drive, San Diego, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=223892",
       "photo_urls": []
@@ -56629,8 +56629,8 @@
     {
       "id": "229278",
       "title": "California Eagle",
-      "latitude": 34.00943239,
-      "longitude": -118.25666696,
+      "latitude": 34.0093113,
+      "longitude": -118.2566727,
       "directions": "On 41st Street, Los Angeles, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=229278",
       "photo_urls": []
@@ -56910,7 +56910,7 @@
       "title": "The Mojave Desert",
       "latitude": 35.031878,
       "longitude": -116.469674,
-      "directions": "On Interstate 15, near Midway, (On the right when traveling north)",
+      "directions": "On Interstate 15,, near Midway, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=229545",
       "photo_urls": []
     },
@@ -62613,7 +62613,7 @@
     },
     {
       "id": "238819",
-      "title": "Old Ballast Point Lighthouse, San Diego",
+      "title": "Old Ballast Point Lighthouse",
       "latitude": 32.751778,
       "longitude": -117.195417,
       "directions": "On Congress Street, San Diego, (On the right when traveling east)",
@@ -65224,8 +65224,8 @@
     {
       "id": "246727",
       "title": "Albert Smith, Civilian",
-      "latitude": 32.68873266,
-      "longitude": -117.24552554,
+      "latitude": 32.68966023,
+      "longitude": -117.24424438,
       "directions": "Near Cabrillo Memorial Dr, San Diego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=246727",
       "photo_urls": []
@@ -66465,7 +66465,7 @@
     },
     {
       "id": "250182",
-      "title": "Kingsbury House",
+      "title": "Kingsburry House",
       "latitude": 34.37380278,
       "longitude": -118.52324722,
       "directions": "Near Newhall Avenue, Santa Clarita, ",
@@ -70752,7 +70752,7 @@
       "title": "CDR Clyde Everett Lassen, USN (Ret)",
       "latitude": 32.69999313,
       "longitude": -117.18378555,
-      "directions": "On Third Street, San Diego, (On the right",
+      "directions": "On Third Street, Coronado, (On the right",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=266500",
       "photo_urls": []
     },
@@ -71613,7 +71613,7 @@
     },
     {
       "id": "272076",
-      "title": "The Bok Bok Man",
+      "title": "&#25171;&#26356; The Bok Bok Man &#26356;&#22827;",
       "latitude": 38.25100109,
       "longitude": -121.50973015,
       "directions": "On Main Street, Walnut Grove, (On the right when traveling north)",
@@ -75025,9 +75025,9 @@
     {
       "id": "285045",
       "title": "PSA Flight 182",
-      "latitude": 32.73446552,
-      "longitude": -117.1243975,
-      "directions": "Near Nutmeg Street, San Diego, ",
+      "latitude": 32.73556618,
+      "longitude": -117.12430029,
+      "directions": "On Palm Street, San Diego, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=285045",
       "photo_urls": []
     },
@@ -75198,7 +75198,7 @@
       "title": "Ivanpah Solar Electric Generating System",
       "latitude": 35.60322222,
       "longitude": -115.387025,
-      "directions": "Near Fashion Outlet Way, near Primm, ",
+      "directions": "Near Primm Boulevard, near Ivanpah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=285839",
       "photo_urls": []
     },
@@ -77777,12 +77777,93 @@
       "photo_urls": []
     },
     {
+      "id": "294297",
+      "title": "Los Angeles Aqueduct Filtration Plant",
+      "latitude": 34.30580915,
+      "longitude": -118.48680537,
+      "directions": "Near Sepulveda Boulevard, Los Angeles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294297",
+      "photo_urls": []
+    },
+    {
       "id": "29431",
       "title": "The Jimmy Doolittle Pier – Alameda Naval Air Station",
       "latitude": 37.772267,
       "longitude": -122.300963,
       "directions": "Near Hornet Avenue, Alameda, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29431",
+      "photo_urls": []
+    },
+    {
+      "id": "294316",
+      "title": "Isidore and Marie Claire Camou",
+      "latitude": 33.97616111,
+      "longitude": -117.34198889,
+      "directions": "Near University Avenue, Riverside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294316",
+      "photo_urls": []
+    },
+    {
+      "id": "294317",
+      "title": "Farm House Motel",
+      "latitude": 33.97587778,
+      "longitude": -117.34211111,
+      "directions": "On University Avenue, Riverside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294317",
+      "photo_urls": []
+    },
+    {
+      "id": "294335",
+      "title": "X-1E",
+      "latitude": 34.950522,
+      "longitude": -117.88800062,
+      "directions": "On Walker Avenue, Edwards AFB, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294335",
+      "photo_urls": []
+    },
+    {
+      "id": "294424",
+      "title": "Joshua Tree Retreat Center - Institute of Mentalphysics",
+      "latitude": 34.13589475,
+      "longitude": -116.36253356,
+      "directions": "Near 29 Palms Highway, Yucca Valley, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294424",
+      "photo_urls": []
+    },
+    {
+      "id": "294434",
+      "title": "California Eagle Building",
+      "latitude": 34.00969325,
+      "longitude": -118.25662684,
+      "directions": "On Central Avenue, Los Angeles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294434",
+      "photo_urls": []
+    },
+    {
+      "id": "294505",
+      "title": "William S. Hart",
+      "latitude": 34.37591667,
+      "longitude": -118.52638333,
+      "directions": "Near Newhall Avenue, Santa Clarita, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294505",
+      "photo_urls": []
+    },
+    {
+      "id": "294520",
+      "title": "La Puerta",
+      "latitude": 34.36455278,
+      "longitude": -118.50064722,
+      "directions": "On Newhall Avenue, Santa Clarita, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294520",
+      "photo_urls": []
+    },
+    {
+      "id": "294573",
+      "title": "Henness Pass Road - Oak Tree Ranch",
+      "latitude": 39.35480971,
+      "longitude": -121.06452905,
+      "directions": "On Oak Tree Road, North san juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294573",
       "photo_urls": []
     },
     {
@@ -77795,12 +77876,48 @@
       "photo_urls": []
     },
     {
+      "id": "294674",
+      "title": "Moai from Easter Island",
+      "latitude": 34.27393567,
+      "longitude": -118.46151931,
+      "directions": "Near San Fernando Mission Boulevard, Los Angeles, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294674",
+      "photo_urls": []
+    },
+    {
       "id": "29468",
       "title": "Von Schmidt State Boundary Monument",
       "latitude": 35.01424167,
       "longitude": -114.66181667,
       "directions": "On Needles Highway, near Needles, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29468",
+      "photo_urls": []
+    },
+    {
+      "id": "294749",
+      "title": "Legacy Park",
+      "latitude": 34.03641111,
+      "longitude": -118.68816389,
+      "directions": "On Civic Center Way, Malibu, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294749",
+      "photo_urls": []
+    },
+    {
+      "id": "294847",
+      "title": "Firefighters Memorial",
+      "latitude": 37.95691943,
+      "longitude": -121.293118,
+      "directions": "Near North Center Street, Stockton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294847",
+      "photo_urls": []
+    },
+    {
+      "id": "294916",
+      "title": "La Playa Trail",
+      "latitude": 32.74845,
+      "longitude": -117.20703056,
+      "directions": "On Rosecrans Street, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294916",
       "photo_urls": []
     },
     {
@@ -77813,12 +77930,39 @@
       "photo_urls": []
     },
     {
+      "id": "295063",
+      "title": "Anza-Borrego Desert State Park",
+      "latitude": 33.25804625,
+      "longitude": -116.40642007,
+      "directions": "On Palm Canyon Drive, Borrego Springs, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295063",
+      "photo_urls": []
+    },
+    {
+      "id": "295066",
+      "title": "Elmer C. Otto",
+      "latitude": 32.73388038,
+      "longitude": -117.14838939,
+      "directions": "Near Zoo Place, San Diego, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295066",
+      "photo_urls": []
+    },
+    {
       "id": "2951",
       "title": "McGee Mountain Rope Tow #34",
       "latitude": 37.59085,
       "longitude": -118.79228333,
       "directions": "On Crowley Lake Drive, Mammoth Lakes, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2951",
+      "photo_urls": []
+    },
+    {
+      "id": "295154",
+      "title": "Theodor Seuss Geisel Memorial",
+      "latitude": 32.88081797,
+      "longitude": -117.23786057,
+      "directions": "Near Hopkins Drive, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295154",
       "photo_urls": []
     },
     {
@@ -77831,6 +77975,24 @@
       "photo_urls": []
     },
     {
+      "id": "295212",
+      "title": "Robinson-Rose Building",
+      "latitude": 32.75526111,
+      "longitude": -117.20118611,
+      "directions": "On Rosecrans Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295212",
+      "photo_urls": []
+    },
+    {
+      "id": "295218",
+      "title": "Oldest Pepper Tree in California",
+      "latitude": 33.23220556,
+      "longitude": -117.32034167,
+      "directions": "On Mission Avenue, Oceanside, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295218",
+      "photo_urls": []
+    },
+    {
       "id": "2953",
       "title": "Owensville",
       "latitude": 37.3996,
@@ -77840,12 +78002,66 @@
       "photo_urls": []
     },
     {
+      "id": "295365",
+      "title": "Trails Through Time",
+      "latitude": 34.12073611,
+      "longitude": -117.15148889,
+      "directions": "On Shelton Trail, Highland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295365",
+      "photo_urls": []
+    },
+    {
+      "id": "295366",
+      "title": "Point of Beginning",
+      "latitude": 34.12083056,
+      "longitude": -117.15185556,
+      "directions": "On Havenwood Lane, Highland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295366",
+      "photo_urls": []
+    },
+    {
+      "id": "295367",
+      "title": "Spruce Street Suspension Footbridge",
+      "latitude": 32.73879074,
+      "longitude": -117.16543936,
+      "directions": "On Spruce Street, San Diego, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295367",
+      "photo_urls": []
+    },
+    {
+      "id": "295368",
+      "title": "Aurantia Park",
+      "latitude": 34.11073036,
+      "longitude": -117.15558471,
+      "directions": "Near Greenspot Road, Highland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295368",
+      "photo_urls": []
+    },
+    {
       "id": "2954",
       "title": "Camp Independence",
       "latitude": 36.83318333,
       "longitude": -118.22256667,
       "directions": "On Shabbell Lane, near Independence, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2954",
+      "photo_urls": []
+    },
+    {
+      "id": "295430",
+      "title": "Lassen County Courthouse",
+      "latitude": 40.416208,
+      "longitude": -120.663036,
+      "directions": "On South Lassen Street, Susanville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295430",
+      "photo_urls": []
+    },
+    {
+      "id": "295465",
+      "title": "Quince Street Footbridge",
+      "latitude": 32.73666667,
+      "longitude": -117.16223889,
+      "directions": "On Quince Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295465",
       "photo_urls": []
     },
     {
@@ -77876,12 +78092,75 @@
       "photo_urls": []
     },
     {
+      "id": "295503",
+      "title": "Beyond Their Known World",
+      "latitude": 32.67391111,
+      "longitude": -117.23969167,
+      "directions": "On Cabrillo Memorial Drive, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295503",
+      "photo_urls": []
+    },
+    {
+      "id": "295510",
+      "title": "Ears to the Sea, Eyes on the Weather",
+      "latitude": 32.67325556,
+      "longitude": -117.24115833,
+      "directions": "On Event Bluff Trail, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295510",
+      "photo_urls": []
+    },
+    {
+      "id": "295513",
+      "title": "First Avenue Bridge",
+      "latitude": 32.73431111,
+      "longitude": -117.16391667,
+      "directions": "On First Avenue, San Diego, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295513",
+      "photo_urls": []
+    },
+    {
+      "id": "295518",
+      "title": "Belmont Park",
+      "latitude": 32.77092778,
+      "longitude": -117.25249444,
+      "directions": "Near Ocean Front Walk, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295518",
+      "photo_urls": []
+    },
+    {
+      "id": "295573",
+      "title": "Fort Rosecrans National Cemetery",
+      "latitude": 32.68883056,
+      "longitude": -117.24479722,
+      "directions": "Near Cabrillo Memorial Drive, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295573",
+      "photo_urls": []
+    },
+    {
+      "id": "295595",
+      "title": "Willie Boy",
+      "latitude": 34.2919044,
+      "longitude": -116.53741497,
+      "directions": "Near Old Woman Springs Road (State Route 247) , near Homestead Valley, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295595",
+      "photo_urls": []
+    },
+    {
       "id": "2956",
       "title": "Inyo County Courthouse",
       "latitude": 36.80358333,
       "longitude": -118.19978333,
       "directions": "On North Edwards Street (U.S. 395) , Independence, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2956",
+      "photo_urls": []
+    },
+    {
+      "id": "295640",
+      "title": "Embracing Peace",
+      "latitude": 32.71288333,
+      "longitude": -117.17517222,
+      "directions": "On Tuna Lane, San Diego, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295640",
       "photo_urls": []
     },
     {
@@ -77894,12 +78173,111 @@
       "photo_urls": []
     },
     {
+      "id": "295801",
+      "title": "Bonnie Keebler Harris Grave",
+      "latitude": 35.11635809,
+      "longitude": -116.45101303,
+      "directions": "Near Powerline Road, near Afton Canyon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295801",
+      "photo_urls": []
+    },
+    {
       "id": "29581",
       "title": "Davis-Byrne Building",
       "latitude": 37.86408023,
       "longitude": -122.2660826,
       "directions": "On Dwight Way, Berkeley, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29581",
+      "photo_urls": []
+    },
+    {
+      "id": "295957",
+      "title": "Waldo Dean Waterman",
+      "latitude": 32.73271944,
+      "longitude": -117.16545,
+      "directions": "On Maple Street, San Diego, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295957",
+      "photo_urls": []
+    },
+    {
+      "id": "295976",
+      "title": "St. Augustine and His Heritage",
+      "latitude": 32.73402533,
+      "longitude": -117.12369894,
+      "directions": "On Nutmeg Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295976",
+      "photo_urls": []
+    },
+    {
+      "id": "295977",
+      "title": "McConaughy House",
+      "latitude": 32.75361389,
+      "longitude": -117.19231389,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295977",
+      "photo_urls": []
+    },
+    {
+      "id": "295979",
+      "title": "Senlis Cottage",
+      "latitude": 32.75402342,
+      "longitude": -117.19316988,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295979",
+      "photo_urls": []
+    },
+    {
+      "id": "295980",
+      "title": "Sherman-Gilbert House",
+      "latitude": 32.753925,
+      "longitude": -117.19287222,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295980",
+      "photo_urls": []
+    },
+    {
+      "id": "295981",
+      "title": "Bushyhead House",
+      "latitude": 32.75385658,
+      "longitude": -117.19274707,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295981",
+      "photo_urls": []
+    },
+    {
+      "id": "295982",
+      "title": "Christian House",
+      "latitude": 32.75379712,
+      "longitude": -117.19253329,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295982",
+      "photo_urls": []
+    },
+    {
+      "id": "295983",
+      "title": "Burton House",
+      "latitude": 32.75371173,
+      "longitude": -117.19281365,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295983",
+      "photo_urls": []
+    },
+    {
+      "id": "295984",
+      "title": "Temple Beth Israel",
+      "latitude": 32.75383761,
+      "longitude": -117.19313854,
+      "directions": "On Heritage Park Row, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295984",
+      "photo_urls": []
+    },
+    {
+      "id": "296044",
+      "title": "First Working Laser",
+      "latitude": 34.04275833,
+      "longitude": -118.69594444,
+      "directions": "Near Malibu Canyon Road, Malibu, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296044",
       "photo_urls": []
     },
     {
@@ -77912,12 +78290,282 @@
       "photo_urls": []
     },
     {
+      "id": "296121",
+      "title": "Cooper Adobe",
+      "latitude": 36.59734246,
+      "longitude": -121.89483021,
+      "directions": "Near Munras Avenue, Monterey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296121",
+      "photo_urls": []
+    },
+    {
+      "id": "296139",
+      "title": "Custom House",
+      "latitude": 36.60301148,
+      "longitude": -121.89335025,
+      "directions": "On Monterey Peninsula Recreational Trail, Monterey, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296139",
+      "photo_urls": []
+    },
+    {
+      "id": "296147",
+      "title": "1141 North Chester Ave",
+      "latitude": 34.16570556,
+      "longitude": -118.12469444,
+      "directions": "On North Chester Avenue, Pasadena, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296147",
+      "photo_urls": []
+    },
+    {
+      "id": "296160",
+      "title": "East Vale School House",
+      "latitude": 33.94635042,
+      "longitude": -117.58416769,
+      "directions": "On Harrison Avenue, Eastvale, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296160",
+      "photo_urls": []
+    },
+    {
+      "id": "296161",
+      "title": "Hacienda at Fuller Ranch",
+      "latitude": 33.9408543,
+      "longitude": -117.58827109,
+      "directions": "Near Dearborn Street, Eastvale, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296161",
+      "photo_urls": []
+    },
+    {
+      "id": "296238",
+      "title": "The Orchard",
+      "latitude": 36.5972457,
+      "longitude": -121.89495083,
+      "directions": "Near Munras Avenue, Monterey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296238",
+      "photo_urls": []
+    },
+    {
+      "id": "296241",
+      "title": "The Barns",
+      "latitude": 36.5972545,
+      "longitude": -121.89513355,
+      "directions": "Near Munras Avenue, Monterey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296241",
+      "photo_urls": []
+    },
+    {
+      "id": "296243",
+      "title": "The League of Wives",
+      "latitude": 32.68402606,
+      "longitude": -117.18081012,
+      "directions": "Near Star Park Circle, Coronado, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296243",
+      "photo_urls": []
+    },
+    {
+      "id": "296244",
+      "title": "Laundry",
+      "latitude": 32.6800521,
+      "longitude": -117.17679833,
+      "directions": "Near Orange Avenue, Coronado, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296244",
+      "photo_urls": []
+    },
+    {
+      "id": "296245",
+      "title": "The Oxford",
+      "latitude": 32.67991667,
+      "longitude": -117.17649722,
+      "directions": "Near Orange Avenue, Coronado, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296245",
+      "photo_urls": []
+    },
+    {
+      "id": "296246",
+      "title": "Hotel del Coronado",
+      "latitude": 32.68049959,
+      "longitude": -117.17776885,
+      "directions": "Near Orange Avenue, Coronado, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296246",
+      "photo_urls": []
+    },
+    {
+      "id": "296247",
+      "title": "Naiad Queen",
+      "latitude": 32.68091944,
+      "longitude": -117.17842222,
+      "directions": "On Orange Avenue, Coronado, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296247",
+      "photo_urls": []
+    },
+    {
+      "id": "296249",
+      "title": "The Red House",
+      "latitude": 36.59728969,
+      "longitude": -121.89509913,
+      "directions": "Near Munras Avenue, Monterey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296249",
+      "photo_urls": []
+    },
+    {
+      "id": "296342",
+      "title": "Crespi Pond",
+      "latitude": 36.63670983,
+      "longitude": -121.93214963,
+      "directions": "On Ocean View Boulevard, Pacific Grove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296342",
+      "photo_urls": []
+    },
+    {
+      "id": "296346",
+      "title": "Verna House",
+      "latitude": 32.7526606,
+      "longitude": -117.19443469,
+      "directions": "On San Diego Avenue, San Diego, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296346",
+      "photo_urls": []
+    },
+    {
       "id": "29637",
       "title": "The Life and Times of John Bidwell",
       "latitude": 39.732736,
       "longitude": -121.84346437,
       "directions": "Near Esplanade, Chico, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29637",
+      "photo_urls": []
+    },
+    {
+      "id": "296373",
+      "title": "The Great Stone Church",
+      "latitude": 33.50202809,
+      "longitude": -117.66214039,
+      "directions": "Near Old Mission Road, San Juan Capistrano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296373",
+      "photo_urls": []
+    },
+    {
+      "id": "296375",
+      "title": "James \"Yankee Jim\" Robinson",
+      "latitude": 32.75277778,
+      "longitude": -117.19454167,
+      "directions": "On San Diego Avenue, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296375",
+      "photo_urls": []
+    },
+    {
+      "id": "296377",
+      "title": "The Whaley House Courtroom",
+      "latitude": 32.75291648,
+      "longitude": -117.19464666,
+      "directions": "Near San Diego Avenue, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296377",
+      "photo_urls": []
+    },
+    {
+      "id": "296379",
+      "title": "Derby-Pendleton House",
+      "latitude": 32.75309727,
+      "longitude": -117.19447469,
+      "directions": "On Harney Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296379",
+      "photo_urls": []
+    },
+    {
+      "id": "296381",
+      "title": "La Casa de Pico",
+      "latitude": 32.75512778,
+      "longitude": -117.19694444,
+      "directions": "Near Juan Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296381",
+      "photo_urls": []
+    },
+    {
+      "id": "296384",
+      "title": "La Casa de Alvarado",
+      "latitude": 32.7548112,
+      "longitude": -117.19698416,
+      "directions": "Near Calhoun Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296384",
+      "photo_urls": []
+    },
+    {
+      "id": "296410",
+      "title": "Casa del Oro Garden",
+      "latitude": 36.60287979,
+      "longitude": -121.89510456,
+      "directions": "Near Scott Street, Monterey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296410",
+      "photo_urls": []
+    },
+    {
+      "id": "296416",
+      "title": "Kearney Trail",
+      "latitude": 32.75456341,
+      "longitude": -117.19693191,
+      "directions": "On Calhoun Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296416",
+      "photo_urls": []
+    },
+    {
+      "id": "296418",
+      "title": "João Rodrigues Cabrilho 1542",
+      "latitude": 32.67399589,
+      "longitude": -117.23906775,
+      "directions": "Near Cabrillo Memorial Drive, San Diego, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296418",
+      "photo_urls": []
+    },
+    {
+      "id": "296419",
+      "title": "In Homage to the Spanish Expedition",
+      "latitude": 32.67399814,
+      "longitude": -117.23908975,
+      "directions": "Near Cabrillo Memorial Drive, San Diego, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296419",
+      "photo_urls": []
+    },
+    {
+      "id": "296420",
+      "title": "Harbor Lights",
+      "latitude": 32.67382483,
+      "longitude": -117.24027793,
+      "directions": "Near Cabrillo Memorial Drive, San Diego, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296420",
+      "photo_urls": []
+    },
+    {
+      "id": "296421",
+      "title": "Old Point Loma Lighthouse",
+      "latitude": 32.67257915,
+      "longitude": -117.24078263,
+      "directions": "Near Humphreys Road, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296421",
+      "photo_urls": []
+    },
+    {
+      "id": "296422",
+      "title": "Point Loma - The Early Years",
+      "latitude": 32.67257994,
+      "longitude": -117.24074675,
+      "directions": "Near Humphreys Road, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296422",
+      "photo_urls": []
+    },
+    {
+      "id": "296423",
+      "title": "Point Loma Lighthouse",
+      "latitude": 32.67261489,
+      "longitude": -117.24079948,
+      "directions": "Near Humphreys Road, San Diego, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296423",
+      "photo_urls": []
+    },
+    {
+      "id": "296432",
+      "title": "High and Dry",
+      "latitude": 32.6720933,
+      "longitude": -117.24086918,
+      "directions": "Near Cabrillo Memorial Drive, San Diego, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296432",
       "photo_urls": []
     },
     {
@@ -77930,6 +78578,96 @@
       "photo_urls": []
     },
     {
+      "id": "296441",
+      "title": "Pioneer Emigrant Trail",
+      "latitude": 39.27548122,
+      "longitude": -121.02249706,
+      "directions": "On Airport Road, Nevada City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296441",
+      "photo_urls": []
+    },
+    {
+      "id": "296453",
+      "title": "Now and Then",
+      "latitude": 32.67479416,
+      "longitude": -117.23718304,
+      "directions": "On Bayside Trail, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296453",
+      "photo_urls": []
+    },
+    {
+      "id": "296503",
+      "title": "Pantages Theatre",
+      "latitude": 34.10175737,
+      "longitude": -118.32587222,
+      "directions": "On Hollywood Boulevard, Los Angeles, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296503",
+      "photo_urls": []
+    },
+    {
+      "id": "296505",
+      "title": "Sutter’s Hock Farm",
+      "latitude": 39.18111506,
+      "longitude": -121.62764933,
+      "directions": "On Live Oak Boulevard, Berg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296505",
+      "photo_urls": []
+    },
+    {
+      "id": "296511",
+      "title": "NBC Radio City",
+      "latitude": 34.09865833,
+      "longitude": -118.326575,
+      "directions": "On Vine Street, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296511",
+      "photo_urls": []
+    },
+    {
+      "id": "296526",
+      "title": "Hollywood Brown Derby",
+      "latitude": 34.10071818,
+      "longitude": -118.32656834,
+      "directions": "On Vine Street, Los Angeles, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296526",
+      "photo_urls": []
+    },
+    {
+      "id": "296527",
+      "title": "Vine Street Theatre",
+      "latitude": 34.10022801,
+      "longitude": -118.32682749,
+      "directions": "On Vine Street, Los Angeles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296527",
+      "photo_urls": []
+    },
+    {
+      "id": "296528",
+      "title": "Providing Year-Round Water",
+      "latitude": 32.83933611,
+      "longitude": -117.04314444,
+      "directions": "On Father Junipero Serra Trail, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296528",
+      "photo_urls": []
+    },
+    {
+      "id": "296529",
+      "title": "Old Mission Dam",
+      "latitude": 32.83939444,
+      "longitude": -117.04276944,
+      "directions": "Near Father Junipero Serra Trail, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296529",
+      "photo_urls": []
+    },
+    {
+      "id": "296574",
+      "title": "China Rock",
+      "latitude": 36.60598464,
+      "longitude": -121.95890273,
+      "directions": "On 17 Mile Drive, Del Monte Forest, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296574",
+      "photo_urls": []
+    },
+    {
       "id": "29659",
       "title": "Chico Cemetery G.A.R. Monument",
       "latitude": 39.73546698,
@@ -77939,12 +78677,84 @@
       "photo_urls": []
     },
     {
+      "id": "296607",
+      "title": "Hippolyte Bouchard Monument / Monumento a Hipólito Bouchard",
+      "latitude": 36.60598333,
+      "longitude": -121.89568333,
+      "directions": "On Corporal Ewing Road, Monterey, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296607",
+      "photo_urls": []
+    },
+    {
+      "id": "296617",
+      "title": "Point Joe",
+      "latitude": 36.60977307,
+      "longitude": -121.95712843,
+      "directions": "On 17 Mile Drive, Del Monte Forest, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296617",
+      "photo_urls": []
+    },
+    {
+      "id": "296618",
+      "title": "Bird Rock",
+      "latitude": 36.59157021,
+      "longitude": -121.9643495,
+      "directions": "On Bird Rock Road, Del Monte Forest, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296618",
+      "photo_urls": []
+    },
+    {
       "id": "29663",
       "title": "The Dogtown Nugget",
       "latitude": 39.80405,
       "longitude": -121.57865,
       "directions": "On Old Skyway Road, Magalia, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29663",
+      "photo_urls": []
+    },
+    {
+      "id": "296653",
+      "title": "Twenty-Mule Team Borax Wagon",
+      "latitude": 35.02970833,
+      "longitude": -117.68667222,
+      "directions": "On Borax Road, Boron, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296653",
+      "photo_urls": []
+    },
+    {
+      "id": "296654",
+      "title": "Saint Thomas Aquinas Catholic Church",
+      "latitude": 34.44773179,
+      "longitude": -119.24776328,
+      "directions": "On West Ojai Avenue, Ojai, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296654",
+      "photo_urls": []
+    },
+    {
+      "id": "296655",
+      "title": "Nordhoff School",
+      "latitude": 34.44895343,
+      "longitude": -119.24518403,
+      "directions": "On Matilija Street, Ojai, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296655",
+      "photo_urls": []
+    },
+    {
+      "id": "296658",
+      "title": "Miner's Cabin",
+      "latitude": 35.02971111,
+      "longitude": -117.68667222,
+      "directions": "On Borax Road, Boron, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296658",
+      "photo_urls": []
+    },
+    {
+      "id": "296660",
+      "title": "Rigi-Gated Fumigator",
+      "latitude": 34.35467778,
+      "longitude": -119.06401944,
+      "directions": "On Santa Barbara Street, Santa Paula, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296660",
       "photo_urls": []
     },
     {
@@ -77966,12 +78776,138 @@
       "photo_urls": []
     },
     {
+      "id": "296761",
+      "title": "Crocker Grove",
+      "latitude": 36.57667652,
+      "longitude": -121.97197557,
+      "directions": "On 17 Mile Drive, Del Monte Forest, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296761",
+      "photo_urls": []
+    },
+    {
+      "id": "296764",
+      "title": "Monterey cypress, naturally",
+      "latitude": 36.57663723,
+      "longitude": -121.97187844,
+      "directions": "On 17 Mile Drive, Del Monte Forest, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296764",
+      "photo_urls": []
+    },
+    {
+      "id": "296768",
+      "title": "Pebble Beach Golf Links",
+      "latitude": 36.56993764,
+      "longitude": -121.9495275,
+      "directions": "On 17 Mile Drive, Del Monte Forest, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296768",
+      "photo_urls": []
+    },
+    {
+      "id": "296770",
+      "title": "Ford Meadow",
+      "latitude": 36.56835644,
+      "longitude": -121.92184622,
+      "directions": "On 17 Mile Drive, Carmel-by-the-Sea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296770",
+      "photo_urls": []
+    },
+    {
+      "id": "296778",
+      "title": "September 11, 2001 Memorial",
+      "latitude": 36.55555244,
+      "longitude": -121.92079637,
+      "directions": "Near Mission Street, Carmel-by-the-Sea, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296778",
+      "photo_urls": []
+    },
+    {
+      "id": "296793",
+      "title": "Gelsinger's",
+      "latitude": 34.20520336,
+      "longitude": -118.22576483,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296793",
+      "photo_urls": []
+    },
+    {
       "id": "29682",
       "title": "Honey Run Covered Bridge / Gold Dredge",
       "latitude": 39.72863333,
       "longitude": -121.70388333,
       "directions": "On Honey Run Road, near Chico, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29682",
+      "photo_urls": []
+    },
+    {
+      "id": "296845",
+      "title": "Juan Bautista de Anza Expedition Campsite",
+      "latitude": 37.0910545,
+      "longitude": -121.63889649,
+      "directions": "Near Santa Teresa Boulevard, Morgan Hill, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296845",
+      "photo_urls": []
+    },
+    {
+      "id": "296847",
+      "title": "Carmel North Dunes Habitat Restoration",
+      "latitude": 36.55523667,
+      "longitude": -121.92802354,
+      "directions": "On Ocean Avenue, Carmel-by-the-Sea, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296847",
+      "photo_urls": []
+    },
+    {
+      "id": "296852",
+      "title": "The AT&T Pebble Beach Pro-Am",
+      "latitude": 36.5692666,
+      "longitude": -121.94966697,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296852",
+      "photo_urls": []
+    },
+    {
+      "id": "296869",
+      "title": "Safeway",
+      "latitude": 34.20523384,
+      "longitude": -118.22680848,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296869",
+      "photo_urls": []
+    },
+    {
+      "id": "296870",
+      "title": "Shopping Bag",
+      "latitude": 34.20522777,
+      "longitude": -118.22696689,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296870",
+      "photo_urls": []
+    },
+    {
+      "id": "296871",
+      "title": "Baskin-Robbins",
+      "latitude": 34.20524007,
+      "longitude": -118.22729208,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296871",
+      "photo_urls": []
+    },
+    {
+      "id": "296918",
+      "title": "No More Parking Meters",
+      "latitude": 34.20635349,
+      "longitude": -118.23067825,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296918",
+      "photo_urls": []
+    },
+    {
+      "id": "296919",
+      "title": "Montrose Shopping Park Redevelopment",
+      "latitude": 34.20669444,
+      "longitude": -118.23158889,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296919",
       "photo_urls": []
     },
     {
@@ -77984,6 +78920,24 @@
       "photo_urls": []
     },
     {
+      "id": "296920",
+      "title": "Montrose Shopping Park Association",
+      "latitude": 34.20674444,
+      "longitude": -118.231225,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296920",
+      "photo_urls": []
+    },
+    {
+      "id": "296921",
+      "title": "Honolulu Avenue",
+      "latitude": 34.20655,
+      "longitude": -118.23056667,
+      "directions": "On Honolulu Avenue, Glendale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296921",
+      "photo_urls": []
+    },
+    {
       "id": "29709",
       "title": "Centerville Cemetery",
       "latitude": 39.79953333,
@@ -77993,12 +78947,210 @@
       "photo_urls": []
     },
     {
+      "id": "297094",
+      "title": "North Gate of City of Anaheim",
+      "latitude": 33.84398333,
+      "longitude": -117.91685,
+      "directions": "On North Anaheim Boulevard, Anaheim, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297094",
+      "photo_urls": []
+    },
+    {
+      "id": "297099",
+      "title": "Felton Heritage Tree",
+      "latitude": 37.05206468,
+      "longitude": -122.07338065,
+      "directions": "On Highway 9, Felton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297099",
+      "photo_urls": []
+    },
+    {
       "id": "29711",
       "title": "Solano Hotel",
       "latitude": 38.0482822,
       "longitude": -122.1597678,
       "directions": "On First Street, Benicia, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29711",
+      "photo_urls": []
+    },
+    {
+      "id": "297124",
+      "title": "Betty Jameson",
+      "latitude": 36.56931843,
+      "longitude": -121.94967874,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297124",
+      "photo_urls": []
+    },
+    {
+      "id": "297125",
+      "title": "Grace Lenczyk",
+      "latitude": 36.5692968,
+      "longitude": -121.94966583,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297125",
+      "photo_urls": []
+    },
+    {
+      "id": "297126",
+      "title": "Jack Nicklaus",
+      "latitude": 36.56930434,
+      "longitude": -121.94967492,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297126",
+      "photo_urls": []
+    },
+    {
+      "id": "297127",
+      "title": "Tom Watson",
+      "latitude": 36.56931001,
+      "longitude": -121.94967775,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297127",
+      "photo_urls": []
+    },
+    {
+      "id": "297128",
+      "title": "David Gossett",
+      "latitude": 36.56930769,
+      "longitude": -121.94968012,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297128",
+      "photo_urls": []
+    },
+    {
+      "id": "297129",
+      "title": "Graeme McDowell",
+      "latitude": 36.56931527,
+      "longitude": -121.94967774,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297129",
+      "photo_urls": []
+    },
+    {
+      "id": "297130",
+      "title": "Gary Woodland",
+      "latitude": 36.56931896,
+      "longitude": -121.94967696,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297130",
+      "photo_urls": []
+    },
+    {
+      "id": "297132",
+      "title": "San Simeon Bay is a Special Place",
+      "latitude": 35.64153337,
+      "longitude": -121.18800551,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297132",
+      "photo_urls": []
+    },
+    {
+      "id": "297155",
+      "title": "History of San Simeon Bay",
+      "latitude": 35.64262263,
+      "longitude": -121.18783891,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297155",
+      "photo_urls": []
+    },
+    {
+      "id": "297168",
+      "title": "Harrison Johnston",
+      "latitude": 36.56931141,
+      "longitude": -121.94968964,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297168",
+      "photo_urls": []
+    },
+    {
+      "id": "297169",
+      "title": "Robert \"Skee\" Riegel",
+      "latitude": 36.56931348,
+      "longitude": -121.94968797,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297169",
+      "photo_urls": []
+    },
+    {
+      "id": "297171",
+      "title": "Jack Nicklaus",
+      "latitude": 36.56931138,
+      "longitude": -121.9496767,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297171",
+      "photo_urls": []
+    },
+    {
+      "id": "297174",
+      "title": "Lanny Wadkins",
+      "latitude": 36.56930366,
+      "longitude": -121.94968541,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297174",
+      "photo_urls": []
+    },
+    {
+      "id": "297274",
+      "title": "DeRose Winery",
+      "latitude": 36.74912006,
+      "longitude": -121.3846363,
+      "directions": "Near Cienega Road, San Benito County, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297274",
+      "photo_urls": []
+    },
+    {
+      "id": "297284",
+      "title": "Al the Wop's / Bing Lee's Noodle House",
+      "latitude": 38.25056259,
+      "longitude": -121.50959752,
+      "directions": "On Main Street, Walnut Grove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297284",
+      "photo_urls": []
+    },
+    {
+      "id": "297324",
+      "title": "The Italian Heritage Farmhouse",
+      "latitude": 35.392424,
+      "longitude": -119.020661,
+      "directions": "On Chester Avenue, Bakersfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297324",
+      "photo_urls": []
+    },
+    {
+      "id": "297330",
+      "title": "Land Office",
+      "latitude": 35.393213,
+      "longitude": -119.020332,
+      "directions": "On Chester Avenue, Bakersfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297330",
+      "photo_urls": []
+    },
+    {
+      "id": "297336",
+      "title": "Sonora Street Service Station",
+      "latitude": 35.393799,
+      "longitude": -119.021958,
+      "directions": "On Chester Avenue, Bakersfield, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297336",
+      "photo_urls": []
+    },
+    {
+      "id": "297338",
+      "title": "The Caretta Bar",
+      "latitude": 35.392625,
+      "longitude": -119.021177,
+      "directions": "On Chester Avenue, Bakersfield, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297338",
+      "photo_urls": []
+    },
+    {
+      "id": "297339",
+      "title": "The Beardsley Bell",
+      "latitude": 35.39276,
+      "longitude": -119.021735,
+      "directions": "On Chester Avenue, Bakersfield, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297339",
       "photo_urls": []
     },
     {
@@ -78020,12 +79172,57 @@
       "photo_urls": []
     },
     {
+      "id": "297380",
+      "title": "Tom Kite",
+      "latitude": 36.56929855,
+      "longitude": -121.94967209,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297380",
+      "photo_urls": []
+    },
+    {
+      "id": "297382",
+      "title": "Tiger Woods",
+      "latitude": 36.56929561,
+      "longitude": -121.94967013,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297382",
+      "photo_urls": []
+    },
+    {
+      "id": "297383",
+      "title": "Viktor Hovland",
+      "latitude": 36.56929179,
+      "longitude": -121.94966565,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297383",
+      "photo_urls": []
+    },
+    {
+      "id": "297384",
+      "title": "Allisen Corpuz",
+      "latitude": 36.56929147,
+      "longitude": -121.94966689,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297384",
+      "photo_urls": []
+    },
+    {
       "id": "29745",
       "title": "General John and Annie K. Bidwell Gravesite",
       "latitude": 39.73531667,
       "longitude": -121.8378,
       "directions": "Near Mangrove Avenue, Chico, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29745",
+      "photo_urls": []
+    },
+    {
+      "id": "297537",
+      "title": "Vermont Square Branch Library",
+      "latitude": 33.99984722,
+      "longitude": -118.29591389,
+      "directions": "On 48th Street, Los Angeles, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297537",
       "photo_urls": []
     },
     {
@@ -78038,12 +79235,57 @@
       "photo_urls": []
     },
     {
+      "id": "297611",
+      "title": "Why Portuguese and Spanish Plaques?",
+      "latitude": 32.67404183,
+      "longitude": -117.23905996,
+      "directions": "On Cabrillo Memorial Drive, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297611",
+      "photo_urls": []
+    },
+    {
       "id": "29771",
       "title": "Porter Building",
       "latitude": 36.9090596,
       "longitude": -121.7555361,
       "directions": "On Main Street, Watsonville, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29771",
+      "photo_urls": []
+    },
+    {
+      "id": "297763",
+      "title": "From Whaling to Whale Watching",
+      "latitude": 35.64388046,
+      "longitude": -121.18761144,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297763",
+      "photo_urls": []
+    },
+    {
+      "id": "297767",
+      "title": "Catching a Whale",
+      "latitude": 35.64389974,
+      "longitude": -121.18760928,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297767",
+      "photo_urls": []
+    },
+    {
+      "id": "297771",
+      "title": "La Loma de los Vientos",
+      "latitude": 34.37350705,
+      "longitude": -118.52707806,
+      "directions": "Near Newhall Avenue, Santa Clarita, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297771",
+      "photo_urls": []
+    },
+    {
+      "id": "297772",
+      "title": "Mary Ellen’s Tea Room",
+      "latitude": 34.37362273,
+      "longitude": -118.52733164,
+      "directions": "Near Newhall Avenue, Santa Clarita, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297772",
       "photo_urls": []
     },
     {
@@ -78065,12 +79307,192 @@
       "photo_urls": []
     },
     {
+      "id": "297838",
+      "title": "The Guthrie-Bianchini House",
+      "latitude": 35.56349034,
+      "longitude": -121.08209591,
+      "directions": "On Center Street, Cambria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297838",
+      "photo_urls": []
+    },
+    {
+      "id": "297839",
+      "title": "Santa Rosa Creek",
+      "latitude": 35.5626233,
+      "longitude": -121.08150517,
+      "directions": "Near Hesperian Lane, Cambria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297839",
+      "photo_urls": []
+    },
+    {
+      "id": "297846",
+      "title": "Floor of the Old Mission",
+      "latitude": 33.12995833,
+      "longitude": -116.67815278,
+      "directions": "Near California 79, Santa Ysabel, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297846",
+      "photo_urls": []
+    },
+    {
+      "id": "297851",
+      "title": "Shore Whaling in San Simeon",
+      "latitude": 35.64391329,
+      "longitude": -121.18764383,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297851",
+      "photo_urls": []
+    },
+    {
+      "id": "297852",
+      "title": "Turning Whale Blubber Into Valuable Oil",
+      "latitude": 35.64389283,
+      "longitude": -121.18759833,
+      "directions": "Near Slo San Simeon Road, San Simeon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297852",
+      "photo_urls": []
+    },
+    {
+      "id": "297855",
+      "title": "Angel of the Lost Bells",
+      "latitude": 33.13080191,
+      "longitude": -116.67780359,
+      "directions": "Near California 79, Santa Ysabel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297855",
+      "photo_urls": []
+    },
+    {
+      "id": "297856",
+      "title": "Restored Chinese Temple",
+      "latitude": 35.56324226,
+      "longitude": -121.08160095,
+      "directions": "Near Center Street, Cambria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297856",
+      "photo_urls": []
+    },
+    {
+      "id": "297860",
+      "title": "Historic Mission Cemetery",
+      "latitude": 33.50291238,
+      "longitude": -117.66217141,
+      "directions": "Near Old Mission Road, San Juan Capistrano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297860",
+      "photo_urls": []
+    },
+    {
+      "id": "297862",
+      "title": "Fr. Serra’s Church",
+      "latitude": 33.50269722,
+      "longitude": -117.66230833,
+      "directions": "Near Old Mission Road, San Juan Capistrano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297862",
+      "photo_urls": []
+    },
+    {
+      "id": "297864",
+      "title": "Olive Mill",
+      "latitude": 33.50238333,
+      "longitude": -117.66275,
+      "directions": "Near Old Mission Road, San Juan Capistrano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297864",
+      "photo_urls": []
+    },
+    {
+      "id": "297865",
+      "title": "Kiicha",
+      "latitude": 33.50248056,
+      "longitude": -117.66275833,
+      "directions": "Near Old Mission Road, San Juan Capistrano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297865",
+      "photo_urls": []
+    },
+    {
+      "id": "297866",
+      "title": "Mission San Diego de Alcala",
+      "latitude": 32.78448964,
+      "longitude": -117.10645403,
+      "directions": "On San Diego Mission Road, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297866",
+      "photo_urls": []
+    },
+    {
+      "id": "297867",
+      "title": "El Pico Dining Room",
+      "latitude": 32.75503611,
+      "longitude": -117.19782222,
+      "directions": "Near Wallace Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297867",
+      "photo_urls": []
+    },
+    {
+      "id": "297868",
+      "title": "La Casa de Machado y Wrightington",
+      "latitude": 32.75464435,
+      "longitude": -117.1979454,
+      "directions": "Near San Diego Avenue, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297868",
+      "photo_urls": []
+    },
+    {
+      "id": "297869",
+      "title": "La Casa de Machado y Silvas",
+      "latitude": 32.75444093,
+      "longitude": -117.19764281,
+      "directions": "Near San Diego Avenue, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297869",
+      "photo_urls": []
+    },
+    {
       "id": "2979",
       "title": "Millwood",
       "latitude": 36.72366667,
       "longitude": -118.99195,
       "directions": "On Highway 180, Squaw Valley, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2979",
+      "photo_urls": []
+    },
+    {
+      "id": "297911",
+      "title": "A Presidio Soldier's Home",
+      "latitude": 32.75342846,
+      "longitude": -117.19766003,
+      "directions": "On Congress Street, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297911",
+      "photo_urls": []
+    },
+    {
+      "id": "297927",
+      "title": "Old Town San Diego Timeline",
+      "latitude": 32.75271247,
+      "longitude": -117.19446846,
+      "directions": "On San Diego Avenue, San Diego, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297927",
+      "photo_urls": []
+    },
+    {
+      "id": "298003",
+      "title": "Rand District Cemetery",
+      "latitude": 35.36765148,
+      "longitude": -117.639764,
+      "directions": "On Mountain Wells Avenue, Johannesburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298003",
+      "photo_urls": []
+    },
+    {
+      "id": "298050",
+      "title": "San Fernando Tunnel",
+      "latitude": 34.37493026,
+      "longitude": -118.52371549,
+      "directions": "On Newhall Avenue, Santa Clarita, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298050",
+      "photo_urls": []
+    },
+    {
+      "id": "298073",
+      "title": "Ryan Historic District",
+      "latitude": 36.32201824,
+      "longitude": -116.67180149,
+      "directions": "Near Ryan Road, Ryan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298073",
       "photo_urls": []
     },
     {
@@ -84889,9 +86311,9 @@
     {
       "id": "50544",
       "title": "Sebastian Store",
-      "latitude": 35.64338333,
-      "longitude": -121.19136667,
-      "directions": "On SLO San Simeon Road, San Simeon, (On the right when traveling west)",
+      "latitude": 35.64356421,
+      "longitude": -121.19159948,
+      "directions": "On Slo San Simeon Road, San Simeon, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50544",
       "photo_urls": []
     },
@@ -85764,7 +87186,7 @@
       "title": "Oak Grove Stage Station",
       "latitude": 33.39043333,
       "longitude": -116.7951,
-      "directions": "On State Route 79, Oak Grove, (On the right when traveling south)",
+      "directions": "On State Route 79,, Oak Grove, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51093",
       "photo_urls": []
     },
@@ -85825,8 +87247,8 @@
     {
       "id": "51101",
       "title": "Old Town San Diego",
-      "latitude": 32.7553,
-      "longitude": -117.19746667,
+      "latitude": 32.75503599,
+      "longitude": -117.19775178,
       "directions": "On Wallace Street, San Diego, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51101",
       "photo_urls": []
@@ -86322,16 +87744,16 @@
       "title": "Lloyd T. Lowrey Plaza",
       "latitude": 32.753825,
       "longitude": -117.193325,
-      "directions": "On Heritage Park Row, San Diego, (On the right when traveling east)",
+      "directions": "On Heritage Park Row, San Diego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51787",
       "photo_urls": []
     },
     {
       "id": "51791",
       "title": "William Heath Davis House, 1850",
-      "latitude": 32.71033333,
-      "longitude": -117.16083333,
-      "directions": "On Island Avenue, San Diego, (On the right when traveling east)",
+      "latitude": 32.71056343,
+      "longitude": -117.16076606,
+      "directions": "On Island Avenue, San Diego, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51791",
       "photo_urls": []
     },
@@ -86653,8 +88075,8 @@
     {
       "id": "51993",
       "title": "Junipero Serra Museum",
-      "latitude": 32.759912,
-      "longitude": -117.19356,
+      "latitude": 32.75968434,
+      "longitude": -117.19355837,
       "directions": "On Presidio Drive, San Diego, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51993",
       "photo_urls": []
@@ -99144,7 +100566,7 @@
     },
     {
       "id": "66555",
-      "title": "Hippolyte Bouchard Monument",
+      "title": "Bouchard Monument",
       "latitude": 36.605985,
       "longitude": -121.89568,
       "directions": "Near Corporal Ewing Road, Monterey, ",
@@ -106300,8 +107722,8 @@
     {
       "id": "81694",
       "title": "Point Piedras Blancas, A Recent Colony",
-      "latitude": 35.663573,
-      "longitude": -121.258462,
+      "latitude": 35.66357832,
+      "longitude": -121.25843534,
       "directions": "On Cabrillo Highway (State Route 1) , near San Simeon, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=81694",
       "photo_urls": []
@@ -107533,9 +108955,9 @@
     {
       "id": "83309",
       "title": "Sam Morse",
-      "latitude": 36.569093,
-      "longitude": -121.949679,
-      "directions": "On 17-Mile Drive, Pebble Beach, (On the right when traveling north)",
+      "latitude": 36.56929497,
+      "longitude": -121.94969141,
+      "directions": "Near 17 Mile Drive, Del Monte Forest, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83309",
       "photo_urls": []
     },
@@ -107902,8 +109324,8 @@
     {
       "id": "84997",
       "title": "George White Marston",
-      "latitude": 32.759672,
-      "longitude": -117.193533,
+      "latitude": 32.759536,
+      "longitude": -117.19344108,
       "directions": "On Presidio Drive, San Diego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84997",
       "photo_urls": []
@@ -107964,7 +109386,7 @@
     },
     {
       "id": "8521",
-      "title": "Clifton A. F. Sprague, Vice Admiral, USN",
+      "title": "Clifton A.F. Sprague, Vice Admiral, USN",
       "latitude": 32.71266667,
       "longitude": -117.17408333,
       "directions": "Near West G Street, San Diego, ",
