@@ -3,9 +3,9 @@
   "region_name": "Florida",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.846Z",
-  "source_timestamp": "2026-04-11T19:15:03.846Z",
-  "marker_count": 7605,
+  "generated": "2026-04-24T06:03:32.465Z",
+  "source_timestamp": "2026-04-24T06:03:32.465Z",
+  "marker_count": 7712,
   "markers": [
     {
       "id": "100029",
@@ -5392,8 +5392,8 @@
     {
       "id": "125358",
       "title": "DeSoto Trail",
-      "latitude": 27.52361,
-      "longitude": -82.64453,
+      "latitude": 27.5236956,
+      "longitude": -82.64440778,
       "directions": "On DeSoto Memorial Highway, Bradenton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125358",
       "photo_urls": []
@@ -15573,7 +15573,7 @@
       "title": "Clara C. Frye",
       "latitude": 27.95821,
       "longitude": -82.46819,
-      "directions": "On Spruce Cove, Tampa, (On the right when traveling north)",
+      "directions": "On N Boulevard, Tampa, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151031",
       "photo_urls": []
     },
@@ -54026,12 +54026,39 @@
       "photo_urls": []
     },
     {
+      "id": "292675",
+      "title": "Shinden Garden",
+      "latitude": 26.42854438,
+      "longitude": -80.15732917,
+      "directions": "Near Morikami Park Road, Delray Beach, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292675",
+      "photo_urls": []
+    },
+    {
       "id": "292676",
       "title": "&#27972;&#22303;&#24237;&#22290; / Paradise Garden",
       "latitude": 26.4273252,
       "longitude": -80.1582706,
       "directions": "Near Morikami Park Road, Delray Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292676",
+      "photo_urls": []
+    },
+    {
+      "id": "292678",
+      "title": "Early Rock Garden",
+      "latitude": 26.4268434,
+      "longitude": -80.1581135,
+      "directions": "Near Morikami Park Road, Delray Beach, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292678",
+      "photo_urls": []
+    },
+    {
+      "id": "292679",
+      "title": "Late Rock Garden",
+      "latitude": 26.4266227,
+      "longitude": -80.1580528,
+      "directions": "Near Morikami Park Road, Delray Beach, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292679",
       "photo_urls": []
     },
     {
@@ -54476,12 +54503,948 @@
       "photo_urls": []
     },
     {
+      "id": "294425",
+      "title": "Live Oak",
+      "latitude": 28.38716246,
+      "longitude": -81.53592467,
+      "directions": "On Dixie Drive, Lake Buena Vista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294425",
+      "photo_urls": []
+    },
+    {
+      "id": "294543",
+      "title": "Genie's Lamp",
+      "latitude": 28.3736764,
+      "longitude": -81.55124835,
+      "directions": "On Avenue of the stars, Orlando, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294543",
+      "photo_urls": []
+    },
+    {
+      "id": "294577",
+      "title": "The Legend of Ol' Man Island",
+      "latitude": 28.38715774,
+      "longitude": -81.53591931,
+      "directions": "On Dixie Drive, Lake Buena Vista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294577",
+      "photo_urls": []
+    },
+    {
+      "id": "294621",
+      "title": "African Cemetery at Higgs Beach",
+      "latitude": 24.547424,
+      "longitude": -81.78549,
+      "directions": "On Atlantic Boulevard, Key West, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294621",
+      "photo_urls": []
+    },
+    {
+      "id": "295007",
+      "title": "A Second and Third Life for Belle Haven",
+      "latitude": 27.52972265,
+      "longitude": -82.73475732,
+      "directions": "Near Pine Avenue, Anna Maria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295007",
+      "photo_urls": []
+    },
+    {
+      "id": "295014",
+      "title": "Tabby House on the Seashore",
+      "latitude": 27.52466111,
+      "longitude": -82.64177778,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295014",
+      "photo_urls": []
+    },
+    {
+      "id": "295015",
+      "title": "Uzita",
+      "latitude": 27.52354071,
+      "longitude": -82.64471491,
+      "directions": "On 75th Street Northwest, Bradenton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295015",
+      "photo_urls": []
+    },
+    {
+      "id": "295016",
+      "title": "Back to Angola",
+      "latitude": 27.52504233,
+      "longitude": -82.64087504,
+      "directions": "Near 75th Street Northwest, Palma Sola, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295016",
+      "photo_urls": []
+    },
+    {
+      "id": "295045",
+      "title": "De Soto National Memorial",
+      "latitude": 27.52366711,
+      "longitude": -82.64456024,
+      "directions": "On Landings Circle, Bradenton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295045",
+      "photo_urls": []
+    },
+    {
+      "id": "295049",
+      "title": "People of Place",
+      "latitude": 27.52383746,
+      "longitude": -82.64463152,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295049",
+      "photo_urls": []
+    },
+    {
+      "id": "295051",
+      "title": "In the Longhouse",
+      "latitude": 27.52379835,
+      "longitude": -82.64469368,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295051",
+      "photo_urls": []
+    },
+    {
+      "id": "295052",
+      "title": "Marking the Trail",
+      "latitude": 27.52382157,
+      "longitude": -82.64434337,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295052",
+      "photo_urls": []
+    },
+    {
+      "id": "295054",
+      "title": "Arrival",
+      "latitude": 27.52408477,
+      "longitude": -82.64431236,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295054",
+      "photo_urls": []
+    },
+    {
+      "id": "295055",
+      "title": "Landfall",
+      "latitude": 27.52417834,
+      "longitude": -82.64369924,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295055",
+      "photo_urls": []
+    },
+    {
+      "id": "295056",
+      "title": "A Stroke of Luck",
+      "latitude": 27.52414444,
+      "longitude": -82.64337222,
+      "directions": "Near Desoto Memorial Highway, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295056",
+      "photo_urls": []
+    },
+    {
+      "id": "295057",
+      "title": "Struggle and Resistance",
+      "latitude": 27.52399722,
+      "longitude": -82.64323333,
+      "directions": "Near Desoto Memorial Highway, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295057",
+      "photo_urls": []
+    },
+    {
+      "id": "295059",
+      "title": "A Punishing Winter",
+      "latitude": 27.52467222,
+      "longitude": -82.64199167,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295059",
+      "photo_urls": []
+    },
+    {
+      "id": "295068",
+      "title": "Cofitachequi",
+      "latitude": 27.52483056,
+      "longitude": -82.64173889,
+      "directions": "Near no nearby street, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295068",
+      "photo_urls": []
+    },
+    {
+      "id": "295069",
+      "title": "Battle of Mabila",
+      "latitude": 27.52498333,
+      "longitude": -82.64135833,
+      "directions": "Near no nearby street, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295069",
+      "photo_urls": []
+    },
+    {
+      "id": "295070",
+      "title": "Driven Out of Chicaza",
+      "latitude": 27.52488112,
+      "longitude": -82.64096322,
+      "directions": "Near no nearby street, Palma Sola, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295070",
+      "photo_urls": []
+    },
+    {
+      "id": "295071",
+      "title": "Across the Wide River",
+      "latitude": 27.52458056,
+      "longitude": -82.64135833,
+      "directions": "Near no nearby street, Palma Sola, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295071",
+      "photo_urls": []
+    },
+    {
+      "id": "295075",
+      "title": "Death of a Conquistador",
+      "latitude": 27.52406389,
+      "longitude": -82.64196111,
+      "directions": "Near 75th Street Northwest, Palma Sola, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295075",
+      "photo_urls": []
+    },
+    {
+      "id": "295076",
+      "title": "A Long and Fruitless March",
+      "latitude": 27.52375278,
+      "longitude": -82.64247222,
+      "directions": "Near Desoto Memorial Highway, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295076",
+      "photo_urls": []
+    },
+    {
+      "id": "295077",
+      "title": "Escape Down the Mississippi River",
+      "latitude": 27.52350353,
+      "longitude": -82.64278429,
+      "directions": "Near Desoto Memorial Highway, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295077",
+      "photo_urls": []
+    },
+    {
+      "id": "295079",
+      "title": "A Land Transformed",
+      "latitude": 27.52355833,
+      "longitude": -82.64311944,
+      "directions": "Near Desoto Memorial Highway, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295079",
+      "photo_urls": []
+    },
+    {
+      "id": "295083",
+      "title": "Memorial Trail",
+      "latitude": 27.52418496,
+      "longitude": -82.64386992,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295083",
+      "photo_urls": []
+    },
+    {
+      "id": "295088",
+      "title": "De Soto's Expedition",
+      "latitude": 27.52398596,
+      "longitude": -82.64396365,
+      "directions": "Near 75th Street Northwest, Bradenton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295088",
+      "photo_urls": []
+    },
+    {
+      "id": "295269",
+      "title": "In Memory of All American Veterans",
+      "latitude": 26.09366592,
+      "longitude": -80.15052708,
+      "directions": "Near SW 9th Avenue, Fort Lauderdale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295269",
+      "photo_urls": []
+    },
+    {
+      "id": "295323",
+      "title": "A la lucha guerrillera anticomunista / To the Anti-Communist Guerrilla",
+      "latitude": 25.76554094,
+      "longitude": -80.21643073,
+      "directions": "Near Southwest 13th Avenue, Miami, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295323",
+      "photo_urls": []
+    },
+    {
+      "id": "295325",
+      "title": "Nestor Izquierdo Plaza",
+      "latitude": 25.7654874,
+      "longitude": -80.21643747,
+      "directions": "Near Southwest 13th Avenue, Miami, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295325",
+      "photo_urls": []
+    },
+    {
+      "id": "295328",
+      "title": "Nestor A. Izquierdo",
+      "latitude": 25.76544345,
+      "longitude": -80.21643539,
+      "directions": "On 13th Avenue Southwest, Miami, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295328",
+      "photo_urls": []
+    },
+    {
+      "id": "295330",
+      "title": "Cruceiro Xacobeo Monument",
+      "latitude": 25.76529545,
+      "longitude": -80.21645354,
+      "directions": "On Southwest 13th Avenue, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295330",
+      "photo_urls": []
+    },
+    {
+      "id": "295344",
+      "title": "Memorial to the Fallen of Cuban Liberation",
+      "latitude": 25.76523497,
+      "longitude": -80.21640725,
+      "directions": "On 13th Avenue Southwest, Miami, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295344",
+      "photo_urls": []
+    },
+    {
+      "id": "295346",
+      "title": "José Martí Plaza",
+      "latitude": 25.76451038,
+      "longitude": -80.21641383,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295346",
+      "photo_urls": []
+    },
+    {
+      "id": "295349",
+      "title": "José Martí",
+      "latitude": 25.76446442,
+      "longitude": -80.2164099,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295349",
+      "photo_urls": []
+    },
+    {
+      "id": "295350",
+      "title": "General Antonio Maceo",
+      "latitude": 25.76415228,
+      "longitude": -80.21640507,
+      "directions": "On Southwest 10th Street, Miami, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295350",
+      "photo_urls": []
+    },
+    {
+      "id": "295352",
+      "title": "Calle de las Presas Politicas Cubana",
+      "latitude": 25.7644411,
+      "longitude": -80.2164373,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295352",
+      "photo_urls": []
+    },
+    {
+      "id": "295353",
+      "title": "Operation Pedro Pan",
+      "latitude": 25.76422542,
+      "longitude": -80.21641626,
+      "directions": "On Southwest 13th Avenue, Miami, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295353",
+      "photo_urls": []
+    },
+    {
+      "id": "295355",
+      "title": "Lt. General Antonio Maceo Grajales Plaza",
+      "latitude": 25.76409747,
+      "longitude": -80.21641398,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295355",
+      "photo_urls": []
+    },
+    {
+      "id": "295357",
+      "title": "Salvador Diaz-Verson",
+      "latitude": 25.76253295,
+      "longitude": -80.21632277,
+      "directions": "Near Southwest 13th Avenue, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295357",
+      "photo_urls": []
+    },
+    {
+      "id": "295358",
+      "title": "Exiled Cuban Journalists Plaza",
+      "latitude": 25.76252106,
+      "longitude": -80.21637483,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295358",
+      "photo_urls": []
+    },
+    {
+      "id": "295360",
+      "title": "Al Martirologio del Presidio Político Cubano",
+      "latitude": 25.76233649,
+      "longitude": -80.2163453,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295360",
+      "photo_urls": []
+    },
+    {
+      "id": "295362",
+      "title": "Cuban Anticommunist Political Prisoners' Plaza",
+      "latitude": 25.76233904,
+      "longitude": -80.2163821,
+      "directions": "On Southwest 13th Avenue, Miami, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295362",
+      "photo_urls": []
+    },
+    {
+      "id": "295363",
+      "title": "Plaza de la Cubanidad",
+      "latitude": 25.7729656,
+      "longitude": -80.2230101,
+      "directions": "On West Flagler Street, Miami, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295363",
+      "photo_urls": []
+    },
+    {
+      "id": "295400",
+      "title": "Simón Bolívar Monument",
+      "latitude": 25.77451591,
+      "longitude": -80.18747051,
+      "directions": "On East Flagler Street, Miami, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295400",
+      "photo_urls": []
+    },
+    {
+      "id": "295409",
+      "title": "General D. José de San Martín",
+      "latitude": 25.77415654,
+      "longitude": -80.18745657,
+      "directions": "On East Flagler Street, Miami, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295409",
+      "photo_urls": []
+    },
+    {
+      "id": "295410",
+      "title": "Slide Mantra",
+      "latitude": 25.77412815,
+      "longitude": -80.18679861,
+      "directions": "Near Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295410",
+      "photo_urls": []
+    },
+    {
+      "id": "295413",
+      "title": "Bayfront Park",
+      "latitude": 25.77349757,
+      "longitude": -80.18647705,
+      "directions": "Near Biscayne Boulevard, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295413",
+      "photo_urls": []
+    },
+    {
+      "id": "295501",
+      "title": "The Seminoles Club",
+      "latitude": 28.89706247,
+      "longitude": -82.59109887,
+      "directions": "On NE Third Street, Crystal River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295501",
+      "photo_urls": []
+    },
+    {
+      "id": "295504",
+      "title": "Michigan Town",
+      "latitude": 28.89703791,
+      "longitude": -82.59123964,
+      "directions": "On NE Third Street, Crystal River, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295504",
+      "photo_urls": []
+    },
+    {
+      "id": "296074",
+      "title": "To All Servcemen and Women of Manatee County",
+      "latitude": 27.5001053,
+      "longitude": -82.56195143,
+      "directions": "On Riverfront Boulevard, Bradenton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296074",
+      "photo_urls": []
+    },
+    {
+      "id": "296075",
+      "title": "Korean War Monument",
+      "latitude": 27.50010649,
+      "longitude": -82.56195277,
+      "directions": "On Riverfront Boulevard, Bradenton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296075",
+      "photo_urls": []
+    },
+    {
+      "id": "296076",
+      "title": "Freedom Tree",
+      "latitude": 27.50003638,
+      "longitude": -82.5617438,
+      "directions": "On Riverfront Boulevard, Bradenton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296076",
+      "photo_urls": []
+    },
+    {
+      "id": "296251",
+      "title": "Booker T. Washington School",
+      "latitude": 27.95894626,
+      "longitude": -82.45013925,
+      "directions": "On East Estelle Street, Tampa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296251",
+      "photo_urls": []
+    },
+    {
+      "id": "296452",
+      "title": "Korean War Defenders",
+      "latitude": 27.50010649,
+      "longitude": -82.56195277,
+      "directions": "On Riverfront Boulevard, Bradenton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296452",
+      "photo_urls": []
+    },
+    {
+      "id": "296455",
+      "title": "William Boyd McKechnie",
+      "latitude": 27.48510392,
+      "longitude": -82.56983251,
+      "directions": "Near 9th Street West, Bradenton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296455",
+      "photo_urls": []
+    },
+    {
+      "id": "296630",
+      "title": "The Rough Riders Embark the S.S. Yucatan",
+      "latitude": 27.86068,
+      "longitude": -82.54666,
+      "directions": "On Picnic Island Boulevard, Tampa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296630",
+      "photo_urls": []
+    },
+    {
+      "id": "296640",
+      "title": "The Rough Riders Embark the S.S. Yucatan",
+      "latitude": 27.86068333,
+      "longitude": -82.54666667,
+      "directions": "On Picnic Island Boulevard, Tampa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296640",
+      "photo_urls": []
+    },
+    {
       "id": "29677",
       "title": "Gadsden County",
       "latitude": 30.58833333,
       "longitude": -84.57638889,
       "directions": "On East Jefferson Street (U.S. 90) , Quincy, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29677",
+      "photo_urls": []
+    },
+    {
+      "id": "297163",
+      "title": "Brooksville Army Airfield Gunnery Backstop",
+      "latitude": 28.4803194,
+      "longitude": -82.4676972,
+      "directions": "On Aviation Loop Drive, Brooksville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297163",
+      "photo_urls": []
+    },
+    {
+      "id": "297250",
+      "title": "Historic Doby House",
+      "latitude": 27.94100556,
+      "longitude": -82.47431944,
+      "directions": "On West Azeele Street, Tampa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297250",
+      "photo_urls": []
+    },
+    {
+      "id": "297253",
+      "title": "Ronald Reagan’s Evil Empire Speech Memorial",
+      "latitude": 28.48030556,
+      "longitude": -81.45751944,
+      "directions": "Near Kirkman Road (State Route 435) , Orlando, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297253",
+      "photo_urls": []
+    },
+    {
+      "id": "297395",
+      "title": "God Bless America",
+      "latitude": 30.12065162,
+      "longitude": -83.58192137,
+      "directions": "On North Jefferson Street (U.S. 221) , Perry, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297395",
+      "photo_urls": []
+    },
+    {
+      "id": "297397",
+      "title": "Lee J. Roberts House",
+      "latitude": 30.24548262,
+      "longitude": -85.64627581,
+      "directions": "On Michigan Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297397",
+      "photo_urls": []
+    },
+    {
+      "id": "297398",
+      "title": "Dr. Johnson N. McCartney House",
+      "latitude": 30.2451071,
+      "longitude": -85.64642167,
+      "directions": "On Michigan Avenue, Lynn Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297398",
+      "photo_urls": []
+    },
+    {
+      "id": "297399",
+      "title": "Union Soldier Monument",
+      "latitude": 30.2465278,
+      "longitude": -85.65189039,
+      "directions": "On West 8th Street, Lynn Haven, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297399",
+      "photo_urls": []
+    },
+    {
+      "id": "297400",
+      "title": "Union Soldiers Monument G.A.R. Park",
+      "latitude": 30.24646687,
+      "longitude": -85.65185522,
+      "directions": "On Georgia Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297400",
+      "photo_urls": []
+    },
+    {
+      "id": "297412",
+      "title": "Florida Welcomes Walt Disney",
+      "latitude": 28.5425,
+      "longitude": -81.37138889,
+      "directions": "On North Osceola Avenue, Orlando, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297412",
+      "photo_urls": []
+    },
+    {
+      "id": "297454",
+      "title": "August Brestel Home",
+      "latitude": 30.24481814,
+      "longitude": -85.64649831,
+      "directions": "On Michigan Avenue, Lynn Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297454",
+      "photo_urls": []
+    },
+    {
+      "id": "297465",
+      "title": "The Virden Home",
+      "latitude": 30.24202556,
+      "longitude": -85.64631336,
+      "directions": "On Michigan Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297465",
+      "photo_urls": []
+    },
+    {
+      "id": "297477",
+      "title": "Daniel Johnson House",
+      "latitude": 30.24108408,
+      "longitude": -85.64633359,
+      "directions": "On Michigan Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297477",
+      "photo_urls": []
+    },
+    {
+      "id": "297487",
+      "title": "The Castle House",
+      "latitude": 30.24239548,
+      "longitude": -85.64537282,
+      "directions": "On Indiana Avenue, Lynn Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297487",
+      "photo_urls": []
+    },
+    {
+      "id": "297493",
+      "title": "Gibbs Cottage",
+      "latitude": 30.41647778,
+      "longitude": -84.28261667,
+      "directions": "On South Adams Street (State Route 363) , Tallahassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297493",
+      "photo_urls": []
+    },
+    {
+      "id": "297495",
+      "title": "Yutzy-Butchers House",
+      "latitude": 30.2460555,
+      "longitude": -85.64510942,
+      "directions": "On Indiana Avenue, Lynn Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297495",
+      "photo_urls": []
+    },
+    {
+      "id": "297496",
+      "title": "G.K. & Eliza Greening House",
+      "latitude": 30.24769623,
+      "longitude": -85.64526554,
+      "directions": "On Indiana Avenue, Lynn Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297496",
+      "photo_urls": []
+    },
+    {
+      "id": "297498",
+      "title": "Alonzo Ogdon House",
+      "latitude": 30.24770792,
+      "longitude": -85.64589108,
+      "directions": "On East 7th Street, Lynn Haven, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297498",
+      "photo_urls": []
+    },
+    {
+      "id": "297499",
+      "title": "The Pomeroy House",
+      "latitude": 30.2456875,
+      "longitude": -85.64416711,
+      "directions": "On Minnesota Avenue, Lynn Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297499",
+      "photo_urls": []
+    },
+    {
+      "id": "297501",
+      "title": "The Block-Sterns Site",
+      "latitude": 30.44382222,
+      "longitude": -84.17551389,
+      "directions": "Near Pedrick Road, Tallahassee, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297501",
+      "photo_urls": []
+    },
+    {
+      "id": "297503",
+      "title": "Site of the Raid on Chaires Plantation",
+      "latitude": 30.44362222,
+      "longitude": -84.16722222,
+      "directions": "Near South Pedrick Road, Tallahassee, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297503",
+      "photo_urls": []
+    },
+    {
+      "id": "297507",
+      "title": "Centerville",
+      "latitude": 30.55556944,
+      "longitude": -84.165275,
+      "directions": "On Pisgah Church Road, Tallahassee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297507",
+      "photo_urls": []
+    },
+    {
+      "id": "297562",
+      "title": "Southern Heritage Historical Farm",
+      "latitude": 30.23948611,
+      "longitude": -83.0206,
+      "directions": "On 116th Street, Live Oak, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297562",
+      "photo_urls": []
+    },
+    {
+      "id": "297594",
+      "title": "The Pontius House",
+      "latitude": 30.24584067,
+      "longitude": -85.64414859,
+      "directions": "On Minnesota Avenue, Lynn Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297594",
+      "photo_urls": []
+    },
+    {
+      "id": "297596",
+      "title": "Captain John Rogers House",
+      "latitude": 30.24087664,
+      "longitude": -85.64995051,
+      "directions": "On Florida Avenue, Lynn Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297596",
+      "photo_urls": []
+    },
+    {
+      "id": "297597",
+      "title": "The Gessel-Porter House",
+      "latitude": 30.23889847,
+      "longitude": -85.64983798,
+      "directions": "On Florida Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297597",
+      "photo_urls": []
+    },
+    {
+      "id": "297599",
+      "title": "Harry H. Lynn Home",
+      "latitude": 30.25270173,
+      "longitude": -85.6497121,
+      "directions": "On Florida Avenue, Lynn Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297599",
+      "photo_urls": []
+    },
+    {
+      "id": "297635",
+      "title": "Miami Centennial Time Capsule",
+      "latitude": 25.7733482,
+      "longitude": -80.1868815,
+      "directions": "Near US Highway 41, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297635",
+      "photo_urls": []
+    },
+    {
+      "id": "297638",
+      "title": "Dade County War Memorial",
+      "latitude": 25.77405356,
+      "longitude": -80.18608923,
+      "directions": "Near Biscayne Boulevard, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297638",
+      "photo_urls": []
+    },
+    {
+      "id": "297653",
+      "title": "Plaza Libertador Simón Bolívar",
+      "latitude": 25.77738946,
+      "longitude": -80.18763066,
+      "directions": "On Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297653",
+      "photo_urls": []
+    },
+    {
+      "id": "297658",
+      "title": "A Cuban Salute to the Bicentennial",
+      "latitude": 25.77751734,
+      "longitude": -80.18760822,
+      "directions": "On Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297658",
+      "photo_urls": []
+    },
+    {
+      "id": "297660",
+      "title": "The Torch of Friendship",
+      "latitude": 25.77764455,
+      "longitude": -80.18763503,
+      "directions": "On Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297660",
+      "photo_urls": []
+    },
+    {
+      "id": "297702",
+      "title": "William Leroy MacGowan",
+      "latitude": 30.16466037,
+      "longitude": -85.68737244,
+      "directions": "On West Beach Drive (U.S. Business 98) , Panama City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297702",
+      "photo_urls": []
+    },
+    {
+      "id": "297715",
+      "title": "Eleanor Fletcher and Loggerhead Marinelife Center",
+      "latitude": 26.8844083,
+      "longitude": -80.05652128,
+      "directions": "On Erikson Way, Juno Beach, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297715",
+      "photo_urls": []
+    },
+    {
+      "id": "297718",
+      "title": "The Origin of the Name Jupiter",
+      "latitude": 26.9391865,
+      "longitude": -80.0771046,
+      "directions": "Near Jimmy Buffett Memorial Highway (State Route A1A) , Jupiter, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297718",
+      "photo_urls": []
+    },
+    {
+      "id": "297730",
+      "title": "W.D. Anderson",
+      "latitude": 26.9391595,
+      "longitude": -80.0771884,
+      "directions": "Near North Highway A1A, Jupiter, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297730",
+      "photo_urls": []
+    },
+    {
+      "id": "297768",
+      "title": "Jupiter Lighthouse",
+      "latitude": 26.9391595,
+      "longitude": -80.0771884,
+      "directions": "On North Highway A1A, Jupiter, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297768",
+      "photo_urls": []
+    },
+    {
+      "id": "297779",
+      "title": "The Witbeck Cottage",
+      "latitude": 30.25246546,
+      "longitude": -85.6495412,
+      "directions": "On Florida Avenue, Lynn Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297779",
+      "photo_urls": []
+    },
+    {
+      "id": "297796",
+      "title": "The Bates Home",
+      "latitude": 30.25284571,
+      "longitude": -85.64940622,
+      "directions": "On West 3rd Street, Lynn Haven, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297796",
+      "photo_urls": []
+    },
+    {
+      "id": "297797",
+      "title": "First Presbyterian Church of Lynn Haven, FL",
+      "latitude": 30.24550434,
+      "longitude": -85.65219656,
+      "directions": "On Georgia Avenue, Lynn Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297797",
+      "photo_urls": []
+    },
+    {
+      "id": "297798",
+      "title": "Our Honored Dead",
+      "latitude": 30.24650682,
+      "longitude": -85.65193294,
+      "directions": "On Georgia Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297798",
+      "photo_urls": []
+    },
+    {
+      "id": "297998",
+      "title": "Jerry & Stella Van Kleeck Home",
+      "latitude": 30.25031923,
+      "longitude": -85.6518925,
+      "directions": "On Georgia Avenue, Lynn Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297998",
+      "photo_urls": []
+    },
+    {
+      "id": "297999",
+      "title": "Nina Roberts Van Kleeck House",
+      "latitude": 30.25032843,
+      "longitude": -85.65204983,
+      "directions": "On Georgia Avenue, Lynn Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297999",
+      "photo_urls": []
+    },
+    {
+      "id": "298024",
+      "title": "Harris School",
+      "latitude": 27.88151667,
+      "longitude": -82.81065,
+      "directions": "Near 125th Street North, Largo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298024",
+      "photo_urls": []
+    },
+    {
+      "id": "298034",
+      "title": "John & Retta Ackerson Home",
+      "latitude": 30.25177664,
+      "longitude": -85.65177667,
+      "directions": "On West 4th Street, Lynn Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298034",
+      "photo_urls": []
+    },
+    {
+      "id": "298048",
+      "title": "James M. & Mary Ellis House",
+      "latitude": 30.24897599,
+      "longitude": -85.65319114,
+      "directions": "On Alabama Avenue, Lynn Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298048",
+      "photo_urls": []
+    },
+    {
+      "id": "298062",
+      "title": "John M. & Edna Cooley Home",
+      "latitude": 30.25162784,
+      "longitude": -85.65259816,
+      "directions": "On West 4th Street, Lynn Haven, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298062",
       "photo_urls": []
     },
     {
