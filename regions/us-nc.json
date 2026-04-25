@@ -3,9 +3,9 @@
   "region_name": "North Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.397Z",
-  "source_timestamp": "2026-04-11T19:19:47.397Z",
-  "marker_count": 6532,
+  "generated": "2026-04-25T06:03:20.877Z",
+  "source_timestamp": "2026-04-25T06:03:20.877Z",
+  "marker_count": 6576,
   "markers": [
     {
       "id": "100040",
@@ -21432,7 +21432,7 @@
       "title": "State School for the Blind",
       "latitude": 35.780355,
       "longitude": -78.660473,
-      "directions": "On , Raleigh, (On the right when traveling north)",
+      "directions": "On Ashe Avenue, Raleigh, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=229710",
       "photo_urls": []
     },
@@ -21459,7 +21459,7 @@
       "title": "Raleigh Electric Company",
       "latitude": 35.782734,
       "longitude": -78.646462,
-      "directions": "Near , Raleigh, (On the right when traveling east)",
+      "directions": "Near West Jones Street, Raleigh, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230689",
       "photo_urls": []
     },
@@ -21468,7 +21468,7 @@
       "title": "Pasmore House",
       "latitude": 35.784484,
       "longitude": -78.781005,
-      "directions": "Near , Cary, (On the right when traveling north)",
+      "directions": "Near South Academy Street, Cary, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230789",
       "photo_urls": []
     },
@@ -21504,7 +21504,7 @@
       "title": "Frances Goodrich",
       "latitude": 35.96686667,
       "longitude": -82.75293333,
-      "directions": "On , Marshall, ",
+      "directions": "On North Carolina 208, Marshall, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23125",
       "photo_urls": []
     },
@@ -21585,7 +21585,7 @@
       "title": "Mars Hill College",
       "latitude": 35.82705,
       "longitude": -82.54946667,
-      "directions": "On , Mars Hill, ",
+      "directions": "On College Street, Mars Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23140",
       "photo_urls": []
     },
@@ -44576,6 +44576,375 @@
       "photo_urls": []
     },
     {
+      "id": "294901",
+      "title": "Wesley Chapel High School",
+      "latitude": 35.0069554,
+      "longitude": -80.6727928,
+      "directions": "On Weddington Road (State Route 84) , near Monroe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294901",
+      "photo_urls": []
+    },
+    {
+      "id": "294905",
+      "title": "Union County Revolutionary War Memorial",
+      "latitude": 34.9827227,
+      "longitude": -80.5496682,
+      "directions": "On West Franklin Street, Monroe, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294905",
+      "photo_urls": []
+    },
+    {
+      "id": "294908",
+      "title": "World War I Memorial",
+      "latitude": 34.9828185,
+      "longitude": -80.550309,
+      "directions": "On North Main Street, Monroe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294908",
+      "photo_urls": []
+    },
+    {
+      "id": "294918",
+      "title": "1st U.S. Colored Heavy Artillery",
+      "latitude": 35.603671,
+      "longitude": -82.557616,
+      "directions": "On Broadway, Asheville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294918",
+      "photo_urls": []
+    },
+    {
+      "id": "294952",
+      "title": "Union County World War II Memorial",
+      "latitude": 34.98294198,
+      "longitude": -80.55008306,
+      "directions": "On North Main Street, Monroe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294952",
+      "photo_urls": []
+    },
+    {
+      "id": "294959",
+      "title": "The Charters of Freedom",
+      "latitude": 34.98349513,
+      "longitude": -80.55039045,
+      "directions": "On West Jefferson Street, Monroe, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294959",
+      "photo_urls": []
+    },
+    {
+      "id": "294963",
+      "title": "Monroe Rotary Club",
+      "latitude": 34.982934,
+      "longitude": -80.5504631,
+      "directions": "On North Main Street, Monroe, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294963",
+      "photo_urls": []
+    },
+    {
+      "id": "294970",
+      "title": "Union County Confederate Pensioners of Color Memorial",
+      "latitude": 34.9829599,
+      "longitude": -80.5502063,
+      "directions": "Near North Main Street, Monroe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294970",
+      "photo_urls": []
+    },
+    {
+      "id": "295039",
+      "title": "Gospel Quartet",
+      "latitude": 35.25472778,
+      "longitude": -77.58127222,
+      "directions": "On South Queen Street, Kinston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295039",
+      "photo_urls": []
+    },
+    {
+      "id": "295047",
+      "title": "CSS Neuse Confederate Ironclad Gunboat",
+      "latitude": 35.2596427,
+      "longitude": -77.5830701,
+      "directions": "On South Heritage Street, Kinston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295047",
+      "photo_urls": []
+    },
+    {
+      "id": "295149",
+      "title": "Confederate and Union Earthworks",
+      "latitude": 35.34015706,
+      "longitude": -78.02644503,
+      "directions": "Near Old Mt Olive Highway, Dudley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295149",
+      "photo_urls": []
+    },
+    {
+      "id": "295151",
+      "title": "River Road and Pontoon Bridges",
+      "latitude": 35.33967222,
+      "longitude": -78.02715,
+      "directions": "Near Old Mount Olive Highway, Goldsboro, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295151",
+      "photo_urls": []
+    },
+    {
+      "id": "295239",
+      "title": "Honoring the Dead of the Battle of Bentonville",
+      "latitude": 35.30221814,
+      "longitude": -78.32015359,
+      "directions": "On Harper House Road, near Four Oaks, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295239",
+      "photo_urls": []
+    },
+    {
+      "id": "295243",
+      "title": "Heavy Thunder",
+      "latitude": 35.30842,
+      "longitude": -78.30903,
+      "directions": "On Harper House Road, near Four Oaks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295243",
+      "photo_urls": []
+    },
+    {
+      "id": "295395",
+      "title": "The XV Corps At Bentonville",
+      "latitude": 35.322389,
+      "longitude": -78.279083,
+      "directions": "Near Harper House Road, Four Oaks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295395",
+      "photo_urls": []
+    },
+    {
+      "id": "295665",
+      "title": "Post Office Annex",
+      "latitude": 35.2909522,
+      "longitude": -81.538316,
+      "directions": "On East Warren Street, Shelby, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295665",
+      "photo_urls": []
+    },
+    {
+      "id": "295666",
+      "title": "Gadsden Flag - 1775",
+      "latitude": 36.1218931,
+      "longitude": -80.034083,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295666",
+      "photo_urls": []
+    },
+    {
+      "id": "295668",
+      "title": "Sons of Liberty Flag - 1775",
+      "latitude": 36.1218888,
+      "longitude": -80.0340858,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295668",
+      "photo_urls": []
+    },
+    {
+      "id": "295670",
+      "title": "Grand Union Flag - 1775",
+      "latitude": 36.1220736,
+      "longitude": -80.0342272,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295670",
+      "photo_urls": []
+    },
+    {
+      "id": "295674",
+      "title": "National Flag - 1777",
+      "latitude": 36.12208479,
+      "longitude": -80.03433734,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295674",
+      "photo_urls": []
+    },
+    {
+      "id": "295675",
+      "title": "Guilford Courthouse Flag - 1781",
+      "latitude": 36.1221628,
+      "longitude": -80.0346395,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295675",
+      "photo_urls": []
+    },
+    {
+      "id": "295677",
+      "title": "Betsy Ross Flag - Circa 1790",
+      "latitude": 36.1221611,
+      "longitude": -80.0347245,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295677",
+      "photo_urls": []
+    },
+    {
+      "id": "295678",
+      "title": "20 Star Flag - 1818",
+      "latitude": 36.1222252,
+      "longitude": -80.0348947,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295678",
+      "photo_urls": []
+    },
+    {
+      "id": "295680",
+      "title": "Great Star Flag - 1837",
+      "latitude": 36.12228653,
+      "longitude": -80.03510061,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295680",
+      "photo_urls": []
+    },
+    {
+      "id": "295683",
+      "title": "Fort Sumter Flag - 1861",
+      "latitude": 36.12231949,
+      "longitude": -80.03528881,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295683",
+      "photo_urls": []
+    },
+    {
+      "id": "295686",
+      "title": "38 Star Flag - 1877",
+      "latitude": 36.12238862,
+      "longitude": -80.03542131,
+      "directions": "On Pleasant View Trail, Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295686",
+      "photo_urls": []
+    },
+    {
+      "id": "295688",
+      "title": "48 Star Flag - 1912",
+      "latitude": 36.12235901,
+      "longitude": -80.03555732,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295688",
+      "photo_urls": []
+    },
+    {
+      "id": "295691",
+      "title": "50 Star Flag - 1960",
+      "latitude": 36.1223584,
+      "longitude": -80.0353078,
+      "directions": "On Pleasant View Trail, Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295691",
+      "photo_urls": []
+    },
+    {
+      "id": "295693",
+      "title": "United States Army Memorial",
+      "latitude": 36.1215707,
+      "longitude": -80.035009,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295693",
+      "photo_urls": []
+    },
+    {
+      "id": "295698",
+      "title": "The U.S. Army Flag",
+      "latitude": 36.1215707,
+      "longitude": -80.035009,
+      "directions": "Near Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295698",
+      "photo_urls": []
+    },
+    {
+      "id": "295705",
+      "title": "United States Marine Corps Memorial",
+      "latitude": 36.1215896,
+      "longitude": -80.0351531,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295705",
+      "photo_urls": []
+    },
+    {
+      "id": "295714",
+      "title": "Andrews High School Veterans of Foreign Wars Memorial",
+      "latitude": 35.19516558,
+      "longitude": -83.8250387,
+      "directions": "Near AHS Wildcat Drive, Andrews, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295714",
+      "photo_urls": []
+    },
+    {
+      "id": "295929",
+      "title": "Rhodhiss Elementary School",
+      "latitude": 35.7786228,
+      "longitude": -81.42902,
+      "directions": "On Church Street, Rhodhiss, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295929",
+      "photo_urls": []
+    },
+    {
+      "id": "295930",
+      "title": "Bank of Granite Time Capsule",
+      "latitude": 35.7981123,
+      "longitude": -81.431878,
+      "directions": "On North Main Street, Granite Falls, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295930",
+      "photo_urls": []
+    },
+    {
+      "id": "295932",
+      "title": "Granite Falls 9/11 Memorial",
+      "latitude": 35.79776302,
+      "longitude": -81.4313698,
+      "directions": "On Park Square, Granite Falls, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295932",
+      "photo_urls": []
+    },
+    {
+      "id": "295934",
+      "title": "The U.S. Navy Flag",
+      "latitude": 36.1215896,
+      "longitude": -80.0351531,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295934",
+      "photo_urls": []
+    },
+    {
+      "id": "295937",
+      "title": "The United States Navy Memorial",
+      "latitude": 36.1215987,
+      "longitude": -80.0351595,
+      "directions": "On Pleasant View Trail, near Kernersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295937",
+      "photo_urls": []
+    },
+    {
+      "id": "296095",
+      "title": "Chalmers Memorial Associate Reformed Presbyterian Church",
+      "latitude": 35.211614,
+      "longitude": -80.8580768,
+      "directions": "On South Boulevard, Charlotte, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296095",
+      "photo_urls": []
+    },
+    {
+      "id": "296096",
+      "title": "Carson McCullers",
+      "latitude": 35.2107192,
+      "longitude": -80.8559511,
+      "directions": "On East Boulevard, Charlotte, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296096",
+      "photo_urls": []
+    },
+    {
+      "id": "296099",
+      "title": "Mayer House",
+      "latitude": 35.2106016,
+      "longitude": -80.8559302,
+      "directions": "On East Boulevard, Charlotte, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296099",
+      "photo_urls": []
+    },
+    {
+      "id": "296100",
+      "title": "Walter Brem House",
+      "latitude": 35.2114755,
+      "longitude": -80.8571683,
+      "directions": "On East Boulevard, Charlotte, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296100",
+      "photo_urls": []
+    },
+    {
       "id": "29626",
       "title": "Camp Alamance",
       "latitude": 36.09436,
@@ -44585,12 +44954,39 @@
       "photo_urls": []
     },
     {
+      "id": "297326",
+      "title": "Zion Evangelical Lutheran Church",
+      "latitude": 35.6691108,
+      "longitude": -81.3367391,
+      "directions": "On Zion Church Road, Hickory, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297326",
+      "photo_urls": []
+    },
+    {
+      "id": "297626",
+      "title": "Cape Fear River",
+      "latitude": 34.2355,
+      "longitude": -77.95006,
+      "directions": "On North Water Street, Wilmington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297626",
+      "photo_urls": []
+    },
+    {
       "id": "29764",
       "title": "Henry Jerome Stockard",
       "latitude": 36.095185,
       "longitude": -79.406129,
       "directions": "On North Church Street, Burlington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29764",
+      "photo_urls": []
+    },
+    {
+      "id": "298164",
+      "title": "Remembering Our Ancestors",
+      "latitude": 35.0727162,
+      "longitude": -76.0648758,
+      "directions": "On Island Road, Portsmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298164",
       "photo_urls": []
     },
     {
@@ -47478,7 +47874,7 @@
       "title": "Ross & Ingram Grocery",
       "latitude": 35.21556667,
       "longitude": -80.00225,
-      "directions": "On , Mount Gilead, ",
+      "directions": "On North Main Street, Mount Gilead, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=37189",
       "photo_urls": []
     },
@@ -47532,7 +47928,7 @@
       "title": "Ingram McAulay Hardware & Furniture",
       "latitude": 35.21536667,
       "longitude": -80.00193333,
-      "directions": "On , Mount Gilead, ",
+      "directions": "On North Main Street, Mount Gilead, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=37341",
       "photo_urls": []
     },
@@ -49692,7 +50088,7 @@
       "title": "War Dead of Swain County",
       "latitude": 35.42772672,
       "longitude": -83.44471335,
-      "directions": "On , Bryson City, ",
+      "directions": "On Main Street, Bryson City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52470",
       "photo_urls": []
     },
@@ -50826,7 +51222,7 @@
       "title": "Richmond Hill",
       "latitude": 36.26716667,
       "longitude": -80.61299997,
-      "directions": "Near , Richmond Hill, ",
+      "directions": "Near Law School Road, Richmond Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=54600",
       "photo_urls": []
     },
@@ -50835,7 +51231,7 @@
       "title": "Richmond Hill",
       "latitude": 36.26733333,
       "longitude": -80.61316667,
-      "directions": "Near , Richmond Hill, ",
+      "directions": "Near Law School Road, Richmond Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=54614",
       "photo_urls": []
     },
@@ -51447,7 +51843,7 @@
       "title": "Richmond County Vietnam War Memorial",
       "latitude": 34.93524933,
       "longitude": -79.77799989,
-      "directions": "On , Rockingham, ",
+      "directions": "On Caroline Street, Rockingham, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56728",
       "photo_urls": []
     },
@@ -53175,7 +53571,7 @@
       "title": "“Land of Eden”",
       "latitude": 36.495485,
       "longitude": -79.772882,
-      "directions": "On , Eden, (On the right when traveling north)",
+      "directions": "On South Hamilton Street, Eden, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63012",
       "photo_urls": []
     },
@@ -57405,7 +57801,7 @@
       "title": "Stone's Mills",
       "latitude": 35.74916667,
       "longitude": -78.53166667,
-      "directions": "On , Raleigh, ",
+      "directions": "On Danang Court, Raleigh, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=90145",
       "photo_urls": []
     },
