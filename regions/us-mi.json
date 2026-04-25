@@ -3,9 +3,9 @@
   "region_name": "Michigan",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.190Z",
-  "source_timestamp": "2026-04-11T19:19:47.190Z",
-  "marker_count": 4115,
+  "generated": "2026-04-25T06:03:20.828Z",
+  "source_timestamp": "2026-04-25T06:03:20.828Z",
+  "marker_count": 4118,
   "markers": [
     {
       "id": "100032",
@@ -579,7 +579,7 @@
       "title": "Settling the Dust",
       "latitude": 42.567901,
       "longitude": -83.393166,
-      "directions": "Near Arrowhead Road, West Bloomfield Township, ",
+      "directions": "Near Arrowhead Road, Orchard Lake Village, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105049",
       "photo_urls": []
     },
@@ -606,7 +606,7 @@
       "title": "Gateway to Nature",
       "latitude": 42.586735,
       "longitude": -83.3556,
-      "directions": "On Orchard Lake Road, West Bloomfield Township, (On the left when traveling north)",
+      "directions": "On Orchard Lake Road, Orchard Lake Village, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105107",
       "photo_urls": []
     },
@@ -624,7 +624,7 @@
       "title": "Lakes and Attractions",
       "latitude": 42.592675,
       "longitude": -83.35254167,
-      "directions": "On Seminary Road, West Bloomfield Township, (On the right when traveling east)",
+      "directions": "On Seminary Road, Orchard Lake Village, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105135",
       "photo_urls": []
     },
@@ -642,7 +642,7 @@
       "title": "A Lake and a Trolley",
       "latitude": 42.598096,
       "longitude": -83.347198,
-      "directions": "On Rycroft, West Bloomfield Township, (On the right when traveling east)",
+      "directions": "On Rycroft, Keego Harbor, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105182",
       "photo_urls": []
     },
@@ -651,7 +651,7 @@
       "title": "In Good Company",
       "latitude": 42.600112,
       "longitude": -83.344007,
-      "directions": "Near Fountain Park, West Bloomfield Township, ",
+      "directions": "Near Fountain Park, Keego Harbor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105200",
       "photo_urls": []
     },
@@ -660,7 +660,7 @@
       "title": "\"Motoring\" to Pine Lake",
       "latitude": 42.601644,
       "longitude": -83.342036,
-      "directions": "Near Elam Court, West Bloomfield Township, ",
+      "directions": "Near Elam Court, Keego Harbor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105226",
       "photo_urls": []
     },
@@ -669,7 +669,7 @@
       "title": "Go in Peace",
       "latitude": 42.569226,
       "longitude": -83.381605,
-      "directions": "Near Mirror Lake Drive, West Bloomfield Township, ",
+      "directions": "Near Mirror Lake Drive, Orchard Lake Village, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105288",
       "photo_urls": []
     },
@@ -678,7 +678,7 @@
       "title": "The Great Blues",
       "latitude": 42.5688051,
       "longitude": -83.38509589,
-      "directions": "On Mirror Lake Court, West Bloomfield Township, ",
+      "directions": "On Mirror Lake Court, Orchard Lake Village, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=105289",
       "photo_urls": []
     },
@@ -6294,7 +6294,7 @@
       "title": "An Advocate for Parks",
       "latitude": 42.55628511,
       "longitude": -83.43482478,
-      "directions": "Near Walnut Lake Road, West Bloomfield Township, ",
+      "directions": "Near Walnut Lake Road, near Novi, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155840",
       "photo_urls": []
     },
@@ -6303,7 +6303,7 @@
       "title": "West Bloomfield Trail",
       "latitude": 42.55555918,
       "longitude": -83.4355042,
-      "directions": "On Walnut Lake Road, West Bloomfield Township, (On the left when traveling east)",
+      "directions": "On Walnut Lake Road, Novi, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155852",
       "photo_urls": []
     },
@@ -6312,7 +6312,7 @@
       "title": "An Advocate for Parks",
       "latitude": 42.567813,
       "longitude": -83.39369,
-      "directions": "On Arrowhead Road, West Bloomfield Township, (On the right when traveling south)",
+      "directions": "On Arrowhead Road, Orchard Lake Village, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155853",
       "photo_urls": []
     },
@@ -9444,7 +9444,7 @@
       "title": "Remembering Historic Railways",
       "latitude": 42.60553055,
       "longitude": -83.33711112,
-      "directions": "On Woodrow Wilson Boulevard, West Bloomfield Township, (On the right when traveling south)",
+      "directions": "On Woodrow Wilson Boulevard, Sylvan Lake, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=174210",
       "photo_urls": []
     },
@@ -9975,7 +9975,7 @@
       "title": "Westacres",
       "latitude": 42.59185292,
       "longitude": -83.42773025,
-      "directions": "On Commerce Road, West Bloomfield Township, (On the right when traveling east)",
+      "directions": "On Commerce Road, Orchard Lake Village, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=175668",
       "photo_urls": []
     },
@@ -9984,7 +9984,7 @@
       "title": "Westacres Community",
       "latitude": 42.59140804,
       "longitude": -83.42783078,
-      "directions": "On Commerce Road, West Bloomfield Township, (On the right when traveling east)",
+      "directions": "On Commerce Road, Orchard Lake Village, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=175669",
       "photo_urls": []
     },
@@ -9993,7 +9993,7 @@
       "title": "Sharing the Ride",
       "latitude": 42.59140149,
       "longitude": -83.42790454,
-      "directions": "On Commerce Road, West Bloomfield Township, (On the right when traveling east)",
+      "directions": "On Commerce Road, Orchard Lake Village, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=175749",
       "photo_urls": []
     },
@@ -10218,7 +10218,7 @@
       "title": "WB Parks Kiosk",
       "latitude": 42.56781873,
       "longitude": -83.39308217,
-      "directions": "On Arrowhead Road, West Bloomfield Township, (On the left when traveling south)",
+      "directions": "On Arrowhead Road, Orchard Lake Village, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=176723",
       "photo_urls": []
     },
@@ -16914,7 +16914,7 @@
       "title": "USMC Memorial 1st Batt. 24th Marines",
       "latitude": 42.65111669,
       "longitude": -82.82286943,
-      "directions": "On Gloria Goike Boulevard, New Baltimore, (On the left when traveling north)",
+      "directions": "On Gloria Goike Boulevard, near New Baltimore, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=211472",
       "photo_urls": []
     },
@@ -24705,7 +24705,7 @@
     },
     {
       "id": "236835",
-      "title": "Thunder Bay National Maritime Sanctuary",
+      "title": "Thunder Bay National Marine Sanctuary",
       "latitude": 45.06321159,
       "longitude": -83.42910749,
       "directions": "On East Fletcher Street, Alpena, (On the right when traveling south)",
@@ -32021,6 +32021,33 @@
       "photo_urls": []
     },
     {
+      "id": "295034",
+      "title": "Alabaster Bible Church",
+      "latitude": 44.1918124,
+      "longitude": -83.5566573,
+      "directions": "On Benson Road, near Tawas City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295034",
+      "photo_urls": []
+    },
+    {
+      "id": "295506",
+      "title": "Ulysses S. Grant Elementary School",
+      "latitude": 42.45061111,
+      "longitude": -83.15918611,
+      "directions": "On Cloverdale Avenue, Ferndale, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295506",
+      "photo_urls": []
+    },
+    {
+      "id": "298100",
+      "title": "Walloon Lake",
+      "latitude": 45.26332415,
+      "longitude": -84.93337337,
+      "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298100",
+      "photo_urls": []
+    },
+    {
       "id": "30386",
       "title": "Spanish War Veterans Monument",
       "latitude": 42.290415,
@@ -36885,7 +36912,7 @@
       "title": "Edsel Ford's Leadership",
       "latitude": 42.640898,
       "longitude": -83.563133,
-      "directions": "On Haven Road, White Lake Township, ",
+      "directions": "On Haven Road, Milford, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=99082",
       "photo_urls": []
     },
