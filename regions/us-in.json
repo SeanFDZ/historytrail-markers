@@ -3,9 +3,9 @@
   "region_name": "Indiana",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:04.124Z",
-  "source_timestamp": "2026-04-11T19:15:04.124Z",
-  "marker_count": 4405,
+  "generated": "2026-04-25T06:03:20.780Z",
+  "source_timestamp": "2026-04-25T06:03:20.780Z",
+  "marker_count": 4417,
   "markers": [
     {
       "id": "100023",
@@ -29240,12 +29240,120 @@
       "photo_urls": []
     },
     {
+      "id": "294430",
+      "title": "Music Hall Bench",
+      "latitude": 41.46228404,
+      "longitude": -87.05394289,
+      "directions": "Near Freeman Street, Valparaiso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294430",
+      "photo_urls": []
+    },
+    {
+      "id": "294448",
+      "title": "Founders' Rock",
+      "latitude": 41.46208671,
+      "longitude": -87.05373289,
+      "directions": "Near Freeman Street, Valparaiso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294448",
+      "photo_urls": []
+    },
+    {
+      "id": "294477",
+      "title": "Founders' Rock",
+      "latitude": 41.46207594,
+      "longitude": -87.05373637,
+      "directions": "Near Freeman Street, Valparaiso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294477",
+      "photo_urls": []
+    },
+    {
+      "id": "294501",
+      "title": "Chapel of the Resurrection",
+      "latitude": 41.46320175,
+      "longitude": -87.04232566,
+      "directions": "On Chapel Drive, Valparaiso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294501",
+      "photo_urls": []
+    },
+    {
+      "id": "294554",
+      "title": "Victory",
+      "latitude": 41.46396297,
+      "longitude": -87.04917065,
+      "directions": "On University Park Avenue, Valparaiso, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294554",
+      "photo_urls": []
+    },
+    {
+      "id": "295348",
+      "title": "In Memoriam",
+      "latitude": 41.53546944,
+      "longitude": -87.13618889,
+      "directions": "On West 700 North, near Valparaiso, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295348",
+      "photo_urls": []
+    },
+    {
       "id": "29620",
       "title": "The Wayne Trace",
       "latitude": 40.84243333,
       "longitude": -84.86193333,
       "directions": "On North 400 East, Decatur, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29620",
+      "photo_urls": []
+    },
+    {
+      "id": "296477",
+      "title": "Daylighting: Getting Dunes Creek Out of the Pipe",
+      "latitude": 41.66058899,
+      "longitude": -87.06254677,
+      "directions": "On North 25 East, near Chesterton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296477",
+      "photo_urls": []
+    },
+    {
+      "id": "296508",
+      "title": "9/11 Survivor Tree Memorial",
+      "latitude": 41.67634439,
+      "longitude": -85.70635272,
+      "directions": "On North Main Street, Middlebury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296508",
+      "photo_urls": []
+    },
+    {
+      "id": "296512",
+      "title": "\"Making Children Smile\"",
+      "latitude": 41.07577861,
+      "longitude": -85.14135827,
+      "directions": "On West Jefferson Boulevard, Fort Wayne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296512",
+      "photo_urls": []
+    },
+    {
+      "id": "296554",
+      "title": "Gordon Buehrig",
+      "latitude": 41.35640259,
+      "longitude": -85.05754343,
+      "directions": "On South Van Buren Street, Auburn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296554",
+      "photo_urls": []
+    },
+    {
+      "id": "296555",
+      "title": "Frank Eckhart",
+      "latitude": 41.35671804,
+      "longitude": -85.05737124,
+      "directions": "On Wayne Street, Auburn, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296555",
+      "photo_urls": []
+    },
+    {
+      "id": "298045",
+      "title": "St. Augustine’s Church",
+      "latitude": 41.58393889,
+      "longitude": -87.36860556,
+      "directions": "On Ellsworth Street, Gary, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298045",
       "photo_urls": []
     },
     {
