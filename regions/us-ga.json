@@ -3,9 +3,9 @@
   "region_name": "Georgia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.936Z",
-  "source_timestamp": "2026-04-11T19:15:03.936Z",
-  "marker_count": 7527,
+  "generated": "2026-04-25T06:03:20.685Z",
+  "source_timestamp": "2026-04-25T06:03:20.685Z",
+  "marker_count": 7578,
   "markers": [
     {
       "id": "10000",
@@ -3790,9 +3790,9 @@
     {
       "id": "107340",
       "title": "Confederate Monument",
-      "latitude": 33.517418,
-      "longitude": -84.66954,
-      "directions": "On Main Street (U.S. 29) , Palmetto, (On the right when traveling north)",
+      "latitude": 33.51970677,
+      "longitude": -84.66397583,
+      "directions": "On Spring Street, Palmetto, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=107340",
       "photo_urls": []
     },
@@ -45737,6 +45737,15 @@
       "photo_urls": []
     },
     {
+      "id": "294159",
+      "title": "Richard Henry Wilde Monument",
+      "latitude": 33.4742106,
+      "longitude": -81.96893736,
+      "directions": "On Greene Street, Augusta, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294159",
+      "photo_urls": []
+    },
+    {
       "id": "29416",
       "title": "“The Only Advantage of the Day”",
       "latitude": 33.844783,
@@ -45764,12 +45773,39 @@
       "photo_urls": []
     },
     {
+      "id": "294353",
+      "title": "Marquis de Lafayette Visited Augusta In March, 1825.",
+      "latitude": 33.4767582,
+      "longitude": -81.9688881,
+      "directions": "Near Broad Street, Augusta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294353",
+      "photo_urls": []
+    },
+    {
       "id": "29452",
       "title": "Fort McAllister",
       "latitude": 31.88986,
       "longitude": -81.26145,
       "directions": "On Fort McAllister Road (State Route Spur 144) , Richmond Hill, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29452",
+      "photo_urls": []
+    },
+    {
+      "id": "294528",
+      "title": "Richmond Walton McCurry Memorial Forest Park",
+      "latitude": 34.70772,
+      "longitude": -83.41072,
+      "directions": "On Tugalo Short Cut Road, near Clarkesville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294528",
+      "photo_urls": []
+    },
+    {
+      "id": "294568",
+      "title": "Lafayette's Tour",
+      "latitude": 33.47161389,
+      "longitude": -81.96215,
+      "directions": "On Greene Street, Augusta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294568",
       "photo_urls": []
     },
     {
@@ -45782,12 +45818,246 @@
       "photo_urls": []
     },
     {
+      "id": "295037",
+      "title": "The Battle of Chickamauga",
+      "latitude": 34.93995,
+      "longitude": -85.25947,
+      "directions": "On Lafayette Road, Fort Oglethorpe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295037",
+      "photo_urls": []
+    },
+    {
       "id": "29523",
       "title": "Fort Argyle",
       "latitude": 31.972624,
       "longitude": -81.376719,
       "directions": "On U.S. 144, Richmond Hill, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29523",
+      "photo_urls": []
+    },
+    {
+      "id": "295382",
+      "title": "Rout of the Union Right",
+      "latitude": 34.915672,
+      "longitude": -85.266068,
+      "directions": "On Glenn-Kelly Road, near Fort Oglethorpe, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295382",
+      "photo_urls": []
+    },
+    {
+      "id": "295652",
+      "title": "The Battle of Chickamauga",
+      "latitude": 34.94025,
+      "longitude": -85.2601,
+      "directions": "Near Lafayette Road, near Fort Oglethorpe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295652",
+      "photo_urls": []
+    },
+    {
+      "id": "295657",
+      "title": "Chickamauga and Chattanooga National Military Park",
+      "latitude": 34.9403,
+      "longitude": -85.26008333,
+      "directions": "Near Lafayette Road, near Fort Oglethorpe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295657",
+      "photo_urls": []
+    },
+    {
+      "id": "295864",
+      "title": "20th Battery, Ohio Light Artillery",
+      "latitude": 34.92841733,
+      "longitude": -85.25757154,
+      "directions": "Near Battleline Road, Fort Oglethorpe, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295864",
+      "photo_urls": []
+    },
+    {
+      "id": "296046",
+      "title": "Hebron Presbyterian Church",
+      "latitude": 34.30805556,
+      "longitude": -83.37194444,
+      "directions": "On State Route 59, near Commerce, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296046",
+      "photo_urls": []
+    },
+    {
+      "id": "296055",
+      "title": "Battery I, 4th U.S. Artillery",
+      "latitude": 34.93918333,
+      "longitude": -85.2399,
+      "directions": "On Reeds Bridge Road, near Fort Oglethorpe, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296055",
+      "photo_urls": []
+    },
+    {
+      "id": "296061",
+      "title": "Chapel First Baptist Church",
+      "latitude": 33.78635609,
+      "longitude": -84.25613421,
+      "directions": "On Seventh Avenue, Scottdale, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296061",
+      "photo_urls": []
+    },
+    {
+      "id": "296411",
+      "title": "Georgia Railroad Trestle",
+      "latitude": 33.95414552,
+      "longitude": -83.3646148,
+      "directions": "On South Poplar Street, Athens, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296411",
+      "photo_urls": []
+    },
+    {
+      "id": "296412",
+      "title": "Smithgall Woods is Helping to Bring Back America Chestnut Tree",
+      "latitude": 34.69181116,
+      "longitude": -83.76943976,
+      "directions": "On Dukes Creek Drive, Cleveland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296412",
+      "photo_urls": []
+    },
+    {
+      "id": "296438",
+      "title": "Van Buren Sanitarium",
+      "latitude": 32.45335303,
+      "longitude": -81.78934892,
+      "directions": "On Martin Luther King Junior Drive, Statesboro, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296438",
+      "photo_urls": []
+    },
+    {
+      "id": "296497",
+      "title": "The George McDonald House",
+      "latitude": 31.77421747,
+      "longitude": -84.79067508,
+      "directions": "On Lumpkin Street, Cuthbert, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296497",
+      "photo_urls": []
+    },
+    {
+      "id": "296509",
+      "title": "Cook & Brother Armory Earthworks",
+      "latitude": 33.9614013,
+      "longitude": -83.36611648,
+      "directions": "Near First Street, Athens, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296509",
+      "photo_urls": []
+    },
+    {
+      "id": "296510",
+      "title": "Charles E. Aguar",
+      "latitude": 33.9608027,
+      "longitude": -83.36930523,
+      "directions": "On Willow Street, Athens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296510",
+      "photo_urls": []
+    },
+    {
+      "id": "296513",
+      "title": "Hanna Manufacturing Co.",
+      "latitude": 33.96256,
+      "longitude": -83.37028,
+      "directions": "On Willow Street, Athens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296513",
+      "photo_urls": []
+    },
+    {
+      "id": "296514",
+      "title": "River Overlook",
+      "latitude": 33.96256,
+      "longitude": -83.37025,
+      "directions": "On Willow Street, Athens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296514",
+      "photo_urls": []
+    },
+    {
+      "id": "296518",
+      "title": "Full Steam Ahead!",
+      "latitude": 33.95845091,
+      "longitude": -83.37085862,
+      "directions": "On East Broad Street, Athens, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296518",
+      "photo_urls": []
+    },
+    {
+      "id": "296806",
+      "title": "Pittard Park",
+      "latitude": 33.96751834,
+      "longitude": -83.27842224,
+      "directions": "Near Parkview Road, Winterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296806",
+      "photo_urls": []
+    },
+    {
+      "id": "296808",
+      "title": "Domestic Life at the Farm",
+      "latitude": 34.68535587,
+      "longitude": -83.70830057,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296808",
+      "photo_urls": []
+    },
+    {
+      "id": "296809",
+      "title": "The Residence at West End",
+      "latitude": 34.68469989,
+      "longitude": -83.70833511,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296809",
+      "photo_urls": []
+    },
+    {
+      "id": "296810",
+      "title": "Unicoi Turnpike",
+      "latitude": 34.68601972,
+      "longitude": -83.70932042,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296810",
+      "photo_urls": []
+    },
+    {
+      "id": "296811",
+      "title": "Caretaker's House",
+      "latitude": 34.68602071,
+      "longitude": -83.70925537,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296811",
+      "photo_urls": []
+    },
+    {
+      "id": "296816",
+      "title": "Three Families at the Farm",
+      "latitude": 34.6861047,
+      "longitude": -83.70993115,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296816",
+      "photo_urls": []
+    },
+    {
+      "id": "296817",
+      "title": "The Creamery",
+      "latitude": 34.68708949,
+      "longitude": -83.70767097,
+      "directions": "Near State Route 17, Sautee Nacoochee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296817",
+      "photo_urls": []
+    },
+    {
+      "id": "296823",
+      "title": "Historic Red Clay",
+      "latitude": 34.98411202,
+      "longitude": -84.94569022,
+      "directions": "On Wilson Caldwell Road, Cohutta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296823",
+      "photo_urls": []
+    },
+    {
+      "id": "296904",
+      "title": "Green Plantation",
+      "latitude": 33.95225,
+      "longitude": -84.66276,
+      "directions": "On Marietta Highway (State Route 120) , Powder Springs, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296904",
       "photo_urls": []
     },
     {
@@ -45809,12 +46079,111 @@
       "photo_urls": []
     },
     {
+      "id": "297026",
+      "title": "Battle of Pine Knob",
+      "latitude": 33.975083,
+      "longitude": -84.65226,
+      "directions": "On Hamilton Road, near Marietta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297026",
+      "photo_urls": []
+    },
+    {
+      "id": "297065",
+      "title": "Synovus",
+      "latitude": 32.46854444,
+      "longitude": -84.99296667,
+      "directions": "On 12th Street, Columbus, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297065",
+      "photo_urls": []
+    },
+    {
+      "id": "297096",
+      "title": "The Lynching of Private Felix Hall",
+      "latitude": 32.359548,
+      "longitude": -84.968462,
+      "directions": "On Edwards Street, Fort Benning, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297096",
+      "photo_urls": []
+    },
+    {
+      "id": "297097",
+      "title": "First Black Paratroopers",
+      "latitude": 32.351472,
+      "longitude": -84.982351,
+      "directions": "On Bradshaw Road, Fort Benning, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297097",
+      "photo_urls": []
+    },
+    {
       "id": "29710",
       "title": "Battle of Kolb’s Farm",
       "latitude": 33.92165,
       "longitude": -84.60146,
       "directions": "On Cheatham Hill Road, Marietta, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29710",
+      "photo_urls": []
+    },
+    {
+      "id": "297101",
+      "title": "George Watson Field",
+      "latitude": 32.34915055,
+      "longitude": -84.96688085,
+      "directions": "Near Eckel Street, Fort Benning, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297101",
+      "photo_urls": []
+    },
+    {
+      "id": "297111",
+      "title": "24th Infantry Regiment (colored)",
+      "latitude": 32.36069444,
+      "longitude": -84.97521111,
+      "directions": "On Anderson Street, Fort Benning, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297111",
+      "photo_urls": []
+    },
+    {
+      "id": "297113",
+      "title": "Indianhead Housing Area",
+      "latitude": 32.35499167,
+      "longitude": -84.97808056,
+      "directions": "On Indianhead Road, Fort Benning, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297113",
+      "photo_urls": []
+    },
+    {
+      "id": "297118",
+      "title": "Munsan-Ni, Korea",
+      "latitude": 32.35430302,
+      "longitude": -84.96984115,
+      "directions": "On Burr Street, Fort Benning, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297118",
+      "photo_urls": []
+    },
+    {
+      "id": "297254",
+      "title": "Site of the Dickson House",
+      "latitude": 33.9767,
+      "longitude": -84.66933,
+      "directions": "On Acworth-Due West Road, near Marietta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297254",
+      "photo_urls": []
+    },
+    {
+      "id": "297323",
+      "title": "Sukchon & Sunchon, Korea",
+      "latitude": 32.35431737,
+      "longitude": -84.96985772,
+      "directions": "On Burr Street, Fort Benning, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297323",
+      "photo_urls": []
+    },
+    {
+      "id": "297331",
+      "title": "Clandestine Forces",
+      "latitude": 32.35421871,
+      "longitude": -84.96991456,
+      "directions": "On Burr Street, Fort Benning, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297331",
       "photo_urls": []
     },
     {
@@ -45836,12 +46205,102 @@
       "photo_urls": []
     },
     {
+      "id": "297475",
+      "title": "Civic Advancement",
+      "latitude": 33.59604,
+      "longitude": -83.46714,
+      "directions": "On East Jefferson Street, Madison, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297475",
+      "photo_urls": []
+    },
+    {
+      "id": "297481",
+      "title": "Freedom Day",
+      "latitude": 32.47257446,
+      "longitude": -84.99455007,
+      "directions": "On 14th Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297481",
+      "photo_urls": []
+    },
+    {
+      "id": "297548",
+      "title": "Stewart's Division",
+      "latitude": 34.91566667,
+      "longitude": -85.2575,
+      "directions": "Near Brotherton Road, near Fort Oglethorpe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297548",
+      "photo_urls": []
+    },
+    {
       "id": "29755",
       "title": "Federal, Confederate Lines, June 22, 27, 1864.",
       "latitude": 33.944933,
       "longitude": -84.60545,
       "directions": "On John Ward Road, Marietta, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29755",
+      "photo_urls": []
+    },
+    {
+      "id": "297590",
+      "title": "The Incident at Ebenezer Creek",
+      "latitude": 32.37973889,
+      "longitude": -81.20878611,
+      "directions": "On Tommy Long Road, near Rincon, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297590",
+      "photo_urls": []
+    },
+    {
+      "id": "297686",
+      "title": "Oran, Algeria",
+      "latitude": 32.3542235,
+      "longitude": -84.96997821,
+      "directions": "Near Burr Street, Fort Benning, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297686",
+      "photo_urls": []
+    },
+    {
+      "id": "297692",
+      "title": "Nadzab Airfield, New Guinea",
+      "latitude": 32.35422426,
+      "longitude": -84.97003044,
+      "directions": "Near Burr Street, Fort Benning, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297692",
+      "photo_urls": []
+    },
+    {
+      "id": "297858",
+      "title": "Hot Corner",
+      "latitude": 33.95888856,
+      "longitude": -83.37886585,
+      "directions": "On North Hull Street, Athens, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297858",
+      "photo_urls": []
+    },
+    {
+      "id": "297861",
+      "title": "Whittier Mill Village",
+      "latitude": 33.81070162,
+      "longitude": -84.48462602,
+      "directions": "On Wales Avenue Northwest, Atlanta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297861",
+      "photo_urls": []
+    },
+    {
+      "id": "297929",
+      "title": "Liddell's Brigade",
+      "latitude": 34.92393333,
+      "longitude": -85.24545,
+      "directions": "On Alexander Bridge Road, Fort Oglethorpe, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297929",
+      "photo_urls": []
+    },
+    {
+      "id": "297932",
+      "title": "Polk's Brigade",
+      "latitude": 34.92514381,
+      "longitude": -85.24848283,
+      "directions": "Near Alexander Bridge Road, near Fort Oglethorpe, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297932",
       "photo_urls": []
     },
     {
