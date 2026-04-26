@@ -3,9 +3,9 @@
   "region_name": "New Jersey",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.506Z",
-  "source_timestamp": "2026-04-11T19:19:47.506Z",
-  "marker_count": 4852,
+  "generated": "2026-04-26T06:03:14.556Z",
+  "source_timestamp": "2026-04-26T06:03:14.556Z",
+  "marker_count": 4871,
   "markers": [
     {
       "id": "10010",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "118223",
-      "title": "Hereford Inlet Lightouse",
+      "title": "Hereford Inlet Lighthouse",
       "latitude": 39.00689509,
       "longitude": -74.79100048,
       "directions": "On Central Avenue, North Wildwood, (On the left when traveling north)",
@@ -1650,7 +1650,7 @@
       "title": "First Presbyterian Church",
       "latitude": 40.561845,
       "longitude": -74.273605,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=122272",
       "photo_urls": []
     },
@@ -1794,7 +1794,7 @@
       "title": "Adath Israel Synagogue",
       "latitude": 40.55571351,
       "longitude": -74.28330652,
-      "directions": "On Amboy Avenue (Route 35) , Woodbridge, (On the right when traveling north)",
+      "directions": "On Amboy Avenue (Route 35) , Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=124573",
       "photo_urls": []
     },
@@ -1812,7 +1812,7 @@
       "title": "United States Post Office",
       "latitude": 40.55464126,
       "longitude": -74.27862338,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125438",
       "photo_urls": []
     },
@@ -1821,7 +1821,7 @@
       "title": "Woodbridge Township Municipal Building",
       "latitude": 40.55532564,
       "longitude": -74.27622179,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125444",
       "photo_urls": []
     },
@@ -1830,7 +1830,7 @@
       "title": "The Parish Community of St. James",
       "latitude": 40.55599474,
       "longitude": -74.28347013,
-      "directions": "On Amboy Avenue, Woodbridge, ",
+      "directions": "On Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125512",
       "photo_urls": []
     },
@@ -1839,7 +1839,7 @@
       "title": "Soldiers and Sailors Monument",
       "latitude": 40.55537311,
       "longitude": -74.27614262,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125583",
       "photo_urls": []
     },
@@ -1857,7 +1857,7 @@
       "title": "William Cutter House",
       "latitude": 40.55660593,
       "longitude": -74.28272716,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125780",
       "photo_urls": []
     },
@@ -1866,7 +1866,7 @@
       "title": "Methodist Episcopal Church & Parsonage",
       "latitude": 40.55653074,
       "longitude": -74.2830906,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125781",
       "photo_urls": []
     },
@@ -1875,7 +1875,7 @@
       "title": "Shinn-Woodbridge Airport",
       "latitude": 40.55639223,
       "longitude": -74.28327433,
-      "directions": "Near Amboy Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "Near Amboy Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125782",
       "photo_urls": []
     },
@@ -1884,7 +1884,7 @@
       "title": "Fulton Street Train Wreck",
       "latitude": 40.55636526,
       "longitude": -74.28111113,
-      "directions": "On N Park Drive, Woodbridge, (On the right when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125813",
       "photo_urls": []
     },
@@ -1893,7 +1893,7 @@
       "title": "Great Woodbridge Train Wreck of 1951",
       "latitude": 40.55504551,
       "longitude": -74.27735097,
-      "directions": "On Main Street, Woodbridge, ",
+      "directions": "On Main Street, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125814",
       "photo_urls": []
     },
@@ -1902,7 +1902,7 @@
       "title": "Woodbridge War Memorial",
       "latitude": 40.555609,
       "longitude": -74.276106,
-      "directions": "On Main Street, Woodbridge, (On the left when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125815",
       "photo_urls": []
     },
@@ -1911,7 +1911,7 @@
       "title": "First Presbyterian Church of Woodbridge",
       "latitude": 40.55655114,
       "longitude": -74.28116343,
-      "directions": "Near N Park Drive, Woodbridge, ",
+      "directions": "Near North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125836",
       "photo_urls": []
     },
@@ -1920,7 +1920,7 @@
       "title": "Woodbridge Speedway",
       "latitude": 40.55677292,
       "longitude": -74.28151078,
-      "directions": "Near N Park Drive, Woodbridge, ",
+      "directions": "Near North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125887",
       "photo_urls": []
     },
@@ -1929,7 +1929,7 @@
       "title": "Cross Keys Tavern",
       "latitude": 40.55631766,
       "longitude": -74.28331858,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125888",
       "photo_urls": []
     },
@@ -1938,7 +1938,7 @@
       "title": "Fulton Street Neighborhood",
       "latitude": 40.55664377,
       "longitude": -74.28253672,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125972",
       "photo_urls": []
     },
@@ -1947,7 +1947,7 @@
       "title": "African-American Contributions",
       "latitude": 40.55675196,
       "longitude": -74.28223497,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126014",
       "photo_urls": []
     },
@@ -1956,7 +1956,7 @@
       "title": "General Nathaniel Heard",
       "latitude": 40.55622035,
       "longitude": -74.28058303,
-      "directions": "On School Street, Woodbridge, (On the right when traveling south)",
+      "directions": "On School Street, Woodbridge Township, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126093",
       "photo_urls": []
     },
@@ -1965,7 +1965,7 @@
       "title": "Boynton Beach & Sewaren House Hotel",
       "latitude": 40.55640143,
       "longitude": -74.28132723,
-      "directions": "On N Park Drive, Woodbridge, (On the right when traveling west)",
+      "directions": "On N Park Drive, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126130",
       "photo_urls": []
     },
@@ -1974,7 +1974,7 @@
       "title": "M.D. Valentine & Brothers",
       "latitude": 40.5568345,
       "longitude": -74.28176559,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126152",
       "photo_urls": []
     },
@@ -1983,7 +1983,7 @@
       "title": "Trinity Episcopal Church",
       "latitude": 40.55683915,
       "longitude": -74.28192652,
-      "directions": "Near Amboy Avenue, Woodbridge, ",
+      "directions": "Near Amboy Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126154",
       "photo_urls": []
     },
@@ -1992,7 +1992,7 @@
       "title": "A Snapshot of Woodbridge History",
       "latitude": 40.55662981,
       "longitude": -74.27931486,
-      "directions": "On E Park Ave, Woodbridge, (On the left when traveling west)",
+      "directions": "On East Park Avenue, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126254",
       "photo_urls": []
     },
@@ -2001,7 +2001,7 @@
       "title": "Woodbridge Cloverleaf",
       "latitude": 40.55561977,
       "longitude": -74.28344867,
-      "directions": "On Amboy Avenue, Woodbridge, (On the right when traveling south)",
+      "directions": "On Amboy Avenue, Woodbridge Township, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126308",
       "photo_urls": []
     },
@@ -2037,7 +2037,7 @@
       "title": "Revolutionary War Battles in Woodbridge",
       "latitude": 40.55594133,
       "longitude": -74.28394488,
-      "directions": "On N Park Drive, Woodbridge, (On the right when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126352",
       "photo_urls": []
     },
@@ -2046,7 +2046,7 @@
       "title": "Woodbridge History Trail",
       "latitude": 40.55663371,
       "longitude": -74.27918922,
-      "directions": "On E Park Avenue, Woodbridge, (On the left when traveling east)",
+      "directions": "On East Park Avenue, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126381",
       "photo_urls": []
     },
@@ -2055,7 +2055,7 @@
       "title": "Woodbridge Golden Bears",
       "latitude": 40.55574616,
       "longitude": -74.28427983,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126382",
       "photo_urls": []
     },
@@ -2064,7 +2064,7 @@
       "title": "Kirk Green",
       "latitude": 40.55571561,
       "longitude": -74.28547911,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126427",
       "photo_urls": []
     },
@@ -2073,7 +2073,7 @@
       "title": "Historic Green Street",
       "latitude": 40.55564136,
       "longitude": -74.28606872,
-      "directions": "On N Park Drive, Woodbridge, ",
+      "directions": "On North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126470",
       "photo_urls": []
     },
@@ -2082,7 +2082,7 @@
       "title": "Salamander Works",
       "latitude": 40.55561273,
       "longitude": -74.28620269,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126507",
       "photo_urls": []
     },
@@ -2091,7 +2091,7 @@
       "title": "Isaac Inslee Estates",
       "latitude": 40.5554194,
       "longitude": -74.28783945,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126534",
       "photo_urls": []
     },
@@ -2100,7 +2100,7 @@
       "title": "St. John's Episcopal Church",
       "latitude": 40.55542985,
       "longitude": -74.2880321,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126560",
       "photo_urls": []
     },
@@ -2109,7 +2109,7 @@
       "title": "Henry Inman",
       "latitude": 40.55550613,
       "longitude": -74.28888717,
-      "directions": "On N Park Drive, Woodbridge, ",
+      "directions": "On North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126630",
       "photo_urls": []
     },
@@ -2118,7 +2118,7 @@
       "title": "Star Eagle Section",
       "latitude": 40.55568805,
       "longitude": -74.28995519,
-      "directions": "On N Park Drive, Woodbridge, ",
+      "directions": "On North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126670",
       "photo_urls": []
     },
@@ -2127,7 +2127,7 @@
       "title": "Captain Henrik Kurt Carlsen",
       "latitude": 40.55591665,
       "longitude": -74.2906665,
-      "directions": "On N Park Drive, Woodbridge, ",
+      "directions": "On North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126708",
       "photo_urls": []
     },
@@ -2136,7 +2136,7 @@
       "title": "Bloomfield House c. 1750",
       "latitude": 40.55609354,
       "longitude": -74.29108224,
-      "directions": "On N Park Drive, Woodbridge, ",
+      "directions": "On North Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126724",
       "photo_urls": []
     },
@@ -2145,7 +2145,7 @@
       "title": "Colonia Country Club",
       "latitude": 40.55646279,
       "longitude": -74.29225437,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126767",
       "photo_urls": []
     },
@@ -2154,7 +2154,7 @@
       "title": "Leisure in the Good Old Days",
       "latitude": 40.55609598,
       "longitude": -74.29248235,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126768",
       "photo_urls": []
     },
@@ -2163,7 +2163,7 @@
       "title": "Dr. Fred Albee & U.S. General Hospital No. 3",
       "latitude": 40.55571881,
       "longitude": -74.29151458,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126770",
       "photo_urls": []
     },
@@ -2172,7 +2172,7 @@
       "title": "Cooper’s Dairy Farm",
       "latitude": 40.55553347,
       "longitude": -74.29068259,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126772",
       "photo_urls": []
     },
@@ -2181,7 +2181,7 @@
       "title": "St. Anthony of Padua Parish, Port Reading",
       "latitude": 40.55540017,
       "longitude": -74.29023161,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126834",
       "photo_urls": []
     },
@@ -2190,7 +2190,7 @@
       "title": "The Woman’s Club of Fords",
       "latitude": 40.55524124,
       "longitude": -74.28923329,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126836",
       "photo_urls": []
     },
@@ -2199,7 +2199,7 @@
       "title": "Embassy Theatre",
       "latitude": 40.55509095,
       "longitude": -74.28809047,
-      "directions": "On S Park Drive, Woodbridge, ",
+      "directions": "On South Park Drive, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126837",
       "photo_urls": []
     },
@@ -2208,7 +2208,7 @@
       "title": "The Clay-and-Brick Industry",
       "latitude": 40.55527268,
       "longitude": -74.28599946,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126839",
       "photo_urls": []
     },
@@ -2217,7 +2217,7 @@
       "title": "Hampton Cutter Mansion",
       "latitude": 40.55518273,
       "longitude": -74.28573475,
-      "directions": "On S Park Drive, Woodbridge, (On the left when traveling east)",
+      "directions": "On South Park Drive, Woodbridge Township, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=126840",
       "photo_urls": []
     },
@@ -3774,7 +3774,7 @@
       "title": "Colonia Triangle & Colonia Library",
       "latitude": 40.55635682,
       "longitude": -74.2918574,
-      "directions": "On N Park Drive, Woodbridge, (On the left when traveling west)",
+      "directions": "On North Park Drive, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=148317",
       "photo_urls": []
     },
@@ -10191,7 +10191,7 @@
       "title": "Woodbridge United Methodist Church",
       "latitude": 40.55439297,
       "longitude": -74.27848697,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190053",
       "photo_urls": []
     },
@@ -10218,7 +10218,7 @@
       "title": "Aaron Dunn Homestead/Jost-Keating House",
       "latitude": 40.56199,
       "longitude": -74.27444,
-      "directions": "On Freeman Street, Woodbridge, ",
+      "directions": "On Freeman Street, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190056",
       "photo_urls": []
     },
@@ -10227,7 +10227,7 @@
       "title": "Dr. Moses Bloomfield House",
       "latitude": 40.56281,
       "longitude": -74.28038,
-      "directions": "On Harrell Avenue, Woodbridge, ",
+      "directions": "On Harrell Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190058",
       "photo_urls": []
     },
@@ -10236,7 +10236,7 @@
       "title": "First Presbyterian Church Cemetery",
       "latitude": 40.562813,
       "longitude": -74.273195,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190060",
       "photo_urls": []
     },
@@ -10245,7 +10245,7 @@
       "title": "Trinity Episcopal Church",
       "latitude": 40.563175,
       "longitude": -74.273318,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190062",
       "photo_urls": []
     },
@@ -10254,7 +10254,7 @@
       "title": "School Number 1",
       "latitude": 40.55553515,
       "longitude": -74.28057075,
-      "directions": "On School Street, Woodbridge, (On the right when traveling south)",
+      "directions": "On School Street, Woodbridge Township, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190136",
       "photo_urls": []
     },
@@ -11316,7 +11316,7 @@
       "title": "S.W. Phillips Grist & Saw Mill",
       "latitude": 40.55343037,
       "longitude": -74.26622231,
-      "directions": "On Woodbridge Avenue, Woodbridge, (On the left when traveling west)",
+      "directions": "On Woodbridge Avenue, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191203",
       "photo_urls": []
     },
@@ -11343,7 +11343,7 @@
       "title": "Woodbridge High School",
       "latitude": 40.55900974,
       "longitude": -74.27912227,
-      "directions": "On Barron Ave., Woodbridge, (On the left when traveling north)",
+      "directions": "On Barron Avenue, Woodbridge Township, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191208",
       "photo_urls": []
     },
@@ -11361,7 +11361,7 @@
       "title": "44 Green Street",
       "latitude": 40.557889,
       "longitude": -74.27878953,
-      "directions": "On Green St. (County Route 604) , Woodbridge, (On the right when traveling west)",
+      "directions": "On Green Street (County Route 604) , Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191212",
       "photo_urls": []
     },
@@ -11370,7 +11370,7 @@
       "title": "125 Green Street",
       "latitude": 40.55766131,
       "longitude": -74.28303244,
-      "directions": "On Green St. (County Route 604) , Woodbridge, (On the right when traveling east)",
+      "directions": "On Green St. (County Route 604) , Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191213",
       "photo_urls": []
     },
@@ -11379,7 +11379,7 @@
       "title": "Fitz Randolph-Csaki House",
       "latitude": 40.56070961,
       "longitude": -74.27449742,
-      "directions": "On Rahway Ave. (County Route 514) , Woodbridge, (On the right when traveling south)",
+      "directions": "On Rahway Avenue (County Route 514) , Woodbridge Township, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191214",
       "photo_urls": []
     },
@@ -11415,7 +11415,7 @@
       "title": "Barron House",
       "latitude": 40.56057276,
       "longitude": -74.27425397,
-      "directions": "On Rahway Avenue (County Route 514) , Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue (County Route 514) , Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191712",
       "photo_urls": []
     },
@@ -11424,7 +11424,7 @@
       "title": "Barron Library",
       "latitude": 40.561157,
       "longitude": -74.273946,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191713",
       "photo_urls": []
     },
@@ -11433,7 +11433,7 @@
       "title": "First Congregational Church",
       "latitude": 40.55974127,
       "longitude": -74.27926261,
-      "directions": "On Grove Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On Grove Avenue, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191714",
       "photo_urls": []
     },
@@ -11442,7 +11442,7 @@
       "title": "247 Green Street",
       "latitude": 40.55698234,
       "longitude": -74.28883531,
-      "directions": "On Green Street (County Route 604) , Woodbridge, (On the right when traveling west)",
+      "directions": "On Green Street (County Route 604) , Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=191717",
       "photo_urls": []
     },
@@ -11883,7 +11883,7 @@
       "title": "Trinity Churchyard",
       "latitude": 40.564161,
       "longitude": -74.273085,
-      "directions": "On Rahway Avenue (County Route 514) , Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue (County Route 514) , Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=194312",
       "photo_urls": []
     },
@@ -11892,7 +11892,7 @@
       "title": "Jonathan Dunham House",
       "latitude": 40.564225,
       "longitude": -74.273081,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=194314",
       "photo_urls": []
     },
@@ -11901,7 +11901,7 @@
       "title": "125 Freeman Street",
       "latitude": 40.562107,
       "longitude": -74.280248,
-      "directions": "On Freeman Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Freeman Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=194315",
       "photo_urls": []
     },
@@ -11910,7 +11910,7 @@
       "title": "Cross Keys Tavern",
       "latitude": 40.55432,
       "longitude": -74.283572,
-      "directions": "On S James Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On South James Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=194317",
       "photo_urls": []
     },
@@ -11919,7 +11919,7 @@
       "title": "J J Bitting Coal and Feed Depot",
       "latitude": 40.554851,
       "longitude": -74.277197,
-      "directions": "On Main Street, Woodbridge, (On the left when traveling west)",
+      "directions": "On Main Street, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=194320",
       "photo_urls": []
     },
@@ -12387,7 +12387,7 @@
       "title": "Our Lady of Mount Carmel",
       "latitude": 40.55047186,
       "longitude": -74.27968163,
-      "directions": "On Amboy Avenue (State Route 35) , Woodbridge, (On the right when traveling north)",
+      "directions": "On Amboy Avenue (State Route 35) , Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=195828",
       "photo_urls": []
     },
@@ -12396,7 +12396,7 @@
       "title": "St. James Roman Catholic Parish",
       "latitude": 40.55325177,
       "longitude": -74.28223256,
-      "directions": "On Amboy Avenue (Route 35) , Woodbridge, (On the left when traveling north)",
+      "directions": "On Amboy Avenue (Route 35) , Woodbridge Township, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=195829",
       "photo_urls": []
     },
@@ -12783,7 +12783,7 @@
       "title": "United States Post Office",
       "latitude": 40.554321,
       "longitude": -74.283693,
-      "directions": "On S James Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On South James Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19888",
       "photo_urls": []
     },
@@ -12792,7 +12792,7 @@
       "title": "George Washington’s Inauguration",
       "latitude": 40.553714,
       "longitude": -74.282733,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19889",
       "photo_urls": []
     },
@@ -12801,7 +12801,7 @@
       "title": "St. James School",
       "latitude": 40.551217,
       "longitude": -74.288768,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19890",
       "photo_urls": []
     },
@@ -13359,7 +13359,7 @@
       "title": "St. James Catholic School",
       "latitude": 40.55221457,
       "longitude": -74.28164499,
-      "directions": "On Amboy Avenue (State Route 35) , Woodbridge, (On the right when traveling south)",
+      "directions": "On Amboy Avenue (State Route 35) , Woodbridge Township, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205546",
       "photo_urls": []
     },
@@ -19524,7 +19524,7 @@
       "title": "87 Green Street",
       "latitude": 40.55764861,
       "longitude": -74.28093906,
-      "directions": "On Green Street, Woodbridge, (On the left when traveling west)",
+      "directions": "On Green Street, Woodbridge Township, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=234208",
       "photo_urls": []
     },
@@ -19693,9 +19693,9 @@
     {
       "id": "238306",
       "title": "South Orange Memorial Rock - WWII",
-      "latitude": 41.24911667,
-      "longitude": -74.43563333,
-      "directions": "Near North Ridgewood Road, South Orange, ",
+      "latitude": 40.74932493,
+      "longitude": -74.26200887,
+      "directions": "Near North Ridgewood Road, South Orange, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=238306",
       "photo_urls": []
     },
@@ -24263,12 +24263,183 @@
       "photo_urls": []
     },
     {
+      "id": "294763",
+      "title": "Ye Town Tavern",
+      "latitude": 40.50801179,
+      "longitude": -74.26537965,
+      "directions": "On High Street, Perth Amboy, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294763",
+      "photo_urls": []
+    },
+    {
+      "id": "294764",
+      "title": "Simpson United Methodist Church",
+      "latitude": 40.50881944,
+      "longitude": -74.26507778,
+      "directions": "On High Street, Perth Amboy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294764",
+      "photo_urls": []
+    },
+    {
+      "id": "295003",
+      "title": "Welcome to Dublin",
+      "latitude": 40.79024856,
+      "longitude": -74.47873784,
+      "directions": "On MacCulloch Avenue, Morristown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295003",
+      "photo_urls": []
+    },
+    {
+      "id": "296012",
+      "title": "Margetts Field",
+      "latitude": 40.74929722,
+      "longitude": -74.47386111,
+      "directions": "On Blue Mill Road, Harding Township, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296012",
+      "photo_urls": []
+    },
+    {
+      "id": "296192",
+      "title": "Von Zuben Field",
+      "latitude": 40.74958333,
+      "longitude": -74.48333056,
+      "directions": "On James Street, Harding Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296192",
+      "photo_urls": []
+    },
+    {
+      "id": "296635",
+      "title": "Orchards at Morven",
+      "latitude": 40.34871667,
+      "longitude": -74.66712222,
+      "directions": "Near Stockton Street (U.S. 206) , Princeton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296635",
+      "photo_urls": []
+    },
+    {
+      "id": "296957",
+      "title": "Dutch Neck Historic Community",
+      "latitude": 40.282409,
+      "longitude": -74.61385197,
+      "directions": "On Village Road West, West Windsor Township, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296957",
+      "photo_urls": []
+    },
+    {
+      "id": "296964",
+      "title": "Edinburg Historic Community",
+      "latitude": 40.25875297,
+      "longitude": -74.616167,
+      "directions": "On Edinburg Road, West Windsor Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296964",
+      "photo_urls": []
+    },
+    {
+      "id": "296981",
+      "title": "Grovers Mill Historic Community",
+      "latitude": 40.315283,
+      "longitude": -74.60816097,
+      "directions": "On Cranbury Road, West Windsor Township, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296981",
+      "photo_urls": []
+    },
+    {
+      "id": "297002",
+      "title": "Penns Neck Historic Community",
+      "latitude": 40.3307345,
+      "longitude": -74.63695008,
+      "directions": "On Washington Road (County Route 571) , West Windsor Township, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297002",
+      "photo_urls": []
+    },
+    {
+      "id": "297004",
+      "title": "Schenck Farmstead Historic Site",
+      "latitude": 40.276853,
+      "longitude": -74.591228,
+      "directions": "Near 58 Southfield Road, West Windsor Township, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297004",
+      "photo_urls": []
+    },
+    {
+      "id": "297533",
+      "title": "The Farm Before the Park",
+      "latitude": 40.26255497,
+      "longitude": -74.648156,
+      "directions": "Near Paxson Avenue, West Windsor Township, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297533",
+      "photo_urls": []
+    },
+    {
+      "id": "297630",
+      "title": "Patterned Brick Farmhouses",
+      "latitude": 40.26232,
+      "longitude": -74.64806697,
+      "directions": "On Paxson Avenue, West Windsor Township, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297630",
+      "photo_urls": []
+    },
+    {
+      "id": "297726",
+      "title": "The Rogers Family: Roots and Branches",
+      "latitude": 40.26221497,
+      "longitude": -74.64777597,
+      "directions": "On Paxson Avenue, West Windsor Township, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297726",
+      "photo_urls": []
+    },
+    {
+      "id": "297758",
+      "title": "Uncovered History: The Soldiers’ Cemetery",
+      "latitude": 40.774809,
+      "longitude": -74.53801,
+      "directions": "On Grand Parade Road, near Harding, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297758",
+      "photo_urls": []
+    },
+    {
       "id": "29783",
       "title": "Pulaski Legion Memorial",
       "latitude": 39.575223,
       "longitude": -74.368791,
       "directions": "On Radio Road, Little Egg Harbor Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29783",
+      "photo_urls": []
+    },
+    {
+      "id": "298054",
+      "title": "Trolley Line Trail Memorial",
+      "latitude": 40.30593747,
+      "longitude": -74.60287684,
+      "directions": "Near Trolley Line Trail, West Windsor Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298054",
+      "photo_urls": []
+    },
+    {
+      "id": "298058",
+      "title": "John & Alicia Nash",
+      "latitude": 40.3119744,
+      "longitude": -74.62054204,
+      "directions": "On Alexander Road, West Windsor Township, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298058",
+      "photo_urls": []
+    },
+    {
+      "id": "298059",
+      "title": "Glen Acres Historic Neighborhood",
+      "latitude": 40.33023297,
+      "longitude": -74.64867597,
+      "directions": "On Alexander Road, West Windsor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298059",
+      "photo_urls": []
+    },
+    {
+      "id": "298173",
+      "title": "Welcome to the 1761 Brearley House",
+      "latitude": 40.292413,
+      "longitude": -74.700754,
+      "directions": "Near Meadow Road, Lawrence Township, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298173",
       "photo_urls": []
     },
     {
@@ -27471,7 +27642,7 @@
       "title": "The Canal Dug By Irishmen",
       "latitude": 40.34351,
       "longitude": -74.629827,
-      "directions": "Near Mapleton Road, Princeton, ",
+      "directions": "Near Mapleton Road, near Princeton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=36956",
       "photo_urls": []
     },
@@ -28245,7 +28416,7 @@
       "title": "Trinity Episcopal Church",
       "latitude": 40.56342,
       "longitude": -74.272803,
-      "directions": "On Rahway Avenue, Woodbridge, (On the left when traveling south)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39976",
       "photo_urls": []
     },
@@ -30393,7 +30564,7 @@
     },
     {
       "id": "44775",
-      "title": "Haines / Cochley / Singer House",
+      "title": "Haines/Cochley/Singer House",
       "latitude": 39.898669,
       "longitude": -74.832175,
       "directions": "On Old Marlton Pike, Medford, (On the right when traveling west)",
@@ -33417,7 +33588,7 @@
     },
     {
       "id": "5790",
-      "title": "Spanish War Marker",
+      "title": "Spanish War Memorial",
       "latitude": 39.35443333,
       "longitude": -74.43672778,
       "directions": "On Boardwalk, Atlantic City, ",
@@ -34032,7 +34203,7 @@
       "title": "Trinity Church",
       "latitude": 40.563379,
       "longitude": -74.273272,
-      "directions": "On Rahway Avenue, Woodbridge, ",
+      "directions": "On Rahway Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62703",
       "photo_urls": []
     },
@@ -34041,7 +34212,7 @@
       "title": "First Presbyterian Church",
       "latitude": 40.561492,
       "longitude": -74.273694,
-      "directions": "On Port Reading Avenue, Woodbridge, (On the right when traveling west)",
+      "directions": "On Port Reading Avenue, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62707",
       "photo_urls": []
     },
@@ -34050,7 +34221,7 @@
       "title": "First Presbyterian Church of Woodbridge",
       "latitude": 40.561641,
       "longitude": -74.273755,
-      "directions": "On Rahway Avenue, Woodbridge, (On the right when traveling north)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62710",
       "photo_urls": []
     },
@@ -34104,7 +34275,7 @@
       "title": "NJ POW Memorial",
       "latitude": 40.555371,
       "longitude": -74.275935,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62734",
       "photo_urls": []
     },
@@ -34113,7 +34284,7 @@
       "title": "Purple Heart Memorial",
       "latitude": 40.555353,
       "longitude": -74.276035,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62735",
       "photo_urls": []
     },
@@ -35616,7 +35787,7 @@
       "title": "Woodbridge Township",
       "latitude": 40.55514848,
       "longitude": -74.27641869,
-      "directions": "On Main Street, Woodbridge, (On the right when traveling east)",
+      "directions": "On Main Street, Woodbridge Township, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6679",
       "photo_urls": []
     },
@@ -35625,7 +35796,7 @@
       "title": "Woodbridge Police Memorial",
       "latitude": 40.55507511,
       "longitude": -74.2763114,
-      "directions": "On Main Street, Woodbridge, ",
+      "directions": "On Main Street, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6680",
       "photo_urls": []
     },
@@ -35634,7 +35805,7 @@
       "title": "The Second World War Memorial",
       "latitude": 40.55194484,
       "longitude": -74.2589736,
-      "directions": "On Woodbridge Avenue, Woodbridge, ",
+      "directions": "On Woodbridge Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6681",
       "photo_urls": []
     },
@@ -38739,7 +38910,7 @@
       "title": "Revolutionary Soldiers and Patriots of Woodbridge",
       "latitude": 40.562652,
       "longitude": -74.273254,
-      "directions": "On Rahway Avenue, Woodbridge, (On the left when traveling south)",
+      "directions": "On Rahway Avenue, Woodbridge Township, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7904",
       "photo_urls": []
     },
@@ -40413,7 +40584,7 @@
       "title": "Woodbridge",
       "latitude": 40.555906,
       "longitude": -74.283581,
-      "directions": "On Amboy Avenue (State Route 35) , Woodbridge, (On the left when traveling north)",
+      "directions": "On Amboy Avenue (State Route 35) , Woodbridge Township, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=88629",
       "photo_urls": []
     },
@@ -40863,7 +41034,7 @@
       "title": "Cross Keys Tavern",
       "latitude": 40.554301,
       "longitude": -74.283441,
-      "directions": "On S James Street, Woodbridge, (On the right when traveling west)",
+      "directions": "On South James Street, Woodbridge Township, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=8987",
       "photo_urls": []
     },
@@ -42375,7 +42546,7 @@
       "title": "Barron Arts Center",
       "latitude": 40.56104,
       "longitude": -74.27401,
-      "directions": "On Rahway Avenue, Woodbridge, ",
+      "directions": "On Rahway Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=93950",
       "photo_urls": []
     },
@@ -42384,7 +42555,7 @@
       "title": "Barron Estate",
       "latitude": 40.56114,
       "longitude": -74.27393,
-      "directions": "On Rahway Avenue, Woodbridge, ",
+      "directions": "On Rahway Avenue, Woodbridge Township, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=93953",
       "photo_urls": []
     },
