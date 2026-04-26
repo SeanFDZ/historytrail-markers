@@ -3,9 +3,9 @@
   "region_name": "Tennessee",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.341Z",
-  "source_timestamp": "2026-04-11T19:21:31.341Z",
-  "marker_count": 8454,
+  "generated": "2026-04-26T06:03:14.614Z",
+  "source_timestamp": "2026-04-26T06:03:14.614Z",
+  "marker_count": 8519,
   "markers": [
     {
       "id": "100111",
@@ -5979,7 +5979,7 @@
       "title": "Mount Le Conte",
       "latitude": 35.654167,
       "longitude": -83.43667,
-      "directions": "Near , Gatlinburg, ",
+      "directions": "Near Boulevard Trail, Gatlinburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=137898",
       "photo_urls": []
     },
@@ -10927,8 +10927,8 @@
     {
       "id": "150461",
       "title": "Grundy County Confederate Memorial",
-      "latitude": 35.43038611,
-      "longitude": -85.72267222,
+      "latitude": 35.43042003,
+      "longitude": -85.72279351,
       "directions": "On Cumberland Street, Altamont, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=150461",
       "photo_urls": []
@@ -27804,7 +27804,7 @@
       "title": "Sunset Park",
       "latitude": 35.96127778,
       "longitude": -86.68363889,
-      "directions": "On , Nolensville, ",
+      "directions": "On Sunset Road, Nolensville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=198902",
       "photo_urls": []
     },
@@ -30054,7 +30054,7 @@
       "title": "Joseph Hanover",
       "latitude": 35.14559782,
       "longitude": -90.05515715,
-      "directions": "Near , Memphis, ",
+      "directions": "Near North Front Street, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=204807",
       "photo_urls": []
     },
@@ -30090,7 +30090,7 @@
       "title": "Maxine Atkins Smith",
       "latitude": 35.1456637,
       "longitude": -90.05514338,
-      "directions": "Near , Memphis, ",
+      "directions": "Near North Front Street, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205158",
       "photo_urls": []
     },
@@ -30405,7 +30405,7 @@
       "title": "Dorothy \"Happy\" Snowden Jones",
       "latitude": 35.14563694,
       "longitude": -90.05508436,
-      "directions": "Near , Memphis, ",
+      "directions": "Near North Front Street, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205427",
       "photo_urls": []
     },
@@ -31314,7 +31314,7 @@
       "title": "David Robert \"Bobby\" Ray",
       "latitude": 36.20355028,
       "longitude": -86.29910723,
-      "directions": "Near , Lebanon, ",
+      "directions": "Near no nearby street, Lebanon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207686",
       "photo_urls": []
     },
@@ -31332,7 +31332,7 @@
       "title": "The Reverend Dr. Winstead Paine Bone",
       "latitude": 36.20392831,
       "longitude": -86.29898564,
-      "directions": "Near , Lebanon, ",
+      "directions": "Near Cumberland Drive, Lebanon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207688",
       "photo_urls": []
     },
@@ -31566,7 +31566,7 @@
       "title": "Preserving Camp Blount",
       "latitude": 35.14039268,
       "longitude": -86.56622359,
-      "directions": "Near , Fayetteville, ",
+      "directions": "Near U.S. 231, Fayetteville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207967",
       "photo_urls": []
     },
@@ -39414,7 +39414,7 @@
       "title": "Early Rugby’s Appalachian Neighbors",
       "latitude": 36.35632869,
       "longitude": -84.70213663,
-      "directions": "Near , near Rugby, ",
+      "directions": "Near Farrington Road, near Rugby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=219897",
       "photo_urls": []
     },
@@ -39423,7 +39423,7 @@
       "title": "Welcome to the Massengale Homeplace",
       "latitude": 36.35562912,
       "longitude": -84.70208355,
-      "directions": "Near , near Rugby, ",
+      "directions": "Near Farrington Road, near Rugby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=219900",
       "photo_urls": []
     },
@@ -39432,7 +39432,7 @@
       "title": "Meet the Massengales",
       "latitude": 36.35686109,
       "longitude": -84.70420189,
-      "directions": "Near , near Rugby, ",
+      "directions": "Near Farrington Road, near Rugby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=219901",
       "photo_urls": []
     },
@@ -42222,7 +42222,7 @@
       "title": "First Abolition Publications",
       "latitude": 36.2932,
       "longitude": -82.47633333,
-      "directions": "On , Jonesborough, ",
+      "directions": "On North 2nd Avenue, Jonesborough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22847",
       "photo_urls": []
     },
@@ -42231,7 +42231,7 @@
       "title": "Thomas Emmerson",
       "latitude": 36.2954,
       "longitude": -82.46888333,
-      "directions": "On , Jonesborough, ",
+      "directions": "On East Main Street, Jonesborough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22851",
       "photo_urls": []
     },
@@ -43428,7 +43428,7 @@
       "title": "The University of Memphis 9-11 Memorial Tree",
       "latitude": 35.11828611,
       "longitude": -89.93855278,
-      "directions": "Near , Memphis, ",
+      "directions": "Near Alumni Avenue, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240734",
       "photo_urls": []
     },
@@ -46137,7 +46137,7 @@
       "title": "The Cherokee, the Chickamauga, and John Ross",
       "latitude": 35.05637987,
       "longitude": -85.30752065,
-      "directions": "Near , Chattanooga, ",
+      "directions": "Near Bluff View Avenue, Chattanooga, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=254493",
       "photo_urls": []
     },
@@ -54566,6 +54566,591 @@
       "photo_urls": []
     },
     {
+      "id": "294325",
+      "title": "Elizabethton Carter County Veterans Walk of Honor",
+      "latitude": 36.347837,
+      "longitude": -82.2164547,
+      "directions": "On East Elk Avenue, Elizabethton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294325",
+      "photo_urls": []
+    },
+    {
+      "id": "294326",
+      "title": "60 Missing in Action and Prisoners of War from Carter County",
+      "latitude": 36.3484182,
+      "longitude": -82.2166133,
+      "directions": "On East E Street, Elizabethton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294326",
+      "photo_urls": []
+    },
+    {
+      "id": "294327",
+      "title": "Distinguished Service Cross Recipients from Carter County",
+      "latitude": 36.3484014,
+      "longitude": -82.2166042,
+      "directions": "On East E Street, Elizabethton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294327",
+      "photo_urls": []
+    },
+    {
+      "id": "294332",
+      "title": "Hunter Cottage",
+      "latitude": 36.34619477,
+      "longitude": -82.21182408,
+      "directions": "On South Riverside Drive, Elizabethton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294332",
+      "photo_urls": []
+    },
+    {
+      "id": "294761",
+      "title": "Battle of Milton",
+      "latitude": 35.92711088,
+      "longitude": -86.19642054,
+      "directions": "On Lascassas Pike, near Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294761",
+      "photo_urls": []
+    },
+    {
+      "id": "294835",
+      "title": "The Bumpass Trace",
+      "latitude": 35.22331374,
+      "longitude": -87.13925004,
+      "directions": "On Lawrenceburg Highway (U.S. 64) , near Pulaski, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294835",
+      "photo_urls": []
+    },
+    {
+      "id": "295044",
+      "title": "Pig Sty",
+      "latitude": 36.2940597,
+      "longitude": -82.3338853,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295044",
+      "photo_urls": []
+    },
+    {
+      "id": "295048",
+      "title": "Still House",
+      "latitude": 36.29358985,
+      "longitude": -82.33328859,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295048",
+      "photo_urls": []
+    },
+    {
+      "id": "295053",
+      "title": "Springhouse",
+      "latitude": 36.2936829,
+      "longitude": -82.3332328,
+      "directions": "Near South Roan Street, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295053",
+      "photo_urls": []
+    },
+    {
+      "id": "295058",
+      "title": "The Limestone Cave",
+      "latitude": 36.2934891,
+      "longitude": -82.3330679,
+      "directions": "On South Roan Street, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295058",
+      "photo_urls": []
+    },
+    {
+      "id": "295060",
+      "title": "The Journey of André Michaux",
+      "latitude": 36.2933309,
+      "longitude": -82.33327048,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295060",
+      "photo_urls": []
+    },
+    {
+      "id": "295062",
+      "title": "Buffalo Trace",
+      "latitude": 36.2935416,
+      "longitude": -82.3345752,
+      "directions": "On South Roan Street, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295062",
+      "photo_urls": []
+    },
+    {
+      "id": "295157",
+      "title": "Corn Crib",
+      "latitude": 36.29396133,
+      "longitude": -82.33415391,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295157",
+      "photo_urls": []
+    },
+    {
+      "id": "295159",
+      "title": "Barn",
+      "latitude": 36.29421548,
+      "longitude": -82.3340244,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295159",
+      "photo_urls": []
+    },
+    {
+      "id": "295160",
+      "title": "The Ell",
+      "latitude": 36.2939527,
+      "longitude": -82.3347232,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295160",
+      "photo_urls": []
+    },
+    {
+      "id": "295173",
+      "title": "Colonel Tipton Cabin",
+      "latitude": 36.2938057,
+      "longitude": -82.3347741,
+      "directions": "On South Roan Street, Johnson City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295173",
+      "photo_urls": []
+    },
+    {
+      "id": "295177",
+      "title": "Tipton-Haynes Home",
+      "latitude": 36.2936871,
+      "longitude": -82.3348107,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295177",
+      "photo_urls": []
+    },
+    {
+      "id": "295180",
+      "title": "Battle of the State of Franklin",
+      "latitude": 36.2937173,
+      "longitude": -82.3349019,
+      "directions": "On South Roan Street, Johnson City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295180",
+      "photo_urls": []
+    },
+    {
+      "id": "295182",
+      "title": "Law Office",
+      "latitude": 36.29381435,
+      "longitude": -82.334992,
+      "directions": "On South Roan Street, Johnson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295182",
+      "photo_urls": []
+    },
+    {
+      "id": "295237",
+      "title": "Texas",
+      "latitude": 35.91661072,
+      "longitude": -86.87297881,
+      "directions": "Near Columbia Avenue, Franklin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295237",
+      "photo_urls": []
+    },
+    {
+      "id": "295524",
+      "title": "Kirkland Elementary School for African American Students",
+      "latitude": 35.81871877,
+      "longitude": -86.66136517,
+      "directions": "On Horton Highway (U.S. 31A/41A) , near College Grove, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295524",
+      "photo_urls": []
+    },
+    {
+      "id": "295526",
+      "title": "Riley Gentry Grocery Store",
+      "latitude": 36.16165974,
+      "longitude": -85.49898807,
+      "directions": "On East Spring Street, Cookeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295526",
+      "photo_urls": []
+    },
+    {
+      "id": "295528",
+      "title": "Cookeville Recappers",
+      "latitude": 36.16169028,
+      "longitude": -85.49858764,
+      "directions": "On East Spring Street, Cookeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295528",
+      "photo_urls": []
+    },
+    {
+      "id": "295529",
+      "title": "Putnam County Courthouse",
+      "latitude": 36.16228307,
+      "longitude": -85.49979742,
+      "directions": "On Tennessee 24, Cookeville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295529",
+      "photo_urls": []
+    },
+    {
+      "id": "295531",
+      "title": "1886 Isbell Hotel",
+      "latitude": 36.16170305,
+      "longitude": -85.4995399,
+      "directions": "On S Washington Ave, Cookeville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295531",
+      "photo_urls": []
+    },
+    {
+      "id": "296389",
+      "title": "Tennessee Civil War Trails",
+      "latitude": 35.03614,
+      "longitude": -86.87819,
+      "directions": "On Interstate 65, Elkton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296389",
+      "photo_urls": []
+    },
+    {
+      "id": "296391",
+      "title": "TDOT Welcome Center Pollinator Meadow",
+      "latitude": 35.03596445,
+      "longitude": -86.87798452,
+      "directions": "On Interstate 65, near Elkton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296391",
+      "photo_urls": []
+    },
+    {
+      "id": "296557",
+      "title": "W.K. Walsh House",
+      "latitude": 35.61979657,
+      "longitude": -88.81557562,
+      "directions": "On East Deaderick Street, Jackson, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296557",
+      "photo_urls": []
+    },
+    {
+      "id": "296601",
+      "title": "428 N. Cumberland",
+      "latitude": 35.61950443,
+      "longitude": -88.81573435,
+      "directions": "On North Cumberland Street, Jackson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296601",
+      "photo_urls": []
+    },
+    {
+      "id": "296824",
+      "title": "Blacksmith Shop",
+      "latitude": 34.99278611,
+      "longitude": -84.94464167,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296824",
+      "photo_urls": []
+    },
+    {
+      "id": "296827",
+      "title": "Inside the Farmhouse",
+      "latitude": 34.9929348,
+      "longitude": -84.94468871,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296827",
+      "photo_urls": []
+    },
+    {
+      "id": "296828",
+      "title": "Cherokee Farmstead",
+      "latitude": 34.99299986,
+      "longitude": -84.94485464,
+      "directions": "On Red Clay Park Road Southwest, Cleveland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296828",
+      "photo_urls": []
+    },
+    {
+      "id": "296985",
+      "title": "Gold Star Families Memorial Monument",
+      "latitude": 35.12146541,
+      "longitude": -89.97930055,
+      "directions": "On Early Maxwell Drive, Memphis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296985",
+      "photo_urls": []
+    },
+    {
+      "id": "296992",
+      "title": "Martin Luther King, Jr.",
+      "latitude": 35.13454743,
+      "longitude": -90.05774379,
+      "directions": "On Mulberry Street, Memphis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296992",
+      "photo_urls": []
+    },
+    {
+      "id": "297009",
+      "title": "Lorraine Motel Vintage Cars",
+      "latitude": 35.13457894,
+      "longitude": -90.05775108,
+      "directions": "On Mulberry Street, Memphis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297009",
+      "photo_urls": []
+    },
+    {
+      "id": "297011",
+      "title": "Founders Park Banners",
+      "latitude": 35.13459212,
+      "longitude": -90.05806337,
+      "directions": "On Mulberry Street, Memphis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297011",
+      "photo_urls": []
+    },
+    {
+      "id": "297012",
+      "title": "Founders Park",
+      "latitude": 35.13461396,
+      "longitude": -90.05808032,
+      "directions": "On Mulberry Street, Memphis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297012",
+      "photo_urls": []
+    },
+    {
+      "id": "297028",
+      "title": "Veterans Monument",
+      "latitude": 36.5341058,
+      "longitude": -82.5297996,
+      "directions": "On Fort Henry Drive (State Route 36) , Kingsport, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297028",
+      "photo_urls": []
+    },
+    {
+      "id": "297030",
+      "title": "The First Kingsport Veterans Memorial",
+      "latitude": 36.5336707,
+      "longitude": -82.52845716,
+      "directions": "On Fort Henry Drive (State Route 36) , Kingsport, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297030",
+      "photo_urls": []
+    },
+    {
+      "id": "297063",
+      "title": "A Visitor's Account",
+      "latitude": 34.99328081,
+      "longitude": -84.94508868,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297063",
+      "photo_urls": []
+    },
+    {
+      "id": "297066",
+      "title": "Sleeping Huts",
+      "latitude": 34.9932865,
+      "longitude": -84.94528279,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297066",
+      "photo_urls": []
+    },
+    {
+      "id": "297067",
+      "title": "Red Clay Council",
+      "latitude": 34.99318614,
+      "longitude": -84.94574413,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297067",
+      "photo_urls": []
+    },
+    {
+      "id": "297068",
+      "title": "The Great Council Spring",
+      "latitude": 34.99302005,
+      "longitude": -84.94609643,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297068",
+      "photo_urls": []
+    },
+    {
+      "id": "297069",
+      "title": "Red Clay Council Grounds",
+      "latitude": 34.99353771,
+      "longitude": -84.94681702,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297069",
+      "photo_urls": []
+    },
+    {
+      "id": "297071",
+      "title": "Eternal Flame of the Cherokee Nation",
+      "latitude": 34.99341659,
+      "longitude": -84.94657553,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297071",
+      "photo_urls": []
+    },
+    {
+      "id": "297073",
+      "title": "The Eternal Flame",
+      "latitude": 34.99339857,
+      "longitude": -84.9461083,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297073",
+      "photo_urls": []
+    },
+    {
+      "id": "297075",
+      "title": "The Cherokee Today",
+      "latitude": 34.99422568,
+      "longitude": -84.94574279,
+      "directions": "Near Red Clay Park Road Southwest, Cleveland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297075",
+      "photo_urls": []
+    },
+    {
+      "id": "297307",
+      "title": "Robert Churchwell, Sr.",
+      "latitude": 36.17582945,
+      "longitude": -86.8093878,
+      "directions": "On Doctor DB Todd Junior Boulevard, Nashville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297307",
+      "photo_urls": []
+    },
+    {
+      "id": "297456",
+      "title": "The Polk Residence",
+      "latitude": 35.61551512,
+      "longitude": -87.03912728,
+      "directions": "On West 7th Street (State Route 99) , Columbia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297456",
+      "photo_urls": []
+    },
+    {
+      "id": "297458",
+      "title": "Naval Gun from the Spanish Armored Cruiser Vizcaya",
+      "latitude": 35.6154189,
+      "longitude": -87.03849402,
+      "directions": "On West 7th Street (State Route 99) , Columbia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297458",
+      "photo_urls": []
+    },
+    {
+      "id": "297459",
+      "title": "The Memorial Building",
+      "latitude": 35.6153892,
+      "longitude": -87.03824877,
+      "directions": "On West 7th Street (State Route 99) , Columbia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297459",
+      "photo_urls": []
+    },
+    {
+      "id": "297460",
+      "title": "Tennessee Farm Bureau",
+      "latitude": 35.63514139,
+      "longitude": -87.01017984,
+      "directions": "On Bear Creek Pike (U.S. 412) , Columbia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297460",
+      "photo_urls": []
+    },
+    {
+      "id": "297461",
+      "title": "Birthplace of Nathan Bedford Forest",
+      "latitude": 35.62761677,
+      "longitude": -86.69318036,
+      "directions": "On North Horton Parkway (U.S. 31A) , Chapel Hill, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297461",
+      "photo_urls": []
+    },
+    {
+      "id": "297524",
+      "title": "Lookout Mountain Incline",
+      "latitude": 35.00960066,
+      "longitude": -85.32846411,
+      "directions": "Near St Elmo Avenue, Chattanooga, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297524",
+      "photo_urls": []
+    },
+    {
+      "id": "297575",
+      "title": "Wilhoite History Timeline",
+      "latitude": 35.58978761,
+      "longitude": -86.69398952,
+      "directions": "On Nashville Highway (U.S. 31A) , near Chapel Hill, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297575",
+      "photo_urls": []
+    },
+    {
+      "id": "297576",
+      "title": "Mills on the Land",
+      "latitude": 35.58977964,
+      "longitude": -86.69396657,
+      "directions": "On Nashville Highway, Chapel Hill, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297576",
+      "photo_urls": []
+    },
+    {
+      "id": "297577",
+      "title": "Shelbyville Central High School",
+      "latitude": 35.49009364,
+      "longitude": -86.46237343,
+      "directions": "On Elm Street (U.S. 41a) , Shelbyville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297577",
+      "photo_urls": []
+    },
+    {
+      "id": "297614",
+      "title": "Welcome to Altamont",
+      "latitude": 35.43058899,
+      "longitude": -85.72318852,
+      "directions": "On Main Street (State Route 56) , Altamont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297614",
+      "photo_urls": []
+    },
+    {
+      "id": "297616",
+      "title": "L.V. Woodlee House",
+      "latitude": 35.43059665,
+      "longitude": -85.72255291,
+      "directions": "On Cumberland Street, Altamont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297616",
+      "photo_urls": []
+    },
+    {
+      "id": "297617",
+      "title": "Greeter Homeplace",
+      "latitude": 35.43720758,
+      "longitude": -85.69595675,
+      "directions": "On Greeter Falls Road (Greeter Homeplace Trail), near Altamont, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297617",
+      "photo_urls": []
+    },
+    {
+      "id": "297675",
+      "title": "Long’s Mill and the Chickamauga Trace",
+      "latitude": 35.43482046,
+      "longitude": -85.69629611,
+      "directions": "On Upper Falls Trail, near Altamont, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297675",
+      "photo_urls": []
+    },
+    {
+      "id": "297676",
+      "title": "The Northcutt-Moffitt “Manor”",
+      "latitude": 35.4291996,
+      "longitude": -85.72361193,
+      "directions": "On Main Street (State Route 56) , Altamont, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297676",
+      "photo_urls": []
+    },
+    {
+      "id": "297678",
+      "title": "Beersheba Springs Historic District",
+      "latitude": 35.46731568,
+      "longitude": -85.66537903,
+      "directions": "On State Route 56, Beersheba Springs, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297678",
+      "photo_urls": []
+    },
+    {
+      "id": "297680",
+      "title": "Welcome to Beersheba Springs",
+      "latitude": 35.46731123,
+      "longitude": -85.66536081,
+      "directions": "On State Route 56, Beersheba Springs, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297680",
+      "photo_urls": []
+    },
+    {
+      "id": "297683",
+      "title": "Veterans Memorial",
+      "latitude": 35.46717602,
+      "longitude": -85.66542299,
+      "directions": "On State Route 56, Beersheba Springs, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297683",
+      "photo_urls": []
+    },
+    {
       "id": "29802",
       "title": "Martin College",
       "latitude": 35.19942098,
@@ -58143,7 +58728,7 @@
       "title": "14th Illinois Infantry",
       "latitude": 35.13768333,
       "longitude": -88.3488,
-      "directions": "On , near Shiloh, (On the left when traveling west)",
+      "directions": "On Confederate Road, near Shiloh, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39169",
       "photo_urls": []
     },
@@ -61842,7 +62427,7 @@
       "title": "Beale Street Historic District",
       "latitude": 35.13910743,
       "longitude": -90.05150378,
-      "directions": "On , Memphis, ",
+      "directions": "On Beale Street, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47904",
       "photo_urls": []
     },
@@ -63111,7 +63696,7 @@
       "title": "Incident at Waynesboro",
       "latitude": 35.31959427,
       "longitude": -87.76261389,
-      "directions": "On , Waynesboro, ",
+      "directions": "On Tennessee 13, Waynesboro, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53557",
       "photo_urls": []
     },
@@ -63147,7 +63732,7 @@
       "title": "James David Vaughan",
       "latitude": 35.24030471,
       "longitude": -87.33528435,
-      "directions": "On , Lawrenceburg, ",
+      "directions": "On Public Square, Lawrenceburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53576",
       "photo_urls": []
     },
@@ -73596,7 +74181,7 @@
       "title": "Monument to the Fallen",
       "latitude": 36.383893,
       "longitude": -86.45211,
-      "directions": "On , Gallatin, ",
+      "directions": "On Cemetery Avenue, Gallatin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85159",
       "photo_urls": []
     },
@@ -73614,7 +74199,7 @@
       "title": "Sumner County Tennessee Mexican-American War Monument",
       "latitude": 36.383838,
       "longitude": -86.45211,
-      "directions": "Near , Gallatin, ",
+      "directions": "Near Cemetery Avenue, Gallatin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85162",
       "photo_urls": []
     },
@@ -75891,7 +76476,7 @@
       "title": "WMC Radio Station",
       "latitude": 35.14571,
       "longitude": -90.051099,
-      "directions": "On , Memphis, ",
+      "directions": "On North 2nd Street, Memphis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98306",
       "photo_urls": []
     },
