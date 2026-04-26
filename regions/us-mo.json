@@ -3,9 +3,9 @@
   "region_name": "Missouri",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.268Z",
-  "source_timestamp": "2026-04-11T19:19:47.268Z",
-  "marker_count": 4824,
+  "generated": "2026-04-26T06:03:14.498Z",
+  "source_timestamp": "2026-04-26T06:03:14.498Z",
+  "marker_count": 4865,
   "markers": [
     {
       "id": "100375",
@@ -31995,7 +31995,7 @@
     },
     {
       "id": "289904",
-      "title": "In Memory or Our Heros",
+      "title": "World War II Memorial",
       "latitude": 38.51971479,
       "longitude": -90.45285344,
       "directions": "On Gregory Lane, Fenton, (On the left when traveling north)",
@@ -32237,6 +32237,15 @@
       "photo_urls": []
     },
     {
+      "id": "293892",
+      "title": "Fort Mason War of 1812 Monument / Soldiers Serving at Fort Mason",
+      "latitude": 39.627475,
+      "longitude": -91.24461389,
+      "directions": "On Riverview Drive, near New London, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293892",
+      "photo_urls": []
+    },
+    {
       "id": "293991",
       "title": "Aisne-Marne American Cemetery and Memorial",
       "latitude": 39.78960153,
@@ -32327,12 +32336,372 @@
       "photo_urls": []
     },
     {
+      "id": "294701",
+      "title": "Philippine Village Historical Site",
+      "latitude": 38.6387861,
+      "longitude": -90.30798725,
+      "directions": "On De Mun Avenue, Clayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294701",
+      "photo_urls": []
+    },
+    {
+      "id": "294889",
+      "title": "Original Site of Stars Park",
+      "latitude": 38.63126777,
+      "longitude": -90.22616643,
+      "directions": "On Market Street, St. Louis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294889",
+      "photo_urls": []
+    },
+    {
+      "id": "294953",
+      "title": "Tormey Park",
+      "latitude": 39.78263904,
+      "longitude": -93.07242923,
+      "directions": "On Main Street (State Route 11) , Brookfield, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294953",
+      "photo_urls": []
+    },
+    {
+      "id": "294955",
+      "title": "World War Memorial",
+      "latitude": 39.76089816,
+      "longitude": -92.62335381,
+      "directions": "On Chestnut Street (State Route 3) , Callao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294955",
+      "photo_urls": []
+    },
+    {
+      "id": "294961",
+      "title": "Callao Centennial Time Capsule",
+      "latitude": 39.76077322,
+      "longitude": -92.6234051,
+      "directions": "On Chestnut Street (State Route 3) , Callao, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294961",
+      "photo_urls": []
+    },
+    {
+      "id": "294962",
+      "title": "Swan Lake School",
+      "latitude": 39.76032204,
+      "longitude": -92.62352202,
+      "directions": "On Chestnut Street (State Route 3) , Callao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294962",
+      "photo_urls": []
+    },
+    {
+      "id": "295017",
+      "title": "Lynching in America / Lynching of Levi Harrington",
+      "latitude": 39.10280748,
+      "longitude": -94.59328185,
+      "directions": "Near Summit Street, Kansas City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295017",
+      "photo_urls": []
+    },
+    {
+      "id": "295345",
+      "title": "Sold on the Steps of Justice",
+      "latitude": 38.62530087,
+      "longitude": -90.18863353,
+      "directions": "On North 4th Street, St. Louis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295345",
+      "photo_urls": []
+    },
+    {
+      "id": "295351",
+      "title": "David R. Francis",
+      "latitude": 38.58421997,
+      "longitude": -90.30135718,
+      "directions": "Near Donovan Avenue, St. Louis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295351",
+      "photo_urls": []
+    },
+    {
+      "id": "295570",
+      "title": "William Tecumseh Sherman",
+      "latitude": 38.62860817,
+      "longitude": -90.18887331,
+      "directions": "On Locust Street, St. Louis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295570",
+      "photo_urls": []
+    },
+    {
+      "id": "295571",
+      "title": "Freedom Denied, Freedom Gained",
+      "latitude": 38.62570529,
+      "longitude": -90.18493698,
+      "directions": "On Gateway Arch Trail, St. Louis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295571",
+      "photo_urls": []
+    },
+    {
+      "id": "295672",
+      "title": "Santa Fe Trail",
+      "latitude": 39.13419444,
+      "longitude": -93.98251389,
+      "directions": "On 5th Street (State Route 224) , Wellington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295672",
+      "photo_urls": []
+    },
+    {
+      "id": "295843",
+      "title": "Historic Marker",
+      "latitude": 39.14635344,
+      "longitude": -91.88983186,
+      "directions": "Near South Clark Street (U.S. Business 54) , Mexico, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295843",
+      "photo_urls": []
+    },
+    {
+      "id": "295876",
+      "title": "Wardens Station",
+      "latitude": 37.48410768,
+      "longitude": -92.88541253,
+      "directions": "On State Route Y, near Conway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295876",
+      "photo_urls": []
+    },
+    {
+      "id": "295985",
+      "title": "Deering",
+      "latitude": 36.1908297,
+      "longitude": -89.88502699,
+      "directions": "On State Route J, Deering, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295985",
+      "photo_urls": []
+    },
+    {
+      "id": "296515",
+      "title": "White Haven's Outbuildings",
+      "latitude": 38.55206962,
+      "longitude": -90.35156867,
+      "directions": "Near Grant Road, near Affton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296515",
+      "photo_urls": []
+    },
+    {
+      "id": "296516",
+      "title": "Early Owners of the Farm",
+      "latitude": 38.55196815,
+      "longitude": -90.35151678,
+      "directions": "Near Grant Road, near Affton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296516",
+      "photo_urls": []
+    },
+    {
       "id": "29658",
       "title": "McGhee's Charge",
       "latitude": 39.0302,
       "longitude": -94.59241667,
       "directions": "On Wornall Road, Kansas City, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29658",
+      "photo_urls": []
+    },
+    {
+      "id": "296688",
+      "title": "Koshkonong's Oak Ridge Cemetery History",
+      "latitude": 36.60520966,
+      "longitude": -91.6442102,
+      "directions": "On U.S. 63, Koshkonong, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296688",
+      "photo_urls": []
+    },
+    {
+      "id": "296715",
+      "title": "James Haggin McBride",
+      "latitude": 37.32959722,
+      "longitude": -91.95640588,
+      "directions": "On North Grand Avenue, Houston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296715",
+      "photo_urls": []
+    },
+    {
+      "id": "296829",
+      "title": "Hayti School Building",
+      "latitude": 36.2314057,
+      "longitude": -89.74767474,
+      "directions": "On South 4th Street, Hayti, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296829",
+      "photo_urls": []
+    },
+    {
+      "id": "296900",
+      "title": "Kennett City Hall and Masonic Lodge",
+      "latitude": 36.23722572,
+      "longitude": -90.05551858,
+      "directions": "On College Avenue, Kennett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296900",
+      "photo_urls": []
+    },
+    {
+      "id": "296902",
+      "title": "Campus Rededication",
+      "latitude": 38.63734355,
+      "longitude": -90.26183381,
+      "directions": "Near Parkview Place, St. Louis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296902",
+      "photo_urls": []
+    },
+    {
+      "id": "296922",
+      "title": "Carl and Gerty Cori and Carbohydrate Metabolism",
+      "latitude": 38.63433067,
+      "longitude": -90.26286757,
+      "directions": "On McKinley Avenue, St. Louis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296922",
+      "photo_urls": []
+    },
+    {
+      "id": "297015",
+      "title": "The Bolivar Street Bridge",
+      "latitude": 38.58471115,
+      "longitude": -92.1777456,
+      "directions": "On Bolivar Street, Jefferson City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297015",
+      "photo_urls": []
+    },
+    {
+      "id": "297049",
+      "title": "The Bolivar Street Neighborhood",
+      "latitude": 38.58470314,
+      "longitude": -92.1777533,
+      "directions": "On Bolivar Street, Jefferson City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297049",
+      "photo_urls": []
+    },
+    {
+      "id": "297120",
+      "title": "Douglas County Veterans Memorial",
+      "latitude": 36.96503978,
+      "longitude": -92.65943751,
+      "directions": "On North Jefferson Street (County Route 201) , Ava, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297120",
+      "photo_urls": []
+    },
+    {
+      "id": "297123",
+      "title": "On \"Grant's Trail\" Through History",
+      "latitude": 38.55109032,
+      "longitude": -90.35386185,
+      "directions": "On Grant Road, Affton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297123",
+      "photo_urls": []
+    },
+    {
+      "id": "297187",
+      "title": "Operation Desert Shield and Desert Storm",
+      "latitude": 37.6437585,
+      "longitude": -93.09219891,
+      "directions": "On South Maple Street, Buffalo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297187",
+      "photo_urls": []
+    },
+    {
+      "id": "297259",
+      "title": "Morgan County Courthouse",
+      "latitude": 38.43137939,
+      "longitude": -92.84149052,
+      "directions": "On East Newton Street, Versailles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297259",
+      "photo_urls": []
+    },
+    {
+      "id": "297280",
+      "title": "Eureka High School",
+      "latitude": 38.50125426,
+      "longitude": -90.62816927,
+      "directions": "On South Central Avenue, Eureka, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297280",
+      "photo_urls": []
+    },
+    {
+      "id": "297281",
+      "title": "Eureka's First Fire Station",
+      "latitude": 38.50149001,
+      "longitude": -90.62820483,
+      "directions": "On South Central Avenue, Eureka, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297281",
+      "photo_urls": []
+    },
+    {
+      "id": "297291",
+      "title": "Camden County Veterans Memorial",
+      "latitude": 38.0081639,
+      "longitude": -92.74532832,
+      "directions": "On Route 54, Camdenton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297291",
+      "photo_urls": []
+    },
+    {
+      "id": "297293",
+      "title": "First Presbyterian Church",
+      "latitude": 38.6591405,
+      "longitude": -92.78163607,
+      "directions": "On Moreau Avenue (State Route B) , Tipton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297293",
+      "photo_urls": []
+    },
+    {
+      "id": "297304",
+      "title": "The Maclay Home",
+      "latitude": 38.65945661,
+      "longitude": -92.78179704,
+      "directions": "On West Howard Street, Tipton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297304",
+      "photo_urls": []
+    },
+    {
+      "id": "297422",
+      "title": "Red Cedar Inn, Pacific, Missouri",
+      "latitude": 38.48155622,
+      "longitude": -90.71760946,
+      "directions": "On East Osage Street (U.S. Old 66) , Pacific, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297422",
+      "photo_urls": []
+    },
+    {
+      "id": "297423",
+      "title": "Pacific Public School",
+      "latitude": 38.48319641,
+      "longitude": -90.74579836,
+      "directions": "On West Union Street, Pacific, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297423",
+      "photo_urls": []
+    },
+    {
+      "id": "297432",
+      "title": "Leber Hall",
+      "latitude": 38.48220052,
+      "longitude": -90.74302938,
+      "directions": "On West Saint Louis Street, Pacific, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297432",
+      "photo_urls": []
+    },
+    {
+      "id": "297469",
+      "title": "The Mayle Residence",
+      "latitude": 38.48422255,
+      "longitude": -90.74063266,
+      "directions": "On East Osage Street (Interstate Business 44) , Pacific, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297469",
+      "photo_urls": []
+    },
+    {
+      "id": "297471",
+      "title": "Pacific Train Depot",
+      "latitude": 38.48126611,
+      "longitude": -90.74074092,
+      "directions": "Near South 1st Street, Pacific, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297471",
+      "photo_urls": []
+    },
+    {
+      "id": "297473",
+      "title": "The Ehreiser Building",
+      "latitude": 38.48092213,
+      "longitude": -90.74129572,
+      "directions": "On South 1st Street, Pacific, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297473",
       "photo_urls": []
     },
     {
@@ -39222,7 +39591,7 @@
     },
     {
       "id": "68263",
-      "title": "\"The Old Graveyard\" \"Mt. Memorial Cemetery\"",
+      "title": "\"The Old Graveyard\"",
       "latitude": 39.249451,
       "longitude": -94.412586,
       "directions": "On Miller Avenue, Liberty, (On the right when traveling west)",
