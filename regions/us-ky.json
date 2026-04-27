@@ -3,9 +3,9 @@
   "region_name": "Kentucky",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:04.206Z",
-  "source_timestamp": "2026-04-11T19:15:04.206Z",
-  "marker_count": 4460,
+  "generated": "2026-04-27T06:03:43.229Z",
+  "source_timestamp": "2026-04-27T06:03:43.229Z",
+  "marker_count": 4461,
   "markers": [
     {
       "id": "100711",
@@ -4861,8 +4861,8 @@
     {
       "id": "133190",
       "title": "Skirmish at Florence",
-      "latitude": 38.99857778,
-      "longitude": -84.62668611,
+      "latitude": 38.9985642,
+      "longitude": -84.62657162,
       "directions": "On Dixie Highway (U.S. 25) , Florence, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=133190",
       "photo_urls": []
@@ -29564,6 +29564,15 @@
       "photo_urls": []
     },
     {
+      "id": "297161",
+      "title": "Worst Mine Disaster",
+      "latitude": 37.21085923,
+      "longitude": -82.7064622,
+      "directions": "On State Route 317, Jackhorn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297161",
+      "photo_urls": []
+    },
+    {
       "id": "30016",
       "title": "James J. Andrews",
       "latitude": 38.42279765,
@@ -39351,7 +39360,7 @@
       "title": "Scotia Mine Disaster",
       "latitude": 37.048016,
       "longitude": -82.829338,
-      "directions": "On U.S. 119, near Whitesburg, (On the left when traveling west)",
+      "directions": "On U.S. 119, near Ovenfork, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=97157",
       "photo_urls": []
     },
