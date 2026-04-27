@@ -3,9 +3,9 @@
   "region_name": "Maryland",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.084Z",
-  "source_timestamp": "2026-04-11T19:19:47.084Z",
-  "marker_count": 8107,
+  "generated": "2026-04-27T06:03:43.279Z",
+  "source_timestamp": "2026-04-27T06:03:43.279Z",
+  "marker_count": 8293,
   "markers": [
     {
       "id": "100",
@@ -21,15 +21,15 @@
       "title": "John Wilkes Booth",
       "latitude": 38.039692,
       "longitude": -76.322075,
-      "directions": "On Point Lookout Road, on its terminus loop (State Route 5) , near Scotland, (On the right when traveling north)",
+      "directions": "On Point Lookout Road (State Route 5) , near Scotland, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=1000",
       "photo_urls": []
     },
     {
       "id": "10006",
       "title": "Baltimore Infirmary",
-      "latitude": 39.28767,
-      "longitude": -76.623706,
+      "latitude": 39.28704132,
+      "longitude": -76.62375629,
       "directions": "On South Greene Street (State Route 295) , Baltimore, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=10006",
       "photo_urls": []
@@ -48,7 +48,7 @@
       "title": "Point Lookout State Park",
       "latitude": 38.039692,
       "longitude": -76.322075,
-      "directions": "On Point Lookout Road, on its terminus loop (State Route 5) , near Scotland, (On the right when traveling north)",
+      "directions": "On Point Lookout Road (State Route 5) , near Scotland, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=1001",
       "photo_urls": []
     },
@@ -531,7 +531,7 @@
     },
     {
       "id": "101670",
-      "title": "Billie Holiday Monument.",
+      "title": "Billie Holiday",
       "latitude": 39.30111,
       "longitude": -76.63208,
       "directions": "On Pennsylvania Avenue, Baltimore, ",
@@ -2071,8 +2071,8 @@
     {
       "id": "104758",
       "title": "Defense Strategies",
-      "latitude": 38.039743,
-      "longitude": -76.323996,
+      "latitude": 38.03996816,
+      "longitude": -76.32262807,
       "directions": "On Point Lookout Road (State Route 5) , Scotland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104758",
       "photo_urls": []
@@ -2080,18 +2080,18 @@
     {
       "id": "104759",
       "title": "Fort Lincoln",
-      "latitude": 38.039743,
-      "longitude": -76.323996,
-      "directions": "On Point Lookout Road (State Route 5) , Scotland, ",
+      "latitude": 38.04815125,
+      "longitude": -76.32580792,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104759",
       "photo_urls": []
     },
     {
       "id": "104760",
       "title": "\"Contraband\" Camp",
-      "latitude": 38.0413,
-      "longitude": -76.3219,
-      "directions": "On State Route 5, Scotland, ",
+      "latitude": 38.04808725,
+      "longitude": -76.32309104,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104760",
       "photo_urls": []
     },
@@ -7902,7 +7902,7 @@
     },
     {
       "id": "129308",
-      "title": "Friendship House...one of Charles County's Oldest",
+      "title": "Friendship House…one of Charles County's Oldest",
       "latitude": 38.45638889,
       "longitude": -77.15111111,
       "directions": "Near Friendship Landing Road, Nanjemoy, ",
@@ -13122,7 +13122,7 @@
     },
     {
       "id": "138822",
-      "title": "An Opportunity Awaits...",
+      "title": "An Opportunity Awaits…",
       "latitude": 38.18180833,
       "longitude": -76.43029722,
       "directions": "Near Hogaboom Lane, St. Mary&#39;s City, (On the right when traveling west)",
@@ -14860,9 +14860,9 @@
     {
       "id": "144763",
       "title": "From Creek to Canal",
-      "latitude": 39.5278,
-      "longitude": -75.8128,
-      "directions": "On George Street, Chesapeake City, ",
+      "latitude": 39.52783028,
+      "longitude": -75.81267727,
+      "directions": "On George Street, Chesapeake City, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=144763",
       "photo_urls": []
     },
@@ -15013,8 +15013,8 @@
     {
       "id": "145168",
       "title": "Long Bridge",
-      "latitude": 39.527508,
-      "longitude": -75.811849,
+      "latitude": 39.52733646,
+      "longitude": -75.81179932,
       "directions": "On Bohemia Avenue, Chesapeake City, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=145168",
       "photo_urls": []
@@ -15112,8 +15112,8 @@
     {
       "id": "145256",
       "title": "A Historic Hub of Commerce",
-      "latitude": 39.5275,
-      "longitude": -75.8114,
+      "latitude": 39.52742742,
+      "longitude": -75.81134099,
       "directions": "On Bohemia Avenue, Chesapeake City, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=145256",
       "photo_urls": []
@@ -17650,9 +17650,9 @@
     {
       "id": "151280",
       "title": "Norbeck Rosenwald School",
-      "latitude": 39.11005167,
-      "longitude": -77.08138894,
-      "directions": "On Muncaster Mill Road, near Rockville, ",
+      "latitude": 39.11018088,
+      "longitude": -77.08132054,
+      "directions": "Near Muncaster Mill Road (State Route 115) , near Rockville, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151280",
       "photo_urls": []
     },
@@ -19144,8 +19144,8 @@
     {
       "id": "155453",
       "title": "Founded on Friendship",
-      "latitude": 39.4044,
-      "longitude": -75.8696,
+      "latitude": 39.40435628,
+      "longitude": -75.8685593,
       "directions": "On W. Main Street (State Route 282) , Cecilton, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155453",
       "photo_urls": []
@@ -22231,9 +22231,9 @@
     {
       "id": "168932",
       "title": "Maryland and the Confederacy",
-      "latitude": 38.0735,
-      "longitude": -76.3406,
-      "directions": "On State Route 5, Scotland, ",
+      "latitude": 38.07350955,
+      "longitude": -76.34225866,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=168932",
       "photo_urls": []
     },
@@ -25786,8 +25786,8 @@
     {
       "id": "187333",
       "title": "The Legend of Moll Dyer",
-      "latitude": 38.2885,
-      "longitude": -76.63483611,
+      "latitude": 38.2883866,
+      "longitude": -76.63425576,
       "directions": "On Tudor Hall Road, Leonardtown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=187333",
       "photo_urls": []
@@ -25903,15 +25903,15 @@
     {
       "id": "187448",
       "title": "Breton Bay",
-      "latitude": 38.2869713,
-      "longitude": -76.63822148,
+      "latitude": 38.28595814,
+      "longitude": -76.63800843,
       "directions": "On Washington Street (State Route 326) , Leonardtown, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=187448",
       "photo_urls": []
     },
     {
       "id": "187450",
-      "title": "Leonardtown Wharf",
+      "title": "Waterfront Park in the Critical Area",
       "latitude": 38.28604167,
       "longitude": -76.63853056,
       "directions": "Near Washington Street, Leonardtown, ",
@@ -30033,7 +30033,7 @@
     },
     {
       "id": "195732",
-      "title": "<i>British Have Landed</i>",
+      "title": "British Have Landed",
       "latitude": 38.51015858,
       "longitude": -76.67846387,
       "directions": "On Benedict Avenue, Benedict, (On the right when traveling south)",
@@ -38712,7 +38712,7 @@
       "title": "The Commonwealth Farm",
       "latitude": 39.09754994,
       "longitude": -76.99737494,
-      "directions": "Near Piping Rock Drive, Colesville, ",
+      "directions": "Near Piping Rock Drive, Colesville, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=234598",
       "photo_urls": []
     },
@@ -39781,8 +39781,8 @@
     {
       "id": "243001",
       "title": "Liberty Tree Memorial",
-      "latitude": 39.05458889,
-      "longitude": -76.07341111,
+      "latitude": 39.05538144,
+      "longitude": -76.07293169,
       "directions": "On Watson Road, Centreville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=243001",
       "photo_urls": []
@@ -50336,6 +50336,168 @@
       "photo_urls": []
     },
     {
+      "id": "294781",
+      "title": "A Heavy Price",
+      "latitude": 39.2139,
+      "longitude": -76.4381,
+      "directions": "On North Point Road, near Edgemere, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294781",
+      "photo_urls": []
+    },
+    {
+      "id": "294785",
+      "title": "Searchlight Power House",
+      "latitude": 39.196355,
+      "longitude": -76.443205,
+      "directions": "Near Fort Howard Park Road, Edgemere, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294785",
+      "photo_urls": []
+    },
+    {
+      "id": "294793",
+      "title": "General Robert Ross",
+      "latitude": 39.25107154,
+      "longitude": -76.46009801,
+      "directions": "On North Point Boulevard, Dundalk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294793",
+      "photo_urls": []
+    },
+    {
+      "id": "294794",
+      "title": "North Point Battlefield",
+      "latitude": 39.27327298,
+      "longitude": -76.46960631,
+      "directions": "On Old North Point Road, Dundalk, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294794",
+      "photo_urls": []
+    },
+    {
+      "id": "294797",
+      "title": "Aquila Randall Monument",
+      "latitude": 39.27327306,
+      "longitude": -76.4696316,
+      "directions": "On Old North Point Road, Dundalk, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294797",
+      "photo_urls": []
+    },
+    {
+      "id": "294798",
+      "title": "Battle of North Point",
+      "latitude": 39.27745742,
+      "longitude": -76.48480697,
+      "directions": "On North Point Road (State Route 20) , Dundalk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294798",
+      "photo_urls": []
+    },
+    {
+      "id": "294799",
+      "title": "Defenders Honored",
+      "latitude": 39.27748414,
+      "longitude": -76.48479798,
+      "directions": "On North Point Road, Dundalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294799",
+      "photo_urls": []
+    },
+    {
+      "id": "294800",
+      "title": "At Patapsco Neck",
+      "latitude": 39.27748092,
+      "longitude": -76.48482196,
+      "directions": "On North Point Road, Dundalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294800",
+      "photo_urls": []
+    },
+    {
+      "id": "294801",
+      "title": "The Conflict upon this Battle Field",
+      "latitude": 39.27742552,
+      "longitude": -76.48475768,
+      "directions": "On North Point Road, Dundalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294801",
+      "photo_urls": []
+    },
+    {
+      "id": "294803",
+      "title": "Battle Acre",
+      "latitude": 39.27768786,
+      "longitude": -76.48481579,
+      "directions": "On North Point Road (State Route 20) , Dundalk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294803",
+      "photo_urls": []
+    },
+    {
+      "id": "294804",
+      "title": "Proud of Our Stand",
+      "latitude": 39.27845454,
+      "longitude": -76.48599654,
+      "directions": "On North Point Road, Dundalk, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294804",
+      "photo_urls": []
+    },
+    {
+      "id": "294806",
+      "title": "Squeeze Tactic",
+      "latitude": 39.27919032,
+      "longitude": -76.48697776,
+      "directions": "On North Point Road, Dundalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294806",
+      "photo_urls": []
+    },
+    {
+      "id": "294807",
+      "title": "Proud of Our Stand",
+      "latitude": 39.279657,
+      "longitude": -76.487106,
+      "directions": "On North Point Road, Dundalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294807",
+      "photo_urls": []
+    },
+    {
+      "id": "294809",
+      "title": "Veterans Memorial",
+      "latitude": 39.25792,
+      "longitude": -76.52326,
+      "directions": "On Shipping Place, Dundalk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294809",
+      "photo_urls": []
+    },
+    {
+      "id": "294810",
+      "title": "Camp Holabird",
+      "latitude": 39.27025498,
+      "longitude": -76.53026765,
+      "directions": "On Dundalk Avenue, Baltimore, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294810",
+      "photo_urls": []
+    },
+    {
+      "id": "294811",
+      "title": "Francis Scott Key Memorial Bridge",
+      "latitude": 39.22963964,
+      "longitude": -76.51168887,
+      "directions": "On Authority Drive, Dundalk, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294811",
+      "photo_urls": []
+    },
+    {
+      "id": "294904",
+      "title": "Americans Who Fell in The Battle of North Point",
+      "latitude": 39.27748881,
+      "longitude": -76.48470127,
+      "directions": "On North Point Road, Dundalk, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294904",
+      "photo_urls": []
+    },
+    {
+      "id": "294906",
+      "title": "Americans Who Fell in The Battle of North Point",
+      "latitude": 39.27750384,
+      "longitude": -76.48474932,
+      "directions": "On North Point Road, Dundalk, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294906",
+      "photo_urls": []
+    },
+    {
       "id": "29498",
       "title": "Middleburg",
       "latitude": 39.59549334,
@@ -50354,6 +50516,33 @@
       "photo_urls": []
     },
     {
+      "id": "295158",
+      "title": "Johnson's Park / Un parque adorado",
+      "latitude": 39.15203611,
+      "longitude": -77.16579444,
+      "directions": "On Washington Grove Lane, near Redland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295158",
+      "photo_urls": []
+    },
+    {
+      "id": "295162",
+      "title": "Camp Meeting / Encuentro religioso al aire libre",
+      "latitude": 39.15224414,
+      "longitude": -77.16565195,
+      "directions": "On Washington Grove Lane, near Redland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295162",
+      "photo_urls": []
+    },
+    {
+      "id": "295163",
+      "title": "Education and Excellence / Educatión y excelencia",
+      "latitude": 39.15253333,
+      "longitude": -77.16549722,
+      "directions": "On Washington Grove Lane, near Redland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295163",
+      "photo_urls": []
+    },
+    {
       "id": "29520",
       "title": "Birthplace of John Carroll",
       "latitude": 38.81638889,
@@ -50369,6 +50558,429 @@
       "longitude": -76.57202147,
       "directions": "On Dares Beach Road (State Route 402) , near Prince Frederick, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29522",
+      "photo_urls": []
+    },
+    {
+      "id": "295569",
+      "title": "Dr. Samuel A. Mudd",
+      "latitude": 38.60945,
+      "longitude": -76.82388333,
+      "directions": "On Doctor Samuel Mudd Road, near St. Charles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295569",
+      "photo_urls": []
+    },
+    {
+      "id": "295574",
+      "title": "African American Soldiers from Montgomery County",
+      "latitude": 39.19048,
+      "longitude": -77.41857,
+      "directions": "Near Darnestown Road (State Route 28) , Beallsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295574",
+      "photo_urls": []
+    },
+    {
+      "id": "295575",
+      "title": "In Loving Memory",
+      "latitude": 39.18008,
+      "longitude": -77.414702,
+      "directions": "Near Darnestown Road (State Route 28) , Beallsville, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295575",
+      "photo_urls": []
+    },
+    {
+      "id": "295576",
+      "title": "The Darby Family",
+      "latitude": 39.1799052,
+      "longitude": -77.41277644,
+      "directions": "On Beallsville Road (State Route 109) , Beallsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295576",
+      "photo_urls": []
+    },
+    {
+      "id": "295580",
+      "title": "Defending the City of Washington",
+      "latitude": 38.95243889,
+      "longitude": -77.11006944,
+      "directions": "Near Elliott Road, Bethesda, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295580",
+      "photo_urls": []
+    },
+    {
+      "id": "295593",
+      "title": "Royal Navy and Royal Marines Memorial",
+      "latitude": 39.20600388,
+      "longitude": -76.19805081,
+      "directions": "On Caulks Field Road, Chestertown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295593",
+      "photo_urls": []
+    },
+    {
+      "id": "295596",
+      "title": "Battle of Caulk's Field Bicentennial Memorial",
+      "latitude": 39.20603222,
+      "longitude": -76.19808154,
+      "directions": "On Caulks Field Road, Chestertown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295596",
+      "photo_urls": []
+    },
+    {
+      "id": "295619",
+      "title": "Fort Sumner",
+      "latitude": 38.95632,
+      "longitude": -77.122,
+      "directions": "On Sangamore Road, Bethesda, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295619",
+      "photo_urls": []
+    },
+    {
+      "id": "295620",
+      "title": "Inlet Locks",
+      "latitude": 38.93943333,
+      "longitude": -77.12175,
+      "directions": "On Chesapeake and Ohio Canal Towpath, Bethesda, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295620",
+      "photo_urls": []
+    },
+    {
+      "id": "295621",
+      "title": "Old Georgetown Road",
+      "latitude": 38.986811,
+      "longitude": -77.098315,
+      "directions": "Near Old Georgetown Road (State Route 187) , Bethesda, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295621",
+      "photo_urls": []
+    },
+    {
+      "id": "295622",
+      "title": "The Dalecarlia Tunnel",
+      "latitude": 38.94378,
+      "longitude": -77.11588,
+      "directions": "On Capital Crescent Trail, Bethesda, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295622",
+      "photo_urls": []
+    },
+    {
+      "id": "295641",
+      "title": "Welcome to Froggy Hollow",
+      "latitude": 39.264484,
+      "longitude": -77.278391,
+      "directions": "Near Kingsley Road, Clarksburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295641",
+      "photo_urls": []
+    },
+    {
+      "id": "295676",
+      "title": "Darnestown: A Strategic Point of Defense",
+      "latitude": 39.103552,
+      "longitude": -77.290796,
+      "directions": "Near Darnestown Road (State Route 28) , Darnestown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295676",
+      "photo_urls": []
+    },
+    {
+      "id": "295692",
+      "title": "Caroline Freeland",
+      "latitude": 38.98222222,
+      "longitude": -77.09864722,
+      "directions": "On Arlington Road, Bethesda, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295692",
+      "photo_urls": []
+    },
+    {
+      "id": "295694",
+      "title": "Edith Throckmorton",
+      "latitude": 39.03215833,
+      "longitude": -77.07971111,
+      "directions": "On Hampden Street, Kensington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295694",
+      "photo_urls": []
+    },
+    {
+      "id": "295696",
+      "title": "Christ Episcopal Church",
+      "latitude": 39.08208889,
+      "longitude": -77.15274722,
+      "directions": "On South Washington Street, Rockville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295696",
+      "photo_urls": []
+    },
+    {
+      "id": "295697",
+      "title": "Prettyman House",
+      "latitude": 39.08305833,
+      "longitude": -77.15599722,
+      "directions": "On West Jefferson Street (State Route 28) , Rockville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295697",
+      "photo_urls": []
+    },
+    {
+      "id": "295699",
+      "title": "George Washington Carver Junior College",
+      "latitude": 39.09520833,
+      "longitude": -77.15737222,
+      "directions": "Near Mannakee Street, Rockville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295699",
+      "photo_urls": []
+    },
+    {
+      "id": "295701",
+      "title": "Davidge Hall",
+      "latitude": 39.28759444,
+      "longitude": -76.62316944,
+      "directions": "On West Lombard Street, Baltimore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295701",
+      "photo_urls": []
+    },
+    {
+      "id": "295703",
+      "title": "Baltimore is the birthplace of the dental profession and dental education.",
+      "latitude": 39.28783889,
+      "longitude": -76.62350556,
+      "directions": "On South Greene Street (State Route 295) , Baltimore, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295703",
+      "photo_urls": []
+    },
+    {
+      "id": "295704",
+      "title": "The National Great Blacks in Wax Museum Inc.",
+      "latitude": 39.31192778,
+      "longitude": -76.59695556,
+      "directions": "On East North Avenue (U.S. 1) , Baltimore, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295704",
+      "photo_urls": []
+    },
+    {
+      "id": "295707",
+      "title": "38 Maryland Avenue",
+      "latitude": 38.98041667,
+      "longitude": -76.48931944,
+      "directions": "On Maryland Avenue, Annapolis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295707",
+      "photo_urls": []
+    },
+    {
+      "id": "295708",
+      "title": "The Old Treasury Building",
+      "latitude": 38.97896951,
+      "longitude": -76.49020933,
+      "directions": "On State Circle, Annapolis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295708",
+      "photo_urls": []
+    },
+    {
+      "id": "295709",
+      "title": "The Old Treasury Building",
+      "latitude": 38.97886389,
+      "longitude": -76.49015833,
+      "directions": "On State Circle, Annapolis, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295709",
+      "photo_urls": []
+    },
+    {
+      "id": "295710",
+      "title": "Dr. Martin Luther King, Jr.",
+      "latitude": 38.97849722,
+      "longitude": -76.49089722,
+      "directions": "On State Circle, Annapolis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295710",
+      "photo_urls": []
+    },
+    {
+      "id": "295712",
+      "title": "Baron Johann de Kalb, 1721 - 1780",
+      "latitude": 38.97856944,
+      "longitude": -76.49107222,
+      "directions": "On State Circle, Annapolis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295712",
+      "photo_urls": []
+    },
+    {
+      "id": "295713",
+      "title": "Baron Johann de Kalb",
+      "latitude": 38.97857778,
+      "longitude": -76.49107222,
+      "directions": "Near State Circle, Annapolis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295713",
+      "photo_urls": []
+    },
+    {
+      "id": "295715",
+      "title": "Baron Johann de Kalb",
+      "latitude": 38.97855401,
+      "longitude": -76.49111598,
+      "directions": "On State Circle, Annapolis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295715",
+      "photo_urls": []
+    },
+    {
+      "id": "295716",
+      "title": "The Army of the Severn",
+      "latitude": 38.97829444,
+      "longitude": -76.49091389,
+      "directions": "On State Circle, Annapolis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295716",
+      "photo_urls": []
+    },
+    {
+      "id": "295718",
+      "title": "60 & 64 State Circle",
+      "latitude": 38.97924722,
+      "longitude": -76.48995278,
+      "directions": "On State Circle, Annapolis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295718",
+      "photo_urls": []
+    },
+    {
+      "id": "295720",
+      "title": "53 Maryland Avenue",
+      "latitude": 38.97994191,
+      "longitude": -76.48967547,
+      "directions": "On Maryland Avenue, Annapolis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295720",
+      "photo_urls": []
+    },
+    {
+      "id": "295722",
+      "title": "Masonic Temple",
+      "latitude": 39.08519196,
+      "longitude": -76.7016591,
+      "directions": "On Waco Avenue, Odenton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295722",
+      "photo_urls": []
+    },
+    {
+      "id": "295745",
+      "title": "The Georgetown Branch Railroad",
+      "latitude": 38.940172,
+      "longitude": -77.11509,
+      "directions": "Near Capital Crescent Trail, Bethesda, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295745",
+      "photo_urls": []
+    },
+    {
+      "id": "295772",
+      "title": "Community Bulletin Board",
+      "latitude": 38.97821944,
+      "longitude": -76.49656667,
+      "directions": "On West Street (State Route 450) , Annapolis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295772",
+      "photo_urls": []
+    },
+    {
+      "id": "295773",
+      "title": "The Harlem of Annapolis",
+      "latitude": 38.97820556,
+      "longitude": -76.49658889,
+      "directions": "On West Washington Street, Annapolis, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295773",
+      "photo_urls": []
+    },
+    {
+      "id": "295827",
+      "title": "Civil War Troops & Darnestown Residents",
+      "latitude": 39.103584,
+      "longitude": -77.290802,
+      "directions": "Near Darnestown Road (State Route 28) , Darnestown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295827",
+      "photo_urls": []
+    },
+    {
+      "id": "295835",
+      "title": "This Tree Dedicated to Captain William H. Addison",
+      "latitude": 39.26401111,
+      "longitude": -76.58232222,
+      "directions": "Near Constellation Plaza, Baltimore, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295835",
+      "photo_urls": []
+    },
+    {
+      "id": "295915",
+      "title": "The Origins of Darnestown",
+      "latitude": 39.10328,
+      "longitude": -77.290882,
+      "directions": "Near Darnestown Road (Route 28) , Darnestown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295915",
+      "photo_urls": []
+    },
+    {
+      "id": "295953",
+      "title": "Newmantown",
+      "latitude": 39.16485,
+      "longitude": -77.13436,
+      "directions": "Near Rock Creek Park Road, Derwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295953",
+      "photo_urls": []
+    },
+    {
+      "id": "296008",
+      "title": "We Are Still Here / Seguimos aquí",
+      "latitude": 38.98008352,
+      "longitude": -77.09633879,
+      "directions": "On Capital Crescent Trail, Bethesda, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296008",
+      "photo_urls": []
+    },
+    {
+      "id": "296011",
+      "title": "Native American Veterans / Veteranos indígenas americanos",
+      "latitude": 39.01214722,
+      "longitude": -77.09174444,
+      "directions": "On Rock Creek Trail, Bethesda, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296011",
+      "photo_urls": []
+    },
+    {
+      "id": "296014",
+      "title": "Hamere Berhan Kedus Yohannes EOTC, USA",
+      "latitude": 39.11011111,
+      "longitude": -77.08196389,
+      "directions": "On Muncaster Mill Road (State Route 115) , Olney, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296014",
+      "photo_urls": []
+    },
+    {
+      "id": "296016",
+      "title": "Native Farming / Agricultura nativa",
+      "latitude": 39.16460556,
+      "longitude": -77.13035556,
+      "directions": "Near Rock Creek Park Road, Derwood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296016",
+      "photo_urls": []
+    },
+    {
+      "id": "296071",
+      "title": "Non Native Plants",
+      "latitude": 38.35222222,
+      "longitude": -75.57277778,
+      "directions": "Near Beaglin Park Drive, Salisbury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296071",
+      "photo_urls": []
+    },
+    {
+      "id": "296115",
+      "title": "A Bold Plan",
+      "latitude": 39.36190278,
+      "longitude": -77.40067222,
+      "directions": "Near Baker Valley Road, Ballenger Creek, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296115",
+      "photo_urls": []
+    },
+    {
+      "id": "296261",
+      "title": "The People of Ferry Hill",
+      "latitude": 39.43823889,
+      "longitude": -77.79767778,
+      "directions": "Near Shepherdstown Pike (State Route 34) , near Sharpsburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296261",
+      "photo_urls": []
+    },
+    {
+      "id": "296265",
+      "title": "Dickerson AME Church",
+      "latitude": 39.65983333,
+      "longitude": -78.93106944,
+      "directions": "On West Main Street (U.S. Alternate 40) , Frostburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296265",
       "photo_urls": []
     },
     {
@@ -50432,6 +51044,1068 @@
       "longitude": -76.486728,
       "directions": "On Blake Road, Annapolis, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29647",
+      "photo_urls": []
+    },
+    {
+      "id": "296730",
+      "title": "Moraine Reserve",
+      "latitude": 38.68056111,
+      "longitude": -77.02599444,
+      "directions": "On Bryan Point Road, Accokeek, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296730",
+      "photo_urls": []
+    },
+    {
+      "id": "296752",
+      "title": "Mount Hope Church",
+      "latitude": 38.47525278,
+      "longitude": -77.190925,
+      "directions": "On Bowie Road, Nanjemoy, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296752",
+      "photo_urls": []
+    },
+    {
+      "id": "296754",
+      "title": "Mt. Hope Baptist Church",
+      "latitude": 38.47704401,
+      "longitude": -77.19197587,
+      "directions": "On Gilroy Road, Nanjemoy, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296754",
+      "photo_urls": []
+    },
+    {
+      "id": "296757",
+      "title": "Carroll Farmhouse & Cemetery",
+      "latitude": 38.47267081,
+      "longitude": -77.20505263,
+      "directions": "On Poseytown Road, Nanjemoy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296757",
+      "photo_urls": []
+    },
+    {
+      "id": "296760",
+      "title": "The Village of Pomonkey",
+      "latitude": 38.61894167,
+      "longitude": -77.07631667,
+      "directions": "On Metropolitan Church Road, Indian Head, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296760",
+      "photo_urls": []
+    },
+    {
+      "id": "297001",
+      "title": "St. Philip's Episcopal Church",
+      "latitude": 39.10748,
+      "longitude": -76.851687,
+      "directions": "On Main Street, Laurel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297001",
+      "photo_urls": []
+    },
+    {
+      "id": "297018",
+      "title": "Lafayette’s Tour",
+      "latitude": 39.58111944,
+      "longitude": -75.82979722,
+      "directions": "On Frenchtown Road, Elkton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297018",
+      "photo_urls": []
+    },
+    {
+      "id": "297019",
+      "title": "St. Augustine Parish",
+      "latitude": 39.49391111,
+      "longitude": -75.80894444,
+      "directions": "On Cayots Corner Road, Chesapeake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297019",
+      "photo_urls": []
+    },
+    {
+      "id": "297190",
+      "title": "Stuffed Ham",
+      "latitude": 38.22531953,
+      "longitude": -76.75123391,
+      "directions": "On Bayview Road, Coltons Point, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297190",
+      "photo_urls": []
+    },
+    {
+      "id": "297191",
+      "title": "St. Peter Claver Catholic Church Complex",
+      "latitude": 38.13600278,
+      "longitude": -76.38281389,
+      "directions": "On Saint Peters Clavers Road, Ridge, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297191",
+      "photo_urls": []
+    },
+    {
+      "id": "297195",
+      "title": "Sodality Hall",
+      "latitude": 38.13213611,
+      "longitude": -76.382125,
+      "directions": "On St. Peters Clavers Road, Ridge, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297195",
+      "photo_urls": []
+    },
+    {
+      "id": "297197",
+      "title": "In Memory of Benjamin Biscoe",
+      "latitude": 38.13213611,
+      "longitude": -76.38211111,
+      "directions": "On St. Peters Clavers Road, Ridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297197",
+      "photo_urls": []
+    },
+    {
+      "id": "297216",
+      "title": "Archdiocese of Washington Slavery Acknowledgement",
+      "latitude": 38.13146111,
+      "longitude": -76.38079167,
+      "directions": "Near St. Peters Clavers Road, Ridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297216",
+      "photo_urls": []
+    },
+    {
+      "id": "297217",
+      "title": "Granite Stone",
+      "latitude": 38.07369722,
+      "longitude": -76.34090556,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297217",
+      "photo_urls": []
+    },
+    {
+      "id": "297218",
+      "title": "The Maryland Flagpole / Point Lookout Cemetery Trustees",
+      "latitude": 38.07359722,
+      "longitude": -76.34111111,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297218",
+      "photo_urls": []
+    },
+    {
+      "id": "297219",
+      "title": "Concrete Fence Posts",
+      "latitude": 38.07353333,
+      "longitude": -76.34108611,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297219",
+      "photo_urls": []
+    },
+    {
+      "id": "297220",
+      "title": "Pvt. Luther Wesley Hopkins",
+      "latitude": 38.07351944,
+      "longitude": -76.34107222,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297220",
+      "photo_urls": []
+    },
+    {
+      "id": "297224",
+      "title": "Capt. L. R. Peyton",
+      "latitude": 38.07349444,
+      "longitude": -76.34108611,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297224",
+      "photo_urls": []
+    },
+    {
+      "id": "297227",
+      "title": "Sgt. Bartlett Yancey Malone",
+      "latitude": 38.07344423,
+      "longitude": -76.34113164,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297227",
+      "photo_urls": []
+    },
+    {
+      "id": "297228",
+      "title": "How Yankee Guards Fared at Pt. Lookout",
+      "latitude": 38.07339597,
+      "longitude": -76.34107537,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297228",
+      "photo_urls": []
+    },
+    {
+      "id": "297229",
+      "title": "Pvt. A.J. Cone, Co. I 18th Georgia Infantry",
+      "latitude": 38.07335278,
+      "longitude": -76.34108056,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297229",
+      "photo_urls": []
+    },
+    {
+      "id": "297230",
+      "title": "Pvt. David E. Holt",
+      "latitude": 38.07336389,
+      "longitude": -76.34101944,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297230",
+      "photo_urls": []
+    },
+    {
+      "id": "297233",
+      "title": "Sgt. James T. Wells, Co. A, 2nd S.C. Infantry",
+      "latitude": 38.07336084,
+      "longitude": -76.3410068,
+      "directions": "On Point Lookout Road (Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297233",
+      "photo_urls": []
+    },
+    {
+      "id": "297234",
+      "title": "Henry Oldham Robertson",
+      "latitude": 38.07334534,
+      "longitude": -76.34098889,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297234",
+      "photo_urls": []
+    },
+    {
+      "id": "297235",
+      "title": "Capt. Robert E. Park",
+      "latitude": 38.07336389,
+      "longitude": -76.34096389,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297235",
+      "photo_urls": []
+    },
+    {
+      "id": "297236",
+      "title": "Wilbur Wightman Gramling",
+      "latitude": 38.07340278,
+      "longitude": -76.34093611,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297236",
+      "photo_urls": []
+    },
+    {
+      "id": "297238",
+      "title": "Sgt. Peyton P. Maddox / Pvt. W. Robinson",
+      "latitude": 38.07341667,
+      "longitude": -76.34091111,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297238",
+      "photo_urls": []
+    },
+    {
+      "id": "297240",
+      "title": "Pvt. Joseph P. Bashaw / Pvt. Enos Jennings / Pvt. John O. Douglas",
+      "latitude": 38.07345556,
+      "longitude": -76.34090556,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297240",
+      "photo_urls": []
+    },
+    {
+      "id": "297242",
+      "title": "Lt. Peter Goodwin Benton",
+      "latitude": 38.07346691,
+      "longitude": -76.34089419,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297242",
+      "photo_urls": []
+    },
+    {
+      "id": "297263",
+      "title": "Sgt. Elihu C. Beckham",
+      "latitude": 38.07351669,
+      "longitude": -76.34093257,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297263",
+      "photo_urls": []
+    },
+    {
+      "id": "297264",
+      "title": "Memorial Bricks and Flagpoles",
+      "latitude": 38.07346907,
+      "longitude": -76.34101427,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297264",
+      "photo_urls": []
+    },
+    {
+      "id": "297265",
+      "title": "Mary Ellen Whalen Jones",
+      "latitude": 38.07361667,
+      "longitude": -76.34095833,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297265",
+      "photo_urls": []
+    },
+    {
+      "id": "297267",
+      "title": "Sister Mary Consolata Conlan",
+      "latitude": 38.07361111,
+      "longitude": -76.34093611,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297267",
+      "photo_urls": []
+    },
+    {
+      "id": "297269",
+      "title": "The Grace Church Cemetery Confederate Monument",
+      "latitude": 38.07361618,
+      "longitude": -76.34057476,
+      "directions": "On Point Lookout Road (Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297269",
+      "photo_urls": []
+    },
+    {
+      "id": "297270",
+      "title": "Pvt. William Hennry Laird",
+      "latitude": 38.07368333,
+      "longitude": -76.34088056,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297270",
+      "photo_urls": []
+    },
+    {
+      "id": "297272",
+      "title": "Unknown Confederate Burials Memorial",
+      "latitude": 38.07367778,
+      "longitude": -76.34091944,
+      "directions": "On Point Lookout Road (Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297272",
+      "photo_urls": []
+    },
+    {
+      "id": "297273",
+      "title": "Maryland, My Maryland Monument",
+      "latitude": 38.07358056,
+      "longitude": -76.34118611,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297273",
+      "photo_urls": []
+    },
+    {
+      "id": "297276",
+      "title": "Smallpox at Point Lookout",
+      "latitude": 38.06257018,
+      "longitude": -76.32714972,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297276",
+      "photo_urls": []
+    },
+    {
+      "id": "297277",
+      "title": "A Seaside Resort at Point Lookout",
+      "latitude": 38.05711712,
+      "longitude": -76.32439702,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297277",
+      "photo_urls": []
+    },
+    {
+      "id": "297340",
+      "title": "Storm Blocks the Road to Freedom",
+      "latitude": 38.04800833,
+      "longitude": -76.32591944,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297340",
+      "photo_urls": []
+    },
+    {
+      "id": "297342",
+      "title": "Union Bethel African Methodist Episcopal Church",
+      "latitude": 39.40301944,
+      "longitude": -75.87072778,
+      "directions": "On Church Street, Cecilton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297342",
+      "photo_urls": []
+    },
+    {
+      "id": "297343",
+      "title": "Defense Strategies",
+      "latitude": 38.04813889,
+      "longitude": -76.32585278,
+      "directions": "Near Point Lookout Road (Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297343",
+      "photo_urls": []
+    },
+    {
+      "id": "297345",
+      "title": "Civil War Fort #3",
+      "latitude": 38.048175,
+      "longitude": -76.32582222,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297345",
+      "photo_urls": []
+    },
+    {
+      "id": "297349",
+      "title": "Redoubt #3",
+      "latitude": 38.04833611,
+      "longitude": -76.32593611,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297349",
+      "photo_urls": []
+    },
+    {
+      "id": "297354",
+      "title": "The Armaments of Point Lookout",
+      "latitude": 38.04884722,
+      "longitude": -76.32605,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297354",
+      "photo_urls": []
+    },
+    {
+      "id": "297362",
+      "title": "The Veteran Reserve Corps",
+      "latitude": 38.04858889,
+      "longitude": -76.32543056,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297362",
+      "photo_urls": []
+    },
+    {
+      "id": "297363",
+      "title": "United States Colored Troops",
+      "latitude": 38.04860278,
+      "longitude": -76.3254,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297363",
+      "photo_urls": []
+    },
+    {
+      "id": "297365",
+      "title": "The 5th Massachusetts Colored Cavalry",
+      "latitude": 38.0486,
+      "longitude": -76.32543056,
+      "directions": "Near Point Lookout Road (Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297365",
+      "photo_urls": []
+    },
+    {
+      "id": "297367",
+      "title": "Prisoners of War at Point Lookout",
+      "latitude": 38.04908056,
+      "longitude": -76.32436389,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297367",
+      "photo_urls": []
+    },
+    {
+      "id": "297369",
+      "title": "Point Lookout Prison, 1863-1865",
+      "latitude": 38.04897778,
+      "longitude": -76.32412778,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297369",
+      "photo_urls": []
+    },
+    {
+      "id": "297370",
+      "title": "The Prison Sutler",
+      "latitude": 38.04906111,
+      "longitude": -76.32411111,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297370",
+      "photo_urls": []
+    },
+    {
+      "id": "297372",
+      "title": "The Post Office at Camp Hoffman",
+      "latitude": 38.04916111,
+      "longitude": -76.32392222,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297372",
+      "photo_urls": []
+    },
+    {
+      "id": "297374",
+      "title": "Hammond General Hospital",
+      "latitude": 38.03948333,
+      "longitude": -76.32231944,
+      "directions": "On Point Lookout Road (Route 5) , Scotland, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297374",
+      "photo_urls": []
+    },
+    {
+      "id": "297433",
+      "title": "Welcome to Point Lookout",
+      "latitude": 38.03907636,
+      "longitude": -76.32207977,
+      "directions": "On Point Lookout Road, Scotland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297433",
+      "photo_urls": []
+    },
+    {
+      "id": "297434",
+      "title": "Light's On at Point Lookout",
+      "latitude": 38.03889369,
+      "longitude": -76.32223151,
+      "directions": "On Point Lookout Road (Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297434",
+      "photo_urls": []
+    },
+    {
+      "id": "297435",
+      "title": "The Wharf",
+      "latitude": 38.03878056,
+      "longitude": -76.32241944,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297435",
+      "photo_urls": []
+    },
+    {
+      "id": "297437",
+      "title": "The Buoy & Coal Sheds",
+      "latitude": 38.03868889,
+      "longitude": -76.32227222,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297437",
+      "photo_urls": []
+    },
+    {
+      "id": "297439",
+      "title": "Point Lookout Radio Room",
+      "latitude": 38.03863056,
+      "longitude": -76.32221944,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297439",
+      "photo_urls": []
+    },
+    {
+      "id": "297440",
+      "title": "From Buoys to Barracks",
+      "latitude": 38.03859722,
+      "longitude": -76.32218889,
+      "directions": "Near Point Lookout Road (Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297440",
+      "photo_urls": []
+    },
+    {
+      "id": "297443",
+      "title": "The Bay Is a Sunken River",
+      "latitude": 38.03860556,
+      "longitude": -76.32213611,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297443",
+      "photo_urls": []
+    },
+    {
+      "id": "297447",
+      "title": "It Takes More Than Lighthouses…",
+      "latitude": 38.03857778,
+      "longitude": -76.32205833,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297447",
+      "photo_urls": []
+    },
+    {
+      "id": "297448",
+      "title": "The Wooden Spar Buoy",
+      "latitude": 38.03856944,
+      "longitude": -76.32214444,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297448",
+      "photo_urls": []
+    },
+    {
+      "id": "297462",
+      "title": "“Mount Lubentia”",
+      "latitude": 38.882572,
+      "longitude": -76.81333,
+      "directions": "On Largo Road (Route 202) , Kettering, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297462",
+      "photo_urls": []
+    },
+    {
+      "id": "297482",
+      "title": "New Buoy Technology",
+      "latitude": 38.03856944,
+      "longitude": -76.32211944,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297482",
+      "photo_urls": []
+    },
+    {
+      "id": "297483",
+      "title": "Rough Treatment",
+      "latitude": 38.03855833,
+      "longitude": -76.32210556,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297483",
+      "photo_urls": []
+    },
+    {
+      "id": "297484",
+      "title": "Keeping the Buoys Seaworthy",
+      "latitude": 38.03853889,
+      "longitude": -76.32206667,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297484",
+      "photo_urls": []
+    },
+    {
+      "id": "297485",
+      "title": "Buoys and Beacons of the Chesapeake Bay",
+      "latitude": 38.03852778,
+      "longitude": -76.32205833,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297485",
+      "photo_urls": []
+    },
+    {
+      "id": "297488",
+      "title": "The Fog Bell Tower",
+      "latitude": 38.03839444,
+      "longitude": -76.32199167,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297488",
+      "photo_urls": []
+    },
+    {
+      "id": "297490",
+      "title": "Treacherous Waters",
+      "latitude": 38.03871667,
+      "longitude": -76.32185278,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297490",
+      "photo_urls": []
+    },
+    {
+      "id": "297492",
+      "title": "Hammond General Hospital",
+      "latitude": 38.04039444,
+      "longitude": -76.32211389,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297492",
+      "photo_urls": []
+    },
+    {
+      "id": "297539",
+      "title": "Eastern Oyster / Ostra Oriental",
+      "latitude": 38.04418611,
+      "longitude": -76.32323333,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297539",
+      "photo_urls": []
+    },
+    {
+      "id": "297542",
+      "title": "A Place of History / Un Lugar de Historia",
+      "latitude": 38.04418056,
+      "longitude": -76.32324167,
+      "directions": "Near Point Lookout Road (Route 5) , Scotland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297542",
+      "photo_urls": []
+    },
+    {
+      "id": "297544",
+      "title": "Camp Hoffman",
+      "latitude": 38.05052222,
+      "longitude": -76.32224167,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297544",
+      "photo_urls": []
+    },
+    {
+      "id": "297551",
+      "title": "Veterans Memorial",
+      "latitude": 38.11169444,
+      "longitude": -76.36809444,
+      "directions": "On Point Lookout Road (State Route 5) , Ridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297551",
+      "photo_urls": []
+    },
+    {
+      "id": "297552",
+      "title": "Historic St. Mary's City",
+      "latitude": 38.18114167,
+      "longitude": -76.43023056,
+      "directions": "On Town Center Path, St. Mary&#39;s City, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297552",
+      "photo_urls": []
+    },
+    {
+      "id": "297553",
+      "title": "An Opportunity Awaits…",
+      "latitude": 38.1818529,
+      "longitude": -76.43030689,
+      "directions": "On Town Center Path, St. Mary&#39;s City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297553",
+      "photo_urls": []
+    },
+    {
+      "id": "297554",
+      "title": "\"a lande, even as God made it\"",
+      "latitude": 38.18220556,
+      "longitude": -76.43083889,
+      "directions": "On Town Center Path, St. Mary&#39;s City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297554",
+      "photo_urls": []
+    },
+    {
+      "id": "297555",
+      "title": "Fear of War, People of Peace",
+      "latitude": 38.18379333,
+      "longitude": -76.43077462,
+      "directions": "On Point Lookout Road (State Route 5) , St. Mary&#39;s City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297555",
+      "photo_urls": []
+    },
+    {
+      "id": "297556",
+      "title": "The Exhibit",
+      "latitude": 38.18538611,
+      "longitude": -76.43409722,
+      "directions": "On Aldermanbury Street Footpath, St. Mary&#39;s City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297556",
+      "photo_urls": []
+    },
+    {
+      "id": "297558",
+      "title": "Historic St. Mary's City",
+      "latitude": 38.1858,
+      "longitude": -76.43433333,
+      "directions": "On Aldermanbury Street Footpath, St. Mary&#39;s City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297558",
+      "photo_urls": []
+    },
+    {
+      "id": "297559",
+      "title": "Historic St. Mary's City",
+      "latitude": 38.18601667,
+      "longitude": -76.43354722,
+      "directions": "On Old State House Road, St. Mary&#39;s City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297559",
+      "photo_urls": []
+    },
+    {
+      "id": "297570",
+      "title": "Riverfront Habitat",
+      "latitude": 38.18950556,
+      "longitude": -76.43161111,
+      "directions": "On Point Lookout Road (State Route 5) , St. Mary&#39;s City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297570",
+      "photo_urls": []
+    },
+    {
+      "id": "297571",
+      "title": "Stormwater Pond Habitat",
+      "latitude": 38.19065833,
+      "longitude": -76.42713889,
+      "directions": "On College Drive, St. Mary&#39;s City, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297571",
+      "photo_urls": []
+    },
+    {
+      "id": "297608",
+      "title": "Ways to Explore Southern Maryland's Scenic and Historic Routes",
+      "latitude": 38.28642778,
+      "longitude": -76.63845833,
+      "directions": "On Washington Street, Leonardtown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297608",
+      "photo_urls": []
+    },
+    {
+      "id": "297609",
+      "title": "Discover Southern Maryland's Amazing Stories of Exploration, Hope, and Courage",
+      "latitude": 38.28641944,
+      "longitude": -76.63848889,
+      "directions": "On Washington Street, Leonardtown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297609",
+      "photo_urls": []
+    },
+    {
+      "id": "297620",
+      "title": "Restoring Oysters in Breton Bay / Restauración de ostras en la Breton Bay",
+      "latitude": 38.28640965,
+      "longitude": -76.6391501,
+      "directions": "On Washington Street, Leonardtown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297620",
+      "photo_urls": []
+    },
+    {
+      "id": "297621",
+      "title": "\"O! say can you see…\"",
+      "latitude": 38.2891294,
+      "longitude": -76.63498198,
+      "directions": "On Camalier Drive, Leonardtown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297621",
+      "photo_urls": []
+    },
+    {
+      "id": "297622",
+      "title": "War in the Chesapeake",
+      "latitude": 38.28914159,
+      "longitude": -76.63498756,
+      "directions": "On Camalier Drive, Leonardtown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297622",
+      "photo_urls": []
+    },
+    {
+      "id": "297624",
+      "title": "\"The Sterling House\"",
+      "latitude": 38.29269317,
+      "longitude": -76.63551121,
+      "directions": "On Washington Street, Leonardtown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297624",
+      "photo_urls": []
+    },
+    {
+      "id": "297625",
+      "title": "Sotterley",
+      "latitude": 38.3751,
+      "longitude": -76.54240556,
+      "directions": "On Sotterley Lane, Hollywood, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297625",
+      "photo_urls": []
+    },
+    {
+      "id": "297628",
+      "title": "War Touches Sotterley",
+      "latitude": 38.37546944,
+      "longitude": -76.54225833,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297628",
+      "photo_urls": []
+    },
+    {
+      "id": "297661",
+      "title": "Sotterley's Early Days",
+      "latitude": 38.37543889,
+      "longitude": -76.54257222,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297661",
+      "photo_urls": []
+    },
+    {
+      "id": "297663",
+      "title": "Blacksmithing",
+      "latitude": 38.37548333,
+      "longitude": -76.54269444,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297663",
+      "photo_urls": []
+    },
+    {
+      "id": "297711",
+      "title": "The Cooper",
+      "latitude": 38.3755,
+      "longitude": -76.54267222,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297711",
+      "photo_urls": []
+    },
+    {
+      "id": "297716",
+      "title": "The Sotterly Corn Crib",
+      "latitude": 38.37551944,
+      "longitude": -76.54269444,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297716",
+      "photo_urls": []
+    },
+    {
+      "id": "297719",
+      "title": "Sotterley's Economy",
+      "latitude": 38.37560278,
+      "longitude": -76.54246389,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297719",
+      "photo_urls": []
+    },
+    {
+      "id": "297759",
+      "title": "Sotterley Plantation",
+      "latitude": 38.37562222,
+      "longitude": -76.54247222,
+      "directions": "On Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297759",
+      "photo_urls": []
+    },
+    {
+      "id": "297760",
+      "title": "Wheelwright",
+      "latitude": 38.37561389,
+      "longitude": -76.54269444,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297760",
+      "photo_urls": []
+    },
+    {
+      "id": "297761",
+      "title": "Building a Horse Drawn Wagon",
+      "latitude": 38.37561111,
+      "longitude": -76.542725,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297761",
+      "photo_urls": []
+    },
+    {
+      "id": "297762",
+      "title": "Dwellings and Outbuildings",
+      "latitude": 38.37608333,
+      "longitude": -76.54295278,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297762",
+      "photo_urls": []
+    },
+    {
+      "id": "297764",
+      "title": "How Sotterley Changed Hands",
+      "latitude": 38.37612778,
+      "longitude": -76.54283056,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297764",
+      "photo_urls": []
+    },
+    {
+      "id": "297765",
+      "title": "Childhood at Sotterley",
+      "latitude": 38.37619722,
+      "longitude": -76.54283056,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297765",
+      "photo_urls": []
+    },
+    {
+      "id": "297774",
+      "title": "Gardening at Sotterley",
+      "latitude": 38.37640833,
+      "longitude": -76.54231389,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297774",
+      "photo_urls": []
+    },
+    {
+      "id": "297775",
+      "title": "George Plater III",
+      "latitude": 38.37644444,
+      "longitude": -76.54204444,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297775",
+      "photo_urls": []
+    },
+    {
+      "id": "297776",
+      "title": "Mabel Satterlee Ingalls",
+      "latitude": 38.37631944,
+      "longitude": -76.542175,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297776",
+      "photo_urls": []
+    },
+    {
+      "id": "297778",
+      "title": "Visitors and Correspondents",
+      "latitude": 38.37615278,
+      "longitude": -76.54225833,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297778",
+      "photo_urls": []
+    },
+    {
+      "id": "297781",
+      "title": "Food and Culinary Traditions at Sotterley",
+      "latitude": 38.37604167,
+      "longitude": -76.54195278,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297781",
+      "photo_urls": []
+    },
+    {
+      "id": "297787",
+      "title": "Slavery at Sotterley",
+      "latitude": 38.37575833,
+      "longitude": -76.54213611,
+      "directions": "On Sotterley Lane, Hollywood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297787",
+      "photo_urls": []
+    },
+    {
+      "id": "297789",
+      "title": "Slavery at Sotterley",
+      "latitude": 38.37576667,
+      "longitude": -76.54212222,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297789",
+      "photo_urls": []
+    },
+    {
+      "id": "297791",
+      "title": "Sotterley's Slave Cabin",
+      "latitude": 38.37592778,
+      "longitude": -76.54124444,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297791",
+      "photo_urls": []
+    },
+    {
+      "id": "297792",
+      "title": "Sacred Space Project / Sankofa Bird",
+      "latitude": 38.37494722,
+      "longitude": -76.54099167,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297792",
+      "photo_urls": []
+    },
+    {
+      "id": "297793",
+      "title": "You are entering Historic Sotterley's Sacred Space / The Sankofa Bird",
+      "latitude": 38.3751,
+      "longitude": -76.54114444,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297793",
+      "photo_urls": []
+    },
+    {
+      "id": "297794",
+      "title": "Middle Passage Site, Sotterley",
+      "latitude": 38.37515278,
+      "longitude": -76.54118333,
+      "directions": "Near Sotterley Lane, Hollywood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297794",
+      "photo_urls": []
+    },
+    {
+      "id": "297795",
+      "title": "American Visionary Art Museum Land Acknowledgment",
+      "latitude": 39.28019134,
+      "longitude": -76.60669542,
+      "directions": "On Key Highway, Baltimore, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297795",
+      "photo_urls": []
+    },
+    {
+      "id": "297801",
+      "title": "Robert \"Bob\" Benson",
+      "latitude": 39.28041218,
+      "longitude": -76.60668862,
+      "directions": "On Key Highway, Baltimore, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297801",
+      "photo_urls": []
+    },
+    {
+      "id": "297957",
+      "title": "“Bygone Days”",
+      "latitude": 39.52717899,
+      "longitude": -75.81176617,
+      "directions": "On Bohemia Avenue, Chesapeake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297957",
+      "photo_urls": []
+    },
+    {
+      "id": "297958",
+      "title": "Chesapeake & Delaware Canal",
+      "latitude": 39.52784185,
+      "longitude": -75.81274712,
+      "directions": "On 1st Street, Chesapeake City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297958",
+      "photo_urls": []
+    },
+    {
+      "id": "298166",
+      "title": "Remembering Ancestors: The Middle Passage in Oxford, Maryland",
+      "latitude": 38.69277778,
+      "longitude": -76.17055556,
+      "directions": "On Mill Street, Oxford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298166",
       "photo_urls": []
     },
     {
@@ -50806,8 +52480,8 @@
     {
       "id": "3072",
       "title": "Captain Lambert Wickes",
-      "latitude": 39.13863333,
-      "longitude": -76.23461667,
+      "latitude": 39.13860208,
+      "longitude": -76.23468503,
       "directions": "On State Route 20, Rock Hall, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3072",
       "photo_urls": []
@@ -50815,8 +52489,8 @@
     {
       "id": "3073",
       "title": "Stanley B. Vansant Memorial",
-      "latitude": 39.13863333,
-      "longitude": -76.23461667,
+      "latitude": 39.13867532,
+      "longitude": -76.23482512,
       "directions": "On State Route 20, Rock Hall, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3073",
       "photo_urls": []
@@ -50869,9 +52543,9 @@
     {
       "id": "3101",
       "title": "Joshua Seney",
-      "latitude": 39.045,
-      "longitude": -75.98621667,
-      "directions": "Near Hope Road, Church Hill, ",
+      "latitude": 39.14207354,
+      "longitude": -75.98620476,
+      "directions": "Near Church Lane, Church Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3101",
       "photo_urls": []
     },
@@ -51669,7 +53343,7 @@
     },
     {
       "id": "3349",
-      "title": "The Business of Agriculture:",
+      "title": "The Business of Agriculture: Cannery and Mills",
       "latitude": 39.1417,
       "longitude": -77.19273,
       "directions": "Near South Summit Avenue, Gaithersburg, (On the right when traveling north)",
@@ -56871,7 +58545,7 @@
     },
     {
       "id": "5751",
-      "title": "Glen Echo Park: Spanish Ballroom c. 1943",
+      "title": "Glen Echo Park: Spanish Ballroom",
       "latitude": 38.967401,
       "longitude": -77.138615,
       "directions": "Near Macarthur Boulevard, Glen Echo, ",
@@ -57801,7 +59475,7 @@
       "title": "Point Lookout Prison",
       "latitude": 38.0735,
       "longitude": -76.3406,
-      "directions": "On State Route 5, Scotland, ",
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60250",
       "photo_urls": []
     },
@@ -57817,9 +59491,9 @@
     {
       "id": "60276",
       "title": "\"The Bean Pot\"",
-      "latitude": 38.0734,
-      "longitude": -76.3404,
-      "directions": "On State Route 5, Scotland, ",
+      "latitude": 38.07343608,
+      "longitude": -76.34100752,
+      "directions": "Near Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60276",
       "photo_urls": []
     },
@@ -57871,9 +59545,9 @@
     {
       "id": "60316",
       "title": "A Seaside Resort at Point Lookout",
-      "latitude": 38.0415,
-      "longitude": -76.3218,
-      "directions": "On State Route 5, Scotland, ",
+      "latitude": 38.05711922,
+      "longitude": -76.32440082,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60316",
       "photo_urls": []
     },
@@ -59455,9 +61129,9 @@
     {
       "id": "62446",
       "title": "A Crucial Point",
-      "latitude": 38.03944,
-      "longitude": -76.32194,
-      "directions": "Near Point Lookout Road (State Route 5) , Scotland, ",
+      "latitude": 38.0480173,
+      "longitude": -76.32589552,
+      "directions": "Near Point Lookout Trail, Scotland, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62446",
       "photo_urls": []
     },
@@ -60345,7 +62019,7 @@
     },
     {
       "id": "6368",
-      "title": "“I Hate Cannons”",
+      "title": "\"I Hate Cannons\"",
       "latitude": 39.47484788,
       "longitude": -77.74570048,
       "directions": "On Dunker Church Road / Old Hagerstown Pike, near Sharpsburg, (On the right when traveling north)",
@@ -64261,8 +65935,8 @@
     {
       "id": "69889",
       "title": "Bounty Below",
-      "latitude": 39.1353,
-      "longitude": -76.24777778,
+      "latitude": 39.13519412,
+      "longitude": -76.24804934,
       "directions": "On Bayside Avenue, Rock Hall, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69889",
       "photo_urls": []
@@ -64270,8 +65944,8 @@
     {
       "id": "69894",
       "title": "Right Place, Right Time",
-      "latitude": 39.135,
-      "longitude": -76.24805556,
+      "latitude": 39.13518968,
+      "longitude": -76.24809165,
       "directions": "On Bayside Avenue, Rock Hall, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69894",
       "photo_urls": []
@@ -64279,8 +65953,8 @@
     {
       "id": "69896",
       "title": "Attracted By Bounty",
-      "latitude": 39.135,
-      "longitude": -76.24805556,
+      "latitude": 39.1352174,
+      "longitude": -76.24810226,
       "directions": "On Bayside Avenue, Rock Hall, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69896",
       "photo_urls": []
@@ -66628,9 +68302,9 @@
     {
       "id": "76032",
       "title": "Confederate Monument",
-      "latitude": 39.005312,
-      "longitude": -77.037829,
-      "directions": "On Georgia Avenue (State Route 97) , Silver Spring, (On the right when traveling north)",
+      "latitude": 38.07365828,
+      "longitude": -76.34056066,
+      "directions": "On Point Lookout Road (State Route 5) , Scotland, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=76032",
       "photo_urls": []
     },
@@ -67023,7 +68697,7 @@
     },
     {
       "id": "78348",
-      "title": "At the Junction of War and Peace:",
+      "title": "At the Junction of War and Peace: Lockhouse 25 and Edwards Ferry",
       "latitude": 39.103716,
       "longitude": -77.472498,
       "directions": "On Edwards Ferry Road, Poolesville, (On the right when traveling west)",
@@ -68115,7 +69789,7 @@
       "title": "Outnumbered",
       "latitude": 38.7765,
       "longitude": -76.5645,
-      "directions": "On Herring Bay Road, Tracys Landing, ",
+      "directions": "On Herring Bay Road, near Deale, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79956",
       "photo_urls": []
     },
@@ -68284,9 +69958,9 @@
     {
       "id": "80392",
       "title": "A Town Spared",
-      "latitude": 38.289113,
-      "longitude": -76.634939,
-      "directions": "On Guyther Drive, Leonardtown, ",
+      "latitude": 38.28913108,
+      "longitude": -76.63498192,
+      "directions": "On Guyther Drive, Leonardtown, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80392",
       "photo_urls": []
     },
@@ -70399,8 +72073,8 @@
     {
       "id": "8934",
       "title": "A Bustling Civil War Community",
-      "latitude": 38.039743,
-      "longitude": -76.323996,
+      "latitude": 38.03989633,
+      "longitude": -76.32267099,
       "directions": "On Point Lookout Road (State Route 5) , Scotland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=8934",
       "photo_urls": []
@@ -70491,7 +72165,7 @@
       "title": "Through a Child's Eyes",
       "latitude": 39.361667,
       "longitude": -77.401683,
-      "directions": "Near Baker Valley Road, near Frederick, ",
+      "directions": "Near Baker Valley Road, near Frederick, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89981",
       "photo_urls": []
     },
@@ -72954,9 +74628,9 @@
     },
     {
       "id": "998",
-      "title": "Point Lookout Prisoner-Of-War Camp",
-      "latitude": 38.049912,
-      "longitude": -76.32376,
+      "title": "Point Lookout Prisoner-of-War Camp",
+      "latitude": 38.04995747,
+      "longitude": -76.32361106,
       "directions": "On Point Lookout Road (Route 5) , near Scotland, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=998",
       "photo_urls": []
