@@ -3,9 +3,9 @@
   "region_name": "South Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.258Z",
-  "source_timestamp": "2026-04-11T19:21:31.258Z",
-  "marker_count": 5185,
+  "generated": "2026-04-27T06:03:43.375Z",
+  "source_timestamp": "2026-04-27T06:03:43.375Z",
+  "marker_count": 5189,
   "markers": [
     {
       "id": "10001",
@@ -1371,7 +1371,7 @@
       "title": "John E. Johns '47",
       "latitude": 34.92555556,
       "longitude": -82.43611111,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104232",
       "photo_urls": []
     },
@@ -1380,7 +1380,7 @@
       "title": "John E. Johns Hall",
       "latitude": 34.92527778,
       "longitude": -82.43722222,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=104233",
       "photo_urls": []
     },
@@ -2001,7 +2001,7 @@
       "title": "Major General William Moultrie",
       "latitude": 32.762376,
       "longitude": -79.85702,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling west)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108527",
       "photo_urls": []
     },
@@ -2010,7 +2010,7 @@
       "title": "Revolutionary War Artillery",
       "latitude": 32.758218,
       "longitude": -79.85748,
-      "directions": "Near Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108528",
       "photo_urls": []
     },
@@ -2019,7 +2019,7 @@
       "title": "Civil War Defense of Sullivan's Island",
       "latitude": 32.758957,
       "longitude": -79.85698,
-      "directions": "On Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108549",
       "photo_urls": []
     },
@@ -2028,7 +2028,7 @@
       "title": "Cannon Row",
       "latitude": 32.758952,
       "longitude": -79.85701,
-      "directions": "On Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108560",
       "photo_urls": []
     },
@@ -2037,7 +2037,7 @@
       "title": "From Military Base to National Park",
       "latitude": 32.759795,
       "longitude": -79.85693,
-      "directions": "On Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108569",
       "photo_urls": []
     },
@@ -2046,7 +2046,7 @@
       "title": "Discovering the <i>Hunley</i>",
       "latitude": 32.758897,
       "longitude": -79.85722,
-      "directions": "On Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108573",
       "photo_urls": []
     },
@@ -2055,7 +2055,7 @@
       "title": "The <i>Hunley</i> Recovery Project",
       "latitude": 32.758897,
       "longitude": -79.85723,
-      "directions": "On Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108574",
       "photo_urls": []
     },
@@ -2667,7 +2667,7 @@
       "title": "Peter Horry / Horry County",
       "latitude": 33.83385,
       "longitude": -79.04886667,
-      "directions": "On , Conway, (On the right when traveling west)",
+      "directions": "On 3rd Avenue, Conway, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=11262",
       "photo_urls": []
     },
@@ -3423,7 +3423,7 @@
       "title": "Thomas Joab Mauldin",
       "latitude": 34.88333333,
       "longitude": -82.70666667,
-      "directions": "On , Pickens, ",
+      "directions": "On East Main Street, Pickens, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=11738",
       "photo_urls": []
     },
@@ -4179,7 +4179,7 @@
       "title": "General Robert H. Reed",
       "latitude": 33.66264008,
       "longitude": -78.93978536,
-      "directions": "On , Myrtle Beach, ",
+      "directions": "On Gabreski Lane, Myrtle Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121802",
       "photo_urls": []
     },
@@ -4548,7 +4548,7 @@
       "title": "New Light Beulah Baptist Church",
       "latitude": 33.93478333,
       "longitude": -80.82616667,
-      "directions": "On , Hopkins, ",
+      "directions": "On Congaree Road, Hopkins, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=123496",
       "photo_urls": []
     },
@@ -4584,7 +4584,7 @@
       "title": "Alester G. Furman, Jr. Administration Building",
       "latitude": 34.92527778,
       "longitude": -82.43666667,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=123600",
       "photo_urls": []
     },
@@ -6303,7 +6303,7 @@
       "title": "Church of the Advent",
       "latitude": 34.9501,
       "longitude": -81.9246,
-      "directions": "Near , Spartanburg, ",
+      "directions": "Near Advent Street, Spartanburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=13511",
       "photo_urls": []
     },
@@ -7176,7 +7176,7 @@
       "title": "Berlin Wall",
       "latitude": 34.9706,
       "longitude": -81.9956,
-      "directions": "On , near Spartanburg, (On the right when traveling east)",
+      "directions": "On Simuel Road, near Spartanburg, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14171",
       "photo_urls": []
     },
@@ -7887,7 +7887,7 @@
       "title": "McCormick County Veterans Monument",
       "latitude": 33.91055556,
       "longitude": -82.29444444,
-      "directions": "On , McCormick, ",
+      "directions": "On South Mine Street, McCormick, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14900",
       "photo_urls": []
     },
@@ -8283,7 +8283,7 @@
       "title": "Oceola / Patapsco Dead",
       "latitude": 32.75977,
       "longitude": -79.857768,
-      "directions": "On Middle Street, Sullivans Island, ",
+      "directions": "On Middle Street, Sullivan&#39;s Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=15425",
       "photo_urls": []
     },
@@ -10524,7 +10524,7 @@
       "title": "Herman W. Lay Physical Activities Center",
       "latitude": 34.92111111,
       "longitude": -82.43916667,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Ray Roberts Road, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18364",
       "photo_urls": []
     },
@@ -10533,7 +10533,7 @@
       "title": "Eugene E. Stone III Soccer Stadium",
       "latitude": 34.92166667,
       "longitude": -82.44027778,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Ray Roberts Road, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18408",
       "photo_urls": []
     },
@@ -10596,7 +10596,7 @@
       "title": "Poteat Hall",
       "latitude": 34.92222222,
       "longitude": -82.44111111,
-      "directions": "Near , Greenville, ",
+      "directions": "Near SoHo Circle, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18507",
       "photo_urls": []
     },
@@ -10605,7 +10605,7 @@
       "title": "Geer Hall",
       "latitude": 34.9225,
       "longitude": -82.44083333,
-      "directions": "Near , Greenville, ",
+      "directions": "Near SoHo Circle, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18512",
       "photo_urls": []
     },
@@ -10812,7 +10812,7 @@
       "title": "Jane Fishburne Hipp Plaza",
       "latitude": 34.92388889,
       "longitude": -82.44,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18539",
       "photo_urls": []
     },
@@ -10893,7 +10893,7 @@
       "title": "Herman N. Hipp Hall",
       "latitude": 34.92361111,
       "longitude": -82.43972222,
-      "directions": "Near , Greenville, ",
+      "directions": "Near SoHo Circle, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18543",
       "photo_urls": []
     },
@@ -11073,7 +11073,7 @@
       "title": "Richard W. Riley Hall",
       "latitude": 34.92388889,
       "longitude": -82.43833333,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18566",
       "photo_urls": []
     },
@@ -11082,7 +11082,7 @@
       "title": "Charles H. Townes Center for Science",
       "latitude": 34.92361111,
       "longitude": -82.43833333,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18576",
       "photo_urls": []
     },
@@ -11091,7 +11091,7 @@
       "title": "Marshall E. and Vera Lea Rinker Hall",
       "latitude": 34.92333333,
       "longitude": -82.43833333,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18585",
       "photo_urls": []
     },
@@ -11199,7 +11199,7 @@
       "title": "McAlister Auditorium",
       "latitude": 34.92638889,
       "longitude": -82.435,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18810",
       "photo_urls": []
     },
@@ -11208,7 +11208,7 @@
       "title": "Judson Hall",
       "latitude": 34.92666667,
       "longitude": -82.4375,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18813",
       "photo_urls": []
     },
@@ -11226,7 +11226,7 @@
       "title": "The Earle Infirmary",
       "latitude": 34.92555556,
       "longitude": -82.4375,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18846",
       "photo_urls": []
     },
@@ -11271,7 +11271,7 @@
       "title": "Beatrice Dennis Plyler Fountain",
       "latitude": 34.92361111,
       "longitude": -82.4375,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18897",
       "photo_urls": []
     },
@@ -11280,7 +11280,7 @@
       "title": "The Charles Erza Daniel Memorial Chapel",
       "latitude": 34.92305556,
       "longitude": -82.43638889,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18900",
       "photo_urls": []
     },
@@ -11298,7 +11298,7 @@
       "title": "Minor Herndon Mickel Square",
       "latitude": 34.92333333,
       "longitude": -82.43666667,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18930",
       "photo_urls": []
     },
@@ -11307,7 +11307,7 @@
       "title": "Elizabeth Lyles Blackwell Fountain",
       "latitude": 34.92388889,
       "longitude": -82.43777778,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18935",
       "photo_urls": []
     },
@@ -11316,7 +11316,7 @@
       "title": "James Buchanan Duke Library",
       "latitude": 34.92444444,
       "longitude": -82.43861111,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18940",
       "photo_urls": []
     },
@@ -11325,7 +11325,7 @@
       "title": "Furman Class of '05 September 11 Memorial",
       "latitude": 34.92444444,
       "longitude": -82.43666667,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18990",
       "photo_urls": []
     },
@@ -11343,7 +11343,7 @@
       "title": "North Greenville Baptist Academy",
       "latitude": 35.06958611,
       "longitude": -82.37138889,
-      "directions": "Near , Tigerville, ",
+      "directions": "Near Wingo Street, Tigerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19002",
       "photo_urls": []
     },
@@ -11379,7 +11379,7 @@
       "title": "Milford Mall",
       "latitude": 34.92333333,
       "longitude": -82.43722222,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Milford Mall Avenue, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19035",
       "photo_urls": []
     },
@@ -11469,7 +11469,7 @@
       "title": "African American Cemetery",
       "latitude": 32.76499335,
       "longitude": -79.83734608,
-      "directions": "On Station 22 1/2 Street (State Route 703) , Sullivans Island, (On the left when traveling south)",
+      "directions": "On Station 22 1/2 Street (State Route 703) , Sullivan&#39;s Island, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19117",
       "photo_urls": []
     },
@@ -11478,7 +11478,7 @@
       "title": "Civilian Conservation Corps",
       "latitude": 32.76006277,
       "longitude": -79.84068274,
-      "directions": "On Ion Ave, Sullivans Island, ",
+      "directions": "On Ion Ave, Sullivan&#39;s Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19119",
       "photo_urls": []
     },
@@ -11487,7 +11487,7 @@
       "title": "Battle of Fort Sullivan",
       "latitude": 32.75916,
       "longitude": -79.85663,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19122",
       "photo_urls": []
     },
@@ -11496,7 +11496,7 @@
       "title": "This is Sullivan's Island",
       "latitude": 32.75912444,
       "longitude": -79.85654801,
-      "directions": "On Poe Ave, Sullivans Island, ",
+      "directions": "On Poe Ave, Sullivan&#39;s Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19123",
       "photo_urls": []
     },
@@ -11505,7 +11505,7 @@
       "title": "CS <i>H.L. Hunley</i>",
       "latitude": 32.75914248,
       "longitude": -79.85656142,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19124",
       "photo_urls": []
     },
@@ -11514,7 +11514,7 @@
       "title": "Fort Moultrie",
       "latitude": 32.75913,
       "longitude": -79.84545,
-      "directions": "On Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19125",
       "photo_urls": []
     },
@@ -11856,7 +11856,7 @@
       "title": "Civil War Armament",
       "latitude": 32.75894399,
       "longitude": -79.85698789,
-      "directions": "On Poe Avenue, Sullivans Island, ",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19245",
       "photo_urls": []
     },
@@ -12729,7 +12729,7 @@
       "title": "1860 Flanking Caponniere",
       "latitude": 32.75880865,
       "longitude": -79.8574546,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19832",
       "photo_urls": []
     },
@@ -14151,7 +14151,7 @@
       "title": "James C. Furman Classroom Building",
       "latitude": 34.92472222,
       "longitude": -82.43666667,
-      "directions": "Near , Greenville, ",
+      "directions": "Near Poinsett Highway, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=209408",
       "photo_urls": []
     },
@@ -14439,7 +14439,7 @@
       "title": "Dr. John Todd Anderson",
       "latitude": 34.92888889,
       "longitude": -82.43972222,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21172",
       "photo_urls": []
     },
@@ -14970,7 +14970,7 @@
       "title": "Alester Garden Furman, Jr.",
       "latitude": 34.92555556,
       "longitude": -82.43611111,
-      "directions": "Near , Greenville, ",
+      "directions": "Near no nearby street, Greenville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=218628",
       "photo_urls": []
     },
@@ -15024,7 +15024,7 @@
       "title": "Newberry",
       "latitude": 34.27444444,
       "longitude": -81.61972222,
-      "directions": "On , Newberry, ",
+      "directions": "On Caldwell Street, Newberry, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=218786",
       "photo_urls": []
     },
@@ -16608,7 +16608,7 @@
       "title": "Breach Inlet / Military History",
       "latitude": 32.77485706,
       "longitude": -79.81439164,
-      "directions": "On Middle Street, Sullivans Island, (On the right when traveling north)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=224049",
       "photo_urls": []
     },
@@ -17364,7 +17364,7 @@
       "title": "Kingston-Conway / Robert Conway",
       "latitude": 33.83505,
       "longitude": -79.04598333,
-      "directions": "On Main Street (U.S. Business 701) , Conway, (On the right when traveling south)",
+      "directions": "On North Main Street (U.S. Business 701) , Conway, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=226632",
       "photo_urls": []
     },
@@ -23646,7 +23646,7 @@
       "title": "War in the Backcountry",
       "latitude": 34.23362536,
       "longitude": -80.60405016,
-      "directions": "On , Camden, ",
+      "directions": "On Broad Street, Camden, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=268887",
       "photo_urls": []
     },
@@ -25995,7 +25995,7 @@
       "title": "Peak",
       "latitude": 34.24123333,
       "longitude": -81.3225,
-      "directions": "On , Peak, ",
+      "directions": "On Church Street, Peak, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27661",
       "photo_urls": []
     },
@@ -29790,7 +29790,7 @@
     },
     {
       "id": "292446",
-      "title": "Bethel School",
+      "title": "Bethel School / Bethel Hanberry School",
       "latitude": 34.21698889,
       "longitude": -80.97890556,
       "directions": "On Boney Road (State Route 40-1367) , Blythewood, (On the left when traveling north)",
@@ -30239,6 +30239,15 @@
       "photo_urls": []
     },
     {
+      "id": "294915",
+      "title": "A Sacred Place",
+      "latitude": 32.86553242,
+      "longitude": -80.08131335,
+      "directions": "On Magnolia Ferry Road, Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294915",
+      "photo_urls": []
+    },
+    {
       "id": "29492",
       "title": "Boochawee Hall",
       "latitude": 32.99598333,
@@ -30347,6 +30356,15 @@
       "photo_urls": []
     },
     {
+      "id": "295750",
+      "title": "Confederate Navy Yard",
+      "latitude": 34.20442002,
+      "longitude": -79.54021096,
+      "directions": "On East Palmetto Street (U.S. 76/301) , near Marion, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295750",
+      "photo_urls": []
+    },
+    {
       "id": "29585",
       "title": "Federal Expedition on John's Island / Battle of Burden's Causeway",
       "latitude": 32.718465,
@@ -30362,6 +30380,15 @@
       "longitude": -79.938991,
       "directions": "On Fort Lamar Road, Secessionville, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29586",
+      "photo_urls": []
+    },
+    {
+      "id": "296057",
+      "title": "Robert E. Lee Memorial Highway",
+      "latitude": 32.78652487,
+      "longitude": -79.93664765,
+      "directions": "On King Street, Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296057",
       "photo_urls": []
     },
     {
@@ -30407,6 +30434,15 @@
       "longitude": -81.040639,
       "directions": "On Gervais Street (U.S. 1) , Columbia, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29805",
+      "photo_urls": []
+    },
+    {
+      "id": "298160",
+      "title": "The UNESCO Routes of Enslaved Peoples",
+      "latitude": 32.78877,
+      "longitude": -79.9251,
+      "directions": "Near Wharfside Street, Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298160",
       "photo_urls": []
     },
     {
@@ -31413,7 +31449,7 @@
       "title": "British Attack at Breach Inlet / Battery Marshall",
       "latitude": 32.77488525,
       "longitude": -79.81425494,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31100",
       "photo_urls": []
     },
@@ -31935,7 +31971,7 @@
       "title": "Harbor Vigilance",
       "latitude": 32.75937256,
       "longitude": -79.85720247,
-      "directions": "On Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31886",
       "photo_urls": []
     },
@@ -31944,7 +31980,7 @@
       "title": "Historic Fort Sumter - Fort Sumter Today",
       "latitude": 32.76064471,
       "longitude": -79.85730439,
-      "directions": "On Middle Street, Sullivans Island, (On the right when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31912",
       "photo_urls": []
     },
@@ -31953,7 +31989,7 @@
       "title": "Grave of General William Moultrie",
       "latitude": 32.76052291,
       "longitude": -79.85750824,
-      "directions": "On Middle Street, Sullivans Island, (On the right when traveling west)",
+      "directions": "On Middle Street, Sullivan&#39;s Island, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31915",
       "photo_urls": []
     },
@@ -31962,7 +31998,7 @@
       "title": "Harbor Defense 1898-1939",
       "latitude": 32.75921917,
       "longitude": -79.85732049,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31918",
       "photo_urls": []
     },
@@ -31971,7 +32007,7 @@
       "title": "Defending Charleston 1861-1865",
       "latitude": 32.75925977,
       "longitude": -79.85826731,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31930",
       "photo_urls": []
     },
@@ -31980,7 +32016,7 @@
       "title": "Enlisted Men's Barracks",
       "latitude": 32.759524,
       "longitude": -79.85824,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31943",
       "photo_urls": []
     },
@@ -31989,7 +32025,7 @@
       "title": "Harbor Defense 1809-1860",
       "latitude": 32.759571,
       "longitude": -79.85822,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31962",
       "photo_urls": []
     },
@@ -31998,7 +32034,7 @@
       "title": "Move a 50,000 pound Rodman Gun",
       "latitude": 32.75918308,
       "longitude": -79.85813588,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31968",
       "photo_urls": []
     },
@@ -32007,7 +32043,7 @@
       "title": "Coastal Defense: The Endicott System",
       "latitude": 32.75884925,
       "longitude": -79.85622883,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31975",
       "photo_urls": []
     },
@@ -32025,7 +32061,7 @@
       "title": "Powerhouse",
       "latitude": 32.75873873,
       "longitude": -79.85596597,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=31983",
       "photo_urls": []
     },
@@ -32034,7 +32070,7 @@
       "title": "Water for the Army",
       "latitude": 32.75888083,
       "longitude": -79.8559472,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32001",
       "photo_urls": []
     },
@@ -32043,7 +32079,7 @@
       "title": "Buoyant Mine",
       "latitude": 32.75882444,
       "longitude": -79.85642195,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32006",
       "photo_urls": []
     },
@@ -32052,7 +32088,7 @@
       "title": "H.L. Hunley Disappears",
       "latitude": 32.758906,
       "longitude": -79.85721,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32007",
       "photo_urls": []
     },
@@ -32079,7 +32115,7 @@
       "title": "10-Inch Parrott (300 pounder)",
       "latitude": 32.75883121,
       "longitude": -79.85648364,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32033",
       "photo_urls": []
     },
@@ -32088,7 +32124,7 @@
       "title": "8-inch Parrott (200 Pounder)",
       "latitude": 32.75885376,
       "longitude": -79.85654801,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32076",
       "photo_urls": []
     },
@@ -32106,7 +32142,7 @@
       "title": "7-Inch Brooke Rifle, Triple Banded",
       "latitude": 32.75886504,
       "longitude": -79.85661507,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32116",
       "photo_urls": []
     },
@@ -32115,7 +32151,7 @@
       "title": "10-Inch Columbiad, Rifled and Banded",
       "latitude": 32.75887632,
       "longitude": -79.8566848,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32121",
       "photo_urls": []
     },
@@ -32124,7 +32160,7 @@
       "title": "10-Inch Columbiad (Rodman)",
       "latitude": 32.75889888,
       "longitude": -79.85678136,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32124",
       "photo_urls": []
     },
@@ -32133,7 +32169,7 @@
       "title": "10-Inch Confederate Columbiad",
       "latitude": 32.75891241,
       "longitude": -79.85686183,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32125",
       "photo_urls": []
     },
@@ -32142,7 +32178,7 @@
       "title": "13-Inch Seacoast Mortar",
       "latitude": 32.75891692,
       "longitude": -79.8569262,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32126",
       "photo_urls": []
     },
@@ -35391,7 +35427,7 @@
       "title": "Purpose of the Dam",
       "latitude": 33.66,
       "longitude": -82.19638889,
-      "directions": "Near , Clarks Hill, ",
+      "directions": "Near Power Plant Rd, Clarks Hill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42130",
       "photo_urls": []
     },
@@ -35526,7 +35562,7 @@
       "title": "Enoree Community Veterans Memorial",
       "latitude": 34.65166667,
       "longitude": -81.96388889,
-      "directions": "On , Enoree, (On the left when traveling east)",
+      "directions": "On U.S. 221, Enoree, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42330",
       "photo_urls": []
     },
@@ -41466,7 +41502,7 @@
       "title": "Booker T. Washington High School",
       "latitude": 33.993246,
       "longitude": -81.02616,
-      "directions": "On , Columbia, ",
+      "directions": "On Wheat Street, Columbia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58983",
       "photo_urls": []
     },
@@ -41547,7 +41583,7 @@
       "title": "Site where James Dickey Wrote <i>Deliverance</i>",
       "latitude": 33.998637,
       "longitude": -81.028864,
-      "directions": "On , Columbia, ",
+      "directions": "On no nearby street, Columbia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59166",
       "photo_urls": []
     },
@@ -42429,7 +42465,7 @@
       "title": "Victory at Breach Inlet",
       "latitude": 32.774785,
       "longitude": -79.814468,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67272",
       "photo_urls": []
     },
@@ -42438,7 +42474,7 @@
       "title": "Battle of Sullivan’s Island",
       "latitude": 32.774785,
       "longitude": -79.814468,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67277",
       "photo_urls": []
     },
@@ -42447,7 +42483,7 @@
       "title": "Charles Town in the American Revolution",
       "latitude": 32.774785,
       "longitude": -79.814468,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67282",
       "photo_urls": []
     },
@@ -42474,7 +42510,7 @@
       "title": "Liberty or Death",
       "latitude": 32.774785,
       "longitude": -79.814468,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67304",
       "photo_urls": []
     },
@@ -42519,7 +42555,7 @@
       "title": "Fort Moultrie II\t",
       "latitude": 32.758679,
       "longitude": -79.858118,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67367",
       "photo_urls": []
     },
@@ -42528,7 +42564,7 @@
       "title": "Building Forts",
       "latitude": 32.759619,
       "longitude": -79.858568,
-      "directions": "Near Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67370",
       "photo_urls": []
     },
@@ -42537,7 +42573,7 @@
       "title": "Powder Magazine",
       "latitude": 32.759615,
       "longitude": -79.85815,
-      "directions": "Near Middle Street, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67372",
       "photo_urls": []
     },
@@ -42546,7 +42582,7 @@
       "title": "Harbor Defense",
       "latitude": 32.759135,
       "longitude": -79.857945,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67386",
       "photo_urls": []
     },
@@ -42555,7 +42591,7 @@
       "title": "British Attack",
       "latitude": 32.758186,
       "longitude": -79.857738,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67389",
       "photo_urls": []
     },
@@ -42564,7 +42600,7 @@
       "title": "Charleston Surrenders",
       "latitude": 32.758186,
       "longitude": -79.857714,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67396",
       "photo_urls": []
     },
@@ -42573,7 +42609,7 @@
       "title": "Palmetto Fort",
       "latitude": 32.758213,
       "longitude": -79.857755,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67399",
       "photo_urls": []
     },
@@ -42744,7 +42780,7 @@
       "title": "Battery Jasper",
       "latitude": 32.758817,
       "longitude": -79.856292,
-      "directions": "On Poe Avenue, Sullivans Island, (On the right when traveling east)",
+      "directions": "On Poe Avenue, Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67830",
       "photo_urls": []
     },
@@ -43113,7 +43149,7 @@
       "title": "Northwest Bastionet",
       "latitude": 32.759928,
       "longitude": -79.858255,
-      "directions": "Near Middle Street, Sullivans Island, (On the left when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68008",
       "photo_urls": []
     },
@@ -43122,7 +43158,7 @@
       "title": "Traverse c.1820",
       "latitude": 32.759566,
       "longitude": -79.858107,
-      "directions": "Near Middle Street, Sullivans Island, (On the left when traveling east)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68009",
       "photo_urls": []
     },
@@ -43140,7 +43176,7 @@
       "title": "America Responds To A New Challenge",
       "latitude": 32.758618,
       "longitude": -79.855759,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68013",
       "photo_urls": []
     },
@@ -43149,7 +43185,7 @@
       "title": "Disappearing Rifle: The Endicott System",
       "latitude": 32.758667,
       "longitude": -79.855677,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68016",
       "photo_urls": []
     },
@@ -43158,7 +43194,7 @@
       "title": "A Forgotten Branch Of The Service . . . The U.S. Army Coast Artillery",
       "latitude": 32.758605,
       "longitude": -79.855723,
-      "directions": "Near Poe Avenue, Sullivans Island, (On the left when traveling west)",
+      "directions": "Near Poe Avenue, Sullivan&#39;s Island, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68017",
       "photo_urls": []
     },
@@ -43194,7 +43230,7 @@
       "title": "Thomson Park",
       "latitude": 32.774779,
       "longitude": -79.81448,
-      "directions": "On Jasper Boulevard (State Route 703) , Sullivans Island, (On the right when traveling east)",
+      "directions": "On Jasper Boulevard (State Route 703) , Sullivan&#39;s Island, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68336",
       "photo_urls": []
     },
@@ -43266,7 +43302,7 @@
       "title": "Site of Furman Academy",
       "latitude": 34.022035,
       "longitude": -80.476337,
-      "directions": "On , Dalzell, (On the right when traveling west)",
+      "directions": "On Dodgen Hill Road, Dalzell, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69833",
       "photo_urls": []
     },
@@ -44895,7 +44931,7 @@
       "title": "Euhaw Baptist Church",
       "latitude": 32.468413,
       "longitude": -80.966522,
-      "directions": "On , Grahamville, (On the left when traveling south)",
+      "directions": "On Bees Creek Road, Grahamville, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=8674",
       "photo_urls": []
     },
@@ -44940,7 +44976,7 @@
       "title": "Defending Charleston",
       "latitude": 32.760261,
       "longitude": -79.85761,
-      "directions": "Near Middle Street, Sullivans Island, (On the right when traveling west)",
+      "directions": "Near Middle Street, Sullivan&#39;s Island, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=87004",
       "photo_urls": []
     },
