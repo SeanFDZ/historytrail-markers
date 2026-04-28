@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-27T06:03:55.945Z",
+  "generated": "2026-04-28T06:03:14.012Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 59364,
-  "total_regions": 29,
+  "total_markers": 63855,
+  "total_regions": 30,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -260,6 +260,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 70,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-al",
+      "name": "Alabama",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-al.json",
+      "markers": 4491,
+      "size_bytes": 1381557,
+      "updated": "2026-04-28",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 4495,
         "removed": 0,
         "modified": 0
       }
