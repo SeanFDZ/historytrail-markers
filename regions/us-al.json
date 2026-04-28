@@ -3,9 +3,9 @@
   "region_name": "Alabama",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T18:53:08.504Z",
-  "source_timestamp": "2026-04-11T18:53:08.504Z",
-  "marker_count": 4427,
+  "generated": "2026-04-28T06:02:59.738Z",
+  "source_timestamp": "2026-04-28T06:02:59.738Z",
+  "marker_count": 4491,
   "markers": [
     {
       "id": "100028",
@@ -19837,9 +19837,9 @@
     {
       "id": "274881",
       "title": "<i>The Alabama Baptist</i>",
-      "latitude": 32.628839,
-      "longitude": -87.316384,
-      "directions": "On Dekalb Street, Marion, (On the right when traveling east)",
+      "latitude": 32.00002149,
+      "longitude": -86.96252842,
+      "directions": "On County Route 59, Furman, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=274881",
       "photo_urls": []
     },
@@ -23525,12 +23525,300 @@
       "photo_urls": []
     },
     {
+      "id": "294530",
+      "title": "Hernando De Soto In Alabama",
+      "latitude": 32.44985106,
+      "longitude": -88.39732078,
+      "directions": "Near Interstate 20, Cuba, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294530",
+      "photo_urls": []
+    },
+    {
+      "id": "294532",
+      "title": "The De Soto Trail",
+      "latitude": 32.44984115,
+      "longitude": -88.39743326,
+      "directions": "On Interstate 20, Cuba, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294532",
+      "photo_urls": []
+    },
+    {
+      "id": "294536",
+      "title": "Tuscaloosa Confederate Monument",
+      "latitude": 33.20391439,
+      "longitude": -87.57047591,
+      "directions": "On 27th Avenue, Tuscaloosa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294536",
+      "photo_urls": []
+    },
+    {
+      "id": "294571",
+      "title": "Bienville Square",
+      "latitude": 30.69273889,
+      "longitude": -88.04230556,
+      "directions": "On Dauphin Street, Mobile, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294571",
+      "photo_urls": []
+    },
+    {
+      "id": "294627",
+      "title": "Bernardo de Galvez",
+      "latitude": 30.68773056,
+      "longitude": -88.04592778,
+      "directions": "On Government Street, Mobile, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294627",
+      "photo_urls": []
+    },
+    {
+      "id": "294628",
+      "title": "Alfonse X (The Wise)",
+      "latitude": 30.68793191,
+      "longitude": -88.04588066,
+      "directions": "On Government Street, Mobile, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294628",
+      "photo_urls": []
+    },
+    {
+      "id": "294722",
+      "title": "Buena Vista",
+      "latitude": 32.423991,
+      "longitude": -86.451702,
+      "directions": "On County Route 4, near Prattville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294722",
+      "photo_urls": []
+    },
+    {
+      "id": "294768",
+      "title": "The USDA Regional Laboratory for Animal Disease Research",
+      "latitude": 32.60129541,
+      "longitude": -85.49529026,
+      "directions": "On Wire Road, Auburn University, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294768",
+      "photo_urls": []
+    },
+    {
+      "id": "294775",
+      "title": "McKendree Cemetery and the Massey Community / Charles Christopher Sheats 1839-1904",
+      "latitude": 34.37018333,
+      "longitude": -87.02230833,
+      "directions": "On Evergreen Road, near Danville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294775",
+      "photo_urls": []
+    },
+    {
       "id": "29480",
       "title": "The First National Bank of Jacksonville",
       "latitude": 33.81416667,
       "longitude": -85.76166667,
       "directions": "On Pelham Road North, Jacksonville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29480",
+      "photo_urls": []
+    },
+    {
+      "id": "294988",
+      "title": "Shelbyville, A. T.",
+      "latitude": 33.287195,
+      "longitude": -86.810869,
+      "directions": "On Pelham Parkway (U.S. 31) , Pelham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294988",
+      "photo_urls": []
+    },
+    {
+      "id": "294989",
+      "title": "Seddon Cemetery",
+      "latitude": 33.58493166,
+      "longitude": -86.2343784,
+      "directions": "On Golf Course Road, Pell City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294989",
+      "photo_urls": []
+    },
+    {
+      "id": "294990",
+      "title": "The Community House",
+      "latitude": 33.43469812,
+      "longitude": -86.11457476,
+      "directions": "On College Street, Talladega, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294990",
+      "photo_urls": []
+    },
+    {
+      "id": "294992",
+      "title": "National Association for the Advancement of Colored People",
+      "latitude": 33.43412697,
+      "longitude": -86.11374602,
+      "directions": "On Martin Luther King Drive, Talladega, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294992",
+      "photo_urls": []
+    },
+    {
+      "id": "294995",
+      "title": "Talladega College Historic District",
+      "latitude": 33.43264709,
+      "longitude": -86.11336516,
+      "directions": "On Battle Street West, Talladega, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294995",
+      "photo_urls": []
+    },
+    {
+      "id": "294996",
+      "title": "Alpine Baptist Church",
+      "latitude": 33.34678348,
+      "longitude": -86.236252,
+      "directions": "On Alpine Winterboro Road, Alpine, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294996",
+      "photo_urls": []
+    },
+    {
+      "id": "295001",
+      "title": "Tallasahatchie Cemetery",
+      "latitude": 33.25513529,
+      "longitude": -86.24168667,
+      "directions": "On Tallasahatchie Road, Alpine, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295001",
+      "photo_urls": []
+    },
+    {
+      "id": "295002",
+      "title": "Tallasahatchie Baptist Church",
+      "latitude": 33.25526833,
+      "longitude": -86.24165589,
+      "directions": "On Tallasahatchee Road, Alpine, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295002",
+      "photo_urls": []
+    },
+    {
+      "id": "295009",
+      "title": "Gantts Quarry Post Office",
+      "latitude": 33.17758332,
+      "longitude": -86.25204855,
+      "directions": "On North Broadway Avenue, Sylacauga, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295009",
+      "photo_urls": []
+    },
+    {
+      "id": "295030",
+      "title": "Arkwright Baptist Church",
+      "latitude": 33.3530329,
+      "longitude": -86.38878141,
+      "directions": "On County Road 85, near Vincent, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295030",
+      "photo_urls": []
+    },
+    {
+      "id": "295086",
+      "title": "Lesters Chapel United Methodist Church",
+      "latitude": 33.29427508,
+      "longitude": -86.62136024,
+      "directions": "On Chelsea Road (County Route 47) , Columbiana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295086",
+      "photo_urls": []
+    },
+    {
+      "id": "295089",
+      "title": "O'Neal Lime Works",
+      "latitude": 33.16535484,
+      "longitude": -86.76040065,
+      "directions": "On Oak Tree Lane, Calera, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295089",
+      "photo_urls": []
+    },
+    {
+      "id": "295102",
+      "title": "The \"Little School\" in Jacksonville",
+      "latitude": 33.10167174,
+      "longitude": -86.85915111,
+      "directions": "On Island Street, Montevallo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295102",
+      "photo_urls": []
+    },
+    {
+      "id": "295137",
+      "title": "Selma Road",
+      "latitude": 33.09506251,
+      "longitude": -86.8654038,
+      "directions": "On Selma Road, Montevallo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295137",
+      "photo_urls": []
+    },
+    {
+      "id": "295138",
+      "title": "Salem School",
+      "latitude": 33.13010445,
+      "longitude": -86.86049461,
+      "directions": "On Salem Road (County Route 15) , near Montevallo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295138",
+      "photo_urls": []
+    },
+    {
+      "id": "295139",
+      "title": "Buck Creek Jail and Water Tower",
+      "latitude": 33.23315695,
+      "longitude": -86.82666373,
+      "directions": "On Municipal Way, Alabaster, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295139",
+      "photo_urls": []
+    },
+    {
+      "id": "295183",
+      "title": "Shiloh Missionary Baptist Church",
+      "latitude": 33.09552041,
+      "longitude": -86.86509527,
+      "directions": "On Selma Road (State Route 119) , Montevallo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295183",
+      "photo_urls": []
+    },
+    {
+      "id": "295265",
+      "title": "The Crane Home",
+      "latitude": 33.34006904,
+      "longitude": -86.63248031,
+      "directions": "On Weldon Drive, Chelsea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295265",
+      "photo_urls": []
+    },
+    {
+      "id": "295284",
+      "title": "Epsibeth Missionary Baptist Church",
+      "latitude": 33.1038901,
+      "longitude": -86.89032197,
+      "directions": "On County Route 204, Montevallo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295284",
+      "photo_urls": []
+    },
+    {
+      "id": "295298",
+      "title": "Washington School",
+      "latitude": 33.49593251,
+      "longitude": -86.82946016,
+      "directions": "On 1st Street South, Birmingham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295298",
+      "photo_urls": []
+    },
+    {
+      "id": "295301",
+      "title": "South Elyton Baptist Church",
+      "latitude": 33.49831096,
+      "longitude": -86.83136161,
+      "directions": "On 1st Street South, Birmingham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295301",
+      "photo_urls": []
+    },
+    {
+      "id": "295302",
+      "title": "St Paul Lutheran Church",
+      "latitude": 33.49461851,
+      "longitude": -86.82697911,
+      "directions": "On 6th Avenue South, Birmingham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295302",
+      "photo_urls": []
+    },
+    {
+      "id": "295304",
+      "title": "Colored Memorial Park",
+      "latitude": 33.49854563,
+      "longitude": -86.82198639,
+      "directions": "Near Alpha Street South, Birmingham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295304",
       "photo_urls": []
     },
     {
@@ -23543,12 +23831,57 @@
       "photo_urls": []
     },
     {
+      "id": "295585",
+      "title": "Town of Bluffton, Alabama / City of Lanett, Alabama",
+      "latitude": 32.86812779,
+      "longitude": -85.19110599,
+      "directions": "On North Lanier Avenue, Lanett, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295585",
+      "photo_urls": []
+    },
+    {
+      "id": "295588",
+      "title": "John Tyler Morgan House",
+      "latitude": 32.413728,
+      "longitude": -87.0275,
+      "directions": "On Tremont Street, Selma, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295588",
+      "photo_urls": []
+    },
+    {
       "id": "29561",
       "title": "Belle Mont",
       "latitude": 34.66594362,
       "longitude": -87.66751885,
       "directions": "On Cook Lane, Tuscumbia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29561",
+      "photo_urls": []
+    },
+    {
+      "id": "295685",
+      "title": "Federal Raid",
+      "latitude": 34.09936457,
+      "longitude": -86.57572782,
+      "directions": "On Main Street (U.S. 231) , Blountsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295685",
+      "photo_urls": []
+    },
+    {
+      "id": "295687",
+      "title": "Federal Raid",
+      "latitude": 34.0993,
+      "longitude": -86.5757,
+      "directions": "On Main Street (U.S. 231) , Blountsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295687",
+      "photo_urls": []
+    },
+    {
+      "id": "295689",
+      "title": "Cullman County Electric Membership Corporation",
+      "latitude": 34.22360456,
+      "longitude": -86.73862882,
+      "directions": "On State Route 69, Simcoe, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295689",
       "photo_urls": []
     },
     {
@@ -23585,6 +23918,249 @@
       "longitude": -87.546324,
       "directions": "Near University Boulevard, Tuscaloosa, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29612",
+      "photo_urls": []
+    },
+    {
+      "id": "296180",
+      "title": "G. W. Watts High School",
+      "latitude": 31.91320718,
+      "longitude": -87.00120358,
+      "directions": "On Freedom Farm Road (County Route 59) , Pine Apple, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296180",
+      "photo_urls": []
+    },
+    {
+      "id": "296397",
+      "title": "First Missionary Baptist Church of Greenville",
+      "latitude": 31.83108016,
+      "longitude": -86.63510019,
+      "directions": "On South Street, Greenville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296397",
+      "photo_urls": []
+    },
+    {
+      "id": "296446",
+      "title": "West Jefferson High School",
+      "latitude": 33.64928732,
+      "longitude": -87.07449501,
+      "directions": "On West Jefferson Road, Quinton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296446",
+      "photo_urls": []
+    },
+    {
+      "id": "296495",
+      "title": "Bethesda Missionary Baptist Church",
+      "latitude": 32.65048041,
+      "longitude": -85.37359269,
+      "directions": "On South 4th Street, Opelika, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296495",
+      "photo_urls": []
+    },
+    {
+      "id": "296572",
+      "title": "George W. Andrews Federal Building and United States Courthouse",
+      "latitude": 32.6479943,
+      "longitude": -85.37735063,
+      "directions": "On Avenue A, Opelika, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296572",
+      "photo_urls": []
+    },
+    {
+      "id": "296636",
+      "title": "Bobby James Freeman",
+      "latitude": 32.6454536,
+      "longitude": -85.38253374,
+      "directions": "On South Railroad Avenue, Opelika, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296636",
+      "photo_urls": []
+    },
+    {
+      "id": "296984",
+      "title": "First Colored Missionary Baptist Church",
+      "latitude": 32.4483128,
+      "longitude": -87.51152825,
+      "directions": "On Cahaba Road (County Route 1) , Uniontown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296984",
+      "photo_urls": []
+    },
+    {
+      "id": "297007",
+      "title": "New Hope Cemetery",
+      "latitude": 32.41379811,
+      "longitude": -87.47451851,
+      "directions": "On County Route 1, Uniontown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297007",
+      "photo_urls": []
+    },
+    {
+      "id": "297027",
+      "title": "Forest Avenue's Medical Facilities / Oak Park Montgomery's First Public Park",
+      "latitude": 32.36876667,
+      "longitude": -86.28655,
+      "directions": "On Forest Avenue, Montgomery, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297027",
+      "photo_urls": []
+    },
+    {
+      "id": "297059",
+      "title": "Lee County Courthouse / Lee County Probate Judges",
+      "latitude": 32.645928,
+      "longitude": -85.379039,
+      "directions": "On South 9th Street, Opelika, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297059",
+      "photo_urls": []
+    },
+    {
+      "id": "297060",
+      "title": "Romulus, Alabama",
+      "latitude": 33.14778889,
+      "longitude": -87.75183889,
+      "directions": "On Romulus Road (County Route 2) , Romulus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297060",
+      "photo_urls": []
+    },
+    {
+      "id": "297061",
+      "title": "Zion Hill Missionary Baptist Church Cemetery",
+      "latitude": 33.11845567,
+      "longitude": -87.88174898,
+      "directions": "Near County Route 156, Jena, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297061",
+      "photo_urls": []
+    },
+    {
+      "id": "297070",
+      "title": "\"Maison Marengo\"",
+      "latitude": 32.51462323,
+      "longitude": -87.8361977,
+      "directions": "On South Strawberry Avenue, Demopolis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297070",
+      "photo_urls": []
+    },
+    {
+      "id": "297112",
+      "title": "Gus Mitchell Store Site",
+      "latitude": 32.54973057,
+      "longitude": -87.27045998,
+      "directions": "On County Route 45, Marion, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297112",
+      "photo_urls": []
+    },
+    {
+      "id": "297114",
+      "title": "Lillie Grove Missionary Baptist Church and Cemetery",
+      "latitude": 32.52367507,
+      "longitude": -87.21796309,
+      "directions": "On Pink Wilson Road, Valley Grande, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297114",
+      "photo_urls": []
+    },
+    {
+      "id": "297116",
+      "title": "Valley Grande City Hall",
+      "latitude": 32.48786,
+      "longitude": -86.99853,
+      "directions": "On State Route 22, Valley Grande, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297116",
+      "photo_urls": []
+    },
+    {
+      "id": "297166",
+      "title": "The Farley Clock Tower",
+      "latitude": 34.87342316,
+      "longitude": -87.6900956,
+      "directions": "On Kendall Road (County Route 7) , Florence, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297166",
+      "photo_urls": []
+    },
+    {
+      "id": "297194",
+      "title": "The Alabama - Georgia Manufacturing Company",
+      "latitude": 32.79092731,
+      "longitude": -85.14337372,
+      "directions": "On Middle Street, Valley, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297194",
+      "photo_urls": []
+    },
+    {
+      "id": "297200",
+      "title": "Spring Villa",
+      "latitude": 32.58781847,
+      "longitude": -85.31167434,
+      "directions": "Near Spring Villa Road (County Route 148) , Opelika, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297200",
+      "photo_urls": []
+    },
+    {
+      "id": "297245",
+      "title": "Ebenezer Missionary Baptist Church",
+      "latitude": 32.421051,
+      "longitude": -87.01197405,
+      "directions": "On FD Reese Street, Selma, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297245",
+      "photo_urls": []
+    },
+    {
+      "id": "297248",
+      "title": "Ebenezer Missionary Baptist Church",
+      "latitude": 32.42106334,
+      "longitude": -87.01195456,
+      "directions": "On FD Reese Street, Selma, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297248",
+      "photo_urls": []
+    },
+    {
+      "id": "297251",
+      "title": "Northern Heights Presbyterian Church",
+      "latitude": 32.42107702,
+      "longitude": -87.01442096,
+      "directions": "On Marie Foster Street, Selma, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297251",
+      "photo_urls": []
+    },
+    {
+      "id": "297255",
+      "title": "Plantersville Union Church Cemetery",
+      "latitude": 32.6596347,
+      "longitude": -86.92252696,
+      "directions": "On Mulberry Street, Plantersville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297255",
+      "photo_urls": []
+    },
+    {
+      "id": "297262",
+      "title": "Melton's Bluff",
+      "latitude": 34.74694422,
+      "longitude": -87.21485395,
+      "directions": "On Mallard Creek Road (County Route 400) , near Hillsboro, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297262",
+      "photo_urls": []
+    },
+    {
+      "id": "297717",
+      "title": "Greater Old Salem Cemetery",
+      "latitude": 31.47975584,
+      "longitude": -85.74144289,
+      "directions": "On Joe Walker Road (County Route 38) , near Ozark, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297717",
+      "photo_urls": []
+    },
+    {
+      "id": "298171",
+      "title": "Africatown, Alabama / The UNESCO Routes of Enslaved Peoples: Resistance, Liberty and Heritage",
+      "latitude": 30.71828,
+      "longitude": -88.06591,
+      "directions": "On Conception Street Road, Mobile, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298171",
+      "photo_urls": []
+    },
+    {
+      "id": "298395",
+      "title": "The UNESCO Slave Route: Resistance, Liberty, Heritage / Honoring the Memory of the Ancestors",
+      "latitude": 30.690695,
+      "longitude": -88.037446,
+      "directions": "Near Water Street, Mobile, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298395",
       "photo_urls": []
     },
     {
@@ -31851,7 +32427,7 @@
     },
     {
       "id": "71843",
-      "title": "Chattahoochee River Crossing",
+      "title": "Chattahoochee River Crossings",
       "latitude": 31.604232,
       "longitude": -85.059348,
       "directions": "On Hartford Road (State Route 10) , near Shorterville, (On the left when traveling east)",
@@ -32367,7 +32943,7 @@
       "title": "Southern Boundary of the United States",
       "latitude": 30.998453,
       "longitude": -85.407367,
-      "directions": "On U.S. 231, Cottonwood, (On the right when traveling north)",
+      "directions": "On U.S. 231, near Cottonwood, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73359",
       "photo_urls": []
     },
