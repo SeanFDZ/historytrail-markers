@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-28",
+  "run_id": 119,
+  "cycle_day": 6,
+  "regions_processed": [
+    "us-al"
+  ],
+  "changes": {
+    "us-al": {
+      "added": 4495,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 13324,
+  "total_removed": 0,
+  "total_modified": 0
+}
