@@ -3,9 +3,9 @@
   "region_name": "Colorado",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.731Z",
-  "source_timestamp": "2026-04-11T19:15:03.731Z",
-  "marker_count": 2439,
+  "generated": "2026-04-28T06:02:59.793Z",
+  "source_timestamp": "2026-04-28T06:02:59.793Z",
+  "marker_count": 2496,
   "markers": [
     {
       "id": "100196",
@@ -17715,7 +17715,7 @@
       "title": "Durango's Smelter",
       "latitude": 37.26124382,
       "longitude": -107.87829045,
-      "directions": "Near Santa Rita Drive, Durango, ",
+      "directions": "On Santa Rita Drive, Durango, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=291641",
       "photo_urls": []
     },
@@ -18842,6 +18842,519 @@
       "longitude": -105.23177754,
       "directions": "On Elm Avenue, Cañon City, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294403",
+      "photo_urls": []
+    },
+    {
+      "id": "294413",
+      "title": "William H. “Billy” Adams / Richardson Hall / Luther Bean Museum",
+      "latitude": 37.47000581,
+      "longitude": -105.88017555,
+      "directions": "Near Edgemont Boulevard, Alamosa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294413",
+      "photo_urls": []
+    },
+    {
+      "id": "294479",
+      "title": "San Luis and Costilla County Veterans Memorial",
+      "latitude": 37.19949027,
+      "longitude": -105.42531878,
+      "directions": "Near 4th Street (County Route P.6) , San Luis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294479",
+      "photo_urls": []
+    },
+    {
+      "id": "294491",
+      "title": "Plaza de San Luis de la Culebra",
+      "latitude": 37.19947041,
+      "longitude": -105.42560501,
+      "directions": "Near 4th Street (County Route P.6) , San Luis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294491",
+      "photo_urls": []
+    },
+    {
+      "id": "294492",
+      "title": "Howsam Park",
+      "latitude": 37.27566578,
+      "longitude": -105.96045173,
+      "directions": "On Broadway Street, La Jara, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294492",
+      "photo_urls": []
+    },
+    {
+      "id": "294494",
+      "title": "<i>Río Grande del Norte</i> — Big River of the North",
+      "latitude": 37.18069766,
+      "longitude": -105.73150558,
+      "directions": "On State Route 142, near Lasauses, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294494",
+      "photo_urls": []
+    },
+    {
+      "id": "294497",
+      "title": "A Defining Moment in History",
+      "latitude": 37.18054287,
+      "longitude": -105.73146258,
+      "directions": "On State Route 142, near Lasauses, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294497",
+      "photo_urls": []
+    },
+    {
+      "id": "294498",
+      "title": "Why a Natural Area?",
+      "latitude": 37.18052667,
+      "longitude": -105.73145667,
+      "directions": "On State Route 142, near Lasauses, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294498",
+      "photo_urls": []
+    },
+    {
+      "id": "294499",
+      "title": "The Walsh Bell",
+      "latitude": 38.02288667,
+      "longitude": -107.67068188,
+      "directions": "On 6th Avenue, Ouray, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294499",
+      "photo_urls": []
+    },
+    {
+      "id": "294670",
+      "title": "Hollywood of the Rockies",
+      "latitude": 37.26150335,
+      "longitude": -107.8788487,
+      "directions": "On Santa Rita Drive, Durango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294670",
+      "photo_urls": []
+    },
+    {
+      "id": "294685",
+      "title": "<i>Emma Sweeny</i> — Movie Star",
+      "latitude": 37.26149544,
+      "longitude": -107.8788351,
+      "directions": "On Santa Rita Drive, Durango, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294685",
+      "photo_urls": []
+    },
+    {
+      "id": "294690",
+      "title": "Block 12: 400-447 Main Street",
+      "latitude": 38.0210843,
+      "longitude": -107.67134714,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294690",
+      "photo_urls": []
+    },
+    {
+      "id": "294697",
+      "title": "Fellin Park",
+      "latitude": 38.02762113,
+      "longitude": -107.67163865,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294697",
+      "photo_urls": []
+    },
+    {
+      "id": "294698",
+      "title": "Block 11: 500-548 Main Street",
+      "latitude": 38.02223729,
+      "longitude": -107.67136166,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294698",
+      "photo_urls": []
+    },
+    {
+      "id": "294699",
+      "title": "Smokey Joe Wood Field",
+      "latitude": 38.02763,
+      "longitude": -107.67163865,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294699",
+      "photo_urls": []
+    },
+    {
+      "id": "294700",
+      "title": "Fort Lewis College",
+      "latitude": 37.27598803,
+      "longitude": -107.86862116,
+      "directions": "Near Rim Drive, Durango, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294700",
+      "photo_urls": []
+    },
+    {
+      "id": "294812",
+      "title": "Block 19: 501-545 Main Street",
+      "latitude": 38.02223489,
+      "longitude": -107.67163453,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294812",
+      "photo_urls": []
+    },
+    {
+      "id": "294913",
+      "title": "Beaumont",
+      "latitude": 38.02181161,
+      "longitude": -107.67130328,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294913",
+      "photo_urls": []
+    },
+    {
+      "id": "294939",
+      "title": "Block 18: 601-647 Main Street",
+      "latitude": 38.02334523,
+      "longitude": -107.67164542,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294939",
+      "photo_urls": []
+    },
+    {
+      "id": "294976",
+      "title": "Block 9: 700-746 Main Street",
+      "latitude": 38.02455773,
+      "longitude": -107.67132089,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294976",
+      "photo_urls": []
+    },
+    {
+      "id": "294983",
+      "title": "Block 8: 800-848 Main Street",
+      "latitude": 38.02551832,
+      "longitude": -107.67132075,
+      "directions": "On Main Street (U.S. 550) , Ouray, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294983",
+      "photo_urls": []
+    },
+    {
+      "id": "294991",
+      "title": "Wetmore",
+      "latitude": 38.23808866,
+      "longitude": -105.08576684,
+      "directions": "On State Route 96, Wetmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294991",
+      "photo_urls": []
+    },
+    {
+      "id": "294993",
+      "title": "The Hard Land, Independent People",
+      "latitude": 38.23808757,
+      "longitude": -105.08578704,
+      "directions": "On State Route 96, Wetmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294993",
+      "photo_urls": []
+    },
+    {
+      "id": "294998",
+      "title": "Hardscrabble Canyon Stratum",
+      "latitude": 38.23808685,
+      "longitude": -105.08580695,
+      "directions": "On State Route 96, Wetmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294998",
+      "photo_urls": []
+    },
+    {
+      "id": "294999",
+      "title": "John Charles Fremont",
+      "latitude": 38.40664541,
+      "longitude": -105.14570591,
+      "directions": "On Cedar Avenue (State Route 115) , Florence, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294999",
+      "photo_urls": []
+    },
+    {
+      "id": "295000",
+      "title": "Florence High School",
+      "latitude": 38.39216265,
+      "longitude": -105.12104683,
+      "directions": "On Maple Avenue, Florence, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295000",
+      "photo_urls": []
+    },
+    {
+      "id": "295381",
+      "title": "Headwaters of Exploration",
+      "latitude": 40.07410827,
+      "longitude": -106.10844615,
+      "directions": "On Parshall Divide Road (County Route 20) , Hot Sulphur Springs, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295381",
+      "photo_urls": []
+    },
+    {
+      "id": "295384",
+      "title": "Hot Springs to Resort",
+      "latitude": 40.07407833,
+      "longitude": -106.10849333,
+      "directions": "On Parshall Divide Road (County Route 20) , Hot Sulphur Springs, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295384",
+      "photo_urls": []
+    },
+    {
+      "id": "295385",
+      "title": "Gone Fishin'",
+      "latitude": 39.94363076,
+      "longitude": -105.80927835,
+      "directions": "Near Meadow Ridge Road (County Route 804) , Fraser, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295385",
+      "photo_urls": []
+    },
+    {
+      "id": "295403",
+      "title": "Trails Through Time",
+      "latitude": 37.435125,
+      "longitude": -105.51219608,
+      "directions": "On Main Street (U.S. 160) , Blanca, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295403",
+      "photo_urls": []
+    },
+    {
+      "id": "295451",
+      "title": "Welcome to <i>El Valle De San Luis</i>",
+      "latitude": 37.45114648,
+      "longitude": -105.37079961,
+      "directions": "On U.S. 160, Fort Garland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295451",
+      "photo_urls": []
+    },
+    {
+      "id": "295462",
+      "title": "Peacekeepers of the Frontier",
+      "latitude": 37.45113567,
+      "longitude": -105.3707856,
+      "directions": "On U.S. 160, Fort Garland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295462",
+      "photo_urls": []
+    },
+    {
+      "id": "295482",
+      "title": "Six Miles of Separation",
+      "latitude": 37.45114525,
+      "longitude": -105.37076955,
+      "directions": "On U.S. 160, Fort Garland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295482",
+      "photo_urls": []
+    },
+    {
+      "id": "295486",
+      "title": "Railroad Steams into <i>El Valle de San Luis</i>",
+      "latitude": 37.45115846,
+      "longitude": -105.3707856,
+      "directions": "On U.S. 160, Fort Garland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295486",
+      "photo_urls": []
+    },
+    {
+      "id": "295490",
+      "title": "Welcome to <i>El Valle de San Luis</i>",
+      "latitude": 36.99913384,
+      "longitude": -106.49037485,
+      "directions": "On State Route 17, near Antonito, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295490",
+      "photo_urls": []
+    },
+    {
+      "id": "295502",
+      "title": "Nurturing Forest",
+      "latitude": 36.99911768,
+      "longitude": -106.49037246,
+      "directions": "On State Route 17, near Antonito, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295502",
+      "photo_urls": []
+    },
+    {
+      "id": "295553",
+      "title": "Who Owns This Land?",
+      "latitude": 36.999121,
+      "longitude": -106.49035785,
+      "directions": "On State Route 17, Antonito, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295553",
+      "photo_urls": []
+    },
+    {
+      "id": "295554",
+      "title": "This is Our land",
+      "latitude": 36.99914,
+      "longitude": -106.49035785,
+      "directions": "On State Route 17, near Antonito, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295554",
+      "photo_urls": []
+    },
+    {
+      "id": "295601",
+      "title": "Los Seis de Boulder",
+      "latitude": 37.46359477,
+      "longitude": -105.87032257,
+      "directions": "On Ross Avenue, Alamosa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295601",
+      "photo_urls": []
+    },
+    {
+      "id": "295632",
+      "title": "In Memory of Maj. Paul J. Weaver III",
+      "latitude": 37.47277872,
+      "longitude": -105.88811813,
+      "directions": "On First Street, Alamosa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295632",
+      "photo_urls": []
+    },
+    {
+      "id": "295659",
+      "title": "Sacred Heart Catholic Church",
+      "latitude": 37.46956005,
+      "longitude": -105.86818345,
+      "directions": "On Fourth Street, Alamosa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295659",
+      "photo_urls": []
+    },
+    {
+      "id": "295679",
+      "title": "Alamosa Post Office (1935)",
+      "latitude": 37.46946637,
+      "longitude": -105.86737406,
+      "directions": "On Fourth Street, Alamosa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295679",
+      "photo_urls": []
+    },
+    {
+      "id": "295794",
+      "title": "Ute Pass Historical Society & Pikes Peak Museum Land Office",
+      "latitude": 38.93343296,
+      "longitude": -105.01328047,
+      "directions": "Near Hotel Street, Green Mountain Falls, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295794",
+      "photo_urls": []
+    },
+    {
+      "id": "295795",
+      "title": "In Memory of Lance Corporal Emmett Jack Peters",
+      "latitude": 38.93390533,
+      "longitude": -105.01528953,
+      "directions": "On Ute Pass Avenue, Green Mountain Falls, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295795",
+      "photo_urls": []
+    },
+    {
+      "id": "295796",
+      "title": "Where do Big Horn Sheep Live?",
+      "latitude": 40.70942494,
+      "longitude": -105.72572161,
+      "directions": "Near Poudre Canyon Road (State Route 14) , Kinikinik, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295796",
+      "photo_urls": []
+    },
+    {
+      "id": "295797",
+      "title": "Delta County Veterans Memorial",
+      "latitude": 38.74352079,
+      "longitude": -108.05414842,
+      "directions": "On East 3rd Street, Delta, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295797",
+      "photo_urls": []
+    },
+    {
+      "id": "295798",
+      "title": "Bighorn's Brighter Future",
+      "latitude": 40.70941831,
+      "longitude": -105.72565828,
+      "directions": "Near Poudre Canyon Road (State Route 14) , Kinikinik, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295798",
+      "photo_urls": []
+    },
+    {
+      "id": "295799",
+      "title": "Galloping Goose No. 4",
+      "latitude": 38.15282947,
+      "longitude": -107.75440969,
+      "directions": "Near North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295799",
+      "photo_urls": []
+    },
+    {
+      "id": "295882",
+      "title": "D&RG(W) Caboose 91 (0575)",
+      "latitude": 38.15262251,
+      "longitude": -107.75430289,
+      "directions": "Near North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295882",
+      "photo_urls": []
+    },
+    {
+      "id": "295899",
+      "title": "RGS Motor 1",
+      "latitude": 38.15278629,
+      "longitude": -107.75439586,
+      "directions": "Near North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295899",
+      "photo_urls": []
+    },
+    {
+      "id": "295901",
+      "title": "RGS Coach 252 Restoration",
+      "latitude": 38.15256186,
+      "longitude": -107.75426841,
+      "directions": "Near North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295901",
+      "photo_urls": []
+    },
+    {
+      "id": "295970",
+      "title": "Ridgway Depot Outbuilding",
+      "latitude": 38.15225424,
+      "longitude": -107.75442794,
+      "directions": "On North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295970",
+      "photo_urls": []
+    },
+    {
+      "id": "295975",
+      "title": "DRG(W) 5574",
+      "latitude": 38.1524893,
+      "longitude": -107.75404023,
+      "directions": "Near North Railroad Street, Ridgway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295975",
+      "photo_urls": []
+    },
+    {
+      "id": "296563",
+      "title": "Fort Bent",
+      "latitude": 38.0945518,
+      "longitude": -102.760078,
+      "directions": "Near County Route 35.25, near McClave, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296563",
+      "photo_urls": []
+    },
+    {
+      "id": "298072",
+      "title": "The Mountain People",
+      "latitude": 38.03437131,
+      "longitude": -107.31188599,
+      "directions": "On Gunnison Avenue (State Route 149) , Lake City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298072",
+      "photo_urls": []
+    },
+    {
+      "id": "298102",
+      "title": "Roads into the Mountains",
+      "latitude": 38.03439144,
+      "longitude": -107.31188929,
+      "directions": "On Gunnison Avenue (State Route 149) , Lake City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298102",
+      "photo_urls": []
+    },
+    {
+      "id": "298157",
+      "title": "Metropolis of the San Juans",
+      "latitude": 38.03439144,
+      "longitude": -107.311899,
+      "directions": "On Gunnison Avenue (State Route 149) , Lake City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298157",
+      "photo_urls": []
+    },
+    {
+      "id": "298179",
+      "title": "Silver Thread Country",
+      "latitude": 38.03437131,
+      "longitude": -107.311895,
+      "directions": "On Gunnison Avenue (State Route 149) , Lake City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298179",
       "photo_urls": []
     },
     {
