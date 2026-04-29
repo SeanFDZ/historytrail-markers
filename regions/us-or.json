@@ -3,9 +3,9 @@
   "region_name": "Oregon",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.054Z",
-  "source_timestamp": "2026-04-11T19:21:31.054Z",
-  "marker_count": 1314,
+  "generated": "2026-04-29T06:02:16.430Z",
+  "source_timestamp": "2026-04-29T06:02:16.430Z",
+  "marker_count": 1341,
   "markers": [
     {
       "id": "100202",
@@ -9723,7 +9723,7 @@
       "title": "WWII B-24D Crash Site Memorial",
       "latitude": 42.09948142,
       "longitude": -118.66570649,
-      "directions": "Near , Pueblo Mountain, ",
+      "directions": "Near no nearby street, Pueblo Mountain, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=275414",
       "photo_urls": []
     },
@@ -10560,7 +10560,7 @@
       "title": "Construction of the Columbia River Highway",
       "latitude": 45.68839,
       "longitude": -121.690312,
-      "directions": "Near , Cascade Locks, ",
+      "directions": "Near Historic Columbia River Highway State Trail, Cascade Locks, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292156",
       "photo_urls": []
     },
@@ -10575,11 +10575,254 @@
     },
     {
       "id": "294219",
-      "title": "Mitchell Monument",
+      "title": "War Doesn't Discriminate",
       "latitude": 42.43176789,
       "longitude": -120.86080065,
       "directions": "Near NF-348, near Bly, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294219",
+      "photo_urls": []
+    },
+    {
+      "id": "296934",
+      "title": "Oregon City Municipal Passenger Elevator (1954)",
+      "latitude": 45.35704204,
+      "longitude": -122.60773301,
+      "directions": "Near Railroad Avenue, Oregon City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296934",
+      "photo_urls": []
+    },
+    {
+      "id": "297518",
+      "title": "The General",
+      "latitude": 43.79880712,
+      "longitude": -123.05365719,
+      "directions": "On East Main Street, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297518",
+      "photo_urls": []
+    },
+    {
+      "id": "297520",
+      "title": "Animal House",
+      "latitude": 43.79717158,
+      "longitude": -123.06087561,
+      "directions": "On East Main Street, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297520",
+      "photo_urls": []
+    },
+    {
+      "id": "297522",
+      "title": "Stand By Me",
+      "latitude": 43.7926317,
+      "longitude": -122.9965409,
+      "directions": "On Layng Road, Cottage Grove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297522",
+      "photo_urls": []
+    },
+    {
+      "id": "297531",
+      "title": "Stand By Me",
+      "latitude": 43.78873705,
+      "longitude": -122.95363346,
+      "directions": "Near Row River Trail (BLM), Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297531",
+      "photo_urls": []
+    },
+    {
+      "id": "297541",
+      "title": "Hiroshima Peace Tree / Peace Pole Project",
+      "latitude": 43.79709582,
+      "longitude": -123.05406823,
+      "directions": "On East Main Street, Cottage Grove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297541",
+      "photo_urls": []
+    },
+    {
+      "id": "297582",
+      "title": "Bohemia Mining Museum / E Clampus Vitus",
+      "latitude": 43.79466556,
+      "longitude": -123.05788697,
+      "directions": "On South 10th Street, Cottage Grove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297582",
+      "photo_urls": []
+    },
+    {
+      "id": "297583",
+      "title": "Liberty Bell",
+      "latitude": 43.79716902,
+      "longitude": -123.05378703,
+      "directions": "On East Main Street, Cottage Grove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297583",
+      "photo_urls": []
+    },
+    {
+      "id": "297584",
+      "title": "Moved a Town to Build the Dam",
+      "latitude": 43.78847143,
+      "longitude": -122.9541206,
+      "directions": "Near Row River Trail (BLM), Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297584",
+      "photo_urls": []
+    },
+    {
+      "id": "297585",
+      "title": "The General",
+      "latitude": 43.7047876,
+      "longitude": -122.8492082,
+      "directions": "On Row River Road, Dorena, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297585",
+      "photo_urls": []
+    },
+    {
+      "id": "297593",
+      "title": "Billowing Steam to Bicycles",
+      "latitude": 43.79737367,
+      "longitude": -123.05778918,
+      "directions": "On East Main Street, Cottage Grove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297593",
+      "photo_urls": []
+    },
+    {
+      "id": "297604",
+      "title": "Lena Flaiskey Becker",
+      "latitude": 43.79743059,
+      "longitude": -123.06088985,
+      "directions": "On East Main Street, Cottage Grove, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297604",
+      "photo_urls": []
+    },
+    {
+      "id": "297606",
+      "title": "The Knott Mine Gold Ore Stamp Mill",
+      "latitude": 43.79917368,
+      "longitude": -123.06497326,
+      "directions": "On North H Street, Cottage Grove, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297606",
+      "photo_urls": []
+    },
+    {
+      "id": "297610",
+      "title": "Cottage Grove Museum",
+      "latitude": 43.79913749,
+      "longitude": -123.06492057,
+      "directions": "On North H Street, Cottage Grove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297610",
+      "photo_urls": []
+    },
+    {
+      "id": "297810",
+      "title": "Coraline",
+      "latitude": 42.19655806,
+      "longitude": -122.71385117,
+      "directions": "On East Main Street, Ashland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297810",
+      "photo_urls": []
+    },
+    {
+      "id": "297812",
+      "title": "Ashland Lithia Water",
+      "latitude": 42.197033,
+      "longitude": -122.715367,
+      "directions": "On North Main Street, Ashland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297812",
+      "photo_urls": []
+    },
+    {
+      "id": "297814",
+      "title": "Wild",
+      "latitude": 42.1972979,
+      "longitude": -122.715429,
+      "directions": "On North Main Street, Ashland, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297814",
+      "photo_urls": []
+    },
+    {
+      "id": "297941",
+      "title": "Cottage Grove Veterans Memorial",
+      "latitude": 43.79751702,
+      "longitude": -123.06480004,
+      "directions": "On North River Road, Cottage Grove, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297941",
+      "photo_urls": []
+    },
+    {
+      "id": "297943",
+      "title": "Stewart and Hinds Building",
+      "latitude": 43.79719739,
+      "longitude": -123.06022557,
+      "directions": "On East Main Street, Cottage Grove, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297943",
+      "photo_urls": []
+    },
+    {
+      "id": "297959",
+      "title": "Bank Building",
+      "latitude": 43.79721057,
+      "longitude": -123.06171838,
+      "directions": "On East Main Street, Cottage Grove, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297959",
+      "photo_urls": []
+    },
+    {
+      "id": "297967",
+      "title": "Old City Hall",
+      "latitude": 43.79673098,
+      "longitude": -123.06182239,
+      "directions": "On South 6th Street, Cottage Grove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297967",
+      "photo_urls": []
+    },
+    {
+      "id": "297969",
+      "title": "First National Bank of Cottage Grove",
+      "latitude": 43.79721283,
+      "longitude": -123.06206886,
+      "directions": "On East Main Street, Cottage Grove, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297969",
+      "photo_urls": []
+    },
+    {
+      "id": "298025",
+      "title": "Welcome to Slabtown",
+      "latitude": 43.79398264,
+      "longitude": -123.06961405,
+      "directions": "On South River Road, Cottage Grove, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298025",
+      "photo_urls": []
+    },
+    {
+      "id": "298132",
+      "title": "Chambers Covered Railroad Bridge",
+      "latitude": 43.78940947,
+      "longitude": -123.07002807,
+      "directions": "On South River Road, Cottage Grove, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298132",
+      "photo_urls": []
+    },
+    {
+      "id": "298139",
+      "title": "Last Covered Railroad Bridge in Oregon",
+      "latitude": 43.78941811,
+      "longitude": -123.06944267,
+      "directions": "Near South River Road, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298139",
+      "photo_urls": []
+    },
+    {
+      "id": "298140",
+      "title": "A Man, a Mill, & a Bridge to Timber",
+      "latitude": 43.78942735,
+      "longitude": -123.06943924,
+      "directions": "Near South River Road, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298140",
+      "photo_urls": []
+    },
+    {
+      "id": "298415",
+      "title": "Cottage Grove—Getting Established",
+      "latitude": 43.78943732,
+      "longitude": -123.06943339,
+      "directions": "Near South River Road, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298415",
       "photo_urls": []
     },
     {
