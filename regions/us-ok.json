@@ -3,9 +3,9 @@
   "region_name": "Oklahoma",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.031Z",
-  "source_timestamp": "2026-04-11T19:21:31.031Z",
-  "marker_count": 2040,
+  "generated": "2026-04-29T06:02:16.405Z",
+  "source_timestamp": "2026-04-29T06:02:16.405Z",
+  "marker_count": 2041,
   "markers": [
     {
       "id": "100131",
@@ -15377,6 +15377,15 @@
       "longitude": -97.9329,
       "directions": "On North Main Street (U.S. 81) , Kingfisher, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29318",
+      "photo_urls": []
+    },
+    {
+      "id": "294666",
+      "title": "Tulsa",
+      "latitude": 36.15394167,
+      "longitude": -95.99039444,
+      "directions": "On East 3rd Street, Tulsa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294666",
       "photo_urls": []
     },
     {
