@@ -3,9 +3,9 @@
   "region_name": "Arizona",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T18:53:08.598Z",
-  "source_timestamp": "2026-04-11T18:53:08.598Z",
-  "marker_count": 1832,
+  "generated": "2026-04-29T06:02:16.376Z",
+  "source_timestamp": "2026-04-29T06:02:16.376Z",
+  "marker_count": 1836,
   "markers": [
     {
       "id": "100022",
@@ -9170,6 +9170,42 @@
       "photo_urls": []
     },
     {
+      "id": "296467",
+      "title": "Camp Stephen D. Little",
+      "latitude": 31.346234,
+      "longitude": -110.931101,
+      "directions": "On North Grand Avenue (Interstate Business 19) , Nogales, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296467",
+      "photo_urls": []
+    },
+    {
+      "id": "296468",
+      "title": "Commemorating Jacob Isaacson",
+      "latitude": 31.33456667,
+      "longitude": -110.94046667,
+      "directions": "On North Morley Avenue, Nogales, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296468",
+      "photo_urls": []
+    },
+    {
+      "id": "296469",
+      "title": "John Ward's Ranch",
+      "latitude": 31.511426,
+      "longitude": -110.798471,
+      "directions": "On East Patagonia Highway (State Route 82) , near Patagonia, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296469",
+      "photo_urls": []
+    },
+    {
+      "id": "297410",
+      "title": "Fairchild, Olive and Oatman (1837 - 1903)",
+      "latitude": 35.026275,
+      "longitude": -114.38336111,
+      "directions": "On Main St, Oatman, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297410",
+      "photo_urls": []
+    },
+    {
       "id": "29898",
       "title": "American Flag",
       "latitude": 32.58008333,
@@ -9684,7 +9720,7 @@
     },
     {
       "id": "32201",
-      "title": "The Last Camp of Hi Jolly",
+      "title": "Hi Jolly",
       "latitude": 33.6644,
       "longitude": -114.2367,
       "directions": "Near Cemetery Street (U.S. Business 10) , Quartzsite, ",
