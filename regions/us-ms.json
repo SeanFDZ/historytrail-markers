@@ -3,9 +3,9 @@
   "region_name": "Mississippi",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.328Z",
-  "source_timestamp": "2026-04-11T19:19:47.328Z",
-  "marker_count": 3254,
+  "generated": "2026-04-30T06:02:20.592Z",
+  "source_timestamp": "2026-04-30T06:02:20.592Z",
+  "marker_count": 3266,
   "markers": [
     {
       "id": "10058",
@@ -4302,7 +4302,7 @@
     },
     {
       "id": "109451",
-      "title": "<small>C.S.</small> Company A,",
+      "title": "C.S. Company A,",
       "latitude": 32.368603,
       "longitude": -90.870481,
       "directions": "On Fort Hill Road, Vicksburg National Military Park, (On the right when traveling south)",
@@ -4320,7 +4320,7 @@
     },
     {
       "id": "109453",
-      "title": "<small>C.S.</small> Johnston's Company,",
+      "title": "C.S. Johnston's Company,",
       "latitude": 32.370248,
       "longitude": -90.869323,
       "directions": "Near Confederate Avenue, Vicksburg National Military Park, ",
@@ -4437,7 +4437,7 @@
     },
     {
       "id": "109518",
-      "title": "<small>C.S. </small> Company B,",
+      "title": "C.S. Company B,",
       "latitude": 32.346491,
       "longitude": -90.854887,
       "directions": "On Grove Street, Vicksburg National Military Park, (On the left when traveling east)",
@@ -4599,7 +4599,7 @@
     },
     {
       "id": "109592",
-      "title": "<small>C.S.</small> Company E,",
+      "title": "C.S. Company E,",
       "latitude": 32.34105,
       "longitude": -90.858564,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling south)",
@@ -4617,7 +4617,7 @@
     },
     {
       "id": "109595",
-      "title": "<small>C.S.</small> Hudson's (Mississippi) Battery;",
+      "title": "C.S. Hudson's (Mississippi) Battery;",
       "latitude": 32.342561,
       "longitude": -90.855996,
       "directions": "Near Confederate Avenue, Vicksburg National Military Park, ",
@@ -4626,7 +4626,7 @@
     },
     {
       "id": "109596",
-      "title": "<small>C.S. </small> Alabama Battery",
+      "title": "C.S. Alabama Battery",
       "latitude": 32.34238056,
       "longitude": -90.85591111,
       "directions": "Near Confederate Avenue, Vicksburg National Military Park, ",
@@ -4734,7 +4734,7 @@
     },
     {
       "id": "109651",
-      "title": "<small>C.S.</small> Appeal (Arkansas) Battery;",
+      "title": "C.S. Appeal (Arkansas) Battery;",
       "latitude": 32.358516,
       "longitude": -90.844471,
       "directions": "On Old Jackson Road, Vicksburg National Military Park, ",
@@ -5706,7 +5706,7 @@
     },
     {
       "id": "110745",
-      "title": "<small>C.S.</small> Company C,",
+      "title": "C.S. Company C,",
       "latitude": 32.370493,
       "longitude": -90.868583,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -5715,7 +5715,7 @@
     },
     {
       "id": "110765",
-      "title": "<small>C.S. </small> Appeal (Arkansas) Battery;",
+      "title": "C.S. Appeal (Arkansas) Battery;",
       "latitude": 32.3588,
       "longitude": -90.844272,
       "directions": "Near Old Jackson Road, Vicksburg National Military Park, ",
@@ -5787,7 +5787,7 @@
     },
     {
       "id": "110839",
-      "title": "<small>C.S.</small> Company A,",
+      "title": "C.S. Company A,",
       "latitude": 32.370619,
       "longitude": -90.86841,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -5805,7 +5805,7 @@
     },
     {
       "id": "110841",
-      "title": "<small>C.S.</small> Company B,",
+      "title": "C.S. Company B,",
       "latitude": 32.370208,
       "longitude": -90.869146,
       "directions": "Near Confederate Avenue, Vicksburg National Military Park, ",
@@ -7344,7 +7344,7 @@
     },
     {
       "id": "115589",
-      "title": "<small>C.S.</small> Company G, 1st Mississippi Light Artillery;",
+      "title": "C.S. Company G, 1st Mississippi Light Artillery;",
       "latitude": 32.348375,
       "longitude": -90.854703,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the right when traveling south)",
@@ -7362,7 +7362,7 @@
     },
     {
       "id": "115592",
-      "title": "<small>C.S.</small> Alabama Battery;",
+      "title": "C.S. Alabama Battery;",
       "latitude": 32.348564,
       "longitude": -90.854494,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the right when traveling south)",
@@ -7371,7 +7371,7 @@
     },
     {
       "id": "115593",
-      "title": "<small>C.S.</small> Company A, 1st Mississippi Light Artillery;",
+      "title": "C.S. Company A, 1st Mississippi Light Artillery;",
       "latitude": 32.347252,
       "longitude": -90.854383,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the right when traveling south)",
@@ -7416,7 +7416,7 @@
     },
     {
       "id": "115616",
-      "title": "<small>C.S.</small> Artillery Company,",
+      "title": "C.S. Artillery Company,",
       "latitude": 32.347161,
       "longitude": -90.854537,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the right when traveling south)",
@@ -7479,7 +7479,7 @@
     },
     {
       "id": "115629",
-      "title": "<small>C.S.</small> Appeal (Arkansas) Battery;",
+      "title": "C.S. Appeal (Arkansas) Battery;",
       "latitude": 32.357864,
       "longitude": -90.845557,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the right when traveling south)",
@@ -7605,7 +7605,7 @@
     },
     {
       "id": "115666",
-      "title": "<small>C.S.</small> Lowe's (Missouri) Battery;",
+      "title": "C.S. Lowe's (Missouri) Battery;",
       "latitude": 32.368665,
       "longitude": -90.845012,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling south)",
@@ -7641,7 +7641,7 @@
     },
     {
       "id": "115748",
-      "title": "<small>C.S.</small> Company C, 2D Alabama Artillery Battalion;",
+      "title": "C.S. Company C, 2D Alabama Artillery Battalion;",
       "latitude": 32.359671,
       "longitude": -90.845007,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling south)",
@@ -7938,7 +7938,7 @@
     },
     {
       "id": "116011",
-      "title": "<small>C.S.</small> Landis' (Missouri) Battery;",
+      "title": "C.S. Landis' (Missouri) Battery;",
       "latitude": 32.351245,
       "longitude": -90.851715,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling south)",
@@ -9999,7 +9999,7 @@
     },
     {
       "id": "134001",
-      "title": "<small>C.S.</small> Company A,",
+      "title": "C.S. Company A,",
       "latitude": 32.370864,
       "longitude": -90.866049,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10008,7 +10008,7 @@
     },
     {
       "id": "134011",
-      "title": "<small>C.S.</small> Company B,",
+      "title": "C.S. Company B,",
       "latitude": 32.37199,
       "longitude": -90.861124,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10026,7 +10026,7 @@
     },
     {
       "id": "134018",
-      "title": "<small>C.S.</small> Company D,",
+      "title": "C.S. Company D,",
       "latitude": 32.372165,
       "longitude": -90.857783,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10035,7 +10035,7 @@
     },
     {
       "id": "134022",
-      "title": "<small>C.S.</small> Company D,",
+      "title": "C.S. Company D,",
       "latitude": 32.372261,
       "longitude": -90.85724,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10044,7 +10044,7 @@
     },
     {
       "id": "134024",
-      "title": "<small>C.S.</small> Company D,",
+      "title": "C.S. Company D,",
       "latitude": 32.372003,
       "longitude": -90.855982,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10053,7 +10053,7 @@
     },
     {
       "id": "134025",
-      "title": "<small>C.S.</small> Company D,",
+      "title": "C.S. Company D,",
       "latitude": 32.371686,
       "longitude": -90.855088,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10062,7 +10062,7 @@
     },
     {
       "id": "134026",
-      "title": "<large>C.S.</large>",
+      "title": "C.S.",
       "latitude": 32.371662,
       "longitude": -90.85474,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -10071,7 +10071,7 @@
     },
     {
       "id": "134029",
-      "title": "<small>C.S.</small> Cuibor's (Missouri) Battery;",
+      "title": "C.S. Cuibor's (Missouri) Battery;",
       "latitude": 32.371991,
       "longitude": -90.853753,
       "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling east)",
@@ -20964,7 +20964,7 @@
       "title": "CS Missouri 1st and 4th Infantry",
       "latitude": 32.37001077,
       "longitude": -90.84483928,
-      "directions": "On Confederate Avenue, Vicksburg National Miitary Park, (On the left when traveling south)",
+      "directions": "On Confederate Avenue, Vicksburg National Military Park, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=264281",
       "photo_urls": []
     },
@@ -22068,7 +22068,7 @@
     },
     {
       "id": "290303",
-      "title": "Ocean Springs The City of Discovery",
+      "title": "Ocean Springs",
       "latitude": 30.41254722,
       "longitude": -88.82780556,
       "directions": "On Washington Avenue, Ocean Springs, (On the right when traveling north)",
@@ -22733,12 +22733,93 @@
       "photo_urls": []
     },
     {
+      "id": "292896",
+      "title": "Prentiss Club",
+      "latitude": 31.56153806,
+      "longitude": -91.40176697,
+      "directions": "On North Pearl Street, Natchez, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292896",
+      "photo_urls": []
+    },
+    {
+      "id": "292900",
+      "title": "Vernon Ferdinand Dahmer, Sr.",
+      "latitude": 31.32750701,
+      "longitude": -89.29114706,
+      "directions": "On Main Street, Hattiesburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292900",
+      "photo_urls": []
+    },
+    {
       "id": "29291",
       "title": "Site of Rose Cottage",
       "latitude": 34.936781,
       "longitude": -88.519589,
       "directions": "On Fillmore Street, Corinth, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29291",
+      "photo_urls": []
+    },
+    {
+      "id": "293035",
+      "title": "Saenger Theatre",
+      "latitude": 31.32584844,
+      "longitude": -89.29064909,
+      "directions": "On Forrest Street, Hattiesburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293035",
+      "photo_urls": []
+    },
+    {
+      "id": "296181",
+      "title": "Amite County Confederate Honor Roll",
+      "latitude": 31.15865215,
+      "longitude": -90.80907777,
+      "directions": "On North Church Street, Liberty, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296181",
+      "photo_urls": []
+    },
+    {
+      "id": "296182",
+      "title": "Ship's Bell",
+      "latitude": 31.15780701,
+      "longitude": -90.81041594,
+      "directions": "On Main Street, Liberty, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296182",
+      "photo_urls": []
+    },
+    {
+      "id": "296183",
+      "title": "Amite County Veterans Memorial",
+      "latitude": 31.15780104,
+      "longitude": -90.81087917,
+      "directions": "On Main Street, Liberty, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296183",
+      "photo_urls": []
+    },
+    {
+      "id": "296185",
+      "title": "Archeology",
+      "latitude": 34.34942745,
+      "longitude": -89.92320335,
+      "directions": "On State Route 35, Batesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296185",
+      "photo_urls": []
+    },
+    {
+      "id": "296186",
+      "title": "The History",
+      "latitude": 34.34936584,
+      "longitude": -89.92320694,
+      "directions": "Near State Route 35, Batesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296186",
+      "photo_urls": []
+    },
+    {
+      "id": "296187",
+      "title": "Discovery",
+      "latitude": 34.34937287,
+      "longitude": -89.92325844,
+      "directions": "Near State Route 35, Batesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296187",
       "photo_urls": []
     },
     {
@@ -22760,12 +22841,30 @@
       "photo_urls": []
     },
     {
+      "id": "296721",
+      "title": "Gulfport - Harrison County Library",
+      "latitude": 30.36837778,
+      "longitude": -89.08738611,
+      "directions": "Near 20th Avenue, Gulfport, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296721",
+      "photo_urls": []
+    },
+    {
       "id": "29749",
       "title": "Jefferson Street Methodist Church",
       "latitude": 31.560753,
       "longitude": -91.399902,
       "directions": "On Jefferson Street, Natchez, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29749",
+      "photo_urls": []
+    },
+    {
+      "id": "298158",
+      "title": "Middle Passage to Biloxi",
+      "latitude": 30.39386111,
+      "longitude": -88.90144444,
+      "directions": "On Beach Boulevard (U.S. 90) , Biloxi, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298158",
       "photo_urls": []
     },
     {
@@ -22784,6 +22883,15 @@
       "longitude": -88.679859,
       "directions": "Near Elvis Presley Drive, Tupelo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29823",
+      "photo_urls": []
+    },
+    {
+      "id": "298267",
+      "title": "Veterans Memorial",
+      "latitude": 34.96284444,
+      "longitude": -90.03617778,
+      "directions": "On Goodman Road West, Horn Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298267",
       "photo_urls": []
     },
     {
