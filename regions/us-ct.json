@@ -3,9 +3,9 @@
   "region_name": "Connecticut",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.759Z",
-  "source_timestamp": "2026-04-11T19:15:03.759Z",
-  "marker_count": 2876,
+  "generated": "2026-04-30T06:02:20.540Z",
+  "source_timestamp": "2026-04-30T06:02:20.540Z",
+  "marker_count": 2957,
   "markers": [
     {
       "id": "100091",
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "140520",
-      "title": "Co.L First Inf. Memorial",
+      "title": "Co. L First Inf. Memorial",
       "latitude": 41.713756,
       "longitude": -72.22111,
       "directions": "On Main Street, Windham, (On the left",
@@ -2883,7 +2883,7 @@
       "title": "Holy Grove",
       "latitude": 41.765279,
       "longitude": -72.346766,
-      "directions": "On South St., Coventry, (On the left when traveling west)",
+      "directions": "On South Street, Coventry, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=141042",
       "photo_urls": []
     },
@@ -2892,7 +2892,7 @@
       "title": "Birthplace of Nathan Hale",
       "latitude": 41.764309,
       "longitude": -72.345938,
-      "directions": "Near South St., Coventry, (On the left when traveling west)",
+      "directions": "Near South Street, Coventry, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=141044",
       "photo_urls": []
     },
@@ -7839,7 +7839,7 @@
     },
     {
       "id": "22739",
-      "title": "Lover’s Leap State Park",
+      "title": "Highlights of Lover’s Leap State Park",
       "latitude": 41.54385,
       "longitude": -73.40766667,
       "directions": "Near Still River Drive, New Milford, (On the right when traveling east)",
@@ -8946,7 +8946,7 @@
     },
     {
       "id": "23050",
-      "title": "Oldest Cemetery 1684",
+      "title": "Oldest Cemetery",
       "latitude": 41.39025,
       "longitude": -73.44895,
       "directions": "On Wooster Street, Danbury, (On the left when traveling west)",
@@ -9459,7 +9459,7 @@
     },
     {
       "id": "231283",
-      "title": "Memorial to Our Sons and Daughters Who Served Their Country in the World War 1914-1918",
+      "title": "World War I Memorial",
       "latitude": 41.60573333,
       "longitude": -73.11853333,
       "directions": "On DeForest Street (U.S. 6) , Watertown, (On the right when traveling east)",
@@ -14958,7 +14958,7 @@
     },
     {
       "id": "27722",
-      "title": "Sacred to the Memory",
+      "title": "Veterans Memorial",
       "latitude": 41.280201,
       "longitude": -73.027253,
       "directions": "On Orange Center Road, Orange, (On the right when traveling north)",
@@ -16329,7 +16329,7 @@
       "title": "A River Valley Transformed",
       "latitude": 41.91021888,
       "longitude": -72.95077334,
-      "directions": "On Saville Dam Road (State Route 318) , Barkhamstead, (On the right when traveling east)",
+      "directions": "On Saville Dam Road (State Route 318) , Barkhamsted, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290893",
       "photo_urls": []
     },
@@ -16829,6 +16829,15 @@
       "photo_urls": []
     },
     {
+      "id": "292656",
+      "title": "Jeremiah Beard Eells",
+      "latitude": 41.14884,
+      "longitude": -73.47143,
+      "directions": "Near Carter Street, New Canaan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292656",
+      "photo_urls": []
+    },
+    {
       "id": "292853",
       "title": "Sam",
       "latitude": 41.76441857,
@@ -16865,6 +16874,222 @@
       "photo_urls": []
     },
     {
+      "id": "292966",
+      "title": "Infant",
+      "latitude": 41.76437744,
+      "longitude": -72.74192547,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292966",
+      "photo_urls": []
+    },
+    {
+      "id": "292969",
+      "title": "Dinah",
+      "latitude": 41.76437244,
+      "longitude": -72.74194022,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292969",
+      "photo_urls": []
+    },
+    {
+      "id": "292971",
+      "title": "Jack",
+      "latitude": 41.76437144,
+      "longitude": -72.74192278,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292971",
+      "photo_urls": []
+    },
+    {
+      "id": "292972",
+      "title": "Dinah",
+      "latitude": 41.76436844,
+      "longitude": -72.74194156,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292972",
+      "photo_urls": []
+    },
+    {
+      "id": "292980",
+      "title": "Boy",
+      "latitude": 41.76436544,
+      "longitude": -72.74192077,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292980",
+      "photo_urls": []
+    },
+    {
+      "id": "292981",
+      "title": "Lyde",
+      "latitude": 41.76436394,
+      "longitude": -72.74193888,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292981",
+      "photo_urls": []
+    },
+    {
+      "id": "292982",
+      "title": "Liverpole",
+      "latitude": 41.76435621,
+      "longitude": -72.7419317,
+      "directions": "On North Main Street, WestHartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292982",
+      "photo_urls": []
+    },
+    {
+      "id": "292983",
+      "title": "Richard",
+      "latitude": 41.76434832,
+      "longitude": -72.74193,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292983",
+      "photo_urls": []
+    },
+    {
+      "id": "292985",
+      "title": "Rebeckah",
+      "latitude": 41.76434021,
+      "longitude": -72.741927,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292985",
+      "photo_urls": []
+    },
+    {
+      "id": "292986",
+      "title": "Ambo",
+      "latitude": 41.7644237,
+      "longitude": -72.741985,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292986",
+      "photo_urls": []
+    },
+    {
+      "id": "292987",
+      "title": "Plimouth",
+      "latitude": 41.764418,
+      "longitude": -72.741982,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292987",
+      "photo_urls": []
+    },
+    {
+      "id": "292988",
+      "title": "Prime",
+      "latitude": 41.76441287,
+      "longitude": -72.741981,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292988",
+      "photo_urls": []
+    },
+    {
+      "id": "292989",
+      "title": "Silva",
+      "latitude": 41.76440672,
+      "longitude": -72.7419719,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292989",
+      "photo_urls": []
+    },
+    {
+      "id": "292990",
+      "title": "Boy",
+      "latitude": 41.7644032,
+      "longitude": -72.74198666,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292990",
+      "photo_urls": []
+    },
+    {
+      "id": "292991",
+      "title": "Ismael",
+      "latitude": 41.7643942,
+      "longitude": -72.7419672,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292991",
+      "photo_urls": []
+    },
+    {
+      "id": "292992",
+      "title": "Boy",
+      "latitude": 41.7643927,
+      "longitude": -72.741985,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292992",
+      "photo_urls": []
+    },
+    {
+      "id": "292993",
+      "title": "Hagar",
+      "latitude": 41.7643726,
+      "longitude": -72.74196238,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292993",
+      "photo_urls": []
+    },
+    {
+      "id": "292994",
+      "title": "Bristo",
+      "latitude": 41.7643664,
+      "longitude": -72.7419603,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292994",
+      "photo_urls": []
+    },
+    {
+      "id": "292995",
+      "title": "Hagar",
+      "latitude": 41.76435964,
+      "longitude": -72.7419575,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292995",
+      "photo_urls": []
+    },
+    {
+      "id": "292996",
+      "title": "Lill",
+      "latitude": 41.7643545,
+      "longitude": -72.741955,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292996",
+      "photo_urls": []
+    },
+    {
+      "id": "292997",
+      "title": "Titus Thomas",
+      "latitude": 41.7643503,
+      "longitude": -72.741971,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292997",
+      "photo_urls": []
+    },
+    {
+      "id": "292998",
+      "title": "Child of Lill",
+      "latitude": 41.76433995,
+      "longitude": -72.74194967,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292998",
+      "photo_urls": []
+    },
+    {
+      "id": "292999",
+      "title": "Julia Thomas",
+      "latitude": 41.76433943,
+      "longitude": -72.741969,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292999",
+      "photo_urls": []
+    },
+    {
+      "id": "293000",
+      "title": "Route of George Washington",
+      "latitude": 41.46531952,
+      "longitude": -72.67893274,
+      "directions": "On New Haven Road, Durham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293000",
+      "photo_urls": []
+    },
+    {
       "id": "29322",
       "title": "Washington Veterans Monument",
       "latitude": 41.640805,
@@ -16880,6 +17105,105 @@
       "longitude": -73.319477,
       "directions": "On Calhoun Street (State Route 109) , Washington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29323",
+      "photo_urls": []
+    },
+    {
+      "id": "293323",
+      "title": "Alfonso Cappuccio",
+      "latitude": 41.30293052,
+      "longitude": -72.91786739,
+      "directions": "On Wooster Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293323",
+      "photo_urls": []
+    },
+    {
+      "id": "293332",
+      "title": "Bernard A. Zambrano",
+      "latitude": 41.30292449,
+      "longitude": -72.91786427,
+      "directions": "On Wooster Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293332",
+      "photo_urls": []
+    },
+    {
+      "id": "294155",
+      "title": "Wooster Square World War II Memorial",
+      "latitude": 41.30292331,
+      "longitude": -72.91786399,
+      "directions": "On Wooster Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294155",
+      "photo_urls": []
+    },
+    {
+      "id": "294228",
+      "title": "Wooster Square Historic District",
+      "latitude": 41.30403911,
+      "longitude": -72.91825146,
+      "directions": "On Chapel Street, New Haven, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294228",
+      "photo_urls": []
+    },
+    {
+      "id": "294306",
+      "title": "David Wooster",
+      "latitude": 41.30476591,
+      "longitude": -72.91778104,
+      "directions": "On Chapel Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294306",
+      "photo_urls": []
+    },
+    {
+      "id": "294331",
+      "title": "Saint Michael Church",
+      "latitude": 41.30523963,
+      "longitude": -72.91687824,
+      "directions": "On Wooster Place, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294331",
+      "photo_urls": []
+    },
+    {
+      "id": "294333",
+      "title": "Jocelyn Square",
+      "latitude": 41.31260225,
+      "longitude": -72.9095772,
+      "directions": "On East Street, New Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294333",
+      "photo_urls": []
+    },
+    {
+      "id": "294341",
+      "title": "New Haven World War Two Veterans Memorial",
+      "latitude": 41.3164564,
+      "longitude": -72.90867009,
+      "directions": "On State Street, New Haven, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294341",
+      "photo_urls": []
+    },
+    {
+      "id": "294361",
+      "title": "Firehouse 19",
+      "latitude": 41.31615997,
+      "longitude": -72.91020514,
+      "directions": "On Edwards Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294361",
+      "photo_urls": []
+    },
+    {
+      "id": "294365",
+      "title": "September 11th Memorial",
+      "latitude": 41.31617317,
+      "longitude": -72.91024554,
+      "directions": "On Edwards Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294365",
+      "photo_urls": []
+    },
+    {
+      "id": "294367",
+      "title": "St. Stanislaus Servicemen",
+      "latitude": 41.312317,
+      "longitude": -72.915156,
+      "directions": "On State Street, New Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294367",
       "photo_urls": []
     },
     {
@@ -16955,12 +17279,156 @@
       "photo_urls": []
     },
     {
+      "id": "295499",
+      "title": "Westwoods",
+      "latitude": 41.28550406,
+      "longitude": -72.6955537,
+      "directions": "On 3 Mile Course, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295499",
+      "photo_urls": []
+    },
+    {
+      "id": "295532",
+      "title": "Burying Yard Stone Monument",
+      "latitude": 41.26809371,
+      "longitude": -73.49343664,
+      "directions": "On East Wilton Road, Ridgefield, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295532",
+      "photo_urls": []
+    },
+    {
+      "id": "295706",
+      "title": "Isaac C. Moses",
+      "latitude": 41.28068321,
+      "longitude": -72.80789258,
+      "directions": "On Montowese Street, Branford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295706",
+      "photo_urls": []
+    },
+    {
+      "id": "295778",
+      "title": "Cambridge",
+      "latitude": 41.28129302,
+      "longitude": -72.81137327,
+      "directions": "On Main Street, Branford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295778",
+      "photo_urls": []
+    },
+    {
+      "id": "295784",
+      "title": "Pompey",
+      "latitude": 41.28694496,
+      "longitude": -72.66941721,
+      "directions": "On Boston Street (State Route 146) , Guilford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295784",
+      "photo_urls": []
+    },
+    {
+      "id": "295786",
+      "title": "Sons of East Haven Memorial",
+      "latitude": 41.26810632,
+      "longitude": -72.87830593,
+      "directions": "On Kenneth Street, East Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295786",
+      "photo_urls": []
+    },
+    {
+      "id": "295787",
+      "title": "Aglino \"Aggie\" Masotta",
+      "latitude": 41.26815808,
+      "longitude": -72.87817257,
+      "directions": "On Roma Street, East Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295787",
+      "photo_urls": []
+    },
+    {
+      "id": "295789",
+      "title": "Margaret G. Pastore",
+      "latitude": 41.25755634,
+      "longitude": -72.89138314,
+      "directions": "On Townsend Avenue (State Route 337) , New Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295789",
+      "photo_urls": []
+    },
+    {
+      "id": "295790",
+      "title": "Morris Cove World War Memorial",
+      "latitude": 41.25310303,
+      "longitude": -72.89931754,
+      "directions": "On Lighthouse Road, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295790",
+      "photo_urls": []
+    },
+    {
+      "id": "295791",
+      "title": "Sleeping Giant Quarry",
+      "latitude": 41.42448,
+      "longitude": -72.90316,
+      "directions": "Near Whitney Avenue, Hamden, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295791",
+      "photo_urls": []
+    },
+    {
+      "id": "295802",
+      "title": "Judge Cook's Oxen Road",
+      "latitude": 41.4258,
+      "longitude": -72.89986,
+      "directions": "Near Whitney Avenue, Hamden, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295802",
+      "photo_urls": []
+    },
+    {
+      "id": "295805",
+      "title": "Judge Cook's Oxen Road",
+      "latitude": 41.42823,
+      "longitude": -72.89892,
+      "directions": "Near Whitney Avenue, Hamden, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295805",
+      "photo_urls": []
+    },
+    {
+      "id": "296043",
+      "title": "Heaton Trail",
+      "latitude": 41.42988,
+      "longitude": -72.89361,
+      "directions": "Near Whitney Avenue, Hamden, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296043",
+      "photo_urls": []
+    },
+    {
+      "id": "296779",
+      "title": "Sleeping Giant State Park",
+      "latitude": 41.43080503,
+      "longitude": -72.89045031,
+      "directions": "Near Tower Path, Hamden, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296779",
+      "photo_urls": []
+    },
+    {
+      "id": "296782",
+      "title": "Walter Owen Filley",
+      "latitude": 41.42191,
+      "longitude": -72.90073,
+      "directions": "Near Whitney Avenue (State Route 10) , Hamden, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296782",
+      "photo_urls": []
+    },
+    {
       "id": "29684",
       "title": "Mills - Emerson House",
       "latitude": 41.989288,
       "longitude": -73.198183,
       "directions": "On Greenwoods Road West (U.S. 44) , Norfolk, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29684",
+      "photo_urls": []
+    },
+    {
+      "id": "296848",
+      "title": "Sleeping Giant: Stories of an Indigenous Place",
+      "latitude": 41.42157,
+      "longitude": -72.89906,
+      "directions": "On Mt. Carmel Avenue, Hamden, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296848",
       "photo_urls": []
     },
     {
@@ -17000,12 +17468,219 @@
       "photo_urls": []
     },
     {
+      "id": "296916",
+      "title": "Sarah Whitman Hooker Collins Memorial",
+      "latitude": 41.76428463,
+      "longitude": -72.74172342,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296916",
+      "photo_urls": []
+    },
+    {
+      "id": "296924",
+      "title": "Edgar Laing Heermance",
+      "latitude": 41.42193,
+      "longitude": -72.89886,
+      "directions": "On Mount Carmel Avenue, Hamden, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296924",
+      "photo_urls": []
+    },
+    {
+      "id": "296925",
+      "title": "Sleeping Giant State Park: The Tower Path",
+      "latitude": 41.42232,
+      "longitude": -72.89784,
+      "directions": "Near Tower Path, Hamden, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296925",
+      "photo_urls": []
+    },
+    {
+      "id": "297005",
+      "title": "Site of Convent of Mercy",
+      "latitude": 41.8039958,
+      "longitude": -73.12108095,
+      "directions": "On Main Street, Torrington, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297005",
+      "photo_urls": []
+    },
+    {
+      "id": "297006",
+      "title": "Garden Statue",
+      "latitude": 41.80415,
+      "longitude": -73.12071,
+      "directions": "On Main Street, Torrington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297006",
+      "photo_urls": []
+    },
+    {
+      "id": "297072",
+      "title": "The Naugatuck River",
+      "latitude": 41.80055522,
+      "longitude": -73.12354306,
+      "directions": "On Prospect Street, Torrington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297072",
+      "photo_urls": []
+    },
+    {
+      "id": "297159",
+      "title": "1955 Floods Memorial",
+      "latitude": 41.80059302,
+      "longitude": -73.12110902,
+      "directions": "On South Main Street (U.S. 202) , Torrington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297159",
+      "photo_urls": []
+    },
+    {
+      "id": "297164",
+      "title": "Forever Mourned • Forever Honored",
+      "latitude": 41.80190678,
+      "longitude": -73.1142287,
+      "directions": "On Willow Place, Torrington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297164",
+      "photo_urls": []
+    },
+    {
+      "id": "297183",
+      "title": "Methodists in Torrington",
+      "latitude": 41.80266505,
+      "longitude": -73.12127278,
+      "directions": "On Main Street, Torrington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297183",
+      "photo_urls": []
+    },
+    {
+      "id": "297192",
+      "title": "St. Joseph's Cemetery Veterans Memorial",
+      "latitude": 41.91276079,
+      "longitude": -73.05514908,
+      "directions": "On Torringford Street (State Route 183) , Winchester, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297192",
+      "photo_urls": []
+    },
+    {
+      "id": "297196",
+      "title": "Flood of 1955",
+      "latitude": 41.9210544,
+      "longitude": -73.06000505,
+      "directions": "On South Main Street (U.S. 44) , Winchester, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297196",
+      "photo_urls": []
+    },
+    {
+      "id": "297446",
+      "title": "\"The Old Newspaper Building\"",
+      "latitude": 41.92093897,
+      "longitude": -73.07207187,
+      "directions": "On Main Street (U.S. 44) , Winchester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297446",
+      "photo_urls": []
+    },
+    {
+      "id": "297502",
+      "title": "The Central New England Railway / Map of Winsted 1874",
+      "latitude": 41.92205619,
+      "longitude": -73.07550387,
+      "directions": "Near Prospect Street, Winchester, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297502",
+      "photo_urls": []
+    },
+    {
+      "id": "297504",
+      "title": "Train at the Winsted Station",
+      "latitude": 41.92187626,
+      "longitude": -73.07533175,
+      "directions": "Near Prospect Street, Winchester, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297504",
+      "photo_urls": []
+    },
+    {
+      "id": "297505",
+      "title": "The Engine Turntable / The Day Express",
+      "latitude": 41.92029769,
+      "longitude": -73.07245626,
+      "directions": "Near Prospect Street, Winchester, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297505",
+      "photo_urls": []
+    },
+    {
       "id": "29765",
       "title": "Liberty Tree Memorial",
       "latitude": 41.764718,
       "longitude": -73.069238,
       "directions": "On Bentley Drive, Harwinton, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29765",
+      "photo_urls": []
+    },
+    {
+      "id": "297780",
+      "title": "Simsbury",
+      "latitude": 41.880261,
+      "longitude": -72.80042,
+      "directions": "On Hopmeadow Street (State Route 10) , Simsbury, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297780",
+      "photo_urls": []
+    },
+    {
+      "id": "297802",
+      "title": "Old Grist Mill Site",
+      "latitude": 41.77338331,
+      "longitude": -72.7451628,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297802",
+      "photo_urls": []
+    },
+    {
+      "id": "297804",
+      "title": "Gallaudet Building",
+      "latitude": 41.77210824,
+      "longitude": -72.74459108,
+      "directions": "On North Main Street, West Hartford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297804",
+      "photo_urls": []
+    },
+    {
+      "id": "297805",
+      "title": "John Mason",
+      "latitude": 41.54876441,
+      "longitude": -72.09521119,
+      "directions": "On Town Street (State Route 642) , Norwich, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297805",
+      "photo_urls": []
+    },
+    {
+      "id": "297815",
+      "title": "Officer Terrence Flood",
+      "latitude": 41.18135896,
+      "longitude": -73.19295138,
+      "directions": "On Congress Street, Bridgeport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297815",
+      "photo_urls": []
+    },
+    {
+      "id": "297816",
+      "title": "Site of \"The French Oven\"",
+      "latitude": 41.63751111,
+      "longitude": -72.21382778,
+      "directions": "On Trumbull Highway (State Route 87) , Lebanon, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297816",
+      "photo_urls": []
+    },
+    {
+      "id": "297817",
+      "title": "Detective Daniel Domkowski",
+      "latitude": 41.18138489,
+      "longitude": -73.19295687,
+      "directions": "On Congress Street, Bridgeport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297817",
+      "photo_urls": []
+    },
+    {
+      "id": "297823",
+      "title": "The Pastor's Library",
+      "latitude": 41.63817,
+      "longitude": -72.21277,
+      "directions": "Near Trumbull Highway (State Route 87) , Lebanon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297823",
       "photo_urls": []
     },
     {
@@ -17042,6 +17717,60 @@
       "longitude": -72.98348,
       "directions": "On Town Hill Road (State Route 219) , New Hartford, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29794",
+      "photo_urls": []
+    },
+    {
+      "id": "298165",
+      "title": "The UNESCO Slave Route Project",
+      "latitude": 41.5618,
+      "longitude": -72.6463,
+      "directions": "On Harbor Drive, Middletown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298165",
+      "photo_urls": []
+    },
+    {
+      "id": "298233",
+      "title": "Lafayette's Tour",
+      "latitude": 41.27834244,
+      "longitude": -72.82440774,
+      "directions": "On Main Street, Branford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298233",
+      "photo_urls": []
+    },
+    {
+      "id": "298261",
+      "title": "A Celebration of Life",
+      "latitude": 41.2591833,
+      "longitude": -72.83775597,
+      "directions": "Near Shore Drive (State Route 142) , Branford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298261",
+      "photo_urls": []
+    },
+    {
+      "id": "298379",
+      "title": "North Branford Fire Department 9/11 Memorial",
+      "latitude": 41.32531482,
+      "longitude": -72.77280256,
+      "directions": "On Foxon Road (State Route 80) , North Branford, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298379",
+      "photo_urls": []
+    },
+    {
+      "id": "298411",
+      "title": "Bristol",
+      "latitude": 41.673264,
+      "longitude": -72.946064,
+      "directions": "On North Main Street, Bristol, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298411",
+      "photo_urls": []
+    },
+    {
+      "id": "298412",
+      "title": "New London",
+      "latitude": 41.35512877,
+      "longitude": -72.09628096,
+      "directions": "Near Masonic Street, New London, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298412",
       "photo_urls": []
     },
     {
@@ -17658,7 +18387,7 @@
     },
     {
       "id": "30816",
-      "title": "Honor Roll Weston, Connecticut",
+      "title": "Honor Roll",
       "latitude": 41.201772,
       "longitude": -73.378513,
       "directions": "On Norfield Road, Weston, (On the left when traveling east)",
@@ -18010,8 +18739,8 @@
     {
       "id": "32237",
       "title": "Ye Burying Yard",
-      "latitude": 41.268152,
-      "longitude": -73.493456,
+      "latitude": 41.26811822,
+      "longitude": -73.49339987,
       "directions": "On East Wilton Road, Ridgefield, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32237",
       "photo_urls": []
@@ -23112,7 +23841,7 @@
     },
     {
       "id": "68421",
-      "title": "The Defenders Of The Fort",
+      "title": "The Defenders of the Fort",
       "latitude": 41.331449,
       "longitude": -71.906269,
       "directions": "On Water Street, Stonington, (On the right when traveling south)",
@@ -23781,7 +24510,7 @@
       "title": "In Memory of Lt. Rodney L. Stokes and Sgt. Julius G. Skyberg",
       "latitude": 41.2803585,
       "longitude": -73.2179607,
-      "directions": "On Indian Ledge Park Drive, Trumbull, (On the left when traveling south)",
+      "directions": "On Indian Ledge Park Road, Trumbull, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77504",
       "photo_urls": []
     },
