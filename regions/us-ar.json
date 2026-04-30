@@ -3,9 +3,9 @@
   "region_name": "Arkansas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T18:53:08.574Z",
-  "source_timestamp": "2026-04-11T18:53:08.574Z",
-  "marker_count": 1958,
+  "generated": "2026-04-30T06:02:20.514Z",
+  "source_timestamp": "2026-04-30T06:02:20.514Z",
+  "marker_count": 2004,
   "markers": [
     {
       "id": "100703",
@@ -3798,7 +3798,7 @@
     },
     {
       "id": "157555",
-      "title": "In Loving Remembrance of the Confederate Women of Arkansas",
+      "title": "Confederate Women's Memorial",
       "latitude": 34.74879888,
       "longitude": -92.27210109,
       "directions": "Near West Markham Street, Little Rock, (On the right when traveling west)",
@@ -4356,7 +4356,7 @@
     },
     {
       "id": "169369",
-      "title": "Dedicated to all Veterans who Served their Country",
+      "title": "Veterans Memorial",
       "latitude": 36.070329,
       "longitude": -90.958478,
       "directions": "On West Main Street (U.S. 412) , Walnut Ridge, ",
@@ -12411,7 +12411,7 @@
     },
     {
       "id": "264297",
-      "title": "The LeCroy Building",
+      "title": "Dr. and Mrs. D.E. Kloss",
       "latitude": 34.50624404,
       "longitude": -93.05478937,
       "directions": "On Central Avenue (State Route 7) , Hot Springs, (On the left when traveling south)",
@@ -14138,6 +14138,420 @@
       "photo_urls": []
     },
     {
+      "id": "294844",
+      "title": "Arkansas Post",
+      "latitude": 34.03167783,
+      "longitude": -91.37364944,
+      "directions": "On U.S. 165, Gillett, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294844",
+      "photo_urls": []
+    },
+    {
+      "id": "294941",
+      "title": "Kocourek and Son Hardware Store",
+      "latitude": 34.78071729,
+      "longitude": -91.58049788,
+      "directions": "On East Front, Hazen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294941",
+      "photo_urls": []
+    },
+    {
+      "id": "294943",
+      "title": "Dr. William Cogswell Hazen",
+      "latitude": 34.78072086,
+      "longitude": -91.58041174,
+      "directions": "On East Front, Hazen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294943",
+      "photo_urls": []
+    },
+    {
+      "id": "294944",
+      "title": "Hazen Rock Island Railroad Depot",
+      "latitude": 34.78066109,
+      "longitude": -91.57952961,
+      "directions": "On East Front Street, Hazen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294944",
+      "photo_urls": []
+    },
+    {
+      "id": "294945",
+      "title": "Central Arkansas & Eastern RR and the Cotton Belt Route",
+      "latitude": 34.78075666,
+      "longitude": -91.58316458,
+      "directions": "On West Front Street, Hazen, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294945",
+      "photo_urls": []
+    },
+    {
+      "id": "294982",
+      "title": "Daisy Bates",
+      "latitude": 34.721729,
+      "longitude": -92.288376,
+      "directions": "On West 28th Street, Little Rock, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294982",
+      "photo_urls": []
+    },
+    {
+      "id": "296109",
+      "title": "Dyess",
+      "latitude": 35.59005641,
+      "longitude": -90.21415808,
+      "directions": "On Center Drive, Dyess, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296109",
+      "photo_urls": []
+    },
+    {
+      "id": "296111",
+      "title": "American Revolution Bicentennial",
+      "latitude": 35.59006597,
+      "longitude": -90.21422464,
+      "directions": "On Center Drive, Dyess, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296111",
+      "photo_urls": []
+    },
+    {
+      "id": "296521",
+      "title": "Mound City Landing",
+      "latitude": 35.21565865,
+      "longitude": -90.19526721,
+      "directions": "Near Cypress Drive, Marion, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296521",
+      "photo_urls": []
+    },
+    {
+      "id": "296894",
+      "title": "Biggers and Johnston Building",
+      "latitude": 36.3157278,
+      "longitude": -91.48215151,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296894",
+      "photo_urls": []
+    },
+    {
+      "id": "296895",
+      "title": "Metcalf House",
+      "latitude": 36.315745,
+      "longitude": -91.48345833,
+      "directions": "On West Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296895",
+      "photo_urls": []
+    },
+    {
+      "id": "296896",
+      "title": "Art Moderne Service Station",
+      "latitude": 36.31587774,
+      "longitude": -91.4795817,
+      "directions": "On Main Street (U.S. Business 63) , Hardy, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296896",
+      "photo_urls": []
+    },
+    {
+      "id": "296897",
+      "title": "Abee Building",
+      "latitude": 36.31573272,
+      "longitude": -91.48195002,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296897",
+      "photo_urls": []
+    },
+    {
+      "id": "296898",
+      "title": "Thompson Store",
+      "latitude": 36.31574747,
+      "longitude": -91.48122114,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296898",
+      "photo_urls": []
+    },
+    {
+      "id": "296899",
+      "title": "Johnston Drug Store Building",
+      "latitude": 36.31574418,
+      "longitude": -91.48128921,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296899",
+      "photo_urls": []
+    },
+    {
+      "id": "296976",
+      "title": "Sam Young Building",
+      "latitude": 36.3157296,
+      "longitude": -91.48184725,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296976",
+      "photo_urls": []
+    },
+    {
+      "id": "296986",
+      "title": "Hardy Bank / Gilliam & Ritchie Grocery Store",
+      "latitude": 36.31571618,
+      "longitude": -91.48250187,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296986",
+      "photo_urls": []
+    },
+    {
+      "id": "296991",
+      "title": "Snow Building",
+      "latitude": 36.31573452,
+      "longitude": -91.48161075,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296991",
+      "photo_urls": []
+    },
+    {
+      "id": "296993",
+      "title": "Biggers Mercantile Building",
+      "latitude": 36.31571452,
+      "longitude": -91.48265679,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296993",
+      "photo_urls": []
+    },
+    {
+      "id": "296994",
+      "title": "Tompkins Motor Company Building",
+      "latitude": 36.31556551,
+      "longitude": -91.4817207,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296994",
+      "photo_urls": []
+    },
+    {
+      "id": "296995",
+      "title": "Sullivan Building",
+      "latitude": 36.31557465,
+      "longitude": -91.48210585,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296995",
+      "photo_urls": []
+    },
+    {
+      "id": "296996",
+      "title": "Ark-Mo Power Company / Hubert Daugherty’s Mercantile",
+      "latitude": 36.31557301,
+      "longitude": -91.48187576,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296996",
+      "photo_urls": []
+    },
+    {
+      "id": "296997",
+      "title": "Cochran Building",
+      "latitude": 36.31571729,
+      "longitude": -91.4823747,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296997",
+      "photo_urls": []
+    },
+    {
+      "id": "296998",
+      "title": "Cochran Building",
+      "latitude": 36.3157244,
+      "longitude": -91.48221078,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296998",
+      "photo_urls": []
+    },
+    {
+      "id": "296999",
+      "title": "Tennie Meeker's Café",
+      "latitude": 36.31556954,
+      "longitude": -91.48226614,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296999",
+      "photo_urls": []
+    },
+    {
+      "id": "297076",
+      "title": "The Evolution of Whittington Park",
+      "latitude": 34.51582883,
+      "longitude": -93.0669005,
+      "directions": "On Whittington Avenue, Hot Springs, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297076",
+      "photo_urls": []
+    },
+    {
+      "id": "297077",
+      "title": "The Zig Zag Mountains",
+      "latitude": 34.51581802,
+      "longitude": -93.04760641,
+      "directions": "On N Mountain Drive, Hot Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297077",
+      "photo_urls": []
+    },
+    {
+      "id": "297078",
+      "title": "Shortcut Trail",
+      "latitude": 34.51565828,
+      "longitude": -93.04786426,
+      "directions": "Near N Mountain Drive, Hot Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297078",
+      "photo_urls": []
+    },
+    {
+      "id": "297079",
+      "title": "Dressed to Hike",
+      "latitude": 34.51534377,
+      "longitude": -93.05105669,
+      "directions": "Near Hot Springs Mountain Drive, Hot Springs, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297079",
+      "photo_urls": []
+    },
+    {
+      "id": "297080",
+      "title": "\"A Handsome and Durable Structure\"",
+      "latitude": 34.51655765,
+      "longitude": -93.05173728,
+      "directions": "Near Fountain Street, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297080",
+      "photo_urls": []
+    },
+    {
+      "id": "297081",
+      "title": "Geology Rocks!",
+      "latitude": 34.51611789,
+      "longitude": -93.05224228,
+      "directions": "On Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297081",
+      "photo_urls": []
+    },
+    {
+      "id": "297082",
+      "title": "Water Quality through Time",
+      "latitude": 34.51565395,
+      "longitude": -93.05227532,
+      "directions": "Near Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297082",
+      "photo_urls": []
+    },
+    {
+      "id": "297083",
+      "title": "Strolling the Grand Promenade",
+      "latitude": 34.51555378,
+      "longitude": -93.05277048,
+      "directions": "Near Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297083",
+      "photo_urls": []
+    },
+    {
+      "id": "297084",
+      "title": "Ral City",
+      "latitude": 34.51463321,
+      "longitude": -93.05279364,
+      "directions": "Near Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297084",
+      "photo_urls": []
+    },
+    {
+      "id": "297085",
+      "title": "Thermophiles",
+      "latitude": 34.51524178,
+      "longitude": -93.05246316,
+      "directions": "Near Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297085",
+      "photo_urls": []
+    },
+    {
+      "id": "297086",
+      "title": "Advocate for Nature",
+      "latitude": 34.5157918,
+      "longitude": -93.05254862,
+      "directions": "On Central Avenue, Hot Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297086",
+      "photo_urls": []
+    },
+    {
+      "id": "297088",
+      "title": "Three Sisters Springs History",
+      "latitude": 34.62341988,
+      "longitude": -93.17055866,
+      "directions": "On State Park Lane, Mountain Pine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297088",
+      "photo_urls": []
+    },
+    {
+      "id": "297089",
+      "title": "Three Sisters Springs",
+      "latitude": 34.62342737,
+      "longitude": -93.1705334,
+      "directions": "On State Park Lane, Mountain Pine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297089",
+      "photo_urls": []
+    },
+    {
+      "id": "297090",
+      "title": "Three Sisters Springs History",
+      "latitude": 34.62341894,
+      "longitude": -93.17053757,
+      "directions": "On State Park Lane, Mountain Pine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297090",
+      "photo_urls": []
+    },
+    {
+      "id": "297091",
+      "title": "Erosion Effects",
+      "latitude": 34.51552856,
+      "longitude": -93.05163337,
+      "directions": "On Hot Springs Mountain Drive, Hot Springs, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297091",
+      "photo_urls": []
+    },
+    {
+      "id": "297092",
+      "title": "Pleasure Drive Through Nature",
+      "latitude": 34.51516744,
+      "longitude": -93.05236365,
+      "directions": "On Hot Springs Mountain Drive, Hot Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297092",
+      "photo_urls": []
+    },
+    {
+      "id": "297173",
+      "title": "126 East Main Street",
+      "latitude": 36.31573152,
+      "longitude": -91.48176733,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297173",
+      "photo_urls": []
+    },
+    {
+      "id": "297182",
+      "title": "Veterans Memorial",
+      "latitude": 36.31552806,
+      "longitude": -91.48148247,
+      "directions": "On East Main Street (U.S. Business 63) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297182",
+      "photo_urls": []
+    },
+    {
+      "id": "297261",
+      "title": "McKissick's Spring",
+      "latitude": 36.361,
+      "longitude": -94.28472,
+      "directions": "On North Main Street, Centerton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297261",
+      "photo_urls": []
+    },
+    {
+      "id": "297389",
+      "title": "Lafe School Est. 1938",
+      "latitude": 36.20490743,
+      "longitude": -90.51115919,
+      "directions": "On Gym Street, Lafe, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297389",
+      "photo_urls": []
+    },
+    {
+      "id": "297396",
+      "title": "World War II Memorial",
+      "latitude": 33.70758787,
+      "longitude": -94.39338035,
+      "directions": "Near South Madden Street (State Route 32/41) , Foreman, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297396",
+      "photo_urls": []
+    },
+    {
       "id": "30388",
       "title": "Herman Davis",
       "latitude": 35.873199,
@@ -15246,7 +15660,7 @@
     },
     {
       "id": "57916",
-      "title": "Confederate [and] Union Occupation of Fort Smith",
+      "title": "Confederate Occupation of Fort Smith / Union Occupation of Fort Smith",
       "latitude": 35.388018,
       "longitude": -94.428721,
       "directions": "On Rogers Avenue, Fort Smith, (On the right when traveling south)",
@@ -16002,7 +16416,7 @@
     },
     {
       "id": "70557",
-      "title": "Batesville During The Civil War",
+      "title": "Batesville During the Civil War",
       "latitude": 35.772383,
       "longitude": -91.644143,
       "directions": "On South 9th Street, Batesville, (On the left when traveling north)",
