@@ -3,9 +3,9 @@
   "region_name": "New Mexico",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.562Z",
-  "source_timestamp": "2026-04-11T19:19:47.562Z",
-  "marker_count": 1549,
+  "generated": "2026-05-01T06:02:14.283Z",
+  "source_timestamp": "2026-05-01T06:02:14.283Z",
+  "marker_count": 1562,
   "markers": [
     {
       "id": "100422",
@@ -171,7 +171,7 @@
     },
     {
       "id": "119451",
-      "title": "San Felipe De Neri",
+      "title": "San Felipe de Neri",
       "latitude": 35.09638072,
       "longitude": -106.67001013,
       "directions": "On North Plaza Street NW, Albuquerque, (On the right when traveling west)",
@@ -1011,7 +1011,7 @@
       "title": "In Memory of Texas Mounted Volunteers",
       "latitude": 33.725033,
       "longitude": -107.002433,
-      "directions": "On Old U.S. Hwy 85 (State Route 1) , near San Marical, (On the right when traveling north)",
+      "directions": "On U.S. Old 85, near Tiffany, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155660",
       "photo_urls": []
     },
@@ -1755,7 +1755,7 @@
     },
     {
       "id": "180895",
-      "title": "Albuquerque POW / MIA Memorial",
+      "title": "Albuquerque POW/MIA Memorial",
       "latitude": 35.09648735,
       "longitude": -106.66991065,
       "directions": "On North Plaza Street NW, Albuquerque, (On the right when traveling west)",
@@ -2721,7 +2721,7 @@
       "title": "Pueblo of Isleta",
       "latitude": 34.90311508,
       "longitude": -106.70721674,
-      "directions": "On Coors Boulevard Southwest (State Route 45) , near Albuquerque, (On the right when traveling north)",
+      "directions": "On Coors Boulevard Southwest (State Route 45) , near Isleta, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=183765",
       "photo_urls": []
     },
@@ -4950,7 +4950,7 @@
     },
     {
       "id": "236330",
-      "title": "Grunsfeld Hubbell House",
+      "title": "Grunsfeld/Hubbell House",
       "latitude": 35.08655203,
       "longitude": -106.65780747,
       "directions": "On Copper Avenue Northwest, Albuquerque, (On the right when traveling west)",
@@ -9732,7 +9732,7 @@
       "title": "Fort Craig",
       "latitude": 33.62973558,
       "longitude": -107.01317132,
-      "directions": "Near Fort Craig Road, near San Marcial, ",
+      "directions": "Near Fort Craig Road, near Tiffany, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280244",
       "photo_urls": []
     },
@@ -10286,12 +10286,129 @@
       "photo_urls": []
     },
     {
+      "id": "292894",
+      "title": "The Luna Theatre Complex",
+      "latitude": 36.45121736,
+      "longitude": -103.18514412,
+      "directions": "On Main Street (U.S. 56/412) , Clayton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292894",
+      "photo_urls": []
+    },
+    {
+      "id": "292895",
+      "title": "Herzstein's Store",
+      "latitude": 36.4519855,
+      "longitude": -103.18395319,
+      "directions": "On Main Street (U.S. 56/412) , Clayton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292895",
+      "photo_urls": []
+    },
+    {
+      "id": "292897",
+      "title": "First Methodist Episcopal Church North",
+      "latitude": 36.4515253,
+      "longitude": -103.18254198,
+      "directions": "On South 2nd Street, Clayton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292897",
+      "photo_urls": []
+    },
+    {
+      "id": "293427",
+      "title": "Lincoln National Forest",
+      "latitude": 33.3639,
+      "longitude": -105.43613333,
+      "directions": "On Route 443, Glencoe, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293427",
+      "photo_urls": []
+    },
+    {
+      "id": "293511",
+      "title": "Tingley House",
+      "latitude": 35.07989334,
+      "longitude": -106.62959964,
+      "directions": "On Ash Street Southeast, Albuquerque, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293511",
+      "photo_urls": []
+    },
+    {
+      "id": "293516",
+      "title": "Sister Blandina Convent",
+      "latitude": 35.09652449,
+      "longitude": -106.67021555,
+      "directions": "Near North Plaza Street Northwest, Albuquerque, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293516",
+      "photo_urls": []
+    },
+    {
+      "id": "293517",
+      "title": "\"Deposition with Six Figures\"",
+      "latitude": 35.09656258,
+      "longitude": -106.66993287,
+      "directions": "Near North Plaza Street Northwest, Albuquerque, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293517",
+      "photo_urls": []
+    },
+    {
+      "id": "293602",
+      "title": "Welcome to San Miguel Church",
+      "latitude": 35.68357277,
+      "longitude": -105.93782813,
+      "directions": "On Old Santa Fe Trail, Santa Fe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293602",
+      "photo_urls": []
+    },
+    {
+      "id": "293611",
+      "title": "Welcome to Historic Fort Marcy",
+      "latitude": 35.68945143,
+      "longitude": -105.93289904,
+      "directions": "On Commemorative Walkway, Santa Fe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293611",
+      "photo_urls": []
+    },
+    {
+      "id": "293630",
+      "title": "Washington Apartments",
+      "latitude": 35.08644571,
+      "longitude": -106.65884387,
+      "directions": "On Central Avenue Southwest, Albuquerque, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293630",
+      "photo_urls": []
+    },
+    {
+      "id": "293631",
+      "title": "The Coal Avenue Viaduct",
+      "latitude": 35.08066127,
+      "longitude": -106.64982081,
+      "directions": "On 2nd Street Southwest, Albuquerque, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293631",
+      "photo_urls": []
+    },
+    {
+      "id": "293632",
+      "title": "The Orpheum Theater",
+      "latitude": 35.08017874,
+      "longitude": -106.6498918,
+      "directions": "On 2nd Street Southwest, Albuquerque, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293632",
+      "photo_urls": []
+    },
+    {
       "id": "29664",
       "title": "Rio Grande Gorge Bridge",
       "latitude": 36.475247,
       "longitude": -105.735528,
       "directions": "Near U.S. 64, near Taos, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29664",
+      "photo_urls": []
+    },
+    {
+      "id": "298145",
+      "title": "Portales Depot",
+      "latitude": 34.18617271,
+      "longitude": -103.33807211,
+      "directions": "On West 1st Street, Portales, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298145",
       "photo_urls": []
     },
     {
@@ -11055,7 +11172,7 @@
       "title": "Alameda",
       "latitude": 35.20801,
       "longitude": -106.609976,
-      "directions": "On 4th Street NW, near Albuquerque, (On the right when traveling south)",
+      "directions": "On 4th Street Northwest, near Albuquerque, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45435",
       "photo_urls": []
     },
@@ -11538,7 +11655,7 @@
     },
     {
       "id": "45829",
-      "title": "Fort Union National Monument / Santa Fe Trail",
+      "title": "Fort Union National Monument 1851-1891 / Santa Fe Trail",
       "latitude": 35.877834,
       "longitude": -104.859083,
       "directions": "Near Interstate 25, near Watrous, ",
@@ -11565,7 +11682,7 @@
     },
     {
       "id": "45889",
-      "title": "Dr. Meta L. Christy",
+      "title": "Dr. Meta L. Christy / New Mexico Historic Women Marker Initiative",
       "latitude": 35.597942,
       "longitude": -105.213616,
       "directions": "On Grand Avenue, Las Vegas, (On the right when traveling south)",
@@ -12402,7 +12519,7 @@
     },
     {
       "id": "62066",
-      "title": "Abo Ruins",
+      "title": "Crossroads / El Cruce",
       "latitude": 34.4503,
       "longitude": -106.3748,
       "directions": "On Abo Ruins Road, Mountainair, ",
