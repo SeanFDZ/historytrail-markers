@@ -3,13 +3,13 @@
   "region_name": "West Virginia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:23:46.447Z",
-  "source_timestamp": "2026-04-11T19:23:46.448Z",
-  "marker_count": 3956,
+  "generated": "2026-05-01T06:02:14.304Z",
+  "source_timestamp": "2026-05-01T06:02:14.304Z",
+  "marker_count": 4019,
   "markers": [
     {
       "id": "100004",
-      "title": "Unknown Soldiers/ Gen. Lewis' Trace",
+      "title": "Unknown Soldiers / Gen. Lewis' Trace",
       "latitude": 37.816378,
       "longitude": -80.565344,
       "directions": "On Alta Dr (State Route 12) , near Asbury, ",
@@ -1215,7 +1215,7 @@
     },
     {
       "id": "118889",
-      "title": "West Virginia (Monroe County) / Monroe County",
+      "title": "West Virginia / Monroe County",
       "latitude": 37.397396,
       "longitude": -80.800838,
       "directions": "On U.S. 219, Peterstown, (On the right when traveling south)",
@@ -3198,7 +3198,7 @@
       "title": "“Lawnvale” / “Coin” Harvey",
       "latitude": 38.61769002,
       "longitude": -81.98072834,
-      "directions": "On , Buffalo, ",
+      "directions": "On High Street, Buffalo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=137323",
       "photo_urls": []
     },
@@ -3252,7 +3252,7 @@
       "title": "Putnam County War Memorial",
       "latitude": 38.53377666,
       "longitude": -81.892405,
-      "directions": "On , Winfield, ",
+      "directions": "On Winfield Road, Winfield, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=137351",
       "photo_urls": []
     },
@@ -4440,7 +4440,7 @@
       "title": "Nicholas County Bank",
       "latitude": 38.280997,
       "longitude": -80.850802,
-      "directions": "Near , Summersville, ",
+      "directions": "Near Main Street, Summersville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143112",
       "photo_urls": []
     },
@@ -4449,7 +4449,7 @@
       "title": "In Memory of",
       "latitude": 38.280856,
       "longitude": -80.851121,
-      "directions": "Near , Summersville, ",
+      "directions": "Near West Virginia 41, Summersville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143113",
       "photo_urls": []
     },
@@ -7608,7 +7608,7 @@
       "title": "Raleigh County Coal Mines",
       "latitude": 37.784634,
       "longitude": -81.196447,
-      "directions": "Near , Beckley, (On the left",
+      "directions": "Near Ewart Avenue, Beckley, (On the left",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=161229",
       "photo_urls": []
     },
@@ -7617,7 +7617,7 @@
       "title": "Dinky Locomotive",
       "latitude": 37.78477,
       "longitude": -81.196485,
-      "directions": "On , Beckley, ",
+      "directions": "On Ewart Avenue, Beckley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=161230",
       "photo_urls": []
     },
@@ -8127,7 +8127,7 @@
     },
     {
       "id": "164816",
-      "title": "David Morgan (1721–1813) / Patriot, Defender",
+      "title": "David Morgan / Patriot, Defender",
       "latitude": 39.47972222,
       "longitude": -80.14583333,
       "directions": "On 3rd Street (State Route 310) , Fairmont, (On the left when traveling south)",
@@ -11739,7 +11739,7 @@
       "title": "Blennerhassett Island",
       "latitude": 39.27181715,
       "longitude": -81.60078769,
-      "directions": "Near , Blennerhassett Island, ",
+      "directions": "Near no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177279",
       "photo_urls": []
     },
@@ -11748,7 +11748,7 @@
       "title": "Blennerhassett’s Cove",
       "latitude": 39.27176243,
       "longitude": -81.5985164,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177350",
       "photo_urls": []
     },
@@ -11838,7 +11838,7 @@
       "title": "Blennerhassett’s Well",
       "latitude": 39.27127723,
       "longitude": -81.60069569,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177572",
       "photo_urls": []
     },
@@ -11847,7 +11847,7 @@
       "title": "Blennerhassett Wash House",
       "latitude": 39.27128816,
       "longitude": -81.60072044,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177573",
       "photo_urls": []
     },
@@ -11865,7 +11865,7 @@
       "title": "Pleasure Garden",
       "latitude": 39.27192614,
       "longitude": -81.60073725,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177575",
       "photo_urls": []
     },
@@ -11883,7 +11883,7 @@
       "title": "Flower Bed",
       "latitude": 39.27184915,
       "longitude": -81.60098048,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177584",
       "photo_urls": []
     },
@@ -11892,7 +11892,7 @@
       "title": "Black Walnut Tree Plantation",
       "latitude": 39.27104442,
       "longitude": -81.60004369,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177631",
       "photo_urls": []
     },
@@ -11901,7 +11901,7 @@
       "title": "Blennerhassett Kitchen Garden",
       "latitude": 39.27120817,
       "longitude": -81.60079656,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177632",
       "photo_urls": []
     },
@@ -11910,7 +11910,7 @@
       "title": "Site of Tenant House and Broom Factory",
       "latitude": 39.27141418,
       "longitude": -81.60143331,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177633",
       "photo_urls": []
     },
@@ -11919,7 +11919,7 @@
       "title": "Famous Persons Who Traveled by Blennerhassett Island",
       "latitude": 39.27156456,
       "longitude": -81.60212222,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=177634",
       "photo_urls": []
     },
@@ -12009,7 +12009,7 @@
       "title": "Maze",
       "latitude": 39.27199167,
       "longitude": -81.60215499,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178088",
       "photo_urls": []
     },
@@ -12018,7 +12018,7 @@
       "title": "Hothouses",
       "latitude": 39.27232501,
       "longitude": -81.60194499,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178089",
       "photo_urls": []
     },
@@ -12027,7 +12027,7 @@
       "title": "Summerhouse",
       "latitude": 39.27240168,
       "longitude": -81.60153166,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178090",
       "photo_urls": []
     },
@@ -12036,7 +12036,7 @@
       "title": "Fishpond",
       "latitude": 39.27238833,
       "longitude": -81.60112667,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178091",
       "photo_urls": []
     },
@@ -12045,7 +12045,7 @@
       "title": "Arbors",
       "latitude": 39.27199001,
       "longitude": -81.60127831,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178092",
       "photo_urls": []
     },
@@ -12054,7 +12054,7 @@
       "title": "Paling Fence",
       "latitude": 39.27231668,
       "longitude": -81.60068169,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178093",
       "photo_urls": []
     },
@@ -12063,7 +12063,7 @@
       "title": "Site of First Blennerhassett Island Park",
       "latitude": 39.27197332,
       "longitude": -81.59954497,
-      "directions": "On , Blennerhassett Island, ",
+      "directions": "On no nearby street, Blennerhassett Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=178094",
       "photo_urls": []
     },
@@ -14556,7 +14556,7 @@
       "title": "The Pringle Tree",
       "latitude": 39.01876833,
       "longitude": -80.20749167,
-      "directions": "On , Buckhannon, ",
+      "directions": "On Pringle Tree Park Road, Buckhannon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=179579",
       "photo_urls": []
     },
@@ -16671,7 +16671,7 @@
       "title": "Leonard Stout Hall",
       "latitude": 39.667548,
       "longitude": -80.858205,
-      "directions": "On Energy Roadd (State Route 2) , New Martinsville, (On the right when traveling south)",
+      "directions": "On Energy Highway (State Route 2) , New Martinsville, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190877",
       "photo_urls": []
     },
@@ -20388,7 +20388,7 @@
       "title": "George Washington's Orders",
       "latitude": 39.50538889,
       "longitude": -78.76517778,
-      "directions": "Near , Fort Ashby, ",
+      "directions": "Near Dans Run Road, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215881",
       "photo_urls": []
     },
@@ -20397,7 +20397,7 @@
       "title": "Welcome to Ashby's Fort",
       "latitude": 39.505421,
       "longitude": -78.76529,
-      "directions": "On , Fort Ashby, ",
+      "directions": "On Silver Maple Street, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215882",
       "photo_urls": []
     },
@@ -20406,7 +20406,7 @@
       "title": "The Work Continues",
       "latitude": 39.505586,
       "longitude": -78.765341,
-      "directions": "On , Fort Ashby, ",
+      "directions": "On Silver Maple Street, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215883",
       "photo_urls": []
     },
@@ -20415,7 +20415,7 @@
       "title": "Step Back in Time",
       "latitude": 39.505491,
       "longitude": -78.765476,
-      "directions": "Near , Fort Ashby, ",
+      "directions": "Near Silver Maple Street, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215884",
       "photo_urls": []
     },
@@ -20424,7 +20424,7 @@
       "title": "Women at the Fort",
       "latitude": 39.505477,
       "longitude": -78.765433,
-      "directions": "On , Fort Ashby, ",
+      "directions": "On Silver Maple Street, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215885",
       "photo_urls": []
     },
@@ -20433,7 +20433,7 @@
       "title": "The Archaeological Evidence",
       "latitude": 39.505617,
       "longitude": -78.765409,
-      "directions": "On , Fort Ashby, ",
+      "directions": "On Silver Maple Street, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215886",
       "photo_urls": []
     },
@@ -20442,7 +20442,7 @@
       "title": "Old Fort",
       "latitude": 39.505346,
       "longitude": -78.765452,
-      "directions": "On , Fort Ashby, ",
+      "directions": "On Dans Run Road, Fort Ashby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=215888",
       "photo_urls": []
     },
@@ -25113,7 +25113,7 @@
       "title": "West Virginia Pollinators",
       "latitude": 38.44914004,
       "longitude": -81.99812198,
-      "directions": "Near , Hurricane, ",
+      "directions": "Near Interstate 64, Hurricane, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=253606",
       "photo_urls": []
     },
@@ -26067,7 +26067,7 @@
       "title": "Reverend Michael J. Fitzpatrick",
       "latitude": 40.060861,
       "longitude": -80.670932,
-      "directions": "Near , Wheeling, ",
+      "directions": "Near National Road, Wheeling, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260051",
       "photo_urls": []
     },
@@ -26076,7 +26076,7 @@
       "title": "Benwood Mine Disaster Memorial",
       "latitude": 40.06101529,
       "longitude": -80.66891929,
-      "directions": "Near , Wheeling, ",
+      "directions": "Near Wheeling Park Drive, Wheeling, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260055",
       "photo_urls": []
     },
@@ -27000,7 +27000,7 @@
     },
     {
       "id": "267928",
-      "title": "**Two Buddies & An Angel**",
+      "title": "Two Buddies & An Angel",
       "latitude": 38.9925545,
       "longitude": -80.2121231,
       "directions": "Near Wood Street, Buckhannon, (On the right when traveling north)",
@@ -27027,7 +27027,7 @@
     },
     {
       "id": "267987",
-      "title": "**Stump Lane**",
+      "title": "Stump Lane",
       "latitude": 38.99327408,
       "longitude": -80.23055903,
       "directions": "On South Kanawha Street, Buckhannon, (On the right when traveling south)",
@@ -28767,8 +28767,17 @@
       "title": "The First Line of Defense",
       "latitude": 39.32238781,
       "longitude": -77.76792022,
-      "directions": "On , Harpers Ferry, ",
+      "directions": "On Bakerton Road, Harpers Ferry, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290928",
+      "photo_urls": []
+    },
+    {
+      "id": "291098",
+      "title": "Donnally Monuments",
+      "latitude": 38.35045,
+      "longitude": -81.61483333,
+      "directions": "Near Renaissance Circle, Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291098",
       "photo_urls": []
     },
     {
@@ -28979,12 +28988,39 @@
       "photo_urls": []
     },
     {
+      "id": "292874",
+      "title": "Mills Gap",
+      "latitude": 39.38944444,
+      "longitude": -78.10972222,
+      "directions": "On Gerrardstown Road (State Route 51) , near Gerrardstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292874",
+      "photo_urls": []
+    },
+    {
       "id": "292892",
       "title": "Environmental Engineers",
       "latitude": 37.7590198,
       "longitude": -80.9050665,
       "directions": "On Sandstone Falls Boardwalk, Shady Spring, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292892",
+      "photo_urls": []
+    },
+    {
+      "id": "292917",
+      "title": "Status of Construction",
+      "latitude": 37.64257326,
+      "longitude": -80.88785287,
+      "directions": "Near Miller Avenue (State Route 20) , near Hinton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292917",
+      "photo_urls": []
+    },
+    {
+      "id": "292918",
+      "title": "Follow the River to Freedom",
+      "latitude": 37.61362002,
+      "longitude": -80.91709078,
+      "directions": "On State Route 20, near Hinton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292918",
       "photo_urls": []
     },
     {
@@ -29024,12 +29060,543 @@
       "photo_urls": []
     },
     {
+      "id": "296433",
+      "title": "Sugar Maple",
+      "latitude": 39.6470977,
+      "longitude": -79.9806155,
+      "directions": "Near Monongahela Boulevard (U.S. 19) , Morgantown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296433",
+      "photo_urls": []
+    },
+    {
+      "id": "296435",
+      "title": "West Virginia / Pennsylvania",
+      "latitude": 39.8782743,
+      "longitude": -80.5193049,
+      "directions": "On Rock Lick Road (State Route 891) , near Cameron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296435",
+      "photo_urls": []
+    },
+    {
+      "id": "296436",
+      "title": "Marshall County / Wetzel County",
+      "latitude": 39.7211663,
+      "longitude": -80.5329587,
+      "directions": "On Dragon Highway (U.S. 250) , near Littleton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296436",
+      "photo_urls": []
+    },
+    {
+      "id": "296439",
+      "title": "John K. Dobbs",
+      "latitude": 39.8264817,
+      "longitude": -80.5662314,
+      "directions": "On Railroad Street, Cameron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296439",
+      "photo_urls": []
+    },
+    {
+      "id": "296475",
+      "title": "Monongalia County / Wetzel County",
+      "latitude": 39.658863,
+      "longitude": -80.3999434,
+      "directions": "On Mason Dixon Highway (State Route 7) , near Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296475",
+      "photo_urls": []
+    },
+    {
+      "id": "296478",
+      "title": "Old Hundred",
+      "latitude": 39.6839717,
+      "longitude": -80.4591505,
+      "directions": "On Main Street (U.S. 250) , Hundred, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296478",
+      "photo_urls": []
+    },
+    {
+      "id": "296487",
+      "title": "Burton World War II Memorial",
+      "latitude": 39.66475216,
+      "longitude": -80.43099307,
+      "directions": "On Hornet Highway (State Route 7) , Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296487",
+      "photo_urls": []
+    },
+    {
+      "id": "296502",
+      "title": "Lester Delino Durbin / Thomas \"Tucker\" Conely",
+      "latitude": 39.82637509,
+      "longitude": -80.56563374,
+      "directions": "On Railroad Street, Cameron, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296502",
+      "photo_urls": []
+    },
+    {
+      "id": "296545",
+      "title": "Sandstone Cliffs",
+      "latitude": 39.6482796,
+      "longitude": -79.98386928,
+      "directions": "Near Monongahela Boulevard (U.S. 19) , Morgantown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296545",
+      "photo_urls": []
+    },
+    {
+      "id": "296547",
+      "title": "In Memory of All Veterans",
+      "latitude": 39.6426652,
+      "longitude": -80.8654539,
+      "directions": "On Main Street, New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296547",
+      "photo_urls": []
+    },
+    {
+      "id": "296551",
+      "title": "Clouston Church",
+      "latitude": 39.8482112,
+      "longitude": -80.5560483,
+      "directions": "On Dragon Highway (U.S. 250) , near Cameron, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296551",
+      "photo_urls": []
+    },
+    {
+      "id": "296616",
+      "title": "Wetzel County Vietnam Memorial",
+      "latitude": 39.64515021,
+      "longitude": -80.86473682,
+      "directions": "On North Main Street, New Martinsville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296616",
+      "photo_urls": []
+    },
+    {
+      "id": "296621",
+      "title": "White Sulphur",
+      "latitude": 37.78643333,
+      "longitude": -80.30491667,
+      "directions": "On U.S. 60, White Sulphur Springs, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296621",
+      "photo_urls": []
+    },
+    {
+      "id": "296628",
+      "title": "Wetzel County Time Capsule",
+      "latitude": 39.64035795,
+      "longitude": -80.86593175,
+      "directions": "On Main Street, New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296628",
+      "photo_urls": []
+    },
+    {
+      "id": "296631",
+      "title": "World War II Cannon",
+      "latitude": 39.64057551,
+      "longitude": -80.86591357,
+      "directions": "On Main Street, New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296631",
+      "photo_urls": []
+    },
+    {
+      "id": "296633",
+      "title": "Civil War Memorial",
+      "latitude": 39.64057673,
+      "longitude": -80.86589743,
+      "directions": "On Main Street, New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296633",
+      "photo_urls": []
+    },
+    {
+      "id": "296722",
+      "title": "Mason-Dixon Line",
+      "latitude": 39.72055524,
+      "longitude": -80.82302104,
+      "directions": "On Energy Highway (State Route 2) , Proctor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296722",
+      "photo_urls": []
+    },
+    {
+      "id": "296729",
+      "title": "Remembering the Military Fallen",
+      "latitude": 39.68269708,
+      "longitude": -80.86264126,
+      "directions": "On West Benjamin Drive, near New Martinsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296729",
+      "photo_urls": []
+    },
+    {
+      "id": "296797",
+      "title": "First Homestead Memorial",
+      "latitude": 39.9209442,
+      "longitude": -80.74514575,
+      "directions": "On Tomlinson Avenue, Moundsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296797",
+      "photo_urls": []
+    },
+    {
+      "id": "296803",
+      "title": "Kirkside",
+      "latitude": 39.91883321,
+      "longitude": -80.7432974,
+      "directions": "On Jefferson Avenue, Moundsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296803",
+      "photo_urls": []
+    },
+    {
+      "id": "296872",
+      "title": "Toy Memories",
+      "latitude": 39.92369611,
+      "longitude": -80.74263608,
+      "directions": "On 2nd Street, Moundsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296872",
+      "photo_urls": []
+    },
+    {
+      "id": "296889",
+      "title": "Marshall County World War Memorial",
+      "latitude": 39.92798842,
+      "longitude": -80.73960085,
+      "directions": "Near Jefferson Avenue (U.S. 250) , Moundsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296889",
+      "photo_urls": []
+    },
+    {
+      "id": "296905",
+      "title": "Joseph Tomlinson, Jr.",
+      "latitude": 39.92688134,
+      "longitude": -80.74074502,
+      "directions": "Near Jefferson Avenue (U.S. 250) , Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296905",
+      "photo_urls": []
+    },
+    {
+      "id": "296910",
+      "title": "West Virginia Penitentiary Moundsville-1866",
+      "latitude": 39.91676239,
+      "longitude": -80.74299214,
+      "directions": "On Jefferson Avenue, Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296910",
+      "photo_urls": []
+    },
+    {
+      "id": "296965",
+      "title": "Lincoln Theater",
+      "latitude": 39.6411687,
+      "longitude": -80.8656828,
+      "directions": "On Main Street, New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296965",
+      "photo_urls": []
+    },
+    {
+      "id": "296979",
+      "title": "The Foreman Massacre Memorial",
+      "latitude": 39.92643841,
+      "longitude": -80.74129511,
+      "directions": "Near Jefferson Avenue (U.S. 250) , Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296979",
+      "photo_urls": []
+    },
+    {
+      "id": "297022",
+      "title": "Moundsville Historic Commercial District",
+      "latitude": 39.91871838,
+      "longitude": -80.74320625,
+      "directions": "On Jefferson Avenue, Moundsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297022",
+      "photo_urls": []
+    },
+    {
+      "id": "297157",
+      "title": "Fort Henry",
+      "latitude": 40.069082,
+      "longitude": -80.724374,
+      "directions": "On Main Street (State Route 2) , Wheeling, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297157",
+      "photo_urls": []
+    },
+    {
+      "id": "297160",
+      "title": "Moundsville Historic Commercial District",
+      "latitude": 39.92351933,
+      "longitude": -80.7428993,
+      "directions": "On Jefferson Avenue, Moundsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297160",
+      "photo_urls": []
+    },
+    {
+      "id": "297175",
+      "title": "Historic Mount Rose Cemetery",
+      "latitude": 39.92646139,
+      "longitude": -80.74204135,
+      "directions": "On Jefferson Avenue (U.S. 250) , Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297175",
+      "photo_urls": []
+    },
+    {
+      "id": "297181",
+      "title": "Faith During War",
+      "latitude": 38.04989078,
+      "longitude": -81.10003255,
+      "directions": "On Rotan Street (Local Route 19/15) , Fayetteville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297181",
+      "photo_urls": []
+    },
+    {
       "id": "29733",
       "title": "Boaz Fleming",
       "latitude": 39.4847,
       "longitude": -80.1434,
       "directions": "On Adams Street, Fairmont, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29733",
+      "photo_urls": []
+    },
+    {
+      "id": "297724",
+      "title": "Indian Burial Mound",
+      "latitude": 39.56168949,
+      "longitude": -78.11011709,
+      "directions": "On Winter Camp Trail, near Hedgesville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297724",
+      "photo_urls": []
+    },
+    {
+      "id": "298236",
+      "title": "St. Francis Xavier Roman Catholic Church",
+      "latitude": 39.91882307,
+      "longitude": -80.742984,
+      "directions": "On Jefferson Avenue, Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298236",
+      "photo_urls": []
+    },
+    {
+      "id": "298272",
+      "title": "The First Christian Church",
+      "latitude": 39.9184993,
+      "longitude": -80.74300531,
+      "directions": "On Jefferson Avenue, Moundsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298272",
+      "photo_urls": []
+    },
+    {
+      "id": "298315",
+      "title": "Williams Cemetery",
+      "latitude": 39.66842849,
+      "longitude": -80.85854713,
+      "directions": "On Energy Highway (State Route 2) , New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298315",
+      "photo_urls": []
+    },
+    {
+      "id": "298317",
+      "title": "New Martinsville's Oldest Cemetery",
+      "latitude": 39.66842718,
+      "longitude": -80.85853745,
+      "directions": "On Energy Highway (State Route 2) , New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298317",
+      "photo_urls": []
+    },
+    {
+      "id": "298320",
+      "title": "Lowther and Cox",
+      "latitude": 39.66843131,
+      "longitude": -80.85852532,
+      "directions": "On Energy Highway (State Route 2) , New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298320",
+      "photo_urls": []
+    },
+    {
+      "id": "298383",
+      "title": "Rehoboth Church",
+      "latitude": 37.58967938,
+      "longitude": -80.50636809,
+      "directions": "On Rehoboth Church Road (County Route 3/8) , near Union, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298383",
+      "photo_urls": []
+    },
+    {
+      "id": "298448",
+      "title": "Veterans Memorial",
+      "latitude": 37.79529167,
+      "longitude": -80.30045278,
+      "directions": "On Main Street East (Route 60) , White Sulphur Springs, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298448",
+      "photo_urls": []
+    },
+    {
+      "id": "298449",
+      "title": "Greenbrier River Watershed",
+      "latitude": 37.78221111,
+      "longitude": -80.39895,
+      "directions": "On Midland Trail East (U.S. 60) , near Caldwell, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298449",
+      "photo_urls": []
+    },
+    {
+      "id": "298452",
+      "title": "Leslee McCarty",
+      "latitude": 37.78220278,
+      "longitude": -80.39874167,
+      "directions": "On Midland Trail East (U.S. 60) , Caldwell, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298452",
+      "photo_urls": []
+    },
+    {
+      "id": "298453",
+      "title": "Lewis Theatre",
+      "latitude": 37.80283975,
+      "longitude": -80.44594723,
+      "directions": "On North Court Street, Lewisburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298453",
+      "photo_urls": []
+    },
+    {
+      "id": "298455",
+      "title": "Historic Stepping Stones",
+      "latitude": 37.803075,
+      "longitude": -80.44788333,
+      "directions": "On Washington Street West (U.S. 60) , Lewisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298455",
+      "photo_urls": []
+    },
+    {
+      "id": "298476",
+      "title": "Virginia Supreme Court Library",
+      "latitude": 37.80315,
+      "longitude": -80.44802778,
+      "directions": "On Washington Street West (Route 60) , Lewisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298476",
+      "photo_urls": []
+    },
+    {
+      "id": "298510",
+      "title": "The Strand Theatre",
+      "latitude": 39.92022162,
+      "longitude": -80.74313539,
+      "directions": "On 5th Street, Moundsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298510",
+      "photo_urls": []
+    },
+    {
+      "id": "298520",
+      "title": "History of Lewisburg / North House Grounds",
+      "latitude": 37.802975,
+      "longitude": -80.44824167,
+      "directions": "On Washington Street West (U.S. 60) , Lewisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298520",
+      "photo_urls": []
+    },
+    {
+      "id": "298521",
+      "title": "Dooryard Garden",
+      "latitude": 37.803025,
+      "longitude": -80.44830278,
+      "directions": "Near Washington Street West (U.S. 60) , Lewisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298521",
+      "photo_urls": []
+    },
+    {
+      "id": "298522",
+      "title": "Greenbrier College for Women",
+      "latitude": 37.80276389,
+      "longitude": -80.44830278,
+      "directions": "On Washington Street West (U.S. 60) , Lewisburg, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298522",
+      "photo_urls": []
+    },
+    {
+      "id": "298523",
+      "title": "Dick Pointer Monument",
+      "latitude": 37.80128783,
+      "longitude": -80.44905815,
+      "directions": "On Church Street, Lewisburg, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298523",
+      "photo_urls": []
+    },
+    {
+      "id": "298524",
+      "title": "Josh Polan and the Riverbed Nursery Team",
+      "latitude": 37.80176111,
+      "longitude": -80.44583889,
+      "directions": "On Church Street, Lewisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298524",
+      "photo_urls": []
+    },
+    {
+      "id": "298525",
+      "title": "Coach Howard M. \"Toddy\" Loudin",
+      "latitude": 37.74520178,
+      "longitude": -80.46605076,
+      "directions": "On Island Park Road, Ronceverte, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298525",
+      "photo_urls": []
+    },
+    {
+      "id": "298526",
+      "title": "Union, West Virginia",
+      "latitude": 37.59507206,
+      "longitude": -80.54344987,
+      "directions": "On Seneca Trail North (U.S. 219) , Union, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298526",
+      "photo_urls": []
+    },
+    {
+      "id": "298527",
+      "title": "Confederate Memorial",
+      "latitude": 37.59558611,
+      "longitude": -80.54398333,
+      "directions": "On Main Street, Union, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298527",
+      "photo_urls": []
+    },
+    {
+      "id": "298531",
+      "title": "Ames Methodist Episcopal Church",
+      "latitude": 37.59158056,
+      "longitude": -80.54236667,
+      "directions": "On North Street (State Route 3) , Union, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298531",
+      "photo_urls": []
+    },
+    {
+      "id": "298536",
+      "title": "Bishop Matthew W. Clair, Sr.",
+      "latitude": 37.59155556,
+      "longitude": -80.54258056,
+      "directions": "On North Street (State Route 3) , Union, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298536",
+      "photo_urls": []
+    },
+    {
+      "id": "298539",
+      "title": "Vietnam Memorial",
+      "latitude": 37.59132253,
+      "longitude": -80.54346073,
+      "directions": "On North Street (State Route 3) , Union, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298539",
+      "photo_urls": []
+    },
+    {
+      "id": "298540",
+      "title": "Veterans Memorial",
+      "latitude": 37.59133722,
+      "longitude": -80.54346401,
+      "directions": "On North Street (State Route 3) , Union, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298540",
+      "photo_urls": []
+    },
+    {
+      "id": "298541",
+      "title": "Monroe Garden Club",
+      "latitude": 37.59107132,
+      "longitude": -80.54345603,
+      "directions": "On Nota Street, Union, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298541",
+      "photo_urls": []
+    },
+    {
+      "id": "298641",
+      "title": "233-239 Jefferson Avenue",
+      "latitude": 39.92292429,
+      "longitude": -80.74291167,
+      "directions": "On Jefferson Avenue, Moundsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298641",
       "photo_urls": []
     },
     {
@@ -30972,7 +31539,7 @@
       "title": "Harrisville",
       "latitude": 39.283759,
       "longitude": -80.968916,
-      "directions": "On , Harrisville, ",
+      "directions": "On West Myles Avenue, Harrisville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50353",
       "photo_urls": []
     },
@@ -31926,7 +32493,7 @@
       "title": "Union College",
       "latitude": 37.5897,
       "longitude": -80.5418,
-      "directions": "On South Street, Union, ",
+      "directions": "On South Street, Union, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59266",
       "photo_urls": []
     },
@@ -31935,16 +32502,16 @@
       "title": "Rehoboth Church",
       "latitude": 37.58814,
       "longitude": -80.50792,
-      "directions": "On State Route 3, Union, ",
+      "directions": "On State Route 3, near Union, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59267",
       "photo_urls": []
     },
     {
       "id": "59269",
       "title": "Union, Western Virginia",
-      "latitude": 37.5961,
-      "longitude": -80.5435,
-      "directions": "Near 5th Street (U.S. 219) , Union, (On the right when traveling north)",
+      "latitude": 37.59507299,
+      "longitude": -80.54344922,
+      "directions": "Near Main Street (U.S. 219) , Union, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59269",
       "photo_urls": []
     },
@@ -32313,7 +32880,7 @@
       "title": "Salt Sands",
       "latitude": 39.112725,
       "longitude": -79.48226944,
-      "directions": "Near , near Davis, ",
+      "directions": "Near Canyon Point Road, near Davis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69720",
       "photo_urls": []
     },
@@ -33744,7 +34311,7 @@
       "title": "<i>Mortality</i>",
       "latitude": 37.80159423,
       "longitude": -81.216804,
-      "directions": "Near , near Beckley, ",
+      "directions": "Near Tamarack Place, near Beckley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=75073",
       "photo_urls": []
     },
@@ -33807,7 +34374,7 @@
       "title": "From Agriculture to Mining",
       "latitude": 37.801947,
       "longitude": -81.216435,
-      "directions": "Near , near Beckley, ",
+      "directions": "Near Tamarack Place, near Beckley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=75144",
       "photo_urls": []
     },
@@ -33825,7 +34392,7 @@
       "title": "The Indian Path",
       "latitude": 37.801947,
       "longitude": -81.216435,
-      "directions": "Near , near Beckley, ",
+      "directions": "Near Tamarack Place, near Beckley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=75165",
       "photo_urls": []
     },
