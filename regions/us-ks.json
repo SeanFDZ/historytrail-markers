@@ -3,9 +3,9 @@
   "region_name": "Kansas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:04.175Z",
-  "source_timestamp": "2026-04-11T19:15:04.175Z",
-  "marker_count": 2756,
+  "generated": "2026-05-01T06:02:14.230Z",
+  "source_timestamp": "2026-05-01T06:02:14.230Z",
+  "marker_count": 2770,
   "markers": [
     {
       "id": "100063",
@@ -21,7 +21,7 @@
       "title": "Opening the Floodgates",
       "latitude": 38.968438,
       "longitude": -94.699375,
-      "directions": "Near , Overland Park, ",
+      "directions": "Near West 88th Terrace, Overland Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=100228",
       "photo_urls": []
     },
@@ -30,7 +30,7 @@
       "title": "Voices from the Trail",
       "latitude": 38.968437,
       "longitude": -94.699354,
-      "directions": "Near , Overland Park, ",
+      "directions": "Near West 88th Terrace, Overland Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=100260",
       "photo_urls": []
     },
@@ -39,7 +39,7 @@
       "title": "Two Routes from Westport",
       "latitude": 38.968436,
       "longitude": -94.699336,
-      "directions": "Near , Overland Park, ",
+      "directions": "Near West 88th Terrace, Overland Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=100264",
       "photo_urls": []
     },
@@ -48,7 +48,7 @@
       "title": "Wagons and Coaches... ...to Trains and Planes",
       "latitude": 38.968435,
       "longitude": -94.699317,
-      "directions": "Near , Overland Park, ",
+      "directions": "Near West 88th Terrace, Overland Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=100267",
       "photo_urls": []
     },
@@ -102,7 +102,7 @@
       "title": "Confederate Flag",
       "latitude": 37.689871,
       "longitude": -97.34422,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=107792",
       "photo_urls": []
     },
@@ -162,7 +162,7 @@
     },
     {
       "id": "116815",
-      "title": "In Memory of The Soldiers",
+      "title": "1st Regiment Kansas Colored Volunteers",
       "latitude": 37.821989,
       "longitude": -94.69267,
       "directions": "Near East National Avenue, Fort Scott, ",
@@ -228,7 +228,7 @@
       "title": "Ichabod Washburn",
       "latitude": 39.03504,
       "longitude": -95.70214,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest Jewell Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119078",
       "photo_urls": []
     },
@@ -282,7 +282,7 @@
       "title": "The Iowa, Sac and Fox Mission",
       "latitude": 39.864001,
       "longitude": -95.229482,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121796",
       "photo_urls": []
     },
@@ -408,7 +408,7 @@
       "title": "Safety Follows Wisdom",
       "latitude": 37.69896563,
       "longitude": -95.45684786,
-      "directions": "Near , Chanute, ",
+      "directions": "Near North Santa Fe Avenue, Chanute, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=128642",
       "photo_urls": []
     },
@@ -2154,7 +2154,7 @@
       "title": "Elm Grove Campground",
       "latitude": 38.82543333,
       "longitude": -94.83431667,
-      "directions": "On Old US-Highway 56, Olathe, (On the right when traveling west)",
+      "directions": "On U.S. Old 56, Olathe, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=20093",
       "photo_urls": []
     },
@@ -2226,7 +2226,7 @@
       "title": "Rest for the Weary",
       "latitude": 38.89173333,
       "longitude": -94.80125,
-      "directions": "On , Olathe, (On the right when traveling west)",
+      "directions": "On East Kansas City Road, Olathe, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=20096",
       "photo_urls": []
     },
@@ -3342,7 +3342,7 @@
       "title": "Pleasant View Veterans' Memorial",
       "latitude": 39.01941667,
       "longitude": -94.72301667,
-      "directions": "Near , Shawnee, ",
+      "directions": "Near Quivira Road, Shawnee, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21686",
       "photo_urls": []
     },
@@ -4170,7 +4170,7 @@
       "title": "Arkansas River Crossing",
       "latitude": 37.543732,
       "longitude": -97.27478,
-      "directions": "On , Derby, ",
+      "directions": "On West Washington Street, Derby, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=253096",
       "photo_urls": []
     },
@@ -5286,7 +5286,7 @@
       "title": "Fort Leavenworth National Cemetery",
       "latitude": 39.35143844,
       "longitude": -94.92960428,
-      "directions": "Near , Fort Leavenworth, ",
+      "directions": "Near Pacemaker, Fort Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286479",
       "photo_urls": []
     },
@@ -5313,7 +5313,7 @@
       "title": "Berlin Wall Memorial",
       "latitude": 39.34538352,
       "longitude": -94.91798473,
-      "directions": "Near , Fort Leavenworth, ",
+      "directions": "Near Stimson Avenue, Fort Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286538",
       "photo_urls": []
     },
@@ -5322,7 +5322,7 @@
       "title": "Grove of the Regiments",
       "latitude": 39.34525072,
       "longitude": -94.91829752,
-      "directions": "Near , Fort Leavenworth, ",
+      "directions": "Near Stimson Avenue, Fort Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286546",
       "photo_urls": []
     },
@@ -5331,7 +5331,7 @@
       "title": "From Farms to Suburbs: <i>Land in Transition</i>",
       "latitude": 38.96317306,
       "longitude": -94.64779336,
-      "directions": "Near , Prairie Village, ",
+      "directions": "Near Nall Avenue, Prairie Village, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286644",
       "photo_urls": []
     },
@@ -5340,7 +5340,7 @@
       "title": "Meadowbrook Park",
       "latitude": 38.96307501,
       "longitude": -94.64774613,
-      "directions": "Near , Prairie Village, ",
+      "directions": "Near Nall Avenue, Prairie Village, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286705",
       "photo_urls": []
     },
@@ -5349,7 +5349,7 @@
       "title": "Leavenworth National Cemetery",
       "latitude": 39.27615234,
       "longitude": -94.89090304,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Lakeside Drive, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286846",
       "photo_urls": []
     },
@@ -5358,7 +5358,7 @@
       "title": "War Memorial",
       "latitude": 39.27610587,
       "longitude": -94.89094911,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Lakeside Drive, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286856",
       "photo_urls": []
     },
@@ -5367,7 +5367,7 @@
       "title": "Western Branch - National Home for Disabled Volunteer Soldiers",
       "latitude": 39.27603301,
       "longitude": -94.89100299,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Lakeside Drive, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286873",
       "photo_urls": []
     },
@@ -5376,7 +5376,7 @@
       "title": "Fourth Marine Division",
       "latitude": 39.27445146,
       "longitude": -94.89063921,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cemetery Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286924",
       "photo_urls": []
     },
@@ -5394,7 +5394,7 @@
       "title": "Grand Army of the Republic/Woman's Relief Corps Memorial",
       "latitude": 39.27180094,
       "longitude": -94.88967059,
-      "directions": "Near , Lansing, ",
+      "directions": "Near Highway Terrace, Lansing, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286930",
       "photo_urls": []
     },
@@ -5421,7 +5421,7 @@
       "title": "A National Cemetery System",
       "latitude": 39.27556877,
       "longitude": -94.886048,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cemetery Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286986",
       "photo_urls": []
     },
@@ -5430,7 +5430,7 @@
       "title": "Address by President Lincoln",
       "latitude": 39.27555767,
       "longitude": -94.88597493,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near South Obelisk Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286991",
       "photo_urls": []
     },
@@ -5439,7 +5439,7 @@
       "title": "Carillon Memorial",
       "latitude": 39.27560126,
       "longitude": -94.886127,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cemetery Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286992",
       "photo_urls": []
     },
@@ -5448,7 +5448,7 @@
       "title": "Soldiers and Sailors Monument",
       "latitude": 39.27582388,
       "longitude": -94.88500968,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near East Obelisk Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286996",
       "photo_urls": []
     },
@@ -5457,7 +5457,7 @@
       "title": "Thomas Brennan",
       "latitude": 39.27464427,
       "longitude": -94.88429703,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near South Obelisk Road, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=287002",
       "photo_urls": []
     },
@@ -5466,7 +5466,7 @@
       "title": "Memorial Rostrum",
       "latitude": 39.27598197,
       "longitude": -94.88824063,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cooke, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=287024",
       "photo_urls": []
     },
@@ -5759,6 +5759,132 @@
       "photo_urls": []
     },
     {
+      "id": "294693",
+      "title": "\"Trails\"",
+      "latitude": 39.31699806,
+      "longitude": -94.91658261,
+      "directions": "On Cherokee Street, Leavenworth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294693",
+      "photo_urls": []
+    },
+    {
+      "id": "294694",
+      "title": "\"Taming the West\"",
+      "latitude": 39.31847109,
+      "longitude": -94.91213626,
+      "directions": "On Delaware Street, Leavenworth, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294694",
+      "photo_urls": []
+    },
+    {
+      "id": "294716",
+      "title": "\"In Honor of the Military\"",
+      "latitude": 39.31867548,
+      "longitude": -94.91767222,
+      "directions": "On Shawnee Street, Leavenworth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294716",
+      "photo_urls": []
+    },
+    {
+      "id": "294720",
+      "title": "\"Kansas Flag\"",
+      "latitude": 39.27017486,
+      "longitude": -94.89963467,
+      "directions": "On 4th Street (U.S. 73) , Leavenworth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294720",
+      "photo_urls": []
+    },
+    {
+      "id": "294721",
+      "title": "City Hall Bell",
+      "latitude": 39.19643998,
+      "longitude": -95.20821188,
+      "directions": "On Union Street (State Route 92) , McLouth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294721",
+      "photo_urls": []
+    },
+    {
+      "id": "294727",
+      "title": "Veterans Memorial",
+      "latitude": 39.19634903,
+      "longitude": -95.20807714,
+      "directions": "On Union Street (State Route 92) , McLouth, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294727",
+      "photo_urls": []
+    },
+    {
+      "id": "294750",
+      "title": "Ft. Leavenworth - Ft. Scott Military Road",
+      "latitude": 39.3182,
+      "longitude": -94.92123496,
+      "directions": "On Shawnee Street, Leavenworth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294750",
+      "photo_urls": []
+    },
+    {
+      "id": "294751",
+      "title": "\"Life on the River\"",
+      "latitude": 39.31788108,
+      "longitude": -94.92257018,
+      "directions": "On Shawnee Street, Leavenworth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294751",
+      "photo_urls": []
+    },
+    {
+      "id": "294752",
+      "title": "Ft. Leavenworth - Ft. Scott Military Road",
+      "latitude": 39.2377562,
+      "longitude": -94.90746526,
+      "directions": "On 4-H Road, Lansing, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294752",
+      "photo_urls": []
+    },
+    {
+      "id": "294753",
+      "title": "\"Kansas Central Railway 1871-1890/Fallen Flags\"",
+      "latitude": 39.23741775,
+      "longitude": -94.89964304,
+      "directions": "On Main Street (U.S. 73) , Lansing, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294753",
+      "photo_urls": []
+    },
+    {
+      "id": "294754",
+      "title": "\"Women of the West\"",
+      "latitude": 39.28230129,
+      "longitude": -94.9053332,
+      "directions": "Near South 4th Street, Leavenworth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294754",
+      "photo_urls": []
+    },
+    {
+      "id": "294756",
+      "title": "\"Sunrise to Sunset: Ad Astra per Aspera\"",
+      "latitude": 39.30644517,
+      "longitude": -94.91767866,
+      "directions": "On 5th Avenue, Leavenworth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294756",
+      "photo_urls": []
+    },
+    {
+      "id": "294814",
+      "title": "Lincoln Steps",
+      "latitude": 39.306465,
+      "longitude": -94.917811,
+      "directions": "On 5th Avenue, Leavenworth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294814",
+      "photo_urls": []
+    },
+    {
+      "id": "294837",
+      "title": "The Vories House",
+      "latitude": 39.307934,
+      "longitude": -94.91763155,
+      "directions": "On 5th Avenue, Leavenworth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294837",
+      "photo_urls": []
+    },
+    {
       "id": "30410",
       "title": "Melvin \"Tubby\" Millar Memorial",
       "latitude": 39.561536,
@@ -5925,7 +6051,7 @@
       "title": "Sounds along the byway...auto, trucks and buses.",
       "latitude": 38.258714,
       "longitude": -94.671866,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near Kansas 52, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33934",
       "photo_urls": []
     },
@@ -5934,7 +6060,7 @@
       "title": "Sounds along the byway...fur traders bringing their goods.",
       "latitude": 38.258855,
       "longitude": -94.671858,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near Kansas 52, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33936",
       "photo_urls": []
     },
@@ -5943,7 +6069,7 @@
       "title": "Sounds along the byway...saws, picks and axes.",
       "latitude": 38.259017,
       "longitude": -94.671933,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near Kansas 52, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33939",
       "photo_urls": []
     },
@@ -5952,7 +6078,7 @@
       "title": "Sounds along the roadway...soldiers on the move.",
       "latitude": 38.259097,
       "longitude": -94.671853,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near Kansas 52, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33940",
       "photo_urls": []
     },
@@ -5961,7 +6087,7 @@
       "title": "Sounds along the byway...anxiety and anticipation in the creak of wagon wheels.",
       "latitude": 38.259265,
       "longitude": -94.671654,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near North 4th Street, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33942",
       "photo_urls": []
     },
@@ -5970,7 +6096,7 @@
       "title": "Sounds from the past...hoof beats and heartbeats.",
       "latitude": 38.259244,
       "longitude": -94.671485,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near North 4th Street, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33944",
       "photo_urls": []
     },
@@ -5979,7 +6105,7 @@
       "title": "Sounds of the byway...moccasins and tears.",
       "latitude": 38.259242,
       "longitude": -94.671314,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near North 4th Street, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33946",
       "photo_urls": []
     },
@@ -6033,7 +6159,7 @@
       "title": "Roads To The West",
       "latitude": 38.822502,
       "longitude": -94.83027,
-      "directions": "Near , Olathe, ",
+      "directions": "Near West 167th Street, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34340",
       "photo_urls": []
     },
@@ -6042,7 +6168,7 @@
       "title": "A Most Desirable Spot For Camping",
       "latitude": 38.822479,
       "longitude": -94.830268,
-      "directions": "Near , Olathe, ",
+      "directions": "Near West 167th Street, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34342",
       "photo_urls": []
     },
@@ -6051,7 +6177,7 @@
       "title": "The Travelers",
       "latitude": 38.82245,
       "longitude": -94.830291,
-      "directions": "Near , Olathe, ",
+      "directions": "Near West 167th Street, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34355",
       "photo_urls": []
     },
@@ -6060,7 +6186,7 @@
       "title": "Trail Campground..To Farm..To Park",
       "latitude": 38.822441,
       "longitude": -94.830319,
-      "directions": "Near , Olathe, ",
+      "directions": "Near West 167th Street, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34357",
       "photo_urls": []
     },
@@ -6087,7 +6213,7 @@
       "title": "Check that Cornfield",
       "latitude": 38.892338,
       "longitude": -94.800329,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34460",
       "photo_urls": []
     },
@@ -6096,7 +6222,7 @@
       "title": "Westward Ho!",
       "latitude": 38.892354,
       "longitude": -94.800535,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34470",
       "photo_urls": []
     },
@@ -6105,7 +6231,7 @@
       "title": "There's No Roost Like Home",
       "latitude": 38.892257,
       "longitude": -94.801059,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34472",
       "photo_urls": []
     },
@@ -6114,7 +6240,7 @@
       "title": "Fast Food",
       "latitude": 38.891962,
       "longitude": -94.801292,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34496",
       "photo_urls": []
     },
@@ -6123,7 +6249,7 @@
       "title": "Home Sweet Home",
       "latitude": 38.891875,
       "longitude": -94.801178,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34503",
       "photo_urls": []
     },
@@ -6132,7 +6258,7 @@
       "title": "State Your Business...",
       "latitude": 38.891957,
       "longitude": -94.80139,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34504",
       "photo_urls": []
     },
@@ -6141,7 +6267,7 @@
       "title": "Stagecoach Drivers",
       "latitude": 38.891987,
       "longitude": -94.801408,
-      "directions": "On , Olathe, ",
+      "directions": "On East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34507",
       "photo_urls": []
     },
@@ -6150,7 +6276,7 @@
       "title": "Workin' For a Living",
       "latitude": 38.892039,
       "longitude": -94.801717,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34514",
       "photo_urls": []
     },
@@ -6159,7 +6285,7 @@
       "title": "Not So Little A Farm On the Prairie...",
       "latitude": 38.892058,
       "longitude": -94.801715,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34529",
       "photo_urls": []
     },
@@ -6168,7 +6294,7 @@
       "title": "A Survivor",
       "latitude": 38.892167,
       "longitude": -94.801602,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34542",
       "photo_urls": []
     },
@@ -6177,7 +6303,7 @@
       "title": "Pit Stop",
       "latitude": 38.892214,
       "longitude": -94.801504,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34546",
       "photo_urls": []
     },
@@ -6186,7 +6312,7 @@
       "title": "Up In Smoke",
       "latitude": 38.892243,
       "longitude": -94.801294,
-      "directions": "Near , Olathe, ",
+      "directions": "Near East Kansas City Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34549",
       "photo_urls": []
     },
@@ -6204,7 +6330,7 @@
       "title": "Garden of Memories Veterans Memorial",
       "latitude": 37.508481,
       "longitude": -94.706703,
-      "directions": "Near , Pittsburg, ",
+      "directions": "Near South 69 Highway, Pittsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34599",
       "photo_urls": []
     },
@@ -6231,7 +6357,7 @@
       "title": "Helm American Legion Post 182 Veterans Memorial",
       "latitude": 37.507934,
       "longitude": -94.706231,
-      "directions": "Near , Pittsburg, ",
+      "directions": "Near South 69 Highway, Pittsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34649",
       "photo_urls": []
     },
@@ -6249,7 +6375,7 @@
       "title": "1932 Plymouth 0-6-0 Switch Engine",
       "latitude": 37.277126,
       "longitude": -94.868,
-      "directions": "Near , Carona, ",
+      "directions": "Near Northwest 20th Street, Carona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34696",
       "photo_urls": []
     },
@@ -6258,7 +6384,7 @@
       "title": "Southern Pacific Bay Window Caboose",
       "latitude": 37.277205,
       "longitude": -94.867933,
-      "directions": "Near , Carona, ",
+      "directions": "Near Northwest 20th Street, Carona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34710",
       "photo_urls": []
     },
@@ -6825,7 +6951,7 @@
       "title": "Miner's Memorial",
       "latitude": 37.273634,
       "longitude": -94.939883,
-      "directions": "Near , near West Mineral, ",
+      "directions": "Near Northwest 60th Street, near West Mineral, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39738",
       "photo_urls": []
     },
@@ -6834,7 +6960,7 @@
       "title": "Fire Bell",
       "latitude": 37.273628,
       "longitude": -94.939848,
-      "directions": "Near , near West Mineral, ",
+      "directions": "Near Northwest 60th Street, near West Mineral, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39740",
       "photo_urls": []
     },
@@ -6843,7 +6969,7 @@
       "title": "40 Cubic Yard Dipper",
       "latitude": 37.273733,
       "longitude": -94.939779,
-      "directions": "Near , near West Mineral, ",
+      "directions": "Near Northwest 60th Street, near West Mineral, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39741",
       "photo_urls": []
     },
@@ -6861,7 +6987,7 @@
       "title": "Star Cemetery / Borland Cemetery Veterans Memorial",
       "latitude": 37.277451,
       "longitude": -94.96059,
-      "directions": "Near , near West Mineral, ",
+      "directions": "Near Northwest 70th Street, near West Mineral, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39768",
       "photo_urls": []
     },
@@ -6870,7 +6996,7 @@
       "title": "Murder on the Marais des Cygnes",
       "latitude": 38.280629,
       "longitude": -94.618928,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near North Zook Lane, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39861",
       "photo_urls": []
     },
@@ -6879,7 +7005,7 @@
       "title": "Marais des Cygnes Massacre State Historic Site Trail",
       "latitude": 38.279898,
       "longitude": -94.617997,
-      "directions": "Near , near Trading Post, ",
+      "directions": "Near North Zook Lane, near Trading Post, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39862",
       "photo_urls": []
     },
@@ -6897,7 +7023,7 @@
       "title": "The Story of WuShock",
       "latitude": 38.076634,
       "longitude": -97.928575,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40004",
       "photo_urls": []
     },
@@ -6906,7 +7032,7 @@
       "title": "Wildcat Evolution",
       "latitude": 38.076636,
       "longitude": -97.928551,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40005",
       "photo_urls": []
     },
@@ -6915,7 +7041,7 @@
       "title": "Gus Gorilla",
       "latitude": 38.076636,
       "longitude": -97.928535,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40010",
       "photo_urls": []
     },
@@ -6924,7 +7050,7 @@
       "title": "Victor E. Tiger",
       "latitude": 38.076639,
       "longitude": -97.928478,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40029",
       "photo_urls": []
     },
@@ -6933,7 +7059,7 @@
       "title": "The Legend of Corky the Hornet",
       "latitude": 38.076641,
       "longitude": -97.928411,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40032",
       "photo_urls": []
     },
@@ -6942,7 +7068,7 @@
       "title": "The University of Kansas Jayhawk",
       "latitude": 38.076645,
       "longitude": -97.928342,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near Grandstand Avenue, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40037",
       "photo_urls": []
     },
@@ -7059,7 +7185,7 @@
       "title": "Siegrist Claim House, 1876",
       "latitude": 38.050412,
       "longitude": -97.929229,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near East Avenue A, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40084",
       "photo_urls": []
     },
@@ -7068,7 +7194,7 @@
       "title": "Windmills",
       "latitude": 38.050385,
       "longitude": -97.929227,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near East Avenue A, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40093",
       "photo_urls": []
     },
@@ -7077,7 +7203,7 @@
       "title": "Outhouses",
       "latitude": 38.050313,
       "longitude": -97.929162,
-      "directions": "Near , Hutchinson, ",
+      "directions": "Near East Avenue A, Hutchinson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40094",
       "photo_urls": []
     },
@@ -7131,7 +7257,7 @@
       "title": "The Great Wagon Road to the Southwest",
       "latitude": 38.185219,
       "longitude": -99.218999,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K-242, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40127",
       "photo_urls": []
     },
@@ -7140,7 +7266,7 @@
       "title": "A Soldier Town",
       "latitude": 38.187854,
       "longitude": -99.216852,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K156 Highway, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40157",
       "photo_urls": []
     },
@@ -7149,7 +7275,7 @@
       "title": "Doesn't Every Fort Have a Wall?",
       "latitude": 38.182552,
       "longitude": -99.220949,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K-242, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40158",
       "photo_urls": []
     },
@@ -7158,7 +7284,7 @@
       "title": "Well, Adobe Hospital and Hospital Steward's Quarters",
       "latitude": 38.183701,
       "longitude": -99.218972,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K-242, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40160",
       "photo_urls": []
     },
@@ -7167,7 +7293,7 @@
       "title": "Soldiers Who Died At Fort Larned",
       "latitude": 38.184367,
       "longitude": -99.216666,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K-242, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40162",
       "photo_urls": []
     },
@@ -7176,7 +7302,7 @@
       "title": "Third Infantry Honored Dead",
       "latitude": 38.183941,
       "longitude": -99.216328,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near Kansas Highway 156, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40180",
       "photo_urls": []
     },
@@ -7203,7 +7329,7 @@
       "title": "UH-1H Huey Helicopter",
       "latitude": 38.946825,
       "longitude": -95.683856,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast Airport Drive, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40801",
       "photo_urls": []
     },
@@ -7212,7 +7338,7 @@
       "title": "L-5 105mm Pack Howitzer",
       "latitude": 38.947152,
       "longitude": -95.683384,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast Airport Drive, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40802",
       "photo_urls": []
     },
@@ -7221,7 +7347,7 @@
       "title": "F-4D Fighter Aircraft",
       "latitude": 38.94691,
       "longitude": -95.684703,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast Airport Drive, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=40803",
       "photo_urls": []
     },
@@ -7338,7 +7464,7 @@
       "title": "Leavenworth Landing Park",
       "latitude": 39.317947,
       "longitude": -94.908459,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cherokee Street, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42138",
       "photo_urls": []
     },
@@ -7347,7 +7473,7 @@
       "title": "The Port of Leavenworth",
       "latitude": 39.317855,
       "longitude": -94.908502,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cherokee Street, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42141",
       "photo_urls": []
     },
@@ -7392,7 +7518,7 @@
       "title": "First Meeting of the Methodist Church",
       "latitude": 39.317682,
       "longitude": -94.908401,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near Cherokee Street, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42165",
       "photo_urls": []
     },
@@ -7401,7 +7527,7 @@
       "title": "Sisters of Charity",
       "latitude": 39.317296,
       "longitude": -94.908269,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near South Esplanade Street, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42166",
       "photo_urls": []
     },
@@ -7608,7 +7734,7 @@
       "title": "Dwight David Eisenhower",
       "latitude": 38.912157,
       "longitude": -97.210658,
-      "directions": "Near , Abilene, ",
+      "directions": "Near South East 4th Street, Abilene, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43941",
       "photo_urls": []
     },
@@ -7617,7 +7743,7 @@
       "title": "Historic Abilene",
       "latitude": 38.910754,
       "longitude": -97.212149,
-      "directions": "Near , Abilene, ",
+      "directions": "Near Southeast 5th Street, Abilene, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43945",
       "photo_urls": []
     },
@@ -7698,7 +7824,7 @@
       "title": "Carney Hall",
       "latitude": 37.39127,
       "longitude": -94.701475,
-      "directions": "Near , Pittsburg, ",
+      "directions": "Near South Joplin Street, Pittsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=44116",
       "photo_urls": []
     },
@@ -8085,7 +8211,7 @@
       "title": "Council Grove",
       "latitude": 38.662241,
       "longitude": -96.48832,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near Main Street, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=44940",
       "photo_urls": []
     },
@@ -8094,7 +8220,7 @@
       "title": "Neosho Crossing",
       "latitude": 38.662632,
       "longitude": -96.488722,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near Kansas 177, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=44941",
       "photo_urls": []
     },
@@ -8220,7 +8346,7 @@
       "title": "The Limestone Bank Barn",
       "latitude": 38.670067,
       "longitude": -96.449592,
-      "directions": "Near , near Council Grove, ",
+      "directions": "Near U.S. 56, near Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45041",
       "photo_urls": []
     },
@@ -8238,7 +8364,7 @@
       "title": "Mill Stone",
       "latitude": 38.665776,
       "longitude": -96.493683,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near North Mission, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45052",
       "photo_urls": []
     },
@@ -8256,7 +8382,7 @@
       "title": "The Mormon Battalion at Council Grove, Kansas",
       "latitude": 38.665671,
       "longitude": -96.493513,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near North Mission, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45056",
       "photo_urls": []
     },
@@ -8337,7 +8463,7 @@
       "title": "Seth Hays Home",
       "latitude": 38.659215,
       "longitude": -96.488526,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near Wood Street, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45142",
       "photo_urls": []
     },
@@ -8346,7 +8472,7 @@
       "title": "Seth Hays Home",
       "latitude": 38.659204,
       "longitude": -96.488489,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near Wood Street, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45143",
       "photo_urls": []
     },
@@ -8436,7 +8562,7 @@
       "title": "Field School",
       "latitude": 38.658263,
       "longitude": -96.49912,
-      "directions": "Near , Council Grove, ",
+      "directions": "Near South Adams Street, Council Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45403",
       "photo_urls": []
     },
@@ -8688,7 +8814,7 @@
       "title": "Bomber Builders",
       "latitude": 39.107229,
       "longitude": -94.868341,
-      "directions": "Near , near Bonner Springs, ",
+      "directions": "Near North 126th Street, near Bonner Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46290",
       "photo_urls": []
     },
@@ -8697,7 +8823,7 @@
       "title": "The Ethnic Communities of Wyandotte County Sesquicentennial",
       "latitude": 39.107274,
       "longitude": -94.868225,
-      "directions": "Near , near Bonner Springs, ",
+      "directions": "Near North 126th Street, near Bonner Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46296",
       "photo_urls": []
     },
@@ -8706,7 +8832,7 @@
       "title": "Kansas City, Kansas",
       "latitude": 39.107286,
       "longitude": -94.868065,
-      "directions": "Near , near Bonner Springs, ",
+      "directions": "Near North 126th Street, near Bonner Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46303",
       "photo_urls": []
     },
@@ -8715,7 +8841,7 @@
       "title": "Kansas Indian Reservations",
       "latitude": 39.107286,
       "longitude": -94.868065,
-      "directions": "Near , near Bonner Springs, ",
+      "directions": "Near North 126th Street, near Bonner Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46324",
       "photo_urls": []
     },
@@ -8733,7 +8859,7 @@
       "title": "Grinter House",
       "latitude": 39.074351,
       "longitude": -94.759316,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near South 78 Street, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46338",
       "photo_urls": []
     },
@@ -8742,7 +8868,7 @@
       "title": "In Memory of Moses Grinter",
       "latitude": 39.07431,
       "longitude": -94.759462,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near South 78 Street, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46340",
       "photo_urls": []
     },
@@ -8805,7 +8931,7 @@
       "title": "Civil War Unknown Dead",
       "latitude": 39.50991,
       "longitude": -98.552953,
-      "directions": "Near , Downs, ",
+      "directions": "Near U.S. 24, Downs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46639",
       "photo_urls": []
     },
@@ -8814,7 +8940,7 @@
       "title": "Pioneers, O Pioneers",
       "latitude": 39.509906,
       "longitude": -98.552776,
-      "directions": "Near , Downs, ",
+      "directions": "Near U.S. 24, Downs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46640",
       "photo_urls": []
     },
@@ -8949,7 +9075,7 @@
       "title": "The People of the South Wind & the Coming of the Shawnee",
       "latitude": 39.014503,
       "longitude": -94.69089,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46854",
       "photo_urls": []
     },
@@ -8958,7 +9084,7 @@
       "title": "Shawnee Friends Mission",
       "latitude": 39.014544,
       "longitude": -94.690834,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46855",
       "photo_urls": []
     },
@@ -8967,7 +9093,7 @@
       "title": "The Overland Trails",
       "latitude": 39.014554,
       "longitude": -94.690765,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46856",
       "photo_urls": []
     },
@@ -8976,7 +9102,7 @@
       "title": "The Founding of Campbellton",
       "latitude": 39.01454,
       "longitude": -94.690698,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46857",
       "photo_urls": []
     },
@@ -8994,7 +9120,7 @@
       "title": "Old Depot Museum",
       "latitude": 38.62049,
       "longitude": -95.269959,
-      "directions": "Near , Ottawa, ",
+      "directions": "Near West Tecumseh Street, Ottawa, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46884",
       "photo_urls": []
     },
@@ -9012,7 +9138,7 @@
       "title": "Merriam Park & George Kessler",
       "latitude": 39.014527,
       "longitude": -94.690626,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46898",
       "photo_urls": []
     },
@@ -9021,7 +9147,7 @@
       "title": "The Trolley Line & Hocker Grove Amusement Park",
       "latitude": 39.01454013,
       "longitude": -94.69055547,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46902",
       "photo_urls": []
     },
@@ -9030,7 +9156,7 @@
       "title": "The Bear Pit",
       "latitude": 39.01458,
       "longitude": -94.690376,
-      "directions": "On , Merriam, ",
+      "directions": "On East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46906",
       "photo_urls": []
     },
@@ -9039,7 +9165,7 @@
       "title": "Governor Landon's Acceptance",
       "latitude": 39.047619,
       "longitude": -95.678231,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46966",
       "photo_urls": []
     },
@@ -9048,7 +9174,7 @@
       "title": "Charles Curtis",
       "latitude": 39.047632,
       "longitude": -95.678227,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46967",
       "photo_urls": []
     },
@@ -9057,7 +9183,7 @@
       "title": "Kansas Veterans' Walk",
       "latitude": 39.047306,
       "longitude": -95.67836,
-      "directions": "Near , Topeka, (On the right when traveling west)",
+      "directions": "Near Southwest 10th Avenue, Topeka, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46968",
       "photo_urls": []
     },
@@ -9075,7 +9201,7 @@
       "title": "The Freedom Tree",
       "latitude": 39.047164,
       "longitude": -95.678503,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46988",
       "photo_urls": []
     },
@@ -9084,7 +9210,7 @@
       "title": "The Capitol Building",
       "latitude": 39.04771,
       "longitude": -95.679187,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46993",
       "photo_urls": []
     },
@@ -9102,7 +9228,7 @@
       "title": "The Governor's Plaque",
       "latitude": 39.04771,
       "longitude": -95.679187,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46998",
       "photo_urls": []
     },
@@ -9111,7 +9237,7 @@
       "title": "Kansas Children",
       "latitude": 39.04771,
       "longitude": -95.679187,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47000",
       "photo_urls": []
     },
@@ -9120,7 +9246,7 @@
       "title": "The Kansa Tribe",
       "latitude": 39.04771,
       "longitude": -95.679187,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47002",
       "photo_urls": []
     },
@@ -9138,7 +9264,7 @@
       "title": "Crime Victims' Rights Tree",
       "latitude": 39.047094,
       "longitude": -95.678314,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 10th Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47006",
       "photo_urls": []
     },
@@ -9183,7 +9309,7 @@
       "title": "Franklin Loomis Crane",
       "latitude": 39.040663,
       "longitude": -95.653024,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47329",
       "photo_urls": []
     },
@@ -9192,7 +9318,7 @@
       "title": "Charles Curtis",
       "latitude": 39.038697,
       "longitude": -95.65183,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast California Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47331",
       "photo_urls": []
     },
@@ -9201,7 +9327,7 @@
       "title": "Topeka Tornado Victims",
       "latitude": 39.037395,
       "longitude": -95.652513,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47334",
       "photo_urls": []
     },
@@ -9210,7 +9336,7 @@
       "title": "Henry Murphy Walsh and Every A.E.F. \"Runner\"",
       "latitude": 39.040275,
       "longitude": -95.652296,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47335",
       "photo_urls": []
     },
@@ -9219,7 +9345,7 @@
       "title": "Battle of the Blue",
       "latitude": 39.041769,
       "longitude": -95.65268,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47339",
       "photo_urls": []
     },
@@ -9228,7 +9354,7 @@
       "title": "Crawford - Capper Burial Site",
       "latitude": 39.042534,
       "longitude": -95.652965,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southeast 10th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47393",
       "photo_urls": []
     },
@@ -9345,7 +9471,7 @@
       "title": "Highland Cemetery Veterans Memorial",
       "latitude": 39.856409,
       "longitude": -95.252316,
-      "directions": "Near , Highland, ",
+      "directions": "Near Denmark Road, Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47836",
       "photo_urls": []
     },
@@ -9354,7 +9480,7 @@
       "title": "Sir Knight John W. Smith / Daniel D. Vanderslice",
       "latitude": 39.854656,
       "longitude": -95.252406,
-      "directions": "Near , Highland, ",
+      "directions": "Near Denmark Road, Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47868",
       "photo_urls": []
     },
@@ -9363,7 +9489,7 @@
       "title": "Emigrant Indians In Kansas",
       "latitude": 39.862881,
       "longitude": -95.228269,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47903",
       "photo_urls": []
     },
@@ -9372,7 +9498,7 @@
       "title": "The Missionary Movement",
       "latitude": 39.863135,
       "longitude": -95.228693,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47907",
       "photo_urls": []
     },
@@ -9381,7 +9507,7 @@
       "title": "An Agricultural Mission",
       "latitude": 39.863679,
       "longitude": -95.229153,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47923",
       "photo_urls": []
     },
@@ -9390,7 +9516,7 @@
       "title": "The Highland Presbyterian Mission",
       "latitude": 39.864015,
       "longitude": -95.229455,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47924",
       "photo_urls": []
     },
@@ -9399,7 +9525,7 @@
       "title": "A Manual Training School",
       "latitude": 39.863688,
       "longitude": -95.229168,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47925",
       "photo_urls": []
     },
@@ -9408,7 +9534,7 @@
       "title": "A Dangerous Coexistence",
       "latitude": 39.863123,
       "longitude": -95.228684,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47926",
       "photo_urls": []
     },
@@ -9417,7 +9543,7 @@
       "title": "The Closing of the Mission",
       "latitude": 39.862893,
       "longitude": -95.228278,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47928",
       "photo_urls": []
     },
@@ -9426,7 +9552,7 @@
       "title": "The Oregon-California Trail",
       "latitude": 39.86382001,
       "longitude": -95.22934332,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47930",
       "photo_urls": []
     },
@@ -9435,7 +9561,7 @@
       "title": "The Wolf River Crossing",
       "latitude": 39.863822,
       "longitude": -95.229346,
-      "directions": "On , near Highland, ",
+      "directions": "On Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47947",
       "photo_urls": []
     },
@@ -9444,7 +9570,7 @@
       "title": "Cooperation and Conflict on the Trail",
       "latitude": 39.864001,
       "longitude": -95.229482,
-      "directions": "Near , near Highland, ",
+      "directions": "Near Elgin Road, near Highland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47956",
       "photo_urls": []
     },
@@ -9570,7 +9696,7 @@
       "title": "Trails across Kansas",
       "latitude": 39.055955,
       "longitude": -95.774188,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 6th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48660",
       "photo_urls": []
     },
@@ -9579,7 +9705,7 @@
       "title": "Potawatomie Baptist Manual Labor Training School",
       "latitude": 39.056235,
       "longitude": -95.774697,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 6th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48663",
       "photo_urls": []
     },
@@ -9588,7 +9714,7 @@
       "title": "Mission Kitchen Garden",
       "latitude": 39.056371,
       "longitude": -95.774549,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 6th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48665",
       "photo_urls": []
     },
@@ -9597,7 +9723,7 @@
       "title": "Sioux Quartzite Boulder",
       "latitude": 39.056267,
       "longitude": -95.775009,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 6th Avenue, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48670",
       "photo_urls": []
     },
@@ -9813,7 +9939,7 @@
       "title": "Eisenhower Memorial",
       "latitude": 38.912174,
       "longitude": -97.209503,
-      "directions": "Near , Abilene, ",
+      "directions": "Near South Campbell Street, Abilene, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49630",
       "photo_urls": []
     },
@@ -9912,7 +10038,7 @@
       "title": "Juan de Padilla Memorial",
       "latitude": 38.674626,
       "longitude": -96.945304,
-      "directions": "Near , Herington, ",
+      "directions": "Near Broadway, Herington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49750",
       "photo_urls": []
     },
@@ -9993,7 +10119,7 @@
       "title": "Soden's Grove Bridge",
       "latitude": 38.386031,
       "longitude": -96.181725,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49805",
       "photo_urls": []
     },
@@ -10047,7 +10173,7 @@
       "title": "Alvin J. King",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49832",
       "photo_urls": []
     },
@@ -10056,7 +10182,7 @@
       "title": "Lebanon, Grenada, and Panama Veterans Memorial",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49833",
       "photo_urls": []
     },
@@ -10065,7 +10191,7 @@
       "title": "Emporia High School World War II Memorial",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49834",
       "photo_urls": []
     },
@@ -10074,7 +10200,7 @@
       "title": "Gold Star Mothers of America War Memorial",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49835",
       "photo_urls": []
     },
@@ -10083,7 +10209,7 @@
       "title": "Emporia's Mexican American Veterans Memorial",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "On , Emporia, ",
+      "directions": "On South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49836",
       "photo_urls": []
     },
@@ -10092,7 +10218,7 @@
       "title": "Colonel Edwin H. Hawes",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49837",
       "photo_urls": []
     },
@@ -10101,7 +10227,7 @@
       "title": "PFC Floyd Everett Campbell",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49839",
       "photo_urls": []
     },
@@ -10110,7 +10236,7 @@
       "title": "Lt. William I. Loomis",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49840",
       "photo_urls": []
     },
@@ -10119,7 +10245,7 @@
       "title": "Korean War Memorial",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49849",
       "photo_urls": []
     },
@@ -10128,7 +10254,7 @@
       "title": "United States Merchant Marine Veterans",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49850",
       "photo_urls": []
     },
@@ -10137,7 +10263,7 @@
       "title": "Revolutionary War Veterans",
       "latitude": 38.386472,
       "longitude": -96.181098,
-      "directions": "Near , Emporia, ",
+      "directions": "Near South Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49851",
       "photo_urls": []
     },
@@ -10155,7 +10281,7 @@
       "title": "Mary White",
       "latitude": 38.393978,
       "longitude": -96.187961,
-      "directions": "Near , Emporia, ",
+      "directions": "Near Aspen Drive, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49911",
       "photo_urls": []
     },
@@ -10164,7 +10290,7 @@
       "title": "Corky",
       "latitude": 38.413857,
       "longitude": -96.180118,
-      "directions": "Near , Emporia, ",
+      "directions": "Near Commercial Street, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49931",
       "photo_urls": []
     },
@@ -10245,7 +10371,7 @@
       "title": "Coffey County Fair",
       "latitude": 38.19004,
       "longitude": -95.73585,
-      "directions": "Near , Burlington, ",
+      "directions": "Near 3rd Street, Burlington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50093",
       "photo_urls": []
     },
@@ -10263,7 +10389,7 @@
       "title": "Louisburg Civil War Memorial",
       "latitude": 38.622208,
       "longitude": -94.684766,
-      "directions": "Near , Louisburg, ",
+      "directions": "Near Villa Lane, Louisburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50110",
       "photo_urls": []
     },
@@ -10272,7 +10398,7 @@
       "title": "Louisburg Veterans Memorial",
       "latitude": 38.62226,
       "longitude": -94.687255,
-      "directions": "Near , Louisburg, ",
+      "directions": "Near Villa Lane, Louisburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50111",
       "photo_urls": []
     },
@@ -10290,7 +10416,7 @@
       "title": "The Fort Scott Road",
       "latitude": 38.144729,
       "longitude": -94.723113,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50161",
       "photo_urls": []
     },
@@ -10299,7 +10425,7 @@
       "title": "Two Mounted Armies Collide",
       "latitude": 38.144729,
       "longitude": -94.723113,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50170",
       "photo_urls": []
     },
@@ -10308,7 +10434,7 @@
       "title": "The Beginning",
       "latitude": 37.644209,
       "longitude": -94.814458,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50186",
       "photo_urls": []
     },
@@ -10317,7 +10443,7 @@
       "title": "C.C.C. Volunteer",
       "latitude": 37.644177,
       "longitude": -94.814479,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50187",
       "photo_urls": []
     },
@@ -10326,7 +10452,7 @@
       "title": "A Brief History of the 788th Company [CCC]",
       "latitude": 37.643996,
       "longitude": -94.814836,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50189",
       "photo_urls": []
     },
@@ -10335,7 +10461,7 @@
       "title": "Work Done By Hand",
       "latitude": 37.643996,
       "longitude": -94.814836,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50190",
       "photo_urls": []
     },
@@ -10344,7 +10470,7 @@
       "title": "Hard Times",
       "latitude": 37.64375,
       "longitude": -94.814866,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near West Lake Road, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50192",
       "photo_urls": []
     },
@@ -10353,7 +10479,7 @@
       "title": "Education",
       "latitude": 37.643364,
       "longitude": -94.814731,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near West Lake Road, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50207",
       "photo_urls": []
     },
@@ -10362,7 +10488,7 @@
       "title": "The Fire Devils",
       "latitude": 37.643296,
       "longitude": -94.814576,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near West Lake Road, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50210",
       "photo_urls": []
     },
@@ -10371,7 +10497,7 @@
       "title": "The Camp of Co. 788 of the Civilian Conservation Corps",
       "latitude": 37.643561,
       "longitude": -94.814466,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near West Lake Road, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50233",
       "photo_urls": []
     },
@@ -10380,7 +10506,7 @@
       "title": "Equipment",
       "latitude": 37.643914,
       "longitude": -94.814289,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50234",
       "photo_urls": []
     },
@@ -10389,7 +10515,7 @@
       "title": "Hard Work",
       "latitude": 37.644143,
       "longitude": -94.814267,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Kansas 277, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50235",
       "photo_urls": []
     },
@@ -10398,7 +10524,7 @@
       "title": "Lake Crawford",
       "latitude": 37.645061,
       "longitude": -94.810625,
-      "directions": "Near , Crawford State Park, ",
+      "directions": "Near Lake Road, Crawford State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50236",
       "photo_urls": []
     },
@@ -10407,7 +10533,7 @@
       "title": "Education in Merriam",
       "latitude": 39.014594,
       "longitude": -94.690156,
-      "directions": "Near , Merriam, ",
+      "directions": "Near East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50579",
       "photo_urls": []
     },
@@ -10416,7 +10542,7 @@
       "title": "The South Park Community",
       "latitude": 39.014599,
       "longitude": -94.690087,
-      "directions": "Near , Merriam, ",
+      "directions": "Near East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50583",
       "photo_urls": []
     },
@@ -10425,7 +10551,7 @@
       "title": "Incorporation of Merriam",
       "latitude": 39.014591,
       "longitude": -94.690017,
-      "directions": "Near , Merriam, ",
+      "directions": "Near East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50587",
       "photo_urls": []
     },
@@ -10434,7 +10560,7 @@
       "title": "City of Firsts",
       "latitude": 39.014592,
       "longitude": -94.689947,
-      "directions": "Near , Merriam, ",
+      "directions": "Near East Frontage Road, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50603",
       "photo_urls": []
     },
@@ -10443,7 +10569,7 @@
       "title": "Community of Excellence",
       "latitude": 39.014589,
       "longitude": -94.689885,
-      "directions": "Near , Merriam, ",
+      "directions": "Near Shawnee Mission Parkway, Merriam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50608",
       "photo_urls": []
     },
@@ -10578,7 +10704,7 @@
       "title": "Lawrence Visitor Information Center",
       "latitude": 38.97845,
       "longitude": -95.234253,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near North 2nd Street, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50819",
       "photo_urls": []
     },
@@ -10587,7 +10713,7 @@
       "title": "The Douglas County Memorial of Honor",
       "latitude": 38.978213,
       "longitude": -95.234232,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near North 2nd Street, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50822",
       "photo_urls": []
     },
@@ -10695,7 +10821,7 @@
       "title": "\"My Western Home\" or \"Home on the Range\"",
       "latitude": 39.889406,
       "longitude": -98.94713,
-      "directions": "Near , near Smith Center, ",
+      "directions": "Near 90 Road, near Smith Center, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52870",
       "photo_urls": []
     },
@@ -10803,7 +10929,7 @@
       "title": "Samuel T. Carpenter",
       "latitude": 39.64741,
       "longitude": -95.069732,
-      "directions": "Near , Doniphan, ",
+      "directions": "Near Moon Light Road, Doniphan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52996",
       "photo_urls": []
     },
@@ -10830,7 +10956,7 @@
       "title": "Cherryvale War Memorial",
       "latitude": 37.27232,
       "longitude": -95.535269,
-      "directions": "Near , Cherryvale, ",
+      "directions": "Near Montgomery County Road 5700, Cherryvale, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53055",
       "photo_urls": []
     },
@@ -11055,7 +11181,7 @@
       "title": "Civil War Soldiers and Sailors Memorial",
       "latitude": 39.557977,
       "longitude": -97.66453,
-      "directions": "Near , Concordia, ",
+      "directions": "Near Cedar Street, Concordia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53398",
       "photo_urls": []
     },
@@ -11064,7 +11190,7 @@
       "title": "Davies-Crook American Legion Post 76 War Memorial",
       "latitude": 39.556662,
       "longitude": -97.664359,
-      "directions": "Near , Concordia, ",
+      "directions": "Near Campus Drive, Concordia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53405",
       "photo_urls": []
     },
@@ -11073,7 +11199,7 @@
       "title": "James Manny Hagaman",
       "latitude": 39.558589,
       "longitude": -97.664648,
-      "directions": "Near , Concordia, ",
+      "directions": "Near Cedar Street, Concordia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53407",
       "photo_urls": []
     },
@@ -11118,7 +11244,7 @@
       "title": "Waconda Springs / Glen Elder State Park",
       "latitude": 39.510307,
       "longitude": -98.34123,
-      "directions": "Near , Glen Elder State Park, ",
+      "directions": "Near 180 Road, Glen Elder State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53424",
       "photo_urls": []
     },
@@ -11289,7 +11415,7 @@
       "title": "Lewis and Clark at Kaw Point / Kaw Point",
       "latitude": 39.116403,
       "longitude": -94.611267,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53939",
       "photo_urls": []
     },
@@ -11298,7 +11424,7 @@
       "title": "\"the water…contains a half…Glass of ooze\"",
       "latitude": 39.116557,
       "longitude": -94.610578,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53941",
       "photo_urls": []
     },
@@ -11307,7 +11433,7 @@
       "title": "Homeland of the Kanza Indians",
       "latitude": 39.116536,
       "longitude": -94.61059,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53945",
       "photo_urls": []
     },
@@ -11316,7 +11442,7 @@
       "title": "Encampment at Kaw's Mouth - June 26-29, 1804",
       "latitude": 39.116515,
       "longitude": -94.610613,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53962",
       "photo_urls": []
     },
@@ -11325,7 +11451,7 @@
       "title": "The Lewis and Clark Expedition",
       "latitude": 39.116502,
       "longitude": -94.610642,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53963",
       "photo_urls": []
     },
@@ -11334,7 +11460,7 @@
       "title": "\"we determin to delay at this Place\"",
       "latitude": 39.116495,
       "longitude": -94.610681,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Fairfax Trafficway, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53964",
       "photo_urls": []
     },
@@ -11910,7 +12036,7 @@
       "title": "The Grotto at St. Mary's Church",
       "latitude": 39.885887,
       "longitude": -96.098292,
-      "directions": "Near , St. Benedict, ",
+      "directions": "Near Main Street, St. Benedict, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55776",
       "photo_urls": []
     },
@@ -12279,7 +12405,7 @@
       "title": "Fiske Hall",
       "latitude": 37.716981,
       "longitude": -97.296146,
-      "directions": "On , Wichita, ",
+      "directions": "On Fairmount Street, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56254",
       "photo_urls": []
     },
@@ -12288,7 +12414,7 @@
       "title": "Fiske Hall Centennial Celebration",
       "latitude": 37.716939,
       "longitude": -97.296145,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Fairmount Street, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56256",
       "photo_urls": []
     },
@@ -12306,7 +12432,7 @@
       "title": "McKnight Art Center",
       "latitude": 37.717058,
       "longitude": -97.296864,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Fairmount Street, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56274",
       "photo_urls": []
     },
@@ -12837,7 +12963,7 @@
       "title": "Marine Corps Memorial",
       "latitude": 37.690363,
       "longitude": -97.345234,
-      "directions": "On , Wichita, ",
+      "directions": "On Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56576",
       "photo_urls": []
     },
@@ -12846,7 +12972,7 @@
       "title": "Fleet Marine Force Navy Hospital Corpsmen",
       "latitude": 37.690371,
       "longitude": -97.345206,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56577",
       "photo_urls": []
     },
@@ -12855,7 +12981,7 @@
       "title": "Vietnam War and Homefront Memorial",
       "latitude": 37.690637,
       "longitude": -97.345064,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56619",
       "photo_urls": []
     },
@@ -12864,7 +12990,7 @@
       "title": "American Gold Star Mothers",
       "latitude": 37.690691,
       "longitude": -97.345055,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56620",
       "photo_urls": []
     },
@@ -12873,7 +12999,7 @@
       "title": "Remember Pearl Harbor",
       "latitude": 37.689951,
       "longitude": -97.344773,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56621",
       "photo_urls": []
     },
@@ -12882,7 +13008,7 @@
       "title": "U.S. Submariners On Eternal Patrol Since World War II",
       "latitude": 37.690188,
       "longitude": -97.344995,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56623",
       "photo_urls": []
     },
@@ -12891,7 +13017,7 @@
       "title": "MK-14 Submarine Torpedo",
       "latitude": 37.690205,
       "longitude": -97.344978,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56634",
       "photo_urls": []
     },
@@ -12900,7 +13026,7 @@
       "title": "Dorado SS (248)",
       "latitude": 37.690179,
       "longitude": -97.345006,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56635",
       "photo_urls": []
     },
@@ -12909,7 +13035,7 @@
       "title": "Purple Heart Memorial",
       "latitude": 37.690879,
       "longitude": -97.345264,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56651",
       "photo_urls": []
     },
@@ -12918,7 +13044,7 @@
       "title": "United States Merchant Marine Veterans of World War II",
       "latitude": 37.690285,
       "longitude": -97.345142,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56702",
       "photo_urls": []
     },
@@ -12927,7 +13053,7 @@
       "title": "USN Armed Guard",
       "latitude": 37.690257,
       "longitude": -97.345099,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56711",
       "photo_urls": []
     },
@@ -12936,7 +13062,7 @@
       "title": "Don't Spit on the Sidewalk",
       "latitude": 37.690417,
       "longitude": -97.346271,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Greenway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56717",
       "photo_urls": []
     },
@@ -12945,7 +13071,7 @@
       "title": "U.S.S. Wichita (CA-45)",
       "latitude": 37.690355,
       "longitude": -97.346074,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Greenway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56721",
       "photo_urls": []
     },
@@ -12954,7 +13080,7 @@
       "title": "Gold Star Families",
       "latitude": 37.690907,
       "longitude": -97.345233,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56723",
       "photo_urls": []
     },
@@ -12963,7 +13089,7 @@
       "title": "Wichita Vietnamese American Memorial",
       "latitude": 37.69078,
       "longitude": -97.346594,
-      "directions": "Near , Wichita, ",
+      "directions": "Near West Central Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56724",
       "photo_urls": []
     },
@@ -12972,7 +13098,7 @@
       "title": "It Happened Right Under Our Noses",
       "latitude": 37.691748,
       "longitude": -97.349017,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56739",
       "photo_urls": []
     },
@@ -12981,7 +13107,7 @@
       "title": "The Power of X-Ray Vision",
       "latitude": 37.6913,
       "longitude": -97.348308,
-      "directions": "Near , Wichita, ",
+      "directions": "Near West Central Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56742",
       "photo_urls": []
     },
@@ -12990,7 +13116,7 @@
       "title": "1854 Treaty Oration Excerpt",
       "latitude": 37.692491,
       "longitude": -97.350032,
-      "directions": "Near , Wichita, ",
+      "directions": "Near West Central Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56748",
       "photo_urls": []
     },
@@ -12999,7 +13125,7 @@
       "title": "Circle of Life",
       "latitude": 37.69136,
       "longitude": -97.349809,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56749",
       "photo_urls": []
     },
@@ -13008,7 +13134,7 @@
       "title": "Keeper of the Plains",
       "latitude": 37.691399,
       "longitude": -97.35,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56750",
       "photo_urls": []
     },
@@ -13017,7 +13143,7 @@
       "title": "Dream Animals",
       "latitude": 37.691533,
       "longitude": -97.349996,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56753",
       "photo_urls": []
     },
@@ -13026,7 +13152,7 @@
       "title": "Tipis",
       "latitude": 37.691537,
       "longitude": -97.349982,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56754",
       "photo_urls": []
     },
@@ -13035,7 +13161,7 @@
       "title": "Ceremonial Pipes",
       "latitude": 37.691542,
       "longitude": -97.349968,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56789",
       "photo_urls": []
     },
@@ -13044,7 +13170,7 @@
       "title": "Chiefs",
       "latitude": 37.691545,
       "longitude": -97.349939,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56790",
       "photo_urls": []
     },
@@ -13053,7 +13179,7 @@
       "title": "Eagles",
       "latitude": 37.691543,
       "longitude": -97.349923,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56792",
       "photo_urls": []
     },
@@ -13062,7 +13188,7 @@
       "title": "Way of the Horse",
       "latitude": 37.691542,
       "longitude": -97.349905,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56793",
       "photo_urls": []
     },
@@ -13071,7 +13197,7 @@
       "title": "Tribes",
       "latitude": 37.691362,
       "longitude": -97.350017,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56806",
       "photo_urls": []
     },
@@ -13080,7 +13206,7 @@
       "title": "Buffalo",
       "latitude": 37.691379,
       "longitude": -97.350036,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56808",
       "photo_urls": []
     },
@@ -13089,7 +13215,7 @@
       "title": "Stories",
       "latitude": 37.691398,
       "longitude": -97.350051,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56821",
       "photo_urls": []
     },
@@ -13098,7 +13224,7 @@
       "title": "Women",
       "latitude": 37.691414,
       "longitude": -97.350058,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56827",
       "photo_urls": []
     },
@@ -13107,7 +13233,7 @@
       "title": "Warriors",
       "latitude": 37.691429,
       "longitude": -97.350061,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56828",
       "photo_urls": []
     },
@@ -13116,7 +13242,7 @@
       "title": "Ceremony",
       "latitude": 37.691443,
       "longitude": -97.350059,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56829",
       "photo_urls": []
     },
@@ -13179,7 +13305,7 @@
       "title": "Bicentennial Flag Memorial",
       "latitude": 37.689783,
       "longitude": -97.344352,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56932",
       "photo_urls": []
     },
@@ -13188,7 +13314,7 @@
       "title": "Columbus Standard",
       "latitude": 37.689788,
       "longitude": -97.344338,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56936",
       "photo_urls": []
     },
@@ -13197,7 +13323,7 @@
       "title": "Union Flag",
       "latitude": 37.689794,
       "longitude": -97.344322,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56939",
       "photo_urls": []
     },
@@ -13206,7 +13332,7 @@
       "title": "Commander In Chief's Personal Flag",
       "latitude": 37.6898,
       "longitude": -97.344306,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56943",
       "photo_urls": []
     },
@@ -13215,7 +13341,7 @@
       "title": "Grand Union Flag",
       "latitude": 37.689807,
       "longitude": -97.344291,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56945",
       "photo_urls": []
     },
@@ -13224,7 +13350,7 @@
       "title": "Thirteen Star Flag (Bennington Flag)",
       "latitude": 37.689812,
       "longitude": -97.344275,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56946",
       "photo_urls": []
     },
@@ -13233,7 +13359,7 @@
       "title": "French Tricolor",
       "latitude": 37.689818,
       "longitude": -97.34426,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56947",
       "photo_urls": []
     },
@@ -13242,7 +13368,7 @@
       "title": "Flag of Fifteen Stripes",
       "latitude": 37.689826,
       "longitude": -97.344244,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56959",
       "photo_urls": []
     },
@@ -13251,7 +13377,7 @@
       "title": "Stars and Stripes (1818)",
       "latitude": 37.689831,
       "longitude": -97.344229,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56960",
       "photo_urls": []
     },
@@ -13260,7 +13386,7 @@
       "title": "Thirty-Four Star Flag (1861)",
       "latitude": 37.68985,
       "longitude": -97.344214,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56962",
       "photo_urls": []
     },
@@ -13269,7 +13395,7 @@
       "title": "Forty-Five Star Flag",
       "latitude": 37.689882,
       "longitude": -97.344227,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56967",
       "photo_urls": []
     },
@@ -13278,7 +13404,7 @@
       "title": "Forty-Eight Star Flag",
       "latitude": 37.689895,
       "longitude": -97.344236,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56970",
       "photo_urls": []
     },
@@ -13287,7 +13413,7 @@
       "title": "Fifty Star Flag",
       "latitude": 37.689907,
       "longitude": -97.344244,
-      "directions": "Near , Wichita, ",
+      "directions": "Near North Waco Avenue, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56971",
       "photo_urls": []
     },
@@ -13305,7 +13431,7 @@
       "title": "9/11 Memorial",
       "latitude": 38.579687,
       "longitude": -97.672919,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near North 2nd Street, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57000",
       "photo_urls": []
     },
@@ -13314,7 +13440,7 @@
       "title": "Dag Hammarskjöld",
       "latitude": 38.579408,
       "longitude": -97.673344,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near North 2nd Street, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57004",
       "photo_urls": []
     },
@@ -13323,7 +13449,7 @@
       "title": "Womans Missionary Society",
       "latitude": 38.579127,
       "longitude": -97.675517,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near North Main Street, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57008",
       "photo_urls": []
     },
@@ -13485,7 +13611,7 @@
       "title": "Chanute Announces Wright Brothers' Flight",
       "latitude": 37.681508,
       "longitude": -95.453189,
-      "directions": "Near , Chanute, ",
+      "directions": "Near West Main Street, Chanute, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57294",
       "photo_urls": []
     },
@@ -13503,7 +13629,7 @@
       "title": "Octave Chanute and the Founding of the Town of Chanute",
       "latitude": 37.681381,
       "longitude": -95.452852,
-      "directions": "Near , Chanute, ",
+      "directions": "Near West Main Street, Chanute, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57297",
       "photo_urls": []
     },
@@ -13512,7 +13638,7 @@
       "title": "Octave Chanute and \"The Problem of The Ages\"",
       "latitude": 37.681239,
       "longitude": -95.45303,
-      "directions": "Near , Chanute, ",
+      "directions": "Near West Main Street, Chanute, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57299",
       "photo_urls": []
     },
@@ -13521,7 +13647,7 @@
       "title": "Octave Chanute's <i>Progress in Flying Machines</i>",
       "latitude": 37.681391,
       "longitude": -95.453241,
-      "directions": "Near , Chanute, ",
+      "directions": "Near West Main Street, Chanute, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57300",
       "photo_urls": []
     },
@@ -13728,7 +13854,7 @@
       "title": "Kansas Korean War Memorial",
       "latitude": 37.690483,
       "longitude": -97.344895,
-      "directions": "Near , Wichita, ",
+      "directions": "Near Veterans Parkway, Wichita, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57541",
       "photo_urls": []
     },
@@ -13737,7 +13863,7 @@
       "title": "Civil War Memorial",
       "latitude": 37.515165,
       "longitude": -95.823434,
-      "directions": "On , Fredonia, ",
+      "directions": "On South Cement Road, Fredonia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57586",
       "photo_urls": []
     },
@@ -13809,7 +13935,7 @@
       "title": "Actual Site of Norman No. 1",
       "latitude": 37.414941,
       "longitude": -95.672627,
-      "directions": "Near , Neodesha, ",
+      "directions": "Near South 1st Street, Neodesha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57722",
       "photo_urls": []
     },
@@ -13854,7 +13980,7 @@
       "title": "Civil War Memorial",
       "latitude": 37.440877,
       "longitude": -95.687168,
-      "directions": "Near , Neodesha, ",
+      "directions": "Near 12th Street, Neodesha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57808",
       "photo_urls": []
     },
@@ -13872,7 +13998,7 @@
       "title": "United Spanish War Veterans Memorial",
       "latitude": 37.238906,
       "longitude": -95.701517,
-      "directions": "Near , Independence, ",
+      "directions": "Near Miss Able Avenue, Independence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57815",
       "photo_urls": []
     },
@@ -13881,7 +14007,7 @@
       "title": "Dr. George Tann",
       "latitude": 37.243262,
       "longitude": -95.705621,
-      "directions": "Near , Independence, ",
+      "directions": "Near North Pennsylvania Avenue, Independence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57821",
       "photo_urls": []
     },
@@ -13953,7 +14079,7 @@
       "title": "Captain Richard C. Mason",
       "latitude": 37.017354,
       "longitude": -95.929543,
-      "directions": "Near , Caney, ",
+      "directions": "Near HighWay 75, Caney, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57880",
       "photo_urls": []
     },
@@ -13962,7 +14088,7 @@
       "title": "Jappa Mason",
       "latitude": 37.017331,
       "longitude": -95.929537,
-      "directions": "Near , Caney, ",
+      "directions": "Near HighWay 75, Caney, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57882",
       "photo_urls": []
     },
@@ -13971,7 +14097,7 @@
       "title": "Richard Colbert Mason",
       "latitude": 37.017356,
       "longitude": -95.929513,
-      "directions": "Near , Caney, ",
+      "directions": "Near HighWay 75, Caney, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57886",
       "photo_urls": []
     },
@@ -14106,7 +14232,7 @@
       "title": "Shepherd & McQuesten Building",
       "latitude": 38.6155,
       "longitude": -95.26858333,
-      "directions": "On , Ottawa, ",
+      "directions": "On South Main Street, Ottawa, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59072",
       "photo_urls": []
     },
@@ -14232,7 +14358,7 @@
       "title": "Commissary Warehouse",
       "latitude": 38.863228,
       "longitude": -99.342755,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59714",
       "photo_urls": []
     },
@@ -14241,7 +14367,7 @@
       "title": "Enlisted Barracks",
       "latitude": 38.862677,
       "longitude": -99.343375,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59715",
       "photo_urls": []
     },
@@ -14250,7 +14376,7 @@
       "title": "Fort Hays - Fort Dodge Road Trailhead",
       "latitude": 38.862592,
       "longitude": -99.343328,
-      "directions": "On , Hays, ",
+      "directions": "On Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59716",
       "photo_urls": []
     },
@@ -14259,7 +14385,7 @@
       "title": "Officers' Row",
       "latitude": 38.862713,
       "longitude": -99.343471,
-      "directions": "On , Hays, ",
+      "directions": "On Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59717",
       "photo_urls": []
     },
@@ -14268,7 +14394,7 @@
       "title": "Parade Ground",
       "latitude": 38.862774,
       "longitude": -99.343423,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59718",
       "photo_urls": []
     },
@@ -14277,7 +14403,7 @@
       "title": "Time Capsule",
       "latitude": 38.86335,
       "longitude": -99.342896,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59719",
       "photo_urls": []
     },
@@ -14286,7 +14412,7 @@
       "title": "Commanding Officer's House",
       "latitude": 38.862997,
       "longitude": -99.343957,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59720",
       "photo_urls": []
     },
@@ -14295,7 +14421,7 @@
       "title": "Officers in Tents",
       "latitude": 38.862186,
       "longitude": -99.34392,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59722",
       "photo_urls": []
     },
@@ -14304,7 +14430,7 @@
       "title": "Sentinel Hill",
       "latitude": 38.862142,
       "longitude": -99.343967,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59723",
       "photo_urls": []
     },
@@ -14313,7 +14439,7 @@
       "title": "Fort Hays Military Cemetery",
       "latitude": 38.862053,
       "longitude": -99.344011,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59724",
       "photo_urls": []
     },
@@ -14322,7 +14448,7 @@
       "title": "Guardhouse",
       "latitude": 38.861831,
       "longitude": -99.344107,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59747",
       "photo_urls": []
     },
@@ -14331,7 +14457,7 @@
       "title": "Well House",
       "latitude": 38.861668,
       "longitude": -99.343533,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59748",
       "photo_urls": []
     },
@@ -14340,7 +14466,7 @@
       "title": "Bake House",
       "latitude": 38.861515,
       "longitude": -99.343011,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59749",
       "photo_urls": []
     },
@@ -14349,7 +14475,7 @@
       "title": "Laundress' Quarters",
       "latitude": 38.861604,
       "longitude": -99.342628,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59752",
       "photo_urls": []
     },
@@ -14358,7 +14484,7 @@
       "title": "Blockhouse",
       "latitude": 38.861581,
       "longitude": -99.342471,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59767",
       "photo_urls": []
     },
@@ -14394,7 +14520,7 @@
       "title": "Chapel",
       "latitude": 38.861876,
       "longitude": -99.34229,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59789",
       "photo_urls": []
     },
@@ -14403,7 +14529,7 @@
       "title": "Post Surgeon's Quarters",
       "latitude": 38.861971,
       "longitude": -99.342444,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59790",
       "photo_urls": []
     },
@@ -14412,7 +14538,7 @@
       "title": "Quartermaster's Complex",
       "latitude": 38.862147,
       "longitude": -99.34268,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59792",
       "photo_urls": []
     },
@@ -14421,7 +14547,7 @@
       "title": "Post Hospital",
       "latitude": 38.862208,
       "longitude": -99.342818,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59793",
       "photo_urls": []
     },
@@ -14430,7 +14556,7 @@
       "title": "Fort Hays",
       "latitude": 38.86272,
       "longitude": -99.343065,
-      "directions": "Near , Hays, ",
+      "directions": "Near Highway 183 Alternate, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59794",
       "photo_urls": []
     },
@@ -14466,7 +14592,7 @@
       "title": "Fort Hays State University War Memorial",
       "latitude": 38.872678,
       "longitude": -99.340381,
-      "directions": "Near , Hays, ",
+      "directions": "Near Park Street, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59810",
       "photo_urls": []
     },
@@ -14844,7 +14970,7 @@
       "title": "Lucius M. Baldwin",
       "latitude": 37.03558,
       "longitude": -95.614873,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near South Union Street, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60812",
       "photo_urls": []
     },
@@ -14853,7 +14979,7 @@
       "title": "George B. Cubine",
       "latitude": 37.035638,
       "longitude": -95.615156,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near South Union Street, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60823",
       "photo_urls": []
     },
@@ -14862,7 +14988,7 @@
       "title": "Charles Brown",
       "latitude": 37.035638,
       "longitude": -95.615156,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near South Union Street, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60826",
       "photo_urls": []
     },
@@ -14871,7 +14997,7 @@
       "title": "Charles T. Connelly",
       "latitude": 37.035536,
       "longitude": -95.616142,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near South Walnut Street, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60830",
       "photo_urls": []
     },
@@ -14889,7 +15015,7 @@
       "title": "Dalton Gang and Defenders Graves",
       "latitude": 37.022483,
       "longitude": -95.618254,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near Eldridge Street, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60835",
       "photo_urls": []
     },
@@ -15195,7 +15321,7 @@
       "title": "The Kansas Ozarks",
       "latitude": 37.042923,
       "longitude": -94.641673,
-      "directions": "Near , near Galena, ",
+      "directions": "Near South Main Street, near Galena, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=61154",
       "photo_urls": []
     },
@@ -15213,7 +15339,7 @@
       "title": "Robb",
       "latitude": 37.022404,
       "longitude": -95.619819,
-      "directions": "Near , Coffeyville, ",
+      "directions": "Near Elmwood Drive, Coffeyville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=61289",
       "photo_urls": []
     },
@@ -15222,7 +15348,7 @@
       "title": "Santa Fe Trail",
       "latitude": 38.427917,
       "longitude": -97.320619,
-      "directions": "On , near Durham, (On the left when traveling west)",
+      "directions": "On 245th, near Durham, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=61295",
       "photo_urls": []
     },
@@ -15330,7 +15456,7 @@
       "title": "Veterans Memorial",
       "latitude": 37.240988,
       "longitude": -95.705259,
-      "directions": "Near , Independence, ",
+      "directions": "Near N Pennsylvania Avenue, Independence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=61524",
       "photo_urls": []
     },
@@ -15429,7 +15555,7 @@
       "title": "Land of the Buffalo",
       "latitude": 37.645452,
       "longitude": -98.112745,
-      "directions": "On , Kingman, ",
+      "directions": "On North Main Street, Kingman, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62657",
       "photo_urls": []
     },
@@ -15501,7 +15627,7 @@
       "title": "Nathaniel Grigsby",
       "latitude": 37.238481,
       "longitude": -98.245077,
-      "directions": "Near , Attica, ",
+      "directions": "Near Northwest 60 Road, Attica, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62738",
       "photo_urls": []
     },
@@ -15681,7 +15807,7 @@
       "title": "Veterans Memorial",
       "latitude": 37.382516,
       "longitude": -94.692075,
-      "directions": "Near , Pittsburg, ",
+      "directions": "Near Centennial Drive, Pittsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63673",
       "photo_urls": []
     },
@@ -15744,7 +15870,7 @@
       "title": "Lewis Allison Curry, M. D.",
       "latitude": 39.326991,
       "longitude": -95.26806,
-      "directions": "Near , Winchester, ",
+      "directions": "Near Delaware Street, Winchester, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63724",
       "photo_urls": []
     },
@@ -15753,7 +15879,7 @@
       "title": "Jefferson County Memorial Park",
       "latitude": 39.205731,
       "longitude": -95.312547,
-      "directions": "Near , Oskaloosa, ",
+      "directions": "Near Walnut Street, Oskaloosa, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63730",
       "photo_urls": []
     },
@@ -15951,7 +16077,7 @@
       "title": "Don Clarence Rising",
       "latitude": 39.638804,
       "longitude": -95.811261,
-      "directions": "Near , Wetmore, ",
+      "directions": "Near Nebraska Street, Wetmore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63803",
       "photo_urls": []
     },
@@ -16131,7 +16257,7 @@
       "title": "Civil War Memorial",
       "latitude": 38.51595,
       "longitude": -96.241624,
-      "directions": "Near , Americus, ",
+      "directions": "Near Road G, Americus, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64067",
       "photo_urls": []
     },
@@ -16275,7 +16401,7 @@
       "title": "A Brief History of the Growth of the National Wildlife Refuge System",
       "latitude": 38.0752,
       "longitude": -98.489074,
-      "directions": "Near , Quivira National Wildlife Refuge, ",
+      "directions": "Near Northeast 80th Street, Quivira National Wildlife Refuge, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64274",
       "photo_urls": []
     },
@@ -16446,7 +16572,7 @@
       "title": "Abilene Parker Carousel",
       "latitude": 38.911426,
       "longitude": -97.208217,
-      "directions": "Near , Abilene, ",
+      "directions": "Near South Campbell Street, Abilene, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64846",
       "photo_urls": []
     },
@@ -16617,7 +16743,7 @@
       "title": "Potwin Drug Store",
       "latitude": 39.063325,
       "longitude": -95.683484,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64975",
       "photo_urls": []
     },
@@ -16626,7 +16752,7 @@
       "title": "Mulvane General Store",
       "latitude": 39.063399,
       "longitude": -95.683478,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64976",
       "photo_urls": []
     },
@@ -16635,7 +16761,7 @@
       "title": "Victor Schoolhouse",
       "latitude": 39.063469,
       "longitude": -95.683818,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64978",
       "photo_urls": []
     },
@@ -16644,7 +16770,7 @@
       "title": "Charles Sheldon Study",
       "latitude": 39.063515,
       "longitude": -95.683885,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=64979",
       "photo_urls": []
     },
@@ -16653,7 +16779,7 @@
       "title": "Lingo Livery Stable",
       "latitude": 39.063798,
       "longitude": -95.683581,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65021",
       "photo_urls": []
     },
@@ -16662,7 +16788,7 @@
       "title": "Santa Fe Caboose #1552",
       "latitude": 39.063842,
       "longitude": -95.683551,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65022",
       "photo_urls": []
     },
@@ -16671,7 +16797,7 @@
       "title": "The Pauline Depot",
       "latitude": 39.063773,
       "longitude": -95.68337,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65023",
       "photo_urls": []
     },
@@ -16680,7 +16806,7 @@
       "title": "Commemorating the 100th Anniversary of the Pauline Depot",
       "latitude": 39.063867,
       "longitude": -95.683373,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65024",
       "photo_urls": []
     },
@@ -16689,7 +16815,7 @@
       "title": "Pappan's Ferry",
       "latitude": 39.063852,
       "longitude": -95.683121,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65025",
       "photo_urls": []
     },
@@ -16698,7 +16824,7 @@
       "title": "Barber Shop",
       "latitude": 39.063378,
       "longitude": -95.683064,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65026",
       "photo_urls": []
     },
@@ -16707,7 +16833,7 @@
       "title": "Everest Methodist Church",
       "latitude": 39.063264,
       "longitude": -95.683229,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65027",
       "photo_urls": []
     },
@@ -16716,7 +16842,7 @@
       "title": "Blacksmith Shop",
       "latitude": 39.062897,
       "longitude": -95.683117,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65028",
       "photo_urls": []
     },
@@ -16725,7 +16851,7 @@
       "title": "David Puff",
       "latitude": 39.063158,
       "longitude": -95.682754,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65030",
       "photo_urls": []
     },
@@ -16734,7 +16860,7 @@
       "title": "Ward-Meade Mansion",
       "latitude": 39.06336,
       "longitude": -95.682661,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65037",
       "photo_urls": []
     },
@@ -16743,7 +16869,7 @@
       "title": "Ward-Meade Home",
       "latitude": 39.063349,
       "longitude": -95.682594,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Northwest Fillmore Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65038",
       "photo_urls": []
     },
@@ -16797,7 +16923,7 @@
       "title": "The Founders of the Salina Town Company",
       "latitude": 38.83971,
       "longitude": -97.609548,
-      "directions": "Near , Salina, ",
+      "directions": "Near South Santa Fe Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65053",
       "photo_urls": []
     },
@@ -17040,7 +17166,7 @@
       "title": "2007 Greensburg EF5 Tornado",
       "latitude": 37.60364,
       "longitude": -99.294557,
-      "directions": "On , Greensburg, ",
+      "directions": "On South Sycamore Street, Greensburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65232",
       "photo_urls": []
     },
@@ -17418,7 +17544,7 @@
       "title": "The Worst Piece of Road",
       "latitude": 37.790824,
       "longitude": -100.1968,
-      "directions": "Near , near Howell, ",
+      "directions": "Near U.S. Route 400, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65440",
       "photo_urls": []
     },
@@ -17436,7 +17562,7 @@
       "title": "Soule's Ditch",
       "latitude": 37.791027,
       "longitude": -100.19625,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65493",
       "photo_urls": []
     },
@@ -17445,7 +17571,7 @@
       "title": "Santa Fe Trail Remains",
       "latitude": 37.790982,
       "longitude": -100.19627,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65494",
       "photo_urls": []
     },
@@ -17454,7 +17580,7 @@
       "title": "Trails on the Prairie",
       "latitude": 37.789779,
       "longitude": -100.19713,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65495",
       "photo_urls": []
     },
@@ -17463,7 +17589,7 @@
       "title": "Santa Fe Trail Sites to the West & South",
       "latitude": 37.789779,
       "longitude": -100.19713,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65496",
       "photo_urls": []
     },
@@ -17472,7 +17598,7 @@
       "title": "A Fine Country…",
       "latitude": 37.789779,
       "longitude": -100.19713,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65508",
       "photo_urls": []
     },
@@ -17481,7 +17607,7 @@
       "title": "Santa Fe Trail, 1821 - 1880",
       "latitude": 37.789779,
       "longitude": -100.19713,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65512",
       "photo_urls": []
     },
@@ -17490,7 +17616,7 @@
       "title": "Santa Fe Trail Sites to the East",
       "latitude": 37.789779,
       "longitude": -100.19713,
-      "directions": "Near , near Howell, ",
+      "directions": "Near Highway 50, near Howell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65519",
       "photo_urls": []
     },
@@ -17544,7 +17670,7 @@
       "title": "Graceland Cemetery",
       "latitude": 37.284745,
       "longitude": -100.32053,
-      "directions": "Near , near Meade, ",
+      "directions": "Near North Road, near Meade, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65616",
       "photo_urls": []
     },
@@ -17553,7 +17679,7 @@
       "title": "Grace Brown",
       "latitude": 37.282462,
       "longitude": -100.31821,
-      "directions": "Near , near Meade, ",
+      "directions": "Near Meade Cemetary, near Meade, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65635",
       "photo_urls": []
     },
@@ -17562,7 +17688,7 @@
       "title": "Veterans Memorial",
       "latitude": 37.283917,
       "longitude": -100.31924,
-      "directions": "Near , near Meade, ",
+      "directions": "Near Meade Cemetary, near Meade, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65636",
       "photo_urls": []
     },
@@ -17886,7 +18012,7 @@
       "title": "Pueblo Floor Plan",
       "latitude": 38.67684,
       "longitude": -100.914985,
-      "directions": "Near , Scott State Park, ",
+      "directions": "Near West Scott Lake Drive, Scott State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65953",
       "photo_urls": []
     },
@@ -17895,7 +18021,7 @@
       "title": "Plains Apache at El Cuartelejo",
       "latitude": 38.676777,
       "longitude": -100.91489,
-      "directions": "Near , Scott State Park, ",
+      "directions": "Near West Scott Lake Drive, Scott State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65954",
       "photo_urls": []
     },
@@ -17904,7 +18030,7 @@
       "title": "El Cuartelejo Archeology",
       "latitude": 38.676816,
       "longitude": -100.91477,
-      "directions": "Near , Scott State Park, ",
+      "directions": "Near West Scott Lake Drive, Scott State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65975",
       "photo_urls": []
     },
@@ -17931,7 +18057,7 @@
       "title": "Battle Canyon, 1878",
       "latitude": 38.643546,
       "longitude": -100.92793,
-      "directions": "Near , near Scott State Park, ",
+      "directions": "Near no nearby street, near Scott State Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=65978",
       "photo_urls": []
     },
@@ -18264,7 +18390,7 @@
       "title": "M3 Personnel Carrier Half-Track",
       "latitude": 39.062691,
       "longitude": -96.782609,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Custer Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66650",
       "photo_urls": []
     },
@@ -18453,7 +18579,7 @@
       "title": "32nd and 44th U.S. Volunteer Infantries",
       "latitude": 39.344459,
       "longitude": -94.921892,
-      "directions": "Near , Fort Leavenworth, ",
+      "directions": "Near Cody Road, Fort Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66780",
       "photo_urls": []
     },
@@ -18516,7 +18642,7 @@
       "title": "Mine Creek Battlefield Aerial Overlay",
       "latitude": 38.145093,
       "longitude": -94.723623,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67380",
       "photo_urls": []
     },
@@ -18525,7 +18651,7 @@
       "title": "Price's Raid",
       "latitude": 38.145155,
       "longitude": -94.723749,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67398",
       "photo_urls": []
     },
@@ -18534,7 +18660,7 @@
       "title": "Combat at State Line",
       "latitude": 38.145132,
       "longitude": -94.723702,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67400",
       "photo_urls": []
     },
@@ -18543,7 +18669,7 @@
       "title": "The Battle Begins",
       "latitude": 38.144779,
       "longitude": -94.723221,
-      "directions": "On , near Pleasanton, ",
+      "directions": "On Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67408",
       "photo_urls": []
     },
@@ -18552,7 +18678,7 @@
       "title": "Confederate Defeat",
       "latitude": 38.144779,
       "longitude": -94.723221,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67409",
       "photo_urls": []
     },
@@ -18561,7 +18687,7 @@
       "title": "After the Battle",
       "latitude": 38.144779,
       "longitude": -94.723221,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67435",
       "photo_urls": []
     },
@@ -18570,7 +18696,7 @@
       "title": "Union Charge",
       "latitude": 38.1441,
       "longitude": -94.723131,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67445",
       "photo_urls": []
     },
@@ -18660,7 +18786,7 @@
       "title": "1951 Marais des Cygnes Flood High-Water Line",
       "latitude": 38.620513,
       "longitude": -95.26976,
-      "directions": "Near , Ottawa, ",
+      "directions": "Near West Tecumseh Street, Ottawa, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67732",
       "photo_urls": []
     },
@@ -18696,7 +18822,7 @@
       "title": "Battle of Osawatomie",
       "latitude": 38.498973,
       "longitude": -94.959193,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near Main Street, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69221",
       "photo_urls": []
     },
@@ -18705,7 +18831,7 @@
       "title": "Battle of Osawatomie",
       "latitude": 38.499472,
       "longitude": -94.959383,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near Parker Avenue, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69224",
       "photo_urls": []
     },
@@ -18714,7 +18840,7 @@
       "title": "Battle of Osawatomie",
       "latitude": 38.50046,
       "longitude": -94.959441,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near John Brown State Park, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69225",
       "photo_urls": []
     },
@@ -18732,7 +18858,7 @@
       "title": "Battle of Osawatomie",
       "latitude": 38.500373,
       "longitude": -94.959356,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near John Brown State Park, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69243",
       "photo_urls": []
     },
@@ -18741,7 +18867,7 @@
       "title": "John Brown Battleground",
       "latitude": 38.498502,
       "longitude": -94.959076,
-      "directions": "On , Osawatomie, ",
+      "directions": "On Main Street, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69244",
       "photo_urls": []
     },
@@ -18750,7 +18876,7 @@
       "title": "John Brown Statue",
       "latitude": 38.498658,
       "longitude": -94.958968,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near Main Street, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69245",
       "photo_urls": []
     },
@@ -18759,7 +18885,7 @@
       "title": "Battle of Osawatomie",
       "latitude": 38.498737,
       "longitude": -94.959063,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near Main Street, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69286",
       "photo_urls": []
     },
@@ -18768,7 +18894,7 @@
       "title": "T. B. Williams and J. B. Remington",
       "latitude": 38.498737,
       "longitude": -94.959063,
-      "directions": "Near , Osawatomie, ",
+      "directions": "Near Main Street, Osawatomie, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69287",
       "photo_urls": []
     },
@@ -18903,7 +19029,7 @@
       "title": "Rosedale War Memorial",
       "latitude": 39.063851,
       "longitude": -94.615029,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Springfield Street, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69344",
       "photo_urls": []
     },
@@ -18912,7 +19038,7 @@
       "title": "Rosedale Memorial Arch",
       "latitude": 39.063851,
       "longitude": -94.615029,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Springfield Street, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69345",
       "photo_urls": []
     },
@@ -18975,7 +19101,7 @@
       "title": "Eliza Burton Conley",
       "latitude": 39.115122,
       "longitude": -94.625765,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Minnesota Avenue, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69384",
       "photo_urls": []
     },
@@ -18984,7 +19110,7 @@
       "title": "Helena Conley",
       "latitude": 39.115122,
       "longitude": -94.625765,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near Minnesota Avenue, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69385",
       "photo_urls": []
     },
@@ -18993,7 +19119,7 @@
       "title": "Silas Armstrong",
       "latitude": 39.114875,
       "longitude": -94.626075,
-      "directions": "Near , Kansas City, ",
+      "directions": "Near 7th Street, Kansas City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69393",
       "photo_urls": []
     },
@@ -19128,7 +19254,7 @@
       "title": "Blacksmith Shop",
       "latitude": 38.237642,
       "longitude": -94.943765,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70539",
       "photo_urls": []
     },
@@ -19137,7 +19263,7 @@
       "title": "Ft. Scott and California Road",
       "latitude": 38.235076,
       "longitude": -94.943159,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70540",
       "photo_urls": []
     },
@@ -19155,7 +19281,7 @@
       "title": "Kanza Indian Site?",
       "latitude": 38.238389,
       "longitude": -94.944236,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70575",
       "photo_urls": []
     },
@@ -19164,7 +19290,7 @@
       "title": "[Potawatomi] Trail of Death",
       "latitude": 38.238647,
       "longitude": -94.944186,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70608",
       "photo_urls": []
     },
@@ -19173,7 +19299,7 @@
       "title": "[Potawatomi] Trail of Death",
       "latitude": 38.238717,
       "longitude": -94.944114,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70609",
       "photo_urls": []
     },
@@ -19191,7 +19317,7 @@
       "title": "\"Quah-Kah-Ka-Num-Ad\"",
       "latitude": 38.234514,
       "longitude": -94.943231,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70633",
       "photo_urls": []
     },
@@ -19200,7 +19326,7 @@
       "title": "Father Petit and the Trail of Death",
       "latitude": 38.234496,
       "longitude": -94.943341,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70635",
       "photo_urls": []
     },
@@ -19209,7 +19335,7 @@
       "title": "Priests House",
       "latitude": 38.234369,
       "longitude": -94.943416,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70638",
       "photo_urls": []
     },
@@ -19218,7 +19344,7 @@
       "title": "Log Convent",
       "latitude": 38.234376,
       "longitude": -94.943501,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70639",
       "photo_urls": []
     },
@@ -19227,7 +19353,7 @@
       "title": "Log Cabin School",
       "latitude": 38.234501,
       "longitude": -94.943695,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70640",
       "photo_urls": []
     },
@@ -19236,7 +19362,7 @@
       "title": "Saint Kateri Tekakwitha Onkweonweke Katsitsiio Teotsitsianekaron",
       "latitude": 38.234621,
       "longitude": -94.944186,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70641",
       "photo_urls": []
     },
@@ -19245,7 +19371,7 @@
       "title": "Father Petit and the Potawatomi 'Trail of Death'",
       "latitude": 38.235072,
       "longitude": -94.944246,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70652",
       "photo_urls": []
     },
@@ -19254,7 +19380,7 @@
       "title": "Potawatomi \"Trail of Death\" march & death of Fr. Petit",
       "latitude": 38.235072,
       "longitude": -94.944246,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70654",
       "photo_urls": []
     },
@@ -19263,7 +19389,7 @@
       "title": "Potawatomi Burial Ground",
       "latitude": 38.235259,
       "longitude": -94.944288,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70655",
       "photo_urls": []
     },
@@ -19272,7 +19398,7 @@
       "title": "Daily Offering",
       "latitude": 38.234842,
       "longitude": -94.943863,
-      "directions": "Near , near Centerville, ",
+      "directions": "Near West 1525th Road, near Centerville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70656",
       "photo_urls": []
     },
@@ -19479,7 +19605,7 @@
       "title": "Civil War Memorial",
       "latitude": 38.591132,
       "longitude": -95.532586,
-      "directions": "Near , Quenemo, ",
+      "directions": "Near K-68 Highway, Quenemo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73106",
       "photo_urls": []
     },
@@ -19488,7 +19614,7 @@
       "title": "Bluestem in the Flint Hills / Beecher Bibles",
       "latitude": 39.060147,
       "longitude": -96.121043,
-      "directions": "Near , near Paxico, ",
+      "directions": "Near Dwight D. Eisenhower Highway, near Paxico, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73107",
       "photo_urls": []
     },
@@ -19497,7 +19623,7 @@
       "title": "Gettysburg Address",
       "latitude": 39.039395,
       "longitude": -95.741579,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest Fairlawn Road, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73456",
       "photo_urls": []
     },
@@ -19506,7 +19632,7 @@
       "title": "Veterans Memorial",
       "latitude": 39.036683,
       "longitude": -95.739439,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 17th Street, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73459",
       "photo_urls": []
     },
@@ -19515,7 +19641,7 @@
       "title": "Martin Luther",
       "latitude": 39.036869,
       "longitude": -95.736089,
-      "directions": "Near , Topeka, ",
+      "directions": "Near Southwest 17th Terrace, Topeka, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73734",
       "photo_urls": []
     },
@@ -19533,7 +19659,7 @@
       "title": "Kansas State Teachers College Navy Mark of Commendation",
       "latitude": 37.388709,
       "longitude": -94.68584,
-      "directions": "On , Pittsburg, ",
+      "directions": "On South Rouse Street, Pittsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=74008",
       "photo_urls": []
     },
@@ -19983,7 +20109,7 @@
       "title": "Civil War Memorial",
       "latitude": 38.027918,
       "longitude": -97.498838,
-      "directions": "On , Halstead, ",
+      "directions": "On U.S. 50, Halstead, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77110",
       "photo_urls": []
     },
@@ -19992,7 +20118,7 @@
       "title": "Daniel Read Anthony",
       "latitude": 39.270765,
       "longitude": -94.887541,
-      "directions": "Near , Lansing, ",
+      "directions": "Near North 8th Street, Lansing, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77150",
       "photo_urls": []
     },
@@ -20019,7 +20145,7 @@
       "title": "The Haskell Cemetery",
       "latitude": 38.935417,
       "longitude": -95.228291,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Kiowa Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77300",
       "photo_urls": []
     },
@@ -20046,7 +20172,7 @@
       "title": "Tecumseh Hall",
       "latitude": 38.939213,
       "longitude": -95.231799,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Choctaw Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77305",
       "photo_urls": []
     },
@@ -20055,7 +20181,7 @@
       "title": "Haskell Stadium Memorial Arch",
       "latitude": 38.94064,
       "longitude": -95.231698,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near East Indian Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77316",
       "photo_urls": []
     },
@@ -20073,7 +20199,7 @@
       "title": "The Original Bandstand",
       "latitude": 38.938519,
       "longitude": -95.231904,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Choctaw Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77325",
       "photo_urls": []
     },
@@ -20100,7 +20226,7 @@
       "title": "Haskell Bandstand/Gazebo",
       "latitude": 38.93906,
       "longitude": -95.232072,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Choctaw Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77382",
       "photo_urls": []
     },
@@ -20109,7 +20235,7 @@
       "title": "Haskell Indian Nations University",
       "latitude": 38.93906,
       "longitude": -95.232072,
-      "directions": "On , Lawrence, ",
+      "directions": "On Choctaw Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77383",
       "photo_urls": []
     },
@@ -20118,7 +20244,7 @@
       "title": "Hiawatha Hall",
       "latitude": 38.939579,
       "longitude": -95.231807,
-      "directions": "On , Lawrence, ",
+      "directions": "On Choctaw Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77384",
       "photo_urls": []
     },
@@ -20208,7 +20334,7 @@
       "title": "Spanish-American War Memorial",
       "latitude": 38.960143,
       "longitude": -95.212258,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Oak Hill Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77811",
       "photo_urls": []
     },
@@ -20217,7 +20343,7 @@
       "title": "Grand Army of the Republic Memorial",
       "latitude": 38.957811,
       "longitude": -95.211841,
-      "directions": "Near , Lawrence, ",
+      "directions": "Near Oak Hill Avenue, Lawrence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77863",
       "photo_urls": []
     },
@@ -20253,7 +20379,7 @@
       "title": "Butterfield Stage Line",
       "latitude": 38.86830902,
       "longitude": -101.96957397,
-      "directions": "On , Weskan, ",
+      "directions": "On U.S. 40, Weskan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77900",
       "photo_urls": []
     },
@@ -20442,7 +20568,7 @@
       "title": "Civil War Memorial",
       "latitude": 39.854288,
       "longitude": -96.636167,
-      "directions": "Near , Marysville, ",
+      "directions": "Near North 16th Street, Marysville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78050",
       "photo_urls": []
     },
@@ -20460,7 +20586,7 @@
       "title": "Conclusion of Price Campaign",
       "latitude": 38.142752,
       "longitude": -94.724475,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78160",
       "photo_urls": []
     },
@@ -20469,7 +20595,7 @@
       "title": "Nursing the Wounded",
       "latitude": 38.142297,
       "longitude": -94.724837,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78162",
       "photo_urls": []
     },
@@ -20478,7 +20604,7 @@
       "title": "Cavalry Horses",
       "latitude": 38.137865,
       "longitude": -94.725957,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78166",
       "photo_urls": []
     },
@@ -20487,7 +20613,7 @@
       "title": "Cavalry",
       "latitude": 38.139692,
       "longitude": -94.725339,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78168",
       "photo_urls": []
     },
@@ -20496,7 +20622,7 @@
       "title": "Lieutenant Colonel Frederick W. Benteen Memorial Bridge",
       "latitude": 38.137406,
       "longitude": -94.722631,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near East 750th Road, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78188",
       "photo_urls": []
     },
@@ -20505,7 +20631,7 @@
       "title": "\"Hurra for Kansas!\"",
       "latitude": 38.136823,
       "longitude": -94.723316,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near East 750th Road, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78619",
       "photo_urls": []
     },
@@ -20514,7 +20640,7 @@
       "title": "Chaos at the Crossing",
       "latitude": 38.136312,
       "longitude": -94.724601,
-      "directions": "Near , near Pleasanton, ",
+      "directions": "Near Kansas Highway 52, near Pleasanton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78620",
       "photo_urls": []
     },
@@ -20694,7 +20820,7 @@
       "title": "Alcove Spring Park",
       "latitude": 39.749554,
       "longitude": -96.679029,
-      "directions": "Near , near Blue Rapids, ",
+      "directions": "Near East River Road, near Blue Rapids, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79116",
       "photo_urls": []
     },
@@ -20703,7 +20829,7 @@
       "title": "Oregon Trail Memorial Garden",
       "latitude": 39.749524,
       "longitude": -96.678946,
-      "directions": "Near , near Blue Rapids, ",
+      "directions": "Near East River Road, near Blue Rapids, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79119",
       "photo_urls": []
     },
@@ -20721,7 +20847,7 @@
       "title": "A Respite In The Wilderness",
       "latitude": 39.748688,
       "longitude": -96.676786,
-      "directions": "Near , near Blue Rapids, ",
+      "directions": "Near East River Road, near Blue Rapids, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79134",
       "photo_urls": []
     },
@@ -20730,7 +20856,7 @@
       "title": "The 1840s American Dream",
       "latitude": 39.750606,
       "longitude": -96.680266,
-      "directions": "Near , near Blue Rapids, ",
+      "directions": "Near East River Road, near Blue Rapids, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79137",
       "photo_urls": []
     },
@@ -20775,7 +20901,7 @@
       "title": "A Quiet and Restful Place",
       "latitude": 39.750617,
       "longitude": -96.68024,
-      "directions": "On , near Blue Rapids, ",
+      "directions": "On East River Road, near Blue Rapids, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79152",
       "photo_urls": []
     },
@@ -20856,7 +20982,7 @@
       "title": "Elk Falls Pratt Truss Bridge",
       "latitude": 37.373768,
       "longitude": -96.184071,
-      "directions": "Near , Elk Falls, ",
+      "directions": "Near U.S. 160, Elk Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79224",
       "photo_urls": []
     },
@@ -20874,7 +21000,7 @@
       "title": "Veterans Memorial",
       "latitude": 39.353414,
       "longitude": -94.924443,
-      "directions": "Near , Fort Leavenworth, ",
+      "directions": "Near Pope Avenue, Fort Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79823",
       "photo_urls": []
     },
@@ -20910,7 +21036,7 @@
       "title": "Civil War Memorial",
       "latitude": 39.276121,
       "longitude": -97.742956,
-      "directions": "Near , Delphos, ",
+      "directions": "Near Kansas 41, Delphos, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79925",
       "photo_urls": []
     },
@@ -20919,7 +21045,7 @@
       "title": "Veterans Memorial",
       "latitude": 39.276053,
       "longitude": -97.7429,
-      "directions": "Near , Delphos, ",
+      "directions": "Near Kansas 41, Delphos, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79926",
       "photo_urls": []
     },
@@ -20946,7 +21072,7 @@
       "title": "Welcome to Rock City",
       "latitude": 39.089485,
       "longitude": -97.733203,
-      "directions": "Near , near Minneapolis, ",
+      "directions": "Near Ivy Road, near Minneapolis, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79957",
       "photo_urls": []
     },
@@ -21072,7 +21198,7 @@
       "title": "The Zellekin Brewery",
       "latitude": 37.027874,
       "longitude": -94.73284,
-      "directions": "Near , Baxter Springs, ",
+      "directions": "Near East Avenue, Baxter Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80218",
       "photo_urls": []
     },
@@ -21081,7 +21207,7 @@
       "title": "Log Cabin",
       "latitude": 37.02795,
       "longitude": -94.732811,
-      "directions": "Near , Baxter Springs, ",
+      "directions": "Near East Avenue, Baxter Springs, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80219",
       "photo_urls": []
     },
@@ -21261,7 +21387,7 @@
       "title": "Emporia Free Library",
       "latitude": 38.405347,
       "longitude": -96.178066,
-      "directions": "Near , Emporia, ",
+      "directions": "Near East 6th Avenue, Emporia, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80553",
       "photo_urls": []
     },
@@ -21324,7 +21450,7 @@
       "title": "St. Barnabus Hospital Portico Columns",
       "latitude": 38.862317,
       "longitude": -97.60946,
-      "directions": "Near , Salina, ",
+      "directions": "Near West Otis Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80608",
       "photo_urls": []
     },
@@ -21333,7 +21459,7 @@
       "title": "St. John's Military School Veterans Memorial",
       "latitude": 38.862708,
       "longitude": -97.609409,
-      "directions": "Near , Salina, ",
+      "directions": "Near West Euclid Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80612",
       "photo_urls": []
     },
@@ -21342,7 +21468,7 @@
       "title": "Dennis Gerard Pugh",
       "latitude": 38.862982,
       "longitude": -97.609824,
-      "directions": "Near , Salina, ",
+      "directions": "Near West Euclid Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80613",
       "photo_urls": []
     },
@@ -21414,7 +21540,7 @@
       "title": "Sweadal 1869",
       "latitude": 38.566546,
       "longitude": -97.674482,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near Mill, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80662",
       "photo_urls": []
     },
@@ -21486,7 +21612,7 @@
       "title": "M16 Multiple Gun Motor Carriage",
       "latitude": 39.063113,
       "longitude": -96.781983,
-      "directions": "On , Fort Riley, ",
+      "directions": "On Henry Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80743",
       "photo_urls": []
     },
@@ -21495,7 +21621,7 @@
       "title": "M5 Stuart Light Tank",
       "latitude": 39.063096,
       "longitude": -96.781985,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Henry Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80744",
       "photo_urls": []
     },
@@ -21504,7 +21630,7 @@
       "title": "M4A3 Sherman Medium Tank",
       "latitude": 39.063066,
       "longitude": -96.782084,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Henry Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80745",
       "photo_urls": []
     },
@@ -21513,7 +21639,7 @@
       "title": "M113 Armored Personnel Carrier",
       "latitude": 39.062949,
       "longitude": -96.782221,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Cameron Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80746",
       "photo_urls": []
     },
@@ -21522,7 +21648,7 @@
       "title": "M36 Tank Destroyer",
       "latitude": 39.062907,
       "longitude": -96.782296,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Henry Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80747",
       "photo_urls": []
     },
@@ -21531,7 +21657,7 @@
       "title": "M3A1 37 mm Anti-Tank Gun",
       "latitude": 39.062852,
       "longitude": -96.782101,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Cameron Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80756",
       "photo_urls": []
     },
@@ -21540,7 +21666,7 @@
       "title": "M24 Chaffee Light Tank",
       "latitude": 39.063016,
       "longitude": -96.78195,
-      "directions": "Near , Fort Riley, ",
+      "directions": "Near Henry Avenue, Fort Riley, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80757",
       "photo_urls": []
     },
@@ -21648,7 +21774,7 @@
       "title": "Harahey",
       "latitude": 39.181465,
       "longitude": -96.574675,
-      "directions": "Near , Manhattan, ",
+      "directions": "Near Central Park Road, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80817",
       "photo_urls": []
     },
@@ -21657,7 +21783,7 @@
       "title": "Civil War Memorial",
       "latitude": 39.181275,
       "longitude": -96.575269,
-      "directions": "Near , Manhattan, ",
+      "directions": "Near North 11th Street, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80831",
       "photo_urls": []
     },
@@ -21666,7 +21792,7 @@
       "title": "Spanish American War Veterans Memorial",
       "latitude": 39.181352,
       "longitude": -96.575268,
-      "directions": "Near , Manhattan, ",
+      "directions": "Near North 11th Street, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80833",
       "photo_urls": []
     },
@@ -21693,7 +21819,7 @@
       "title": "The Hartford House",
       "latitude": 39.192613,
       "longitude": -96.596146,
-      "directions": "On , Manhattan, ",
+      "directions": "On Claflin Road, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80861",
       "photo_urls": []
     },
@@ -21711,7 +21837,7 @@
       "title": "Civil War Memorial",
       "latitude": 39.181275,
       "longitude": -96.590301,
-      "directions": "Near , Manhattan, ",
+      "directions": "Near Poyntz Avenue, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80865",
       "photo_urls": []
     },
@@ -21747,7 +21873,7 @@
       "title": "1893 Chicago World's Fair Statues",
       "latitude": 39.202613,
       "longitude": -96.302415,
-      "directions": "Near , Wamego, ",
+      "directions": "Near 6th Street, Wamego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80909",
       "photo_urls": []
     },
@@ -21756,7 +21882,7 @@
       "title": "Sand and Quartz Boulder",
       "latitude": 39.202603,
       "longitude": -96.302262,
-      "directions": "Near , Wamego, ",
+      "directions": "Near 6th Street, Wamego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80910",
       "photo_urls": []
     },
@@ -21774,7 +21900,7 @@
       "title": "War Memorial",
       "latitude": 39.20658,
       "longitude": -96.315261,
-      "directions": "Near , Wamego, ",
+      "directions": "Near Country Club Drive, Wamego, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80926",
       "photo_urls": []
     },
@@ -21963,7 +22089,7 @@
       "title": "Better Homes & Gardens' Highest Community Honor",
       "latitude": 39.373351,
       "longitude": -97.128841,
-      "directions": "Near , Clay Center, ",
+      "directions": "Near 4th Street, Clay Center, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=81013",
       "photo_urls": []
     },
@@ -22107,7 +22233,7 @@
       "title": "Civil War Memorial",
       "latitude": 39.383964,
       "longitude": -96.418008,
-      "directions": "Near , Westmoreland, ",
+      "directions": "Near Pine Street, Westmoreland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=81191",
       "photo_urls": []
     },
@@ -22116,7 +22242,7 @@
       "title": "Elmo Burkman",
       "latitude": 39.383899,
       "longitude": -96.41803,
-      "directions": "On , Westmoreland, ",
+      "directions": "On Pine Street, Westmoreland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=81192",
       "photo_urls": []
     },
@@ -22368,7 +22494,7 @@
       "title": "War Memorial",
       "latitude": 38.577141,
       "longitude": -97.659032,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near Stockholm Circle, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=81795",
       "photo_urls": []
     },
@@ -22836,7 +22962,7 @@
       "title": "Saint Mary",
       "latitude": 39.277438,
       "longitude": -94.906615,
-      "directions": "Near , Leavenworth, ",
+      "directions": "Near South 4th Street, Leavenworth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86756",
       "photo_urls": []
     },
@@ -23061,7 +23187,7 @@
       "title": "The Butterfield Trail",
       "latitude": 38.971367,
       "longitude": -97.033998,
-      "directions": "On , Chapman, ",
+      "directions": "On Hilltop Drive, Chapman, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=90427",
       "photo_urls": []
     },
@@ -23160,7 +23286,7 @@
       "title": "Jessie Gertrude Johnson",
       "latitude": 38.836923,
       "longitude": -97.580389,
-      "directions": "Near , Salina, ",
+      "directions": "Near East Iron Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=92225",
       "photo_urls": []
     },
@@ -23169,7 +23295,7 @@
       "title": "War Memorial",
       "latitude": 38.836986,
       "longitude": -97.580403,
-      "directions": "Near , Salina, ",
+      "directions": "Near East Iron Avenue, Salina, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=92226",
       "photo_urls": []
     },
@@ -23241,7 +23367,7 @@
       "title": "Veterans Memorial",
       "latitude": 38.364835,
       "longitude": -97.643644,
-      "directions": "Near , McPherson, ",
+      "directions": "Near Cemetery Drive, McPherson, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=92300",
       "photo_urls": []
     },
@@ -23565,7 +23691,7 @@
       "title": "Civil War Memorial",
       "latitude": 38.179846,
       "longitude": -97.094533,
-      "directions": "Near , near Peabody, ",
+      "directions": "Near Old Mill Road, near Peabody, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95252",
       "photo_urls": []
     },
@@ -23772,7 +23898,7 @@
       "title": "Messiah Chorus",
       "latitude": 38.579196,
       "longitude": -97.670397,
-      "directions": "Near , Lindsborg, ",
+      "directions": "Near McKinley Court, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95408",
       "photo_urls": []
     },
@@ -23781,7 +23907,7 @@
       "title": "The Terrible Swedes • Coach Ray Hahn • Dr. Ted Kessinger",
       "latitude": 38.582171,
       "longitude": -97.668132,
-      "directions": "On , Lindsborg, ",
+      "directions": "On East Swensson Avenue, Lindsborg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95415",
       "photo_urls": []
     },
@@ -23907,7 +24033,7 @@
       "title": "Civil War Memorial",
       "latitude": 38.883738,
       "longitude": -98.837015,
-      "directions": "Near , Russell, ",
+      "directions": "Near East Wichita Avenue, Russell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95542",
       "photo_urls": []
     },
@@ -23916,7 +24042,7 @@
       "title": "Alexander McKeefer and John Lynch",
       "latitude": 38.883905,
       "longitude": -98.837213,
-      "directions": "Near , Russell, ",
+      "directions": "Near East Wichita Avenue, Russell, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95544",
       "photo_urls": []
     },
@@ -23988,7 +24114,7 @@
       "title": "Avenue of Flags",
       "latitude": 38.884659,
       "longitude": -99.318553,
-      "directions": "Near , Hays, ",
+      "directions": "Near Vine Street, Hays, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95635",
       "photo_urls": []
     },
@@ -24150,7 +24276,7 @@
       "title": "A Soldier Town",
       "latitude": 38.18247,
       "longitude": -99.220826,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K-242, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95839",
       "photo_urls": []
     },
@@ -24159,7 +24285,7 @@
       "title": "The Frontier Army and the U.S. Mail",
       "latitude": 38.18785,
       "longitude": -99.216852,
-      "directions": "Near , Fort Larned National Historic Site, ",
+      "directions": "Near K156 Highway, Fort Larned National Historic Site, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95846",
       "photo_urls": []
     },
@@ -24798,7 +24924,7 @@
       "title": "\"Wheels of Progress\"",
       "latitude": 38.939309,
       "longitude": -94.796159,
-      "directions": "Near , Olathe, ",
+      "directions": "Near South Ridgeview Road, Olathe, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=99462",
       "photo_urls": []
     },
