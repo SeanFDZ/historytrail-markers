@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-04-30T06:02:32.790Z",
+  "generated": "2026-05-01T06:02:25.009Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 63908,
-  "total_regions": 30,
+  "total_markers": 66678,
+  "total_regions": 31,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -372,6 +372,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 7568,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-ks",
+      "name": "Kansas",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ks.json",
+      "markers": 2770,
+      "size_bytes": 828599,
+      "updated": "2026-05-01",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 2770,
         "removed": 0,
         "modified": 0
       }
