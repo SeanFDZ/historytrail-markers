@@ -3,9 +3,9 @@
   "region_name": "Nebraska",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.481Z",
-  "source_timestamp": "2026-04-11T19:19:47.481Z",
-  "marker_count": 1309,
+  "generated": "2026-05-01T06:02:14.268Z",
+  "source_timestamp": "2026-05-01T06:02:14.268Z",
+  "marker_count": 1328,
   "markers": [
     {
       "id": "101391",
@@ -5754,7 +5754,7 @@
       "title": "American Legion Post No. 240 War Memorials",
       "latitude": 40.50308869,
       "longitude": -97.38830566,
-      "directions": "On , Milligan, ",
+      "directions": "On N Street, Milligan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269029",
       "photo_urls": []
     },
@@ -6489,7 +6489,7 @@
     },
     {
       "id": "287847",
-      "title": "In Memory of Our Fathers",
+      "title": "Civil War Memorial",
       "latitude": 40.59973307,
       "longitude": -98.39145506,
       "directions": "Near North Burlington Avenue (U.S. 34/281) , Hastings, (On the right when traveling north)",
@@ -7154,6 +7154,177 @@
       "photo_urls": []
     },
     {
+      "id": "292955",
+      "title": "This memorial is erected to the memory of the children of Pheobe, Ann and Henson Wiseman",
+      "latitude": 42.749,
+      "longitude": -97.07897222,
+      "directions": "On 573 Avenue, near Wynot, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292955",
+      "photo_urls": []
+    },
+    {
+      "id": "293300",
+      "title": "Gretna Fish Hatchery",
+      "latitude": 41.02045441,
+      "longitude": -96.24751966,
+      "directions": "Near State Route 31, Gretna, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293300",
+      "photo_urls": []
+    },
+    {
+      "id": "293351",
+      "title": "Welcome to the Canyon Ponds",
+      "latitude": 41.02077826,
+      "longitude": -96.24759337,
+      "directions": "Near State Route 31, Gretna, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293351",
+      "photo_urls": []
+    },
+    {
+      "id": "293375",
+      "title": "The Yutan Oto Indian Village",
+      "latitude": 41.23393543,
+      "longitude": -96.39905637,
+      "directions": "On County Road M (State Route 92) , Yutan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293375",
+      "photo_urls": []
+    },
+    {
+      "id": "293400",
+      "title": "New Pennsylvania Cemetery",
+      "latitude": 41.15388064,
+      "longitude": -96.22538881,
+      "directions": "On Ridgemont Street, Gretna, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293400",
+      "photo_urls": []
+    },
+    {
+      "id": "293426",
+      "title": "Grand Island",
+      "latitude": 40.900481,
+      "longitude": -98.35901054,
+      "directions": "Near West Stolley Park Road, Grand Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293426",
+      "photo_urls": []
+    },
+    {
+      "id": "294237",
+      "title": "1872 Lowell 1972",
+      "latitude": 40.6475321,
+      "longitude": -98.8471863,
+      "directions": "On Lowell Road, Lowell, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294237",
+      "photo_urls": []
+    },
+    {
+      "id": "294265",
+      "title": "Frontier Forts in Nebraska",
+      "latitude": 40.6704288,
+      "longitude": -99.1572711,
+      "directions": "Near Interstate 80, Kearney, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294265",
+      "photo_urls": []
+    },
+    {
+      "id": "294410",
+      "title": "The Plum Creek Massacre",
+      "latitude": 40.6727,
+      "longitude": -99.6058,
+      "directions": "On B Road (Local Route 748) , Bertrand, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294410",
+      "photo_urls": []
+    },
+    {
+      "id": "294411",
+      "title": "Plum Creek Massacre Site",
+      "latitude": 40.6727,
+      "longitude": -99.6058,
+      "directions": "On Local Route 748, Bertrand, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294411",
+      "photo_urls": []
+    },
+    {
+      "id": "294412",
+      "title": "The Plum Creek Massacre",
+      "latitude": 40.6725514,
+      "longitude": -99.6057925,
+      "directions": "On B Road, Bertrand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294412",
+      "photo_urls": []
+    },
+    {
+      "id": "294426",
+      "title": "Oregon Trail",
+      "latitude": 40.67255,
+      "longitude": -99.6058,
+      "directions": "On B Road, near Bertrand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294426",
+      "photo_urls": []
+    },
+    {
+      "id": "294427",
+      "title": "Pony Express",
+      "latitude": 40.67255,
+      "longitude": -99.6058,
+      "directions": "On B Road, near Bertrand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294427",
+      "photo_urls": []
+    },
+    {
+      "id": "294428",
+      "title": "Historic Plum Creek History",
+      "latitude": 40.67255,
+      "longitude": -99.6058,
+      "directions": "On B Road, near Bertrand, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294428",
+      "photo_urls": []
+    },
+    {
+      "id": "294500",
+      "title": "The Art Center",
+      "latitude": 40.59045299,
+      "longitude": -98.37380182,
+      "directions": "Near East 7th Street, Hastings, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294500",
+      "photo_urls": []
+    },
+    {
+      "id": "294512",
+      "title": "Historic Plum Creek Cemetery Information & Directory",
+      "latitude": 40.67255,
+      "longitude": -99.6058,
+      "directions": "On B Road, near Bertrand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294512",
+      "photo_urls": []
+    },
+    {
+      "id": "294540",
+      "title": "Sarepta Gore Fly",
+      "latitude": 40.6726829,
+      "longitude": -99.6058176,
+      "directions": "On B Road, Bertrand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294540",
+      "photo_urls": []
+    },
+    {
+      "id": "294619",
+      "title": "1883 American Elm",
+      "latitude": 40.59295828,
+      "longitude": -98.37397494,
+      "directions": "Near Turner Avenue, Hastings, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294619",
+      "photo_urls": []
+    },
+    {
+      "id": "298136",
+      "title": "Prehistoric Burial Site",
+      "latitude": 41.03282373,
+      "longitude": -96.31340777,
+      "directions": "Near Eugene T. Mahoney State Park Road, Ashland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298136",
+      "photo_urls": []
+    },
+    {
       "id": "30408",
       "title": "Martin Brothers Historic Memorial",
       "latitude": 40.756598,
@@ -7221,7 +7392,7 @@
       "title": "Trans-Mississippi and International Exposition of 1898",
       "latitude": 41.259149,
       "longitude": -95.924601,
-      "directions": "Near , Omaha, (On the right when traveling east)",
+      "directions": "Near Douglas Street, Omaha, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33044",
       "photo_urls": []
     },
@@ -7482,7 +7653,7 @@
       "title": "The Lincoln Memorial Highway",
       "latitude": 40.922597,
       "longitude": -98.344889,
-      "directions": "On , Grand Island, ",
+      "directions": "On West 2nd Street, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=45203",
       "photo_urls": []
     },
@@ -7680,7 +7851,7 @@
       "title": "Do You Live Near a Homestead?",
       "latitude": 40.285721,
       "longitude": -96.826131,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near West State Highway 4 Street, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47512",
       "photo_urls": []
     },
@@ -7689,7 +7860,7 @@
       "title": "The Homestead Heritage Center",
       "latitude": 40.285693,
       "longitude": -96.826555,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47513",
       "photo_urls": []
     },
@@ -7698,7 +7869,7 @@
       "title": "Walk in Their Shoes",
       "latitude": 40.285431,
       "longitude": -96.826367,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near West State Highway 4 Street, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47514",
       "photo_urls": []
     },
@@ -7707,7 +7878,7 @@
       "title": "Homesteading's Legacy is Written on the Land",
       "latitude": 40.285496,
       "longitude": -96.826898,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47518",
       "photo_urls": []
     },
@@ -7716,7 +7887,7 @@
       "title": "A Prairie Reborn",
       "latitude": 40.285496,
       "longitude": -96.826898,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47519",
       "photo_urls": []
     },
@@ -7725,7 +7896,7 @@
       "title": "Is All Barbed Wire the Same?",
       "latitude": 40.285214,
       "longitude": -96.826962,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47523",
       "photo_urls": []
     },
@@ -7734,7 +7905,7 @@
       "title": "Close Quarters",
       "latitude": 40.284756,
       "longitude": -96.826866,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47527",
       "photo_urls": []
     },
@@ -7743,7 +7914,7 @@
       "title": "Boundaries of Freedom",
       "latitude": 40.284784,
       "longitude": -96.82715,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47577",
       "photo_urls": []
     },
@@ -7752,7 +7923,7 @@
       "title": "Success Was Only Natural",
       "latitude": 40.285059,
       "longitude": -96.828609,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47580",
       "photo_urls": []
     },
@@ -7761,7 +7932,7 @@
       "title": "Roads to Success",
       "latitude": 40.286663,
       "longitude": -96.827434,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47584",
       "photo_urls": []
     },
@@ -7770,7 +7941,7 @@
       "title": "Daniel and Agnes Freeman",
       "latitude": 40.286466,
       "longitude": -96.827134,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Southwest 75th Road, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47585",
       "photo_urls": []
     },
@@ -7779,7 +7950,7 @@
       "title": "A Legacy of Change",
       "latitude": 40.290984,
       "longitude": -96.834837,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Nebraska 4, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47586",
       "photo_urls": []
     },
@@ -7788,7 +7959,7 @@
       "title": "Deep Roots in the Earth",
       "latitude": 40.290644,
       "longitude": -96.834124,
-      "directions": "Near , near Beatrice, ",
+      "directions": "Near Nebraska 4, near Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47596",
       "photo_urls": []
     },
@@ -7869,7 +8040,7 @@
       "title": "Legion Memorial Park Lily Pond",
       "latitude": 40.394088,
       "longitude": -95.837216,
-      "directions": "Near , Auburn, ",
+      "directions": "Near J Street, Auburn, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48134",
       "photo_urls": []
     },
@@ -7959,7 +8130,7 @@
       "title": "Freedom Fighters",
       "latitude": 40.254614,
       "longitude": -96.747008,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48228",
       "photo_urls": []
     },
@@ -7968,7 +8139,7 @@
       "title": "Containing Communism - The Berlin and Cuban Crises and Vietnam",
       "latitude": 40.254663,
       "longitude": -96.747027,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48231",
       "photo_urls": []
     },
@@ -7977,7 +8148,7 @@
       "title": "Fighting Communism - Korea and the Cold War",
       "latitude": 40.255007,
       "longitude": -96.746829,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48232",
       "photo_urls": []
     },
@@ -7995,7 +8166,7 @@
       "title": "World War I",
       "latitude": 40.254712,
       "longitude": -96.746772,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48267",
       "photo_urls": []
     },
@@ -8004,7 +8175,7 @@
       "title": "War Efforts at Home",
       "latitude": 40.254575,
       "longitude": -96.746791,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48270",
       "photo_urls": []
     },
@@ -8013,7 +8184,7 @@
       "title": "World War II",
       "latitude": 40.254506,
       "longitude": -96.746896,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48279",
       "photo_urls": []
     },
@@ -8022,7 +8193,7 @@
       "title": "Beatrice's Own - Civil War and the Spanish-American War",
       "latitude": 40.254579,
       "longitude": -96.746989,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48286",
       "photo_urls": []
     },
@@ -8031,7 +8202,7 @@
       "title": "Beatrice's Own - Company C 134th Infantry Regiment Nebraska National Guard",
       "latitude": 40.254716,
       "longitude": -96.747057,
-      "directions": "Near , Beatrice, ",
+      "directions": "Near South 6th Street, Beatrice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=48375",
       "photo_urls": []
     },
@@ -8301,7 +8472,7 @@
       "title": "Historic Prospect Hill -- Omaha's Pioneer Cemetery",
       "latitude": 41.276819,
       "longitude": -95.960214,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Prospect Hill Cemetery Road, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53108",
       "photo_urls": []
     },
@@ -8373,7 +8544,7 @@
       "title": "Commemorating Loup Fork Ferry",
       "latitude": 41.418233,
       "longitude": -97.361583,
-      "directions": "Near , Columbus, ",
+      "directions": "Near 26th Avenue, Columbus, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53188",
       "photo_urls": []
     },
@@ -8382,7 +8553,7 @@
       "title": "The Road to Zion",
       "latitude": 41.419071,
       "longitude": -97.361864,
-      "directions": "Near , Columbus, ",
+      "directions": "Near 26th Avenue, Columbus, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53192",
       "photo_urls": []
     },
@@ -8535,7 +8706,7 @@
       "title": "La Grande Isle",
       "latitude": 40.90049,
       "longitude": -98.358994,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Stolley Park Road, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53258",
       "photo_urls": []
     },
@@ -8544,7 +8715,7 @@
       "title": "Oldest Remaining School House",
       "latitude": 40.900855,
       "longitude": -98.358965,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Stolley Park Road, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53263",
       "photo_urls": []
     },
@@ -8553,7 +8724,7 @@
       "title": "Original Home of the Stolley Family",
       "latitude": 40.900588,
       "longitude": -98.358997,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Stolley Park Road, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=53264",
       "photo_urls": []
     },
@@ -8616,7 +8787,7 @@
       "title": "Preserving Our Heritage",
       "latitude": 41.264681,
       "longitude": -95.92453,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Riverfront Drive, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57970",
       "photo_urls": []
     },
@@ -8625,7 +8796,7 @@
       "title": "People, Places, and Stories",
       "latitude": 41.264681,
       "longitude": -95.924499,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Riverfront Drive, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57978",
       "photo_urls": []
     },
@@ -8868,7 +9039,7 @@
       "title": "Andrew Jackson Poppleton",
       "latitude": 41.278025,
       "longitude": -95.960185,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58201",
       "photo_urls": []
     },
@@ -8877,7 +9048,7 @@
       "title": "Johan and Sophia Ahmanson",
       "latitude": 41.278041,
       "longitude": -95.959924,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58207",
       "photo_urls": []
     },
@@ -8886,7 +9057,7 @@
       "title": "James G. Megeath",
       "latitude": 41.27786,
       "longitude": -95.959773,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58234",
       "photo_urls": []
     },
@@ -8895,7 +9066,7 @@
       "title": "Alfred Sorenson",
       "latitude": 41.278248,
       "longitude": -95.96017,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58237",
       "photo_urls": []
     },
@@ -8904,7 +9075,7 @@
       "title": "William Davis Brown",
       "latitude": 41.278209,
       "longitude": -95.960204,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58275",
       "photo_urls": []
     },
@@ -8913,7 +9084,7 @@
       "title": "John Wesley Nichols",
       "latitude": 41.278461,
       "longitude": -95.960266,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58277",
       "photo_urls": []
     },
@@ -8922,7 +9093,7 @@
       "title": "Spanish-American War Memorial",
       "latitude": 41.278609,
       "longitude": -95.960347,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58332",
       "photo_urls": []
     },
@@ -8931,7 +9102,7 @@
       "title": "Joseph Francis Bauman",
       "latitude": 41.278478,
       "longitude": -95.960002,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Parker Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58338",
       "photo_urls": []
     },
@@ -9291,7 +9462,7 @@
       "title": "Hall County Veterans Memorial Park",
       "latitude": 40.946575,
       "longitude": -98.359705,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Capital Avenue, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59852",
       "photo_urls": []
     },
@@ -9300,7 +9471,7 @@
       "title": "Vietnam War Memorial",
       "latitude": 40.946619,
       "longitude": -98.35972,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Capital Avenue, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59853",
       "photo_urls": []
     },
@@ -9309,7 +9480,7 @@
       "title": "6th Bomb Group",
       "latitude": 40.946755,
       "longitude": -98.359458,
-      "directions": "Near , Grand Island, ",
+      "directions": "Near West Capital Avenue, Grand Island, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59854",
       "photo_urls": []
     },
@@ -9516,7 +9687,7 @@
       "title": "\"America's Mission\"",
       "latitude": 40.821838,
       "longitude": -96.706043,
-      "directions": "Near , Lincoln, ",
+      "directions": "Near 10th Street, Lincoln, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66848",
       "photo_urls": []
     },
@@ -9525,7 +9696,7 @@
       "title": "Osborne Athletic Complex",
       "latitude": 40.821835,
       "longitude": -96.706137,
-      "directions": "Near , Lincoln, ",
+      "directions": "Near Stadium Drive, Lincoln, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66849",
       "photo_urls": []
     },
@@ -9642,7 +9813,7 @@
       "title": "The Missouri River",
       "latitude": 40.667735,
       "longitude": -95.8295,
-      "directions": "Near , Nebraska City, ",
+      "directions": "Near 6th Avenue, Nebraska City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66978",
       "photo_urls": []
     },
@@ -9651,7 +9822,7 @@
       "title": "Earth Lodge Villages",
       "latitude": 40.667572,
       "longitude": -95.831957,
-      "directions": "Near , Nebraska City, ",
+      "directions": "Near 6th Avenue, Nebraska City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66979",
       "photo_urls": []
     },
@@ -9660,7 +9831,7 @@
       "title": "Hunter, Watchdog and Faithful Friend",
       "latitude": 40.666121,
       "longitude": -95.830897,
-      "directions": "Near , Nebraska City, ",
+      "directions": "Near Valmont Drive, Nebraska City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66981",
       "photo_urls": []
     },
@@ -9669,7 +9840,7 @@
       "title": "Barge / Keelboat (replica)",
       "latitude": 40.666152,
       "longitude": -95.830875,
-      "directions": "Near , Nebraska City, ",
+      "directions": "Near Valmont Drive, Nebraska City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=66982",
       "photo_urls": []
     },
@@ -9795,7 +9966,7 @@
       "title": "A River of Hope",
       "latitude": 41.265517,
       "longitude": -95.923562,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Riverfront Drive, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=72066",
       "photo_urls": []
     },
@@ -10137,7 +10308,7 @@
       "title": "Lewis and Clark Campsites",
       "latitude": 41.534888,
       "longitude": -96.131058,
-      "directions": "On , Blair, (On the right when traveling north)",
+      "directions": "On Prospect Street, Blair, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7794",
       "photo_urls": []
     },
@@ -10434,7 +10605,7 @@
       "title": "Oregon Trail Memorial",
       "latitude": 41.80575,
       "longitude": -103.83001667,
-      "directions": "On Robidoux Road (also known as Robadeau Pass Road), Gering, (On the right when traveling west)",
+      "directions": "On Roubadeau Pass Road, Gering, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=78704",
       "photo_urls": []
     },
@@ -11109,7 +11280,7 @@
       "title": "Jan Rosicky",
       "latitude": 41.239653,
       "longitude": -95.995317,
-      "directions": "Near , Omaha, ",
+      "directions": "Near Center Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83239",
       "photo_urls": []
     },
@@ -11118,7 +11289,7 @@
       "title": "Veterans Memorial",
       "latitude": 41.23711,
       "longitude": -95.994488,
-      "directions": "Near , Omaha, ",
+      "directions": "Near South 51st Street, Omaha, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83240",
       "photo_urls": []
     },
@@ -11415,7 +11586,7 @@
       "title": "The Ferguson House",
       "latitude": 40.80676944,
       "longitude": -96.69806667,
-      "directions": "On S. 16th Street, Lincoln, ",
+      "directions": "On South 16th Street, Lincoln, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=87762",
       "photo_urls": []
     },
