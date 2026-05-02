@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-01T06:02:25.009Z",
+  "generated": "2026-05-02T06:03:11.129Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 66678,
-  "total_regions": 31,
+  "total_markers": 67887,
+  "total_regions": 32,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -436,6 +436,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 3490,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-me",
+      "name": "Maine",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-me.json",
+      "markers": 1209,
+      "size_bytes": 374817,
+      "updated": "2026-05-02",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 1208,
         "removed": 0,
         "modified": 0
       }
