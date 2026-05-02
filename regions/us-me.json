@@ -3,9 +3,9 @@
   "region_name": "Maine",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.178Z",
-  "source_timestamp": "2026-04-11T19:19:47.178Z",
-  "marker_count": 1204,
+  "generated": "2026-05-02T06:03:01.044Z",
+  "source_timestamp": "2026-05-02T06:03:01.044Z",
+  "marker_count": 1209,
   "markers": [
     {
       "id": "102285",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": "116040",
-      "title": "Hilton House, 1892 & Sunken Garden, 1904",
+      "title": "Hilton House, 1892 / Sunken Garden, 1904",
       "latitude": 44.00276743,
       "longitude": -69.6660186,
       "directions": "On Main Street (U.S. 1) , Wiscasset, (On the right when traveling north)",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "116152",
-      "title": "Immigration",
+      "title": "Immigration / L'Immigration",
       "latitude": 44.54726,
       "longitude": -69.629795,
       "directions": "On Water Street, Waterville, (On the right",
@@ -1281,7 +1281,7 @@
       "title": "Saint Croix Island",
       "latitude": 45.12400336,
       "longitude": -67.14726548,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125115",
       "photo_urls": []
     },
@@ -1290,7 +1290,7 @@
       "title": "Welcome to Saint Croix Island International Historic Site / An Enduring Legacy",
       "latitude": 45.12398012,
       "longitude": -67.14690193,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125121",
       "photo_urls": []
     },
@@ -1299,7 +1299,7 @@
       "title": "Strangers Offshore / Étrangers du grand large",
       "latitude": 45.1239582,
       "longitude": -67.14669393,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125159",
       "photo_urls": []
     },
@@ -1308,7 +1308,7 @@
       "title": "Settling on Saint Croix Island / Colonisation de l'île Sainte-Croix",
       "latitude": 45.12406194,
       "longitude": -67.1466634,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125161",
       "photo_urls": []
     },
@@ -1326,7 +1326,7 @@
       "title": "Building A Community / Tout à bâtir",
       "latitude": 45.12396604,
       "longitude": -67.14649981,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125214",
       "photo_urls": []
     },
@@ -1335,7 +1335,7 @@
       "title": "Exploring the Coast / Exploration de la côte",
       "latitude": 45.12392868,
       "longitude": -67.14618836,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125217",
       "photo_urls": []
     },
@@ -1362,7 +1362,7 @@
       "title": "Trapped For The Winter / Prisonniers de l'hiver",
       "latitude": 45.12398034,
       "longitude": -67.14601219,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125238",
       "photo_urls": []
     },
@@ -1371,7 +1371,7 @@
       "title": "Lessons Learned / Leçons durement apprises",
       "latitude": 45.12384583,
       "longitude": -67.14585416,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125245",
       "photo_urls": []
     },
@@ -1380,7 +1380,7 @@
       "title": "Imagining the Settlement / La colonie telle qu'on l'imagine",
       "latitude": 45.12387826,
       "longitude": -67.14572005,
-      "directions": "Near , near Calais, ",
+      "directions": "Near Saint Croix Drive, near Calais, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125257",
       "photo_urls": []
     },
@@ -1497,7 +1497,7 @@
       "title": "Baxter State Park",
       "latitude": 45.919848,
       "longitude": -68.857398,
-      "directions": "Near , Millinocket, ",
+      "directions": "Near Chimney Pond Trail, Millinocket, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=136198",
       "photo_urls": []
     },
@@ -4653,7 +4653,7 @@
     },
     {
       "id": "22187",
-      "title": "New Park [New Shipyard Mall]",
+      "title": "New Park",
       "latitude": 43.08167,
       "longitude": -70.7385,
       "directions": "Near Mac Donough Avenue, Kittery, ",
@@ -5223,16 +5223,16 @@
       "title": "Civil War Ships on Cony Beach",
       "latitude": 44.905625,
       "longitude": -67.01267222,
-      "directions": "On , Eastport, ",
+      "directions": "On Deep Cove Road, Eastport, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257843",
       "photo_urls": []
     },
     {
       "id": "257853",
-      "title": "U.S.S. Minnesota/ U.S.S. Vermont",
+      "title": "U.S.S. Minnesota / U.S.S. Vermont",
       "latitude": 44.905625,
       "longitude": -67.01267222,
-      "directions": "Near , Eastport, ",
+      "directions": "Near Deep Cove Road, Eastport, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257853",
       "photo_urls": []
     },
@@ -5241,7 +5241,7 @@
       "title": "U.S.S. Richmond",
       "latitude": 44.90560278,
       "longitude": -67.01270278,
-      "directions": "Near , Eastport, ",
+      "directions": "Near Deep Cove Road, Eastport, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257855",
       "photo_urls": []
     },
@@ -5439,7 +5439,7 @@
       "title": "The Littlefield Homestead",
       "latitude": 43.27608889,
       "longitude": -70.71089167,
-      "directions": "Near , near South Berwick, ",
+      "directions": "Near no nearby street, near South Berwick, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=258639",
       "photo_urls": []
     },
@@ -5547,7 +5547,7 @@
       "title": "USS Wabash / USS Franklin",
       "latitude": 44.90560833,
       "longitude": -67.01269444,
-      "directions": "Near , near Eastport, ",
+      "directions": "Near Deep Cove Road, near Eastport, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=258812",
       "photo_urls": []
     },
@@ -5625,7 +5625,7 @@
     },
     {
       "id": "258936",
-      "title": "Stacy House - Albee House - Wiscasset Inn",
+      "title": "Stacy House - c. 1825 / Albee House - 1904 / Wiscasset Inn - 1920",
       "latitude": 44.00368947,
       "longitude": -69.66542002,
       "directions": "On Federal Street, Wiscasset, (On the right when traveling north)",
@@ -5706,7 +5706,7 @@
     },
     {
       "id": "258971",
-      "title": "Bailey-Tucker House - 1803",
+      "title": "Bailey-Tucker House 1803",
       "latitude": 44.00467745,
       "longitude": -69.66745986,
       "directions": "On Bath Road (U.S. 1) , Wiscasset, (On the right when traveling north)",
@@ -5742,7 +5742,7 @@
     },
     {
       "id": "258989",
-      "title": "Lincoln and Kennebec Bank / Wiscasset Public Library",
+      "title": "Lincoln and Kennebec Bank, 1805 / Wiscasset Public Library, 1929",
       "latitude": 44.00333073,
       "longitude": -69.66809547,
       "directions": "On High Street, Wiscasset, (On the right when traveling north)",
@@ -5760,7 +5760,7 @@
     },
     {
       "id": "258991",
-      "title": "Castle Tucker - 1807",
+      "title": "Castle Tucker 1807",
       "latitude": 44.00227947,
       "longitude": -69.66935369,
       "directions": "On High Street, Wiscasset, (On the right when traveling south)",
@@ -6093,7 +6093,7 @@
     },
     {
       "id": "259423",
-      "title": "Father of the United States Patent Office",
+      "title": "Father of the United States Patent Office / Le \"Pere du Bureau des Brevets Americains\"",
       "latitude": 44.08056655,
       "longitude": -69.17339418,
       "directions": "On Main Street (U.S. 1) , Thomaston, (On the right when traveling east)",
@@ -6102,7 +6102,7 @@
     },
     {
       "id": "259460",
-      "title": "Once a Tavern",
+      "title": "Once a Tavern / Une Ancienne Taverne",
       "latitude": 44.07926523,
       "longitude": -69.1804571,
       "directions": "On Main Street (U.S. 1) , Thomaston, (On the right when traveling north)",
@@ -6282,7 +6282,7 @@
     },
     {
       "id": "259597",
-      "title": "178 Years of History",
+      "title": "178 Years of History / 178 Ans d'Histoire",
       "latitude": 44.07756424,
       "longitude": -69.19319026,
       "directions": "On Main Street (U.S. 1) , Thomaston, (On the right when traveling east)",
@@ -6381,7 +6381,7 @@
     },
     {
       "id": "259677",
-      "title": "National Historic Civil Engineering Landmark - Portland Head Light",
+      "title": "Portland Head Light",
       "latitude": 43.62307772,
       "longitude": -70.20792312,
       "directions": "Near Captain Strout Circle, Cape Elizabeth, ",
@@ -6462,7 +6462,7 @@
     },
     {
       "id": "259837",
-      "title": "Balance Rock and the Ice Age/ Balance Rock Et L'ere Glaciarire",
+      "title": "Balance Rock and the Ice Age / Balance Rock Et L'ere Glaciarire",
       "latitude": 44.38899329,
       "longitude": -68.20045599,
       "directions": "On Albert Meadow, Bar Harbor, ",
@@ -6498,7 +6498,7 @@
     },
     {
       "id": "259954",
-      "title": "The Waterfront",
+      "title": "The Waterfront / La Front de Mer",
       "latitude": 44.39122842,
       "longitude": -68.20530004,
       "directions": "On West Street, Bar Harbor, (On the left when traveling east)",
@@ -6642,7 +6642,7 @@
     },
     {
       "id": "260034",
-      "title": "The Bar Harbor Club",
+      "title": "The Bar Harbor Club / La Club de Bar Harbor",
       "latitude": 44.39076048,
       "longitude": -68.20884232,
       "directions": "On West Street, Bar Harbor, (On the right when traveling west)",
@@ -6681,7 +6681,7 @@
       "title": "Conflict and Prosperity on the River",
       "latitude": 44.56710629,
       "longitude": -68.80324504,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260110",
       "photo_urls": []
     },
@@ -6726,7 +6726,7 @@
       "title": "A Grand Plan",
       "latitude": 44.56643281,
       "longitude": -68.80205708,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260115",
       "photo_urls": []
     },
@@ -6735,7 +6735,7 @@
       "title": "Digging Down and Building Up",
       "latitude": 44.56613004,
       "longitude": -68.80229015,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260117",
       "photo_urls": []
     },
@@ -6744,7 +6744,7 @@
       "title": "The Heart of the Fort",
       "latitude": 44.56612251,
       "longitude": -68.80230402,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260118",
       "photo_urls": []
     },
@@ -6753,7 +6753,7 @@
       "title": "Where Did the Soldiers Sleep?",
       "latitude": 44.56611893,
       "longitude": -68.80230737,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260119",
       "photo_urls": []
     },
@@ -6858,7 +6858,7 @@
     },
     {
       "id": "260201",
-      "title": "The Great Hotel Era",
+      "title": "The Great Hotel Era / L'Époque des Grands Hôtels",
       "latitude": 44.38568144,
       "longitude": -68.20370738,
       "directions": "On Main Street (State Route 3) , Bar Harbor, (On the right when traveling north)",
@@ -6921,7 +6921,7 @@
     },
     {
       "id": "260234",
-      "title": "The Town that Went to Sea",
+      "title": "The Town that Went to Sea / \"La Ville Tournée vers la mer\"",
       "latitude": 44.07228297,
       "longitude": -69.18215312,
       "directions": "On Water Street, Thomaston, (On the right when traveling east)",
@@ -8031,7 +8031,7 @@
       "title": "West Quoddy Head Bog",
       "latitude": 44.81143056,
       "longitude": -66.96065556,
-      "directions": "Near , near Lubec, ",
+      "directions": "Near no nearby street, near Lubec, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=285365",
       "photo_urls": []
     },
@@ -8216,6 +8216,51 @@
       "photo_urls": []
     },
     {
+      "id": "293353",
+      "title": "Lost Fishermen’s Memorial",
+      "latitude": 44.86215278,
+      "longitude": -66.98369722,
+      "directions": "On Water Street, Lubec, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293353",
+      "photo_urls": []
+    },
+    {
+      "id": "294354",
+      "title": "A Town House for All Occasions / Town House: Un Bâtiment Polyvalent",
+      "latitude": 44.2850665,
+      "longitude": -69.79148159,
+      "directions": "On 2nd Street, Hallowell, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294354",
+      "photo_urls": []
+    },
+    {
+      "id": "294973",
+      "title": "La frontière canado-américaine / The Canada-USA Border",
+      "latitude": 47.45953464,
+      "longitude": -69.22458243,
+      "directions": "Near Rue de la Frontière, near Estcourt Station, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294973",
+      "photo_urls": []
+    },
+    {
+      "id": "296650",
+      "title": "Bryant Pond Telephone Company",
+      "latitude": 44.37837634,
+      "longitude": -70.64627521,
+      "directions": "On North Main Street (State Route 26) , Woodstock, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296650",
+      "photo_urls": []
+    },
+    {
+      "id": "296651",
+      "title": "Welcome to the Madawaska Four Corners Park",
+      "latitude": 47.3560896,
+      "longitude": -68.33260299,
+      "directions": "On Main Street, Madawaska, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296651",
+      "photo_urls": []
+    },
+    {
       "id": "31696",
       "title": "Shipyard Mall",
       "latitude": 43.08208,
@@ -8307,7 +8352,7 @@
     },
     {
       "id": "46641",
-      "title": "Civil War Soldiers' Monument / Monumnet aux soldats et La Guerre de Sécession",
+      "title": "Civil War Soldiers' Monument / Monument aux soldats et La Guerre de Sécession",
       "latitude": 44.45887966,
       "longitude": -68.92428517,
       "directions": "On East Main Street (U.S. 1) , Searsport, (On the right when traveling east)",
@@ -8454,7 +8499,7 @@
       "title": "Federal Highway Administration Murrah Building Memorial",
       "latitude": 43.128228,
       "longitude": -70.716974,
-      "directions": "Near , near Kittery, ",
+      "directions": "Near Interstate 95, near Kittery, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50262",
       "photo_urls": []
     },
@@ -8490,7 +8535,7 @@
       "title": "Old Orchard World War Memorial",
       "latitude": 43.515021,
       "longitude": -70.376959,
-      "directions": "Near , Old Orchard Beach, ",
+      "directions": "Near Heath Street, Old Orchard Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50293",
       "photo_urls": []
     },
@@ -8499,7 +8544,7 @@
       "title": "Korean and Vietnam Wars Memorial",
       "latitude": 43.515075,
       "longitude": -70.377017,
-      "directions": "Near , Old Orchard Beach, ",
+      "directions": "Near Heath Street, Old Orchard Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50300",
       "photo_urls": []
     },
@@ -8508,7 +8553,7 @@
       "title": "World War II Memorial",
       "latitude": 43.515188,
       "longitude": -70.377304,
-      "directions": "Near , Old Orchard Beach, ",
+      "directions": "Near Sunset Drive, Old Orchard Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50301",
       "photo_urls": []
     },
@@ -8517,7 +8562,7 @@
       "title": "\"Father Bob\"",
       "latitude": 43.515188,
       "longitude": -70.377304,
-      "directions": "Near , Old Orchard Beach, ",
+      "directions": "Near Sunset Drive, Old Orchard Beach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=50328",
       "photo_urls": []
     },
@@ -8778,7 +8823,7 @@
       "title": "The Mould Loft (1917)",
       "latitude": 43.894105,
       "longitude": -69.815975,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=51988",
       "photo_urls": []
     },
@@ -8787,7 +8832,7 @@
       "title": "The Pitch Oven (1902)",
       "latitude": 43.894181,
       "longitude": -69.81572,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52007",
       "photo_urls": []
     },
@@ -8796,7 +8841,7 @@
       "title": "The Caulkers' Shed (1899)",
       "latitude": 43.894173,
       "longitude": -69.815188,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52031",
       "photo_urls": []
     },
@@ -8805,7 +8850,7 @@
       "title": "Bath Iron Works",
       "latitude": 43.894316,
       "longitude": -69.815468,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52032",
       "photo_urls": []
     },
@@ -8814,7 +8859,7 @@
       "title": "<i>Wyoming</i> Sculpture",
       "latitude": 43.894369,
       "longitude": -69.815746,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52033",
       "photo_urls": []
     },
@@ -8823,7 +8868,7 @@
       "title": "Site of the South Ways (ca. 1867)",
       "latitude": 43.894545,
       "longitude": -69.8157,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52036",
       "photo_urls": []
     },
@@ -8832,7 +8877,7 @@
       "title": "<i>Wyoming</i> Sculpture",
       "latitude": 43.894935,
       "longitude": -69.815371,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52038",
       "photo_urls": []
     },
@@ -8841,7 +8886,7 @@
       "title": "The Fitting-Out Pier (1906)",
       "latitude": 43.894761,
       "longitude": -69.815005,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52048",
       "photo_urls": []
     },
@@ -8850,7 +8895,7 @@
       "title": "Kennebec River",
       "latitude": 43.894943,
       "longitude": -69.814756,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52051",
       "photo_urls": []
     },
@@ -8859,7 +8904,7 @@
       "title": "Site of the North Ways (1901)",
       "latitude": 43.895034,
       "longitude": -69.815727,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52053",
       "photo_urls": []
     },
@@ -8868,7 +8913,7 @@
       "title": "Deckhouse from steamer <i>Winapie</i> ca.1909",
       "latitude": 43.895529,
       "longitude": -69.815769,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52056",
       "photo_urls": []
     },
@@ -8877,7 +8922,7 @@
       "title": "Launch day!",
       "latitude": 43.895197,
       "longitude": -69.815583,
-      "directions": "Near , Bath, ",
+      "directions": "Near Marshall Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52059",
       "photo_urls": []
     },
@@ -8886,7 +8931,7 @@
       "title": "Shipyard Owner's Home",
       "latitude": 43.895154,
       "longitude": -69.816538,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52082",
       "photo_urls": []
     },
@@ -8895,7 +8940,7 @@
       "title": "Transformer House (1909)",
       "latitude": 43.894823,
       "longitude": -69.816784,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52083",
       "photo_urls": []
     },
@@ -8904,7 +8949,7 @@
       "title": "Mill & Joiner Shop (1899)",
       "latitude": 43.894721,
       "longitude": -69.816631,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52084",
       "photo_urls": []
     },
@@ -8913,7 +8958,7 @@
       "title": "Site of the Blacksmith Shop (1897, 1913)",
       "latitude": 43.894464,
       "longitude": -69.816586,
-      "directions": "Near , Bath, ",
+      "directions": "Near Washington Street, Bath, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52095",
       "photo_urls": []
     },
@@ -8922,7 +8967,7 @@
       "title": "Fort Popham State Historic Site",
       "latitude": 43.753287,
       "longitude": -69.783912,
-      "directions": "Near , near Phippsburg, ",
+      "directions": "Near Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52096",
       "photo_urls": []
     },
@@ -8931,7 +8976,7 @@
       "title": "Fort Popham: Guardian of the Kennebec",
       "latitude": 43.755095,
       "longitude": -69.783343,
-      "directions": "Near , Phippsburg, ",
+      "directions": "Near Popham Road, Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52097",
       "photo_urls": []
     },
@@ -8940,7 +8985,7 @@
       "title": "The Casemate Key to a Fort's Design",
       "latitude": 43.755065,
       "longitude": -69.783327,
-      "directions": "Near , near Phippsburg, ",
+      "directions": "Near Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52116",
       "photo_urls": []
     },
@@ -8949,7 +8994,7 @@
       "title": "Firing a Cannon",
       "latitude": 43.75502,
       "longitude": -69.783327,
-      "directions": "Near , near Phippsburg, ",
+      "directions": "Near Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52117",
       "photo_urls": []
     },
@@ -8958,7 +9003,7 @@
       "title": "Forts on the Kennebec River",
       "latitude": 43.754989,
       "longitude": -69.783331,
-      "directions": "Near , near Phippsburg, ",
+      "directions": "Near Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52195",
       "photo_urls": []
     },
@@ -8967,7 +9012,7 @@
       "title": "Percival P. Baxter",
       "latitude": 43.754864,
       "longitude": -69.783397,
-      "directions": "On , near Phippsburg, ",
+      "directions": "On Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52196",
       "photo_urls": []
     },
@@ -8976,7 +9021,7 @@
       "title": "Sites of Forts in this Area",
       "latitude": 43.754806,
       "longitude": -69.783555,
-      "directions": "Near , near Phippsburg, ",
+      "directions": "Near Popham Road, near Phippsburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52199",
       "photo_urls": []
     },
@@ -9318,7 +9363,7 @@
       "title": "The Machias River",
       "latitude": 44.713617,
       "longitude": -67.45779,
-      "directions": "Near , Machias, ",
+      "directions": "Near Dublin Street, Machias, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=54743",
       "photo_urls": []
     },
@@ -9327,7 +9372,7 @@
       "title": "Easternmost Point in the U.S.A.",
       "latitude": 44.815015,
       "longitude": -66.950576,
-      "directions": "Near , near Lubec, ",
+      "directions": "Near South Lubec Road, near Lubec, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=54818",
       "photo_urls": []
     },
@@ -9534,7 +9579,7 @@
       "title": "Fort Knox",
       "latitude": 44.566299,
       "longitude": -68.80228,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55157",
       "photo_urls": []
     },
@@ -9543,7 +9588,7 @@
       "title": "The Casemate - Key to Fort Design",
       "latitude": 44.56604,
       "longitude": -68.802208,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55278",
       "photo_urls": []
     },
@@ -9552,7 +9597,7 @@
       "title": "Firing a Cannon",
       "latitude": 44.565942,
       "longitude": -68.802255,
-      "directions": "Near , Prospect, ",
+      "directions": "Near Fort Knox Road, Prospect, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=55337",
       "photo_urls": []
     },
@@ -10719,7 +10764,7 @@
     },
     {
       "id": "96269",
-      "title": "Portland Maine Fort Allen Park GAR memorial",
+      "title": "GAR Memorial",
       "latitude": 43.665435,
       "longitude": -70.240834,
       "directions": "On Eastern Promenade, Portland, ",
