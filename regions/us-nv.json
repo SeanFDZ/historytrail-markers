@@ -3,9 +3,9 @@
   "region_name": "Nevada",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:30.661Z",
-  "source_timestamp": "2026-04-11T19:21:30.661Z",
-  "marker_count": 1096,
+  "generated": "2026-05-02T06:03:01.069Z",
+  "source_timestamp": "2026-05-02T06:03:01.069Z",
+  "marker_count": 1109,
   "markers": [
     {
       "id": "100249",
@@ -2097,7 +2097,7 @@
     },
     {
       "id": "174098",
-      "title": "BOB",
+      "title": "Bob",
       "latitude": 39.30888889,
       "longitude": -119.65,
       "directions": "On C Street (State Route 341) , Virginia City, (On the left when traveling south)",
@@ -5340,7 +5340,7 @@
       "title": "Orion Clemens House",
       "latitude": 39.16666512,
       "longitude": -119.76960143,
-      "directions": "On N Division Street, Carson City, (On the right when traveling south)",
+      "directions": "On North Division Street, Carson City, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=284821",
       "photo_urls": []
     },
@@ -5565,7 +5565,7 @@
       "title": "Rancho Haven",
       "latitude": 39.84178455,
       "longitude": -119.95647799,
-      "directions": "On Rancho Drive, Reno, (On the left when traveling north)",
+      "directions": "On Rancho Drive, near Reno, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286416",
       "photo_urls": []
     },
@@ -5759,6 +5759,15 @@
       "photo_urls": []
     },
     {
+      "id": "293140",
+      "title": "San Pedro, Los Angeles & Salt Lake Railroad: Caliente to Uvada",
+      "latitude": 37.6124098,
+      "longitude": -114.5149743,
+      "directions": "On Depot Avenue, Caliente, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293140",
+      "photo_urls": []
+    },
+    {
       "id": "29324",
       "title": "Bootleg Canyon",
       "latitude": 35.98388333,
@@ -5804,6 +5813,24 @@
       "photo_urls": []
     },
     {
+      "id": "293311",
+      "title": "F-15 Eagle",
+      "latitude": 36.228762,
+      "longitude": -115.057327,
+      "directions": "On Kinley Avenue, Nellis Air Force Base, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293311",
+      "photo_urls": []
+    },
+    {
+      "id": "293318",
+      "title": "F-86 Sabrejet",
+      "latitude": 36.228414,
+      "longitude": -115.057851,
+      "directions": "On Kinley Avenue, Nellis Air Force Base, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293318",
+      "photo_urls": []
+    },
+    {
       "id": "29332",
       "title": "Queho's Cave",
       "latitude": 35.70968667,
@@ -5813,12 +5840,48 @@
       "photo_urls": []
     },
     {
+      "id": "293320",
+      "title": "F-111A",
+      "latitude": 36.228148,
+      "longitude": -115.058066,
+      "directions": "On Kinley Avenue, Nellis Air Force Base, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293320",
+      "photo_urls": []
+    },
+    {
+      "id": "293322",
+      "title": "F-105G Thunderchief",
+      "latitude": 36.227927,
+      "longitude": -115.058337,
+      "directions": "On Kinley Avenue, Nellis Air Force Base, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293322",
+      "photo_urls": []
+    },
+    {
       "id": "29333",
       "title": "George Frederick Colton and the Duplex Mine",
       "latitude": 35.46153833,
       "longitude": -114.91981667,
       "directions": "Near State Route 95, Searchlight, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29333",
+      "photo_urls": []
+    },
+    {
+      "id": "293612",
+      "title": "Hiko",
+      "latitude": 37.59686667,
+      "longitude": -115.22395,
+      "directions": "On Highway 318, near Hiko, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293612",
+      "photo_urls": []
+    },
+    {
+      "id": "293640",
+      "title": "John Mull's And The Road Kill Grill",
+      "latitude": 36.22706667,
+      "longitude": -115.21148333,
+      "directions": "Near Thom Boulevard, Las Vegas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293640",
       "photo_urls": []
     },
     {
@@ -5849,12 +5912,66 @@
       "photo_urls": []
     },
     {
+      "id": "295956",
+      "title": "Susan Coon Grave",
+      "latitude": 40.69020859,
+      "longitude": -118.49382068,
+      "directions": "Near Antelope Road, near Lassens Meadows, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295956",
+      "photo_urls": []
+    },
+    {
       "id": "29750",
       "title": "Nevada Added Station",
       "latitude": 39.23625242,
       "longitude": -119.590727,
       "directions": "On West Main Street, Dayton, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29750",
+      "photo_urls": []
+    },
+    {
+      "id": "297782",
+      "title": "Arrowhead Trail",
+      "latitude": 36.42631544,
+      "longitude": -114.46314633,
+      "directions": "On Valley of Fire Highway, Overton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297782",
+      "photo_urls": []
+    },
+    {
+      "id": "297784",
+      "title": "Arrowhead Trail",
+      "latitude": 36.42631667,
+      "longitude": -114.46316667,
+      "directions": "On Valley of Fire Highway (State Route 169) , near Moapa Valley, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297784",
+      "photo_urls": []
+    },
+    {
+      "id": "298056",
+      "title": "The Old Spanish Trail",
+      "latitude": 36.66646565,
+      "longitude": -114.51996744,
+      "directions": "On North Moapa Valley Boulevard (State Route 169) , Moapa Valley, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298056",
+      "photo_urls": []
+    },
+    {
+      "id": "298507",
+      "title": "Warm Springs Hotel",
+      "latitude": 39.1614107,
+      "longitude": -119.73710462,
+      "directions": "On Warm Springs Court, Carson City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298507",
+      "photo_urls": []
+    },
+    {
+      "id": "298613",
+      "title": "Nixon Wingfield Building",
+      "latitude": 37.70914384,
+      "longitude": -117.23505254,
+      "directions": "On Ramsey Street, Goldfield, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298613",
       "photo_urls": []
     },
     {
@@ -7875,7 +7992,7 @@
     },
     {
       "id": "67507",
-      "title": "About Your Journey ...",
+      "title": "About Your Journey …",
       "latitude": 40.76707077,
       "longitude": -115.92257692,
       "directions": "Near Interstate 80, near Elko, (On the right when traveling west)",
@@ -9171,7 +9288,7 @@
     },
     {
       "id": "89532",
-      "title": "In Memory Of \"Old Virginny\"",
+      "title": "In Memory of \"Old Virginny\"",
       "latitude": 39.23346,
       "longitude": -119.596949,
       "directions": "Near Cemetery Road, near Dayton, ",
@@ -9810,7 +9927,7 @@
     },
     {
       "id": "98183",
-      "title": "About Your Journey...",
+      "title": "About Your Journey…",
       "latitude": 39.003892,
       "longitude": -119.845745,
       "directions": "On Genoa Lane, Genoa, (On the right when traveling west)",
