@@ -3,9 +3,9 @@
   "region_name": "New Hampshire",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.497Z",
-  "source_timestamp": "2026-04-11T19:19:47.497Z",
-  "marker_count": 946,
+  "generated": "2026-05-02T06:03:01.060Z",
+  "source_timestamp": "2026-05-02T06:03:01.060Z",
+  "marker_count": 948,
   "markers": [
     {
       "id": "100671",
@@ -6254,6 +6254,24 @@
       "photo_urls": []
     },
     {
+      "id": "298168",
+      "title": "Black Yankees and The Sea",
+      "latitude": 43.076755,
+      "longitude": -70.75111,
+      "directions": "Near Marcy Street, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298168",
+      "photo_urls": []
+    },
+    {
+      "id": "298330",
+      "title": "Fort at No. 4",
+      "latitude": 43.23319444,
+      "longitude": -72.42418889,
+      "directions": "On Main Street (State Route 12) , Charlestown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298330",
+      "photo_urls": []
+    },
+    {
       "id": "31541",
       "title": "George Leonard Smith Gun",
       "latitude": 42.98051,
@@ -7848,7 +7866,7 @@
     },
     {
       "id": "96183",
-      "title": "Portsmouth NH Red Light District",
+      "title": "Red Light District",
       "latitude": 43.075817,
       "longitude": -70.751903,
       "directions": "On Marcy Street, Portsmouth, ",
