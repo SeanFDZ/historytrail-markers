@@ -3,9 +3,9 @@
   "region_name": "Rhode Island",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.250Z",
-  "source_timestamp": "2026-04-11T19:21:31.250Z",
-  "marker_count": 826,
+  "generated": "2026-05-03T06:03:08.709Z",
+  "source_timestamp": "2026-05-03T06:03:08.709Z",
+  "marker_count": 835,
   "markers": [
     {
       "id": "106872",
@@ -5606,6 +5606,15 @@
       "photo_urls": []
     },
     {
+      "id": "296118",
+      "title": "Burr's Hill",
+      "latitude": 41.72298661,
+      "longitude": -71.28445201,
+      "directions": "On Water Street, Warren, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296118",
+      "photo_urls": []
+    },
+    {
       "id": "29616",
       "title": "7th Day Baptist Churches of Hopkinton and Westerly",
       "latitude": 41.39981667,
@@ -5615,12 +5624,84 @@
       "photo_urls": []
     },
     {
+      "id": "297185",
+      "title": "Nine Men’s Misery",
+      "latitude": 41.9397705,
+      "longitude": -71.4066,
+      "directions": "Near Diamond Hill Road (State Route 114) , Cumberland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297185",
+      "photo_urls": []
+    },
+    {
       "id": "29736",
       "title": "Portsmouth Compact",
       "latitude": 41.627391,
       "longitude": -71.246287,
       "directions": "Near Anthony Road Extention/Old Boyd&#39;s Lane, Portsmouth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29736",
+      "photo_urls": []
+    },
+    {
+      "id": "297526",
+      "title": "Mount Hope",
+      "latitude": 41.66944971,
+      "longitude": -71.25695944,
+      "directions": "Near Metacom Avenue (State Route 136) , Bristol, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297526",
+      "photo_urls": []
+    },
+    {
+      "id": "297527",
+      "title": "In the Miery Swamp",
+      "latitude": 41.672115,
+      "longitude": -71.244508,
+      "directions": "Near Tower Street, Bristol, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297527",
+      "photo_urls": []
+    },
+    {
+      "id": "297530",
+      "title": "Early Warren and the start of King Philip's War",
+      "latitude": 41.73038072,
+      "longitude": -71.25934787,
+      "directions": "On Child Street (State Route 103) , Warren, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297530",
+      "photo_urls": []
+    },
+    {
+      "id": "297561",
+      "title": "Foster Town House",
+      "latitude": 41.78355107,
+      "longitude": -71.7207858,
+      "directions": "On Howard Hill Road, Foster, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297561",
+      "photo_urls": []
+    },
+    {
+      "id": "297637",
+      "title": "Pierce Park and Riverwalk",
+      "latitude": 41.894733,
+      "longitude": -71.382774,
+      "directions": "On High Street, Central Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297637",
+      "photo_urls": []
+    },
+    {
+      "id": "298399",
+      "title": "Providence",
+      "latitude": 41.82181,
+      "longitude": -71.405638,
+      "directions": "On South Water Street, Providence, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298399",
+      "photo_urls": []
+    },
+    {
+      "id": "298814",
+      "title": "Ring of the Green and settlement in the 17th Century",
+      "latitude": 41.84093838,
+      "longitude": -71.35015145,
+      "directions": "On Newman Avenue (State Route 152) , East Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298814",
       "photo_urls": []
     },
     {
