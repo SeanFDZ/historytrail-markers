@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-02T06:03:11.129Z",
+  "generated": "2026-05-03T06:03:17.848Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 67887,
-  "total_regions": 32,
+  "total_markers": 68274,
+  "total_regions": 33,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -372,6 +372,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 7568,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-hi",
+      "name": "Hawaii",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-hi.json",
+      "markers": 387,
+      "size_bytes": 118507,
+      "updated": "2026-05-03",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 387,
         "removed": 0,
         "modified": 0
       }
