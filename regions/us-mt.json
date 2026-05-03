@@ -3,9 +3,9 @@
   "region_name": "Montana",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:19:47.368Z",
-  "source_timestamp": "2026-04-11T19:19:47.368Z",
-  "marker_count": 2276,
+  "generated": "2026-05-03T06:03:08.677Z",
+  "source_timestamp": "2026-05-03T06:03:08.677Z",
+  "marker_count": 2277,
   "markers": [
     {
       "id": "100066",
@@ -2052,7 +2052,7 @@
     },
     {
       "id": "128434",
-      "title": "1863 - Virginia City - 1925",
+      "title": "Virginia City",
       "latitude": 45.29389877,
       "longitude": -111.94181217,
       "directions": "On Wallace Street (State Route 287) , Virginia City, (On the left when traveling west)",
@@ -2799,7 +2799,7 @@
     },
     {
       "id": "142214",
-      "title": "1806 Lewis' Return",
+      "title": "Lewis' Return",
       "latitude": 47.82194667,
       "longitude": -110.66072833,
       "directions": "On Front Street, Fort Benton, (On the right when traveling east)",
@@ -5661,7 +5661,7 @@
     },
     {
       "id": "145713",
-      "title": "Beaverhead Canyon Gateway Marker",
+      "title": "Beaverhead Canyon Gateway",
       "latitude": 45.12961776,
       "longitude": -112.74087252,
       "directions": "On I-15, Dillon, ",
@@ -10395,7 +10395,7 @@
     },
     {
       "id": "183523",
-      "title": "(Anaconda) Commercial Historic District",
+      "title": "Commercial Historic District",
       "latitude": 46.12894,
       "longitude": -112.94969,
       "directions": "On East Park Avenue (State Route 1) , Anaconda, (On the left when traveling east)",
@@ -10926,7 +10926,7 @@
     },
     {
       "id": "184663",
-      "title": "(William A.) Clark Mansion",
+      "title": "Clark Mansion",
       "latitude": 46.014307,
       "longitude": -112.54031,
       "directions": "On West Granite Street, Butte, (On the right when traveling west)",
@@ -18234,7 +18234,7 @@
     },
     {
       "id": "256061",
-      "title": "<i>\"...we called them the rattle snake clifts\"</i>",
+      "title": "<i>\"…we called them the rattle snake clifts\"</i>",
       "latitude": 45.12925833,
       "longitude": -112.741295,
       "directions": "On Interstate 15 Frontage Road, near Dillon, (On the right when traveling north)",
@@ -18725,6 +18725,15 @@
       "longitude": -111.04223611,
       "directions": "On West Main Street, Bozeman, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292625",
+      "photo_urls": []
+    },
+    {
+      "id": "297000",
+      "title": "History of the ’M’",
+      "latitude": 46.01268882,
+      "longitude": -112.55812168,
+      "directions": "On West Park Street, Butte, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297000",
       "photo_urls": []
     },
     {
