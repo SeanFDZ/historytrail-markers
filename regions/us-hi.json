@@ -3,9 +3,9 @@
   "region_name": "Hawaii",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:04.021Z",
-  "source_timestamp": "2026-04-11T19:15:04.021Z",
-  "marker_count": 340,
+  "generated": "2026-05-03T06:03:08.654Z",
+  "source_timestamp": "2026-05-03T06:03:08.654Z",
+  "marker_count": 387,
   "markers": [
     {
       "id": "104768",
@@ -1335,7 +1335,7 @@
       "title": "“Brothers in Valor” Memorial",
       "latitude": 21.28266,
       "longitude": -157.83165,
-      "directions": "On Kalakaua Avenue, Waikiki, (On the right when traveling south)",
+      "directions": "On Kalakaua Avenue, Honolulu, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26939",
       "photo_urls": []
     },
@@ -1461,7 +1461,7 @@
       "title": "Behold, Hawai'i",
       "latitude": 20.75936312,
       "longitude": -156.24679608,
-      "directions": "Near Haleakala Highway, Kula, (On the left when traveling north)",
+      "directions": "Near Haleakala Highway, Kula, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290127",
       "photo_urls": []
     },
@@ -2222,6 +2222,429 @@
       "photo_urls": []
     },
     {
+      "id": "292901",
+      "title": "Maka oi oi",
+      "latitude": 20.99440253,
+      "longitude": -156.65530484,
+      "directions": "On Simpson Way, Lahaina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292901",
+      "photo_urls": []
+    },
+    {
+      "id": "292904",
+      "title": "The Bay Course",
+      "latitude": 20.99865594,
+      "longitude": -156.65502495,
+      "directions": "On Office Road, Kapalua, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292904",
+      "photo_urls": []
+    },
+    {
+      "id": "292906",
+      "title": "Honolua Store",
+      "latitude": 20.99889682,
+      "longitude": -156.6547141,
+      "directions": "On Office Road, Lahaina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292906",
+      "photo_urls": []
+    },
+    {
+      "id": "293015",
+      "title": "The Kapalua Villas Reception Center",
+      "latitude": 20.99933013,
+      "longitude": -156.65483547,
+      "directions": "On Office Road, Lahaina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293015",
+      "photo_urls": []
+    },
+    {
+      "id": "293016",
+      "title": "Honokahua",
+      "latitude": 21.00320319,
+      "longitude": -156.65610013,
+      "directions": "On Lower Honoapiilani Road, Lahaina, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293016",
+      "photo_urls": []
+    },
+    {
+      "id": "293017",
+      "title": "Honokahua Burial Site",
+      "latitude": 21.0036356,
+      "longitude": -156.65558012,
+      "directions": "Near Dragon&#39;s Teeth Access Trail, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293017",
+      "photo_urls": []
+    },
+    {
+      "id": "293018",
+      "title": "An Island Without Ghosts",
+      "latitude": 20.90474846,
+      "longitude": -156.68626661,
+      "directions": "Near Honoapiilani Highway (State Route 30) , Lahaina, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293018",
+      "photo_urls": []
+    },
+    {
+      "id": "293019",
+      "title": "Grinding Stones, Hoana",
+      "latitude": 20.90987221,
+      "longitude": -156.68885775,
+      "directions": "Near Honoapiilani Highway (State Route 30) , Wailuku, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293019",
+      "photo_urls": []
+    },
+    {
+      "id": "293020",
+      "title": "Plantation Pioneers at Rest",
+      "latitude": 20.91103487,
+      "longitude": -156.6896032,
+      "directions": "Near Honoapiilani Highway (State Route 30) , Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293020",
+      "photo_urls": []
+    },
+    {
+      "id": "293021",
+      "title": "This Park Dedicated in Honor of King Kahekili Nui Ahumanu",
+      "latitude": 20.93667916,
+      "longitude": -156.69263201,
+      "directions": "Near Kai Ala Drive, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293021",
+      "photo_urls": []
+    },
+    {
+      "id": "293022",
+      "title": "Ka'anapali Airport (HKP) 1961 - 1986",
+      "latitude": 20.93669044,
+      "longitude": -156.69240076,
+      "directions": "Near Kai Ala Drive, Lahaina, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293022",
+      "photo_urls": []
+    },
+    {
+      "id": "293023",
+      "title": "Karma Rimay O Sal Ling / The Great Paia Lha Bab Peace Stupa",
+      "latitude": 20.9146515,
+      "longitude": -156.37931316,
+      "directions": "On Baldwin Avenue, Paia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293023",
+      "photo_urls": []
+    },
+    {
+      "id": "293024",
+      "title": "Tam Chow Store/USO/Club Rodeo",
+      "latitude": 20.85368628,
+      "longitude": -156.31046419,
+      "directions": "On Makawao Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293024",
+      "photo_urls": []
+    },
+    {
+      "id": "293025",
+      "title": "Crossroads Service Station",
+      "latitude": 20.85386815,
+      "longitude": -156.31047492,
+      "directions": "On Makawao Avenue, Makawao, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293025",
+      "photo_urls": []
+    },
+    {
+      "id": "293026",
+      "title": "Matsui Gas Station",
+      "latitude": 20.85416514,
+      "longitude": -156.31039579,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293026",
+      "photo_urls": []
+    },
+    {
+      "id": "293027",
+      "title": "Komoda Store",
+      "latitude": 20.85412847,
+      "longitude": -156.31057307,
+      "directions": "On Baldwin Avenue, Makawao, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293027",
+      "photo_urls": []
+    },
+    {
+      "id": "293028",
+      "title": "K. Matsui Store",
+      "latitude": 20.85406814,
+      "longitude": -156.3102875,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293028",
+      "photo_urls": []
+    },
+    {
+      "id": "293029",
+      "title": "Honda Barber Shop",
+      "latitude": 20.85434002,
+      "longitude": -156.31053686,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293029",
+      "photo_urls": []
+    },
+    {
+      "id": "293030",
+      "title": "Pang Residence/Madrid Shop",
+      "latitude": 20.85441769,
+      "longitude": -156.3106148,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293030",
+      "photo_urls": []
+    },
+    {
+      "id": "293031",
+      "title": "M. Ichiki Store",
+      "latitude": 20.85487367,
+      "longitude": -156.31096235,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293031",
+      "photo_urls": []
+    },
+    {
+      "id": "293032",
+      "title": "Family Residence",
+      "latitude": 20.85492536,
+      "longitude": -156.31100331,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293032",
+      "photo_urls": []
+    },
+    {
+      "id": "293145",
+      "title": "Yoza Ginsho Barber Shop",
+      "latitude": 20.85536912,
+      "longitude": -156.31138352,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293145",
+      "photo_urls": []
+    },
+    {
+      "id": "293171",
+      "title": "Ginsho and Miyabara Residence",
+      "latitude": 20.85542121,
+      "longitude": -156.31141692,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293171",
+      "photo_urls": []
+    },
+    {
+      "id": "293172",
+      "title": "Cooper Residence/Kitada's Kau Kau Korner",
+      "latitude": 20.85548184,
+      "longitude": -156.31147203,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293172",
+      "photo_urls": []
+    },
+    {
+      "id": "293173",
+      "title": "Kawaguchi Store/T. Iwaishi Store",
+      "latitude": 20.85547181,
+      "longitude": -156.31163967,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293173",
+      "photo_urls": []
+    },
+    {
+      "id": "293174",
+      "title": "Makawao Theatre",
+      "latitude": 20.85531641,
+      "longitude": -156.31152872,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293174",
+      "photo_urls": []
+    },
+    {
+      "id": "293178",
+      "title": "Nohara Laundry/Asato Tailor Shop",
+      "latitude": 20.85506651,
+      "longitude": -156.31137375,
+      "directions": "On Baldwin Avenue, Makawao, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293178",
+      "photo_urls": []
+    },
+    {
+      "id": "293180",
+      "title": "Horse Paddock",
+      "latitude": 20.85489274,
+      "longitude": -156.31121789,
+      "directions": "On Baldwin Avenue, Makawao, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293180",
+      "photo_urls": []
+    },
+    {
+      "id": "293181",
+      "title": "Businesses and Residences",
+      "latitude": 20.85427833,
+      "longitude": -156.3102818,
+      "directions": "Near Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293181",
+      "photo_urls": []
+    },
+    {
+      "id": "293182",
+      "title": "Yoshizu Fish Market",
+      "latitude": 20.85455809,
+      "longitude": -156.31073542,
+      "directions": "On Baldwin Avenue, Makawao, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293182",
+      "photo_urls": []
+    },
+    {
+      "id": "293183",
+      "title": "Ko Lalo Kuilani Aloha",
+      "latitude": 20.77534384,
+      "longitude": -156.5359347,
+      "directions": "On Honoapiilani Highway (State Route 30) , Wailuku, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293183",
+      "photo_urls": []
+    },
+    {
+      "id": "293184",
+      "title": "Volcanoes and Sand Beaches",
+      "latitude": 20.63427296,
+      "longitude": -156.44766094,
+      "directions": "Near Makena Road, Makena, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293184",
+      "photo_urls": []
+    },
+    {
+      "id": "293185",
+      "title": "Ka Moolelo O Kaneiolouma or The Story of Kanei'olouma",
+      "latitude": 21.87633887,
+      "longitude": -159.45323101,
+      "directions": "On Poipu Road, Koloa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293185",
+      "photo_urls": []
+    },
+    {
+      "id": "293186",
+      "title": "Ka Moolelo O Kauai or The Heritage of Kaua'i",
+      "latitude": 21.87632277,
+      "longitude": -159.45337925,
+      "directions": "On Poipu Road, Koloa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293186",
+      "photo_urls": []
+    },
+    {
+      "id": "293188",
+      "title": "Kilo Lani or Charting the Stars",
+      "latitude": 21.87636642,
+      "longitude": -159.45339838,
+      "directions": "On Poipu Road, Koloa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293188",
+      "photo_urls": []
+    },
+    {
+      "id": "297188",
+      "title": "Cleveland J39 Trencher",
+      "latitude": 20.86898611,
+      "longitude": -156.45545833,
+      "directions": "On Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297188",
+      "photo_urls": []
+    },
+    {
+      "id": "297226",
+      "title": "Seamen's House & Hospital",
+      "latitude": 20.87960743,
+      "longitude": -156.6832728,
+      "directions": "On Front Street, Lahaina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297226",
+      "photo_urls": []
+    },
+    {
+      "id": "297341",
+      "title": "Submarine Communications Buoy",
+      "latitude": 20.79221111,
+      "longitude": -156.51196389,
+      "directions": "Near Maalaea Road, Wailuku, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297341",
+      "photo_urls": []
+    },
+    {
+      "id": "297391",
+      "title": "Corliss Steam Engine",
+      "latitude": 20.86957222,
+      "longitude": -156.45571944,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297391",
+      "photo_urls": []
+    },
+    {
+      "id": "297393",
+      "title": "Caterpillar 772B",
+      "latitude": 20.86949444,
+      "longitude": -156.45573333,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297393",
+      "photo_urls": []
+    },
+    {
+      "id": "297394",
+      "title": "Try Pot",
+      "latitude": 20.86955278,
+      "longitude": -156.45523056,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297394",
+      "photo_urls": []
+    },
+    {
+      "id": "297420",
+      "title": "Stephen Tyng Mather",
+      "latitude": 20.75954722,
+      "longitude": -156.24655278,
+      "directions": "On Crater Road, Kula, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297420",
+      "photo_urls": []
+    },
+    {
+      "id": "297510",
+      "title": "Northwest Cable Crane",
+      "latitude": 20.86955833,
+      "longitude": -156.45539722,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297510",
+      "photo_urls": []
+    },
+    {
+      "id": "297511",
+      "title": "Traditional Portuguese Oven",
+      "latitude": 20.869475,
+      "longitude": -156.45523056,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297511",
+      "photo_urls": []
+    },
+    {
+      "id": "297512",
+      "title": "The Journey from Norway to Hawaii",
+      "latitude": 20.86941667,
+      "longitude": -156.45515556,
+      "directions": "Near Hansen Road, Kahului, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297512",
+      "photo_urls": []
+    },
+    {
+      "id": "297565",
+      "title": "The Porter Anchor",
+      "latitude": 20.87969102,
+      "longitude": -156.68325934,
+      "directions": "On Front Street, Lahaina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297565",
+      "photo_urls": []
+    },
+    {
+      "id": "297567",
+      "title": "A Place to Find the Real Hawaii",
+      "latitude": 20.89246389,
+      "longitude": -156.48640556,
+      "directions": "On Kanaloa Avenue, Kahului, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297567",
+      "photo_urls": []
+    },
+    {
       "id": "2980",
       "title": "Site of Hawaiian Volcano Observatory",
       "latitude": 19.42911667,
@@ -2583,7 +3006,7 @@
     },
     {
       "id": "71756",
-      "title": "Wind, Wave and Wings-Oodemas maulense-",
+      "title": "Wind, Wave and Wings",
       "latitude": 20.7595,
       "longitude": -156.2463,
       "directions": "On Carter Road, Kula, ",
@@ -2775,7 +3198,7 @@
       "title": "Scandinavian Migration to Hawaii",
       "latitude": 20.77766667,
       "longitude": -156.5232,
-      "directions": "On Honoapiilani Highwary (Route 30) , Lahaina, (On the right when traveling east)",
+      "directions": "Near Honoapiilani Highwary (Route 30) , Lahaina, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73188",
       "photo_urls": []
     },
