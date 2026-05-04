@@ -3,9 +3,9 @@
   "region_name": "Alaska",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T18:53:08.494Z",
-  "source_timestamp": "2026-04-11T18:53:08.494Z",
-  "marker_count": 746,
+  "generated": "2026-05-04T06:02:27.185Z",
+  "source_timestamp": "2026-05-04T06:02:27.185Z",
+  "marker_count": 751,
   "markers": [
     {
       "id": "112038",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": "254464",
-      "title": "War Memorial",
+      "title": "Veterans Memorial",
       "latitude": 61.21318494,
       "longitude": -149.90081623,
       "directions": "On I Street, Anchorage, (On the left when traveling north)",
@@ -2109,7 +2109,7 @@
       "title": "The Alaska Road Commission",
       "latitude": 62.535635,
       "longitude": -144.787737,
-      "directions": "On the Tok Cutoff (State Route 1) , Christochina, (On the right when traveling east)",
+      "directions": "On the Tok Cutoff (State Route 1) , near Christochina, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=255513",
       "photo_urls": []
     },
@@ -3531,7 +3531,7 @@
       "title": "Gold Rush Pioneer Trail: The Richardson Highway, Oldest Highway in Alaska",
       "latitude": 61.1110852,
       "longitude": -145.81747918,
-      "directions": "Near Richardson Highway (State Route 4) , near Valdez, ",
+      "directions": "Near Richardson Highway (State Route 4) , Wortmanns, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257002",
       "photo_urls": []
     },
@@ -4683,13 +4683,13 @@
       "title": "Carried Away",
       "latitude": 63.75027444,
       "longitude": -148.90480496,
-      "directions": "Near Raft Road, Denali Park, ",
+      "directions": "Near Raft Road, Denali National Park and Preserve, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257608",
       "photo_urls": []
     },
     {
       "id": "257613",
-      "title": "<i>Denali National Park and Preserve</i>",
+      "title": "Denali National Park and Preserve",
       "latitude": 63.71881126,
       "longitude": -149.26065561,
       "directions": "On the Park Road, Denali National Park and Preserve, (On the right when traveling west)",
@@ -4698,7 +4698,7 @@
     },
     {
       "id": "257617",
-      "title": "<i>Road to Wildness</i>",
+      "title": "Road to Wildness",
       "latitude": 63.7196506,
       "longitude": -149.26269152,
       "directions": "Near Park Road, Denali National Park and Preserve, ",
@@ -4707,7 +4707,7 @@
     },
     {
       "id": "257618",
-      "title": "<i>Wilderness Guardians</i>",
+      "title": "Wilderness Guardians",
       "latitude": 63.71979219,
       "longitude": -149.26216905,
       "directions": "Near Park Road, Denali National Park and Preserve, ",
@@ -4716,7 +4716,7 @@
     },
     {
       "id": "257620",
-      "title": "<i>Step to the Wild Side</i>",
+      "title": "Step to the Wild Side",
       "latitude": 63.71996398,
       "longitude": -149.26174727,
       "directions": "Near Park Road, Denali National Park and Preserve, ",
@@ -4725,7 +4725,7 @@
     },
     {
       "id": "257623",
-      "title": "<i>Against the Wind</i>",
+      "title": "Against the Wind",
       "latitude": 63.71978965,
       "longitude": -149.26094103,
       "directions": "Near Park Road, Denali National Park and Preserve, ",
@@ -4734,7 +4734,7 @@
     },
     {
       "id": "257625",
-      "title": "<i>Living, Breathing History</i>",
+      "title": "Living, Breathing History",
       "latitude": 63.71963032,
       "longitude": -149.25940339,
       "directions": "Near Park Road, Denali National Park and Preserve, ",
@@ -4746,7 +4746,7 @@
       "title": "Walter Harper",
       "latitude": 62.55823124,
       "longitude": -150.22998955,
-      "directions": "Near Parks Highway, Trapper Creek Census Designated Area, ",
+      "directions": "Near Parks Highway, Trapper Creek, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257634",
       "photo_urls": []
     },
@@ -4755,7 +4755,7 @@
       "title": "Luscombe Silvaire",
       "latitude": 62.55637471,
       "longitude": -150.23073614,
-      "directions": "Near Parks Highway, Trapper Creek Census Designated Area, ",
+      "directions": "Near Parks Highway, Trapper Creek, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257639",
       "photo_urls": []
     },
@@ -4764,7 +4764,7 @@
       "title": "Alaska's Bush Pilots",
       "latitude": 62.55637471,
       "longitude": -150.23073614,
-      "directions": "Near Parks Highway, Trapper Creek Census Designated Area, ",
+      "directions": "Near Parks Highway, Trapper Creek, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257643",
       "photo_urls": []
     },
@@ -4773,7 +4773,7 @@
       "title": "Cliff Hudson",
       "latitude": 62.55637471,
       "longitude": -150.23073614,
-      "directions": "Near Parks Highway, Trapper Creek Census Designated Area, ",
+      "directions": "Near Parks Highway, Trapper Creek, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257646",
       "photo_urls": []
     },
@@ -4782,7 +4782,7 @@
       "title": "wolves find room to roam",
       "latitude": 62.55763046,
       "longitude": -150.23058697,
-      "directions": "Near Parks Highway, Trapper Creek Census Designated Area, ",
+      "directions": "Near Parks Highway, Trapper Creek, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=257649",
       "photo_urls": []
     },
@@ -6024,7 +6024,7 @@
       "title": "The Constitutional Convention",
       "latitude": 64.85735615,
       "longitude": -147.82192882,
-      "directions": "On Tok Lane, Fairbanks, (On the left when traveling west)",
+      "directions": "On Tok Lane, College, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290380",
       "photo_urls": []
     },
@@ -6044,6 +6044,51 @@
       "longitude": -147.71967944,
       "directions": "On First Avenue, Fairbanks, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290706",
+      "photo_urls": []
+    },
+    {
+      "id": "293748",
+      "title": "Barnette's Landing",
+      "latitude": 64.844172,
+      "longitude": -147.720795,
+      "directions": "On 1st Avenue, Fairbanks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293748",
+      "photo_urls": []
+    },
+    {
+      "id": "294078",
+      "title": "The Park Hotel",
+      "latitude": 63.73127086,
+      "longitude": -148.91712223,
+      "directions": "Near Park Road, Denali National Park and Preserve, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294078",
+      "photo_urls": []
+    },
+    {
+      "id": "294717",
+      "title": "Pioneer School",
+      "latitude": 61.21992603,
+      "longitude": -149.87544537,
+      "directions": "On East 3rd Avenue, Anchorage, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294717",
+      "photo_urls": []
+    },
+    {
+      "id": "294719",
+      "title": "Gakona Roadhouse",
+      "latitude": 62.30225539,
+      "longitude": -145.30325501,
+      "directions": "On Tok Cut-Off Highway (State Route 1) , Gakona, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294719",
+      "photo_urls": []
+    },
+    {
+      "id": "296604",
+      "title": "Trail of the Whispering Giants",
+      "latitude": 61.1310616,
+      "longitude": -146.35108407,
+      "directions": "On Pioneer Drive, Valdez, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296604",
       "photo_urls": []
     },
     {
@@ -6084,7 +6129,7 @@
     },
     {
       "id": "47382",
-      "title": "<i>The Founding of Fairbanks</i>",
+      "title": "The Founding of Fairbanks",
       "latitude": 64.84390302,
       "longitude": -147.72205848,
       "directions": "On 1st Avenue, Fairbanks, ",
@@ -6186,7 +6231,7 @@
       "title": "Old Railroad Tunnel",
       "latitude": 61.084193,
       "longitude": -145.89322,
-      "directions": "On Richardson Highway (State Route 4) , near Valdez, ",
+      "directions": "On Richardson Highway (State Route 4) , near Wortmanns, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49609",
       "photo_urls": []
     },
@@ -6195,7 +6240,7 @@
       "title": "Horse and Sled Trail",
       "latitude": 61.085126,
       "longitude": -145.89393,
-      "directions": "On Richardson Highway (State Route 4) , near Valdez, ",
+      "directions": "On Richardson Highway (State Route 4) , near Wortmanns, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49610",
       "photo_urls": []
     },
@@ -6204,7 +6249,7 @@
       "title": "Goat Trail",
       "latitude": 61.069955,
       "longitude": -145.8984,
-      "directions": "On Richardson Highway (State Route 4) , near Valdez, ",
+      "directions": "On Richardson Highway (State Route 4) , near Wortmanns, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49611",
       "photo_urls": []
     },
