@@ -3,9 +3,9 @@
   "region_name": "South Dakota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.319Z",
-  "source_timestamp": "2026-04-11T19:21:31.319Z",
-  "marker_count": 1812,
+  "generated": "2026-05-04T06:02:27.228Z",
+  "source_timestamp": "2026-05-04T06:02:27.228Z",
+  "marker_count": 1824,
   "markers": [
     {
       "id": "100821",
@@ -4635,7 +4635,7 @@
     },
     {
       "id": "177397",
-      "title": "South Dakota",
+      "title": "You Are Entering South Dakota / You Are Now Leaving South Dakota and About to Enter North Dakota",
       "latitude": 45.93385278,
       "longitude": -98.52799167,
       "directions": "On U.S. 281, near Frederick, (On the right when traveling south)",
@@ -5409,7 +5409,7 @@
     },
     {
       "id": "179949",
-      "title": "Brookings/Hillcrest Park",
+      "title": "Brookings / Hillcrest Park",
       "latitude": 44.31128611,
       "longitude": -96.77721389,
       "directions": "Near 6th Street (U.S. 14) , Brookings, (On the right when traveling east)",
@@ -5853,7 +5853,7 @@
       "title": "Hagensick's Resort",
       "latitude": 44.19382343,
       "longitude": -96.86297858,
-      "directions": "On 220th Street (County Route 2) , near Medary, (On the left when traveling east)",
+      "directions": "On 220th Street (County Route 2) , near Brookings, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=181260",
       "photo_urls": []
     },
@@ -11304,7 +11304,7 @@
     },
     {
       "id": "214112",
-      "title": "Honoring All Who Served",
+      "title": "Veterans Memorial",
       "latitude": 45.30839253,
       "longitude": -97.51946647,
       "directions": "Near Main Street (State Route 25) , Webster, (On the left when traveling south)",
@@ -15566,6 +15566,114 @@
       "longitude": -96.71185278,
       "directions": "On North Drive, Sioux Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292693",
+      "photo_urls": []
+    },
+    {
+      "id": "293189",
+      "title": "St. Peter's Grotto,",
+      "latitude": 43.72708464,
+      "longitude": -97.6873745,
+      "directions": "On 3rd Street, Farmer, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293189",
+      "photo_urls": []
+    },
+    {
+      "id": "293192",
+      "title": "St. Mary's Catholic Church",
+      "latitude": 43.72659937,
+      "longitude": -97.39011694,
+      "directions": "On Vermont Avenue, Salem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293192",
+      "photo_urls": []
+    },
+    {
+      "id": "293366",
+      "title": "Hudson Area Veterans Memorial",
+      "latitude": 43.12952761,
+      "longitude": -96.45442664,
+      "directions": "On Fourth Street, Hudson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293366",
+      "photo_urls": []
+    },
+    {
+      "id": "293367",
+      "title": "Fieldstone Boy Scout Cabin",
+      "latitude": 43.13000137,
+      "longitude": -96.45480708,
+      "directions": "On Wheelock Street, Hudson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293367",
+      "photo_urls": []
+    },
+    {
+      "id": "293368",
+      "title": "To Nathanael Pioneers",
+      "latitude": 43.09719729,
+      "longitude": -96.58884878,
+      "directions": "On 481st Avenue, near Alcester, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293368",
+      "photo_urls": []
+    },
+    {
+      "id": "293718",
+      "title": "William J. Bulow",
+      "latitude": 43.08357429,
+      "longitude": -96.77253159,
+      "directions": "On East Cedar Street (State Route 46) , Beresford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293718",
+      "photo_urls": []
+    },
+    {
+      "id": "293734",
+      "title": "Memorial Tree",
+      "latitude": 43.07898325,
+      "longitude": -96.7756302,
+      "directions": "On South 4th Street, Beresford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293734",
+      "photo_urls": []
+    },
+    {
+      "id": "294704",
+      "title": "Church of the Immaculate Conception",
+      "latitude": 44.07559895,
+      "longitude": -103.22646277,
+      "directions": "On 5th Street, Rapid City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294704",
+      "photo_urls": []
+    },
+    {
+      "id": "295453",
+      "title": "Sioux Valley Baptist Church",
+      "latitude": 43.87093218,
+      "longitude": -96.64501931,
+      "directions": "On 478th Avenue, near Trent, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295453",
+      "photo_urls": []
+    },
+    {
+      "id": "295458",
+      "title": "Tribute to Pioneers Nels and Carrie Norgaard",
+      "latitude": 43.87659061,
+      "longitude": -96.65347739,
+      "directions": "On 242nd Street, near Trent, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295458",
+      "photo_urls": []
+    },
+    {
+      "id": "296931",
+      "title": "Lone Rock Cemetery",
+      "latitude": 43.97783666,
+      "longitude": -96.48230599,
+      "directions": "On 235th Street, near Flandreau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296931",
+      "photo_urls": []
+    },
+    {
+      "id": "297087",
+      "title": "Memorial Tree",
+      "latitude": 45.44611157,
+      "longitude": -98.48050368,
+      "directions": "Near Southeast 17th Street, Aberdeen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297087",
       "photo_urls": []
     },
     {
