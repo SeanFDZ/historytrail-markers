@@ -3,9 +3,9 @@
   "region_name": "Delaware",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:15:03.823Z",
-  "source_timestamp": "2026-04-11T19:15:03.823Z",
-  "marker_count": 1843,
+  "generated": "2026-05-04T06:02:27.199Z",
+  "source_timestamp": "2026-05-04T06:02:27.199Z",
+  "marker_count": 1869,
   "markers": [
     {
       "id": "100344",
@@ -2466,7 +2466,7 @@
     },
     {
       "id": "146375",
-      "title": "Grubb / Worth Mansion",
+      "title": "Grubb/Worth Mansion",
       "latitude": 39.797465,
       "longitude": -75.46400333,
       "directions": "On Philadelphia Pike (U.S. Business 13) , Claymont, (On the right when traveling north)",
@@ -4230,7 +4230,7 @@
     },
     {
       "id": "168199",
-      "title": "Oliver Evans (1755-1819)",
+      "title": "Oliver Evans",
       "latitude": 39.714199,
       "longitude": -75.606183,
       "directions": "On E. Market St. (State Route 4) , Newport, (On the right when traveling east)",
@@ -10710,7 +10710,7 @@
     },
     {
       "id": "247065",
-      "title": "In This Place...",
+      "title": "In This Place…",
       "latitude": 39.32970372,
       "longitude": -75.52366152,
       "directions": "Near Lighthouse Road, Smyrna, ",
@@ -10782,7 +10782,7 @@
     },
     {
       "id": "247126",
-      "title": "In This Place...",
+      "title": "In This Place…",
       "latitude": 39.33002119,
       "longitude": -75.52210889,
       "directions": "Near Lighthouse Road, Woodland Beach, ",
@@ -11199,7 +11199,7 @@
       "title": "Newark Union",
       "latitude": 39.78456038,
       "longitude": -75.51330828,
-      "directions": "On Newark Union Road, Wilmington, (On the right when traveling south)",
+      "directions": "On Newark Union Road, near Wilmington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260250",
       "photo_urls": []
     },
@@ -11226,7 +11226,7 @@
       "title": "Revolutionary War Patriots in New Ark Union Cemetery",
       "latitude": 39.78667423,
       "longitude": -75.51346443,
-      "directions": "On Newark Union Road, Wilmington, (On the left when traveling north)",
+      "directions": "On Newark Union Road, near Wilmington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260254",
       "photo_urls": []
     },
@@ -11397,7 +11397,7 @@
       "title": "Noel Barrot",
       "latitude": 39.80964951,
       "longitude": -75.55307104,
-      "directions": "Near Coulee Way, Wilmington, ",
+      "directions": "Near Coulee Way, near Wilmington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260306",
       "photo_urls": []
     },
@@ -13220,6 +13220,240 @@
       "photo_urls": []
     },
     {
+      "id": "294259",
+      "title": "The Mathew Osbourne House",
+      "latitude": 38.77568889,
+      "longitude": -75.30773056,
+      "directions": "On Mill Street, Milton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294259",
+      "photo_urls": []
+    },
+    {
+      "id": "294263",
+      "title": "311 Chestnut Street",
+      "latitude": 38.77474233,
+      "longitude": -75.31041754,
+      "directions": "On Chestnut Street, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294263",
+      "photo_urls": []
+    },
+    {
+      "id": "294269",
+      "title": "403 Chestnut Street",
+      "latitude": 38.77409753,
+      "longitude": -75.3108045,
+      "directions": "On Chestnut Street, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294269",
+      "photo_urls": []
+    },
+    {
+      "id": "294270",
+      "title": "T.S. Wilson House",
+      "latitude": 38.77352772,
+      "longitude": -75.31126794,
+      "directions": "On Chestnut Street, Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294270",
+      "photo_urls": []
+    },
+    {
+      "id": "294272",
+      "title": "419 Chestnut Street",
+      "latitude": 38.77295613,
+      "longitude": -75.31136569,
+      "directions": "On Chestnut Street, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294272",
+      "photo_urls": []
+    },
+    {
+      "id": "294274",
+      "title": "428 Chestnut Street",
+      "latitude": 38.77239347,
+      "longitude": -75.311874,
+      "directions": "On Chestnut Street, Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294274",
+      "photo_urls": []
+    },
+    {
+      "id": "294276",
+      "title": "315 Union Street",
+      "latitude": 38.78065795,
+      "longitude": -75.31242979,
+      "directions": "On Union Street, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294276",
+      "photo_urls": []
+    },
+    {
+      "id": "294277",
+      "title": "316 Union Street",
+      "latitude": 38.78058508,
+      "longitude": -75.31259379,
+      "directions": "On Union Street, Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294277",
+      "photo_urls": []
+    },
+    {
+      "id": "294278",
+      "title": "326 Union Street",
+      "latitude": 38.78119729,
+      "longitude": -75.31287126,
+      "directions": "On Union Street, Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294278",
+      "photo_urls": []
+    },
+    {
+      "id": "294280",
+      "title": "406 Union Street",
+      "latitude": 38.78250872,
+      "longitude": -75.31345029,
+      "directions": "On Union Street, Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294280",
+      "photo_urls": []
+    },
+    {
+      "id": "294281",
+      "title": "337 Union Street",
+      "latitude": 38.78209975,
+      "longitude": -75.31304013,
+      "directions": "On Union Street, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294281",
+      "photo_urls": []
+    },
+    {
+      "id": "294282",
+      "title": "124 Broad Street",
+      "latitude": 38.77940787,
+      "longitude": -75.31382815,
+      "directions": "On Broad Street, Milton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294282",
+      "photo_urls": []
+    },
+    {
+      "id": "294283",
+      "title": "118 Broad Street",
+      "latitude": 38.77951187,
+      "longitude": -75.31348525,
+      "directions": "On Broad Street, Milton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294283",
+      "photo_urls": []
+    },
+    {
+      "id": "294284",
+      "title": "Lofland House",
+      "latitude": 38.77958302,
+      "longitude": -75.31323736,
+      "directions": "On Broad Street, Milton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294284",
+      "photo_urls": []
+    },
+    {
+      "id": "294290",
+      "title": "Pennewill House",
+      "latitude": 38.77961485,
+      "longitude": -75.31311083,
+      "directions": "On Broad Street, Milton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294290",
+      "photo_urls": []
+    },
+    {
+      "id": "294630",
+      "title": "John Hunn",
+      "latitude": 39.1146,
+      "longitude": -75.5476,
+      "directions": "On East Camden-Wyoming Ave., Camden, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294630",
+      "photo_urls": []
+    },
+    {
+      "id": "294765",
+      "title": "Robert Bolling, Jr.",
+      "latitude": 39.53271277,
+      "longitude": -75.68182471,
+      "directions": "On Wheelmen Street, Middletown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294765",
+      "photo_urls": []
+    },
+    {
+      "id": "296428",
+      "title": "Rising Sun Lodge #4, F. & A.M., P.H.A.",
+      "latitude": 38.771215,
+      "longitude": -75.312603,
+      "directions": "On Chestnut Street (State Route 249) , Milton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296428",
+      "photo_urls": []
+    },
+    {
+      "id": "296437",
+      "title": "209 North Sixth Street",
+      "latitude": 39.45842612,
+      "longitude": -75.66090244,
+      "directions": "On North 6th Street, Odessa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296437",
+      "photo_urls": []
+    },
+    {
+      "id": "296937",
+      "title": "North Porticos",
+      "latitude": 39.73891111,
+      "longitude": -75.54031389,
+      "directions": "Near North Church Street (U.S. 13) , Wilmington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296937",
+      "photo_urls": []
+    },
+    {
+      "id": "296939",
+      "title": "George Read Memorial",
+      "latitude": 39.75191,
+      "longitude": -75.552,
+      "directions": "Near Delaware Avenue, Wilmington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296939",
+      "photo_urls": []
+    },
+    {
+      "id": "296940",
+      "title": "\"K. C.\" and \"B. C.\" Stones",
+      "latitude": 39.73845,
+      "longitude": -75.54036667,
+      "directions": "Near North Church Street (U.S. 13) , Wilmington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296940",
+      "photo_urls": []
+    },
+    {
+      "id": "296973",
+      "title": "Lower Dam and North Short Millrace",
+      "latitude": 39.75106947,
+      "longitude": -75.54730409,
+      "directions": "On South Park Drive, Wilmington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296973",
+      "photo_urls": []
+    },
+    {
+      "id": "298206",
+      "title": "St. Jones River Wildlife and Habitats",
+      "latitude": 39.12924041,
+      "longitude": -75.49613247,
+      "directions": "On East Lebanon Road, Dover, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298206",
+      "photo_urls": []
+    },
+    {
+      "id": "298207",
+      "title": "Wolf Creek - A River Changes Course",
+      "latitude": 39.12920913,
+      "longitude": -75.49615013,
+      "directions": "On East Lebanon Road, Dover, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298207",
+      "photo_urls": []
+    },
+    {
+      "id": "298223",
+      "title": "Fort Delaware",
+      "latitude": 39.57911667,
+      "longitude": -75.58693611,
+      "directions": "On Clinton Street, Delaware City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298223",
+      "photo_urls": []
+    },
+    {
       "id": "3027",
       "title": "The Fenwick Island Lighthouse",
       "latitude": 38.45134762,
@@ -14979,7 +15213,7 @@
       "title": "Hall House",
       "latitude": 39.16183056,
       "longitude": -75.52305556,
-      "directions": "On Kings Highway SW, Dover, (On the right when traveling north)",
+      "directions": "On Kings Highway Southwest, Dover, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43736",
       "photo_urls": []
     },
