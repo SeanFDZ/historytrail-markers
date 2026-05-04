@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-03T06:03:17.848Z",
+  "generated": "2026-05-04T06:02:37.855Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 68274,
-  "total_regions": 33,
+  "total_markers": 69025,
+  "total_regions": 34,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -260,6 +260,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 70,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-ak",
+      "name": "Alaska",
+      "type": "state",
+      "country": "United States",
+      "file": "regions/us-ak.json",
+      "markers": 751,
+      "size_bytes": 223233,
+      "updated": "2026-05-04",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 750,
         "removed": 0,
         "modified": 0
       }
