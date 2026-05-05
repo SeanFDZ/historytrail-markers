@@ -3,9 +3,9 @@
   "region_name": "Vermont",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:21:31.871Z",
-  "source_timestamp": "2026-04-11T19:21:31.871Z",
-  "marker_count": 1034,
+  "generated": "2026-05-05T06:02:32.102Z",
+  "source_timestamp": "2026-05-05T06:02:32.102Z",
+  "marker_count": 1067,
   "markers": [
     {
       "id": "100958",
@@ -6794,12 +6794,309 @@
       "photo_urls": []
     },
     {
+      "id": "293592",
+      "title": "Chester",
+      "latitude": 43.26445278,
+      "longitude": -72.59884722,
+      "directions": "On Main Street (State Route 11) , Chester, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293592",
+      "photo_urls": []
+    },
+    {
+      "id": "293645",
+      "title": "Town of Cavendish Honor Roll",
+      "latitude": 43.38208333,
+      "longitude": -72.61068611,
+      "directions": "On Main Street (State Route 131) , Cavendish, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293645",
+      "photo_urls": []
+    },
+    {
+      "id": "293680",
+      "title": "Town of Cavendish WW1 Honor Roll",
+      "latitude": 43.38259444,
+      "longitude": -72.63881111,
+      "directions": "On Main Street (State Route 131) , Proctorsville, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=293680",
+      "photo_urls": []
+    },
+    {
+      "id": "294392",
+      "title": "Robert Frost National Recreation Trail",
+      "latitude": 43.95796166,
+      "longitude": -73.01099688,
+      "directions": "Near State Route 125, Ripton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294392",
+      "photo_urls": []
+    },
+    {
+      "id": "294395",
+      "title": "Bread Loaf Inn",
+      "latitude": 43.95383541,
+      "longitude": -72.99345394,
+      "directions": "On State Route 125, Ripton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294395",
+      "photo_urls": []
+    },
+    {
+      "id": "294399",
+      "title": "Homer Noble Farm",
+      "latitude": 43.96529572,
+      "longitude": -73.00465131,
+      "directions": "On Robert Frost Road, Ripton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294399",
+      "photo_urls": []
+    },
+    {
+      "id": "294415",
+      "title": "Calvin Pier Tavern",
+      "latitude": 43.95839298,
+      "longitude": -73.00951508,
+      "directions": "On State Route 125, Ripton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294415",
+      "photo_urls": []
+    },
+    {
+      "id": "294417",
+      "title": "Greenwood Cemetery Veterans Memorial",
+      "latitude": 44.13007863,
+      "longitude": -73.09448877,
+      "directions": "On Stoney Hill Road (State Route 17) , Bristol, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294417",
+      "photo_urls": []
+    },
+    {
+      "id": "294418",
+      "title": "Bristol Veterans Memorial",
+      "latitude": 44.13360572,
+      "longitude": -73.07894323,
+      "directions": "On West Street, Bristol, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294418",
+      "photo_urls": []
+    },
+    {
+      "id": "294420",
+      "title": "Bristol Civil War Memorial",
+      "latitude": 44.13357012,
+      "longitude": -73.07879334,
+      "directions": "On North Street, Bristol, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294420",
+      "photo_urls": []
+    },
+    {
+      "id": "294421",
+      "title": "Bristol Remembers World War I",
+      "latitude": 44.13343465,
+      "longitude": -73.07896396,
+      "directions": "On West Street (State Route 17) , Bristol, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294421",
+      "photo_urls": []
+    },
+    {
+      "id": "294422",
+      "title": "Holley Hall",
+      "latitude": 44.13304398,
+      "longitude": -73.07885297,
+      "directions": "On West Street, Bristol, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294422",
+      "photo_urls": []
+    },
+    {
+      "id": "294503",
+      "title": "Bolton Honor Roll",
+      "latitude": 44.37333162,
+      "longitude": -72.88431935,
+      "directions": "On Theodore Roosevelt Highway (U.S. 2) , Bolton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294503",
+      "photo_urls": []
+    },
+    {
+      "id": "294508",
+      "title": "Bolton Honor Roll",
+      "latitude": 44.37334249,
+      "longitude": -72.88442802,
+      "directions": "On Theodore Roosevelt Highway (State Route 2) , Bolton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294508",
+      "photo_urls": []
+    },
+    {
+      "id": "294650",
+      "title": "Ancient Paths",
+      "latitude": 44.01454871,
+      "longitude": -73.16896383,
+      "directions": "Near Main Street (State Route 30) , Middlebury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294650",
+      "photo_urls": []
+    },
+    {
+      "id": "294651",
+      "title": "Birthplace of Ray Fisher",
+      "latitude": 44.00495,
+      "longitude": -73.15956667,
+      "directions": "On Court Street (U.S. 7) , Middlebury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294651",
+      "photo_urls": []
+    },
+    {
+      "id": "294652",
+      "title": "The Hartford Library",
+      "latitude": 43.66144228,
+      "longitude": -72.34269828,
+      "directions": "On Maple Street (State Route 14) , Hartford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294652",
+      "photo_urls": []
+    },
+    {
+      "id": "294653",
+      "title": "Charter House",
+      "latitude": 44.01508333,
+      "longitude": -73.16676667,
+      "directions": "On North Pleasant Street (U.S. 7) , Middlebury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294653",
+      "photo_urls": []
+    },
+    {
+      "id": "294654",
+      "title": "Court Square",
+      "latitude": 44.014025,
+      "longitude": -73.16611,
+      "directions": "Near Court Square (Route 7) , Middlebury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294654",
+      "photo_urls": []
+    },
+    {
+      "id": "294655",
+      "title": "Emma Willard",
+      "latitude": 44.00784386,
+      "longitude": -73.17432783,
+      "directions": "On South Main Street (State Route 30) , Middlebury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294655",
+      "photo_urls": []
+    },
+    {
+      "id": "294656",
+      "title": "Emma Willard Memorial",
+      "latitude": 44.01491944,
+      "longitude": -73.16703056,
+      "directions": "On North Pleasant Street (U.S. 7) , Middlebury, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294656",
+      "photo_urls": []
+    },
+    {
+      "id": "294657",
+      "title": "John Deere",
+      "latitude": 44.012743,
+      "longitude": -73.169242,
+      "directions": "On Main Street, Middlebury, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294657",
+      "photo_urls": []
+    },
+    {
+      "id": "294658",
+      "title": "Middlebury Civil War Memorial",
+      "latitude": 44.01360638,
+      "longitude": -73.16678563,
+      "directions": "On Merchants Row, Middlebury, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294658",
+      "photo_urls": []
+    },
+    {
+      "id": "294659",
+      "title": "Middlebury War Memorial",
+      "latitude": 44.01412222,
+      "longitude": -73.16590833,
+      "directions": "Near Court Street (U.S. 7) , Middlebury, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294659",
+      "photo_urls": []
+    },
+    {
+      "id": "294660",
+      "title": "Samuel Miller, Esq.",
+      "latitude": 44.01509722,
+      "longitude": -73.16680833,
+      "directions": "On North Pleasant Street (U.S. 7) , Middlebury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294660",
+      "photo_urls": []
+    },
+    {
+      "id": "294661",
+      "title": "The Addison County Courthouse",
+      "latitude": 44.01398889,
+      "longitude": -73.16580833,
+      "directions": "On Court Street (U.S. 7) , Middlebury, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294661",
+      "photo_urls": []
+    },
+    {
+      "id": "294662",
+      "title": "The Battell Block",
+      "latitude": 44.01363333,
+      "longitude": -73.16831944,
+      "directions": "On Main Street, Middlebury, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294662",
+      "photo_urls": []
+    },
+    {
+      "id": "294664",
+      "title": "Town & Gown",
+      "latitude": 44.01210278,
+      "longitude": -73.16915,
+      "directions": "On Cross Street, Middlebury, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294664",
+      "photo_urls": []
+    },
+    {
+      "id": "294900",
+      "title": "Soldiers' Monument",
+      "latitude": 43.65606545,
+      "longitude": -72.32909917,
+      "directions": "Near Maple Street, Hartford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294900",
+      "photo_urls": []
+    },
+    {
+      "id": "294912",
+      "title": "Hartford High School Memorial Flagpole",
+      "latitude": 43.65730916,
+      "longitude": -72.31841774,
+      "directions": "Near Hebard Avenue, Hartford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294912",
+      "photo_urls": []
+    },
+    {
       "id": "29506",
       "title": "Crafts Inn",
       "latitude": 42.868686,
       "longitude": -72.871985,
       "directions": "On West Main Street (State Route 9) , Wilmington, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29506",
+      "photo_urls": []
+    },
+    {
+      "id": "295460",
+      "title": "Jeffrey Scott Holmes",
+      "latitude": 43.65687771,
+      "longitude": -72.31792475,
+      "directions": "On Hanover Street, Hartford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295460",
+      "photo_urls": []
+    },
+    {
+      "id": "295467",
+      "title": "Wilder War Memorial",
+      "latitude": 43.67394735,
+      "longitude": -72.30723593,
+      "directions": "On Norwich Avenue, Hartford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295467",
+      "photo_urls": []
+    },
+    {
+      "id": "298331",
+      "title": "Indian Stones",
+      "latitude": 43.44653333,
+      "longitude": -72.5355,
+      "directions": "On State Route 106, Reading, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298331",
       "photo_urls": []
     },
     {
