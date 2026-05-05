@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-05",
+  "run_id": 126,
+  "cycle_day": 13,
+  "regions_processed": [
+    "us-dc"
+  ],
+  "changes": {
+    "us-dc": {
+      "added": 2811,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 5295,
+  "total_removed": 0,
+  "total_modified": 0
+}
