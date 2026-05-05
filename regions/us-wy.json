@@ -3,8 +3,8 @@
   "region_name": "Wyoming",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-11T19:23:46.497Z",
-  "source_timestamp": "2026-04-11T19:23:46.497Z",
+  "generated": "2026-05-05T06:02:32.117Z",
+  "source_timestamp": "2026-05-05T06:02:32.117Z",
   "marker_count": 1431,
   "markers": [
     {
@@ -2622,7 +2622,7 @@
       "title": "The English Tunnel",
       "latitude": 42.47502,
       "longitude": -108.7905,
-      "directions": "Near , South Pass City, ",
+      "directions": "Near no nearby street, South Pass City, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292327",
       "photo_urls": []
     },
@@ -4746,7 +4746,7 @@
       "title": "Atlantic City: Surviving the Bust",
       "latitude": 42.496347,
       "longitude": -108.730307,
-      "directions": "On East Main Street, Atlantic City, (On the right when traveling west)",
+      "directions": "On East Main Street, near Lander, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80134",
       "photo_urls": []
     },
@@ -4755,7 +4755,7 @@
       "title": "Fort Stambaugh, 1870-1878",
       "latitude": 42.52653333,
       "longitude": -108.7227,
-      "directions": "On South Pass Road (Dickinson Avenue), near Atlantic City, (On the left when traveling south)",
+      "directions": "On South Pass Road (Dickinson Avenue), near , (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80145",
       "photo_urls": []
     },
@@ -6012,7 +6012,7 @@
     },
     {
       "id": "87520",
-      "title": "As an Infantryman . . .",
+      "title": "As an Infantryman …",
       "latitude": 44.577336,
       "longitude": -106.842244,
       "directions": "Near Piney Creek Road, Banner, ",
@@ -6021,7 +6021,7 @@
     },
     {
       "id": "87521",
-      "title": "During Your Advance . . .",
+      "title": "During Your Advance …",
       "latitude": 44.577918,
       "longitude": -106.842965,
       "directions": "Near Piney Creek Road, Banner, ",
@@ -6030,7 +6030,7 @@
     },
     {
       "id": "87522",
-      "title": "As a Cavalryman . . .",
+      "title": "As a Cavalryman …",
       "latitude": 44.578264,
       "longitude": -106.843392,
       "directions": "Near Piney Creek Road, Banner, ",
@@ -6048,7 +6048,7 @@
     },
     {
       "id": "87524",
-      "title": "Big Nose . . .",
+      "title": "Big Nose …",
       "latitude": 44.579179,
       "longitude": -106.842547,
       "directions": "Near Piney Creek Road, Banner, ",
@@ -6066,7 +6066,7 @@
     },
     {
       "id": "87526",
-      "title": "As a Plains Indian . . .",
+      "title": "As a Plains Indian …",
       "latitude": 44.581126,
       "longitude": -106.842208,
       "directions": "Near Piney Creek Road, Banner, ",
@@ -6075,7 +6075,7 @@
     },
     {
       "id": "87528",
-      "title": "At the Break of Dawn . . .",
+      "title": "At the Break of Dawn …",
       "latitude": 44.580543,
       "longitude": -106.84205,
       "directions": "Near Piney Creek Road, Banner, ",
