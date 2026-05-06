@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-05T06:02:40.384Z",
+  "generated": "2026-05-06T06:04:51.014Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 71840,
-  "total_regions": 35,
+  "total_markers": 71842,
+  "total_regions": 36,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -308,6 +308,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 2004,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-as",
+      "name": "American Samoa",
+      "type": "territory",
+      "country": "United States",
+      "file": "regions/us-as.json",
+      "markers": 2,
+      "size_bytes": 806,
+      "updated": "2026-05-06",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 2,
         "removed": 0,
         "modified": 0
       }
