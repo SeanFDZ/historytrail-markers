@@ -1,0 +1,2882 @@
+{
+  "region_id": "us-pr",
+  "region_name": "Puerto Rico",
+  "region_type": "territory",
+  "country": "United States",
+  "generated": "2026-05-06T06:04:47.490Z",
+  "source_timestamp": "2026-05-06T06:04:47.490Z",
+  "marker_count": 319,
+  "markers": [
+    {
+      "id": "137847",
+      "title": "Piña Colada Made Famous",
+      "latitude": 18.46460618,
+      "longitude": -66.1172163,
+      "directions": "On Calle Fortaleza, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137847",
+      "photo_urls": []
+    },
+    {
+      "id": "147340",
+      "title": "First Line of Defense",
+      "latitude": 18.46080972,
+      "longitude": -66.08639383,
+      "directions": "On PR-1, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147340",
+      "photo_urls": []
+    },
+    {
+      "id": "147347",
+      "title": "Ataques a la Isleta",
+      "latitude": 18.46051254,
+      "longitude": -66.08634935,
+      "directions": "On PR-1, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147347",
+      "photo_urls": []
+    },
+    {
+      "id": "147348",
+      "title": "Capilla Nuestra Señora de Lourdes",
+      "latitude": 18.4563355,
+      "longitude": -66.08506158,
+      "directions": "On Avenida Miramar, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147348",
+      "photo_urls": []
+    },
+    {
+      "id": "147349",
+      "title": "Fort San Antonio",
+      "latitude": 18.45953248,
+      "longitude": -66.08624395,
+      "directions": "On PR-1, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=147349",
+      "photo_urls": []
+    },
+    {
+      "id": "152449",
+      "title": "Guillermo Esteves Bridge",
+      "latitude": 18.45975991,
+      "longitude": -66.08627896,
+      "directions": "On Route 1, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=152449",
+      "photo_urls": []
+    },
+    {
+      "id": "173063",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.34078911,
+      "longitude": -66.31739177,
+      "directions": "On Calle Bou, Corozal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=173063",
+      "photo_urls": []
+    },
+    {
+      "id": "173066",
+      "title": "Korean and Vietnam Wars Memorial",
+      "latitude": 18.34080102,
+      "longitude": -66.31737592,
+      "directions": "On Calle Bou, Corozal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=173066",
+      "photo_urls": []
+    },
+    {
+      "id": "173068",
+      "title": "Master Sergeant Juan E. Negrón",
+      "latitude": 18.34077501,
+      "longitude": -66.31737396,
+      "directions": "On Calle Bou, Corozal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=173068",
+      "photo_urls": []
+    },
+    {
+      "id": "173072",
+      "title": "Puerto Rico Quincentenary Memorial",
+      "latitude": 18.34064882,
+      "longitude": -66.31713678,
+      "directions": "On Calle Bou, Corozal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=173072",
+      "photo_urls": []
+    },
+    {
+      "id": "193235",
+      "title": "Barack H. Obama",
+      "latitude": 18.46620833,
+      "longitude": -66.10553056,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193235",
+      "photo_urls": []
+    },
+    {
+      "id": "193236",
+      "title": "Gerald R. Ford",
+      "latitude": 18.46621944,
+      "longitude": -66.10558333,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193236",
+      "photo_urls": []
+    },
+    {
+      "id": "193237",
+      "title": "Lyndon B. Johnson",
+      "latitude": 18.4662,
+      "longitude": -66.10563611,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193237",
+      "photo_urls": []
+    },
+    {
+      "id": "193238",
+      "title": "John F. Kennedy",
+      "latitude": 18.46620278,
+      "longitude": -66.10572778,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193238",
+      "photo_urls": []
+    },
+    {
+      "id": "193239",
+      "title": "Dwight D. Eisenhower",
+      "latitude": 18.46620278,
+      "longitude": -66.10575,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193239",
+      "photo_urls": []
+    },
+    {
+      "id": "193240",
+      "title": "Harry S. Truman",
+      "latitude": 18.46618889,
+      "longitude": -66.10595833,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193240",
+      "photo_urls": []
+    },
+    {
+      "id": "193241",
+      "title": "Franklin D. Roosevelt",
+      "latitude": 18.46619722,
+      "longitude": -66.10598611,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193241",
+      "photo_urls": []
+    },
+    {
+      "id": "193242",
+      "title": "Herbert Hoover",
+      "latitude": 18.46617222,
+      "longitude": -66.106125,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193242",
+      "photo_urls": []
+    },
+    {
+      "id": "193243",
+      "title": "Theodore Roosevelt",
+      "latitude": 18.466175,
+      "longitude": -66.10614722,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193243",
+      "photo_urls": []
+    },
+    {
+      "id": "193599",
+      "title": "Escuela José Julián Acosta",
+      "latitude": 18.46598313,
+      "longitude": -66.11116205,
+      "directions": "On Avenida de la Constitución/Constitution Avenue (State Route 25) , San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193599",
+      "photo_urls": []
+    },
+    {
+      "id": "193606",
+      "title": "José Julián Acosta Birthplace",
+      "latitude": 18.46606208,
+      "longitude": -66.11234848,
+      "directions": "On Calle de O&#39;Donnell/O&#39;Donnell Street, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193606",
+      "photo_urls": []
+    },
+    {
+      "id": "193611",
+      "title": "Historic San Juan / San Juan Historico",
+      "latitude": 18.46658601,
+      "longitude": -66.11106965,
+      "directions": "On Avenida Luis Muñoz Rivera/Luis Muñoz Rivera Avenue (State Route 25R) , San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193611",
+      "photo_urls": []
+    },
+    {
+      "id": "193616",
+      "title": "Puerto Rico World War I Memorial / Monumento Puertorriqueño a la Primera Guerra Mundial",
+      "latitude": 18.46618056,
+      "longitude": -66.10588889,
+      "directions": "On Avenida de la Constitución (State Route 25/26) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193616",
+      "photo_urls": []
+    },
+    {
+      "id": "225478",
+      "title": "Restaurant La Casita Blanca",
+      "latitude": 18.44338056,
+      "longitude": -66.05365833,
+      "directions": "On Calle Tapia, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225478",
+      "photo_urls": []
+    },
+    {
+      "id": "225482",
+      "title": "Polvorín de San Jerónimo",
+      "latitude": 18.46497222,
+      "longitude": -66.08989722,
+      "directions": "On Avenido Luis Muñoz Rivera (State Route 25R) , San Juan, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225482",
+      "photo_urls": []
+    },
+    {
+      "id": "225484",
+      "title": "Memorial de Pulse (Pulse Memorial)",
+      "latitude": 18.46531944,
+      "longitude": -66.0897,
+      "directions": "On Avenida Luis Muñoz Rivera (State Route 25R) , San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225484",
+      "photo_urls": []
+    },
+    {
+      "id": "225486",
+      "title": "Palma real",
+      "latitude": 18.46595833,
+      "longitude": -66.09262222,
+      "directions": "On Avenida Luis Muñoz Rivera (Route 25R) , San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225486",
+      "photo_urls": []
+    },
+    {
+      "id": "225487",
+      "title": "Don Miguel Hernández Rodriguez",
+      "latitude": 18.25532222,
+      "longitude": -66.03651389,
+      "directions": "On State Route 1, Caguas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225487",
+      "photo_urls": []
+    },
+    {
+      "id": "225489",
+      "title": "Juan Morel Campos",
+      "latitude": 18.0115,
+      "longitude": -66.61383056,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225489",
+      "photo_urls": []
+    },
+    {
+      "id": "225491",
+      "title": "Domingo Cruz",
+      "latitude": 18.01151389,
+      "longitude": -66.61391389,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225491",
+      "photo_urls": []
+    },
+    {
+      "id": "225492",
+      "title": "Restauracion Edificio El Cometa",
+      "latitude": 18.01093611,
+      "longitude": -66.6138,
+      "directions": "On Calle Plaza Degetau (State Route 123) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225492",
+      "photo_urls": []
+    },
+    {
+      "id": "225494",
+      "title": "Tributo de Gratitud",
+      "latitude": 18.01125833,
+      "longitude": -66.61381667,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225494",
+      "photo_urls": []
+    },
+    {
+      "id": "225497",
+      "title": "Casa Amarilla",
+      "latitude": 18.23546667,
+      "longitude": -66.03626389,
+      "directions": "On Calle Ruiz Belvis (State Route 768) , Caguas, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225497",
+      "photo_urls": []
+    },
+    {
+      "id": "225499",
+      "title": "Paseo Antonio S. Arias Ventura",
+      "latitude": 18.01122627,
+      "longitude": -66.61333955,
+      "directions": "Near Calle Amor, Ponce, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225499",
+      "photo_urls": []
+    },
+    {
+      "id": "225501",
+      "title": "Willie Vincéns Tous",
+      "latitude": 18.01179167,
+      "longitude": -66.61348056,
+      "directions": "On Marina (State Route 1) , Ponce, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225501",
+      "photo_urls": []
+    },
+    {
+      "id": "225502",
+      "title": "Luis Muñoz Rivera",
+      "latitude": 18.01219836,
+      "longitude": -66.61404893,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225502",
+      "photo_urls": []
+    },
+    {
+      "id": "225504",
+      "title": "Don Luis Muñoz Rivera",
+      "latitude": 18.01187778,
+      "longitude": -66.61285278,
+      "directions": "On Calle Cristina (State Route 1) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225504",
+      "photo_urls": []
+    },
+    {
+      "id": "225508",
+      "title": "Willie Vincéns Tous",
+      "latitude": 18.01188611,
+      "longitude": -66.61220556,
+      "directions": "On Calle Mayor, Ponce, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225508",
+      "photo_urls": []
+    },
+    {
+      "id": "225509",
+      "title": "La Escuela Libre de Musica Juan Morell Campos",
+      "latitude": 18.01180529,
+      "longitude": -66.61128735,
+      "directions": "On Calle Cristina (State Route 1) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225509",
+      "photo_urls": []
+    },
+    {
+      "id": "225511",
+      "title": "Hon. Luis A. Ferre Aguayo",
+      "latitude": 18.01192222,
+      "longitude": -66.60855833,
+      "directions": "On Calle Cristina (State Route 1) , Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225511",
+      "photo_urls": []
+    },
+    {
+      "id": "225513",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.01289008,
+      "longitude": -66.60840494,
+      "directions": "On Calle Isabel-Muñoz Rivera, Ponce, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225513",
+      "photo_urls": []
+    },
+    {
+      "id": "225514",
+      "title": "Juan Pablo Duarte",
+      "latitude": 18.01288889,
+      "longitude": -66.60816111,
+      "directions": "On Calle Reina Isabel, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225514",
+      "photo_urls": []
+    },
+    {
+      "id": "225516",
+      "title": "Simon Bolivar",
+      "latitude": 18.01279167,
+      "longitude": -66.60817778,
+      "directions": "On Calle Reina Isabel, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225516",
+      "photo_urls": []
+    },
+    {
+      "id": "225517",
+      "title": "Luis Muñoz Marin",
+      "latitude": 18.01278333,
+      "longitude": -66.60803333,
+      "directions": "On Calle Reina Isabel, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225517",
+      "photo_urls": []
+    },
+    {
+      "id": "225519",
+      "title": "Jose Marti",
+      "latitude": 18.01287778,
+      "longitude": -66.60801667,
+      "directions": "On Calle Reina Isabel, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225519",
+      "photo_urls": []
+    },
+    {
+      "id": "225521",
+      "title": "El Leon Sabio",
+      "latitude": 18.01240833,
+      "longitude": -66.60775833,
+      "directions": "On Bulevar Miguel A. Pou, Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225521",
+      "photo_urls": []
+    },
+    {
+      "id": "225522",
+      "title": "Tucunar / Chopa",
+      "latitude": 18.17634448,
+      "longitude": -66.15047857,
+      "directions": "On Calle Antonio R. Barcelo (State Route 172) , Cidra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225522",
+      "photo_urls": []
+    },
+    {
+      "id": "225527",
+      "title": "Lago de Cidra",
+      "latitude": 18.17633384,
+      "longitude": -66.15054911,
+      "directions": "On Calle Antonio R. Barcelo (State Route 172) , Cidra, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225527",
+      "photo_urls": []
+    },
+    {
+      "id": "225532",
+      "title": "Reconocimiento al Veterano Cidreño",
+      "latitude": 18.17569466,
+      "longitude": -66.16073614,
+      "directions": "On Calle José de Diego (State Route 172) , Cidra, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225532",
+      "photo_urls": []
+    },
+    {
+      "id": "225533",
+      "title": "En Honor al Peon Caminero",
+      "latitude": 18.11608889,
+      "longitude": -66.16061389,
+      "directions": "On Calle Antonio R. Barceló (State Route 14) , Cayey, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225533",
+      "photo_urls": []
+    },
+    {
+      "id": "225535",
+      "title": "Hallazgos Arqueológicos",
+      "latitude": 18.11280556,
+      "longitude": -66.16587778,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225535",
+      "photo_urls": []
+    },
+    {
+      "id": "225565",
+      "title": "Los Empedrados en el Atrio de la Iglesia y Lado Sur",
+      "latitude": 18.112725,
+      "longitude": -66.16587778,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225565",
+      "photo_urls": []
+    },
+    {
+      "id": "225566",
+      "title": "Réplicas de Osamentas de Adultos",
+      "latitude": 18.11268333,
+      "longitude": -66.16586389,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225566",
+      "photo_urls": []
+    },
+    {
+      "id": "225567",
+      "title": "Fundadores de Nuestra Ciudad",
+      "latitude": 18.11250556,
+      "longitude": -66.16583889,
+      "directions": "On Calle Núñez Romero, Cayey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225567",
+      "photo_urls": []
+    },
+    {
+      "id": "225569",
+      "title": "En Memoria a los Fundadores y Primeras Familias Cayeyanas.",
+      "latitude": 18.11250556,
+      "longitude": -66.16583333,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225569",
+      "photo_urls": []
+    },
+    {
+      "id": "225570",
+      "title": "Hallazgos Arqueológicos",
+      "latitude": 18.11266389,
+      "longitude": -66.16587778,
+      "directions": "On Calle Núñez Romero, Cayey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225570",
+      "photo_urls": []
+    },
+    {
+      "id": "225571",
+      "title": "Iglesia Nuestra Señora de la Asunción",
+      "latitude": 18.11270833,
+      "longitude": -66.16596944,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225571",
+      "photo_urls": []
+    },
+    {
+      "id": "225574",
+      "title": "Réplicas de Osamentas de Niños y Familias",
+      "latitude": 18.11279167,
+      "longitude": -66.16595556,
+      "directions": "On Calle Núñez Romero, Cayey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225574",
+      "photo_urls": []
+    },
+    {
+      "id": "225578",
+      "title": "\"El Pan Nuestro\"",
+      "latitude": 18.11292222,
+      "longitude": -66.16596111,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225578",
+      "photo_urls": []
+    },
+    {
+      "id": "225582",
+      "title": "La Concha Acústica",
+      "latitude": 18.11262778,
+      "longitude": -66.16632778,
+      "directions": "On Calle Luis Muñoz Rivera (State Route 170) , Cayey, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225582",
+      "photo_urls": []
+    },
+    {
+      "id": "225586",
+      "title": "Plaza Ramón Frade León",
+      "latitude": 18.11236667,
+      "longitude": -66.16646667,
+      "directions": "On Avenida Luis Muñoz Rivera Sur (State Route 170) , Cayey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225586",
+      "photo_urls": []
+    },
+    {
+      "id": "225589",
+      "title": "El Piragüero Alegre de Cayey",
+      "latitude": 18.11236667,
+      "longitude": -66.16606944,
+      "directions": "On Calle Heraclio Mendoza, Cayey, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225589",
+      "photo_urls": []
+    },
+    {
+      "id": "225596",
+      "title": "José Ramón Piñeiro León",
+      "latitude": 18.11251944,
+      "longitude": -66.16659444,
+      "directions": "On Avenida Luis Muñoz Rivera Sur (State Route 170) , Cayey, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225596",
+      "photo_urls": []
+    },
+    {
+      "id": "225601",
+      "title": "Benigno Fernández García",
+      "latitude": 18.11263611,
+      "longitude": -66.16651111,
+      "directions": "On Avenida Luis Muñoz Rivera Sur (State Route 170) , Cayey, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225601",
+      "photo_urls": []
+    },
+    {
+      "id": "225603",
+      "title": "Desagües y Residuarios",
+      "latitude": 18.112675,
+      "longitude": -66.16652778,
+      "directions": "On Avenida Luis Muñoz Rivera Sur (State Route 170) , Cayey, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225603",
+      "photo_urls": []
+    },
+    {
+      "id": "225604",
+      "title": "Jesús Ríos Robles",
+      "latitude": 18.11293889,
+      "longitude": -66.16652778,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225604",
+      "photo_urls": []
+    },
+    {
+      "id": "225605",
+      "title": "Fundación de la Ciudad",
+      "latitude": 18.11300556,
+      "longitude": -66.16647222,
+      "directions": "On Calle Núñez Romero, Cayey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225605",
+      "photo_urls": []
+    },
+    {
+      "id": "225606",
+      "title": "Monumento a la Guerra de Corea",
+      "latitude": 17.98480278,
+      "longitude": -66.11357222,
+      "directions": "On Calle Derkes (State Route 3) , Guayama, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225606",
+      "photo_urls": []
+    },
+    {
+      "id": "225607",
+      "title": "Memorial for the War with Spain",
+      "latitude": 17.98521111,
+      "longitude": -66.11384444,
+      "directions": "On Calle Calimano Martínez (State Route 15) , Guayama, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225607",
+      "photo_urls": []
+    },
+    {
+      "id": "225609",
+      "title": "Hector Luis Colon Mendoza",
+      "latitude": 17.98576489,
+      "longitude": -66.11375069,
+      "directions": "On Calle Vicente Palés Matos, Guayama, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225609",
+      "photo_urls": []
+    },
+    {
+      "id": "225611",
+      "title": "Monumento a los Veteranos",
+      "latitude": 17.98520278,
+      "longitude": -66.11332778,
+      "directions": "On Calle Santiago Palmer, Guayama, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225611",
+      "photo_urls": []
+    },
+    {
+      "id": "225612",
+      "title": "Luis Pales Matos",
+      "latitude": 17.98418518,
+      "longitude": -66.11494715,
+      "directions": "On Calle Baldorioty, Guayama, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225612",
+      "photo_urls": []
+    },
+    {
+      "id": "225613",
+      "title": "Monumento a Vietnam",
+      "latitude": 17.97694722,
+      "longitude": -66.29802778,
+      "directions": "On Calle Monserrate, Salinas, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225613",
+      "photo_urls": []
+    },
+    {
+      "id": "225614",
+      "title": "Rafael Padilla Borges",
+      "latitude": 17.96679167,
+      "longitude": -66.37183333,
+      "directions": "On Calle A, Santa Isabel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225614",
+      "photo_urls": []
+    },
+    {
+      "id": "225615",
+      "title": "C.P.T. María Inés Ortiz Santiago / Monumento a los veteranos de las guerras de Corea y Vietnam",
+      "latitude": 17.96513889,
+      "longitude": -66.40418889,
+      "directions": "On Calle Luis Muñoz Rivera, Santa Isabel, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225615",
+      "photo_urls": []
+    },
+    {
+      "id": "225616",
+      "title": "Juana Díaz",
+      "latitude": 18.05222512,
+      "longitude": -66.50414539,
+      "directions": "On Calle Comercio (State Route 14) , Juana Díaz, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225616",
+      "photo_urls": []
+    },
+    {
+      "id": "225626",
+      "title": "Parroquia San Ramón Nonato",
+      "latitude": 18.05294447,
+      "longitude": -66.50549701,
+      "directions": "Near Calle Muñoz Rivera, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225626",
+      "photo_urls": []
+    },
+    {
+      "id": "225631",
+      "title": "Iglesia Evangelica Unida de Puerto Rico",
+      "latitude": 18.05337023,
+      "longitude": -66.50650547,
+      "directions": "On Calle Mariano Abril (State Route 570) , Juana Díaz, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225631",
+      "photo_urls": []
+    },
+    {
+      "id": "225634",
+      "title": "Casa del Rey",
+      "latitude": 18.05354345,
+      "longitude": -66.5064476,
+      "directions": "On Calle Mariano Abril (State Route 570) , Juana Díaz, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225634",
+      "photo_urls": []
+    },
+    {
+      "id": "225639",
+      "title": "Padre Velentín Echavarría",
+      "latitude": 18.05319722,
+      "longitude": -66.50543889,
+      "directions": "On Calle F Degetau, Juana Díaz, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225639",
+      "photo_urls": []
+    },
+    {
+      "id": "225641",
+      "title": "Plaza Recreo de Juana Díaz",
+      "latitude": 18.05285556,
+      "longitude": -66.50628611,
+      "directions": "On Calle Comercio (State Route 14) , Juana Díaz, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225641",
+      "photo_urls": []
+    },
+    {
+      "id": "225643",
+      "title": "Carlos M. Rabassa Torres",
+      "latitude": 18.0494,
+      "longitude": -66.50938333,
+      "directions": "On State Route 149, Juana Díaz, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225643",
+      "photo_urls": []
+    },
+    {
+      "id": "225644",
+      "title": "Ramon Enrique Ortiz Correa",
+      "latitude": 18.04771944,
+      "longitude": -66.50976667,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225644",
+      "photo_urls": []
+    },
+    {
+      "id": "225645",
+      "title": "Griselle del Carmen Ortiz",
+      "latitude": 18.04771944,
+      "longitude": -66.50976667,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225645",
+      "photo_urls": []
+    },
+    {
+      "id": "225647",
+      "title": "Marcelino Dominguez Morales",
+      "latitude": 18.047725,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225647",
+      "photo_urls": []
+    },
+    {
+      "id": "225648",
+      "title": "Waldemar Schmidt Irizarri",
+      "latitude": 18.047725,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225648",
+      "photo_urls": []
+    },
+    {
+      "id": "225651",
+      "title": "Jose Rafael \"Palillo\" Santiago (1938 - )",
+      "latitude": 18.04776111,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225651",
+      "photo_urls": []
+    },
+    {
+      "id": "225653",
+      "title": "Fernando Mandry (1913 - )",
+      "latitude": 18.04776111,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225653",
+      "photo_urls": []
+    },
+    {
+      "id": "225654",
+      "title": "Ignacio Burgos Rodriguez (1921 - )",
+      "latitude": 18.04776111,
+      "longitude": -66.50981111,
+      "directions": "Near State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225654",
+      "photo_urls": []
+    },
+    {
+      "id": "225655",
+      "title": "Carlos Rafael Ortiz Correa (Calin) (1925 - 1946)",
+      "latitude": 18.04776667,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225655",
+      "photo_urls": []
+    },
+    {
+      "id": "225656",
+      "title": "Andres Cruz Pacheco (1931 - )",
+      "latitude": 18.04776111,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225656",
+      "photo_urls": []
+    },
+    {
+      "id": "225658",
+      "title": "Ramon Luis Vega Zayas (1939 - )",
+      "latitude": 18.04776111,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225658",
+      "photo_urls": []
+    },
+    {
+      "id": "225659",
+      "title": "Jose Bayoan Ortiz Rivera",
+      "latitude": 18.04776667,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225659",
+      "photo_urls": []
+    },
+    {
+      "id": "225661",
+      "title": "Carlos Bernier Rodriguez (1926 - 1983)",
+      "latitude": 18.04776389,
+      "longitude": -66.50981944,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225661",
+      "photo_urls": []
+    },
+    {
+      "id": "225663",
+      "title": "Juan Ramon Martinez Martinez (1945 - )",
+      "latitude": 18.04777222,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225663",
+      "photo_urls": []
+    },
+    {
+      "id": "225665",
+      "title": "Carlos J. Rivero Pacheco",
+      "latitude": 18.04776944,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225665",
+      "photo_urls": []
+    },
+    {
+      "id": "225666",
+      "title": "Glodowaldo Augusto Peguero Vega",
+      "latitude": 18.04777222,
+      "longitude": -66.50980278,
+      "directions": "Near State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225666",
+      "photo_urls": []
+    },
+    {
+      "id": "225668",
+      "title": "Ramon Luis (Wito) Conde (1934 - )",
+      "latitude": 18.047775,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225668",
+      "photo_urls": []
+    },
+    {
+      "id": "225669",
+      "title": "Orlando Rodriguez Matos (1935 - )",
+      "latitude": 18.04777222,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225669",
+      "photo_urls": []
+    },
+    {
+      "id": "225671",
+      "title": "Adrian Garcia Garcia (1915 - )",
+      "latitude": 18.04777222,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225671",
+      "photo_urls": []
+    },
+    {
+      "id": "225672",
+      "title": "Radamas Torres Martinez",
+      "latitude": 18.04776667,
+      "longitude": -66.50980278,
+      "directions": "Near State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225672",
+      "photo_urls": []
+    },
+    {
+      "id": "225673",
+      "title": "Rogelio Negron Lugo (1945 - )",
+      "latitude": 18.04777778,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225673",
+      "photo_urls": []
+    },
+    {
+      "id": "225674",
+      "title": "Pedro Rafael Tricoche de Jesus (1940 - )",
+      "latitude": 18.04777222,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225674",
+      "photo_urls": []
+    },
+    {
+      "id": "225676",
+      "title": "Jose Julio de Leon (1938 - )",
+      "latitude": 18.04777222,
+      "longitude": -66.50981111,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225676",
+      "photo_urls": []
+    },
+    {
+      "id": "225690",
+      "title": "Pablo Hernandez Torres",
+      "latitude": 18.04780278,
+      "longitude": -66.50979722,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225690",
+      "photo_urls": []
+    },
+    {
+      "id": "225692",
+      "title": "Maria Roldan Torres",
+      "latitude": 18.04779167,
+      "longitude": -66.50980278,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225692",
+      "photo_urls": []
+    },
+    {
+      "id": "225694",
+      "title": "Victor Tricoche de Jesus",
+      "latitude": 18.04779722,
+      "longitude": -66.50979722,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225694",
+      "photo_urls": []
+    },
+    {
+      "id": "225695",
+      "title": "En Memoria de Todos los Veteranos de la I Guerra Mundial",
+      "latitude": 18.04723611,
+      "longitude": -66.50994167,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225695",
+      "photo_urls": []
+    },
+    {
+      "id": "225696",
+      "title": "En Memoria de Todos los Veteranos de la II Guerra Mundial",
+      "latitude": 18.04724722,
+      "longitude": -66.50994167,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225696",
+      "photo_urls": []
+    },
+    {
+      "id": "225698",
+      "title": "Veteranos Juanadinos",
+      "latitude": 18.04725833,
+      "longitude": -66.50995,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225698",
+      "photo_urls": []
+    },
+    {
+      "id": "225699",
+      "title": "En Memoria de Todos los Veteranos de la Guerra de Korea",
+      "latitude": 18.04725556,
+      "longitude": -66.50994167,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225699",
+      "photo_urls": []
+    },
+    {
+      "id": "225701",
+      "title": "En Memoria de Todos los Veteranos de la Guerra del Golfo Persico",
+      "latitude": 18.04726667,
+      "longitude": -66.50994167,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225701",
+      "photo_urls": []
+    },
+    {
+      "id": "225703",
+      "title": "En Memoria de Todos los Veteranos de Vietnam",
+      "latitude": 18.047275,
+      "longitude": -66.50993333,
+      "directions": "On State Route 149, Juana Díaz, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225703",
+      "photo_urls": []
+    },
+    {
+      "id": "225715",
+      "title": "Monumento a la Abolicion de la Esclavitud",
+      "latitude": 18.00583333,
+      "longitude": -66.61273889,
+      "directions": "On Marina (State Route 123) , Ponce, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225715",
+      "photo_urls": []
+    },
+    {
+      "id": "225718",
+      "title": "Elevator [Ascensor]",
+      "latitude": 18.01170833,
+      "longitude": -66.61318889,
+      "directions": "Near Calle Cristina (State Route 1) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225718",
+      "photo_urls": []
+    },
+    {
+      "id": "225721",
+      "title": "Elevator [Ascensor]",
+      "latitude": 18.01171,
+      "longitude": -66.61310671,
+      "directions": "Near Calle Cristina (State Route 1) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225721",
+      "photo_urls": []
+    },
+    {
+      "id": "225722",
+      "title": "Elevator [Ascensor]",
+      "latitude": 18.01177222,
+      "longitude": -66.61320556,
+      "directions": "Near Calle Cristina (State Route 1) , Ponce, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225722",
+      "photo_urls": []
+    },
+    {
+      "id": "225723",
+      "title": "The Building / El Edificio",
+      "latitude": 18.01195098,
+      "longitude": -66.61369454,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225723",
+      "photo_urls": []
+    },
+    {
+      "id": "225724",
+      "title": "Doctor Rafael Pujals",
+      "latitude": 18.01194444,
+      "longitude": -66.61363333,
+      "directions": "Near Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225724",
+      "photo_urls": []
+    },
+    {
+      "id": "225726",
+      "title": "Don Julio Stenacher",
+      "latitude": 18.01197248,
+      "longitude": -66.61381103,
+      "directions": "On Marina (State Route 1) , Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225726",
+      "photo_urls": []
+    },
+    {
+      "id": "225727",
+      "title": "El Edificio / Cronologica del Cuerpo de Bomberos Municipal de Ponce",
+      "latitude": 18.01182259,
+      "longitude": -66.61376935,
+      "directions": "Near Marina, Ponce, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225727",
+      "photo_urls": []
+    },
+    {
+      "id": "225729",
+      "title": "La Masacre de Ponce",
+      "latitude": 18.00939043,
+      "longitude": -66.61354528,
+      "directions": "On Calle Aurora, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225729",
+      "photo_urls": []
+    },
+    {
+      "id": "225730",
+      "title": "Graciela Rivera",
+      "latitude": 18.00967564,
+      "longitude": -66.61617979,
+      "directions": "On Calle Aurora, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225730",
+      "photo_urls": []
+    },
+    {
+      "id": "225731",
+      "title": "Plaza Regimiento 65 de Infanteria",
+      "latitude": 17.98061174,
+      "longitude": -66.62172404,
+      "directions": "On Calle Arias, Ponce, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225731",
+      "photo_urls": []
+    },
+    {
+      "id": "225732",
+      "title": "Puertorriqueños disaparecidos en Vietnam",
+      "latitude": 17.98064167,
+      "longitude": -66.62171944,
+      "directions": "On Calle Bonaire, Ponce, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225732",
+      "photo_urls": []
+    },
+    {
+      "id": "225735",
+      "title": "Andres Alvarado Tull",
+      "latitude": 17.98066389,
+      "longitude": -66.62171111,
+      "directions": "On Calle Alfonso XII, Ponce, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225735",
+      "photo_urls": []
+    },
+    {
+      "id": "225738",
+      "title": "Monumento a Vietnam [Vietnam Memorial]",
+      "latitude": 17.98066389,
+      "longitude": -66.62171944,
+      "directions": "On Calle Alfonso XII, Ponce, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225738",
+      "photo_urls": []
+    },
+    {
+      "id": "225742",
+      "title": "La Danza Puertorriqueña",
+      "latitude": 18.01551944,
+      "longitude": -66.61774444,
+      "directions": "On Calle Frontispicio, Ponce, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225742",
+      "photo_urls": []
+    },
+    {
+      "id": "225768",
+      "title": "Antiguo Cementario de las Calles Frontisipicio y Simón de la Torre",
+      "latitude": 18.0155559,
+      "longitude": -66.61763473,
+      "directions": "On Calle Frontisipicio, Ponce, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225768",
+      "photo_urls": []
+    },
+    {
+      "id": "225771",
+      "title": "José Luis \"Cheo\" Feliciano Vego",
+      "latitude": 18.01495443,
+      "longitude": -66.61384776,
+      "directions": "On Paseo Atocha, Ponce, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225771",
+      "photo_urls": []
+    },
+    {
+      "id": "225777",
+      "title": "Fuente Tipo \"Bizcocho\"",
+      "latitude": 18.05697516,
+      "longitude": -66.72261339,
+      "directions": "On Calle Pedro Velázquez Díaz (State Route 383) , Peñuelas, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225777",
+      "photo_urls": []
+    },
+    {
+      "id": "225779",
+      "title": "Ángel Pacheco Alvarado",
+      "latitude": 18.05697459,
+      "longitude": -66.72260648,
+      "directions": "On Calle Pedro Velázquez Díaz (State Route 383) , Peñuelas, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225779",
+      "photo_urls": []
+    },
+    {
+      "id": "225781",
+      "title": "El Flamboyán",
+      "latitude": 18.05696667,
+      "longitude": -66.72251944,
+      "directions": "On Calle Pedro Velázquez Díaz (State Route 383) , Peñuelas, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225781",
+      "photo_urls": []
+    },
+    {
+      "id": "225784",
+      "title": "El Güiro",
+      "latitude": 18.05697222,
+      "longitude": -66.72247222,
+      "directions": "On Calle Pedro Velázquez Díaz (Route 383) , Peñuelas, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225784",
+      "photo_urls": []
+    },
+    {
+      "id": "225786",
+      "title": "Leyenda del Río Guayanés",
+      "latitude": 18.057,
+      "longitude": -66.72245,
+      "directions": "On Calle Pedro Velázquez Díaz (State Route 383) , Peñuelas, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225786",
+      "photo_urls": []
+    },
+    {
+      "id": "225788",
+      "title": "Monumento al Soldado Caído",
+      "latitude": 18.05700278,
+      "longitude": -66.72241111,
+      "directions": "On Calle Pedro Velázquez Díaz (Route 383) , Peñuelas, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225788",
+      "photo_urls": []
+    },
+    {
+      "id": "225789",
+      "title": "Monumento al Soldado Caído",
+      "latitude": 18.05715278,
+      "longitude": -66.72214444,
+      "directions": "On Calle Luis Muñoz Rivera (State Route 132) , Peñuelas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225789",
+      "photo_urls": []
+    },
+    {
+      "id": "225791",
+      "title": "La Locomotora \"La Negra Cocola\"",
+      "latitude": 18.05761146,
+      "longitude": -66.72277839,
+      "directions": "On Calle Cotto, Peñuelas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225791",
+      "photo_urls": []
+    },
+    {
+      "id": "225794",
+      "title": "Mariano Quiñones",
+      "latitude": 18.05323618,
+      "longitude": -66.72173485,
+      "directions": "On Calle Luis Muñoz Rivera (State Route 132) , Peñuelas, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225794",
+      "photo_urls": []
+    },
+    {
+      "id": "225796",
+      "title": "Samuel F.B. Morse",
+      "latitude": 17.96203062,
+      "longitude": -66.06397944,
+      "directions": "On Calle Morse, Arroyo, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225796",
+      "photo_urls": []
+    },
+    {
+      "id": "225798",
+      "title": "Samuel F.B. Morse en Arroyo, P.R.",
+      "latitude": 17.96199056,
+      "longitude": -66.06396593,
+      "directions": "On Calle Esperanza, Arroyo, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225798",
+      "photo_urls": []
+    },
+    {
+      "id": "225801",
+      "title": "Monumento a Korea y Vietnam",
+      "latitude": 17.96430092,
+      "longitude": -66.06186408,
+      "directions": "On Calle Morse (State Route 178) , Arroyo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225801",
+      "photo_urls": []
+    },
+    {
+      "id": "225803",
+      "title": "Municipio de Patillas",
+      "latitude": 18.00560099,
+      "longitude": -66.01729358,
+      "directions": "On Calle Muñoz Rivera (State Route 3) , Patillas, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225803",
+      "photo_urls": []
+    },
+    {
+      "id": "225804",
+      "title": "Alcaldes de Patillas",
+      "latitude": 18.00560081,
+      "longitude": -66.01730457,
+      "directions": "On Calle Muñoz Rivera (Route 3) , Patillas, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225804",
+      "photo_urls": []
+    },
+    {
+      "id": "225806",
+      "title": "Calle Paulino Rodríguez Bernier",
+      "latitude": 18.00588453,
+      "longitude": -66.01732133,
+      "directions": "On Calle Esmerelda, Patillas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225806",
+      "photo_urls": []
+    },
+    {
+      "id": "225812",
+      "title": "Memorial a los Veteranos",
+      "latitude": 18.00598889,
+      "longitude": -66.01444167,
+      "directions": "On Calle Cristo, Patillas, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225812",
+      "photo_urls": []
+    },
+    {
+      "id": "225816",
+      "title": "Calle Los Congos - Patillas",
+      "latitude": 18.00603209,
+      "longitude": -66.01331124,
+      "directions": "On Calle Octavio Rivera (State Route 757) , Patillas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225816",
+      "photo_urls": []
+    },
+    {
+      "id": "225817",
+      "title": "San Miguel Arcangel",
+      "latitude": 18.00686944,
+      "longitude": -66.01250556,
+      "directions": "On Calle Alberto Ricci, Patillas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225817",
+      "photo_urls": []
+    },
+    {
+      "id": "225818",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.00741539,
+      "longitude": -65.89953462,
+      "directions": "On Calle Muñoz Rivera (State Route 3) , Maunabo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225818",
+      "photo_urls": []
+    },
+    {
+      "id": "225819",
+      "title": "\"En Memoria\"",
+      "latitude": 18.00742918,
+      "longitude": -65.89956625,
+      "directions": "On Calle Muñoz Rivera (State Route 3/760) , Maunabo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225819",
+      "photo_urls": []
+    },
+    {
+      "id": "225820",
+      "title": "Escudo de Maunabo Simbolismo",
+      "latitude": 18.00413056,
+      "longitude": -65.89711667,
+      "directions": "On State Route 760, Maunabo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225820",
+      "photo_urls": []
+    },
+    {
+      "id": "225825",
+      "title": "Padres Benedictinos",
+      "latitude": 18.05043136,
+      "longitude": -65.87920161,
+      "directions": "On Calle Cristobal Colon (State Route 9910) , Yabucoa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225825",
+      "photo_urls": []
+    },
+    {
+      "id": "225830",
+      "title": "Honor a Quien Honor Merece",
+      "latitude": 18.04745291,
+      "longitude": -65.88041444,
+      "directions": "On Calle Catalina Morales (State Route 182) , Yabucoa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225830",
+      "photo_urls": []
+    },
+    {
+      "id": "225831",
+      "title": "Homenaje al Cortador Caña",
+      "latitude": 18.04706667,
+      "longitude": -65.87884444,
+      "directions": "On Calle Cristobal Colon (State Route 182) , Yabucoa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225831",
+      "photo_urls": []
+    },
+    {
+      "id": "225832",
+      "title": "In Memoriam",
+      "latitude": 18.15030643,
+      "longitude": -65.82673573,
+      "directions": "On Sector Cuesta Los Jobos (State Route 198) , Humacao, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225832",
+      "photo_urls": []
+    },
+    {
+      "id": "225834",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.18241944,
+      "longitude": -65.86492222,
+      "directions": "On Calle José Celso Barbosa (State Route 198) , Las Piedras, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225834",
+      "photo_urls": []
+    },
+    {
+      "id": "225835",
+      "title": "En Memoria de Todos los Veteranos de la I Guerra Mundial",
+      "latitude": 18.22655556,
+      "longitude": -65.91770833,
+      "directions": "On State Route 9913, Juncos, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225835",
+      "photo_urls": []
+    },
+    {
+      "id": "225838",
+      "title": "En Memoria de Todos los Veteranos de la II Guerra Mundial",
+      "latitude": 18.22653889,
+      "longitude": -65.91771667,
+      "directions": "On State Route 9931, Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225838",
+      "photo_urls": []
+    },
+    {
+      "id": "225839",
+      "title": "Veteranos Junqueños",
+      "latitude": 18.22655234,
+      "longitude": -65.9176846,
+      "directions": "On State Route 9913, Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225839",
+      "photo_urls": []
+    },
+    {
+      "id": "225840",
+      "title": "En Memoria de Todos Los Veteranos de Vietnam",
+      "latitude": 18.22658056,
+      "longitude": -65.91769444,
+      "directions": "On State Route 9913, Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225840",
+      "photo_urls": []
+    },
+    {
+      "id": "225841",
+      "title": "In Memoria de Todos Los Veteranos de la Guerra de Corea",
+      "latitude": 18.22659167,
+      "longitude": -65.91770278,
+      "directions": "On State Route 9913, Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225841",
+      "photo_urls": []
+    },
+    {
+      "id": "225843",
+      "title": "Monumento a los Muertos y Desaparecidos en Acción",
+      "latitude": 18.22651111,
+      "longitude": -65.91775556,
+      "directions": "On State Route 9913, Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225843",
+      "photo_urls": []
+    },
+    {
+      "id": "225845",
+      "title": "In Memoriam",
+      "latitude": 18.22769722,
+      "longitude": -65.92191944,
+      "directions": "On Calle Algarin (Route 933) , Juncos, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225845",
+      "photo_urls": []
+    },
+    {
+      "id": "225846",
+      "title": "Soldados Gurabeños Fallecidos en Combate",
+      "latitude": 18.25480833,
+      "longitude": -65.97138889,
+      "directions": "On Calle Andrés Arús Rivera (State Route 189) , Gurabo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225846",
+      "photo_urls": []
+    },
+    {
+      "id": "225847",
+      "title": "Soldado Gurabeño",
+      "latitude": 18.25481667,
+      "longitude": -65.97138889,
+      "directions": "On Calle Andrés Arús Rivera (State Route 189) , Gurabo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225847",
+      "photo_urls": []
+    },
+    {
+      "id": "225848",
+      "title": "Luis del Carmen Echevarria Delgado",
+      "latitude": 18.25483056,
+      "longitude": -65.97212222,
+      "directions": "On State Route 189, Gurabo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225848",
+      "photo_urls": []
+    },
+    {
+      "id": "225852",
+      "title": "Jaime Serrano Dávila",
+      "latitude": 18.25593056,
+      "longitude": -65.97211389,
+      "directions": "On Calle Angel C. Morales, Gurabo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225852",
+      "photo_urls": []
+    },
+    {
+      "id": "225854",
+      "title": "Lcdo. Ángel Viera Martínez",
+      "latitude": 18.25591667,
+      "longitude": -65.97259444,
+      "directions": "On Calle Angel C. Morales, Gurabo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225854",
+      "photo_urls": []
+    },
+    {
+      "id": "225857",
+      "title": "Luis A. Ferré Aguayo",
+      "latitude": 18.25521944,
+      "longitude": -65.97213611,
+      "directions": "On Calle San José, Gurabo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225857",
+      "photo_urls": []
+    },
+    {
+      "id": "225858",
+      "title": "Torre de Observación Mariano Rodríguez Flores",
+      "latitude": 17.956698,
+      "longitude": -67.19908595,
+      "directions": "On State Route 301, Cabo Rojo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225858",
+      "photo_urls": []
+    },
+    {
+      "id": "225861",
+      "title": "Las Salinas de Cabo Rojo / Cabo Rojo Salt Flats",
+      "latitude": 17.95675556,
+      "longitude": -67.19912778,
+      "directions": "Near State Route 301, Cabo Rojo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225861",
+      "photo_urls": []
+    },
+    {
+      "id": "225863",
+      "title": "Avenida Hon. Emilio del Toro Cuebas",
+      "latitude": 18.07980833,
+      "longitude": -67.15925556,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225863",
+      "photo_urls": []
+    },
+    {
+      "id": "225864",
+      "title": "En Memoria de Todos los Veteranos de la Guerra de Vietnam",
+      "latitude": 18.0812,
+      "longitude": -67.15545,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225864",
+      "photo_urls": []
+    },
+    {
+      "id": "225865",
+      "title": "En Memoria de Todos los Veteranos de la Guerra del Golfo Persico",
+      "latitude": 18.08119167,
+      "longitude": -67.15546389,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225865",
+      "photo_urls": []
+    },
+    {
+      "id": "225867",
+      "title": "Soldado Caborrojeño",
+      "latitude": 18.08118333,
+      "longitude": -67.15547222,
+      "directions": "On Route 308, Cabo Rojo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225867",
+      "photo_urls": []
+    },
+    {
+      "id": "225868",
+      "title": "En Memorial de Todos los Veteranos de Todas las Guerras",
+      "latitude": 18.08117778,
+      "longitude": -67.15547222,
+      "directions": "On State Route 308, Cabo Rojo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225868",
+      "photo_urls": []
+    },
+    {
+      "id": "225869",
+      "title": "Monumento al Soldado Caborrojeño",
+      "latitude": 18.08115833,
+      "longitude": -67.15546389,
+      "directions": "On State Route 308, Cabo Rojo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225869",
+      "photo_urls": []
+    },
+    {
+      "id": "225871",
+      "title": "En Memoria de Todos los Veteranos de la I Guerra Mundial",
+      "latitude": 18.08115833,
+      "longitude": -67.15543333,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225871",
+      "photo_urls": []
+    },
+    {
+      "id": "225872",
+      "title": "En Memoria de Todos los Veteranos de la II Guerra Mundial",
+      "latitude": 18.08117222,
+      "longitude": -67.155425,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225872",
+      "photo_urls": []
+    },
+    {
+      "id": "225874",
+      "title": "En Memoria de Todos los Veteranos de la Guerra de Korea",
+      "latitude": 18.08117778,
+      "longitude": -67.15541111,
+      "directions": "On State Route 308, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225874",
+      "photo_urls": []
+    },
+    {
+      "id": "225876",
+      "title": "Cabo Rojo",
+      "latitude": 18.08730278,
+      "longitude": -67.1465,
+      "directions": "On Calle Rios Rivera, Cabo Rojo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225876",
+      "photo_urls": []
+    },
+    {
+      "id": "225889",
+      "title": "Don Salvador Brau y Ascenio",
+      "latitude": 18.08671667,
+      "longitude": -67.14643056,
+      "directions": "On Calle Ruiz Belvis, Cabo Rojo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225889",
+      "photo_urls": []
+    },
+    {
+      "id": "225890",
+      "title": "Don Salvador Brau Asencio",
+      "latitude": 18.08671111,
+      "longitude": -67.14640833,
+      "directions": "On Calle Ruiz Belvis, Cabo Rojo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225890",
+      "photo_urls": []
+    },
+    {
+      "id": "225897",
+      "title": "Monumento a la Guerra de España Contra el Fascismo",
+      "latitude": 18.08700556,
+      "longitude": -67.14614167,
+      "directions": "On Calle Barbosa, Cabo Rojo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225897",
+      "photo_urls": []
+    },
+    {
+      "id": "225922",
+      "title": "Árbol de la Libertad",
+      "latitude": 18.087,
+      "longitude": -67.14610278,
+      "directions": "On Calle Barbosa, Cabo Rojo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225922",
+      "photo_urls": []
+    },
+    {
+      "id": "225936",
+      "title": "Dr. Ramon Emeterio Betances",
+      "latitude": 18.087175,
+      "longitude": -67.14611111,
+      "directions": "On Calle Barbosa, Cabo Rojo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225936",
+      "photo_urls": []
+    },
+    {
+      "id": "225937",
+      "title": "Plaza de la Paz",
+      "latitude": 18.08804722,
+      "longitude": -67.14456944,
+      "directions": "On State Route 102/103, Cabo Rojo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225937",
+      "photo_urls": []
+    },
+    {
+      "id": "225939",
+      "title": "Año 2004",
+      "latitude": 18.08225516,
+      "longitude": -67.04366564,
+      "directions": "On Calle De La Cruz, San Germán, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225939",
+      "photo_urls": []
+    },
+    {
+      "id": "225941",
+      "title": "In Memoriam Vto Centenario de la Evangelizacion de Puerto Rico",
+      "latitude": 18.08227654,
+      "longitude": -67.04370044,
+      "directions": "On Calle De La Cruz, San Germán, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225941",
+      "photo_urls": []
+    },
+    {
+      "id": "225942",
+      "title": "Ubaldino Ramirez de Arellano",
+      "latitude": 18.08238304,
+      "longitude": -67.04075744,
+      "directions": "On Calle Luz Celenia Tirado (State Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225942",
+      "photo_urls": []
+    },
+    {
+      "id": "225943",
+      "title": "Sangermeños Miembros Gabinete Autonomico",
+      "latitude": 18.08221111,
+      "longitude": -67.04048056,
+      "directions": "On Calle Luz Celenia Tirado (State Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225943",
+      "photo_urls": []
+    },
+    {
+      "id": "225945",
+      "title": "Siglo XX",
+      "latitude": 18.08217222,
+      "longitude": -67.04041389,
+      "directions": "On Calle Luz Celenia Tirado (Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225945",
+      "photo_urls": []
+    },
+    {
+      "id": "225947",
+      "title": "Siglo XIX",
+      "latitude": 18.08212778,
+      "longitude": -67.04036667,
+      "directions": "On Calle Luz Celenia Tirado (State Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225947",
+      "photo_urls": []
+    },
+    {
+      "id": "225949",
+      "title": "Siglo XVIII",
+      "latitude": 18.08210278,
+      "longitude": -67.04033611,
+      "directions": "On Calle Luz Celenia Tirado (State Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225949",
+      "photo_urls": []
+    },
+    {
+      "id": "225951",
+      "title": "Siglo XVI",
+      "latitude": 18.08206667,
+      "longitude": -67.04029722,
+      "directions": "On Calle Luz Celenia Tirado (Route 360) , San Germán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225951",
+      "photo_urls": []
+    },
+    {
+      "id": "225952",
+      "title": "150 Aniversario",
+      "latitude": 18.0795004,
+      "longitude": -66.96007597,
+      "directions": "On State Route 364, Sabana Grande, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225952",
+      "photo_urls": []
+    },
+    {
+      "id": "225953",
+      "title": "Plaza Busigó",
+      "latitude": 18.07946935,
+      "longitude": -66.96005564,
+      "directions": "On State Route 364, Sabana Grande, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225953",
+      "photo_urls": []
+    },
+    {
+      "id": "225955",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.07939444,
+      "longitude": -66.96013611,
+      "directions": "On State Route 364, Sabana Grande, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225955",
+      "photo_urls": []
+    },
+    {
+      "id": "225958",
+      "title": "Monumento de la Orden Militar de Corazon Purpura",
+      "latitude": 18.03379444,
+      "longitude": -66.84968611,
+      "directions": "On Calle Baldorioty, Yauco, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225958",
+      "photo_urls": []
+    },
+    {
+      "id": "225960",
+      "title": "Monumento de la Orden Militar de Corazon Purpura",
+      "latitude": 18.0338,
+      "longitude": -66.84966389,
+      "directions": "On Calle Baldorioty, Yauco, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225960",
+      "photo_urls": []
+    },
+    {
+      "id": "225961",
+      "title": "Monumento a los Veteranos",
+      "latitude": 18.03371389,
+      "longitude": -66.84947222,
+      "directions": "On Avenida Santiago Vivaldi, Yauco, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225961",
+      "photo_urls": []
+    },
+    {
+      "id": "225965",
+      "title": "Arturo Lluberas Rodriguez de la Seda",
+      "latitude": 18.03375,
+      "longitude": -66.84910556,
+      "directions": "On Calle 25 de Julio (State Route 127) , Yauco, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225965",
+      "photo_urls": []
+    },
+    {
+      "id": "225970",
+      "title": "Primera Iglesia Buatista de Ponce",
+      "latitude": 18.01498442,
+      "longitude": -66.61437855,
+      "directions": "On Calle Victoria, Ponce, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225970",
+      "photo_urls": []
+    },
+    {
+      "id": "225973",
+      "title": "Historia",
+      "latitude": 18.03331677,
+      "longitude": -66.84695398,
+      "directions": "On Calle 25 de Julio (State Route 127) , Yauco, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225973",
+      "photo_urls": []
+    },
+    {
+      "id": "225976",
+      "title": "Boulevard Brigadier General Mihiel Gilormini",
+      "latitude": 18.03125556,
+      "longitude": -66.84205,
+      "directions": "On State Route 359, Yauco, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225976",
+      "photo_urls": []
+    },
+    {
+      "id": "225987",
+      "title": "Escuela de Architectura y Diseño Rafael Hernández Colón",
+      "latitude": 18.01203139,
+      "longitude": -66.6134836,
+      "directions": "On Marina (State Route 1) , Ponce, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225987",
+      "photo_urls": []
+    },
+    {
+      "id": "225990",
+      "title": "En Memoria de Todos los Veteranos de la Guerra del Golfo Persico",
+      "latitude": 18.01768333,
+      "longitude": -66.79036667,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225990",
+      "photo_urls": []
+    },
+    {
+      "id": "225993",
+      "title": "En Memoria de Todos los Veteranos de Vietnam",
+      "latitude": 18.01768889,
+      "longitude": -66.79034444,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225993",
+      "photo_urls": []
+    },
+    {
+      "id": "225995",
+      "title": "En Memoria de Todos los Veteranos de la Guerra de Corea",
+      "latitude": 18.01769167,
+      "longitude": -66.79033611,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=225995",
+      "photo_urls": []
+    },
+    {
+      "id": "226000",
+      "title": "En Memoria de Todos los Veteranos de la II Guerra Mundial",
+      "latitude": 18.01770278,
+      "longitude": -66.79032222,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226000",
+      "photo_urls": []
+    },
+    {
+      "id": "226001",
+      "title": "En Memoria de Todos los Veteranos de la I Guerra Mundial",
+      "latitude": 18.01771111,
+      "longitude": -66.79030556,
+      "directions": "On Calle Luis Munoz Rivera (Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226001",
+      "photo_urls": []
+    },
+    {
+      "id": "226013",
+      "title": "Veteranos Guayanillenses",
+      "latitude": 18.01773611,
+      "longitude": -66.79029167,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226013",
+      "photo_urls": []
+    },
+    {
+      "id": "226015",
+      "title": "Luis Muñoz Marin",
+      "latitude": 18.01770278,
+      "longitude": -66.79013889,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226015",
+      "photo_urls": []
+    },
+    {
+      "id": "226019",
+      "title": "Edificio Neoclásico",
+      "latitude": 18.0193474,
+      "longitude": -66.79171441,
+      "directions": "On Calle Luis Muñoz Rivera (State Route 127) , Guayanilla, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226019",
+      "photo_urls": []
+    },
+    {
+      "id": "226020",
+      "title": "Carlos Manuel \"Charlie\" Rodríguez Santiago",
+      "latitude": 18.23451667,
+      "longitude": -66.03482778,
+      "directions": "On Calle Betances, Caguas, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226020",
+      "photo_urls": []
+    },
+    {
+      "id": "226021",
+      "title": "Don Luis Muñoz Rivera",
+      "latitude": 18.23508046,
+      "longitude": -66.03573372,
+      "directions": "On Calle Luis Muñoz Rivera (Route 1) , Caguas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226021",
+      "photo_urls": []
+    },
+    {
+      "id": "226030",
+      "title": "Casa Alcaldia",
+      "latitude": 18.23476499,
+      "longitude": -66.03583732,
+      "directions": "On Calle Muñoz Rivera (State Route 1) , Caguas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226030",
+      "photo_urls": []
+    },
+    {
+      "id": "226031",
+      "title": "Edificio Rafaela Conde viuda de Mirabal",
+      "latitude": 18.23441468,
+      "longitude": -66.03655332,
+      "directions": "On Calle Betances, Caguas, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226031",
+      "photo_urls": []
+    },
+    {
+      "id": "226036",
+      "title": "Segunda línea de defensa",
+      "latitude": 18.46592778,
+      "longitude": -66.09484167,
+      "directions": "On Avenida Luis Muñoz Rivera, San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226036",
+      "photo_urls": []
+    },
+    {
+      "id": "226040",
+      "title": "Tercera Línea de Defensa: Trincheras",
+      "latitude": 18.46589167,
+      "longitude": -66.09494722,
+      "directions": "On Avenida Luis Muñoz Rivera (State Route 25R) , San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226040",
+      "photo_urls": []
+    },
+    {
+      "id": "226042",
+      "title": "Emajagüilla",
+      "latitude": 18.46580024,
+      "longitude": -66.09777912,
+      "directions": "On Avenue Muñoz Rivera (State Route 25R) , San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226042",
+      "photo_urls": []
+    },
+    {
+      "id": "226046",
+      "title": "La Perla",
+      "latitude": 18.46821247,
+      "longitude": -66.11430594,
+      "directions": "On Calle Norzagaray, San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226046",
+      "photo_urls": []
+    },
+    {
+      "id": "226048",
+      "title": "Unforeseen Stresses / Presiones Imprevistas",
+      "latitude": 18.46842982,
+      "longitude": -66.11547929,
+      "directions": "On Calle Bajada Matadero, San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226048",
+      "photo_urls": []
+    },
+    {
+      "id": "226055",
+      "title": "Juan Ponce de Leon",
+      "latitude": 18.46733707,
+      "longitude": -66.11826242,
+      "directions": "On Calle de San Sebastián, San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226055",
+      "photo_urls": []
+    },
+    {
+      "id": "226073",
+      "title": "Casino de Puerto Rico",
+      "latitude": 18.46604466,
+      "longitude": -66.11173707,
+      "directions": "On Avenida de la Constitución (State Route 225) , San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226073",
+      "photo_urls": []
+    },
+    {
+      "id": "226074",
+      "title": "Plaza de Colón",
+      "latitude": 18.46625,
+      "longitude": -66.11231944,
+      "directions": "On Calle de O&#39;Donnell, San Juan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226074",
+      "photo_urls": []
+    },
+    {
+      "id": "226085",
+      "title": "Teatro Tapia",
+      "latitude": 18.46575298,
+      "longitude": -66.11184109,
+      "directions": "On Calle de la Fortaleza, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226085",
+      "photo_urls": []
+    },
+    {
+      "id": "226099",
+      "title": "Masacre de Lod / Lod Massacre",
+      "latitude": 18.46610556,
+      "longitude": -66.10628611,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226099",
+      "photo_urls": []
+    },
+    {
+      "id": "226104",
+      "title": "Ascenso del Partido Nazi / Rise of the Nazi Party",
+      "latitude": 18.46601389,
+      "longitude": -66.10635278,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226104",
+      "photo_urls": []
+    },
+    {
+      "id": "226105",
+      "title": "<i>Kristallnacht</i>",
+      "latitude": 18.46601111,
+      "longitude": -66.10635278,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226105",
+      "photo_urls": []
+    },
+    {
+      "id": "226173",
+      "title": "La Solución Final / The Final Solution",
+      "latitude": 18.46598056,
+      "longitude": -66.10636111,
+      "directions": "On Avenida de la Constitución (Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226173",
+      "photo_urls": []
+    },
+    {
+      "id": "226174",
+      "title": "Deportación / Deportation",
+      "latitude": 18.46596389,
+      "longitude": -66.10637778,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226174",
+      "photo_urls": []
+    },
+    {
+      "id": "226175",
+      "title": "Campos de Concentración y Trabajo / Concentration and Labor Camps",
+      "latitude": 18.46595833,
+      "longitude": -66.10636944,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226175",
+      "photo_urls": []
+    },
+    {
+      "id": "226176",
+      "title": "Campos de Exterminio / Death Camps",
+      "latitude": 18.46595833,
+      "longitude": -66.10641389,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226176",
+      "photo_urls": []
+    },
+    {
+      "id": "226177",
+      "title": "La Resistencia / The Resistance",
+      "latitude": 18.46595833,
+      "longitude": -66.10641389,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226177",
+      "photo_urls": []
+    },
+    {
+      "id": "226178",
+      "title": "Liberación / Liberation",
+      "latitude": 18.46595556,
+      "longitude": -66.10643056,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226178",
+      "photo_urls": []
+    },
+    {
+      "id": "226185",
+      "title": "Nunca Olvidaré / Never Shall I Forget",
+      "latitude": 18.46597778,
+      "longitude": -66.10646944,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226185",
+      "photo_urls": []
+    },
+    {
+      "id": "226191",
+      "title": "George Dilsizian",
+      "latitude": 18.46606944,
+      "longitude": -66.10652222,
+      "directions": "On Avenida de la Constitución, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226191",
+      "photo_urls": []
+    },
+    {
+      "id": "226192",
+      "title": "Miep Gies",
+      "latitude": 18.46606389,
+      "longitude": -66.10654444,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226192",
+      "photo_urls": []
+    },
+    {
+      "id": "226193",
+      "title": "The Kolkowska Family",
+      "latitude": 18.46605556,
+      "longitude": -66.106575,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226193",
+      "photo_urls": []
+    },
+    {
+      "id": "226194",
+      "title": "Helena Blaszczyk",
+      "latitude": 18.46605278,
+      "longitude": -66.10658889,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226194",
+      "photo_urls": []
+    },
+    {
+      "id": "226195",
+      "title": "Oskar Schindler",
+      "latitude": 18.46605,
+      "longitude": -66.10656111,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226195",
+      "photo_urls": []
+    },
+    {
+      "id": "226197",
+      "title": "Irena Sendler",
+      "latitude": 18.46603889,
+      "longitude": -66.10653056,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226197",
+      "photo_urls": []
+    },
+    {
+      "id": "226198",
+      "title": "Frieda Adam",
+      "latitude": 18.46601389,
+      "longitude": -66.10655278,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226198",
+      "photo_urls": []
+    },
+    {
+      "id": "226199",
+      "title": "Kira Belkova",
+      "latitude": 18.46600556,
+      "longitude": -66.10660556,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226199",
+      "photo_urls": []
+    },
+    {
+      "id": "226200",
+      "title": "Marie-Therese Leloup",
+      "latitude": 18.46596389,
+      "longitude": -66.106575,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226200",
+      "photo_urls": []
+    },
+    {
+      "id": "226202",
+      "title": "Henry Christian Thomsen",
+      "latitude": 18.46593709,
+      "longitude": -66.10650958,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226202",
+      "photo_urls": []
+    },
+    {
+      "id": "226204",
+      "title": "Desarrollo de la Educación en Puerto Rico",
+      "latitude": 18.46610278,
+      "longitude": -66.10659722,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226204",
+      "photo_urls": []
+    },
+    {
+      "id": "226206",
+      "title": "Rafael Cordero y Molina / Eugenio María de Hostos / Ana Roque de Duprey / Juan B. Huyke",
+      "latitude": 18.46609886,
+      "longitude": -66.10674029,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226206",
+      "photo_urls": []
+    },
+    {
+      "id": "226207",
+      "title": "Lolita Tizol Laguardia / Concha Meléndez / Pilar Barbosa de Rosario / Margot Arce de Vázquez",
+      "latitude": 18.46608476,
+      "longitude": -66.10689234,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226207",
+      "photo_urls": []
+    },
+    {
+      "id": "226208",
+      "title": "Velda González de Modestti",
+      "latitude": 18.46598889,
+      "longitude": -66.10755833,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226208",
+      "photo_urls": []
+    },
+    {
+      "id": "226217",
+      "title": "Lola Rodríguez de Tió",
+      "latitude": 18.46600278,
+      "longitude": -66.10755833,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226217",
+      "photo_urls": []
+    },
+    {
+      "id": "226218",
+      "title": "Miriam Naveira Merly",
+      "latitude": 18.46600833,
+      "longitude": -66.10755833,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226218",
+      "photo_urls": []
+    },
+    {
+      "id": "226219",
+      "title": "Luisa Capetillo",
+      "latitude": 18.46600556,
+      "longitude": -66.10756667,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226219",
+      "photo_urls": []
+    },
+    {
+      "id": "226220",
+      "title": "Celeste Benítez Rivera",
+      "latitude": 18.466,
+      "longitude": -66.10756667,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226220",
+      "photo_urls": []
+    },
+    {
+      "id": "226221",
+      "title": "María Martínez Acosta de Pérez Almiroty",
+      "latitude": 18.466,
+      "longitude": -66.10758333,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226221",
+      "photo_urls": []
+    },
+    {
+      "id": "226222",
+      "title": "Rosario Ferré Ramírez de Arellano",
+      "latitude": 18.46599722,
+      "longitude": -66.10758889,
+      "directions": "On Avenida de la Constitución, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226222",
+      "photo_urls": []
+    },
+    {
+      "id": "226223",
+      "title": "María Luisa Arcelay de la Rosa",
+      "latitude": 18.46599444,
+      "longitude": -66.10759722,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226223",
+      "photo_urls": []
+    },
+    {
+      "id": "226224",
+      "title": "Ileana Colón Carlo",
+      "latitude": 18.46598611,
+      "longitude": -66.10760556,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226224",
+      "photo_urls": []
+    },
+    {
+      "id": "226227",
+      "title": "Felisa Rincón de Gautier",
+      "latitude": 18.46598333,
+      "longitude": -66.10760556,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226227",
+      "photo_urls": []
+    },
+    {
+      "id": "226228",
+      "title": "María Libertad Gómez Garriga",
+      "latitude": 18.46598333,
+      "longitude": -66.10762778,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226228",
+      "photo_urls": []
+    },
+    {
+      "id": "226230",
+      "title": "Josefina Barceló Bird de Romero",
+      "latitude": 18.46597222,
+      "longitude": -66.10765,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226230",
+      "photo_urls": []
+    },
+    {
+      "id": "226235",
+      "title": "Julia de Burgos",
+      "latitude": 18.46597222,
+      "longitude": -66.10766667,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226235",
+      "photo_urls": []
+    },
+    {
+      "id": "226236",
+      "title": "Sor Isolina Ferré Aguayo",
+      "latitude": 18.46597222,
+      "longitude": -66.10768056,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226236",
+      "photo_urls": []
+    },
+    {
+      "id": "226237",
+      "title": "Rebekah Colberg",
+      "latitude": 18.46596389,
+      "longitude": -66.10769722,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226237",
+      "photo_urls": []
+    },
+    {
+      "id": "226238",
+      "title": "Sylvia Rexach",
+      "latitude": 18.46594167,
+      "longitude": -66.10785556,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226238",
+      "photo_urls": []
+    },
+    {
+      "id": "226240",
+      "title": "Capitolio de Puerto Rico",
+      "latitude": 18.4662769,
+      "longitude": -66.10661619,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226240",
+      "photo_urls": []
+    },
+    {
+      "id": "226242",
+      "title": "Yo &#9829; Capitolio / I &#9829; [the] Capitol",
+      "latitude": 18.46633611,
+      "longitude": -66.10641389,
+      "directions": "On Avenida de la Constitución (State Route 25) , San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226242",
+      "photo_urls": []
+    },
+    {
+      "id": "226245",
+      "title": "Fernando III, Rey de Castilla y Leon",
+      "latitude": 18.38104722,
+      "longitude": -65.95720556,
+      "directions": "On Calle Ignacio Arzuaga, Carolina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226245",
+      "photo_urls": []
+    },
+    {
+      "id": "226248",
+      "title": "Luis Muños Marin",
+      "latitude": 18.38113333,
+      "longitude": -65.95593333,
+      "directions": "On State Route 874, Carolina, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226248",
+      "photo_urls": []
+    },
+    {
+      "id": "226262",
+      "title": "Canovanax",
+      "latitude": 18.37912778,
+      "longitude": -65.901,
+      "directions": "On Calle Luis Hernáiz Veronne, Canóvanas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226262",
+      "photo_urls": []
+    },
+    {
+      "id": "226263",
+      "title": "Puerto Rico Quincentenary Memorial",
+      "latitude": 18.37902778,
+      "longitude": -65.900725,
+      "directions": "On Calle Luis Hernáiz Veronne, Canóvanas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226263",
+      "photo_urls": []
+    },
+    {
+      "id": "226265",
+      "title": "A Don Luis Hernaiz Veronne",
+      "latitude": 18.37885722,
+      "longitude": -65.90063566,
+      "directions": "On Calle Luis Hernáiz Veronne, Canóvanas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226265",
+      "photo_urls": []
+    },
+    {
+      "id": "226266",
+      "title": "Monumento al Soldado Riograndeño",
+      "latitude": 18.3783338,
+      "longitude": -65.82885144,
+      "directions": "On Calle Gonzalo Alejandro, Río Grande, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226266",
+      "photo_urls": []
+    },
+    {
+      "id": "226267",
+      "title": "Puerto Rico Quincentenary Memorial",
+      "latitude": 18.01244175,
+      "longitude": -66.61421882,
+      "directions": "On Calle Reina Isabel, Ponce, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226267",
+      "photo_urls": []
+    },
+    {
+      "id": "226268",
+      "title": "Puerto Rico Quincentenary Memorial",
+      "latitude": 18.01242905,
+      "longitude": -66.61417868,
+      "directions": "On Calle Reina Isabel, Ponce, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226268",
+      "photo_urls": []
+    },
+    {
+      "id": "253009",
+      "title": "Villa de Santa María de Guadianilla",
+      "latitude": 18.01761944,
+      "longitude": -66.789825,
+      "directions": "On Calle Luis Munoz Rivera (State Route 127) , Guayanilla, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253009",
+      "photo_urls": []
+    },
+    {
+      "id": "294780",
+      "title": "Antigua Casa Alcaldia",
+      "latitude": 18.38127887,
+      "longitude": -65.95738918,
+      "directions": "On Calle Ignacio Arzuaga, Carolina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294780",
+      "photo_urls": []
+    },
+    {
+      "id": "296003",
+      "title": "Fernandez Residence",
+      "latitude": 18.4645074,
+      "longitude": -66.1148398,
+      "directions": "On Calle Tetuan, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296003",
+      "photo_urls": []
+    },
+    {
+      "id": "296004",
+      "title": "Luis Muñoz Marin",
+      "latitude": 18.46469557,
+      "longitude": -66.11670321,
+      "directions": "On Calle de la Fortaleza, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296004",
+      "photo_urls": []
+    },
+    {
+      "id": "296006",
+      "title": "Luis Llorens Torres",
+      "latitude": 18.4646887,
+      "longitude": -66.1170298,
+      "directions": "On Calle de la Fortaleza, San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296006",
+      "photo_urls": []
+    },
+    {
+      "id": "296051",
+      "title": "The Center for Provision Retailers Building",
+      "latitude": 18.46456614,
+      "longitude": -66.11779541,
+      "directions": "On Calle del Cristo, San Juan, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296051",
+      "photo_urls": []
+    },
+    {
+      "id": "296053",
+      "title": "Dr. Jose Celso Barbosa / Dr. Pilar Barbosa de Rosario",
+      "latitude": 18.4652693,
+      "longitude": -66.11803557,
+      "directions": "On Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296053",
+      "photo_urls": []
+    },
+    {
+      "id": "296059",
+      "title": "Cabildo House",
+      "latitude": 18.46555357,
+      "longitude": -66.11808415,
+      "directions": "On Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296059",
+      "photo_urls": []
+    },
+    {
+      "id": "296083",
+      "title": "Kites",
+      "latitude": 18.46851757,
+      "longitude": -66.12146444,
+      "directions": "On Calle del Morro, San Juan, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296083",
+      "photo_urls": []
+    },
+    {
+      "id": "296084",
+      "title": "The Dutch Attack of 1625",
+      "latitude": 18.4691743,
+      "longitude": -66.1222487,
+      "directions": "On Calle del Morro, San Juan, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296084",
+      "photo_urls": []
+    },
+    {
+      "id": "296085",
+      "title": "La Rogativa",
+      "latitude": 18.4656218,
+      "longitude": -66.1196574,
+      "directions": "On Caleta de las Monjas, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296085",
+      "photo_urls": []
+    },
+    {
+      "id": "296097",
+      "title": "Anna de Lanzos de Villate",
+      "latitude": 18.46582768,
+      "longitude": -66.11817404,
+      "directions": "On Caleta de las Monjas, San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296097",
+      "photo_urls": []
+    },
+    {
+      "id": "296184",
+      "title": "Felisa Rincon de Gautier",
+      "latitude": 18.4656927,
+      "longitude": -66.1182705,
+      "directions": "On Caleta de San Juan, San Juan, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296184",
+      "photo_urls": []
+    },
+    {
+      "id": "296191",
+      "title": "Doña Felisa Rincón de Gautier",
+      "latitude": 18.4639619,
+      "longitude": -66.1183513,
+      "directions": "Near Calle de la Fortaleza, San Juan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296191",
+      "photo_urls": []
+    },
+    {
+      "id": "296201",
+      "title": "El Recreo / Recess",
+      "latitude": 18.4639427,
+      "longitude": -66.1179278,
+      "directions": "Near Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296201",
+      "photo_urls": []
+    },
+    {
+      "id": "296206",
+      "title": "Bienvenidos Parque de las Palomas / Welcome Parque de las Palomas",
+      "latitude": 18.46413816,
+      "longitude": -66.11778511,
+      "directions": "On Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296206",
+      "photo_urls": []
+    },
+    {
+      "id": "296212",
+      "title": "Doña Felisa Rincón De Gautier",
+      "latitude": 18.4640124,
+      "longitude": -66.1177751,
+      "directions": "Near Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296212",
+      "photo_urls": []
+    },
+    {
+      "id": "296229",
+      "title": "Parque de las Palomas",
+      "latitude": 18.4640202,
+      "longitude": -66.1177812,
+      "directions": "Near Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296229",
+      "photo_urls": []
+    },
+    {
+      "id": "296264",
+      "title": "Capilla del Santo Cristo de la Salud / Chapel of Christ the Savior",
+      "latitude": 18.4639457,
+      "longitude": -66.1177022,
+      "directions": "On Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296264",
+      "photo_urls": []
+    },
+    {
+      "id": "296266",
+      "title": "Parque de las Palomas",
+      "latitude": 18.4639614,
+      "longitude": -66.1178135,
+      "directions": "Near Calle del Cristo, San Juan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296266",
+      "photo_urls": []
+    },
+    {
+      "id": "296425",
+      "title": "Bastión de las Palmas",
+      "latitude": 18.46382996,
+      "longitude": -66.11694212,
+      "directions": "On Calle Tetuan, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296425",
+      "photo_urls": []
+    },
+    {
+      "id": "296431",
+      "title": "The Rotary Club of San Juan",
+      "latitude": 18.46427082,
+      "longitude": -66.11612204,
+      "directions": "On Calle Tetuan, San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296431",
+      "photo_urls": []
+    },
+    {
+      "id": "296442",
+      "title": "Bastion de la Derecha de San Justo y Pastor",
+      "latitude": 18.46383863,
+      "longitude": -66.11562898,
+      "directions": "On Calle del Recinto Sur, San Juan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296442",
+      "photo_urls": []
+    },
+    {
+      "id": "296561",
+      "title": "Bastión de las Palmas de San José",
+      "latitude": 18.46396412,
+      "longitude": -66.11687345,
+      "directions": "On Calle Tetuan, San Juan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296561",
+      "photo_urls": []
+    },
+    {
+      "id": "296562",
+      "title": "Al Inmigrante",
+      "latitude": 18.46348629,
+      "longitude": -66.11527611,
+      "directions": "On Plaza del Inmigrante, San Juan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296562",
+      "photo_urls": []
+    },
+    {
+      "id": "297179",
+      "title": "Plaza Del Cuartel",
+      "latitude": 18.46800167,
+      "longitude": -66.12031375,
+      "directions": "On Calle Norzagaray, San Juan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297179",
+      "photo_urls": []
+    },
+    {
+      "id": "298161",
+      "title": "Middle Passage Site of Memory",
+      "latitude": 18.01108056,
+      "longitude": -66.61406111,
+      "directions": "On Calle Plaza Degetau (State Route 123) , Ponce, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298161",
+      "photo_urls": []
+    },
+    {
+      "id": "59975",
+      "title": "Defending San Juan / Defensa de San Juan",
+      "latitude": 18.4664,
+      "longitude": -66.1364,
+      "directions": "On State Route 870, Toa Baja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=59975",
+      "photo_urls": []
+    },
+    {
+      "id": "60029",
+      "title": "A Never-Ending Challenge / Un Trabajo Que Nunca Se Acaba",
+      "latitude": 18.4662,
+      "longitude": -66.1364,
+      "directions": "On State Route 870, Toa Baja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60029",
+      "photo_urls": []
+    },
+    {
+      "id": "60031",
+      "title": "Imagine Life Here / Imagine Vivir Aquí",
+      "latitude": 18.46662333,
+      "longitude": -66.13637167,
+      "directions": "On State Route 870, Toa Baja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60031",
+      "photo_urls": []
+    },
+    {
+      "id": "60032",
+      "title": "Crossfire / Fuego cruzado",
+      "latitude": 18.4664,
+      "longitude": -66.1366,
+      "directions": "On State Route 870, Toa Baja, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60032",
+      "photo_urls": []
+    },
+    {
+      "id": "60046",
+      "title": "In Defense of San Juan / En defenso de San Juan",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "Near Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60046",
+      "photo_urls": []
+    },
+    {
+      "id": "60047",
+      "title": "What About Water? / ¿De Dónde Viene el Agua?",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "On Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60047",
+      "photo_urls": []
+    },
+    {
+      "id": "60048",
+      "title": "Firepower",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "On Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60048",
+      "photo_urls": []
+    },
+    {
+      "id": "60050",
+      "title": "Three Flags / Tres Banderas",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "On Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60050",
+      "photo_urls": []
+    },
+    {
+      "id": "60051",
+      "title": "The Heart of San Cristobal",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "On Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60051",
+      "photo_urls": []
+    },
+    {
+      "id": "60060",
+      "title": "Defending San Juan / Defensa de San Juan",
+      "latitude": 18.4682,
+      "longitude": -66.1211,
+      "directions": "On Calle Del Morro, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60060",
+      "photo_urls": []
+    },
+    {
+      "id": "60062",
+      "title": "A Defense of the 1st Order",
+      "latitude": 18.4704,
+      "longitude": -66.1236,
+      "directions": "On Calle del Morro, San Juan, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60062",
+      "photo_urls": []
+    },
+    {
+      "id": "60063",
+      "title": "The Main Plaza / Plaza principal",
+      "latitude": 18.47099,
+      "longitude": -66.12407167,
+      "directions": "On Cll Del Morro, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60063",
+      "photo_urls": []
+    },
+    {
+      "id": "60187",
+      "title": "National Historic Site",
+      "latitude": 18.4674,
+      "longitude": -66.1112,
+      "directions": "On Bulevar del Valle, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60187",
+      "photo_urls": []
+    },
+    {
+      "id": "74223",
+      "title": "Francisco de Miranda",
+      "latitude": 18.46380556,
+      "longitude": -66.11685944,
+      "directions": "On Calle Tetuan, San Juan, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74223",
+      "photo_urls": []
+    },
+    {
+      "id": "74327",
+      "title": "Noel Estrada",
+      "latitude": 18.46594444,
+      "longitude": -66.11455556,
+      "directions": "On Calle San Francisco, San Juan, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74327",
+      "photo_urls": []
+    },
+    {
+      "id": "74329",
+      "title": "Casa Natal de Don Ramón Power y Giralt",
+      "latitude": 18.46411111,
+      "longitude": -66.11652778,
+      "directions": "On Calle Tetuan, San Juan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=74329",
+      "photo_urls": []
+    }
+  ]
+}
