@@ -1,0 +1,380 @@
+{
+  "region_id": "us-vi",
+  "region_name": "U.S. Virgin Islands",
+  "region_type": "territory",
+  "country": "United States",
+  "generated": "2026-05-06T06:04:47.495Z",
+  "source_timestamp": "2026-05-06T06:04:47.495Z",
+  "marker_count": 41,
+  "markers": [
+    {
+      "id": "193617",
+      "title": "Landing of Virginia Settlers",
+      "latitude": 18.34117264,
+      "longitude": -64.93052577,
+      "directions": "Near Tolbod Gade, Charlotte Amalie, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193617",
+      "photo_urls": []
+    },
+    {
+      "id": "193618",
+      "title": "The Jacob H. S. Lind House",
+      "latitude": 18.34173779,
+      "longitude": -64.93000538,
+      "directions": "On Norre Gade, Charlotte Amalie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193618",
+      "photo_urls": []
+    },
+    {
+      "id": "193619",
+      "title": "St. Thomas Reformed Church",
+      "latitude": 18.34258889,
+      "longitude": -64.93190833,
+      "directions": "On Nye Gade, Charlotte Amalie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193619",
+      "photo_urls": []
+    },
+    {
+      "id": "193621",
+      "title": "Capitol Building",
+      "latitude": 18.33998611,
+      "longitude": -64.92962778,
+      "directions": "Near Veterans Drive, Charlotte Amalie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193621",
+      "photo_urls": []
+    },
+    {
+      "id": "193622",
+      "title": "Pirate Treasure",
+      "latitude": 18.34116667,
+      "longitude": -64.93277778,
+      "directions": "Near Veterans Drive, Charlotte Amalie, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=193622",
+      "photo_urls": []
+    },
+    {
+      "id": "229190",
+      "title": "Frederick Lutheran Church Parsonage",
+      "latitude": 18.34241924,
+      "longitude": -64.92943827,
+      "directions": "On Kongens Gade, Charlotte Amalie, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229190",
+      "photo_urls": []
+    },
+    {
+      "id": "267610",
+      "title": "13 Wimmelskafts Gade",
+      "latitude": 18.34198,
+      "longitude": -64.93386,
+      "directions": "On Wimmelskafts Gade aka Back Street, Charlotte Amalie, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267610",
+      "photo_urls": []
+    },
+    {
+      "id": "291778",
+      "title": "Life After Emancipation",
+      "latitude": 18.36291398,
+      "longitude": -64.72973614,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291778",
+      "photo_urls": []
+    },
+    {
+      "id": "291780",
+      "title": "Bake Oven",
+      "latitude": 18.36288687,
+      "longitude": -64.72959705,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291780",
+      "photo_urls": []
+    },
+    {
+      "id": "291781",
+      "title": "History of Annaberg",
+      "latitude": 18.36305556,
+      "longitude": -64.72967348,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291781",
+      "photo_urls": []
+    },
+    {
+      "id": "291782",
+      "title": "Crushing Cane with Wind",
+      "latitude": 18.36297432,
+      "longitude": -64.72954361,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291782",
+      "photo_urls": []
+    },
+    {
+      "id": "291784",
+      "title": "The Sugar Factory",
+      "latitude": 18.36283003,
+      "longitude": -64.72969118,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291784",
+      "photo_urls": []
+    },
+    {
+      "id": "291786",
+      "title": "Producing Sugar",
+      "latitude": 18.36287149,
+      "longitude": -64.72967698,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291786",
+      "photo_urls": []
+    },
+    {
+      "id": "291789",
+      "title": "Freedom Across the Narrows",
+      "latitude": 18.36312725,
+      "longitude": -64.72947474,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291789",
+      "photo_urls": []
+    },
+    {
+      "id": "291804",
+      "title": "Confronting a Turbulent Past",
+      "latitude": 18.36286983,
+      "longitude": -64.73006539,
+      "directions": "Near Leinster Bay Trail, near Leinster Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291804",
+      "photo_urls": []
+    },
+    {
+      "id": "291806",
+      "title": "Veterans Memorial",
+      "latitude": 18.34162962,
+      "longitude": -64.92819897,
+      "directions": "On Norre Gade, Charlotte Amalie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291806",
+      "photo_urls": []
+    },
+    {
+      "id": "40333",
+      "title": "Fort Christian",
+      "latitude": 18.340928,
+      "longitude": -64.929795,
+      "directions": "On Tolbod Pldn, Charlotte Amalie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40333",
+      "photo_urls": []
+    },
+    {
+      "id": "40456",
+      "title": "St. Thomas' Liberty Bell Reproduction",
+      "latitude": 18.341132,
+      "longitude": -64.930618,
+      "directions": "On Fort Pladsen, Charlotte Amalie, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40456",
+      "photo_urls": []
+    },
+    {
+      "id": "40457",
+      "title": "St. Thomas Community Bandmaster",
+      "latitude": 18.341124,
+      "longitude": -64.930229,
+      "directions": "On Fort Strade, Charlotte Amalie, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40457",
+      "photo_urls": []
+    },
+    {
+      "id": "40458",
+      "title": "America's First Lady Addressed the People of St. Thomas",
+      "latitude": 18.341124,
+      "longitude": -64.930231,
+      "directions": "On Fort Strade, Charlotte Amalie, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40458",
+      "photo_urls": []
+    },
+    {
+      "id": "40461",
+      "title": "Arthur S. Fairchild",
+      "latitude": 18.364128,
+      "longitude": -64.922209,
+      "directions": "On Magens Bay Road (Local Route 35) , Enighed, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40461",
+      "photo_urls": []
+    },
+    {
+      "id": "40615",
+      "title": "Frederick Lutheran Church",
+      "latitude": 18.341689,
+      "longitude": -64.929827,
+      "directions": "On Norre Gade, Charlotte Amalie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=40615",
+      "photo_urls": []
+    },
+    {
+      "id": "60707",
+      "title": "Fort Christiansvaern",
+      "latitude": 17.7469,
+      "longitude": -64.7022,
+      "directions": "On Hospital Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60707",
+      "photo_urls": []
+    },
+    {
+      "id": "60709",
+      "title": "Danish Customs House",
+      "latitude": 17.7467,
+      "longitude": -64.7025,
+      "directions": "On Hospital Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60709",
+      "photo_urls": []
+    },
+    {
+      "id": "60711",
+      "title": "Steeple Building",
+      "latitude": 17.7465,
+      "longitude": -64.7024,
+      "directions": "On King Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60711",
+      "photo_urls": []
+    },
+    {
+      "id": "60712",
+      "title": "Establishment of Virgin Islands National Park",
+      "latitude": 18.3331,
+      "longitude": -64.7931,
+      "directions": "On North Shore Road, Cruz Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60712",
+      "photo_urls": []
+    },
+    {
+      "id": "60713",
+      "title": "Laurance Rockefeller",
+      "latitude": 18.3331,
+      "longitude": -64.7931,
+      "directions": "On North Shore Road, Cruz Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60713",
+      "photo_urls": []
+    },
+    {
+      "id": "60716",
+      "title": "Philanthropy in the National Park Service",
+      "latitude": 18.3331,
+      "longitude": -64.7931,
+      "directions": "On North Shore Road, Cruz Bay, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60716",
+      "photo_urls": []
+    },
+    {
+      "id": "60776",
+      "title": "Annaberg Historic Trail",
+      "latitude": 18.36293,
+      "longitude": -64.73022,
+      "directions": "On State Route 20, St. John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60776",
+      "photo_urls": []
+    },
+    {
+      "id": "60777",
+      "title": "Slave Quarters",
+      "latitude": 18.3631,
+      "longitude": -64.7302,
+      "directions": "On State Route 20, St. John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60777",
+      "photo_urls": []
+    },
+    {
+      "id": "60779",
+      "title": "Windmill",
+      "latitude": 18.363,
+      "longitude": -64.7295,
+      "directions": "On State Route 20, St. John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60779",
+      "photo_urls": []
+    },
+    {
+      "id": "60780",
+      "title": "Horse Mill",
+      "latitude": 18.36293333,
+      "longitude": -64.73041,
+      "directions": "On State Route 20, St. John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60780",
+      "photo_urls": []
+    },
+    {
+      "id": "60781",
+      "title": "Boiling Room",
+      "latitude": 18.3638,
+      "longitude": -64.7297,
+      "directions": "On State Route 20, St. John, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60781",
+      "photo_urls": []
+    },
+    {
+      "id": "60782",
+      "title": "Native American Village and Ceremonial Site",
+      "latitude": 17.7788,
+      "longitude": -64.7589,
+      "directions": "On State Route 80, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60782",
+      "photo_urls": []
+    },
+    {
+      "id": "60815",
+      "title": "Christiansted Wharf",
+      "latitude": 17.7474,
+      "longitude": -64.7035,
+      "directions": "On King Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60815",
+      "photo_urls": []
+    },
+    {
+      "id": "60816",
+      "title": "The Jacob Lindberg House",
+      "latitude": 17.7428,
+      "longitude": -64.7079,
+      "directions": "On King Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60816",
+      "photo_urls": []
+    },
+    {
+      "id": "60817",
+      "title": "12 King Street",
+      "latitude": 17.7448,
+      "longitude": -64.7052,
+      "directions": "On King Street, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60817",
+      "photo_urls": []
+    },
+    {
+      "id": "60837",
+      "title": "Millennium Monument",
+      "latitude": 17.7559,
+      "longitude": -64.5672,
+      "directions": "On State Route 82, Christiansted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60837",
+      "photo_urls": []
+    },
+    {
+      "id": "60871",
+      "title": "Fort Frederik",
+      "latitude": 17.7152,
+      "longitude": -64.8835,
+      "directions": "On King Street, Frederiksted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60871",
+      "photo_urls": []
+    },
+    {
+      "id": "60873",
+      "title": "Oscar E. Henry Customs House",
+      "latitude": 17.7145,
+      "longitude": -64.8835,
+      "directions": "On Customs House Street, Frederiksted, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=60873",
+      "photo_urls": []
+    },
+    {
+      "id": "97620",
+      "title": "Skytsborg",
+      "latitude": 18.343737,
+      "longitude": -64.9296,
+      "directions": "Near Blackbeard&#39;s Hill, Charlotte Amalie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97620",
+      "photo_urls": []
+    }
+  ]
+}
