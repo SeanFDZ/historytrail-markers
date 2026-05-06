@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-06T06:04:51.014Z",
+  "generated": "2026-05-06T06:04:56.024Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 71842,
-  "total_regions": 36,
+  "total_markers": 72161,
+  "total_regions": 37,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -564,6 +564,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 2040,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "us-pr",
+      "name": "Puerto Rico",
+      "type": "territory",
+      "country": "United States",
+      "file": "regions/us-pr.json",
+      "markers": 319,
+      "size_bytes": 103380,
+      "updated": "2026-05-06",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 330,
         "removed": 0,
         "modified": 0
       }
