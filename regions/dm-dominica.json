@@ -1,0 +1,308 @@
+{
+  "region_id": "dm-dominica",
+  "region_name": "Dominica",
+  "region_type": "country",
+  "country": "Dominica",
+  "generated": "2026-05-07T06:13:34.611Z",
+  "source_timestamp": "2026-05-07T06:13:34.611Z",
+  "marker_count": 33,
+  "markers": [
+    {
+      "id": "117231",
+      "title": "The Salisbury Declaration",
+      "latitude": 15.44215579,
+      "longitude": -61.43572714,
+      "directions": "On an unnamed street, Salisbury, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117231",
+      "photo_urls": []
+    },
+    {
+      "id": "117234",
+      "title": "Simon Bolivar",
+      "latitude": 15.30570129,
+      "longitude": -61.38794337,
+      "directions": "On Princess Lane, Roseau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=117234",
+      "photo_urls": []
+    },
+    {
+      "id": "135259",
+      "title": "Woodbridge Bay",
+      "latitude": 15.31012799,
+      "longitude": -61.38891124,
+      "directions": "On Edward Oliver Leblanc Highway, Roseau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135259",
+      "photo_urls": []
+    },
+    {
+      "id": "135260",
+      "title": "Carib History",
+      "latitude": 15.47507641,
+      "longitude": -61.2506557,
+      "directions": "On Windward Coastal Highway, near Sineku, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135260",
+      "photo_urls": []
+    },
+    {
+      "id": "135265",
+      "title": "Death of Sadwill Bruney",
+      "latitude": 15.49590965,
+      "longitude": -61.25894822,
+      "directions": "On Windward Coastal Highway, near Salybia, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135265",
+      "photo_urls": []
+    },
+    {
+      "id": "135309",
+      "title": "Roseau Bayfront",
+      "latitude": 15.29637107,
+      "longitude": -61.38769983,
+      "directions": "On Dame Mary Eugenia Charles Boulevard, Roseau, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135309",
+      "photo_urls": []
+    },
+    {
+      "id": "135310",
+      "title": "Anglican Church",
+      "latitude": 15.29609983,
+      "longitude": -61.38616337,
+      "directions": "On Victoria Street, Roseau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135310",
+      "photo_urls": []
+    },
+    {
+      "id": "135311",
+      "title": "Methodist Church",
+      "latitude": 15.29743457,
+      "longitude": -61.38609113,
+      "directions": "On Virgin Lane, Roseau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135311",
+      "photo_urls": []
+    },
+    {
+      "id": "135314",
+      "title": "Roseau Cathedral",
+      "latitude": 15.29771853,
+      "longitude": -61.38581277,
+      "directions": "On Virgin Lane, Roseau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135314",
+      "photo_urls": []
+    },
+    {
+      "id": "135316",
+      "title": "Pottersville",
+      "latitude": 15.30047044,
+      "longitude": -61.39024649,
+      "directions": "On Elliot Avenue, Roseau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135316",
+      "photo_urls": []
+    },
+    {
+      "id": "135318",
+      "title": "David the Goliath",
+      "latitude": 15.29823044,
+      "longitude": -61.38266602,
+      "directions": "On Independence Street, Roseau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135318",
+      "photo_urls": []
+    },
+    {
+      "id": "135342",
+      "title": "Roseau Bayfront",
+      "latitude": 15.29784789,
+      "longitude": -61.38934877,
+      "directions": "On Dame Mary Eugenia Charles Boulevard, Roseau, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135342",
+      "photo_urls": []
+    },
+    {
+      "id": "135343",
+      "title": "Pottersville",
+      "latitude": 15.30481658,
+      "longitude": -61.39011891,
+      "directions": "On Goodwill Road, Pottersville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135343",
+      "photo_urls": []
+    },
+    {
+      "id": "135344",
+      "title": "Morne Bruce Garrison",
+      "latitude": 15.29891237,
+      "longitude": -61.37922437,
+      "directions": "On Morne Bruce Road, Roseau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135344",
+      "photo_urls": []
+    },
+    {
+      "id": "135345",
+      "title": "Morne Bruce Garrison",
+      "latitude": 15.30010633,
+      "longitude": -61.3801055,
+      "directions": "Near Unnamed road, Roseau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=135345",
+      "photo_urls": []
+    },
+    {
+      "id": "294423",
+      "title": "Old Prison",
+      "latitude": 15.29750727,
+      "longitude": -61.38748564,
+      "directions": "On Old Street, Roseau, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294423",
+      "photo_urls": []
+    },
+    {
+      "id": "294714",
+      "title": "Sugar and Canefield Estate",
+      "latitude": 15.33332218,
+      "longitude": -61.38979659,
+      "directions": "On 3rd Street, Canefield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294714",
+      "photo_urls": []
+    },
+    {
+      "id": "297951",
+      "title": "Old Market Square",
+      "latitude": 15.29651304,
+      "longitude": -61.38748151,
+      "directions": "Near Church Street, Roseau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297951",
+      "photo_urls": []
+    },
+    {
+      "id": "93898",
+      "title": "Cecil E. A. Rawle",
+      "latitude": 15.30572778,
+      "longitude": -61.38506389,
+      "directions": "On Federation Drive, Roseau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93898",
+      "photo_urls": []
+    },
+    {
+      "id": "93899",
+      "title": "Glory to the French from Dominica",
+      "latitude": 15.29629167,
+      "longitude": -61.38671389,
+      "directions": "On Dame Mary Eugenia Charles Boulevard, Roseau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93899",
+      "photo_urls": []
+    },
+    {
+      "id": "93900",
+      "title": "World Wars Memorial",
+      "latitude": 15.29626667,
+      "longitude": -61.386575,
+      "directions": "On Dame Mary Eugenia Charles Boulevard, Roseau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93900",
+      "photo_urls": []
+    },
+    {
+      "id": "94220",
+      "title": "Neg Mawon Emancipation Monument",
+      "latitude": 15.29612222,
+      "longitude": -61.38621389,
+      "directions": "On Turkey Lane, Roseau, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94220",
+      "photo_urls": []
+    },
+    {
+      "id": "94387",
+      "title": "Edward Oliver Le Blanc",
+      "latitude": 15.36532778,
+      "longitude": -61.40193056,
+      "directions": "On West Coast Road, Mahuat, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94387",
+      "photo_urls": []
+    },
+    {
+      "id": "94399",
+      "title": "Carnegie Library of Roseau",
+      "latitude": 15.29524,
+      "longitude": -61.38567,
+      "directions": "On Victoria Street, Roseau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94399",
+      "photo_urls": []
+    },
+    {
+      "id": "94440",
+      "title": "Cabrits National Park",
+      "latitude": 15.582825,
+      "longitude": -61.47202,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94440",
+      "photo_urls": []
+    },
+    {
+      "id": "94474",
+      "title": "Prince Rupert's Garrison",
+      "latitude": 15.584097,
+      "longitude": -61.47248,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94474",
+      "photo_urls": []
+    },
+    {
+      "id": "94475",
+      "title": "The Trees Return",
+      "latitude": 15.58385,
+      "longitude": -61.47295278,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94475",
+      "photo_urls": []
+    },
+    {
+      "id": "94476",
+      "title": "Fort Shirley",
+      "latitude": 15.58354722,
+      "longitude": -61.47321944,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94476",
+      "photo_urls": []
+    },
+    {
+      "id": "94478",
+      "title": "Cabrits Calendar of Events",
+      "latitude": 15.58351944,
+      "longitude": -61.4734,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94478",
+      "photo_urls": []
+    },
+    {
+      "id": "94499",
+      "title": "Guard House, Powder Magazine",
+      "latitude": 15.583525,
+      "longitude": -61.47339722,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94499",
+      "photo_urls": []
+    },
+    {
+      "id": "94500",
+      "title": "Officers' Quarters",
+      "latitude": 15.58318,
+      "longitude": -61.47363,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94500",
+      "photo_urls": []
+    },
+    {
+      "id": "94501",
+      "title": "Upper Battery, Signal Station",
+      "latitude": 15.582972,
+      "longitude": -61.47369,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94501",
+      "photo_urls": []
+    },
+    {
+      "id": "94502",
+      "title": "Water Catchment, Troops' Kitchen, Stables",
+      "latitude": 15.583654,
+      "longitude": -61.47363,
+      "directions": "Near Bay Street, Chance, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94502",
+      "photo_urls": []
+    }
+  ]
+}
