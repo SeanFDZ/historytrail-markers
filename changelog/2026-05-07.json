@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-07",
+  "run_id": 128,
+  "cycle_day": 15,
+  "regions_processed": [
+    "ba-toufor"
+  ],
+  "changes": {
+    "ba-toufor": {
+      "added": 21,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 378,
+  "total_removed": 0,
+  "total_modified": 0
+}
