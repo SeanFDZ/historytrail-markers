@@ -1,0 +1,2504 @@
+{
+  "region_id": "no-norway",
+  "region_name": "Norway",
+  "region_type": "country",
+  "country": "Norway",
+  "generated": "2026-05-07T06:13:34.612Z",
+  "source_timestamp": "2026-05-07T06:13:34.612Z",
+  "marker_count": 277,
+  "markers": [
+    {
+      "id": "226461",
+      "title": "Edvard Munch",
+      "latitude": 59.91840144,
+      "longitude": 10.73756148,
+      "directions": "On Pilestredet, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226461",
+      "photo_urls": []
+    },
+    {
+      "id": "226488",
+      "title": "Regine Normann",
+      "latitude": 59.93016835,
+      "longitude": 10.73262973,
+      "directions": "On Stensgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226488",
+      "photo_urls": []
+    },
+    {
+      "id": "226492",
+      "title": "Arvid Storsveen",
+      "latitude": 59.93011493,
+      "longitude": 10.734539,
+      "directions": "On Vidars gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226492",
+      "photo_urls": []
+    },
+    {
+      "id": "226565",
+      "title": "Niels Henrik Abel",
+      "latitude": 59.91378973,
+      "longitude": 10.74110247,
+      "directions": "On Lille Grensen, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226565",
+      "photo_urls": []
+    },
+    {
+      "id": "226755",
+      "title": "Kvinnehuset / The Women’s House",
+      "latitude": 59.90856372,
+      "longitude": 10.74601025,
+      "directions": "On Rådhusgata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=226755",
+      "photo_urls": []
+    },
+    {
+      "id": "227019",
+      "title": "Hotel Du Nord",
+      "latitude": 59.90947115,
+      "longitude": 10.74526642,
+      "directions": "On Dronningens Gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227019",
+      "photo_urls": []
+    },
+    {
+      "id": "227023",
+      "title": "Øvre Slottsgate 29",
+      "latitude": 59.91361476,
+      "longitude": 10.74303534,
+      "directions": "On Øvre Slottsgate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227023",
+      "photo_urls": []
+    },
+    {
+      "id": "227042",
+      "title": "Engebret Cafe",
+      "latitude": 59.90888558,
+      "longitude": 10.74220934,
+      "directions": "On Bankplassen, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227042",
+      "photo_urls": []
+    },
+    {
+      "id": "227046",
+      "title": "Jernrosene / Iron Roses",
+      "latitude": 59.91234889,
+      "longitude": 10.74621677,
+      "directions": "On Kirkegata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227046",
+      "photo_urls": []
+    },
+    {
+      "id": "227071",
+      "title": "Rikard Noordrak",
+      "latitude": 59.91795814,
+      "longitude": 10.73613577,
+      "directions": "On Sankt Olavs Gate, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227071",
+      "photo_urls": []
+    },
+    {
+      "id": "227084",
+      "title": "Katti Anker Møller",
+      "latitude": 59.91296984,
+      "longitude": 10.7420543,
+      "directions": "On Karl Johansgate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227084",
+      "photo_urls": []
+    },
+    {
+      "id": "227096",
+      "title": "Andreas Tofte",
+      "latitude": 59.91132465,
+      "longitude": 10.74342773,
+      "directions": "On Prinsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227096",
+      "photo_urls": []
+    },
+    {
+      "id": "227243",
+      "title": "Det Norske Forbundet av 1948 / The Norwegian Association of 1948",
+      "latitude": 59.9230346,
+      "longitude": 10.73217365,
+      "directions": "On Dalsbergstien, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227243",
+      "photo_urls": []
+    },
+    {
+      "id": "227262",
+      "title": "Anna Sethne",
+      "latitude": 59.92853228,
+      "longitude": 10.73847302,
+      "directions": "On Eugenies gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227262",
+      "photo_urls": []
+    },
+    {
+      "id": "227264",
+      "title": "Martinus Lørdahl (1873-1933)",
+      "latitude": 59.92585382,
+      "longitude": 10.7343503,
+      "directions": "On Louises gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227264",
+      "photo_urls": []
+    },
+    {
+      "id": "227273",
+      "title": "Reidar Aulie (1904-1977)",
+      "latitude": 59.92893603,
+      "longitude": 10.73283262,
+      "directions": "On Thereses gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227273",
+      "photo_urls": []
+    },
+    {
+      "id": "227285",
+      "title": "Anna Rogstad",
+      "latitude": 59.92525643,
+      "longitude": 10.73742181,
+      "directions": "On Henrichsens gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227285",
+      "photo_urls": []
+    },
+    {
+      "id": "227294",
+      "title": "Max Manus",
+      "latitude": 59.92957769,
+      "longitude": 10.73389642,
+      "directions": "On Vidars gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227294",
+      "photo_urls": []
+    },
+    {
+      "id": "227325",
+      "title": "«Bunkersen» / The Bunker",
+      "latitude": 59.92619403,
+      "longitude": 10.73361715,
+      "directions": "On Martinus Lørdahls plass, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227325",
+      "photo_urls": []
+    },
+    {
+      "id": "227344",
+      "title": "Christiania Torv / Square",
+      "latitude": 59.91055419,
+      "longitude": 10.7393452,
+      "directions": "On Christiania Torv, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227344",
+      "photo_urls": []
+    },
+    {
+      "id": "227353",
+      "title": "Det Norske Studentersamfund / The Norwegian Students’ Society",
+      "latitude": 59.91502142,
+      "longitude": 10.73688568,
+      "directions": "On Universitetsgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227353",
+      "photo_urls": []
+    },
+    {
+      "id": "227359",
+      "title": "Østbanestasjonen / Eastern Rail Station",
+      "latitude": 59.91094101,
+      "longitude": 10.75068725,
+      "directions": "On Jernbanetorget, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227359",
+      "photo_urls": []
+    },
+    {
+      "id": "227363",
+      "title": "Oslo Børs / Oslo Stock Exchange",
+      "latitude": 59.90921273,
+      "longitude": 10.74858322,
+      "directions": "On Tollbugata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227363",
+      "photo_urls": []
+    },
+    {
+      "id": "227374",
+      "title": "Lukket på Grunn av Glede / Closed Due to Joy",
+      "latitude": 59.91472777,
+      "longitude": 10.73651248,
+      "directions": "On Universitetsgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227374",
+      "photo_urls": []
+    },
+    {
+      "id": "227398",
+      "title": "Lærearene / Learning the Craft, 1850-1857",
+      "latitude": 59.91463873,
+      "longitude": 10.73542978,
+      "directions": "On Karl Johans gate, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227398",
+      "photo_urls": []
+    },
+    {
+      "id": "227421",
+      "title": "«Tivoliporten» / Tivoli Gate",
+      "latitude": 59.91384367,
+      "longitude": 10.734795,
+      "directions": "On Stortingsgata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227421",
+      "photo_urls": []
+    },
+    {
+      "id": "227431",
+      "title": "Bybrannen / City Fire",
+      "latitude": 59.91187482,
+      "longitude": 10.74629879,
+      "directions": "On Karl Johans gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227431",
+      "photo_urls": []
+    },
+    {
+      "id": "227441",
+      "title": "Kongelig Norsk Automobilklub / Royal Norwegian Automobile Club",
+      "latitude": 59.92255075,
+      "longitude": 10.73213222,
+      "directions": "On Pilestredet, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227441",
+      "photo_urls": []
+    },
+    {
+      "id": "227442",
+      "title": "Byens Første Rådhus / The First City Hall",
+      "latitude": 59.91002445,
+      "longitude": 10.74001946,
+      "directions": "On Rådhusgata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227442",
+      "photo_urls": []
+    },
+    {
+      "id": "227489",
+      "title": "Niels Wulfsberg (1755-1852)",
+      "latitude": 59.90901994,
+      "longitude": 10.74412696,
+      "directions": "On Rådhusgata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227489",
+      "photo_urls": []
+    },
+    {
+      "id": "227585",
+      "title": "Christian Holtermann Knudsen (1845-1929)",
+      "latitude": 59.91163185,
+      "longitude": 10.74113542,
+      "directions": "On Øvre Slottsgate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227585",
+      "photo_urls": []
+    },
+    {
+      "id": "227741",
+      "title": "Brødrene Hals’ Pianofortefabrik / Hals Brothers Piano Factory",
+      "latitude": 59.91429911,
+      "longitude": 10.73311902,
+      "directions": "On Olav Vs gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227741",
+      "photo_urls": []
+    },
+    {
+      "id": "227765",
+      "title": "Sam Eyde and Kristian Birkeland",
+      "latitude": 59.92926943,
+      "longitude": 10.73742825,
+      "directions": "On Ullevålsveien, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227765",
+      "photo_urls": []
+    },
+    {
+      "id": "227834",
+      "title": "Byens Andre Rådhus / The City’s Second Town Hall",
+      "latitude": 59.90907898,
+      "longitude": 10.74454353,
+      "directions": "On Rådhusgata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227834",
+      "photo_urls": []
+    },
+    {
+      "id": "227875",
+      "title": "Anatomigården / Anatomy Building",
+      "latitude": 59.9104104,
+      "longitude": 10.74002749,
+      "directions": "On Rådhusgata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227875",
+      "photo_urls": []
+    },
+    {
+      "id": "227935",
+      "title": "Turnhallen / The Gymnasium",
+      "latitude": 59.91798118,
+      "longitude": 10.73674992,
+      "directions": "On Sankt Olavs Gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227935",
+      "photo_urls": []
+    },
+    {
+      "id": "227958",
+      "title": "Metropol",
+      "latitude": 59.91167419,
+      "longitude": 10.74001606,
+      "directions": "On Akersgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=227958",
+      "photo_urls": []
+    },
+    {
+      "id": "228181",
+      "title": "Krigskolen / Military Academy",
+      "latitude": 59.91004966,
+      "longitude": 10.74532542,
+      "directions": "On Tollbugata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228181",
+      "photo_urls": []
+    },
+    {
+      "id": "228190",
+      "title": "Kvindernes Boligselskap A/S - Women’s Housing Association",
+      "latitude": 59.92742882,
+      "longitude": 10.73116253,
+      "directions": "On Thereses gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228190",
+      "photo_urls": []
+    },
+    {
+      "id": "228201",
+      "title": "Stortorvets Gjæstgiveri / Stortorvets Inn",
+      "latitude": 59.91337317,
+      "longitude": 10.74470133,
+      "directions": "On Grensen, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228201",
+      "photo_urls": []
+    },
+    {
+      "id": "228931",
+      "title": "Nissen Pigeskole / Nissen Girls School",
+      "latitude": 59.91192067,
+      "longitude": 10.73778965,
+      "directions": "On Øvre Vollgate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228931",
+      "photo_urls": []
+    },
+    {
+      "id": "228947",
+      "title": "Brannvakten / Fire Watch",
+      "latitude": 59.91206517,
+      "longitude": 10.74651718,
+      "directions": "On Karl Johans gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=228947",
+      "photo_urls": []
+    },
+    {
+      "id": "229004",
+      "title": "Henki Lokstad (1915-2008) and Lasse Lokstad (1922-2012)",
+      "latitude": 59.92451722,
+      "longitude": 10.73755505,
+      "directions": "On Benneches gate, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229004",
+      "photo_urls": []
+    },
+    {
+      "id": "229055",
+      "title": "Norges Storting / The Norwegian Parliament",
+      "latitude": 59.91014426,
+      "longitude": 10.74589553,
+      "directions": "On Dronningens Gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229055",
+      "photo_urls": []
+    },
+    {
+      "id": "229265",
+      "title": "Ragnar Frisch (1895-1973)",
+      "latitude": 59.91698797,
+      "longitude": 10.73474778,
+      "directions": "On Frederiks gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229265",
+      "photo_urls": []
+    },
+    {
+      "id": "229290",
+      "title": "Trygve Haavelmo (1911-99)",
+      "latitude": 59.91698915,
+      "longitude": 10.73474247,
+      "directions": "On Frederiks gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229290",
+      "photo_urls": []
+    },
+    {
+      "id": "229342",
+      "title": "Telegraf Bygningen / Telegraph Building",
+      "latitude": 59.91153889,
+      "longitude": 10.74250914,
+      "directions": "On Prinsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229342",
+      "photo_urls": []
+    },
+    {
+      "id": "229434",
+      "title": "Norges Bank",
+      "latitude": 59.90867496,
+      "longitude": 10.7412523,
+      "directions": "On Bankplassen, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229434",
+      "photo_urls": []
+    },
+    {
+      "id": "229553",
+      "title": "Christiania Sparebank / Christiania Savings Bank",
+      "latitude": 59.9110701,
+      "longitude": 10.74024349,
+      "directions": "On Øvre Slottsgate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229553",
+      "photo_urls": []
+    },
+    {
+      "id": "229594",
+      "title": "Bergans",
+      "latitude": 59.9119224,
+      "longitude": 10.7409239,
+      "directions": "On Prinsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229594",
+      "photo_urls": []
+    },
+    {
+      "id": "229773",
+      "title": "Athenæum",
+      "latitude": 59.91246066,
+      "longitude": 10.74082196,
+      "directions": "On Akersgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=229773",
+      "photo_urls": []
+    },
+    {
+      "id": "230094",
+      "title": "Skredder Gården / Tailor Building",
+      "latitude": 59.91252447,
+      "longitude": 10.74086414,
+      "directions": "On Akersgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230094",
+      "photo_urls": []
+    },
+    {
+      "id": "230170",
+      "title": "Kinematograf Teatret / Cinematograph Theatre",
+      "latitude": 59.91334584,
+      "longitude": 10.73689004,
+      "directions": "On Stortingsgata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230170",
+      "photo_urls": []
+    },
+    {
+      "id": "230189",
+      "title": "Christiania Skolehus",
+      "latitude": 59.9100118,
+      "longitude": 10.7396695,
+      "directions": "On Rådhusgata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230189",
+      "photo_urls": []
+    },
+    {
+      "id": "230301",
+      "title": "Christiania Opfrostringshus / Christiania Foster Home",
+      "latitude": 59.90909148,
+      "longitude": 10.74068239,
+      "directions": "On Kongens gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230301",
+      "photo_urls": []
+    },
+    {
+      "id": "230534",
+      "title": "Det Teologiske Menighetsfakultet / The Theological Parish School",
+      "latitude": 59.91794382,
+      "longitude": 10.73554616,
+      "directions": "On Sankt Olavs Gate, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230534",
+      "photo_urls": []
+    },
+    {
+      "id": "230595",
+      "title": "Norges Bank",
+      "latitude": 59.90869674,
+      "longitude": 10.74037608,
+      "directions": "On Bankplassen, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230595",
+      "photo_urls": []
+    },
+    {
+      "id": "230628",
+      "title": "Knut Hamsun",
+      "latitude": 59.92623763,
+      "longitude": 10.73074043,
+      "directions": "Near Thereses gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230628",
+      "photo_urls": []
+    },
+    {
+      "id": "230654",
+      "title": "Tollboden / Customs House",
+      "latitude": 59.90919941,
+      "longitude": 10.74975239,
+      "directions": "On Langkaia, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230654",
+      "photo_urls": []
+    },
+    {
+      "id": "230661",
+      "title": "Kanonkule / Cannonball",
+      "latitude": 59.910103,
+      "longitude": 10.74589301,
+      "directions": "On Tollbugata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230661",
+      "photo_urls": []
+    },
+    {
+      "id": "230721",
+      "title": "Oratoriekoret Cæciliaforeningen / The Cecilia Society Chorus",
+      "latitude": 59.91069673,
+      "longitude": 10.74399292,
+      "directions": "On Kirkegata, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230721",
+      "photo_urls": []
+    },
+    {
+      "id": "230889",
+      "title": "Koppgården / Kopp Building",
+      "latitude": 59.91230884,
+      "longitude": 10.74553213,
+      "directions": "On Kirkegata, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230889",
+      "photo_urls": []
+    },
+    {
+      "id": "230991",
+      "title": "Collettgården / Collett Building",
+      "latitude": 59.91043897,
+      "longitude": 10.74372409,
+      "directions": "On Kirkegata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230991",
+      "photo_urls": []
+    },
+    {
+      "id": "230995",
+      "title": "Treschow Gården / Treschow Building",
+      "latitude": 59.90951742,
+      "longitude": 10.74814844,
+      "directions": "On Tollbugata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=230995",
+      "photo_urls": []
+    },
+    {
+      "id": "231070",
+      "title": "Magistratgaarden / Magistrate’s Building",
+      "latitude": 59.90918106,
+      "longitude": 10.74502553,
+      "directions": "On Dronningens Gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231070",
+      "photo_urls": []
+    },
+    {
+      "id": "231073",
+      "title": "Valgkirke / Electoral Church",
+      "latitude": 59.91270565,
+      "longitude": 10.7464349,
+      "directions": "On Stortorvet, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231073",
+      "photo_urls": []
+    },
+    {
+      "id": "231077",
+      "title": "Christian Krohg",
+      "latitude": 59.91371126,
+      "longitude": 10.74069021,
+      "directions": "On Lille Grensen, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231077",
+      "photo_urls": []
+    },
+    {
+      "id": "231109",
+      "title": "Aftenposten / The Evening Post",
+      "latitude": 59.9091602,
+      "longitude": 10.74527334,
+      "directions": "On Dronningens Gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231109",
+      "photo_urls": []
+    },
+    {
+      "id": "231115",
+      "title": "Dronningens Gate 10 : Aftenposten / The Evening Post",
+      "latitude": 59.90915911,
+      "longitude": 10.74526902,
+      "directions": "On Dronningens Gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231115",
+      "photo_urls": []
+    },
+    {
+      "id": "231120",
+      "title": "Rådhusgata 5",
+      "latitude": 59.90898024,
+      "longitude": 10.745127,
+      "directions": "On Rådhusgata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231120",
+      "photo_urls": []
+    },
+    {
+      "id": "231135",
+      "title": "Tollbodgaten 19",
+      "latitude": 59.91073226,
+      "longitude": 10.74324476,
+      "directions": "On Tollbugata, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231135",
+      "photo_urls": []
+    },
+    {
+      "id": "231161",
+      "title": "Ruseløkken",
+      "latitude": 59.91490482,
+      "longitude": 10.73295227,
+      "directions": "Near Johanne Dybwads plass, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231161",
+      "photo_urls": []
+    },
+    {
+      "id": "243222",
+      "title": "Nedre Strandgate 2",
+      "latitude": 62.47085314,
+      "longitude": 6.1511316,
+      "directions": "On Nedre Strandgate, Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243222",
+      "photo_urls": []
+    },
+    {
+      "id": "243225",
+      "title": "Nudre Strandgate 1",
+      "latitude": 62.470805,
+      "longitude": 6.15106944,
+      "directions": "On Nedre Strandgate, Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243225",
+      "photo_urls": []
+    },
+    {
+      "id": "243227",
+      "title": "Kirkegata 9",
+      "latitude": 62.47104667,
+      "longitude": 6.14891389,
+      "directions": "On Kirkegata, Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243227",
+      "photo_urls": []
+    },
+    {
+      "id": "243230",
+      "title": "Ålesund kirke",
+      "latitude": 62.47106333,
+      "longitude": 6.14571111,
+      "directions": "Near Kirkegata, Ålesund, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243230",
+      "photo_urls": []
+    },
+    {
+      "id": "243244",
+      "title": "Øwregata 15",
+      "latitude": 62.47147493,
+      "longitude": 6.1481512,
+      "directions": "On Øwregata, Ålesund, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243244",
+      "photo_urls": []
+    },
+    {
+      "id": "243247",
+      "title": "Aksel Holms plass",
+      "latitude": 62.47271167,
+      "longitude": 6.15163611,
+      "directions": "On Molovegen, Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243247",
+      "photo_urls": []
+    },
+    {
+      "id": "243338",
+      "title": "Brunholmgata 10",
+      "latitude": 62.47280333,
+      "longitude": 6.151825,
+      "directions": "On Brunholmgata, Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243338",
+      "photo_urls": []
+    },
+    {
+      "id": "243339",
+      "title": "Apotekergata 10",
+      "latitude": 62.47153,
+      "longitude": 6.15068333,
+      "directions": "On Apotekergata, Ålesund, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243339",
+      "photo_urls": []
+    },
+    {
+      "id": "243344",
+      "title": "</i> St. Olavs plass 1",
+      "latitude": 62.4726842,
+      "longitude": 6.156776,
+      "directions": "On St. Olavs plass, Ålesund, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243344",
+      "photo_urls": []
+    },
+    {
+      "id": "243402",
+      "title": "Kongens gate 28",
+      "latitude": 62.47505333,
+      "longitude": 6.15635278,
+      "directions": "On Kongens gata, Ålesund, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243402",
+      "photo_urls": []
+    },
+    {
+      "id": "243403",
+      "title": "Kongens gata 10B",
+      "latitude": 62.473568,
+      "longitude": 6.156758,
+      "directions": "On Kongens gata, Ålesund, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243403",
+      "photo_urls": []
+    },
+    {
+      "id": "243406",
+      "title": "Kiperviktorget",
+      "latitude": 62.47124167,
+      "longitude": 6.16045278,
+      "directions": "On Keiser Wilhelms gata, Ålesund, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243406",
+      "photo_urls": []
+    },
+    {
+      "id": "243421",
+      "title": "Mot Havet",
+      "latitude": 62.47117222,
+      "longitude": 6.16013333,
+      "directions": "On Ålesundsvegen (Route E136) , Ålesund, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243421",
+      "photo_urls": []
+    },
+    {
+      "id": "243755",
+      "title": "Hove kyrkje",
+      "latitude": 61.07190278,
+      "longitude": 6.58462,
+      "directions": "On Hovevegen, Røysane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243755",
+      "photo_urls": []
+    },
+    {
+      "id": "243771",
+      "title": "Hopperstad stavkyrkje",
+      "latitude": 61.07715556,
+      "longitude": 6.568775,
+      "directions": "On Riksveg 13, Røysane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243771",
+      "photo_urls": []
+    },
+    {
+      "id": "243786",
+      "title": "Minnesmerke over dei Reisande som budde i Vik:",
+      "latitude": 61.08853056,
+      "longitude": 6.58367833,
+      "directions": "On Riksveg 13, Vikøyri, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243786",
+      "photo_urls": []
+    },
+    {
+      "id": "243788",
+      "title": "Kong Oscar IIs Samling",
+      "latitude": 59.90811,
+      "longitude": 10.68327,
+      "directions": "Near Museumsveien, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243788",
+      "photo_urls": []
+    },
+    {
+      "id": "243809",
+      "title": "Voss-Anders huset",
+      "latitude": 61.08830278,
+      "longitude": 6.584725,
+      "directions": "Near Norwegian National Road 13, Vikøyri, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243809",
+      "photo_urls": []
+    },
+    {
+      "id": "243854",
+      "title": "Stortinget",
+      "latitude": 61.08833611,
+      "longitude": 6.58196167,
+      "directions": "Near Norwegian National Road 13, Vikøyri, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243854",
+      "photo_urls": []
+    },
+    {
+      "id": "243857",
+      "title": "Brannane",
+      "latitude": 61.08838611,
+      "longitude": 6.582055,
+      "directions": "Near Riksveg 13, Vikøyri, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=243857",
+      "photo_urls": []
+    },
+    {
+      "id": "244098",
+      "title": "Gurine",
+      "latitude": 59.98653333,
+      "longitude": 6.00735833,
+      "directions": "Near Skålafjæro, Rosendal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244098",
+      "photo_urls": []
+    },
+    {
+      "id": "244526",
+      "title": "Moahaugane",
+      "latitude": 61.07579167,
+      "longitude": 6.57887778,
+      "directions": "Near Norwegian National Road 13, near Røysane, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=244526",
+      "photo_urls": []
+    },
+    {
+      "id": "250661",
+      "title": "Mauritz Bernstein",
+      "latitude": 59.91757865,
+      "longitude": 10.74995919,
+      "directions": "On Møllergata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250661",
+      "photo_urls": []
+    },
+    {
+      "id": "250704",
+      "title": "Oslo Pride",
+      "latitude": 59.91282778,
+      "longitude": 10.76218333,
+      "directions": "On Grønland, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250704",
+      "photo_urls": []
+    },
+    {
+      "id": "250737",
+      "title": "Willy Brandt",
+      "latitude": 59.90991393,
+      "longitude": 10.76643181,
+      "directions": "On Hollendergata, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250737",
+      "photo_urls": []
+    },
+    {
+      "id": "250738",
+      "title": "Edith Carlmar",
+      "latitude": 59.9184726,
+      "longitude": 10.74851352,
+      "directions": "On Wilses gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250738",
+      "photo_urls": []
+    },
+    {
+      "id": "250757",
+      "title": "Josephine Thrane",
+      "latitude": 59.91180833,
+      "longitude": 10.76688889,
+      "directions": "On Grønlandsleiret, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250757",
+      "photo_urls": []
+    },
+    {
+      "id": "250763",
+      "title": "Helene Strand Johansen",
+      "latitude": 59.91416629,
+      "longitude": 10.76986644,
+      "directions": "On Sørligata, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250763",
+      "photo_urls": []
+    },
+    {
+      "id": "250777",
+      "title": "Folketeateret",
+      "latitude": 59.91384812,
+      "longitude": 10.75067547,
+      "directions": "On Storgata, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250777",
+      "photo_urls": []
+    },
+    {
+      "id": "250829",
+      "title": "Gassverket / Gas Works",
+      "latitude": 59.91581671,
+      "longitude": 10.75675058,
+      "directions": "On Storgata, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250829",
+      "photo_urls": []
+    },
+    {
+      "id": "250844",
+      "title": "St. Olav’s Cathedral World War II Memorial",
+      "latitude": 59.91830551,
+      "longitude": 10.74425362,
+      "directions": "On Akersveien, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250844",
+      "photo_urls": []
+    },
+    {
+      "id": "250933",
+      "title": "Bombeangrep / Bomb Attack",
+      "latitude": 59.91514167,
+      "longitude": 10.72878611,
+      "directions": "On Henrik Ibsens gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=250933",
+      "photo_urls": []
+    },
+    {
+      "id": "251309",
+      "title": "Kirsten Ohm",
+      "latitude": 59.91426493,
+      "longitude": 10.72492816,
+      "directions": "On Huitfeldts gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251309",
+      "photo_urls": []
+    },
+    {
+      "id": "251310",
+      "title": "Cora Sandel",
+      "latitude": 59.91422029,
+      "longitude": 10.72486551,
+      "directions": "On Huitfeldts gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251310",
+      "photo_urls": []
+    },
+    {
+      "id": "251525",
+      "title": "Restaurant Olympen",
+      "latitude": 59.91226747,
+      "longitude": 10.76438832,
+      "directions": "On Grønlandsleiret, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251525",
+      "photo_urls": []
+    },
+    {
+      "id": "251560",
+      "title": "Wehrmachts Bunker",
+      "latitude": 59.91373655,
+      "longitude": 10.72040051,
+      "directions": "On Parkveien, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251560",
+      "photo_urls": []
+    },
+    {
+      "id": "251567",
+      "title": "Max Oster",
+      "latitude": 59.90986254,
+      "longitude": 10.7406893,
+      "directions": "On Rådhusgata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251567",
+      "photo_urls": []
+    },
+    {
+      "id": "251735",
+      "title": "Edvard Grieg",
+      "latitude": 59.91120566,
+      "longitude": 10.7370777,
+      "directions": "On Øvre Vollgate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251735",
+      "photo_urls": []
+    },
+    {
+      "id": "251775",
+      "title": "Harriet Backer",
+      "latitude": 59.91523611,
+      "longitude": 10.72489167,
+      "directions": "On Hansteens gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251775",
+      "photo_urls": []
+    },
+    {
+      "id": "251793",
+      "title": "Blomqvist",
+      "latitude": 59.91299234,
+      "longitude": 10.73616118,
+      "directions": "On Tordenskiolds gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251793",
+      "photo_urls": []
+    },
+    {
+      "id": "251798",
+      "title": "Frank Varner",
+      "latitude": 59.91292922,
+      "longitude": 10.77471551,
+      "directions": "On Gruegata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251798",
+      "photo_urls": []
+    },
+    {
+      "id": "251851",
+      "title": "Israel Gross",
+      "latitude": 59.91201803,
+      "longitude": 10.73672119,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251851",
+      "photo_urls": []
+    },
+    {
+      "id": "251854",
+      "title": "Agathe Backer Grøndahl",
+      "latitude": 59.9114241,
+      "longitude": 10.74061139,
+      "directions": "On Øvre Slottsgate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251854",
+      "photo_urls": []
+    },
+    {
+      "id": "251876",
+      "title": "Elise Sem",
+      "latitude": 59.91179637,
+      "longitude": 10.74656982,
+      "directions": "On Karl Johans gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251876",
+      "photo_urls": []
+    },
+    {
+      "id": "251951",
+      "title": "Elisabet Helsing",
+      "latitude": 59.91837778,
+      "longitude": 10.74691389,
+      "directions": "On Thor Olsens gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251951",
+      "photo_urls": []
+    },
+    {
+      "id": "251963",
+      "title": "Nasjonalmonumentet for krigens ofre 1940-45 / National Monument for Victims of War 1940-45",
+      "latitude": 59.90611944,
+      "longitude": 10.73870833,
+      "directions": "On Kirkegata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=251963",
+      "photo_urls": []
+    },
+    {
+      "id": "252003",
+      "title": "Militær Hospitalet / Military Hospital",
+      "latitude": 59.90733168,
+      "longitude": 10.74298334,
+      "directions": "On Grev Wedels Plass, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252003",
+      "photo_urls": []
+    },
+    {
+      "id": "252041",
+      "title": "Hoved Politistasjon / Main Police Station",
+      "latitude": 59.91523423,
+      "longitude": 10.74798505,
+      "directions": "On Møllergata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252041",
+      "photo_urls": []
+    },
+    {
+      "id": "252066",
+      "title": "Marie Spångberg Holth",
+      "latitude": 59.91493611,
+      "longitude": 10.71775,
+      "directions": "On Sommerrogata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252066",
+      "photo_urls": []
+    },
+    {
+      "id": "252104",
+      "title": "Club 7",
+      "latitude": 59.91338716,
+      "longitude": 10.72921981,
+      "directions": "On Munkedamsveien, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252104",
+      "photo_urls": []
+    },
+    {
+      "id": "252118",
+      "title": "Alfhild Hovdan",
+      "latitude": 59.91174921,
+      "longitude": 10.73634894,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252118",
+      "photo_urls": []
+    },
+    {
+      "id": "252143",
+      "title": "Johan Svendsen",
+      "latitude": 59.91308675,
+      "longitude": 10.73495127,
+      "directions": "On Fridtjof Nansens plass, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252143",
+      "photo_urls": []
+    },
+    {
+      "id": "252153",
+      "title": "«Nr. 13»",
+      "latitude": 59.91556944,
+      "longitude": 10.76571944,
+      "directions": "On Heimdalsgata, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252153",
+      "photo_urls": []
+    },
+    {
+      "id": "252173",
+      "title": "Arbeider Bolig / Workers Housing",
+      "latitude": 59.91221667,
+      "longitude": 10.72456467,
+      "directions": "On Ruseløkkveien, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252173",
+      "photo_urls": []
+    },
+    {
+      "id": "252207",
+      "title": "Max Manus",
+      "latitude": 59.90505468,
+      "longitude": 10.74165165,
+      "directions": "On Akershusstranda, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252207",
+      "photo_urls": []
+    },
+    {
+      "id": "252226",
+      "title": "Mosse Jørgenson",
+      "latitude": 59.91281828,
+      "longitude": 10.72283611,
+      "directions": "On Huitfeldts gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252226",
+      "photo_urls": []
+    },
+    {
+      "id": "252232",
+      "title": "Pellerins Margarinfabrikk / Pellerins Margarine Factory",
+      "latitude": 59.91219179,
+      "longitude": 10.77082395,
+      "directions": "On Borggata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252232",
+      "photo_urls": []
+    },
+    {
+      "id": "252254",
+      "title": "Skipssabotasje / Ship Sabotage",
+      "latitude": 59.90919444,
+      "longitude": 10.72554722,
+      "directions": "On Fjordalléen, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252254",
+      "photo_urls": []
+    },
+    {
+      "id": "252265",
+      "title": "Milorg",
+      "latitude": 59.9124491,
+      "longitude": 10.75029979,
+      "directions": "On Biskop Gunnerus gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252265",
+      "photo_urls": []
+    },
+    {
+      "id": "252273",
+      "title": "Meyer Fischel Dickman",
+      "latitude": 59.91249933,
+      "longitude": 10.76435221,
+      "directions": "On Grønlandsleiret, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252273",
+      "photo_urls": []
+    },
+    {
+      "id": "252277",
+      "title": "Herman David Dickman",
+      "latitude": 59.912475,
+      "longitude": 10.76425833,
+      "directions": "On Grønlandsleiret, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252277",
+      "photo_urls": []
+    },
+    {
+      "id": "252299",
+      "title": "Hulda Garborg",
+      "latitude": 59.91467152,
+      "longitude": 10.74062945,
+      "directions": "On Kristian IVs gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252299",
+      "photo_urls": []
+    },
+    {
+      "id": "252347",
+      "title": "Carl 12",
+      "latitude": 59.91241389,
+      "longitude": 10.75419444,
+      "directions": "Near Sonja Henies plass, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252347",
+      "photo_urls": []
+    },
+    {
+      "id": "252371",
+      "title": "Oslogjengen / “The Oslo Gang”",
+      "latitude": 59.91518333,
+      "longitude": 10.74400278,
+      "directions": "On Akersgata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252371",
+      "photo_urls": []
+    },
+    {
+      "id": "252376",
+      "title": "Piperen i Piperviken / Pipers in Piperviken",
+      "latitude": 59.91116529,
+      "longitude": 10.73566916,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252376",
+      "photo_urls": []
+    },
+    {
+      "id": "252393",
+      "title": "Møllergata Skole / Møllergata School",
+      "latitude": 59.91805556,
+      "longitude": 10.75038889,
+      "directions": "On Møllergata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252393",
+      "photo_urls": []
+    },
+    {
+      "id": "252778",
+      "title": "Byens Første Hotell / City’s First Hotel",
+      "latitude": 59.90975861,
+      "longitude": 10.74121752,
+      "directions": "On Rådhusgata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252778",
+      "photo_urls": []
+    },
+    {
+      "id": "252806",
+      "title": "Oslo Sjømannsforening / Oslo Seamen’s Association",
+      "latitude": 59.91471782,
+      "longitude": 10.72813391,
+      "directions": "On Kronprinsens gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252806",
+      "photo_urls": []
+    },
+    {
+      "id": "252813",
+      "title": "Vestbane Stasjonen / Western Rail Station",
+      "latitude": 59.91156389,
+      "longitude": 10.730675,
+      "directions": "On Brynjulf Bulls plass, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252813",
+      "photo_urls": []
+    },
+    {
+      "id": "252819",
+      "title": "Akershus Fortress surrender - 1945",
+      "latitude": 59.90559493,
+      "longitude": 10.74004646,
+      "directions": "On Akershus Festning, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252819",
+      "photo_urls": []
+    },
+    {
+      "id": "252838",
+      "title": "Police Troops Memorial",
+      "latitude": 59.90476944,
+      "longitude": 10.74141944,
+      "directions": "Near Akershusstranda, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252838",
+      "photo_urls": []
+    },
+    {
+      "id": "252863",
+      "title": "Enerhaugens Børneasyl / Enerhaugen Children’s Shelter",
+      "latitude": 59.91386012,
+      "longitude": 10.76831386,
+      "directions": "On Sørligata, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252863",
+      "photo_urls": []
+    },
+    {
+      "id": "252869",
+      "title": "Ulvehiet / “Wolf’s Lair”",
+      "latitude": 59.91398468,
+      "longitude": 10.76572462,
+      "directions": "On Urtegata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252869",
+      "photo_urls": []
+    },
+    {
+      "id": "252944",
+      "title": "Vaterlands Bru / Vaterlands Bridge",
+      "latitude": 59.91334157,
+      "longitude": 10.75823439,
+      "directions": "Near Brugata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252944",
+      "photo_urls": []
+    },
+    {
+      "id": "252946",
+      "title": "Den Gamle Logen / The Old Lodge",
+      "latitude": 59.90725476,
+      "longitude": 10.74146657,
+      "directions": "On Grev Wedels Plass, Oslo, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252946",
+      "photo_urls": []
+    },
+    {
+      "id": "252975",
+      "title": "Det Engelske Kvarter / The English Quarter",
+      "latitude": 59.91453814,
+      "longitude": 10.71838631,
+      "directions": "On Henrik Ibsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=252975",
+      "photo_urls": []
+    },
+    {
+      "id": "253013",
+      "title": "9. April 1940",
+      "latitude": 59.91398658,
+      "longitude": 10.72839667,
+      "directions": "On Victoria Terrasse, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253013",
+      "photo_urls": []
+    },
+    {
+      "id": "253015",
+      "title": "Kampen Janitsjarorkester",
+      "latitude": 59.9117,
+      "longitude": 10.77333611,
+      "directions": "On Sigurds gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253015",
+      "photo_urls": []
+    },
+    {
+      "id": "253067",
+      "title": "Hjalmar Johansen",
+      "latitude": 59.91498611,
+      "longitude": 10.71833333,
+      "directions": "On Sommerrogata, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253067",
+      "photo_urls": []
+    },
+    {
+      "id": "253417",
+      "title": "Ingeniørenes Hus / Engineers Building",
+      "latitude": 59.91410833,
+      "longitude": 10.72700278,
+      "directions": "On Kronprinsens gate, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253417",
+      "photo_urls": []
+    },
+    {
+      "id": "253489",
+      "title": "Youngstorget / Youngs Square",
+      "latitude": 59.91497778,
+      "longitude": 10.74823056,
+      "directions": "On Youngstorget, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253489",
+      "photo_urls": []
+    },
+    {
+      "id": "253513",
+      "title": "Honnørbrygga / “Honor Wharf”",
+      "latitude": 59.91080833,
+      "longitude": 10.73273889,
+      "directions": "On Rådhusbrygge 3, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253513",
+      "photo_urls": []
+    },
+    {
+      "id": "253532",
+      "title": "Dampcentralen / Central Steam Plant",
+      "latitude": 59.91259028,
+      "longitude": 10.73750337,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253532",
+      "photo_urls": []
+    },
+    {
+      "id": "253534",
+      "title": "Blüchers Anker / Blüchers Anchor",
+      "latitude": 59.90837789,
+      "longitude": 10.72425753,
+      "directions": "On Stranden, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253534",
+      "photo_urls": []
+    },
+    {
+      "id": "253547",
+      "title": "«Kutørjet»",
+      "latitude": 59.91263889,
+      "longitude": 10.76163333,
+      "directions": "On Smalgangen, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253547",
+      "photo_urls": []
+    },
+    {
+      "id": "253560",
+      "title": "Caffebrænderi / Coffee Roastery",
+      "latitude": 59.9152701,
+      "longitude": 10.74237253,
+      "directions": "On Apotekergata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253560",
+      "photo_urls": []
+    },
+    {
+      "id": "253564",
+      "title": "Sontumgården / Sontum Building",
+      "latitude": 59.91382718,
+      "longitude": 10.74354307,
+      "directions": "On Grensen, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253564",
+      "photo_urls": []
+    },
+    {
+      "id": "253578",
+      "title": "Akers Mekaniske Verksted / Akers Mechanical Workshop",
+      "latitude": 59.91078275,
+      "longitude": 10.72714894,
+      "directions": "On Holmans gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253578",
+      "photo_urls": []
+    },
+    {
+      "id": "253590",
+      "title": "Rich Andvords Protokollfabrikk / Rich Andvords Document Printing Facility",
+      "latitude": 59.91117333,
+      "longitude": 10.73793911,
+      "directions": "On Nedre Vollgate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253590",
+      "photo_urls": []
+    },
+    {
+      "id": "253626",
+      "title": "Generalløytnant Otto Ruge / Lieutenant general Otto Ruge",
+      "latitude": 59.90695833,
+      "longitude": 10.74085,
+      "directions": "On Kirkegata, Oslo, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253626",
+      "photo_urls": []
+    },
+    {
+      "id": "253627",
+      "title": "Norwegian Forces D-Day Memorial",
+      "latitude": 59.90475833,
+      "longitude": 10.73773056,
+      "directions": "On Normandieplassen, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253627",
+      "photo_urls": []
+    },
+    {
+      "id": "253633",
+      "title": "Aldri Mer - Never Again: Hiroshima and Nagasaki Memorial",
+      "latitude": 59.91458056,
+      "longitude": 10.74873333,
+      "directions": "On Eva Kolstads gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253633",
+      "photo_urls": []
+    },
+    {
+      "id": "253711",
+      "title": "Nytorvets Basar / “New Square Bazaar”",
+      "latitude": 59.91516725,
+      "longitude": 10.74840967,
+      "directions": "On Youngstorget, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253711",
+      "photo_urls": []
+    },
+    {
+      "id": "253713",
+      "title": "Folkets Hus / “People’s House”",
+      "latitude": 59.91555587,
+      "longitude": 10.74889484,
+      "directions": "On Youngs gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=253713",
+      "photo_urls": []
+    },
+    {
+      "id": "254197",
+      "title": "Norske Liv / “Norwegian Life”",
+      "latitude": 59.91535278,
+      "longitude": 10.72125278,
+      "directions": "On Henrik Ibsens gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254197",
+      "photo_urls": []
+    },
+    {
+      "id": "254211",
+      "title": "Oskar Rubinstein",
+      "latitude": 59.912801,
+      "longitude": 10.76450415,
+      "directions": "On Tøyengata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254211",
+      "photo_urls": []
+    },
+    {
+      "id": "254245",
+      "title": "Oslo Handelsgymnasium / Oslo Secondary School for Business",
+      "latitude": 59.91389722,
+      "longitude": 10.72057222,
+      "directions": "On Parkveien, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=254245",
+      "photo_urls": []
+    },
+    {
+      "id": "258869",
+      "title": "Den Gamle Regjeringsbygningen / The Old Government Building",
+      "latitude": 59.91501263,
+      "longitude": 10.74419097,
+      "directions": "On Akersgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258869",
+      "photo_urls": []
+    },
+    {
+      "id": "258870",
+      "title": "Asylet / The Shelter",
+      "latitude": 59.91278889,
+      "longitude": 10.76237778,
+      "directions": "On Grønland, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258870",
+      "photo_urls": []
+    },
+    {
+      "id": "258902",
+      "title": "Grønland Asyl / Grønland Shelter",
+      "latitude": 59.91284313,
+      "longitude": 10.76248544,
+      "directions": "On Grønland, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=258902",
+      "photo_urls": []
+    },
+    {
+      "id": "259182",
+      "title": "Slottsparken / Palace Park",
+      "latitude": 59.91562778,
+      "longitude": 10.72688056,
+      "directions": "Near Henrik Ibsens gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=259182",
+      "photo_urls": []
+    },
+    {
+      "id": "262171",
+      "title": "Svaret 1891-1906 / The Answer, 1891-1906",
+      "latitude": 59.91517947,
+      "longitude": 10.7268251,
+      "directions": "On Henrik Ibsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262171",
+      "photo_urls": []
+    },
+    {
+      "id": "262269",
+      "title": "Henrik Ibsen",
+      "latitude": 59.91519167,
+      "longitude": 10.72704722,
+      "directions": "On Henrik Ibsens gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262269",
+      "photo_urls": []
+    },
+    {
+      "id": "262272",
+      "title": "Christiania Bygård",
+      "latitude": 59.90792399,
+      "longitude": 10.74379782,
+      "directions": "On Dronningens gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262272",
+      "photo_urls": []
+    },
+    {
+      "id": "262326",
+      "title": "Oslo Lysverker / Oslo Lightworks",
+      "latitude": 59.91528077,
+      "longitude": 10.72003477,
+      "directions": "On Sommerrogata, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262326",
+      "photo_urls": []
+    },
+    {
+      "id": "262655",
+      "title": "Olavsklosteret / St. Olaf Monastery",
+      "latitude": 59.90638733,
+      "longitude": 10.7684773,
+      "directions": "On Sankt Halvards gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262655",
+      "photo_urls": []
+    },
+    {
+      "id": "262657",
+      "title": "Oslo Ladegård / Oslo Warehouse",
+      "latitude": 59.90593611,
+      "longitude": 10.76775278,
+      "directions": "On Oslo gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262657",
+      "photo_urls": []
+    },
+    {
+      "id": "262763",
+      "title": "Stattholdergården / Governor’s Manor",
+      "latitude": 59.90936377,
+      "longitude": 10.74337385,
+      "directions": "On Rådhusgata, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262763",
+      "photo_urls": []
+    },
+    {
+      "id": "262790",
+      "title": "Mangelsgården",
+      "latitude": 59.91540925,
+      "longitude": 10.75591351,
+      "directions": "On Storgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262790",
+      "photo_urls": []
+    },
+    {
+      "id": "262814",
+      "title": "Bispeborgen / Bishop’s Castle",
+      "latitude": 59.90600278,
+      "longitude": 10.76736944,
+      "directions": "Near Bispegata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262814",
+      "photo_urls": []
+    },
+    {
+      "id": "262889",
+      "title": "Molly Amalie Rubinstein",
+      "latitude": 59.91279814,
+      "longitude": 10.76448802,
+      "directions": "On Tøyengata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=262889",
+      "photo_urls": []
+    },
+    {
+      "id": "263265",
+      "title": "Bispealmenningen",
+      "latitude": 59.90567778,
+      "longitude": 10.76726944,
+      "directions": "On Bispegata, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263265",
+      "photo_urls": []
+    },
+    {
+      "id": "263268",
+      "title": "Viktor Rubinstein",
+      "latitude": 59.91273889,
+      "longitude": 10.76415278,
+      "directions": "On Tøyengata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263268",
+      "photo_urls": []
+    },
+    {
+      "id": "263360",
+      "title": "Rosa Rubinstein",
+      "latitude": 59.91282385,
+      "longitude": 10.76448001,
+      "directions": "On Tøyengata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263360",
+      "photo_urls": []
+    },
+    {
+      "id": "263440",
+      "title": "Hilsen til fremtiden / Greetings to the Future",
+      "latitude": 59.91070556,
+      "longitude": 10.73306667,
+      "directions": "On Rådhusplassen, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263440",
+      "photo_urls": []
+    },
+    {
+      "id": "263469",
+      "title": "David Goldberg",
+      "latitude": 59.91815833,
+      "longitude": 10.74760278,
+      "directions": "On Fredensborgveien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263469",
+      "photo_urls": []
+    },
+    {
+      "id": "263570",
+      "title": "Anna Goldberg",
+      "latitude": 59.91815833,
+      "longitude": 10.74760278,
+      "directions": "On Fredensborgveien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263570",
+      "photo_urls": []
+    },
+    {
+      "id": "263646",
+      "title": "Marie Goldberg",
+      "latitude": 59.91815833,
+      "longitude": 10.74760278,
+      "directions": "On Fredensborgveien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263646",
+      "photo_urls": []
+    },
+    {
+      "id": "263701",
+      "title": "Gustav Goldberg",
+      "latitude": 59.91815833,
+      "longitude": 10.74760278,
+      "directions": "On Fredensborgveien, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263701",
+      "photo_urls": []
+    },
+    {
+      "id": "263768",
+      "title": "Hallvardskatedralen / St. Hallvard Cathedral",
+      "latitude": 59.90603333,
+      "longitude": 10.76810833,
+      "directions": "On Oslo gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=263768",
+      "photo_urls": []
+    },
+    {
+      "id": "265140",
+      "title": "Den Norske Brigaden i Skotland / The Norwegian Brigade in Scotland Memorial",
+      "latitude": 59.90479722,
+      "longitude": 10.74135833,
+      "directions": "Near Akershusstranda, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265140",
+      "photo_urls": []
+    },
+    {
+      "id": "265238",
+      "title": "Bertha Claes",
+      "latitude": 59.91458344,
+      "longitude": 10.76676821,
+      "directions": "On Heimdalsgata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265238",
+      "photo_urls": []
+    },
+    {
+      "id": "265282",
+      "title": "Daniel Claes",
+      "latitude": 59.91460341,
+      "longitude": 10.76677445,
+      "directions": "On Heimdalsgata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265282",
+      "photo_urls": []
+    },
+    {
+      "id": "265288",
+      "title": "Jan Claes",
+      "latitude": 59.91459253,
+      "longitude": 10.76678352,
+      "directions": "On Heimdalsgata, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265288",
+      "photo_urls": []
+    },
+    {
+      "id": "265601",
+      "title": "Forsamlingslokalet / Community Hall",
+      "latitude": 65.46832772,
+      "longitude": 12.20239409,
+      "directions": "On Ytre Høgåsvei, Brønnøysund, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265601",
+      "photo_urls": []
+    },
+    {
+      "id": "265650",
+      "title": "Gilstadgården",
+      "latitude": 65.4685628,
+      "longitude": 12.20142923,
+      "directions": "On Masterberggata, Brønnoysund, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265650",
+      "photo_urls": []
+    },
+    {
+      "id": "265770",
+      "title": "Domkirken / Cathedral",
+      "latitude": 58.14616029,
+      "longitude": 7.99511593,
+      "directions": "On Kirkegata, Kristiansand, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265770",
+      "photo_urls": []
+    },
+    {
+      "id": "267603",
+      "title": "Pelle Group Memorial",
+      "latitude": 59.91008307,
+      "longitude": 10.72849005,
+      "directions": "On Stranden, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=267603",
+      "photo_urls": []
+    },
+    {
+      "id": "276430",
+      "title": "Kjeglebanen / Bowling Alley",
+      "latitude": 59.92338627,
+      "longitude": 10.71471628,
+      "directions": "On Briskebyveien, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276430",
+      "photo_urls": []
+    },
+    {
+      "id": "276434",
+      "title": "Nic Waal",
+      "latitude": 59.92495278,
+      "longitude": 10.71618611,
+      "directions": "On Fearnleys gate, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276434",
+      "photo_urls": []
+    },
+    {
+      "id": "276438",
+      "title": "14 Jødiske Barn / 14 Jewish Children",
+      "latitude": 59.91842222,
+      "longitude": 10.73327222,
+      "directions": "On Holbergs gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276438",
+      "photo_urls": []
+    },
+    {
+      "id": "276478",
+      "title": "Camilla Collett",
+      "latitude": 59.92028853,
+      "longitude": 10.72713534,
+      "directions": "On Parkveien, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276478",
+      "photo_urls": []
+    },
+    {
+      "id": "276497",
+      "title": "Sigurd Emil Roll",
+      "latitude": 59.90995983,
+      "longitude": 10.74186122,
+      "directions": "On Kongens gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276497",
+      "photo_urls": []
+    },
+    {
+      "id": "276510",
+      "title": "Vebjørn Tandberg",
+      "latitude": 59.91032455,
+      "longitude": 10.74188208,
+      "directions": "On Kongens gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276510",
+      "photo_urls": []
+    },
+    {
+      "id": "276552",
+      "title": "Henriette Bie Lorentzen",
+      "latitude": 59.91903957,
+      "longitude": 10.72038142,
+      "directions": "On Riddervolds gate, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276552",
+      "photo_urls": []
+    },
+    {
+      "id": "276558",
+      "title": "Regnbueplassen / Rainbow Square",
+      "latitude": 59.91408056,
+      "longitude": 10.73611389,
+      "directions": "On Stortingsgata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276558",
+      "photo_urls": []
+    },
+    {
+      "id": "276590",
+      "title": "Ragna Wettergreen",
+      "latitude": 59.91251389,
+      "longitude": 10.70744167,
+      "directions": "On Bjørn Farmanns gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276590",
+      "photo_urls": []
+    },
+    {
+      "id": "276616",
+      "title": "Robert Levin",
+      "latitude": 59.91734444,
+      "longitude": 10.71101389,
+      "directions": "On Gabels gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276616",
+      "photo_urls": []
+    },
+    {
+      "id": "276727",
+      "title": "«Sulpen»",
+      "latitude": 59.91693789,
+      "longitude": 10.74305445,
+      "directions": "On Keysers gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276727",
+      "photo_urls": []
+    },
+    {
+      "id": "276768",
+      "title": "Stefan Weiss",
+      "latitude": 59.91224765,
+      "longitude": 10.73662459,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276768",
+      "photo_urls": []
+    },
+    {
+      "id": "276771",
+      "title": "Fernanda Nissen",
+      "latitude": 59.91098824,
+      "longitude": 10.74251609,
+      "directions": "On Kongens gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276771",
+      "photo_urls": []
+    },
+    {
+      "id": "276787",
+      "title": "Anders B. Wilse",
+      "latitude": 59.91955556,
+      "longitude": 10.71112778,
+      "directions": "On Balders gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276787",
+      "photo_urls": []
+    },
+    {
+      "id": "276809",
+      "title": "Hotel Gabelshus",
+      "latitude": 59.91372243,
+      "longitude": 10.70906684,
+      "directions": "On Gabels gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276809",
+      "photo_urls": []
+    },
+    {
+      "id": "276815",
+      "title": "Frederik Stangs gate 22-24",
+      "latitude": 59.91729676,
+      "longitude": 10.7080389,
+      "directions": "On Bygdøy allé, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276815",
+      "photo_urls": []
+    },
+    {
+      "id": "276855",
+      "title": "Anne-Cath Vestly",
+      "latitude": 59.91901599,
+      "longitude": 10.73133085,
+      "directions": "On Wergelandsveien, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276855",
+      "photo_urls": []
+    },
+    {
+      "id": "276877",
+      "title": "Halvdan Kjerulf",
+      "latitude": 59.9204348,
+      "longitude": 10.72745612,
+      "directions": "On Parkveien, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276877",
+      "photo_urls": []
+    },
+    {
+      "id": "276882",
+      "title": "Nora Gulbrandsen",
+      "latitude": 59.91972222,
+      "longitude": 10.70867778,
+      "directions": "On Frognerveien, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276882",
+      "photo_urls": []
+    },
+    {
+      "id": "276886",
+      "title": "Georgine Lilla Hansen",
+      "latitude": 59.91734796,
+      "longitude": 10.70357105,
+      "directions": "On Thomas Heftyes gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=276886",
+      "photo_urls": []
+    },
+    {
+      "id": "277092",
+      "title": "Studenter Hjemmet / Students Home",
+      "latitude": 59.92467845,
+      "longitude": 10.72693706,
+      "directions": "On Underhaugsveien, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277092",
+      "photo_urls": []
+    },
+    {
+      "id": "277104",
+      "title": "John Munro Longyear",
+      "latitude": 78.21816811,
+      "longitude": 15.61659176,
+      "directions": "On Vei 300, Longyearbyen, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277104",
+      "photo_urls": []
+    },
+    {
+      "id": "277105",
+      "title": "The town's founder John Munro Longyear",
+      "latitude": 78.21824285,
+      "longitude": 15.61670636,
+      "directions": "On Vei 300, Longyearbyen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277105",
+      "photo_urls": []
+    },
+    {
+      "id": "277106",
+      "title": "Safeguarding Seeds for Future Generations",
+      "latitude": 78.23621663,
+      "longitude": 15.48537838,
+      "directions": "On Vei Uten Navn, near Longyearbyen, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277106",
+      "photo_urls": []
+    },
+    {
+      "id": "277108",
+      "title": "Laila Schou Nilsen",
+      "latitude": 59.92769211,
+      "longitude": 10.70958945,
+      "directions": "On Middelthuns gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277108",
+      "photo_urls": []
+    },
+    {
+      "id": "277111",
+      "title": "Christian Lous Lange",
+      "latitude": 59.92618331,
+      "longitude": 10.71396177,
+      "directions": "On Middelthuns gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277111",
+      "photo_urls": []
+    },
+    {
+      "id": "277120",
+      "title": "Johan Halvorsen",
+      "latitude": 59.92074167,
+      "longitude": 10.69406944,
+      "directions": "On Halvdan Svartes gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277120",
+      "photo_urls": []
+    },
+    {
+      "id": "277130",
+      "title": "Villa Parafina",
+      "latitude": 59.91815204,
+      "longitude": 10.72374167,
+      "directions": "On Riddervolds gate, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277130",
+      "photo_urls": []
+    },
+    {
+      "id": "277152",
+      "title": "Francis Bull",
+      "latitude": 59.92066962,
+      "longitude": 10.71759233,
+      "directions": "On Holtegata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277152",
+      "photo_urls": []
+    },
+    {
+      "id": "277169",
+      "title": "Kristian Birkeland",
+      "latitude": 59.91845614,
+      "longitude": 10.72347285,
+      "directions": "On Rittervolds gate, Oslo, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277169",
+      "photo_urls": []
+    },
+    {
+      "id": "277195",
+      "title": "Sigrid Undset",
+      "latitude": 59.92461389,
+      "longitude": 10.72306944,
+      "directions": "On Eilert Sundts gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277195",
+      "photo_urls": []
+    },
+    {
+      "id": "277212",
+      "title": "Nicolai Beer",
+      "latitude": 59.92646832,
+      "longitude": 10.71805795,
+      "directions": "On Gjørstads gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277212",
+      "photo_urls": []
+    },
+    {
+      "id": "277287",
+      "title": "Wilhelm Reich",
+      "latitude": 59.91957765,
+      "longitude": 10.69309026,
+      "directions": "On Drammensveien, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277287",
+      "photo_urls": []
+    },
+    {
+      "id": "277376",
+      "title": "Hollænder Gaarden / Holland Building",
+      "latitude": 59.91345278,
+      "longitude": 10.73618611,
+      "directions": "On Stortingsgata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277376",
+      "photo_urls": []
+    },
+    {
+      "id": "277394",
+      "title": "Johan Sverdrup",
+      "latitude": 59.92136467,
+      "longitude": 10.70165929,
+      "directions": "On Solheimgata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277394",
+      "photo_urls": []
+    },
+    {
+      "id": "277395",
+      "title": "Tostrupgården / Tostrup Building",
+      "latitude": 59.91336812,
+      "longitude": 10.74088839,
+      "directions": "On Karl Johans gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277395",
+      "photo_urls": []
+    },
+    {
+      "id": "277407",
+      "title": "Radionette",
+      "latitude": 59.9189849,
+      "longitude": 10.70243601,
+      "directions": "On Bygdøy allé, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277407",
+      "photo_urls": []
+    },
+    {
+      "id": "277420",
+      "title": "Peter Christen Asbjørnsen",
+      "latitude": 59.92532155,
+      "longitude": 10.72404893,
+      "directions": "On Rosenborggata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277420",
+      "photo_urls": []
+    },
+    {
+      "id": "277808",
+      "title": "Bryde Villaen / The Bryde Villa",
+      "latitude": 59.9226985,
+      "longitude": 10.69815335,
+      "directions": "On Kristinelundveien, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277808",
+      "photo_urls": []
+    },
+    {
+      "id": "277814",
+      "title": "Battle of Spitsbergen Memorial",
+      "latitude": 78.22201214,
+      "longitude": 15.6294552,
+      "directions": "On Vei 300, Longyearbyen, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277814",
+      "photo_urls": []
+    },
+    {
+      "id": "277924",
+      "title": "Henrik Sørensen",
+      "latitude": 59.92346281,
+      "longitude": 10.72095833,
+      "directions": "On Eilert Sundts gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277924",
+      "photo_urls": []
+    },
+    {
+      "id": "277957",
+      "title": "Oscar Torp",
+      "latitude": 59.92424856,
+      "longitude": 10.722277,
+      "directions": "On Eilert Sundts gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277957",
+      "photo_urls": []
+    },
+    {
+      "id": "277974",
+      "title": "Det Norske Teatret / The Norwegian Theatre",
+      "latitude": 59.91462117,
+      "longitude": 10.7398722,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=277974",
+      "photo_urls": []
+    },
+    {
+      "id": "278045",
+      "title": "Thorvald Meyer",
+      "latitude": 59.91423056,
+      "longitude": 10.73770833,
+      "directions": "On Karl Johans gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278045",
+      "photo_urls": []
+    },
+    {
+      "id": "278117",
+      "title": "Kristinelund",
+      "latitude": 59.92152104,
+      "longitude": 10.69782874,
+      "directions": "Near Kristinelundveien, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278117",
+      "photo_urls": []
+    },
+    {
+      "id": "278119",
+      "title": "Lewek Levi Jacobowitz",
+      "latitude": 59.91861037,
+      "longitude": 10.73347221,
+      "directions": "On Holbergs gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278119",
+      "photo_urls": []
+    },
+    {
+      "id": "278131",
+      "title": "Hus For Musikklærerne / House for Music Teachers",
+      "latitude": 59.92424541,
+      "longitude": 10.72735117,
+      "directions": "On Underhaugsveien, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278131",
+      "photo_urls": []
+    },
+    {
+      "id": "278186",
+      "title": "Maltheby",
+      "latitude": 59.91629216,
+      "longitude": 10.74432193,
+      "directions": "On Teatergata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278186",
+      "photo_urls": []
+    },
+    {
+      "id": "278212",
+      "title": "Bilimportør / Car Importer",
+      "latitude": 59.909825,
+      "longitude": 10.74319722,
+      "directions": "On Kirkegata, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278212",
+      "photo_urls": []
+    },
+    {
+      "id": "278255",
+      "title": "Oscar Mathisen",
+      "latitude": 59.92699444,
+      "longitude": 10.72055833,
+      "directions": "On Bogstadveien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278255",
+      "photo_urls": []
+    },
+    {
+      "id": "278274",
+      "title": "Sonja Henie",
+      "latitude": 59.91997222,
+      "longitude": 10.70366667,
+      "directions": "On Thomas Heftyes gate, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278274",
+      "photo_urls": []
+    },
+    {
+      "id": "278331",
+      "title": "«Butikken» / “The Store”",
+      "latitude": 59.9204418,
+      "longitude": 10.72560259,
+      "directions": "On Uranienborgveien, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278331",
+      "photo_urls": []
+    },
+    {
+      "id": "278740",
+      "title": "Stiftsgården",
+      "latitude": 59.90963533,
+      "longitude": 10.74222548,
+      "directions": "On Rådhusgata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=278740",
+      "photo_urls": []
+    },
+    {
+      "id": "279433",
+      "title": "Friedrich Weiner",
+      "latitude": 59.91860862,
+      "longitude": 10.73346915,
+      "directions": "On Holbergs gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279433",
+      "photo_urls": []
+    },
+    {
+      "id": "279795",
+      "title": "Ida Weiner",
+      "latitude": 59.91861137,
+      "longitude": 10.73347652,
+      "directions": "On Holbergs gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279795",
+      "photo_urls": []
+    },
+    {
+      "id": "279797",
+      "title": "Christian Krohg (1852-1925)",
+      "latitude": 59.92299413,
+      "longitude": 10.6977568,
+      "directions": "On Halvdan Svartes gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279797",
+      "photo_urls": []
+    },
+    {
+      "id": "279868",
+      "title": "Aron Isaksen",
+      "latitude": 59.91260546,
+      "longitude": 10.73720479,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279868",
+      "photo_urls": []
+    },
+    {
+      "id": "279870",
+      "title": "Homansbyen/Nils Collett Vogt",
+      "latitude": 59.92420827,
+      "longitude": 10.72905574,
+      "directions": "On Homansbakken, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279870",
+      "photo_urls": []
+    },
+    {
+      "id": "279885",
+      "title": "Homansbyen",
+      "latitude": 59.92317639,
+      "longitude": 10.7261227,
+      "directions": "On Josefines gate, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279885",
+      "photo_urls": []
+    },
+    {
+      "id": "279968",
+      "title": "Isak Leiser Isaksen",
+      "latitude": 59.91261171,
+      "longitude": 10.73719071,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279968",
+      "photo_urls": []
+    },
+    {
+      "id": "280005",
+      "title": "Sonja Rebekka Isaksen",
+      "latitude": 59.91261305,
+      "longitude": 10.73720144,
+      "directions": "On Rosenkrantz&#39; gate, Oslo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280005",
+      "photo_urls": []
+    },
+    {
+      "id": "280042",
+      "title": "Lille Frogner",
+      "latitude": 59.91960286,
+      "longitude": 10.71204251,
+      "directions": "On Lille Frogner allé, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280042",
+      "photo_urls": []
+    },
+    {
+      "id": "280523",
+      "title": "Foreldreaksjonen / “Parental Response”",
+      "latitude": 59.9161312,
+      "longitude": 10.73815137,
+      "directions": "On Universitetsgata, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280523",
+      "photo_urls": []
+    },
+    {
+      "id": "280602",
+      "title": "Balkeby",
+      "latitude": 59.92591217,
+      "longitude": 10.72015575,
+      "directions": "On Industrigata, Oslo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280602",
+      "photo_urls": []
+    },
+    {
+      "id": "280637",
+      "title": "Hotel Continental",
+      "latitude": 59.91397676,
+      "longitude": 10.73410966,
+      "directions": "On Klingenberggata, Oslo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280637",
+      "photo_urls": []
+    },
+    {
+      "id": "280677",
+      "title": "Nissens Latin og Realskole / Nissens Latin and Secondary School",
+      "latitude": 59.91490262,
+      "longitude": 10.73986097,
+      "directions": "On Kristian IV&#39;s gate, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280677",
+      "photo_urls": []
+    },
+    {
+      "id": "280706",
+      "title": "Christiania’s Eldste Hus / Christiania’s Oldest Building",
+      "latitude": 59.91030013,
+      "longitude": 10.7404668,
+      "directions": "On Rådhusgata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280706",
+      "photo_urls": []
+    },
+    {
+      "id": "280769",
+      "title": "Milorgs Sentralledelse / Milorg's Central Headquarters",
+      "latitude": 59.92657996,
+      "longitude": 10.71697941,
+      "directions": "On Majorstuvaien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280769",
+      "photo_urls": []
+    },
+    {
+      "id": "280818",
+      "title": "Milorgs Sentralledelse og Hjemmefrontens ledelse / Central Leadership of Milorg and the Home Front",
+      "latitude": 59.91549001,
+      "longitude": 10.71050509,
+      "directions": "On Gabels gate, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280818",
+      "photo_urls": []
+    },
+    {
+      "id": "280930",
+      "title": "Frivillig Eksil / Voluntary Exile",
+      "latitude": 59.91535833,
+      "longitude": 10.73274444,
+      "directions": "On Johanne Dybwads plass, Oslo, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280930",
+      "photo_urls": []
+    },
+    {
+      "id": "281015",
+      "title": "Heiabyen / Heia Settlement",
+      "latitude": 59.92131389,
+      "longitude": 10.69382222,
+      "directions": "On Halvdan Svartes gate, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=281015",
+      "photo_urls": []
+    },
+    {
+      "id": "282203",
+      "title": "Løkken Gimle / Gimle Estate",
+      "latitude": 59.91668594,
+      "longitude": 10.70663018,
+      "directions": "On Gimle Terrasse, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=282203",
+      "photo_urls": []
+    },
+    {
+      "id": "290680",
+      "title": "Christiania Sparebank / Christiania Savings Bank",
+      "latitude": 59.91139159,
+      "longitude": 10.73976579,
+      "directions": "On Akersgata, Oslo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=290680",
+      "photo_urls": []
+    },
+    {
+      "id": "291670",
+      "title": "Henrik Wergeland (1808-45)",
+      "latitude": 59.907875,
+      "longitude": 10.74493611,
+      "directions": "On Skippergata, Oslo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=291670",
+      "photo_urls": []
+    },
+    {
+      "id": "292001",
+      "title": "Den Første 5-Mila / The First 50k",
+      "latitude": 59.92975556,
+      "longitude": 10.71370833,
+      "directions": "On Sørkedalsveien, Oslo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292001",
+      "photo_urls": []
+    },
+    {
+      "id": "292484",
+      "title": "Hjemmefra, 1843-1850 / Away from Home, 1843-1850",
+      "latitude": 59.91406667,
+      "longitude": 10.73756389,
+      "directions": "On Karl Johans gate, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292484",
+      "photo_urls": []
+    },
+    {
+      "id": "292589",
+      "title": "Norwegian Sailors Five Centuries Memorial",
+      "latitude": 59.90480533,
+      "longitude": 10.73768993,
+      "directions": "On Akershusstranda, Oslo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=292589",
+      "photo_urls": []
+    }
+  ]
+}
