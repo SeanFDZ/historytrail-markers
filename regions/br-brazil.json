@@ -1,0 +1,146 @@
+{
+  "region_id": "br-brazil",
+  "region_name": "Brazil",
+  "region_type": "country",
+  "country": "Brazil",
+  "generated": "2026-05-08T06:06:31.581Z",
+  "source_timestamp": "2026-05-08T06:06:31.581Z",
+  "marker_count": 15,
+  "markers": [
+    {
+      "id": "25894",
+      "title": "APA das Pontas de Copacabana e Arpoador",
+      "latitude": -22.98647,
+      "longitude": -43.18831,
+      "directions": "Near the Forte de Copacabana access road, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25894",
+      "photo_urls": []
+    },
+    {
+      "id": "25962",
+      "title": "Copacabana Fort",
+      "latitude": -22.98667,
+      "longitude": -43.1877,
+      "directions": "Near the Forte de Copacabana access road, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=25962",
+      "photo_urls": []
+    },
+    {
+      "id": "26028",
+      "title": "João Cândido Felisberto Memorial",
+      "latitude": -22.90209,
+      "longitude": -43.1731,
+      "directions": "Near Avenida Alfredo Agache, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26028",
+      "photo_urls": []
+    },
+    {
+      "id": "26089",
+      "title": "Igr. Basílica de N. Sr. do Bonfim",
+      "latitude": -12.92386,
+      "longitude": -38.50821,
+      "directions": "Near Praca Senhor Bonfim, Salvador, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26089",
+      "photo_urls": []
+    },
+    {
+      "id": "26125",
+      "title": "Zumbi dos Palmares Monument",
+      "latitude": -12.97341,
+      "longitude": -38.51105,
+      "directions": "Near Praça da Sé, Salvador, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26125",
+      "photo_urls": []
+    },
+    {
+      "id": "26178",
+      "title": "Alberto Santos-Dumont Memorial",
+      "latitude": -25.69206,
+      "longitude": -54.43505,
+      "directions": "On Avenida das Cataratas (National Route BR-469) , near Foz do Iguaçu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26178",
+      "photo_urls": []
+    },
+    {
+      "id": "26313",
+      "title": "Praça 15 de Novembro",
+      "latitude": -22.90309,
+      "longitude": -43.17351,
+      "directions": "On the Plaza of 15 November, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26313",
+      "photo_urls": []
+    },
+    {
+      "id": "26350",
+      "title": "Augusto Ferreira Ramos",
+      "latitude": -22.95113,
+      "longitude": -43.16485,
+      "directions": "Near the Caminho Aéreo, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26350",
+      "photo_urls": []
+    },
+    {
+      "id": "26365",
+      "title": "CCAPA",
+      "latitude": -22.94886,
+      "longitude": -43.156786,
+      "directions": "Near Alameda Tenente Antonio João, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26365",
+      "photo_urls": []
+    },
+    {
+      "id": "26376",
+      "title": "Cristovão Leite de Castro",
+      "latitude": -22.94886,
+      "longitude": -43.156786,
+      "directions": "Near the Aéreo Pão de Açúca, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26376",
+      "photo_urls": []
+    },
+    {
+      "id": "26407",
+      "title": "Praça São Sebastião",
+      "latitude": -3.1303,
+      "longitude": -60.02255,
+      "directions": "On Rua Tapajós, Manaus, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26407",
+      "photo_urls": []
+    },
+    {
+      "id": "26590",
+      "title": "Memorial JK",
+      "latitude": -15.78454,
+      "longitude": -47.9128,
+      "directions": "On the connector road, Setores Complementares, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=26590",
+      "photo_urls": []
+    },
+    {
+      "id": "31759",
+      "title": "Ordem Terceira do Carmo Church",
+      "latitude": -22.9031,
+      "longitude": -43.17544,
+      "directions": "On Av. Pres. Antonio Carlos, Rio de Janeiro, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31759",
+      "photo_urls": []
+    },
+    {
+      "id": "31815",
+      "title": "Christ the Redeemer Monument",
+      "latitude": -22.94091,
+      "longitude": -43.19855,
+      "directions": "Near Estrada de Ferro Corcovado, Rio de Janeiro, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31815",
+      "photo_urls": []
+    },
+    {
+      "id": "31877",
+      "title": "Monumento a Stefan Zweig",
+      "latitude": -13.00536,
+      "longitude": -38.53311,
+      "directions": "On Avenida Sete de Setembro, Salvador, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=31877",
+      "photo_urls": []
+    }
+  ]
+}
