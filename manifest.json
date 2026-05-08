@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-07T06:13:44.649Z",
+  "generated": "2026-05-08T06:06:35.058Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 72180,
-  "total_regions": 38,
+  "total_markers": 72291,
+  "total_regions": 39,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -196,6 +196,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 617,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "si-jewame",
+      "name": "Jewish American Society for Historic Preservation.",
+      "type": "state",
+      "country": "Sint Eustatius",
+      "file": "regions/si-jewame.json",
+      "markers": 111,
+      "size_bytes": 33871,
+      "updated": "2026-05-08",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 149,
         "removed": 0,
         "modified": 0
       }
