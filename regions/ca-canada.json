@@ -1,0 +1,56 @@
+{
+  "region_id": "ca-canada",
+  "region_name": "Canada",
+  "region_type": "country",
+  "country": "Canada",
+  "generated": "2026-05-08T06:06:31.582Z",
+  "source_timestamp": "2026-05-08T06:06:31.582Z",
+  "marker_count": 5,
+  "markers": [
+    {
+      "id": "298816",
+      "title": "Top of the World Highway",
+      "latitude": 64.08559539,
+      "longitude": -140.99974028,
+      "directions": "On Top of the World Highway, near Little Gold, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298816",
+      "photo_urls": []
+    },
+    {
+      "id": "299146",
+      "title": "The Erland Lee Home and the First Women’s Institute",
+      "latitude": 43.207025,
+      "longitude": -79.72212222,
+      "directions": "On Ridge Road, Hamilton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299146",
+      "photo_urls": []
+    },
+    {
+      "id": "299188",
+      "title": "First Women’s Institute 1897",
+      "latitude": 43.20715,
+      "longitude": -79.72194722,
+      "directions": "On Ridge Road, Hamilton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299188",
+      "photo_urls": []
+    },
+    {
+      "id": "299248",
+      "title": "Erland Lee and His Wife Janet",
+      "latitude": 43.20717222,
+      "longitude": -79.722,
+      "directions": "On Ridge Road, Hamilton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299248",
+      "photo_urls": []
+    },
+    {
+      "id": "299252",
+      "title": "Andrew Dean - Grist Mill",
+      "latitude": 43.12084061,
+      "longitude": -79.41372317,
+      "directions": "On Yonge Street, Lincoln, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299252",
+      "photo_urls": []
+    }
+  ]
+}
