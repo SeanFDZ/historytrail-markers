@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-08",
+  "run_id": 129,
+  "cycle_day": 16,
+  "regions_processed": [
+    "si-jewame"
+  ],
+  "changes": {
+    "si-jewame": {
+      "added": 149,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 7623,
+  "total_removed": 0,
+  "total_modified": 0
+}
