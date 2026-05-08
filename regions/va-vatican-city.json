@@ -1,0 +1,29 @@
+{
+  "region_id": "va-vatican-city",
+  "region_name": "Vatican City",
+  "region_type": "country",
+  "country": "Vatican City",
+  "generated": "2026-05-08T06:06:31.585Z",
+  "source_timestamp": "2026-05-08T06:06:31.585Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "265186",
+      "title": "Leoni di Nectanebo / Lions of Nectanebo",
+      "latitude": 41.90619758,
+      "longitude": 12.45464554,
+      "directions": "On Strada Senza Nome, Vatican City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=265186",
+      "photo_urls": []
+    },
+    {
+      "id": "284079",
+      "title": "Restoration of Full Communion Between the Catholic and Orthodox Churches",
+      "latitude": 41.90257657,
+      "longitude": 12.45489159,
+      "directions": "Near Piazza San Pietro, Vatican City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=284079",
+      "photo_urls": []
+    }
+  ]
+}
