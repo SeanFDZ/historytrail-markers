@@ -3,9 +3,9 @@
   "region_name": "Jewish American Society for Historic Preservation.",
   "region_type": "state",
   "country": "Sint Eustatius",
-  "generated": "2026-04-11T18:53:08.454Z",
-  "source_timestamp": "2026-04-11T18:53:08.454Z",
-  "marker_count": 109,
+  "generated": "2026-05-08T06:06:31.584Z",
+  "source_timestamp": "2026-05-08T06:06:31.584Z",
+  "marker_count": 111,
   "markers": [
     {
       "id": "13167",
@@ -21,7 +21,7 @@
       "title": "Hiram Halle (1867-1944)",
       "latitude": 41.20896944,
       "longitude": -73.57485833,
-      "directions": "On , Pound Ridge, ",
+      "directions": "On Westchester Avenue, Pound Ridge, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=134062",
       "photo_urls": []
     },
@@ -66,7 +66,7 @@
       "title": "Exodus",
       "latitude": 32.81350658,
       "longitude": 35.02245457,
-      "directions": "On , Haifa, ",
+      "directions": "On Tuvim Street, Haifa, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=134635",
       "photo_urls": []
     },
@@ -75,7 +75,7 @@
       "title": "Stephen Theodore Norman, 1918-1946. Last descendent of Theodor Herzl",
       "latitude": 31.77472256,
       "longitude": 35.17777741,
-      "directions": "On , Jerusalem, ",
+      "directions": "On Yad va-Shem Street, Jerusalem, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=134639",
       "photo_urls": []
     },
@@ -111,7 +111,7 @@
       "title": "Lt. Col. John Henry Patterson",
       "latitude": 32.35254365,
       "longitude": 34.87314529,
-      "directions": "Near , Avihayil, ",
+      "directions": "Near HaGdud Haivri Street, Avihayil, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=134674",
       "photo_urls": []
     },
@@ -260,6 +260,15 @@
       "photo_urls": []
     },
     {
+      "id": "160254",
+      "title": "Harry Errington",
+      "latitude": 51.517855,
+      "longitude": -0.134557,
+      "directions": "On Rathbone Place, City of Westminster, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=160254",
+      "photo_urls": []
+    },
+    {
       "id": "16574",
       "title": "Leo Frank Lynching",
       "latitude": 33.951191,
@@ -273,7 +282,7 @@
       "title": "Admiral Max Horton",
       "latitude": 53.22899284,
       "longitude": -4.52280522,
-      "directions": "Near , Rhosneigr, ",
+      "directions": "Near Beach Terrace, Rhosneigr, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=174575",
       "photo_urls": []
     },
@@ -950,6 +959,15 @@
       "longitude": 1.07067,
       "directions": "Near Whitstable Road, Canterbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292947",
+      "photo_urls": []
+    },
+    {
+      "id": "298989",
+      "title": "Colonel Marcus M. Spiegel",
+      "latitude": 41.95309,
+      "longitude": -87.66033,
+      "directions": "On North Clark Street, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298989",
       "photo_urls": []
     },
     {
