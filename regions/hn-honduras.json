@@ -1,0 +1,83 @@
+{
+  "region_id": "hn-honduras",
+  "region_name": "Honduras",
+  "region_type": "country",
+  "country": "Honduras",
+  "generated": "2026-05-08T06:06:31.584Z",
+  "source_timestamp": "2026-05-08T06:06:31.584Z",
+  "marker_count": 8,
+  "markers": [
+    {
+      "id": "107222",
+      "title": "Francisco Morazán",
+      "latitude": 14.83882373,
+      "longitude": -89.15581874,
+      "directions": "On Avenida Centroamericano, Copán Ruinas, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=107222",
+      "photo_urls": []
+    },
+    {
+      "id": "240335",
+      "title": "Herbs of the Bay Island of Roatan",
+      "latitude": 16.35207635,
+      "longitude": -86.50798311,
+      "directions": "On Hottest Sparrow Highway, near Corozal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=240335",
+      "photo_urls": []
+    },
+    {
+      "id": "241087",
+      "title": "Dr. Wilson Popenoe",
+      "latitude": 14.008948,
+      "longitude": -87.00875,
+      "directions": "Near National Route CA6, El Zamorano, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=241087",
+      "photo_urls": []
+    },
+    {
+      "id": "268574",
+      "title": "Historical Photos of Coxen Hole Roatan",
+      "latitude": 16.31390892,
+      "longitude": -86.53831857,
+      "directions": "On Main Street, Coxen Hole, Roatán, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=268574",
+      "photo_urls": []
+    },
+    {
+      "id": "70047",
+      "title": "Monument to the Honduran Soldier During the \"100 Hours War\"",
+      "latitude": 13.591097,
+      "longitude": -87.721592,
+      "directions": "On Pan American Highway (Route CA-1) , near La Guacimada, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=70047",
+      "photo_urls": []
+    },
+    {
+      "id": "78959",
+      "title": "Grotto of La Esperanza",
+      "latitude": 14.308548,
+      "longitude": -88.181217,
+      "directions": "On West end of Avenue Morazan, La Esperanza, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=78959",
+      "photo_urls": []
+    },
+    {
+      "id": "80256",
+      "title": "Doctor Juan Lindo",
+      "latitude": 14.588815,
+      "longitude": -88.58443,
+      "directions": "Near Avenida Eleuterio Galeano Trejo, Gracias, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=80256",
+      "photo_urls": []
+    },
+    {
+      "id": "94037",
+      "title": "Mangroves",
+      "latitude": 16.326951,
+      "longitude": -86.497857,
+      "directions": "Near Mahogany Bay Road, Roatán, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94037",
+      "photo_urls": []
+    }
+  ]
+}
