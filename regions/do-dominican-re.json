@@ -1,0 +1,1244 @@
+{
+  "region_id": "do-dominican-re",
+  "region_name": "Dominican Republic",
+  "region_type": "country",
+  "country": "Dominican Republic",
+  "generated": "2026-05-08T06:06:31.582Z",
+  "source_timestamp": "2026-05-08T06:06:31.582Z",
+  "marker_count": 137,
+  "markers": [
+    {
+      "id": "104907",
+      "title": "Francisco del Rosario Sanchez",
+      "latitude": 18.80644444,
+      "longitude": -71.22681389,
+      "directions": "On Avenida Independencia, San Juan de la Maguana, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104907",
+      "photo_urls": []
+    },
+    {
+      "id": "104913",
+      "title": "Orlando Martínez",
+      "latitude": 18.80559096,
+      "longitude": -71.22502238,
+      "directions": "On Calle Gastón Fernando Deligne, San Juan de la Maguana, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104913",
+      "photo_urls": []
+    },
+    {
+      "id": "104933",
+      "title": "The St. Thomas Aquinas Academy",
+      "latitude": 18.47084254,
+      "longitude": -69.88694608,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104933",
+      "photo_urls": []
+    },
+    {
+      "id": "104937",
+      "title": "The Church and Convent of Regina Angelorum",
+      "latitude": 18.47078199,
+      "longitude": -69.88719821,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104937",
+      "photo_urls": []
+    },
+    {
+      "id": "104959",
+      "title": "The Founding of the <i>Listín Diario</i>",
+      "latitude": 18.47306906,
+      "longitude": -69.88342434,
+      "directions": "On Calle Isabel la Católica, Santo Domingo, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104959",
+      "photo_urls": []
+    },
+    {
+      "id": "108758",
+      "title": "José Francisco Peña Gómez International Airport",
+      "latitude": 18.43038303,
+      "longitude": -69.6766609,
+      "directions": "On Ruta 66, Boca Chica, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=108758",
+      "photo_urls": []
+    },
+    {
+      "id": "114777",
+      "title": "The Battle of Beller",
+      "latitude": 19.5491469,
+      "longitude": -71.70595644,
+      "directions": "On Calle Beller, Dajabón, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114777",
+      "photo_urls": []
+    },
+    {
+      "id": "114780",
+      "title": "The Haitian Massacre of 1937",
+      "latitude": 19.54776836,
+      "longitude": -71.70849801,
+      "directions": "On Avenida Duarte, Dajabón, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114780",
+      "photo_urls": []
+    },
+    {
+      "id": "114781",
+      "title": "Juan Pablo Duarte y Diez",
+      "latitude": 19.54821396,
+      "longitude": -71.70858786,
+      "directions": "On Avenida Duarte, Dajabón, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114781",
+      "photo_urls": []
+    },
+    {
+      "id": "114822",
+      "title": "Simón Bolivar",
+      "latitude": 18.46703299,
+      "longitude": -69.91057908,
+      "directions": "On Avenida Simón Bolivar, Ensanche Independencia, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114822",
+      "photo_urls": []
+    },
+    {
+      "id": "114835",
+      "title": "The Chapel of the Hospital of Saint Lazarus",
+      "latitude": 18.47409464,
+      "longitude": -69.89021162,
+      "directions": "On Calle Santome, San Lázaro, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114835",
+      "photo_urls": []
+    },
+    {
+      "id": "114837",
+      "title": "The Church of Saint Michael",
+      "latitude": 18.475515,
+      "longitude": -69.8884369,
+      "directions": "On Calle José Reyes, San Miguel, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114837",
+      "photo_urls": []
+    },
+    {
+      "id": "114870",
+      "title": "Dominican Resistance to the US Invasion of 1965",
+      "latitude": 18.47617185,
+      "longitude": -69.88673344,
+      "directions": "On Calle Duarte, San Antón, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114870",
+      "photo_urls": []
+    },
+    {
+      "id": "114890",
+      "title": "Monument of the San Francisco Ruins",
+      "latitude": 18.47676052,
+      "longitude": -69.8855216,
+      "directions": "On Calle Emiliano Tejera, San Antón, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114890",
+      "photo_urls": []
+    },
+    {
+      "id": "114893",
+      "title": "1505 Colonial House",
+      "latitude": 18.47696956,
+      "longitude": -69.88366935,
+      "directions": "Near Calle Emiliano Tejera, Ciudad Colonial, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114893",
+      "photo_urls": []
+    },
+    {
+      "id": "114898",
+      "title": "Nicolás de Ovando",
+      "latitude": 18.47671515,
+      "longitude": -69.8833439,
+      "directions": "Near Calle Emiliano Tejera, Ciudad Colonial, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114898",
+      "photo_urls": []
+    },
+    {
+      "id": "114900",
+      "title": "The Hermitage of Saint Anton",
+      "latitude": 18.47806617,
+      "longitude": -69.88608709,
+      "directions": "On Calle General Cabral, San Antón, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114900",
+      "photo_urls": []
+    },
+    {
+      "id": "114943",
+      "title": "House of the Duarte y Díez Family",
+      "latitude": 18.4776468,
+      "longitude": -69.88422735,
+      "directions": "On Calle Isabel la Católica, La Atarazana, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114943",
+      "photo_urls": []
+    },
+    {
+      "id": "114945",
+      "title": "Admiral Juan Alejandro Acosta",
+      "latitude": 18.47882435,
+      "longitude": -69.88296749,
+      "directions": "On Avenida Francisco Alberto Caamaño Deñó, La Atarazana, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114945",
+      "photo_urls": []
+    },
+    {
+      "id": "114947",
+      "title": "The Church and Convent of Santa Clara",
+      "latitude": 18.47234496,
+      "longitude": -69.88306563,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=114947",
+      "photo_urls": []
+    },
+    {
+      "id": "115518",
+      "title": "Duarte's Return from Exile",
+      "latitude": 18.47736199,
+      "longitude": -69.88238138,
+      "directions": "On Avenida Francisco Alberto Caamaño Deñó, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115518",
+      "photo_urls": []
+    },
+    {
+      "id": "115545",
+      "title": "The Atarazanas School",
+      "latitude": 18.47802326,
+      "longitude": -69.88302365,
+      "directions": "On Calle La Atarazana, La Atarazana, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115545",
+      "photo_urls": []
+    },
+    {
+      "id": "115575",
+      "title": "Salomé Ureña de Henríquez",
+      "latitude": 18.47772604,
+      "longitude": -69.88293502,
+      "directions": "On Calle Las Atarazanas, Ciudad Colonial, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115575",
+      "photo_urls": []
+    },
+    {
+      "id": "115577",
+      "title": "Luisa Ozema Pellerano de Henríquez",
+      "latitude": 18.47222222,
+      "longitude": -69.88666667,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115577",
+      "photo_urls": []
+    },
+    {
+      "id": "115596",
+      "title": "María Toledo Square",
+      "latitude": 18.47492283,
+      "longitude": -69.88289938,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115596",
+      "photo_urls": []
+    },
+    {
+      "id": "115641",
+      "title": "The Academy of Sciences Building of the Dominican Republic",
+      "latitude": 18.47390398,
+      "longitude": -69.88274415,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115641",
+      "photo_urls": []
+    },
+    {
+      "id": "115649",
+      "title": "House of the Lions",
+      "latitude": 18.47376598,
+      "longitude": -69.8827152,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115649",
+      "photo_urls": []
+    },
+    {
+      "id": "115651",
+      "title": "The Bastidas House",
+      "latitude": 18.47355479,
+      "longitude": -69.88258072,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115651",
+      "photo_urls": []
+    },
+    {
+      "id": "115673",
+      "title": "History of the Dominican Society of the Bibliophiles’ House",
+      "latitude": 18.47360268,
+      "longitude": -69.88269642,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115673",
+      "photo_urls": []
+    },
+    {
+      "id": "115678",
+      "title": "Calle de las Damas",
+      "latitude": 18.4732435,
+      "longitude": -69.88262249,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115678",
+      "photo_urls": []
+    },
+    {
+      "id": "115687",
+      "title": "Diego Caballero House",
+      "latitude": 18.47313363,
+      "longitude": -69.88283534,
+      "directions": "On Calle Alfau, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115687",
+      "photo_urls": []
+    },
+    {
+      "id": "115690",
+      "title": "The Fortress of Santo Domingo",
+      "latitude": 18.47323438,
+      "longitude": -69.88252861,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115690",
+      "photo_urls": []
+    },
+    {
+      "id": "115694",
+      "title": "Gonzálo Fernández de Oviedo",
+      "latitude": 18.47332903,
+      "longitude": -69.88213542,
+      "directions": "Near Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115694",
+      "photo_urls": []
+    },
+    {
+      "id": "115708",
+      "title": "Arturo Pellerano Castro",
+      "latitude": 18.47131586,
+      "longitude": -69.88269642,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115708",
+      "photo_urls": []
+    },
+    {
+      "id": "115738",
+      "title": "Julia de Burgos",
+      "latitude": 18.47123465,
+      "longitude": -69.8827797,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115738",
+      "photo_urls": []
+    },
+    {
+      "id": "115740",
+      "title": "Cristóbal de Llerena",
+      "latitude": 18.47119826,
+      "longitude": -69.88421321,
+      "directions": "On Calle Arzobispo Meriño, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115740",
+      "photo_urls": []
+    },
+    {
+      "id": "115742",
+      "title": "The Old Archbishop's Palace",
+      "latitude": 18.47144406,
+      "longitude": -69.88424774,
+      "directions": "On Calle Arzobispo Meriño, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115742",
+      "photo_urls": []
+    },
+    {
+      "id": "115777",
+      "title": "House and Museum El Beaterio",
+      "latitude": 18.47179053,
+      "longitude": -69.88577611,
+      "directions": "On Calle Duarte, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115777",
+      "photo_urls": []
+    },
+    {
+      "id": "115791",
+      "title": "Chapel of the San Andrés Hospital",
+      "latitude": 18.47021224,
+      "longitude": -69.8886172,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115791",
+      "photo_urls": []
+    },
+    {
+      "id": "115797",
+      "title": "Francisco X. Billini",
+      "latitude": 18.47216281,
+      "longitude": -69.88416433,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115797",
+      "photo_urls": []
+    },
+    {
+      "id": "115815",
+      "title": "The Church of Our Lady of Carmen",
+      "latitude": 18.4714331,
+      "longitude": -69.88883569,
+      "directions": "On Calle Arzobispo Nouel, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115815",
+      "photo_urls": []
+    },
+    {
+      "id": "115818",
+      "title": "La Trinitaria Secret Society",
+      "latitude": 18.47160482,
+      "longitude": -69.88890945,
+      "directions": "On Calle Arzobispo Nouel, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115818",
+      "photo_urls": []
+    },
+    {
+      "id": "115819",
+      "title": "Francisco del Rosario Sánchez",
+      "latitude": 18.47144884,
+      "longitude": -69.89139369,
+      "directions": "On Calle Palo Hincado, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=115819",
+      "photo_urls": []
+    },
+    {
+      "id": "118055",
+      "title": "Sebastián Lemba",
+      "latitude": 18.47260838,
+      "longitude": -69.90804521,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118055",
+      "photo_urls": []
+    },
+    {
+      "id": "118084",
+      "title": "Gabriel García Márquez",
+      "latitude": 18.4708331,
+      "longitude": -69.91177702,
+      "directions": "On Avenida Máximo Gómez, Gazcue, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118084",
+      "photo_urls": []
+    },
+    {
+      "id": "118085",
+      "title": "José de San Martín",
+      "latitude": 18.4762635,
+      "longitude": -69.91315448,
+      "directions": "On Expreso 27 de Febrero, Ensanche Miraflores, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118085",
+      "photo_urls": []
+    },
+    {
+      "id": "118114",
+      "title": "Fabio Fiallo",
+      "latitude": 18.47322427,
+      "longitude": -69.91160559,
+      "directions": "On Avenida Francia, Ensanche Miraflores, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118114",
+      "photo_urls": []
+    },
+    {
+      "id": "118116",
+      "title": "Myrna Guerrero",
+      "latitude": 18.47221909,
+      "longitude": -69.90954138,
+      "directions": "On Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118116",
+      "photo_urls": []
+    },
+    {
+      "id": "118118",
+      "title": "Hugo Estrella Guzmán",
+      "latitude": 18.47230481,
+      "longitude": -69.90932192,
+      "directions": "On Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118118",
+      "photo_urls": []
+    },
+    {
+      "id": "118119",
+      "title": "Black Jack",
+      "latitude": 18.47253193,
+      "longitude": -69.90832284,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118119",
+      "photo_urls": []
+    },
+    {
+      "id": "118120",
+      "title": "Friar Bartolomé de las Casas",
+      "latitude": 18.47258893,
+      "longitude": -69.90812836,
+      "directions": "On Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118120",
+      "photo_urls": []
+    },
+    {
+      "id": "118176",
+      "title": "Juan Pablo Duarte",
+      "latitude": 18.47275684,
+      "longitude": -69.90818201,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118176",
+      "photo_urls": []
+    },
+    {
+      "id": "118177",
+      "title": "Enriquillo",
+      "latitude": 18.47257112,
+      "longitude": -69.90823029,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118177",
+      "photo_urls": []
+    },
+    {
+      "id": "118179",
+      "title": "Carlos Andújar",
+      "latitude": 18.4727572,
+      "longitude": -69.9078023,
+      "directions": "Near Avenida Pedro Henríquez de Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118179",
+      "photo_urls": []
+    },
+    {
+      "id": "118350",
+      "title": "Rafael González Tirado",
+      "latitude": 18.47255094,
+      "longitude": -69.90756007,
+      "directions": "Near Avenida Pedro Henríquez de Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118350",
+      "photo_urls": []
+    },
+    {
+      "id": "118356",
+      "title": "Pedro Conde Sturla",
+      "latitude": 18.47131683,
+      "longitude": -69.90773763,
+      "directions": "Near Calle Félix María del Monte, Gazcue, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118356",
+      "photo_urls": []
+    },
+    {
+      "id": "118359",
+      "title": "Juan Pablo Duarte",
+      "latitude": 18.47083216,
+      "longitude": -69.9089099,
+      "directions": "Near Calle César Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118359",
+      "photo_urls": []
+    },
+    {
+      "id": "118365",
+      "title": "Fabio Fiallo",
+      "latitude": 18.47067491,
+      "longitude": -69.90936129,
+      "directions": "Near Calle Cesár Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118365",
+      "photo_urls": []
+    },
+    {
+      "id": "118367",
+      "title": "Bartolo García Molina",
+      "latitude": 18.47096003,
+      "longitude": -69.90941318,
+      "directions": "Near Calle César Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118367",
+      "photo_urls": []
+    },
+    {
+      "id": "118377",
+      "title": "José Alejandro Peña",
+      "latitude": 18.47042387,
+      "longitude": -69.91001776,
+      "directions": "Near Calle César Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118377",
+      "photo_urls": []
+    },
+    {
+      "id": "118381",
+      "title": "Ylonka Nacidit-Perdomo",
+      "latitude": 18.47035542,
+      "longitude": -69.9083605,
+      "directions": "Near Calle César Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118381",
+      "photo_urls": []
+    },
+    {
+      "id": "118417",
+      "title": "The Dominican Society of Bibliophiles, Inc.",
+      "latitude": 18.47095442,
+      "longitude": -69.9085662,
+      "directions": "Near Calle César Nicolás Penson, Gazcue, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118417",
+      "photo_urls": []
+    },
+    {
+      "id": "118420",
+      "title": "Sabrina Román",
+      "latitude": 18.47197985,
+      "longitude": -69.91049566,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118420",
+      "photo_urls": []
+    },
+    {
+      "id": "118421",
+      "title": "Manuel de Jesús Galván",
+      "latitude": 18.47201583,
+      "longitude": -69.91082723,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118421",
+      "photo_urls": []
+    },
+    {
+      "id": "118422",
+      "title": "Manuel Maza, SJ",
+      "latitude": 18.47129029,
+      "longitude": -69.91045407,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118422",
+      "photo_urls": []
+    },
+    {
+      "id": "118423",
+      "title": "Pedro Henríquez Ureña",
+      "latitude": 18.47189494,
+      "longitude": -69.91133401,
+      "directions": "Near Avenida Pedro Henríquez Ureña, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=118423",
+      "photo_urls": []
+    },
+    {
+      "id": "137443",
+      "title": "Enriquillo",
+      "latitude": 18.37151496,
+      "longitude": -71.45446056,
+      "directions": "On Route 46, near La Colonia, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137443",
+      "photo_urls": []
+    },
+    {
+      "id": "137445",
+      "title": "The Sugarcane Monument",
+      "latitude": 18.47928885,
+      "longitude": -69.87816806,
+      "directions": "On Avenida España, Santo Domingo Este, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=137445",
+      "photo_urls": []
+    },
+    {
+      "id": "188758",
+      "title": "Friar Antonio de Montesino",
+      "latitude": 18.46875387,
+      "longitude": -69.88486737,
+      "directions": "Near Presidente Billini, Ciudad Colonial, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188758",
+      "photo_urls": []
+    },
+    {
+      "id": "188761",
+      "title": "Pantheon of the Nation",
+      "latitude": 18.47488603,
+      "longitude": -69.88297742,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188761",
+      "photo_urls": []
+    },
+    {
+      "id": "188762",
+      "title": "Las Damas Street",
+      "latitude": 18.4741338,
+      "longitude": -69.8827444,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188762",
+      "photo_urls": []
+    },
+    {
+      "id": "188764",
+      "title": "Church of Las Mercedes",
+      "latitude": 18.47380305,
+      "longitude": -69.88841103,
+      "directions": "On Calle Mercedes, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188764",
+      "photo_urls": []
+    },
+    {
+      "id": "188844",
+      "title": "Jack Veneno",
+      "latitude": 18.4650726,
+      "longitude": -69.8937082,
+      "directions": "On Presidente Billini, Ciudad Nueva, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188844",
+      "photo_urls": []
+    },
+    {
+      "id": "188909",
+      "title": "Eugenio Maria de Hostos",
+      "latitude": 18.46447085,
+      "longitude": -69.89968298,
+      "directions": "On Avenida Independencia, Gazcue, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=188909",
+      "photo_urls": []
+    },
+    {
+      "id": "217256",
+      "title": "Club Nosotras",
+      "latitude": 18.47388352,
+      "longitude": -69.88348382,
+      "directions": "On Calle El Conde, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217256",
+      "photo_urls": []
+    },
+    {
+      "id": "217328",
+      "title": "16th Century House",
+      "latitude": 18.47627688,
+      "longitude": -69.88406598,
+      "directions": "On Calle Isabel La Católica, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217328",
+      "photo_urls": []
+    },
+    {
+      "id": "217331",
+      "title": "Plaza de los Contadores",
+      "latitude": 18.47651934,
+      "longitude": -69.88397046,
+      "directions": "On Calle Isabel la Católica, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217331",
+      "photo_urls": []
+    },
+    {
+      "id": "217333",
+      "title": "Casa del Cordón",
+      "latitude": 18.47658088,
+      "longitude": -69.8839882,
+      "directions": "On Calle Isabel la Católica, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217333",
+      "photo_urls": []
+    },
+    {
+      "id": "217434",
+      "title": "Casa del Cordón",
+      "latitude": 18.47654754,
+      "longitude": -69.88410244,
+      "directions": "On Calle Isabel la Católica, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217434",
+      "photo_urls": []
+    },
+    {
+      "id": "217435",
+      "title": "House of Salomé Ureña",
+      "latitude": 18.4776642,
+      "longitude": -69.8842597,
+      "directions": "On Calle Isabel la Católica, La Atarazana, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217435",
+      "photo_urls": []
+    },
+    {
+      "id": "217436",
+      "title": "House of Marcelo de Villalobos",
+      "latitude": 18.47649088,
+      "longitude": -69.88486197,
+      "directions": "On Calle Arzobispo Meriño, Ciudad Colonial, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217436",
+      "photo_urls": []
+    },
+    {
+      "id": "217439",
+      "title": "The House of the Five Medallions",
+      "latitude": 18.47629403,
+      "longitude": -69.88493914,
+      "directions": "On Calle Arzobispo Meriño, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217439",
+      "photo_urls": []
+    },
+    {
+      "id": "217489",
+      "title": "First Neighbors of Santo Domingo",
+      "latitude": 18.47343365,
+      "longitude": -69.88457615,
+      "directions": "On Calle Isabel la Católica, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217489",
+      "photo_urls": []
+    },
+    {
+      "id": "217491",
+      "title": "José Martí in Santo Domingo",
+      "latitude": 18.4751853,
+      "longitude": -69.88609925,
+      "directions": "On Calle Mercedes, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217491",
+      "photo_urls": []
+    },
+    {
+      "id": "217493",
+      "title": "Santa Maria, Virgin of Altagracia",
+      "latitude": 18.47511878,
+      "longitude": -69.88561733,
+      "directions": "On Calle Hostos, Ciudad Colonial, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217493",
+      "photo_urls": []
+    },
+    {
+      "id": "217496",
+      "title": "Ruins of the Temple and Hospital of San Nicolas de Bari",
+      "latitude": 18.47495569,
+      "longitude": -69.88551612,
+      "directions": "On Calle Hostos, Ciudad Colonial, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217496",
+      "photo_urls": []
+    },
+    {
+      "id": "217520",
+      "title": "Hospital San Nicolas de Bari",
+      "latitude": 18.47479923,
+      "longitude": -69.88546918,
+      "directions": "On Calle Hostos, Ciudad Colonial, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217520",
+      "photo_urls": []
+    },
+    {
+      "id": "217522",
+      "title": "General Pedro Santana",
+      "latitude": 18.4744619,
+      "longitude": -69.88558348,
+      "directions": "On Calle Hostos, San Antón, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217522",
+      "photo_urls": []
+    },
+    {
+      "id": "217523",
+      "title": "Manuel Aurelio Tavarez Justo",
+      "latitude": 18.47344892,
+      "longitude": -69.88528077,
+      "directions": "On Calle Hostos, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217523",
+      "photo_urls": []
+    },
+    {
+      "id": "217524",
+      "title": "José Gabriel García",
+      "latitude": 18.4724125,
+      "longitude": -69.88678886,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217524",
+      "photo_urls": []
+    },
+    {
+      "id": "217576",
+      "title": "Emiliano Tejera",
+      "latitude": 18.47253818,
+      "longitude": -69.88681996,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217576",
+      "photo_urls": []
+    },
+    {
+      "id": "217579",
+      "title": "Padre Billini",
+      "latitude": 18.47260502,
+      "longitude": -69.8867304,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217579",
+      "photo_urls": []
+    },
+    {
+      "id": "217584",
+      "title": "Salomé Ureña de Henríquez",
+      "latitude": 18.47347028,
+      "longitude": -69.88705785,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217584",
+      "photo_urls": []
+    },
+    {
+      "id": "217586",
+      "title": "Gregorio Garcia Castro",
+      "latitude": 18.47423106,
+      "longitude": -69.88774511,
+      "directions": "On Calle Mercedes, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217586",
+      "photo_urls": []
+    },
+    {
+      "id": "217597",
+      "title": "Emilio Rodriguez Demorizi",
+      "latitude": 18.47373339,
+      "longitude": -69.88887827,
+      "directions": "On Calle Mercedes, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217597",
+      "photo_urls": []
+    },
+    {
+      "id": "217598",
+      "title": "Federico Henriquez y Carvajal",
+      "latitude": 18.47322477,
+      "longitude": -69.88905314,
+      "directions": "On Calle Sánchez, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217598",
+      "photo_urls": []
+    },
+    {
+      "id": "217602",
+      "title": "Ramón Matías Mella",
+      "latitude": 18.47205909,
+      "longitude": -69.88872821,
+      "directions": "On Calle Sánchez, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217602",
+      "photo_urls": []
+    },
+    {
+      "id": "217605",
+      "title": "Image of Our Lady of Altagracia",
+      "latitude": 18.47181189,
+      "longitude": -69.89165035,
+      "directions": "On Calle Palo Hincado, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=217605",
+      "photo_urls": []
+    },
+    {
+      "id": "266331",
+      "title": "Museo del Ambar / Amber Museum",
+      "latitude": 19.79655334,
+      "longitude": -70.69220376,
+      "directions": "On Calle Duarte, Puerto Plata, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266331",
+      "photo_urls": []
+    },
+    {
+      "id": "266335",
+      "title": "Hombres de la Historia / Men of History",
+      "latitude": 19.79781331,
+      "longitude": -70.69269272,
+      "directions": "On Calle Beller, Puerto Plata, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266335",
+      "photo_urls": []
+    },
+    {
+      "id": "266337",
+      "title": "Club Fe en el Porvenir / Club Faith in the Future",
+      "latitude": 19.7973137,
+      "longitude": -70.69306254,
+      "directions": "On Calle Separación, Puerto Plata, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266337",
+      "photo_urls": []
+    },
+    {
+      "id": "266343",
+      "title": "General Juan Pablo Duarte y Díez",
+      "latitude": 19.79751993,
+      "longitude": -70.69312785,
+      "directions": "On Calle Separación, Puerto Plata, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266343",
+      "photo_urls": []
+    },
+    {
+      "id": "266346",
+      "title": "Catedral San Felipe Apóstol / Cathedral of Saint Philip the Apostle",
+      "latitude": 19.7973605,
+      "longitude": -70.69374326,
+      "directions": "On Calle José del Carmen Ariza, Puerto Plata, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266346",
+      "photo_urls": []
+    },
+    {
+      "id": "266354",
+      "title": "Dominican Republic",
+      "latitude": 19.79803891,
+      "longitude": -70.69457238,
+      "directions": "On Calle San Felipe, Puerto Plata, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266354",
+      "photo_urls": []
+    },
+    {
+      "id": "266364",
+      "title": "Doña Blanca",
+      "latitude": 19.79837869,
+      "longitude": -70.69376931,
+      "directions": "On Calle Beller, Puerto Plata, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266364",
+      "photo_urls": []
+    },
+    {
+      "id": "266407",
+      "title": "Hombres de la Historia / Men of History",
+      "latitude": 19.79814837,
+      "longitude": -70.69247238,
+      "directions": "On Calle Separación, Puerto Plata, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266407",
+      "photo_urls": []
+    },
+    {
+      "id": "266410",
+      "title": "General Gregorio Luperón",
+      "latitude": 19.79766459,
+      "longitude": -70.69302409,
+      "directions": "On Calle Separación, Puerto Plata, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=266410",
+      "photo_urls": []
+    },
+    {
+      "id": "295647",
+      "title": "Robert Hermann Schomburgk",
+      "latitude": 19.7992437,
+      "longitude": -70.6980395,
+      "directions": "Near Antigua Via Ferrea, Puerto Plata, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295647",
+      "photo_urls": []
+    },
+    {
+      "id": "295867",
+      "title": "Bienvenidos al Museo Fortaleza San Felipe / Welcome to the San Felipe Fortress Museum!",
+      "latitude": 19.80400204,
+      "longitude": -70.69572878,
+      "directions": "Near Desvio a la Puntilla, Porta Plata, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295867",
+      "photo_urls": []
+    },
+    {
+      "id": "295900",
+      "title": "General Gregorio Luperon",
+      "latitude": 19.80445677,
+      "longitude": -70.69524178,
+      "directions": "Near Desvio a la Puntilla, Porta Plata, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295900",
+      "photo_urls": []
+    },
+    {
+      "id": "295919",
+      "title": "Birgenair Flight 301 Monument",
+      "latitude": 19.80495863,
+      "longitude": -70.69570128,
+      "directions": "Near Desvio a la Puntilla, Porta Plata, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295919",
+      "photo_urls": []
+    },
+    {
+      "id": "87597",
+      "title": "Plaza Patriótica a los Caídos de Abril",
+      "latitude": 18.47068333,
+      "longitude": -69.89266944,
+      "directions": "On Calle Mariano Cesteros, Gazcue, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=87597",
+      "photo_urls": []
+    },
+    {
+      "id": "92253",
+      "title": "Antonio Maceo",
+      "latitude": 18.47396389,
+      "longitude": -69.88349167,
+      "directions": "On Calle Isabel la Catolica, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92253",
+      "photo_urls": []
+    },
+    {
+      "id": "92496",
+      "title": "Juan Bosch",
+      "latitude": 18.46497778,
+      "longitude": -69.89915556,
+      "directions": "On Avenida Independencia, La Primavera, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92496",
+      "photo_urls": []
+    },
+    {
+      "id": "92516",
+      "title": "The Royal and Pontifical University Santo Tomás de Aquino",
+      "latitude": 18.47129444,
+      "longitude": -69.88542222,
+      "directions": "Near Calle Padre Billini, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92516",
+      "photo_urls": []
+    },
+    {
+      "id": "92530",
+      "title": "Spanish Refugees of 1939",
+      "latitude": 18.473069,
+      "longitude": -69.8865,
+      "directions": "On Calle El Conde, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92530",
+      "photo_urls": []
+    },
+    {
+      "id": "92557",
+      "title": "Francisco del Rosario Sánchez",
+      "latitude": 18.47044722,
+      "longitude": -69.88620833,
+      "directions": "On Calle 19 de Marzo, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92557",
+      "photo_urls": []
+    },
+    {
+      "id": "92558",
+      "title": "The French Embassy",
+      "latitude": 18.47434928,
+      "longitude": -69.88280419,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92558",
+      "photo_urls": []
+    },
+    {
+      "id": "92597",
+      "title": "Borgellá's Palace",
+      "latitude": 18.473646,
+      "longitude": -69.88352,
+      "directions": "On Calle Isabel la Católica, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92597",
+      "photo_urls": []
+    },
+    {
+      "id": "92630",
+      "title": "The Plaza of the Priests",
+      "latitude": 18.472671,
+      "longitude": -69.88377,
+      "directions": "Near Calle Isabel la Católica, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92630",
+      "photo_urls": []
+    },
+    {
+      "id": "92689",
+      "title": "Japanese Immigration to the Dominican Republic",
+      "latitude": 18.46953611,
+      "longitude": -69.88498056,
+      "directions": "Near Paseo Padre Billini, Ciudad Colonial, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92689",
+      "photo_urls": []
+    },
+    {
+      "id": "92692",
+      "title": "First City Hall in the Americas",
+      "latitude": 18.47329,
+      "longitude": -69.88452,
+      "directions": "On Calle Arzobispo Merino, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92692",
+      "photo_urls": []
+    },
+    {
+      "id": "92694",
+      "title": "President Coronel Francisco Alberto Caamaño",
+      "latitude": 18.47157222,
+      "longitude": -69.89119722,
+      "directions": "On Calle Palo Hincado, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92694",
+      "photo_urls": []
+    },
+    {
+      "id": "92695",
+      "title": "First Municipal Council in the Americas",
+      "latitude": 18.4736,
+      "longitude": -69.88459,
+      "directions": "On Calle Arzobispo Meriño, Ciudad Colonial, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92695",
+      "photo_urls": []
+    },
+    {
+      "id": "92704",
+      "title": "Cathedral of Santo Domingo, First of the Americas",
+      "latitude": 18.47271667,
+      "longitude": -69.88434722,
+      "directions": "Near Calle Arzobispo Meriño, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92704",
+      "photo_urls": []
+    },
+    {
+      "id": "92722",
+      "title": "The House of the Rectory",
+      "latitude": 18.47418889,
+      "longitude": -69.88253056,
+      "directions": "On Calle El Conde, Ciudad Colonial, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92722",
+      "photo_urls": []
+    },
+    {
+      "id": "92723",
+      "title": "Christopher Columbus' Last Residence",
+      "latitude": 18.474495,
+      "longitude": -69.88284,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92723",
+      "photo_urls": []
+    },
+    {
+      "id": "92724",
+      "title": "The Dávila House",
+      "latitude": 18.475228,
+      "longitude": -69.8829,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92724",
+      "photo_urls": []
+    },
+    {
+      "id": "92725",
+      "title": "Chapel of Our Lady of the Remedies",
+      "latitude": 18.47554,
+      "longitude": -69.88292,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92725",
+      "photo_urls": []
+    },
+    {
+      "id": "92758",
+      "title": "House of the Jesuits",
+      "latitude": 18.475464,
+      "longitude": -69.88309,
+      "directions": "On Calle Mercedes, Ciudad Colonial, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92758",
+      "photo_urls": []
+    },
+    {
+      "id": "92803",
+      "title": "Palace of the Viceroy Diego Colón",
+      "latitude": 18.47742222,
+      "longitude": -69.88272778,
+      "directions": "Near Calle La Atarazana, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92803",
+      "photo_urls": []
+    },
+    {
+      "id": "92807",
+      "title": "The Pantheon of the Nation",
+      "latitude": 18.47502778,
+      "longitude": -69.88291111,
+      "directions": "On Calle Las Damas, Ciudad Colonial, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92807",
+      "photo_urls": []
+    },
+    {
+      "id": "92815",
+      "title": "The Residence of Treasurer Cristóbal de Santa Clara",
+      "latitude": 18.475735,
+      "longitude": -69.883,
+      "directions": "Near Calle Las Damas, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92815",
+      "photo_urls": []
+    },
+    {
+      "id": "92842",
+      "title": "Palace of the Governors",
+      "latitude": 18.476077,
+      "longitude": -69.88301,
+      "directions": "Near Calle Las Damas, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92842",
+      "photo_urls": []
+    },
+    {
+      "id": "92856",
+      "title": "The Colonial City of Santo Domingo",
+      "latitude": 18.4764,
+      "longitude": -69.88304167,
+      "directions": "Near Calle Las Damas, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92856",
+      "photo_urls": []
+    },
+    {
+      "id": "92898",
+      "title": "Juan Pablo Duarte",
+      "latitude": 18.47165556,
+      "longitude": -69.88539167,
+      "directions": "On Calle Padre Billini, Ciudad Colonial, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=92898",
+      "photo_urls": []
+    },
+    {
+      "id": "93466",
+      "title": "Pope John Paul II's 1979 Visit to Santo Domingo",
+      "latitude": 18.473078,
+      "longitude": -69.88433,
+      "directions": "Near Calle Arzobispo Merino, Ciudad Colonial, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=93466",
+      "photo_urls": []
+    }
+  ]
+}
