@@ -1,0 +1,128 @@
+{
+  "region_id": "ps-palestinian-",
+  "region_name": "Palestinian Territories",
+  "region_type": "country",
+  "country": "Palestinian Territories",
+  "generated": "2026-05-08T06:06:31.584Z",
+  "source_timestamp": "2026-05-08T06:06:31.584Z",
+  "marker_count": 13,
+  "markers": [
+    {
+      "id": "129434",
+      "title": "Paran Monastery",
+      "latitude": 31.832154,
+      "longitude": 35.304277,
+      "directions": "Near 4371, near Almon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=129434",
+      "photo_urls": []
+    },
+    {
+      "id": "132188",
+      "title": "Ritual Bath",
+      "latitude": 31.741547,
+      "longitude": 35.459267,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132188",
+      "photo_urls": []
+    },
+    {
+      "id": "132208",
+      "title": "The Bursar of the Congregation",
+      "latitude": 31.741272,
+      "longitude": 35.459216,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132208",
+      "photo_urls": []
+    },
+    {
+      "id": "132231",
+      "title": "The Refectory",
+      "latitude": 31.741235,
+      "longitude": 35.459138,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132231",
+      "photo_urls": []
+    },
+    {
+      "id": "132403",
+      "title": "Kiln",
+      "latitude": 31.741256,
+      "longitude": 35.459172,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132403",
+      "photo_urls": []
+    },
+    {
+      "id": "132410",
+      "title": "Pottery Storeroom",
+      "latitude": 31.741229,
+      "longitude": 35.459139,
+      "directions": "Near National Route 90, Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132410",
+      "photo_urls": []
+    },
+    {
+      "id": "132414",
+      "title": "Kitchen",
+      "latitude": 31.741069,
+      "longitude": 35.459309,
+      "directions": "Near National Route 90, Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132414",
+      "photo_urls": []
+    },
+    {
+      "id": "132444",
+      "title": "Work Area",
+      "latitude": 31.740962,
+      "longitude": 35.459288,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132444",
+      "photo_urls": []
+    },
+    {
+      "id": "132458",
+      "title": "The Scrolls Cave",
+      "latitude": 31.740464,
+      "longitude": 35.458263,
+      "directions": "Near National Route 90, near Kalya, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=132458",
+      "photo_urls": []
+    },
+    {
+      "id": "144168",
+      "title": "Cave 1 / &#1502;&#1506;&#1512;&#1514; 1",
+      "latitude": 31.74168435,
+      "longitude": 35.45894392,
+      "directions": "Near Route 90, Kalya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=144168",
+      "photo_urls": []
+    },
+    {
+      "id": "220363",
+      "title": "Qumran / &#1511;&#1493;&#1502;&#1512;&#1488;&#1503;",
+      "latitude": 31.74162869,
+      "longitude": 35.45898709,
+      "directions": "Near State Route 90, Kalya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220363",
+      "photo_urls": []
+    },
+    {
+      "id": "220366",
+      "title": "The Community Rule",
+      "latitude": 31.74163001,
+      "longitude": 35.45898728,
+      "directions": "Near National Route 90, Kalya, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=220366",
+      "photo_urls": []
+    },
+    {
+      "id": "44631",
+      "title": "Nativity Church",
+      "latitude": 31.704274,
+      "longitude": 35.20733,
+      "directions": "Near Wad Ma&#39;Ali Street, Bethlehem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=44631",
+      "photo_urls": []
+    }
+  ]
+}
