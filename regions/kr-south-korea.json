@@ -1,0 +1,38 @@
+{
+  "region_id": "kr-south-korea",
+  "region_name": "South Korea",
+  "region_type": "country",
+  "country": "South Korea",
+  "generated": "2026-05-08T06:06:31.584Z",
+  "source_timestamp": "2026-05-08T06:06:31.584Z",
+  "marker_count": 3,
+  "markers": [
+    {
+      "id": "260549",
+      "title": "Cheomseongdae Observatory, Gyeongju",
+      "latitude": 35.83457215,
+      "longitude": 129.21900229,
+      "directions": "Near , Gyeongju, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=260549",
+      "photo_urls": []
+    },
+    {
+      "id": "295369",
+      "title": "&#50504;&#46041;&#48324;&#44417; &#53552; / Andong Byeolgung site",
+      "latitude": 37.575925,
+      "longitude": 126.98324722,
+      "directions": "On Yulgok-ro, Seoul, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=295369",
+      "photo_urls": []
+    },
+    {
+      "id": "73250",
+      "title": "Namdoseokseong (&#45224;&#46020;&#49437;&#49457;)",
+      "latitude": 34.3639,
+      "longitude": 126.16466667,
+      "directions": "On Jindo Highway (State Route 18) , Imhoe-myeon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=73250",
+      "photo_urls": []
+    }
+  ]
+}
