@@ -1,0 +1,47 @@
+{
+  "region_id": "ec-ecuador",
+  "region_name": "Ecuador",
+  "region_type": "country",
+  "country": "Ecuador",
+  "generated": "2026-05-09T06:06:47.757Z",
+  "source_timestamp": "2026-05-09T06:06:47.757Z",
+  "marker_count": 4,
+  "markers": [
+    {
+      "id": "157804",
+      "title": "Act of the First Revolutionary Government of Quito",
+      "latitude": -0.220075,
+      "longitude": -78.51213,
+      "directions": "On García Moreno, Centro Histórico, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=157804",
+      "photo_urls": []
+    },
+    {
+      "id": "94514",
+      "title": "Monument to Sucre",
+      "latitude": -2.19483611,
+      "longitude": -79.88104167,
+      "directions": "On Pichincha, Guayaquil, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=94514",
+      "photo_urls": []
+    },
+    {
+      "id": "96056",
+      "title": "Saluda a La Basilica",
+      "latitude": -0.215143,
+      "longitude": -78.507076,
+      "directions": "On Venezuela, Quito, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=96056",
+      "photo_urls": []
+    },
+    {
+      "id": "97586",
+      "title": "La Dolorosa Mosaic",
+      "latitude": -0.185967,
+      "longitude": -78.538136,
+      "directions": "Near Topatauchi, Quito, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=97586",
+      "photo_urls": []
+    }
+  ]
+}
