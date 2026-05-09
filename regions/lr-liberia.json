@@ -1,0 +1,65 @@
+{
+  "region_id": "lr-liberia",
+  "region_name": "Liberia",
+  "region_type": "country",
+  "country": "Liberia",
+  "generated": "2026-05-09T06:06:47.810Z",
+  "source_timestamp": "2026-05-09T06:06:47.810Z",
+  "marker_count": 6,
+  "markers": [
+    {
+      "id": "231792",
+      "title": "H.E. Ellen Johnson Sirleaf",
+      "latitude": 6.29206128,
+      "longitude": -10.77928458,
+      "directions": "On Tubman Boulevard, Monrovia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=231792",
+      "photo_urls": []
+    },
+    {
+      "id": "232981",
+      "title": "Joseph Jenkins Roberts",
+      "latitude": 6.29222539,
+      "longitude": -10.7792176,
+      "directions": "Near Tubman Boulevard, Monrovia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=232981",
+      "photo_urls": []
+    },
+    {
+      "id": "279277",
+      "title": "Greystone Compound Memorial",
+      "latitude": 6.31742988,
+      "longitude": -10.81286029,
+      "directions": "On Benson Street, Monrovia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=279277",
+      "photo_urls": []
+    },
+    {
+      "id": "280400",
+      "title": "1990 Lutheran Church Massacre",
+      "latitude": 6.29190094,
+      "longitude": -10.78015192,
+      "directions": "On 14th Street, Monrovia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=280400",
+      "photo_urls": []
+    },
+    {
+      "id": "286142",
+      "title": "Crozierville Centennial",
+      "latitude": 6.44766685,
+      "longitude": -10.62262069,
+      "directions": "On Bensonville - White Plains Road, Crozierville, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286142",
+      "photo_urls": []
+    },
+    {
+      "id": "286158",
+      "title": "Foundation of the Organization of African Unity",
+      "latitude": 7.36187785,
+      "longitude": -8.71223633,
+      "directions": "On Main Northern Highway, Sanniquellie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=286158",
+      "photo_urls": []
+    }
+  ]
+}
