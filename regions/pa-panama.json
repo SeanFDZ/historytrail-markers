@@ -1,0 +1,101 @@
+{
+  "region_id": "pa-panama",
+  "region_name": "Panama",
+  "region_type": "country",
+  "country": "Panama",
+  "generated": "2026-05-09T06:06:47.810Z",
+  "source_timestamp": "2026-05-09T06:06:47.810Z",
+  "marker_count": 10,
+  "markers": [
+    {
+      "id": "102791",
+      "title": "Former Home of General Francisco Morazán",
+      "latitude": 8.42645833,
+      "longitude": -82.42236389,
+      "directions": "On Avenida 8a Este, David, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=102791",
+      "photo_urls": []
+    },
+    {
+      "id": "104879",
+      "title": "Simón Bolívar",
+      "latitude": 8.42435278,
+      "longitude": -82.42116667,
+      "directions": "On Calle Cementerio, David, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104879",
+      "photo_urls": []
+    },
+    {
+      "id": "104906",
+      "title": "Father Paul Joseph Volk",
+      "latitude": 8.42834426,
+      "longitude": -82.42584944,
+      "directions": "On Avenida Bolívar, David, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=104906",
+      "photo_urls": []
+    },
+    {
+      "id": "121165",
+      "title": "Simón Bolívar",
+      "latitude": 8.95323506,
+      "longitude": -79.5335503,
+      "directions": "On Calle 4a Este, Panamá, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121165",
+      "photo_urls": []
+    },
+    {
+      "id": "121178",
+      "title": "Captain Raul Chevalier",
+      "latitude": 8.95033366,
+      "longitude": -79.53144877,
+      "directions": "On Calle 5a, Panamá, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=121178",
+      "photo_urls": []
+    },
+    {
+      "id": "126295",
+      "title": "General Tomás Herrera",
+      "latitude": 8.95192457,
+      "longitude": -79.53673309,
+      "directions": "On Avenida A, Panamá, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=126295",
+      "photo_urls": []
+    },
+    {
+      "id": "224279",
+      "title": "Ancla / Anchor",
+      "latitude": 9.26470982,
+      "longitude": -79.90997907,
+      "directions": "Near Via a Centro de Visitantes de Agua Clara, Calle Golf, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224279",
+      "photo_urls": []
+    },
+    {
+      "id": "224283",
+      "title": "Batería Santiago (s. XVIII) / Santiago Battery (18 Century)",
+      "latitude": 9.55344331,
+      "longitude": -79.65919465,
+      "directions": "On Via Portobelo, Portobello, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=224283",
+      "photo_urls": []
+    },
+    {
+      "id": "239345",
+      "title": "Vagón Francés Decauville en Forma de \"V\" / Decauville French Wagon in a \"V\" Shape",
+      "latitude": 9.26470163,
+      "longitude": -79.91016541,
+      "directions": "On Via a Centro de Visitantes de Agua Clara, Calle Golf, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239345",
+      "photo_urls": []
+    },
+    {
+      "id": "239346",
+      "title": "Ejes / Axles",
+      "latitude": 9.26444023,
+      "longitude": -79.91013701,
+      "directions": "On Via a Centro de Visitantes de Agua Clara, Calle Golf, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=239346",
+      "photo_urls": []
+    }
+  ]
+}
