@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-09T06:06:53.538Z",
+  "generated": "2026-05-09T06:07:02.935Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 72306,
-  "total_regions": 40,
+  "total_markers": 72310,
+  "total_regions": 41,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -212,6 +212,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 617,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "ec-ecuador",
+      "name": "Ecuador",
+      "type": "country",
+      "country": "Ecuador",
+      "file": "regions/ec-ecuador.json",
+      "markers": 4,
+      "size_bytes": 1360,
+      "updated": "2026-05-09",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 4,
         "removed": 0,
         "modified": 0
       }
