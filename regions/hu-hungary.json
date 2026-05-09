@@ -1,0 +1,29 @@
+{
+  "region_id": "hu-hungary",
+  "region_name": "Hungary",
+  "region_type": "country",
+  "country": "Hungary",
+  "generated": "2026-05-09T06:06:47.810Z",
+  "source_timestamp": "2026-05-09T06:06:47.810Z",
+  "marker_count": 2,
+  "markers": [
+    {
+      "id": "208539",
+      "title": "\"Shoes on the Danube Bank\"",
+      "latitude": 47.5039042,
+      "longitude": 19.0447372,
+      "directions": "Near Id. Antall József rfk., Budapest, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208539",
+      "photo_urls": []
+    },
+    {
+      "id": "82363",
+      "title": "Marastoni Jakab",
+      "latitude": 47.497097,
+      "longitude": 19.053328,
+      "directions": "Near Deák Ferenc utca, Budapest, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=82363",
+      "photo_urls": []
+    }
+  ]
+}
