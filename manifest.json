@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-08T06:06:44.070Z",
+  "generated": "2026-05-09T06:06:53.538Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 72306,
@@ -191,8 +191,8 @@
       "country": "Canada",
       "file": "regions/ca-ab.json",
       "markers": 229,
-      "size_bytes": 72552,
-      "updated": "2026-04-13",
+      "size_bytes": 72568,
+      "updated": "2026-05-09",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 229,
