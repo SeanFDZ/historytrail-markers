@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-10T06:09:58.850Z",
+  "generated": "2026-05-10T06:10:03.637Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 72808,
-  "total_regions": 42,
+  "total_markers": 72831,
+  "total_regions": 43,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -244,6 +244,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 4,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "sb-solomon-isla",
+      "name": "Solomon Islands",
+      "type": "country",
+      "country": "Solomon Islands",
+      "file": "regions/sb-solomon-isla.json",
+      "markers": 23,
+      "size_bytes": 7370,
+      "updated": "2026-05-10",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 23,
         "removed": 0,
         "modified": 0
       }
