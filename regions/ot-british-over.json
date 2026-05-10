@@ -3,8 +3,8 @@
   "region_name": "British Overseas Territories",
   "region_type": "country",
   "country": "British Overseas Territories",
-  "generated": "2026-04-13T12:43:55.616Z",
-  "source_timestamp": "2026-04-13T12:43:55.616Z",
+  "generated": "2026-05-10T06:09:46.843Z",
+  "source_timestamp": "2026-05-10T06:09:46.843Z",
   "marker_count": 60,
   "markers": [
     {
@@ -120,7 +120,7 @@
       "title": "Edward Thatch",
       "latitude": 21.7881361,
       "longitude": -72.195275,
-      "directions": "Near , The Bight Settlement, ",
+      "directions": "Near Lower Bight Road, The Bight Settlement, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=219861",
       "photo_urls": []
     },
@@ -138,7 +138,7 @@
       "title": "Grand Turk and Salt Cay, World Leaders in Salting",
       "latitude": 21.42794804,
       "longitude": -71.14446502,
-      "directions": "On , Cockburn Town, ",
+      "directions": "On no nearby street, Cockburn Town, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=265824",
       "photo_urls": []
     },
@@ -543,7 +543,7 @@
       "title": "Splashdown Grand Turk",
       "latitude": 21.426595,
       "longitude": -71.14454,
-      "directions": "On , Cockburn Town, ",
+      "directions": "On no nearby street, Cockburn Town, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80425",
       "photo_urls": []
     }
