@@ -3,8 +3,8 @@
   "region_name": "Egypt",
   "region_type": "country",
   "country": "Egypt",
-  "generated": "2026-04-13T12:43:55.580Z",
-  "source_timestamp": "2026-04-13T12:43:55.580Z",
+  "generated": "2026-05-10T06:09:46.806Z",
+  "source_timestamp": "2026-05-10T06:09:46.806Z",
   "marker_count": 62,
   "markers": [
     {
@@ -21,7 +21,7 @@
       "title": "Tomb of Thutmosis III",
       "latitude": 25.73777994,
       "longitude": 32.60070493,
-      "directions": "Near , Luxor, ",
+      "directions": "Near no nearby street, Luxor, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=132514",
       "photo_urls": []
     },
@@ -543,7 +543,7 @@
       "title": "Royal Stelae",
       "latitude": 24.6501435,
       "longitude": 32.92994296,
-      "directions": "Near , Al Kagoug, ",
+      "directions": "Near no nearby street, Al Kagoug, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292381",
       "photo_urls": []
     },
