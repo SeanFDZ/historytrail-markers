@@ -1,0 +1,218 @@
+{
+  "region_id": "sb-solomon-isla",
+  "region_name": "Solomon Islands",
+  "region_type": "country",
+  "country": "Solomon Islands",
+  "generated": "2026-05-10T06:09:46.844Z",
+  "source_timestamp": "2026-05-10T06:09:46.844Z",
+  "marker_count": 23,
+  "markers": [
+    {
+      "id": "205587",
+      "title": "Solomon Islands Scouts and Coastwatchers",
+      "latitude": -9.42974366,
+      "longitude": 159.95755544,
+      "directions": "On Unnamed street, Honiara, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205587",
+      "photo_urls": []
+    },
+    {
+      "id": "205673",
+      "title": "Álvaro de Mendaña",
+      "latitude": -9.43093026,
+      "longitude": 159.95413572,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205673",
+      "photo_urls": []
+    },
+    {
+      "id": "205676",
+      "title": "Independence of Solomon Islands",
+      "latitude": -9.43101382,
+      "longitude": 159.95434168,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205676",
+      "photo_urls": []
+    },
+    {
+      "id": "205680",
+      "title": "First Meeting of the Assemblies of God Church",
+      "latitude": -9.43299045,
+      "longitude": 159.96058287,
+      "directions": "On Mendana Avenue, Honiara, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=205680",
+      "photo_urls": []
+    },
+    {
+      "id": "207799",
+      "title": "Sir Jacob Charles Vouza",
+      "latitude": -9.42875261,
+      "longitude": 159.94268846,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=207799",
+      "photo_urls": []
+    },
+    {
+      "id": "208932",
+      "title": "Campaigns to Free the Solomon Islands Memorials",
+      "latitude": -9.4287685,
+      "longitude": 159.9427079,
+      "directions": "On Mendana Avenue, Honiara, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208932",
+      "photo_urls": []
+    },
+    {
+      "id": "208933",
+      "title": "Police Memorial Park",
+      "latitude": -9.4284037,
+      "longitude": 159.94262198,
+      "directions": "On Mendana Avenue, Honiara, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208933",
+      "photo_urls": []
+    },
+    {
+      "id": "208936",
+      "title": "RAMSI Peace Memorial",
+      "latitude": -9.42825758,
+      "longitude": 159.94241526,
+      "directions": "On Mendana Avenue, Honiara, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=208936",
+      "photo_urls": []
+    },
+    {
+      "id": "209041",
+      "title": "Japanese Airport Construction",
+      "latitude": -9.42726733,
+      "longitude": 160.04575351,
+      "directions": "On Unnamed airport access road, Lungga, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=209041",
+      "photo_urls": []
+    },
+    {
+      "id": "212382",
+      "title": "Henderson Field",
+      "latitude": -9.42744597,
+      "longitude": 160.04563769,
+      "directions": "On Unnamed airport access road, Lungga, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212382",
+      "photo_urls": []
+    },
+    {
+      "id": "212384",
+      "title": "The Repose of Souls",
+      "latitude": -9.31866133,
+      "longitude": 159.79322525,
+      "directions": "On Unnamed Vilu Military Museum access road, Aruligo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212384",
+      "photo_urls": []
+    },
+    {
+      "id": "212386",
+      "title": "Guadalcanal Veterans Memorial",
+      "latitude": -9.31865133,
+      "longitude": 159.79325743,
+      "directions": "On Unnamed Vilu Military Museum access road, Aruligo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212386",
+      "photo_urls": []
+    },
+    {
+      "id": "212830",
+      "title": "H.M.A.S. Canberra",
+      "latitude": -9.31870873,
+      "longitude": 159.79328749,
+      "directions": "Near Vilu Military Museum Road, Aruligo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212830",
+      "photo_urls": []
+    },
+    {
+      "id": "212831",
+      "title": "Royal New Zealand Air Force Memorial",
+      "latitude": -9.31870427,
+      "longitude": 159.7933084,
+      "directions": "Near Vilu Military Museum Road, Aruligo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212831",
+      "photo_urls": []
+    },
+    {
+      "id": "212832",
+      "title": "St. Joseph Statue",
+      "latitude": -9.43607873,
+      "longitude": 159.96345283,
+      "directions": "On Mbokonavera Road, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212832",
+      "photo_urls": []
+    },
+    {
+      "id": "212855",
+      "title": "Fiji Roll of Honour",
+      "latitude": -9.31858516,
+      "longitude": 159.79327085,
+      "directions": "Near Vilu Military Museum Road, Aruligo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212855",
+      "photo_urls": []
+    },
+    {
+      "id": "212856",
+      "title": "The Warrior",
+      "latitude": -9.44252808,
+      "longitude": 159.95753168,
+      "directions": "Near Skyline Road, Honiara, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212856",
+      "photo_urls": []
+    },
+    {
+      "id": "212857",
+      "title": "American and Allied War Correspondents of the Guadalcanal Campaign",
+      "latitude": -9.44248663,
+      "longitude": 159.95739435,
+      "directions": "On Skyline Road, Honiara, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212857",
+      "photo_urls": []
+    },
+    {
+      "id": "212891",
+      "title": "Battle of Guadalcanal Memorial",
+      "latitude": -9.43108492,
+      "longitude": 159.95370584,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212891",
+      "photo_urls": []
+    },
+    {
+      "id": "212893",
+      "title": "Kawaguchi Brigade Memorial",
+      "latitude": -9.43109478,
+      "longitude": 159.95376581,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212893",
+      "photo_urls": []
+    },
+    {
+      "id": "212948",
+      "title": "Regional Assistance Mission to Solomon Islands (RAMSI)",
+      "latitude": -9.43087507,
+      "longitude": 159.95385016,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=212948",
+      "photo_urls": []
+    },
+    {
+      "id": "213032",
+      "title": "Guadalcanal American Memorial",
+      "latitude": -9.4424833,
+      "longitude": 159.95746883,
+      "directions": "On Skyline Drive, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213032",
+      "photo_urls": []
+    },
+    {
+      "id": "213036",
+      "title": "Memorial of the Cross",
+      "latitude": -9.43578219,
+      "longitude": 159.96348047,
+      "directions": "On Mendana Avenue, Honiara, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=213036",
+      "photo_urls": []
+    }
+  ]
+}
