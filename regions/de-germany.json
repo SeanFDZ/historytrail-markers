@@ -3,9 +3,9 @@
   "region_name": "Germany",
   "region_type": "country",
   "country": "Germany",
-  "generated": "2026-04-13T12:43:55.549Z",
-  "source_timestamp": "2026-04-13T12:43:55.549Z",
-  "marker_count": 2276,
+  "generated": "2026-05-11T06:09:25.075Z",
+  "source_timestamp": "2026-05-11T06:09:25.075Z",
+  "marker_count": 2320,
   "markers": [
     {
       "id": "100030",
@@ -273,7 +273,7 @@
       "title": "War Memorial",
       "latitude": 49.18261157,
       "longitude": 10.52420095,
-      "directions": "Near , Bechhofen, ",
+      "directions": "Near Sachsbach, Bechhofen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=108679",
       "photo_urls": []
     },
@@ -1425,7 +1425,7 @@
       "title": "Coat of Arms of the Counts of Katzenelnbogen",
       "latitude": 49.70910805,
       "longitude": 8.63226776,
-      "directions": "Near , near Auerbach, ",
+      "directions": "Near Straße Ohne Straßennamen, near Auerbach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=140140",
       "photo_urls": []
     },
@@ -9885,7 +9885,7 @@
       "title": "Der Römische Tempel Unter Der Basilika St. Kastor",
       "latitude": 50.36217222,
       "longitude": 7.60489444,
-      "directions": "On , Koblenz, (On the right when traveling north)",
+      "directions": "On Kastorhof, Koblenz, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=265078",
       "photo_urls": []
     },
@@ -18854,6 +18854,402 @@
       "photo_urls": []
     },
     {
+      "id": "297818",
+      "title": "Außenansicht der Synagoge Lindenstraße / Exterior view of the Synagogue on Lindenstraße",
+      "latitude": 52.50877054,
+      "longitude": 13.39984587,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297818",
+      "photo_urls": []
+    },
+    {
+      "id": "297820",
+      "title": "Innenbereich der Synagoge Lindenstraße / Interior of the Synagogue on Lindenstraße",
+      "latitude": 52.50875816,
+      "longitude": 13.3998974,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297820",
+      "photo_urls": []
+    },
+    {
+      "id": "297840",
+      "title": "Zerstörte Synagoge / Destroyed Synagogue",
+      "latitude": 52.50874516,
+      "longitude": 13.39994385,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297840",
+      "photo_urls": []
+    },
+    {
+      "id": "297853",
+      "title": "Siegbert Rotholz",
+      "latitude": 52.50871019,
+      "longitude": 13.3996755,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297853",
+      "photo_urls": []
+    },
+    {
+      "id": "297854",
+      "title": "Lotte Rotholz",
+      "latitude": 52.50871374,
+      "longitude": 13.39968686,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297854",
+      "photo_urls": []
+    },
+    {
+      "id": "297857",
+      "title": "„Balanceakt“ von Stephan Balkenhol / „Balancing Act“ by Stephan Balkenhol",
+      "latitude": 52.50803148,
+      "longitude": 13.39862913,
+      "directions": "On Axel-Springer-Straße, Berlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297857",
+      "photo_urls": []
+    },
+    {
+      "id": "297871",
+      "title": "Charlotte Carle",
+      "latitude": 52.51043858,
+      "longitude": 13.40140009,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297871",
+      "photo_urls": []
+    },
+    {
+      "id": "297872",
+      "title": "Nathan Moritz Carle",
+      "latitude": 52.51043639,
+      "longitude": 13.4014049,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297872",
+      "photo_urls": []
+    },
+    {
+      "id": "297873",
+      "title": "Margarete Carlé",
+      "latitude": 52.51043036,
+      "longitude": 13.40140868,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297873",
+      "photo_urls": []
+    },
+    {
+      "id": "297874",
+      "title": "Alice Carlé",
+      "latitude": 52.51043408,
+      "longitude": 13.40140411,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297874",
+      "photo_urls": []
+    },
+    {
+      "id": "297875",
+      "title": "Hirsch Neumann",
+      "latitude": 52.51042274,
+      "longitude": 13.40144085,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297875",
+      "photo_urls": []
+    },
+    {
+      "id": "297876",
+      "title": "Rosa Reha Neumann",
+      "latitude": 52.51041372,
+      "longitude": 13.40147642,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297876",
+      "photo_urls": []
+    },
+    {
+      "id": "297877",
+      "title": "Max Neumann",
+      "latitude": 52.51041508,
+      "longitude": 13.40145708,
+      "directions": "On Beuthstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297877",
+      "photo_urls": []
+    },
+    {
+      "id": "297881",
+      "title": "Geschäftshaus / Commercial Building",
+      "latitude": 52.51620336,
+      "longitude": 13.4072702,
+      "directions": "On Poststraße, Berlin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297881",
+      "photo_urls": []
+    },
+    {
+      "id": "297882",
+      "title": "Ephraim-Palais / Ephraim Palace",
+      "latitude": 52.51600846,
+      "longitude": 13.40731961,
+      "directions": "On Poststraße, Berlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297882",
+      "photo_urls": []
+    },
+    {
+      "id": "297887",
+      "title": "Riesen & Wunder",
+      "latitude": 52.5162941,
+      "longitude": 13.40777958,
+      "directions": "On Poststraße, Berlin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297887",
+      "photo_urls": []
+    },
+    {
+      "id": "297891",
+      "title": "Knoblauchhaus / Knoblauch House",
+      "latitude": 52.51637803,
+      "longitude": 13.40694383,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297891",
+      "photo_urls": []
+    },
+    {
+      "id": "297894",
+      "title": "Eisernes Preußen & Tapfere Müller / Iron Prussia & Brave Müller",
+      "latitude": 52.51631785,
+      "longitude": 13.40682554,
+      "directions": "On Poststraße, Berlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297894",
+      "photo_urls": []
+    },
+    {
+      "id": "297897",
+      "title": "August Eduard Grell",
+      "latitude": 52.51637464,
+      "longitude": 13.40677367,
+      "directions": "On Poststraße, Berlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297897",
+      "photo_urls": []
+    },
+    {
+      "id": "297900",
+      "title": "Berlins Hauptstadt / Berlin’s Capital",
+      "latitude": 52.51679079,
+      "longitude": 13.40658101,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297900",
+      "photo_urls": []
+    },
+    {
+      "id": "297902",
+      "title": "Carl Hildebrand von Canstein",
+      "latitude": 52.51680537,
+      "longitude": 13.40655108,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297902",
+      "photo_urls": []
+    },
+    {
+      "id": "297976",
+      "title": "Zille, Heinrich",
+      "latitude": 52.51684184,
+      "longitude": 13.40643582,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297976",
+      "photo_urls": []
+    },
+    {
+      "id": "298002",
+      "title": "Hunger vs. Angst",
+      "latitude": 52.5170127,
+      "longitude": 13.4062139,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298002",
+      "photo_urls": []
+    },
+    {
+      "id": "298076",
+      "title": "Museum für Leibesübungen / Museum of Physical Exercise",
+      "latitude": 52.515805,
+      "longitude": 13.4073222,
+      "directions": "On Poststraße, Berlin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298076",
+      "photo_urls": []
+    },
+    {
+      "id": "298210",
+      "title": "Carl Gause & Geisterglaube / Carl Gause & Belief in Ghosts",
+      "latitude": 52.51721883,
+      "longitude": 13.40599719,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298210",
+      "photo_urls": []
+    },
+    {
+      "id": "298220",
+      "title": "Poststraße & Persönlichkeiten / Post Street & Personalities",
+      "latitude": 52.5171341,
+      "longitude": 13.4061228,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298220",
+      "photo_urls": []
+    },
+    {
+      "id": "298221",
+      "title": "Zeittafel der Berliner Geschichte / Timeline of Berlin History",
+      "latitude": 52.51729197,
+      "longitude": 13.40620388,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298221",
+      "photo_urls": []
+    },
+    {
+      "id": "298228",
+      "title": "Berlins Weg durch die Geschichte / Berlin’s Path Through History",
+      "latitude": 52.51759959,
+      "longitude": 13.40560899,
+      "directions": "On Poststraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298228",
+      "photo_urls": []
+    },
+    {
+      "id": "298232",
+      "title": "Elementweise / Prefabricated Construction",
+      "latitude": 52.51811615,
+      "longitude": 13.40721074,
+      "directions": "On Spandauer Straße, Berlin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298232",
+      "photo_urls": []
+    },
+    {
+      "id": "298252",
+      "title": "Das Kaufhaus Israel, ein Opfer der Nazis / The Israel Department Store, a Victim of the Nazis",
+      "latitude": 52.51773513,
+      "longitude": 13.40750914,
+      "directions": "On Am Nußbaum, Berlin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298252",
+      "photo_urls": []
+    },
+    {
+      "id": "298265",
+      "title": "Zum Nußbaum",
+      "latitude": 52.51715884,
+      "longitude": 13.4072037,
+      "directions": "On Am Nußbaum, Berlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298265",
+      "photo_urls": []
+    },
+    {
+      "id": "298268",
+      "title": "Berliner Originale / Berlin Originals",
+      "latitude": 52.51714007,
+      "longitude": 13.40720117,
+      "directions": "On Propststraße, Berlin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298268",
+      "photo_urls": []
+    },
+    {
+      "id": "298270",
+      "title": "Gewiss und ungerecht / Certain and Unjust",
+      "latitude": 52.51720383,
+      "longitude": 13.40745422,
+      "directions": "On Propststraße, Berlin, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298270",
+      "photo_urls": []
+    },
+    {
+      "id": "298271",
+      "title": "Titel, Namen & Spitznamen / Titles, Names & Nicknames",
+      "latitude": 52.51689537,
+      "longitude": 13.4083003,
+      "directions": "On Spandauer Straße, Berlin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298271",
+      "photo_urls": []
+    },
+    {
+      "id": "299298",
+      "title": "Nikolaikirchplatz: Lessing vs. Preußen / Nikolaikirchplatz: Lessing vs. Prussia",
+      "latitude": 52.51668116,
+      "longitude": 13.4079623,
+      "directions": "On Nikolaikirchplatz, Berlin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299298",
+      "photo_urls": []
+    },
+    {
+      "id": "299303",
+      "title": "Knoblauchhaus & Schuberthaus / Knoblauch House & Schubert House",
+      "latitude": 52.51644372,
+      "longitude": 13.40735341,
+      "directions": "On Nikolaikirchplatz, Berlin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299303",
+      "photo_urls": []
+    },
+    {
+      "id": "299305",
+      "title": "Profit & Pogrom",
+      "latitude": 52.51611405,
+      "longitude": 13.40739965,
+      "directions": "On Poststraße, Berlin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299305",
+      "photo_urls": []
+    },
+    {
+      "id": "299308",
+      "title": "Ephraims Mobilie / Ephraim’s Movable Palace",
+      "latitude": 52.51609849,
+      "longitude": 13.40738887,
+      "directions": "On Poststraße, Berlin, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299308",
+      "photo_urls": []
+    },
+    {
+      "id": "299322",
+      "title": "Dynamik & Drachen / Dynamics & Dragons",
+      "latitude": 52.51640691,
+      "longitude": 13.40568765,
+      "directions": "On Propststraße, Berlin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299322",
+      "photo_urls": []
+    },
+    {
+      "id": "299349",
+      "title": "Mühlen der Bürokratie / Mills of Bureaucracy",
+      "latitude": 52.51588006,
+      "longitude": 13.40631967,
+      "directions": "On Spreeufer, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299349",
+      "photo_urls": []
+    },
+    {
+      "id": "299354",
+      "title": "Post, Palais, Paloma / Post, Palace, Paloma",
+      "latitude": 52.51698228,
+      "longitude": 13.404651,
+      "directions": "On Spreeufer, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299354",
+      "photo_urls": []
+    },
+    {
+      "id": "299357",
+      "title": "Märzrevolution / March Revolution",
+      "latitude": 52.5172183,
+      "longitude": 13.40462081,
+      "directions": "On Rathausstraße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299357",
+      "photo_urls": []
+    },
+    {
+      "id": "299362",
+      "title": "Nikolaikirche / St. Nicholas Church",
+      "latitude": 52.51682055,
+      "longitude": 13.40699765,
+      "directions": "On Propststraße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299362",
+      "photo_urls": []
+    },
+    {
+      "id": "299363",
+      "title": "Nikolaikirche / St. Nicholas Church",
+      "latitude": 52.51675171,
+      "longitude": 13.40700488,
+      "directions": "On Propststraße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299363",
+      "photo_urls": []
+    },
+    {
       "id": "56213",
       "title": "Checkpoint Charlie Site",
       "latitude": 52.507488,
@@ -19074,7 +19470,7 @@
       "title": "Corpus Christi Chapel / Fronleichnamskapelle",
       "latitude": 51.866307,
       "longitude": 12.64498,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Kirchplatz, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69717",
       "photo_urls": []
     },
@@ -19101,7 +19497,7 @@
       "title": "1556 Wittenberg Water System",
       "latitude": 51.865861,
       "longitude": 12.642385,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Schlossstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69736",
       "photo_urls": []
     },
@@ -19110,7 +19506,7 @@
       "title": "Lucas Cranach der Ältere (1472-1553)",
       "latitude": 51.865685,
       "longitude": 12.642179,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Schlossstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69737",
       "photo_urls": []
     },
@@ -19119,7 +19515,7 @@
       "title": "Lucas Cranach d. Ältere",
       "latitude": 51.865644,
       "longitude": 12.642233,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Schlossstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69739",
       "photo_urls": []
     },
@@ -19128,7 +19524,7 @@
       "title": "Lucas Cranach d. Jüngere",
       "latitude": 51.865644,
       "longitude": 12.642233,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Schlossstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69779",
       "photo_urls": []
     },
@@ -19245,7 +19641,7 @@
       "title": "Mains Water Well on the Market Square",
       "latitude": 51.866621,
       "longitude": 12.643113,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Markt, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69874",
       "photo_urls": []
     },
@@ -19353,7 +19749,7 @@
       "title": "Röhrwasserbrunnen in the/im \"Lutherhof\"",
       "latitude": 51.864312,
       "longitude": 12.652355,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Collegienstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70033",
       "photo_urls": []
     },
@@ -19362,7 +19758,7 @@
       "title": "The Luther House / Das Lutherhaus",
       "latitude": 51.864244,
       "longitude": 12.652423,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Collegienstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70054",
       "photo_urls": []
     },
@@ -19371,7 +19767,7 @@
       "title": "Martin Luther House",
       "latitude": 51.864067,
       "longitude": 12.652402,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Collegienstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70061",
       "photo_urls": []
     },
@@ -19380,7 +19776,7 @@
       "title": "Michael Agricola",
       "latitude": 51.86406,
       "longitude": 12.652518,
-      "directions": "Near , Lutherstadt Wittenberg, ",
+      "directions": "Near Collegienstraße, Lutherstadt Wittenberg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70063",
       "photo_urls": []
     },
@@ -19452,7 +19848,7 @@
       "title": "Martin Luther",
       "latitude": 51.528243,
       "longitude": 11.546347,
-      "directions": "Near , Lutherstadt Eisleben, ",
+      "directions": "Near Markt, Lutherstadt Eisleben, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70215",
       "photo_urls": []
     },
@@ -19623,7 +20019,7 @@
       "title": "Castle & Chateau Allstedt",
       "latitude": 51.407969,
       "longitude": 11.401157,
-      "directions": "Near , Allstedt, ",
+      "directions": "Near Schloß, Allstedt, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73041",
       "photo_urls": []
     },
@@ -19632,7 +20028,7 @@
       "title": "North Wing / Ground Floor",
       "latitude": 51.408715,
       "longitude": 11.400319,
-      "directions": "Near , Allstedt, ",
+      "directions": "Near Schloß, Allstedt, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73057",
       "photo_urls": []
     },
@@ -19641,7 +20037,7 @@
       "title": "Castle Fountains / Burgbrunnen",
       "latitude": 51.408635,
       "longitude": 11.400356,
-      "directions": "Near , Allstedt, ",
+      "directions": "Near Schloß, Allstedt, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73078",
       "photo_urls": []
     },
@@ -19650,7 +20046,7 @@
       "title": "Castle and Chateau Allstedt",
       "latitude": 51.407839,
       "longitude": 11.401817,
-      "directions": "On , Allstedt, ",
+      "directions": "On Schloß, Allstedt, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73776",
       "photo_urls": []
     },
@@ -19938,7 +20334,7 @@
       "title": "Abtshaus / Abbot's House",
       "latitude": 48.561009,
       "longitude": 9.060782,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Im Schloß, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77481",
       "photo_urls": []
     },
@@ -19965,7 +20361,7 @@
       "title": "Neuer Bau / New Construction",
       "latitude": 48.561117,
       "longitude": 9.060939,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Im Schloß, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77513",
       "photo_urls": []
     },
@@ -19974,7 +20370,7 @@
       "title": "Heuhaus / Hay Barn",
       "latitude": 48.560926,
       "longitude": 9.060392,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Forstamt, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77514",
       "photo_urls": []
     },
@@ -19983,7 +20379,7 @@
       "title": "Abtsküche / Abbot's Kitchen",
       "latitude": 48.560987,
       "longitude": 9.0612,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Im Schloß, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77515",
       "photo_urls": []
     },
@@ -19992,7 +20388,7 @@
       "title": "Sommerrefektorium / Summer Refectory",
       "latitude": 48.560999,
       "longitude": 9.060316,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Forstamt, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77517",
       "photo_urls": []
     },
@@ -20001,7 +20397,7 @@
       "title": "Gewürz- und Kräutergarten / Spice and Herb Garden",
       "latitude": 48.561191,
       "longitude": 9.060056,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Beim Schloß, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77522",
       "photo_urls": []
     },
@@ -20010,7 +20406,7 @@
       "title": "Klosterküche / Monastery Kitchen",
       "latitude": 48.561205,
       "longitude": 9.060115,
-      "directions": "Near , Bebenhausen, ",
+      "directions": "Near Beim Schloß, Bebenhausen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77538",
       "photo_urls": []
     },
@@ -20289,7 +20685,7 @@
       "title": "World Wars Memorial",
       "latitude": 48.13165,
       "longitude": 8.70928,
-      "directions": "On , Frittlingen, ",
+      "directions": "On Wilflingerstraße, Frittlingen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=82804",
       "photo_urls": []
     },
@@ -20298,7 +20694,7 @@
       "title": "World War I Memorial",
       "latitude": 48.12673,
       "longitude": 8.709892,
-      "directions": "Near , Frittlingen, ",
+      "directions": "Near Kirchberg, Frittlingen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=82805",
       "photo_urls": []
     },
@@ -20325,7 +20721,7 @@
       "title": "Knight's Bath • Ritterbad • Le bain des chevaliers",
       "latitude": 50.96556,
       "longitude": 10.306305,
-      "directions": "Near , near Eisenach, ",
+      "directions": "Near Auf der Wartburg, near Eisenach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83921",
       "photo_urls": []
     },
@@ -20334,7 +20730,7 @@
       "title": "Südturm • South Tower • La Tour Sud",
       "latitude": 50.965518,
       "longitude": 10.305938,
-      "directions": "On , near Eisenach, ",
+      "directions": "On Auf der Wartburg, near Eisenach, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83981",
       "photo_urls": []
     },
