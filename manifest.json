@@ -1,10 +1,10 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-10T06:10:03.637Z",
+  "generated": "2026-05-11T06:09:38.205Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 72831,
-  "total_regions": 43,
+  "total_markers": 72975,
+  "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
   "regions": [
@@ -212,6 +212,22 @@
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 498,
+        "removed": 0,
+        "modified": 0
+      }
+    },
+    {
+      "id": "ca-mb",
+      "name": "Manitoba",
+      "type": "province",
+      "country": "Canada",
+      "file": "regions/ca-mb.json",
+      "markers": 144,
+      "size_bytes": 46357,
+      "updated": "2026-05-11",
+      "checksum": "sha256:undefined",
+      "changes_since_last": {
+        "added": 144,
         "removed": 0,
         "modified": 0
       }
