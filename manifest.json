@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-11T06:09:38.205Z",
+  "generated": "2026-05-12T06:08:12.250Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 72975,
@@ -16,7 +16,7 @@
       "file": "regions/al-albania.json",
       "markers": 16,
       "size_bytes": 4947,
-      "updated": "2026-04-14",
+      "updated": "2026-05-12",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 16,
