@@ -3,9 +3,9 @@
   "region_name": "Spain",
   "region_type": "country",
   "country": "Spain",
-  "generated": "2026-04-14T06:08:54.397Z",
-  "source_timestamp": "2026-04-14T06:08:54.397Z",
-  "marker_count": 558,
+  "generated": "2026-05-12T06:08:01.103Z",
+  "source_timestamp": "2026-05-12T06:08:01.103Z",
+  "marker_count": 562,
   "markers": [
     {
       "id": "140431",
@@ -1308,7 +1308,7 @@
       "title": "Glorieta de la Transsexual Sonia / Bandstand Dedicated to the Transsexual Sonia",
       "latitude": 41.38919149,
       "longitude": 2.18609405,
-      "directions": "Near , Barcelona, ",
+      "directions": "Near Via Sense Nom, Barcelona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=199190",
       "photo_urls": []
     },
@@ -1317,7 +1317,7 @@
       "title": "The Murder of Sònia Rescalvo Zafra",
       "latitude": 41.38908703,
       "longitude": 2.18607333,
-      "directions": "Near , Barcelona, ",
+      "directions": "Near Via Sense Nom, Barcelona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=199194",
       "photo_urls": []
     },
@@ -4638,7 +4638,7 @@
       "title": "The Sant Joan Funicular: One hundred years of history",
       "latitude": 41.5920817,
       "longitude": 1.8366413,
-      "directions": "On , Monestir de Montserrat, ",
+      "directions": "On Monasterio de Montserrat, Monestir de Montserrat, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244345",
       "photo_urls": []
     },
@@ -5027,6 +5027,42 @@
       "longitude": 2.16592432,
       "directions": "Near Avinguda del Castell, Barcelona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=291633",
+      "photo_urls": []
+    },
+    {
+      "id": "299516",
+      "title": "Galeres a Saragossa / Wagons to Zaragoza",
+      "latitude": 41.38719518,
+      "longitude": 2.17299594,
+      "directions": "On Carrer de les Moles, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299516",
+      "photo_urls": []
+    },
+    {
+      "id": "299526",
+      "title": "Santiago Rusiñol",
+      "latitude": 41.3954554,
+      "longitude": 2.16140758,
+      "directions": "On Passeig de Gràcia, Barcelona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299526",
+      "photo_urls": []
+    },
+    {
+      "id": "299530",
+      "title": "Iglesia Parroquial de San Juan / San Juan Parish Church",
+      "latitude": 40.41685019,
+      "longitude": -3.71147699,
+      "directions": "On Calle de Santiago, Madrid, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299530",
+      "photo_urls": []
+    },
+    {
+      "id": "299557",
+      "title": "La bandera i el Castell / The flag and the castle",
+      "latitude": 41.36424398,
+      "longitude": 2.16656974,
+      "directions": "Near Carretera de Montjuïc, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299557",
       "photo_urls": []
     }
   ]
