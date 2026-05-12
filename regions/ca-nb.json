@@ -3,8 +3,8 @@
   "region_name": "New Brunswick",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-04-14T06:08:54.393Z",
-  "source_timestamp": "2026-04-14T06:08:54.393Z",
+  "generated": "2026-05-12T06:08:01.100Z",
+  "source_timestamp": "2026-05-12T06:08:01.100Z",
   "marker_count": 298,
   "markers": [
     {
@@ -498,7 +498,7 @@
       "title": "German 77mm Gun",
       "latitude": 47.04897712,
       "longitude": -67.7380357,
-      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (In the median)",
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125423",
       "photo_urls": []
     },
@@ -507,7 +507,7 @@
       "title": "O. B. Davis Park and Lovers' Lane",
       "latitude": 47.05035268,
       "longitude": -67.73673118,
-      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (On the left when traveling north)",
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125516",
       "photo_urls": []
     },
@@ -525,7 +525,7 @@
       "title": "A Changing Waterfall / Une chute au debit varie",
       "latitude": 47.05167617,
       "longitude": -67.73815884,
-      "directions": "Near chemin Madawaska, Grand Falls, ",
+      "directions": "Near Chemin Madawaska, Grand Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=125521",
       "photo_urls": []
     },
@@ -2109,7 +2109,7 @@
       "title": "Ron Turcotte",
       "latitude": 47.04530353,
       "longitude": -67.74503239,
-      "directions": "On Broadway Boulevard (State Route 130) , Grand-Sault, (In the median)",
+      "directions": "On Broadway Boulevard (State Route 130) , Grand Falls, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=250902",
       "photo_urls": []
     },
@@ -2289,7 +2289,7 @@
       "title": "Mulholland Point / La Pointe Mulholland",
       "latitude": 44.87625,
       "longitude": -66.971919,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63593",
       "photo_urls": []
     },
@@ -2298,7 +2298,7 @@
       "title": "Passamaquoddy Tidal Power Project",
       "latitude": 44.87623758,
       "longitude": -66.97189233,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63611",
       "photo_urls": []
     },
@@ -2307,7 +2307,7 @@
       "title": "Passamaquoddy Tribe / La Tribu Passamaquoddy",
       "latitude": 44.87625,
       "longitude": -66.971919,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63617",
       "photo_urls": []
     },
@@ -2316,7 +2316,7 @@
       "title": "Friar's Head / Le Cap Friar",
       "latitude": 44.87625,
       "longitude": -66.971919,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63629",
       "photo_urls": []
     },
@@ -2325,7 +2325,7 @@
       "title": "Campobello Company and Hotels",
       "latitude": 44.87625,
       "longitude": -66.971919,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63639",
       "photo_urls": []
     },
@@ -2334,7 +2334,7 @@
       "title": "Panoramic View of Cottages",
       "latitude": 44.87625,
       "longitude": -66.971919,
-      "directions": "Near , near Welshpool, ",
+      "directions": "Near no nearby street, near Welshpool, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=63641",
       "photo_urls": []
     },
