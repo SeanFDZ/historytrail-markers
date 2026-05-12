@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-12",
+  "run_id": 133,
+  "cycle_day": 20,
+  "regions_processed": [
+    "al-albania"
+  ],
+  "changes": {
+    "al-albania": {
+      "added": 16,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 1137,
+  "total_removed": 0,
+  "total_modified": 0
+}
