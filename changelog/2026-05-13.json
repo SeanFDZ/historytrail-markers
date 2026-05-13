@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-13",
+  "run_id": 134,
+  "cycle_day": 21,
+  "regions_processed": [
+    "ar-argentina"
+  ],
+  "changes": {
+    "ar-argentina": {
+      "added": 10,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 890,
+  "total_removed": 0,
+  "total_modified": 0
+}
