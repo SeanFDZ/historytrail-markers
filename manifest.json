@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-12T06:08:12.250Z",
+  "generated": "2026-05-13T06:09:01.296Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 72975,
@@ -32,7 +32,7 @@
       "file": "regions/ar-argentina.json",
       "markers": 9,
       "size_bytes": 2933,
-      "updated": "2026-04-15",
+      "updated": "2026-05-13",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 10,
