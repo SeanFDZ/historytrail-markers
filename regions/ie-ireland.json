@@ -3,8 +3,8 @@
   "region_name": "Ireland",
   "region_type": "country",
   "country": "Ireland",
-  "generated": "2026-04-15T06:08:28.570Z",
-  "source_timestamp": "2026-04-15T06:08:28.570Z",
+  "generated": "2026-05-13T06:08:50.901Z",
+  "source_timestamp": "2026-05-13T06:08:50.901Z",
   "marker_count": 579,
   "markers": [
     {
@@ -12,7 +12,7 @@
       "title": "Dún Aonghus",
       "latitude": 53.12555556,
       "longitude": -9.76694444,
-      "directions": "Near , Kilmurvy, ",
+      "directions": "Near no nearby street, Kilmurvy, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=109137",
       "photo_urls": []
     },
@@ -30,7 +30,7 @@
       "title": "Powerscourt Estate Terraces",
       "latitude": 53.18440923,
       "longitude": -6.18595857,
-      "directions": "Near , near Enniskerry, ",
+      "directions": "Near Eagle Valley, near Enniskerry, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135677",
       "photo_urls": []
     },
@@ -75,7 +75,7 @@
       "title": "Rev<sup><u>d</u></sup> Edward Rowan",
       "latitude": 53.01077612,
       "longitude": -6.32662447,
-      "directions": "Near , Glendalough, ",
+      "directions": "Near R757, Glendalough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135790",
       "photo_urls": []
     },
@@ -84,7 +84,7 @@
       "title": "An Ardeaglais / The Cathedral",
       "latitude": 53.010544,
       "longitude": -6.3271904,
-      "directions": "Near , Glendalough, ",
+      "directions": "Near R757, Glendalough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135830",
       "photo_urls": []
     },
@@ -93,7 +93,7 @@
       "title": "An Cloigtheach / The Round Tower",
       "latitude": 53.0109183,
       "longitude": -6.32771654,
-      "directions": "Near , Glendalough, ",
+      "directions": "Near R757, Glendalough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135831",
       "photo_urls": []
     },
@@ -102,7 +102,7 @@
       "title": "'Teach na Sagart' / The 'Priest's House'",
       "latitude": 53.01037539,
       "longitude": -6.32751188,
-      "directions": "Near , Glendalough, ",
+      "directions": "Near R757, Glendalough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135833",
       "photo_urls": []
     },
@@ -885,7 +885,7 @@
       "title": "United Irishmen 1798 - 1803",
       "latitude": 51.90490202,
       "longitude": -8.96073021,
-      "directions": "Near , Macroom, ",
+      "directions": "Near Castle Street, Macroom, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=139647",
       "photo_urls": []
     },
@@ -894,7 +894,7 @@
       "title": "Macroom Castle Demesne",
       "latitude": 51.90485916,
       "longitude": -8.96050563,
-      "directions": "Near , Macroom, ",
+      "directions": "Near Castle Street, Macroom, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=139648",
       "photo_urls": []
     },
@@ -1083,7 +1083,7 @@
       "title": "Teach do laoch / <i>Home for a hero</i>",
       "latitude": 51.76312483,
       "longitude": -10.12895926,
-      "directions": "Near , Derrynane More, ",
+      "directions": "Near Darrynane Garden Village, Derrynane More, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=140797",
       "photo_urls": []
     },
@@ -1281,7 +1281,7 @@
       "title": "The Railway",
       "latitude": 51.9509248,
       "longitude": -10.2225331,
-      "directions": "Near , Cahersiveen, ",
+      "directions": "Near Brendan&#39;s Terrace, Cahersiveen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=142419",
       "photo_urls": []
     },
@@ -1290,7 +1290,7 @@
       "title": "Railway and O'Connell",
       "latitude": 51.95086499,
       "longitude": -10.22275921,
-      "directions": "Near , Cahersiveen, ",
+      "directions": "Near Brendan&#39;s Terrace, Cahersiveen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=142461",
       "photo_urls": []
     },
@@ -1299,7 +1299,7 @@
       "title": "Sive Fort",
       "latitude": 51.95097449,
       "longitude": -10.2215641,
-      "directions": "Near , Cahersiveen, ",
+      "directions": "Near Brendan&#39;s Terrace, Cahersiveen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=142468",
       "photo_urls": []
     },
@@ -1479,7 +1479,7 @@
       "title": "Richard, First Earl of Dunraven",
       "latitude": 52.56774483,
       "longitude": -8.78507402,
-      "directions": "Near , Adare, ",
+      "directions": "Near Main Street, Adare, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143081",
       "photo_urls": []
     },
@@ -1497,7 +1497,7 @@
       "title": "Dromineer Castle",
       "latitude": 52.92576554,
       "longitude": -8.27727411,
-      "directions": "Near , Dromineer, ",
+      "directions": "Near Waterside Cottages, Dromineer, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143104",
       "photo_urls": []
     },
@@ -1587,7 +1587,7 @@
       "title": "The Wonderful Barn",
       "latitude": 53.35920483,
       "longitude": -6.50483399,
-      "directions": "Near , Leixlip, ",
+      "directions": "Near The Drive, Leixlip, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143165",
       "photo_urls": []
     },
@@ -1776,7 +1776,7 @@
       "title": "Dublin Millenium Literary Parade",
       "latitude": 53.340282,
       "longitude": -6.270313,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Bride Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22472",
       "photo_urls": []
     },
@@ -1794,7 +1794,7 @@
       "title": "St. Stephen's Green Bandstand",
       "latitude": 53.337566,
       "longitude": -6.259696,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Superintendent’s Office, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22483",
       "photo_urls": []
     },
@@ -1866,7 +1866,7 @@
       "title": "Donaghmore Church and Round Tower",
       "latitude": 53.670442,
       "longitude": -6.662119,
-      "directions": "Near , Donaghmore, ",
+      "directions": "Near N51, Donaghmore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22542",
       "photo_urls": []
     },
@@ -1875,7 +1875,7 @@
       "title": "A Fighting Chance",
       "latitude": 53.119868,
       "longitude": -9.666831,
-      "directions": "Near , Killeany, ",
+      "directions": "Near unnamed street, Killeany, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22850",
       "photo_urls": []
     },
@@ -1893,7 +1893,7 @@
       "title": "Kilfenora Cathedral and High Crosses",
       "latitude": 52.990627,
       "longitude": -9.216773,
-      "directions": "Near , Kilfenora, ",
+      "directions": "Near Clos Na Heaglaise, Kilfenora, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22990",
       "photo_urls": []
     },
@@ -1911,7 +1911,7 @@
       "title": "Tom Crean",
       "latitude": 52.151025,
       "longitude": -10.056133,
-      "directions": "Near , Anascaul, ",
+      "directions": "Near N86, Anascaul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23045",
       "photo_urls": []
     },
@@ -1938,7 +1938,7 @@
       "title": "Historic Kilfenora / Cill Fhionnúrach Stairiúil",
       "latitude": 52.990591,
       "longitude": -9.21724,
-      "directions": "Near , Kilfenora, ",
+      "directions": "Near Clos Na Heaglaise, Kilfenora, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23694",
       "photo_urls": []
     },
@@ -2100,7 +2100,7 @@
       "title": "5th Infantry Battalion Pipe Band",
       "latitude": 53.34887734,
       "longitude": -6.28526259,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Benburb Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240667",
       "photo_urls": []
     },
@@ -2109,7 +2109,7 @@
       "title": "General Richard Mulcahy/An Ginerál Risteard Ó Maolchathaigh",
       "latitude": 53.34887734,
       "longitude": -6.28526259,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Benburb Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240680",
       "photo_urls": []
     },
@@ -2118,7 +2118,7 @@
       "title": "The Arms of the Bakers' Guild of Saints Clement and Anne",
       "latitude": 53.34880834,
       "longitude": -6.28528468,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Ard Righ Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240684",
       "photo_urls": []
     },
@@ -2163,7 +2163,7 @@
       "title": "Veronica Guerin",
       "latitude": 53.3426,
       "longitude": -6.267275,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Dame Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24078",
       "photo_urls": []
     },
@@ -2172,7 +2172,7 @@
       "title": "Theobald Wolfe Tone",
       "latitude": 53.34769509,
       "longitude": -6.28539921,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Benburb Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240811",
       "photo_urls": []
     },
@@ -2181,7 +2181,7 @@
       "title": "Duke of Rutland Water Fountain / Fountain Uisce Diúc Rutland",
       "latitude": 53.34880973,
       "longitude": -6.28703279,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Benburb Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240815",
       "photo_urls": []
     },
@@ -2190,7 +2190,7 @@
       "title": "Arbour Hill Military Cemetery and the Garrison School",
       "latitude": 53.3501282,
       "longitude": -6.28637224,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Ard Righ Place, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240875",
       "photo_urls": []
     },
@@ -2199,7 +2199,7 @@
       "title": "The burial plot of the leaders of the 1916 Rising",
       "latitude": 53.35079107,
       "longitude": -6.28688256,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240933",
       "photo_urls": []
     },
@@ -2208,7 +2208,7 @@
       "title": "The 1916 Rising memorial area / Limistéar Cuimhneacháin 1916",
       "latitude": 53.35066348,
       "longitude": -6.28713157,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240935",
       "photo_urls": []
     },
@@ -2226,7 +2226,7 @@
       "title": "Patriots Who Died During the 1916 Rising",
       "latitude": 53.3509607,
       "longitude": -6.28750956,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Oxmantown Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240965",
       "photo_urls": []
     },
@@ -2235,7 +2235,7 @@
       "title": "IUNVA House and memorial / Teach agus Cuimneachan CÉINA",
       "latitude": 53.35098128,
       "longitude": -6.28655001,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=240970",
       "photo_urls": []
     },
@@ -2388,7 +2388,7 @@
       "title": "Reask Monastic Site / Láthair Mhainistreach an Riaisc",
       "latitude": 52.167723,
       "longitude": -10.387504,
-      "directions": "Near , near Reask, ",
+      "directions": "Near Slea Head Drive, near Reask, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24147",
       "photo_urls": []
     },
@@ -2406,7 +2406,7 @@
       "title": "Monasterboice / Mainistir Bhuithe",
       "latitude": 53.777488,
       "longitude": -6.417078,
-      "directions": "Near , near Monasterboice, ",
+      "directions": "Near L6293 Newtown Monasterboice, near Monasterboice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24628",
       "photo_urls": []
     },
@@ -2424,7 +2424,7 @@
       "title": "Round Tower / An Cloigtheach",
       "latitude": 53.777761,
       "longitude": -6.418049,
-      "directions": "Near , near Monasterboice, ",
+      "directions": "Near L6293 Newtown Monasterboice, near Monasterboice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24693",
       "photo_urls": []
     },
@@ -2433,7 +2433,7 @@
       "title": "The North Church / An Teampall Thuaidh",
       "latitude": 53.777786,
       "longitude": -6.417925,
-      "directions": "Near , near Monasterboice, ",
+      "directions": "Near L6293 Newtown Monasterboice, near Monasterboice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24694",
       "photo_urls": []
     },
@@ -2442,7 +2442,7 @@
       "title": "The South Church / An Teampall Theas",
       "latitude": 53.777615,
       "longitude": -6.417764,
-      "directions": "Near , near Monasterboice, ",
+      "directions": "Near L6293 Newtown Monasterboice, near Monasterboice, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24717",
       "photo_urls": []
     },
@@ -2478,7 +2478,7 @@
       "title": "Bective Abbey / Mainistir Bheigtí",
       "latitude": 53.582417,
       "longitude": -6.702518,
-      "directions": "Near , near Bective, ",
+      "directions": "Near L4010, near Bective, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24752",
       "photo_urls": []
     },
@@ -2631,7 +2631,7 @@
       "title": "Robert Emmet",
       "latitude": 53.338985,
       "longitude": -6.260894,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Saint Stephen&#39;s Green, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25304",
       "photo_urls": []
     },
@@ -2640,7 +2640,7 @@
       "title": "The \"Three Fates\"",
       "latitude": 53.336814,
       "longitude": -6.25776,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Saint Stephen&#39;s Green, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25306",
       "photo_urls": []
     },
@@ -2658,7 +2658,7 @@
       "title": "Jeremiah O'Donovan Rossa / Ó Donnabháin Rosa",
       "latitude": 53.339498,
       "longitude": -6.260232,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Saint Stephen&#39;s Green, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25316",
       "photo_urls": []
     },
@@ -2712,7 +2712,7 @@
       "title": "Catherine Dempsey",
       "latitude": 53.727579,
       "longitude": -6.880639,
-      "directions": "Near , Kells, ",
+      "directions": "Near R163, Kells, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26423",
       "photo_urls": []
     },
@@ -2748,7 +2748,7 @@
       "title": "Lost At Sea",
       "latitude": 53.388566,
       "longitude": -6.069024,
-      "directions": "On , Howth, ",
+      "directions": "On Harbour Road, Howth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26806",
       "photo_urls": []
     },
@@ -2793,7 +2793,7 @@
       "title": "The 25 Pounder Gun",
       "latitude": 53.35102829,
       "longitude": -6.28665819,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269452",
       "photo_urls": []
     },
@@ -2802,7 +2802,7 @@
       "title": "Irish Defence Forces Headquarters Flag Pole Remnant",
       "latitude": 53.35100526,
       "longitude": -6.28658716,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269454",
       "photo_urls": []
     },
@@ -2811,7 +2811,7 @@
       "title": "Cyprus - Sinai",
       "latitude": 53.35103394,
       "longitude": -6.28652537,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269502",
       "photo_urls": []
     },
@@ -2820,7 +2820,7 @@
       "title": "Congo",
       "latitude": 53.35103394,
       "longitude": -6.28652537,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269503",
       "photo_urls": []
     },
@@ -2829,7 +2829,7 @@
       "title": "Chad - Somalia",
       "latitude": 53.35089827,
       "longitude": -6.28630103,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269505",
       "photo_urls": []
     },
@@ -2838,7 +2838,7 @@
       "title": "Somalia",
       "latitude": 53.35092342,
       "longitude": -6.28630165,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269506",
       "photo_urls": []
     },
@@ -2847,7 +2847,7 @@
       "title": "Lebanon",
       "latitude": 53.35093895,
       "longitude": -6.28629686,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Mount Temple Road, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269507",
       "photo_urls": []
     },
@@ -3072,7 +3072,7 @@
       "title": "Blessington Street Basin",
       "latitude": 53.35721771,
       "longitude": -6.26980407,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Blessington Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269816",
       "photo_urls": []
     },
@@ -3081,7 +3081,7 @@
       "title": "Iris Murdoch",
       "latitude": 53.35710469,
       "longitude": -6.26984488,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Blessington Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269817",
       "photo_urls": []
     },
@@ -3108,7 +3108,7 @@
       "title": "Ed Bowden",
       "latitude": 53.35734377,
       "longitude": -6.26973426,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Blessington Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269821",
       "photo_urls": []
     },
@@ -3234,7 +3234,7 @@
       "title": "Blessington Street Basin/<lang=ga>Duga Shráid Bhaile Coimín</lang=ga>",
       "latitude": 53.35711008,
       "longitude": -6.269815,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Blessington Street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270063",
       "photo_urls": []
     },
@@ -3342,7 +3342,7 @@
       "title": "Ireland's Hidden HEARTLANDS",
       "latitude": 53.42340722,
       "longitude": -7.94243512,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270176",
       "photo_urls": []
     },
@@ -3513,7 +3513,7 @@
       "title": "Clonmacnoise",
       "latitude": 53.42338018,
       "longitude": -7.94250698,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270380",
       "photo_urls": []
     },
@@ -3522,7 +3522,7 @@
       "title": "The Great Siege of Athlone 1691 / Remains of the Elizabethan Bridge / River Shannon and Navigation",
       "latitude": 53.42339686,
       "longitude": -7.94250998,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270383",
       "photo_urls": []
     },
@@ -3531,7 +3531,7 @@
       "title": "Athlone Woollen Mills/Town Bridge",
       "latitude": 53.42340893,
       "longitude": -7.94253939,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270385",
       "photo_urls": []
     },
@@ -3540,7 +3540,7 @@
       "title": "Custume Barracks/Church of Saints Peter and Paul/Railway Bridge/Luan Gallery",
       "latitude": 53.42340717,
       "longitude": -7.94256899,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270386",
       "photo_urls": []
     },
@@ -3567,7 +3567,7 @@
       "title": "Historical Garden at Athlone Castle",
       "latitude": 53.42336087,
       "longitude": -7.94260068,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270431",
       "photo_urls": []
     },
@@ -3576,7 +3576,7 @@
       "title": "Site of the President's House",
       "latitude": 53.42315357,
       "longitude": -7.94249031,
-      "directions": "Near , Athlone, ",
+      "directions": "Near Castle Street, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270435",
       "photo_urls": []
     },
@@ -3585,7 +3585,7 @@
       "title": "24-Pounder Gun",
       "latitude": 53.42322313,
       "longitude": -7.94251859,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270442",
       "photo_urls": []
     },
@@ -3594,7 +3594,7 @@
       "title": "Athlone Castle",
       "latitude": 53.42324436,
       "longitude": -7.94269422,
-      "directions": "Near , Athlone, ",
+      "directions": "Near The Quay, Athlone, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270445",
       "photo_urls": []
     },
@@ -3621,7 +3621,7 @@
       "title": "James Joyce",
       "latitude": 53.337241,
       "longitude": -6.259943,
-      "directions": "Near , Dublin, ",
+      "directions": "Near Superintendent’s Office, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27047",
       "photo_urls": []
     },
@@ -3819,7 +3819,7 @@
       "title": "Pádraic Ó Conaire (1882-1928)",
       "latitude": 53.27437073,
       "longitude": -9.04926281,
-      "directions": "Near , Galway, ",
+      "directions": "Near Eyre Square, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270705",
       "photo_urls": []
     },
@@ -3909,7 +3909,7 @@
       "title": "Salmon Weir Bridge/<lang=ga>Droichead na mBradán</lang=ga>",
       "latitude": 53.27487933,
       "longitude": -9.05543366,
-      "directions": "Near , Galway, ",
+      "directions": "Near Newtownsmith, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270736",
       "photo_urls": []
     },
@@ -3918,7 +3918,7 @@
       "title": "<i>\"Death at Crane's Court\"</i>",
       "latitude": 53.27490494,
       "longitude": -9.05507428,
-      "directions": "Near , Galway, ",
+      "directions": "Near Newtownsmith, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270745",
       "photo_urls": []
     },
@@ -3981,7 +3981,7 @@
       "title": "Galway Democratic Republic",
       "latitude": 53.26986244,
       "longitude": -9.05406346,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270768",
       "photo_urls": []
     },
@@ -3990,7 +3990,7 @@
       "title": "Galway Waterway Trails / Rianta Uiscebhealaí na Gaillimhe",
       "latitude": 53.2702692,
       "longitude": -9.05446042,
-      "directions": "Near , Galway, ",
+      "directions": "Near Spanish Arch, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270774",
       "photo_urls": []
     },
@@ -4134,7 +4134,7 @@
       "title": "Spanish Arch/An Póirse Caoch",
       "latitude": 53.27023476,
       "longitude": -9.05424788,
-      "directions": "Near , Galway, ",
+      "directions": "Near Spanish Arch, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270886",
       "photo_urls": []
     },
@@ -4143,7 +4143,7 @@
       "title": "The Spanish Arch/<lang=ga>An Póirse Caoch</lang=ga>",
       "latitude": 53.26983008,
       "longitude": -9.05402773,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270890",
       "photo_urls": []
     },
@@ -4188,7 +4188,7 @@
       "title": "Spanish Armada Sailors Memorial",
       "latitude": 53.27122009,
       "longitude": -9.04623315,
-      "directions": "Near , Galway, ",
+      "directions": "Near Lough Atalia Road, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270969",
       "photo_urls": []
     },
@@ -4197,7 +4197,7 @@
       "title": "Sailors and Soldiers of the Grand Armada",
       "latitude": 53.27174081,
       "longitude": -9.04698033,
-      "directions": "Near , Galway, ",
+      "directions": "Near no nearby street, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270973",
       "photo_urls": []
     },
@@ -4206,7 +4206,7 @@
       "title": "James Stephens, Esq.",
       "latitude": 53.27154508,
       "longitude": -9.04636091,
-      "directions": "Near , Galway, ",
+      "directions": "Near Lough Atalia Road, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270976",
       "photo_urls": []
     },
@@ -4242,7 +4242,7 @@
       "title": "Lavender • <lang=ga>Labhandar</lang=ga> • <lang=la>Lavandula</lang=la>",
       "latitude": 53.26980609,
       "longitude": -9.05377686,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271018",
       "photo_urls": []
     },
@@ -4251,7 +4251,7 @@
       "title": "Crab Apple • <lang=ga>Crann Fia-úll</lang=ga> • <lang=la>Malus</lang=la>",
       "latitude": 53.26980609,
       "longitude": -9.05377686,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271022",
       "photo_urls": []
     },
@@ -4260,7 +4260,7 @@
       "title": "Spanish Broom • <lang=ga>Beallaí Spáinneach</lang=ga> • <lang=la> Genista Hispanica</lang=la>",
       "latitude": 53.26978534,
       "longitude": -9.05380895,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271023",
       "photo_urls": []
     },
@@ -4269,7 +4269,7 @@
       "title": "Oak • <lang=ga>Dair</lang=ga> • <lang=la>Quercus Rober</lang=la>",
       "latitude": 53.26978534,
       "longitude": -9.05380895,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271025",
       "photo_urls": []
     },
@@ -4278,7 +4278,7 @@
       "title": "Rosemary • <lang=ga>Marós</lang=ga> • <lang=la>Rosmarinus Officinalis</lang=la>",
       "latitude": 53.26977054,
       "longitude": -9.05382251,
-      "directions": "Near , Galway, ",
+      "directions": "Near Dominick Street Lower, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271044",
       "photo_urls": []
     },
@@ -4287,7 +4287,7 @@
       "title": "Mountain Ash • <lang=ga>Caorthann</lang=ga> • <lang=la>Sorbus Acuparia</lang=la>",
       "latitude": 53.26977054,
       "longitude": -9.05382251,
-      "directions": "Near , Galway, ",
+      "directions": "Near Dominick Street Lower, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271046",
       "photo_urls": []
     },
@@ -4296,7 +4296,7 @@
       "title": "St. John's Wort • <lang=ga>Beathnua</lang=ga> • <lang=la>Hypericum</lang=la>",
       "latitude": 53.26975627,
       "longitude": -9.05384394,
-      "directions": "Near , Galway, ",
+      "directions": "Near Dominick Street Lower, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271048",
       "photo_urls": []
     },
@@ -4305,7 +4305,7 @@
       "title": "Hawthorn • <lang=ga>Scheach Gheal</lang=ga> • <lang=la>Crataegus Monogyna</lang=la>",
       "latitude": 53.26975627,
       "longitude": -9.05384394,
-      "directions": "Near , Galway, ",
+      "directions": "Near Dominick Street Lower, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271058",
       "photo_urls": []
     },
@@ -4314,7 +4314,7 @@
       "title": "Heather • <lang=ga>Fraoch Mór</lang=ga> • <lang=la>Calluna Vulgaris</lang=la>",
       "latitude": 53.26969575,
       "longitude": -9.05375449,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271068",
       "photo_urls": []
     },
@@ -4323,7 +4323,7 @@
       "title": "Silver Birch • <lang=ga>Beith Gheal</lang=ga> • <lang=la>Betula Pendula</lang=la>",
       "latitude": 53.26969575,
       "longitude": -9.05375449,
-      "directions": "Near , Galway, ",
+      "directions": "Near The Long Walk, Galway, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271070",
       "photo_urls": []
     },
@@ -4512,7 +4512,7 @@
       "title": "Lake Walk",
       "latitude": 53.56035191,
       "longitude": -9.89090472,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271350",
       "photo_urls": []
     },
@@ -4548,7 +4548,7 @@
       "title": "Kylemore Castle Ash Pit",
       "latitude": 53.56168708,
       "longitude": -9.88980459,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271380",
       "photo_urls": []
     },
@@ -4557,7 +4557,7 @@
       "title": "From Generation to Generation",
       "latitude": 53.56172928,
       "longitude": -9.8896997,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271405",
       "photo_urls": []
     },
@@ -4566,7 +4566,7 @@
       "title": "St Mary's Church / Eaglais Mhuire",
       "latitude": 53.387459,
       "longitude": -6.066041,
-      "directions": "Near , Howth, ",
+      "directions": "Near Abbey Street, Howth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27183",
       "photo_urls": []
     },
@@ -4575,7 +4575,7 @@
       "title": "Howth Abbey, St. Marys / \"Mainistir\" Bhinn Éadair",
       "latitude": 53.387475,
       "longitude": -6.066121,
-      "directions": "Near , Howth, ",
+      "directions": "Near Abbey Street, Howth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27205",
       "photo_urls": []
     },
@@ -4602,7 +4602,7 @@
       "title": "Newtowntrim Cathedral / Ardeaglais an Bhaile Nua",
       "latitude": 53.555504,
       "longitude": -6.772127,
-      "directions": "Near , near Trim, ",
+      "directions": "Near Steeple Manor, near Trim, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27240",
       "photo_urls": []
     },
@@ -4620,7 +4620,7 @@
       "title": "Spire of Loyd",
       "latitude": 53.733126,
       "longitude": -6.904907,
-      "directions": "Near , near Loyd, ",
+      "directions": "Near R163, near Loyd, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27324",
       "photo_urls": []
     },
@@ -4683,7 +4683,7 @@
       "title": "Lanesborough / Béal Átha Liag History 500 - 1900 AD",
       "latitude": 53.672908,
       "longitude": -7.992055,
-      "directions": "Near , Lanesborough, (On the right when traveling south)",
+      "directions": "Near Main Street, Lanesborough, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27424",
       "photo_urls": []
     },
@@ -4755,7 +4755,7 @@
       "title": "Murrisk Friary / Mainistir Mhuraisce",
       "latitude": 53.782119,
       "longitude": -9.639773,
-      "directions": "Near , Murrisk, ",
+      "directions": "Near Carrowkeel, Murrisk, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27587",
       "photo_urls": []
     },
@@ -4773,7 +4773,7 @@
       "title": "<i>Murrisk</i> Abbey / <i>National Famine Monument</i> / <i>Statue of St Patrick</i>",
       "latitude": 53.779181,
       "longitude": -9.6398,
-      "directions": "Near , Murrisk, ",
+      "directions": "Near L5879 Bellataleen, Murrisk, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27757",
       "photo_urls": []
     },
@@ -4818,7 +4818,7 @@
       "title": "Killeen Graveyard and Cross Slab",
       "latitude": 53.713349,
       "longitude": -9.88328,
-      "directions": "Near , Killeen, (On the right when traveling south)",
+      "directions": "Near R378, Killeen, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28056",
       "photo_urls": []
     },
@@ -4827,7 +4827,7 @@
       "title": "<i>Bunlahinch</i> Clapperbridge",
       "latitude": 53.718165,
       "longitude": -9.889197,
-      "directions": "Near , near Cloonlaur, (On the left when traveling east)",
+      "directions": "Near Cloonlaur, near Cloonlaur, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28058",
       "photo_urls": []
     },
@@ -4836,7 +4836,7 @@
       "title": "Srahwee or Altóir Megalithic Wedge Tomb",
       "latitude": 53.706237,
       "longitude": -9.825259,
-      "directions": "Near , Althore, ",
+      "directions": "Near R378, Althore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28063",
       "photo_urls": []
     },
@@ -4845,7 +4845,7 @@
       "title": "Monk's Fishing House / Teach Iascaigh na Manach",
       "latitude": 53.539839,
       "longitude": -9.288501,
-      "directions": "Near , Cong, ",
+      "directions": "Near Abbey Street, Cong, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28068",
       "photo_urls": []
     },
@@ -4872,7 +4872,7 @@
       "title": "Percy French",
       "latitude": 53.808254,
       "longitude": -8.258039,
-      "directions": "Near , near Cloonyquin, ",
+      "directions": "Near L1419 Boyanagh, near Cloonyquin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28177",
       "photo_urls": []
     },
@@ -4890,7 +4890,7 @@
       "title": "Rathmoyle Cemetery",
       "latitude": 53.779152,
       "longitude": -8.378277,
-      "directions": "Near , near Rathmoyle, ",
+      "directions": "Near Glenvela, near Rathmoyle, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28204",
       "photo_urls": []
     },
@@ -4899,7 +4899,7 @@
       "title": "Squadron Leader R. F. C. Garvey",
       "latitude": 53.782037,
       "longitude": -9.63943,
-      "directions": "Near , Murrisk, ",
+      "directions": "Near Carrowkeel, Murrisk, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28259",
       "photo_urls": []
     },
@@ -4953,7 +4953,7 @@
       "title": "George Murbury",
       "latitude": 54.950991,
       "longitude": -7.738971,
-      "directions": "Near , Letterkenny, ",
+      "directions": "Near Lower Ard O&#39;Donnell Road, Letterkenny, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71546",
       "photo_urls": []
     },
@@ -4971,7 +4971,7 @@
       "title": "Donegal Castle",
       "latitude": 54.654895,
       "longitude": -8.110589,
-      "directions": "Near , Donegal Town, ",
+      "directions": "Near Bridge Street, Donegal Town, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71569",
       "photo_urls": []
     },
@@ -4989,7 +4989,7 @@
       "title": "The Franciscan Friary of Donegal",
       "latitude": 54.650411,
       "longitude": -8.114872,
-      "directions": "Near , Donegal Town, ",
+      "directions": "Near The Glebe, Donegal Town, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71600",
       "photo_urls": []
     },
@@ -4998,7 +4998,7 @@
       "title": "Donegal Friary / Mainistir Dhún na nGall",
       "latitude": 54.65078,
       "longitude": -8.114958,
-      "directions": "Near , Donegal Town, ",
+      "directions": "Near The Glebe, Donegal Town, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71608",
       "photo_urls": []
     },
@@ -5007,7 +5007,7 @@
       "title": "Farming on Sliabh Liag / Feirmeoireacht ar Shliabh Liag",
       "latitude": 54.627573,
       "longitude": -8.684413,
-      "directions": "On , Slieve League, ",
+      "directions": "On Sliabh Liag Road, Slieve League, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71630",
       "photo_urls": []
     },
@@ -5016,7 +5016,7 @@
       "title": "Fishing /Iascaireacht",
       "latitude": 54.627225,
       "longitude": -8.684839,
-      "directions": "Near , Slieve League, ",
+      "directions": "Near Sliabh Liag Road, Slieve League, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71644",
       "photo_urls": []
     },
@@ -5025,7 +5025,7 @@
       "title": "The Bog / An Portach",
       "latitude": 54.627146,
       "longitude": -8.684902,
-      "directions": "Near , Slieve League, ",
+      "directions": "Near Sliabh Liag Road, Slieve League, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71668",
       "photo_urls": []
     },
@@ -5034,7 +5034,7 @@
       "title": "Signal Towers / Túir Comharthaíochta",
       "latitude": 54.626921,
       "longitude": -8.684775,
-      "directions": "Near , Slieve League, ",
+      "directions": "Near Sliabh Liag Road, Slieve League, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71669",
       "photo_urls": []
     },
@@ -5043,7 +5043,7 @@
       "title": "Chough / Cág Cos-dearg",
       "latitude": 54.6268,
       "longitude": -8.684501,
-      "directions": "Near , Slieve League, ",
+      "directions": "Near Sliabh Liag Road, Slieve League, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71696",
       "photo_urls": []
     },
@@ -5106,7 +5106,7 @@
       "title": "Remains of St Tiernach",
       "latitude": 54.17767,
       "longitude": -7.232537,
-      "directions": "Near , Clones, ",
+      "directions": "Near Cara Street, Clones, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73277",
       "photo_urls": []
     },
@@ -5124,7 +5124,7 @@
       "title": "Murrisk Fisherman's Monument",
       "latitude": 53.77984,
       "longitude": -9.62456,
-      "directions": "Near , Murrisk, ",
+      "directions": "Near The Carrigeens, Murrisk, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=80404",
       "photo_urls": []
     },
@@ -5214,7 +5214,7 @@
       "title": "Welcome to Tara of the Kings",
       "latitude": 53.581725,
       "longitude": -6.610098,
-      "directions": "Near , Tara, ",
+      "directions": "Near Jordanstown, Tara, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=92091",
       "photo_urls": []
     }
