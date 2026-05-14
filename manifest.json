@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-13T06:09:01.296Z",
+  "generated": "2026-05-14T06:11:36.683Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 72975,
+  "total_markers": 73018,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -62,12 +62,12 @@
       "type": "country",
       "country": "Australia",
       "file": "regions/au-australia.json",
-      "markers": 109,
-      "size_bytes": 32826,
-      "updated": "2026-04-16",
+      "markers": 152,
+      "size_bytes": 45996,
+      "updated": "2026-05-14",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 109,
+        "added": 150,
         "removed": 0,
         "modified": 0
       }
