@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-14",
+  "run_id": 135,
+  "cycle_day": 22,
+  "regions_processed": [
+    "au-australia"
+  ],
+  "changes": {
+    "au-australia": {
+      "added": 150,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 2824,
+  "total_removed": 0,
+  "total_modified": 0
+}
