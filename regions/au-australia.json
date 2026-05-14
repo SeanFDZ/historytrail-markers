@@ -3,9 +3,9 @@
   "region_name": "Australia",
   "region_type": "country",
   "country": "Australia",
-  "generated": "2026-04-16T06:06:08.715Z",
-  "source_timestamp": "2026-04-16T06:06:08.715Z",
-  "marker_count": 109,
+  "generated": "2026-05-14T06:10:59.056Z",
+  "source_timestamp": "2026-05-14T06:10:59.056Z",
+  "marker_count": 152,
   "markers": [
     {
       "id": "100365",
@@ -284,6 +284,15 @@
       "longitude": 145.16366667,
       "directions": "On Kingsway, Glen Waverley, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=296163",
+      "photo_urls": []
+    },
+    {
+      "id": "296166",
+      "title": "Shire of Mulgrave Honour Roll Cenotaph",
+      "latitude": -37.88284722,
+      "longitude": 145.16361944,
+      "directions": "On Kingsway, Glen Waverley, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296166",
       "photo_urls": []
     },
     {
@@ -611,6 +620,15 @@
       "photo_urls": []
     },
     {
+      "id": "296843",
+      "title": "Flying Saucer Sighting",
+      "latitude": -37.94610278,
+      "longitude": 145.13217222,
+      "directions": "Near Osborne Avenue, Clayton South, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296843",
+      "photo_urls": []
+    },
+    {
       "id": "296844",
       "title": "The Grange",
       "latitude": -37.94626389,
@@ -653,6 +671,24 @@
       "longitude": 145.22892176,
       "directions": "On Maroondah Highway (State Route 34) , Ringwood, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297053",
+      "photo_urls": []
+    },
+    {
+      "id": "297202",
+      "title": "WWI Recruitment",
+      "latitude": -37.81544444,
+      "longitude": 145.22876111,
+      "directions": "On Maroondah Highway (State Route 34) , Ringwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297202",
+      "photo_urls": []
+    },
+    {
+      "id": "297204",
+      "title": "WWI Peace and Celebrations",
+      "latitude": -37.81624444,
+      "longitude": 145.22744722,
+      "directions": "On Maroondah Highway (State Route 34) , Ringwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297204",
       "photo_urls": []
     },
     {
@@ -705,8 +741,359 @@
       "title": "Ringwood Primary School - 1921",
       "latitude": -37.81936389,
       "longitude": 145.23073611,
-      "directions": "Near , Ringwood, ",
+      "directions": "Near Greenwood Avenue, Ringwood, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297431",
+      "photo_urls": []
+    },
+    {
+      "id": "297770",
+      "title": "QF 25 Pounder Field Gun",
+      "latitude": -37.81596667,
+      "longitude": 145.22764722,
+      "directions": "On Maroondah Highway (State Route 34) , Ringwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297770",
+      "photo_urls": []
+    },
+    {
+      "id": "298339",
+      "title": "Ringwood Clock Tower and War Memorial",
+      "latitude": -37.81607222,
+      "longitude": 145.22758889,
+      "directions": "On Maroondah Highway (State Route 34) , Ringwood, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298339",
+      "photo_urls": []
+    },
+    {
+      "id": "298533",
+      "title": "Sharelle McMahon",
+      "latitude": -37.82331944,
+      "longitude": 144.98114444,
+      "directions": "On Olympic Boulevard (State Route 20) , Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298533",
+      "photo_urls": []
+    },
+    {
+      "id": "298534",
+      "title": "Rod Laver",
+      "latitude": -37.82226111,
+      "longitude": 144.97903611,
+      "directions": "On Batman Avenue, Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298534",
+      "photo_urls": []
+    },
+    {
+      "id": "298535",
+      "title": "Bob Rose",
+      "latitude": -37.82361111,
+      "longitude": 144.979675,
+      "directions": "On Olympic Boulevard (State Route 20) , Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298535",
+      "photo_urls": []
+    },
+    {
+      "id": "298537",
+      "title": "Melbourne Olympic Swimming Pool",
+      "latitude": -37.82366667,
+      "longitude": 144.98007778,
+      "directions": "On Olympic Boulevard (Route 20) , Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298537",
+      "photo_urls": []
+    },
+    {
+      "id": "298797",
+      "title": "Lou Richards",
+      "latitude": -37.82399444,
+      "longitude": 144.98035278,
+      "directions": "On Olympic Boulevard (State Route 20) , Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298797",
+      "photo_urls": []
+    },
+    {
+      "id": "298802",
+      "title": "Sportsmanship",
+      "latitude": -37.82396111,
+      "longitude": 144.98236667,
+      "directions": "On Olympic Boulevard (Route 20) , Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298802",
+      "photo_urls": []
+    },
+    {
+      "id": "298808",
+      "title": "The Army and Olympic Park",
+      "latitude": -37.82428333,
+      "longitude": 144.98485833,
+      "directions": "On Olympic Boulevard (State Route 20) , Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298808",
+      "photo_urls": []
+    },
+    {
+      "id": "298823",
+      "title": "Ferenc Puskás",
+      "latitude": -37.82604167,
+      "longitude": 144.985425,
+      "directions": "Near Olympic Boulevard (State Route 20) , Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298823",
+      "photo_urls": []
+    },
+    {
+      "id": "298849",
+      "title": "Morell (Anderson Street) Monier Arch Bridge",
+      "latitude": -37.82805833,
+      "longitude": 144.984725,
+      "directions": "On Alexandra Avenue, South Yarra, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298849",
+      "photo_urls": []
+    },
+    {
+      "id": "298854",
+      "title": "Murong or Yam Daisy",
+      "latitude": -37.828125,
+      "longitude": 144.98079444,
+      "directions": "Near Alexandra Avenue, Melbourne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298854",
+      "photo_urls": []
+    },
+    {
+      "id": "299159",
+      "title": "Earth, mother",
+      "latitude": -37.82826111,
+      "longitude": 144.98058333,
+      "directions": "Near Alexandra Avenue, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299159",
+      "photo_urls": []
+    },
+    {
+      "id": "299160",
+      "title": "Victoria's Grassy Woodland",
+      "latitude": -37.82806944,
+      "longitude": 144.98018611,
+      "directions": "Near no nearby street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299160",
+      "photo_urls": []
+    },
+    {
+      "id": "299163",
+      "title": "Taming the river",
+      "latitude": -37.82799444,
+      "longitude": 144.98006111,
+      "directions": "Near no nearby street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299163",
+      "photo_urls": []
+    },
+    {
+      "id": "299164",
+      "title": "Victoria's Native Orchids",
+      "latitude": -37.82801944,
+      "longitude": 144.97996944,
+      "directions": "On no nearby street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299164",
+      "photo_urls": []
+    },
+    {
+      "id": "299166",
+      "title": "Director's Residence Royal Botanic Gardens",
+      "latitude": -37.82991389,
+      "longitude": 144.97808056,
+      "directions": "Near no nearby street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299166",
+      "photo_urls": []
+    },
+    {
+      "id": "299168",
+      "title": "Botanic Gardens Curators or Directors",
+      "latitude": -37.82712778,
+      "longitude": 144.97955833,
+      "directions": "Near , Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299168",
+      "photo_urls": []
+    },
+    {
+      "id": "299336",
+      "title": "Princes Bridge Hotel",
+      "latitude": -37.81753889,
+      "longitude": 144.967125,
+      "directions": "On Swanston Street, Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299336",
+      "photo_urls": []
+    },
+    {
+      "id": "299337",
+      "title": "The First Melbourne Land Auction",
+      "latitude": -37.81727415,
+      "longitude": 144.96721517,
+      "directions": "On Swanston Street, Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299337",
+      "photo_urls": []
+    },
+    {
+      "id": "299339",
+      "title": "The Battle of Flinders Street",
+      "latitude": -37.81852222,
+      "longitude": 144.96294167,
+      "directions": "On Bond Street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299339",
+      "photo_urls": []
+    },
+    {
+      "id": "299346",
+      "title": "You Should Have Seen It",
+      "latitude": -37.81675556,
+      "longitude": 144.965875,
+      "directions": "On Flinders Lane, Melbourne, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299346",
+      "photo_urls": []
+    },
+    {
+      "id": "299347",
+      "title": "Adam Lindsay Gordon 1932",
+      "latitude": -37.81231389,
+      "longitude": 144.97370278,
+      "directions": "On Spring Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299347",
+      "photo_urls": []
+    },
+    {
+      "id": "299356",
+      "title": "Stanford Fountain",
+      "latitude": -37.81241927,
+      "longitude": 144.97389981,
+      "directions": "On Spring Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299356",
+      "photo_urls": []
+    },
+    {
+      "id": "299433",
+      "title": "Alcaston House",
+      "latitude": -37.81303611,
+      "longitude": 144.97366111,
+      "directions": "On Spring Street, Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299433",
+      "photo_urls": []
+    },
+    {
+      "id": "299434",
+      "title": "Christian Brothers Pioneer School",
+      "latitude": -37.81131173,
+      "longitude": 144.96202193,
+      "directions": "On Elizabeth Street, Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299434",
+      "photo_urls": []
+    },
+    {
+      "id": "299435",
+      "title": "St. Francis Church",
+      "latitude": -37.81204448,
+      "longitude": 144.96257059,
+      "directions": "On Lonsdale Street, Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299435",
+      "photo_urls": []
+    },
+    {
+      "id": "299436",
+      "title": "Charles George Gordon",
+      "latitude": -37.81276131,
+      "longitude": 144.97392376,
+      "directions": "On Spring Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299436",
+      "photo_urls": []
+    },
+    {
+      "id": "299437",
+      "title": "The Old Treasury Building",
+      "latitude": -37.81315833,
+      "longitude": 144.97424722,
+      "directions": "On Spring Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299437",
+      "photo_urls": []
+    },
+    {
+      "id": "299438",
+      "title": "Scotch College",
+      "latitude": -37.81253889,
+      "longitude": 144.97345,
+      "directions": "On Spring Street, Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299438",
+      "photo_urls": []
+    },
+    {
+      "id": "299439",
+      "title": "The Windsor Hotel",
+      "latitude": -37.81198333,
+      "longitude": 144.97317778,
+      "directions": "On Spring Street, Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299439",
+      "photo_urls": []
+    },
+    {
+      "id": "299547",
+      "title": "Bourke Street c1900.",
+      "latitude": -37.81156389,
+      "longitude": 144.97275278,
+      "directions": "On Bourke Street, Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299547",
+      "photo_urls": []
+    },
+    {
+      "id": "299605",
+      "title": "Saint Vincent de Paul",
+      "latitude": -37.80739722,
+      "longitude": 144.97528333,
+      "directions": "Near Victoria Parade (State Route 45) , Fitzroy, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299605",
+      "photo_urls": []
+    },
+    {
+      "id": "299607",
+      "title": "Eastern Hill Fire Station",
+      "latitude": -37.80841667,
+      "longitude": 144.97540556,
+      "directions": "On Victoria Parade (State Route 32) , East Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299607",
+      "photo_urls": []
+    },
+    {
+      "id": "299610",
+      "title": "New Temple Church",
+      "latitude": -37.80952222,
+      "longitude": 144.97669722,
+      "directions": "On Morrison Place, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299610",
+      "photo_urls": []
+    },
+    {
+      "id": "299611",
+      "title": "Dame Nellie Melba",
+      "latitude": -37.80950278,
+      "longitude": 144.97631944,
+      "directions": "On Albert Street, East Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299611",
+      "photo_urls": []
+    },
+    {
+      "id": "299612",
+      "title": "Victorian Artists' Society",
+      "latitude": -37.80946733,
+      "longitude": 144.97625344,
+      "directions": "On Albert Street, East Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299612",
+      "photo_urls": []
+    },
+    {
+      "id": "299618",
+      "title": "Daniel O'Connell",
+      "latitude": -37.80986667,
+      "longitude": 144.97596944,
+      "directions": "On Gisborne Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299618",
+      "photo_urls": []
+    },
+    {
+      "id": "299619",
+      "title": "Daniel Mannix",
+      "latitude": -37.81058889,
+      "longitude": 144.97596944,
+      "directions": "On Cathedral Place, East Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299619",
       "photo_urls": []
     },
     {
@@ -801,7 +1188,7 @@
     },
     {
       "id": "70630",
-      "title": "The Only Classified Brothel in Victoria",
+      "title": "This Establishment Built About 1878 Is The Only Classified Brothel in Victoria",
       "latitude": -36.122385,
       "longitude": 144.74719,
       "directions": "On Little Hopwood Street, Echuca, ",
