@@ -3,9 +3,9 @@
   "region_name": "Ontario",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-04-17T06:07:28.934Z",
-  "source_timestamp": "2026-04-17T06:07:28.934Z",
-  "marker_count": 4485,
+  "generated": "2026-05-15T06:06:38.345Z",
+  "source_timestamp": "2026-05-15T06:06:38.345Z",
+  "marker_count": 4495,
   "markers": [
     {
       "id": "100728",
@@ -651,7 +651,7 @@
       "title": "The Kaministikwia Route",
       "latitude": 48.401281,
       "longitude": -89.625279,
-      "directions": "Near , near Kakabeka Falls, ",
+      "directions": "Near no nearby street, near Kakabeka Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=106543",
       "photo_urls": []
     },
@@ -660,7 +660,7 @@
       "title": "The Mountain Portage",
       "latitude": 48.401371,
       "longitude": -89.624961,
-      "directions": "Near , near Kakabeka Falls, ",
+      "directions": "Near no nearby street, near Kakabeka Falls, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=106547",
       "photo_urls": []
     },
@@ -2640,7 +2640,7 @@
       "title": "Fun on the River",
       "latitude": 44.58509607,
       "longitude": -75.6850845,
-      "directions": "Near , Brockville, ",
+      "directions": "Near Henry Street, Brockville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=146933",
       "photo_urls": []
     },
@@ -12792,7 +12792,7 @@
       "title": "Abraham Erb",
       "latitude": 43.46712778,
       "longitude": -80.5297,
-      "directions": "On , Waterloo, ",
+      "directions": "On no nearby street, Waterloo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244169",
       "photo_urls": []
     },
@@ -17256,7 +17256,7 @@
       "title": "Toronto Normal School Coat of Arms",
       "latitude": 43.65890833,
       "longitude": -79.37901944,
-      "directions": "Near , Toronto, ",
+      "directions": "Near Victoria Street, Toronto, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=259879",
       "photo_urls": []
     },
@@ -33240,7 +33240,7 @@
       "title": "Canada's National Horse",
       "latitude": 44.94623725,
       "longitude": -75.06865405,
-      "directions": "Near , Morrisburg, ",
+      "directions": "Near County Rd 2, Morrisburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=283993",
       "photo_urls": []
     },
@@ -37484,6 +37484,96 @@
       "photo_urls": []
     },
     {
+      "id": "299190",
+      "title": "The Erland Lee Museum Chicken Coop, c. 1930",
+      "latitude": 43.20655,
+      "longitude": -79.72194722,
+      "directions": "Near Ridge Road, Hamilton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299190",
+      "photo_urls": []
+    },
+    {
+      "id": "299320",
+      "title": "Moses Franklin Rittenhouse 1848-1915",
+      "latitude": 43.18976111,
+      "longitude": -79.39617222,
+      "directions": "On Vinedale Avenue, Lincoln, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299320",
+      "photo_urls": []
+    },
+    {
+      "id": "299321",
+      "title": "Horticultural Experimental Farm",
+      "latitude": 43.18967606,
+      "longitude": -79.39621269,
+      "directions": "On Vinedale Avenue, Lincoln, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299321",
+      "photo_urls": []
+    },
+    {
+      "id": "299323",
+      "title": "Beamsville Preserving Compnay",
+      "latitude": 43.16299722,
+      "longitude": -79.46824722,
+      "directions": "On King Street (Niagara Regional Road 81), Lincoln, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299323",
+      "photo_urls": []
+    },
+    {
+      "id": "299341",
+      "title": "Fleming Farms Hatchery",
+      "latitude": 43.16884485,
+      "longitude": -79.47635632,
+      "directions": "On Ontario Street, Lincoln, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299341",
+      "photo_urls": []
+    },
+    {
+      "id": "299342",
+      "title": "The Hamilton, Grimsby & Beamsville Electric Railway Company",
+      "latitude": 43.197625,
+      "longitude": -79.57605,
+      "directions": "On Livingstone Avenue, Grimsby, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299342",
+      "photo_urls": []
+    },
+    {
+      "id": "299390",
+      "title": "Harriet Tubman Public School Time Capsule",
+      "latitude": 43.16866906,
+      "longitude": -79.24849298,
+      "directions": "On Henry St, St. Catharines, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299390",
+      "photo_urls": []
+    },
+    {
+      "id": "299626",
+      "title": "The Grand River Mission",
+      "latitude": 43.09928611,
+      "longitude": -80.21296667,
+      "directions": "On Salt Springs Church Road, near Brantford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299626",
+      "photo_urls": []
+    },
+    {
+      "id": "299631",
+      "title": "Dr. Augusta Stowe Gullen",
+      "latitude": 43.08206667,
+      "longitude": -80.31221111,
+      "directions": "On Mount Pleasant Road, Brant, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299631",
+      "photo_urls": []
+    },
+    {
+      "id": "299681",
+      "title": "The Founding of Waterford",
+      "latitude": 42.93315833,
+      "longitude": -80.29028333,
+      "directions": "On Main Street South (Norfolk County Road 24), Waterford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299681",
+      "photo_urls": []
+    },
+    {
       "id": "34302",
       "title": "Hull's Landing 1812",
       "latitude": 42.32596667,
@@ -37794,7 +37884,7 @@
       "title": "Scarborough Bluffs",
       "latitude": 43.70228333,
       "longitude": -79.23885,
-      "directions": "Near , Toronto, ",
+      "directions": "Near no nearby street, Toronto, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39366",
       "photo_urls": []
     },
