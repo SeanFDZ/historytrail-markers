@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-15",
+  "run_id": 136,
+  "cycle_day": 23,
+  "regions_processed": [
+    "at-austria"
+  ],
+  "changes": {
+    "at-austria": {
+      "added": 189,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 7446,
+  "total_removed": 0,
+  "total_modified": 0
+}
