@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-15T06:06:54.085Z",
+  "generated": "2026-05-16T06:07:17.210Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73018,
@@ -160,7 +160,7 @@
       "file": "regions/bs-the-bahamas.json",
       "markers": 25,
       "size_bytes": 7521,
-      "updated": "2026-04-18",
+      "updated": "2026-05-16",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 46,
