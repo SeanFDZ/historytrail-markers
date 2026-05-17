@@ -3,9 +3,9 @@
   "region_name": "Netherlands",
   "region_type": "country",
   "country": "Netherlands",
-  "generated": "2026-04-19T06:09:40.658Z",
-  "source_timestamp": "2026-04-19T06:09:40.658Z",
-  "marker_count": 1287,
+  "generated": "2026-05-17T06:09:41.689Z",
+  "source_timestamp": "2026-05-17T06:09:41.689Z",
+  "marker_count": 1291,
   "markers": [
     {
       "id": "100017",
@@ -9129,7 +9129,7 @@
       "title": "Schietbaan / Shooting Range",
       "latitude": 52.33154722,
       "longitude": 5.07158889,
-      "directions": "Near , Muiden, ",
+      "directions": "Near Ossenmarkt, Muiden, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=261814",
       "photo_urls": []
     },
@@ -10443,7 +10443,7 @@
       "title": "Lancaster R5512",
       "latitude": 52.38909966,
       "longitude": 4.91920997,
-      "directions": "Near , Amsterdam, ",
+      "directions": "Near Johan van Hasseltweg, Amsterdam, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=272979",
       "photo_urls": []
     },
@@ -11570,6 +11570,42 @@
       "longitude": 4.90898907,
       "directions": "On Plantage Middenlaan, Amsterdam, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292776",
+      "photo_urls": []
+    },
+    {
+      "id": "299566",
+      "title": "Transvaalplein: 1. De AWV en de vakbond / The AWV and the Trade Union",
+      "latitude": 52.3540109,
+      "longitude": 4.92350658,
+      "directions": "On Transvaalstraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299566",
+      "photo_urls": []
+    },
+    {
+      "id": "299577",
+      "title": "Transvaalplein: 2. Ontwerp van Berlage / Design by Berlage",
+      "latitude": 52.353741,
+      "longitude": 4.92337376,
+      "directions": "On Transvaalplein, Amsterdam, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299577",
+      "photo_urls": []
+    },
+    {
+      "id": "299609",
+      "title": "Transvaalplein: 4. Actieve Bewoners / Active Residents",
+      "latitude": 52.35362198,
+      "longitude": 4.92311321,
+      "directions": "On Transvaalplein, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299609",
+      "photo_urls": []
+    },
+    {
+      "id": "299656",
+      "title": "Transvaalplein 5. Het Plein / The Square",
+      "latitude": 52.35360586,
+      "longitude": 4.92306085,
+      "directions": "On Transvaalplein, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299656",
       "photo_urls": []
     },
     {
