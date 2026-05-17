@@ -3,9 +3,9 @@
   "region_name": "Québec",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-04-19T06:09:40.650Z",
-  "source_timestamp": "2026-04-19T06:09:40.650Z",
-  "marker_count": 617,
+  "generated": "2026-05-17T06:09:41.679Z",
+  "source_timestamp": "2026-05-17T06:09:41.679Z",
+  "marker_count": 621,
   "markers": [
     {
       "id": "102395",
@@ -3812,6 +3812,42 @@
       "longitude": -69.04450468,
       "directions": "On Rue Saint-Joseph Nord (State Route 289) , Rivière-Bleue, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=295318",
+      "photo_urls": []
+    },
+    {
+      "id": "299595",
+      "title": "Place J.-Ernest-Laforce",
+      "latitude": 45.51243337,
+      "longitude": -73.55524908,
+      "directions": "On Rue Berri, Montreal, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299595",
+      "photo_urls": []
+    },
+    {
+      "id": "299596",
+      "title": "Square Viger",
+      "latitude": 45.51187278,
+      "longitude": -73.5541008,
+      "directions": "On Rue Saint-Antoine Est, Montreal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299596",
+      "photo_urls": []
+    },
+    {
+      "id": "299597",
+      "title": "Édifice Gilles-Hocquart",
+      "latitude": 45.51319009,
+      "longitude": -73.55465835,
+      "directions": "On Avenue Viger Est, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299597",
+      "photo_urls": []
+    },
+    {
+      "id": "299875",
+      "title": "Le jardin de Lyon",
+      "latitude": 45.51234644,
+      "longitude": -73.55540982,
+      "directions": "On Avenue Viger Est, Montreal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299875",
       "photo_urls": []
     },
     {
