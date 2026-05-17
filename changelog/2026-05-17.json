@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-17",
+  "run_id": 138,
+  "cycle_day": 25,
+  "regions_processed": [
+    "ca-qc"
+  ],
+  "changes": {
+    "ca-qc": {
+      "added": 621,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 2185,
+  "total_removed": 0,
+  "total_modified": 0
+}
