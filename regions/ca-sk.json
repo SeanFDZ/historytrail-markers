@@ -3,8 +3,8 @@
   "region_name": "Saskatchewan",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-04-20T06:07:37.336Z",
-  "source_timestamp": "2026-04-20T06:07:37.336Z",
+  "generated": "2026-05-18T06:06:09.306Z",
+  "source_timestamp": "2026-05-18T06:06:09.306Z",
   "marker_count": 162,
   "markers": [
     {
@@ -696,7 +696,7 @@
       "title": "Wood Mountain-Qu'Appelle Trail",
       "latitude": 49.790727,
       "longitude": -105.355984,
-      "directions": "On , near Ormiston, (On the right when traveling north)",
+      "directions": "On no nearby street, near Ormiston, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205104",
       "photo_urls": []
     },
@@ -705,7 +705,7 @@
       "title": "John Macoun",
       "latitude": 49.612992,
       "longitude": -108.761284,
-      "directions": "Near , near Eastend, ",
+      "directions": "Near no nearby street, near Eastend, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205152",
       "photo_urls": []
     },
@@ -714,7 +714,7 @@
       "title": "Pine Cree Park",
       "latitude": 49.613172,
       "longitude": -108.761345,
-      "directions": "Near , near Eastend, ",
+      "directions": "Near no nearby street, near Eastend, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=205153",
       "photo_urls": []
     },
