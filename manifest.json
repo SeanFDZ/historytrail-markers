@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-17T06:09:52.921Z",
+  "generated": "2026-05-18T06:06:20.030Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73022,
@@ -96,7 +96,7 @@
       "file": "regions/bb-barbados.json",
       "markers": 16,
       "size_bytes": 5201,
-      "updated": "2026-04-20",
+      "updated": "2026-05-18",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 16,
