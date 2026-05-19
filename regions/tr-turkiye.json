@@ -3,8 +3,8 @@
   "region_name": "Turkiye",
   "region_type": "country",
   "country": "Turkiye",
-  "generated": "2026-04-21T11:58:56.818Z",
-  "source_timestamp": "2026-04-21T11:58:56.818Z",
+  "generated": "2026-05-19T06:06:40.216Z",
+  "source_timestamp": "2026-05-19T06:06:40.216Z",
   "marker_count": 171,
   "markers": [
     {
@@ -156,7 +156,7 @@
       "title": "Martyrion of St. Philip",
       "latitude": 37.93106667,
       "longitude": 29.13026667,
-      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "directions": "Near Isimsiz Yol, near Pamukkale, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118853",
       "photo_urls": []
     },
@@ -165,7 +165,7 @@
       "title": "The Theatre",
       "latitude": 37.92705,
       "longitude": 29.129466,
-      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "directions": "Near Isimsiz Yol, near Pamukkale, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118880",
       "photo_urls": []
     },
@@ -174,7 +174,7 @@
       "title": "Temple Nymphaeum (3rd century AD) / Tapinak Nymphaeumu(i.S, III. yÃ¼zyÄ±l)",
       "latitude": 37.927003,
       "longitude": 29.125911,
-      "directions": "Near &#304;simsiz Yol, near Pamukkale, (On the right when traveling south)",
+      "directions": "Near Isimsiz Yol, near Pamukkale, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=118898",
       "photo_urls": []
     },
@@ -183,7 +183,7 @@
       "title": "Yildirim Beyazit Mosque (1390 - 1400 AD)",
       "latitude": 38.34943333,
       "longitude": 28.51768333,
-      "directions": "On &#304;smet Pa&#351;a Caddesi, Ala&#351;ehir, (On the right when traveling west)",
+      "directions": "On Ismet Pasa Caddesi, Alasehir, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119167",
       "photo_urls": []
     },
@@ -192,7 +192,7 @@
       "title": "St. Jean Kilisesi",
       "latitude": 38.3493,
       "longitude": 28.51768333,
-      "directions": "On &#304;smet Pa&#351;a Caddesi, Ala&#351;ehir, (On the left when traveling west)",
+      "directions": "On Ismet Pasa Caddesi, Alasehir, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119176",
       "photo_urls": []
     },
@@ -309,7 +309,7 @@
       "title": "The Ancient City of Smyrna",
       "latitude": 38.41851667,
       "longitude": 27.13856667,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119432",
       "photo_urls": []
     },
@@ -318,7 +318,7 @@
       "title": "The West Portico",
       "latitude": 38.41869,
       "longitude": 27.138427,
-      "directions": "On Tarik Sari Soka&#287;&#305;, &#304;zmir, ",
+      "directions": "On Tarik Sari Sokagi, Izmir, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119464",
       "photo_urls": []
     },
@@ -345,7 +345,7 @@
       "title": "The Ancient City of Smyrna",
       "latitude": 38.41853333,
       "longitude": 27.13858333,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119632",
       "photo_urls": []
     },
@@ -354,7 +354,7 @@
       "title": "The Agora of Smyrna",
       "latitude": 38.41848333,
       "longitude": 27.13853333,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119638",
       "photo_urls": []
     },
@@ -363,7 +363,7 @@
       "title": "The Agora of Smyrna",
       "latitude": 38.41846667,
       "longitude": 27.13851667,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119657",
       "photo_urls": []
     },
@@ -372,7 +372,7 @@
       "title": "The Dream of Alexander the Great",
       "latitude": 38.419158,
       "longitude": 27.138246,
-      "directions": "On Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "On Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119670",
       "photo_urls": []
     },
@@ -381,7 +381,7 @@
       "title": "Neocorus of the Cult of the Emperor at Smyrna",
       "latitude": 38.419026,
       "longitude": 27.138418,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119687",
       "photo_urls": []
     },
@@ -390,7 +390,7 @@
       "title": "The Basement of the West Portico",
       "latitude": 38.419137,
       "longitude": 27.138323,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119691",
       "photo_urls": []
     },
@@ -399,7 +399,7 @@
       "title": "Honorary Inscription",
       "latitude": 38.419046,
       "longitude": 27.138412,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119725",
       "photo_urls": []
     },
@@ -408,7 +408,7 @@
       "title": "Water Channels",
       "latitude": 38.41902,
       "longitude": 27.138226,
-      "directions": "Near Tarik Sari Soka&#287;&#305;, &#304;zmir, (On the left when traveling east)",
+      "directions": "Near Tarik Sari Sokagi, Izmir, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119729",
       "photo_urls": []
     },
@@ -435,7 +435,7 @@
       "title": "The Roman Columned Street",
       "latitude": 38.92009,
       "longitude": 27.836487,
-      "directions": "Near &#350;ehit Polis Cemal Ilgaz Caddesi, Akhisar, (On the right when traveling north)",
+      "directions": "Near Sehit Polis Cemal Ilgaz Caddesi, Akhisar, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119801",
       "photo_urls": []
     },
@@ -444,7 +444,7 @@
       "title": "Pergamon Acropolis",
       "latitude": 39.13178333,
       "longitude": 27.18538333,
-      "directions": "On Akropol Caddesi, Hamzal&#305;süleymaniye, (On the right when traveling north)",
+      "directions": "On Akropol Caddesi, Hamzalisüleymaniye, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=119822",
       "photo_urls": []
     },
@@ -522,7 +522,7 @@
     },
     {
       "id": "43715",
-      "title": "St. Jean'in (Aziz Yahya) Kimli&#287;i Ve Hayat&#305;/The Life of St. John",
+      "title": "St. Jean'in (Aziz Yahya) Kimligi Ve Hayati/The Life of St. John",
       "latitude": 37.952473,
       "longitude": 27.367956,
       "directions": "Near St. Jean Caddisi, Selçuk, ",
@@ -585,10 +585,10 @@
     },
     {
       "id": "83979",
-      "title": "&#304;smet &#304;nönü",
+      "title": "Ismet Inönü",
       "latitude": 39.925404,
       "longitude": 32.836863,
-      "directions": "Near An&#305;tkabir, Ankara, (On the left when traveling south)",
+      "directions": "Near Anitkabir, Ankara, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83979",
       "photo_urls": []
     },
@@ -606,7 +606,7 @@
       "title": "Özkonak Underground Town",
       "latitude": 38.80702,
       "longitude": 34.841255,
-      "directions": "Near Özkonak Yeralt&#305; &#350;ehri Yolu, near Özkonak, (On the left when traveling south)",
+      "directions": "Near Özkonak Yeralti Sehri Yolu, near Özkonak, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84034",
       "photo_urls": []
     },
@@ -630,7 +630,7 @@
     },
     {
       "id": "84119",
-      "title": "Y&#305;lanl&#305; (St. Onuphorius) Church",
+      "title": "Yilanli (St. Onuphorius) Church",
       "latitude": 38.638931,
       "longitude": 34.845497,
       "directions": "Near Müze Cadde, near Göreme, (On the right",
@@ -648,7 +648,7 @@
     },
     {
       "id": "84121",
-      "title": "Karanl&#305;k (Dark) Church",
+      "title": "Karanlik (Dark) Church",
       "latitude": 38.639111,
       "longitude": 34.845667,
       "directions": "Near Müze Cadde, Göreme, (On the right when traveling south)",
@@ -666,7 +666,7 @@
     },
     {
       "id": "84151",
-      "title": "Çar&#305;kl&#305; (Sandals) Church",
+      "title": "Çarikli (Sandals) Church",
       "latitude": 38.639275,
       "longitude": 34.845815,
       "directions": "Near Müze Cadde, near Göreme, ",
@@ -675,7 +675,7 @@
     },
     {
       "id": "84152",
-      "title": "Elmal&#305; (Apple) Church",
+      "title": "Elmali (Apple) Church",
       "latitude": 38.639205,
       "longitude": 34.845175,
       "directions": "Near Müze Cadde, near Göreme, (On the right when traveling south)",
@@ -693,7 +693,7 @@
     },
     {
       "id": "84156",
-      "title": "Tokal&#305; (Buckle) Church",
+      "title": "Tokali (Buckle) Church",
       "latitude": 38.641044,
       "longitude": 34.844615,
       "directions": "Near Müze Cadde, near Göreme, (On the left when traveling south)",
@@ -705,7 +705,7 @@
       "title": "Aksaray - Sultanhani Caravanserai (1229)",
       "latitude": 38.248128,
       "longitude": 33.547043,
-      "directions": "On Atatürk Caddesi, Sultanhan&#305;, (On the left when traveling south)",
+      "directions": "On Atatürk Caddesi, Sultanhani, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84169",
       "photo_urls": []
     },
@@ -714,7 +714,7 @@
       "title": "Aspendos",
       "latitude": 36.939359,
       "longitude": 31.172681,
-      "directions": "Near Aspendos Yolu, near Belk&#305;s, (On the right when traveling north)",
+      "directions": "Near Aspendos Yolu, near Belkis, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84193",
       "photo_urls": []
     },
@@ -723,7 +723,7 @@
       "title": "The Theatre of Aspendos",
       "latitude": 36.93923,
       "longitude": 31.17252,
-      "directions": "On Aspendos Yolu, near Belk&#305;s, (On the right when traveling north)",
+      "directions": "On Aspendos Yolu, near Belkis, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84194",
       "photo_urls": []
     },
@@ -1029,7 +1029,7 @@
       "title": "Topkapi Palace",
       "latitude": 41.008444,
       "longitude": 28.98138,
-      "directions": "On So&#x11F;uk Ã‡e&#x15F;me Sokak, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Soguk Çesme Sokak, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84609",
       "photo_urls": []
     },
@@ -1038,7 +1038,7 @@
       "title": "The Fountain of Ahmed III",
       "latitude": 41.008115,
       "longitude": 28.981299,
-      "directions": "On So&#x11F;uk Ã‡e&#x15F;me Sokak, &#304;stanbul, (On the left when traveling west)",
+      "directions": "On Soguk Çesme Sokak, Istanbul, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84610",
       "photo_urls": []
     },
@@ -1047,7 +1047,7 @@
       "title": "Haseki Hurrem Bathhouse",
       "latitude": 41.007235,
       "longitude": 28.979303,
-      "directions": "On Ayasofya Meydan&#x131;, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Ayasofya Meydan&#x131;, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84632",
       "photo_urls": []
     },
@@ -1056,7 +1056,7 @@
       "title": "Mausoleum of Sultan Ahmed I",
       "latitude": 41.007013,
       "longitude": 28.977367,
-      "directions": "On Kabasakal Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Kabasakal Caddesi, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84635",
       "photo_urls": []
     },
@@ -1065,7 +1065,7 @@
       "title": "Cistern of Philoxenos",
       "latitude": 41.007958,
       "longitude": 28.975452,
-      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Divan Yolu Caddesi, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84689",
       "photo_urls": []
     },
@@ -1074,7 +1074,7 @@
       "title": "St. Euphemia's Martyrion",
       "latitude": 41.007672,
       "longitude": 28.975345,
-      "directions": "Near Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "directions": "Near Divan Yolu Caddesi, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84691",
       "photo_urls": []
     },
@@ -1083,7 +1083,7 @@
       "title": "German Fountain",
       "latitude": 41.007081,
       "longitude": 28.976615,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "directions": "On Atmeydani Caddesi, Istanbul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84692",
       "photo_urls": []
     },
@@ -1092,7 +1092,7 @@
       "title": "Admiral Hayrettin",
       "latitude": 41.004069,
       "longitude": 28.98188,
-      "directions": "On Ah&#x131;rkap&#x131; Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On Ah&#x131;rkap&#x131; Caddesi, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84709",
       "photo_urls": []
     },
@@ -1101,7 +1101,7 @@
       "title": "Walled Obelisk",
       "latitude": 41.005662,
       "longitude": 28.9751,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "directions": "On Atmeydan&#x131; Caddesi, Istanbul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84710",
       "photo_urls": []
     },
@@ -1110,7 +1110,7 @@
       "title": "Obelisk of Theodosius",
       "latitude": 41.005871,
       "longitude": 28.975352,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "directions": "On Atmeydan&#x131; Caddesi, Istanbul, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84711",
       "photo_urls": []
     },
@@ -1119,7 +1119,7 @@
       "title": "Serpent Column",
       "latitude": 41.006135,
       "longitude": 28.975625,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, ",
+      "directions": "On Atmeydan&#x131; Caddesi, Istanbul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84712",
       "photo_urls": []
     },
@@ -1128,7 +1128,7 @@
       "title": "The Milion Stone",
       "latitude": 41.008068,
       "longitude": 28.978125,
-      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On Divan Yolu Caddesi, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84738",
       "photo_urls": []
     },
@@ -1137,7 +1137,7 @@
       "title": "Million",
       "latitude": 41.008117,
       "longitude": 28.978178,
-      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On Divan Yolu Caddesi, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84739",
       "photo_urls": []
     },
@@ -1146,7 +1146,7 @@
       "title": "Basilica Cistern",
       "latitude": 41.008445,
       "longitude": 28.97791,
-      "directions": "On Yerebatan Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "directions": "On Yerebatan Caddesi, Istanbul, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84740",
       "photo_urls": []
     },
@@ -1155,7 +1155,7 @@
       "title": "The Basilica Cistern",
       "latitude": 41.008408,
       "longitude": 28.977964,
-      "directions": "On Yerebatan Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "directions": "On Yerebatan Caddesi, Istanbul, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84745",
       "photo_urls": []
     },
@@ -1164,7 +1164,7 @@
       "title": "Hagia Sophia",
       "latitude": 41.008787,
       "longitude": 28.979414,
-      "directions": "On Caferiye Sokak, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Caferiye Sokak, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84754",
       "photo_urls": []
     },
@@ -1173,7 +1173,7 @@
       "title": "The Remnants of the Theodosian Hagia Sophia (5th Century)",
       "latitude": 41.009026,
       "longitude": 28.979569,
-      "directions": "On Caferiye Sokak, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Caferiye Sokak, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84755",
       "photo_urls": []
     },
@@ -1182,7 +1182,7 @@
       "title": "The Türbe (Tomb) of Sultan Mehmed III",
       "latitude": 41.007985,
       "longitude": 28.979805,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling north)",
+      "directions": "On Atmeydan&#x131; Caddesi, Istanbul, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84756",
       "photo_urls": []
     },
@@ -1191,7 +1191,7 @@
       "title": "The Türbe (Tomb) of Sultan Selim II",
       "latitude": 41.008171,
       "longitude": 28.979516,
-      "directions": "On Atmeydan&#x131; Caddesi, &#304;stanbul, (On the left when traveling north)",
+      "directions": "On Atmeydan&#x131; Caddesi, Istanbul, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84757",
       "photo_urls": []
     },
@@ -1200,7 +1200,7 @@
       "title": "Rustem Pasha Mosque",
       "latitude": 41.017721,
       "longitude": 28.968673,
-      "directions": "On Mahkeme Sokak, &#304;stanbul, (On the left when traveling south)",
+      "directions": "On Mahkeme Sokak, Istanbul, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84812",
       "photo_urls": []
     },
@@ -1209,7 +1209,7 @@
       "title": "The History of the Egyptian Bazaar",
       "latitude": 41.017237,
       "longitude": 28.971178,
-      "directions": "On Tahmis Sokak, &#304;stanbul, (On the right when traveling north)",
+      "directions": "On Tahmis Sokak, Istanbul, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84814",
       "photo_urls": []
     },
@@ -1218,7 +1218,7 @@
       "title": "Marmara Land Walls (Theodosian Walls)",
       "latitude": 41.004093,
       "longitude": 28.982321,
-      "directions": "On Ah&#x131;rkap&#x131; Caddesi, &#304;stanbul, ",
+      "directions": "On Ah&#x131;rkap&#x131; Caddesi, Istanbul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84815",
       "photo_urls": []
     },
@@ -1227,7 +1227,7 @@
       "title": "The Tunnel",
       "latitude": 41.027817,
       "longitude": 28.971918,
-      "directions": "On Me&#x15F;rutiyet Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "directions": "On Me&#x15F;rutiyet Caddesi, Istanbul, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84829",
       "photo_urls": []
     },
@@ -1236,7 +1236,7 @@
       "title": "Maksem Taksim",
       "latitude": 41.036331,
       "longitude": 28.984389,
-      "directions": "On Taksim Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "directions": "On Taksim Caddesi, Istanbul, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84831",
       "photo_urls": []
     },
@@ -1245,7 +1245,7 @@
       "title": "March 16th Martyrs",
       "latitude": 41.012405,
       "longitude": 28.95954,
-      "directions": "On 16 Mart &#x15E;ehitleri Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "directions": "On 16 Mart &#x15E;ehitleri Caddesi, Istanbul, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84857",
       "photo_urls": []
     },
@@ -1254,7 +1254,7 @@
       "title": "The Tomb of Suleiman the Magnificent",
       "latitude": 41.015489,
       "longitude": 28.963906,
-      "directions": "Near Kirazl&#x131; Mescit Sokak, &#304;stanbul, (On the left when traveling north)",
+      "directions": "Near Kirazl&#x131; Mescit Sokak, Istanbul, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84860",
       "photo_urls": []
     },
@@ -1263,7 +1263,7 @@
       "title": "Suleymaniye Mosque and Social Complex",
       "latitude": 41.015278,
       "longitude": 28.963694,
-      "directions": "On Profesör S&#x131;dd&#x131;k Sami Onar Caddesi, &#304;stanbul, (On the left when traveling east)",
+      "directions": "On Profesör S&#x131;dd&#x131;k Sami Onar Caddesi, Istanbul, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84862",
       "photo_urls": []
     },
@@ -1272,16 +1272,16 @@
       "title": "Mimar Sinan",
       "latitude": 41.017274,
       "longitude": 28.963846,
-      "directions": "On Mimar Sinan Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On Mimar Sinan Caddesi, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84876",
       "photo_urls": []
     },
     {
       "id": "84877",
-      "title": "Galatasaray&#305; Hamami",
+      "title": "Galatasarayi Hamami",
       "latitude": 41.03287,
       "longitude": 28.979908,
-      "directions": "On Turnac&#305;ba&#351;&#305; Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "directions": "On Turnacibasi Caddesi, Istanbul, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84877",
       "photo_urls": []
     },
@@ -1290,7 +1290,7 @@
       "title": "Galata Tower",
       "latitude": 41.025611,
       "longitude": 28.97428,
-      "directions": "On Galata Kulesi, &#304;stanbul, ",
+      "directions": "On Galata Kulesi, Istanbul, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84878",
       "photo_urls": []
     },
@@ -1299,16 +1299,16 @@
       "title": "Firuz Aga Mosque",
       "latitude": 41.007947,
       "longitude": 28.976265,
-      "directions": "On Divan Yolu Caddesi, &#304;stanbul, (On the left when traveling west)",
+      "directions": "On Divan Yolu Caddesi, Istanbul, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84948",
       "photo_urls": []
     },
     {
       "id": "84950",
-      "title": "&#350;imke&#351;hane",
+      "title": "Simkeshane",
       "latitude": 41.009342,
       "longitude": 28.962611,
-      "directions": "On Darphane Sokak, &#304;stanbul, (On the left when traveling west)",
+      "directions": "On Darphane Sokak, Istanbul, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84950",
       "photo_urls": []
     },
@@ -1317,7 +1317,7 @@
       "title": "The Ruins of the Triumphal Arch of Theodosius",
       "latitude": 41.009422,
       "longitude": 28.962209,
-      "directions": "On Ordu Caddesi, &#304;stanbul, (On the right when traveling east)",
+      "directions": "On Ordu Caddesi, Istanbul, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84952",
       "photo_urls": []
     },
@@ -1326,7 +1326,7 @@
       "title": "Ruins of Bucoleon Palace",
       "latitude": 41.002377,
       "longitude": 28.976194,
-      "directions": "On Kap&#x131;a&#x11F;as&#x131; Hisar&#x131; Sokak, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On Kap&#x131;a&#x11F;as&#x131; Hisar&#x131; Sokak, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84979",
       "photo_urls": []
     },
@@ -1335,7 +1335,7 @@
       "title": "The Building of Ministry of Post and Telegraph (Grand Post Office)",
       "latitude": 41.014446,
       "longitude": 28.974347,
-      "directions": "On BÃ¼yÃ¼k Postane Caddesi, &#304;stanbul, (On the left when traveling west)",
+      "directions": "On BÃ¼yÃ¼k Postane Caddesi, Istanbul, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84980",
       "photo_urls": []
     },
@@ -1344,7 +1344,7 @@
       "title": "Pasakapisi",
       "latitude": 41.011161,
       "longitude": 28.978067,
-      "directions": "On Alaykö&#x15F;kÃ¼ Caddesi, &#304;stanbul, (On the right when traveling south)",
+      "directions": "On Alaykö&#x15F;kÃ¼ Caddesi, Istanbul, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85033",
       "photo_urls": []
     },
@@ -1353,7 +1353,7 @@
       "title": "Gulhane Park",
       "latitude": 41.01094,
       "longitude": 28.978967,
-      "directions": "Near Alemdar Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "directions": "Near Alemdar Caddesi, Istanbul, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85041",
       "photo_urls": []
     },
@@ -1362,7 +1362,7 @@
       "title": "Alay Pavillion",
       "latitude": 41.010881,
       "longitude": 28.978248,
-      "directions": "On Alemdar Caddesi, &#304;stanbul, (On the left when traveling south)",
+      "directions": "On Alemdar Caddesi, Istanbul, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85044",
       "photo_urls": []
     },
@@ -1371,16 +1371,16 @@
       "title": "Sirkeci Terminal",
       "latitude": 41.015177,
       "longitude": 28.976342,
-      "directions": "On Ankara Caddesi, &#304;stanbul, (On the right when traveling north)",
+      "directions": "On Ankara Caddesi, Istanbul, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85075",
       "photo_urls": []
     },
     {
       "id": "85077",
-      "title": "&#350;ehzade Mosque and Complex",
+      "title": "Sehzade Mosque and Complex",
       "latitude": 41.013892,
       "longitude": 28.956073,
-      "directions": "On 15 Temmuz &#x15E;ehitleri Caddesi, &#304;stanbul, (On the right when traveling west)",
+      "directions": "On 15 Temmuz &#x15E;ehitleri Caddesi, Istanbul, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85077",
       "photo_urls": []
     },
@@ -1533,7 +1533,7 @@
       "title": "Kapi Agasi Mahmud Aga Mosque",
       "latitude": 41.003341,
       "longitude": 28.976697,
-      "directions": "On Fenerlikap&#x131; Sokak, &#304;stanbul, (On the right when traveling south)",
+      "directions": "On Fenerlikapi Sokak, Istanbul, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=86075",
       "photo_urls": []
     },
@@ -1542,7 +1542,7 @@
       "title": "Adnan Kahveci",
       "latitude": 40.900049,
       "longitude": 29.227018,
-      "directions": "On Abdi &#304;pekçi Caddesi, &#304;stanbul, (In the median)",
+      "directions": "On Abdi Ipekçi Caddesi, Istanbul, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95748",
       "photo_urls": []
     }
