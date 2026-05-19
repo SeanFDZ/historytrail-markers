@@ -3,9 +3,9 @@
   "region_name": "Belgium",
   "region_type": "country",
   "country": "Belgium",
-  "generated": "2026-04-21T11:58:56.812Z",
-  "source_timestamp": "2026-04-21T11:58:56.812Z",
-  "marker_count": 238,
+  "generated": "2026-05-19T06:06:40.210Z",
+  "source_timestamp": "2026-05-19T06:06:40.210Z",
+  "marker_count": 239,
   "markers": [
     {
       "id": "111981",
@@ -2102,6 +2102,15 @@
       "longitude": 3.50097715,
       "directions": "On Rue des Prisonniers, Tournai, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=291655",
+      "photo_urls": []
+    },
+    {
+      "id": "299556",
+      "title": "’T Keerske",
+      "latitude": 51.20960393,
+      "longitude": 3.22597459,
+      "directions": "On Philipstockstraat, Brugge, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299556",
       "photo_urls": []
     },
     {
