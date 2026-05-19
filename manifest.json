@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-18T06:06:20.030Z",
+  "generated": "2026-05-19T06:06:50.985Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73022,
+  "total_markers": 73023,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -110,12 +110,12 @@
       "type": "country",
       "country": "Belgium",
       "file": "regions/be-belgium.json",
-      "markers": 238,
-      "size_bytes": 73624,
-      "updated": "2026-04-21",
+      "markers": 239,
+      "size_bytes": 73919,
+      "updated": "2026-05-19",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 240,
+        "added": 241,
         "removed": 0,
         "modified": 0
       }
