@@ -3,9 +3,9 @@
   "region_name": "Denmark",
   "region_type": "country",
   "country": "Denmark",
-  "generated": "2026-04-22T06:05:59.708Z",
-  "source_timestamp": "2026-04-22T06:05:59.708Z",
-  "marker_count": 57,
+  "generated": "2026-05-20T06:05:55.604Z",
+  "source_timestamp": "2026-05-20T06:05:55.604Z",
+  "marker_count": 58,
   "markers": [
     {
       "id": "123973",
@@ -507,7 +507,7 @@
       "title": "Tycho Brahe",
       "latitude": 55.67201167,
       "longitude": 12.56786167,
-      "directions": "Near Bernstorffsgade, Copenhagen Municipality, ",
+      "directions": "Near Bernstorffsgade, Copenhagen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244143",
       "photo_urls": []
     },
@@ -518,6 +518,15 @@
       "longitude": 12.59908,
       "directions": "Near Langelinie, Copenhagen, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244230",
+      "photo_urls": []
+    },
+    {
+      "id": "299567",
+      "title": "Roskilde Domkirke / Roskilde Cathedral",
+      "latitude": 55.64248191,
+      "longitude": 12.07989081,
+      "directions": "On Domkirkepladsen, Roskilde, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299567",
       "photo_urls": []
     }
   ]
