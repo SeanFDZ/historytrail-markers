@@ -3,9 +3,9 @@
   "region_name": "Pennsylvania",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-23T06:04:43.686Z",
-  "source_timestamp": "2026-04-23T06:04:43.686Z",
-  "marker_count": 15553,
+  "generated": "2026-05-21T06:05:23.339Z",
+  "source_timestamp": "2026-05-21T06:05:23.339Z",
+  "marker_count": 15638,
   "markers": [
     {
       "id": "100012",
@@ -85527,7 +85527,7 @@
     },
     {
       "id": "250121",
-      "title": "The Rocky Little Hill",
+      "title": "The Little Rocky Hill",
       "latitude": 39.79202698,
       "longitude": -77.23671137,
       "directions": "Near Sykes Avenue, Round Top, (On the left when traveling north)",
@@ -100990,8 +100990,8 @@
     {
       "id": "274149",
       "title": "The Pig Lady",
-      "latitude": 40.79907304,
-      "longitude": -80.47609242,
+      "latitude": 40.79912667,
+      "longitude": -80.4760332,
       "directions": "On Ridge Road, Darlington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=274149",
       "photo_urls": []
@@ -109844,6 +109844,15 @@
       "photo_urls": []
     },
     {
+      "id": "297327",
+      "title": "McDonald's Railroad Freight Station / A View of South McDonald Street",
+      "latitude": 40.36721222,
+      "longitude": -80.23467969,
+      "directions": "Near Panhandle Trail, McDonald, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297327",
+      "photo_urls": []
+    },
+    {
       "id": "297329",
       "title": "McDonald's West Bound Passenger Train Station / McDonald's East Bound Passenger Train Station",
       "latitude": 40.36697951,
@@ -110078,6 +110087,15 @@
       "photo_urls": []
     },
     {
+      "id": "298061",
+      "title": "Hockendauqua Indian Town",
+      "latitude": 40.69435,
+      "longitude": -75.49095,
+      "directions": "On Nor Bath Boulevard (State Route 329) , near Northampton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298061",
+      "photo_urls": []
+    },
+    {
       "id": "298065",
       "title": "Shawn Giles",
       "latitude": 42.21599261,
@@ -110093,6 +110111,267 @@
       "longitude": -79.83161934,
       "directions": "On East Main Street (U.S. 20) , North East, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298070",
+      "photo_urls": []
+    },
+    {
+      "id": "298103",
+      "title": "In Honor of Revolutionary War Patriot Isaac Tripp",
+      "latitude": 41.42639663,
+      "longitude": -75.66992316,
+      "directions": "On Main Avenue, Scranton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298103",
+      "photo_urls": []
+    },
+    {
+      "id": "298106",
+      "title": "West Kittanning",
+      "latitude": 40.812181,
+      "longitude": -79.532392,
+      "directions": "On Northern Avenue, West Kittanning, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298106",
+      "photo_urls": []
+    },
+    {
+      "id": "298107",
+      "title": "Abbottstown",
+      "latitude": 39.88689167,
+      "longitude": -76.98903056,
+      "directions": "On High Street, Abbottstown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298107",
+      "photo_urls": []
+    },
+    {
+      "id": "298108",
+      "title": "Kittanning",
+      "latitude": 40.82068,
+      "longitude": -79.517276,
+      "directions": "On Clearfield Pike, Kittanning, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298108",
+      "photo_urls": []
+    },
+    {
+      "id": "298109",
+      "title": "Cowansville",
+      "latitude": 40.887972,
+      "longitude": -79.588528,
+      "directions": "On East Brady Road (State Route 268) , Cowansville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298109",
+      "photo_urls": []
+    },
+    {
+      "id": "298110",
+      "title": "Elderton",
+      "latitude": 40.699276,
+      "longitude": -79.346596,
+      "directions": "On Benjamin Franklin Highway (U.S. 422) , Elderton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298110",
+      "photo_urls": []
+    },
+    {
+      "id": "298111",
+      "title": "Elderton",
+      "latitude": 40.6886,
+      "longitude": -79.339083,
+      "directions": "On Benjamin Franklin Highway (U.S. 422) , Elderton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298111",
+      "photo_urls": []
+    },
+    {
+      "id": "298112",
+      "title": "Manorville",
+      "latitude": 40.793304,
+      "longitude": -79.517404,
+      "directions": "On Hill Street, Manorville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298112",
+      "photo_urls": []
+    },
+    {
+      "id": "298113",
+      "title": "Parker",
+      "latitude": 41.091068,
+      "longitude": -79.690051,
+      "directions": "On Kittanning Pike (State Route 268) , Parker, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298113",
+      "photo_urls": []
+    },
+    {
+      "id": "298114",
+      "title": "Slate Lick",
+      "latitude": 40.764556,
+      "longitude": -79.641078,
+      "directions": "On Freeport Road, North Buffalo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298114",
+      "photo_urls": []
+    },
+    {
+      "id": "298115",
+      "title": "Templeton",
+      "latitude": 40.921443,
+      "longitude": -79.46056,
+      "directions": "On Ridge Road, Templeton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298115",
+      "photo_urls": []
+    },
+    {
+      "id": "298117",
+      "title": "Almedia",
+      "latitude": 41.014924,
+      "longitude": -76.380052,
+      "directions": "On Old Berwick Road, Almedia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298117",
+      "photo_urls": []
+    },
+    {
+      "id": "298118",
+      "title": "Benton",
+      "latitude": 41.18801389,
+      "longitude": -76.38542778,
+      "directions": "On Mill Street (State Route 489) , Benton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298118",
+      "photo_urls": []
+    },
+    {
+      "id": "298119",
+      "title": "Bloomsburg",
+      "latitude": 40.991605,
+      "longitude": -76.449559,
+      "directions": "On Market Street, Bloomsburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298119",
+      "photo_urls": []
+    },
+    {
+      "id": "298120",
+      "title": "Espy",
+      "latitude": 41.003446,
+      "longitude": -76.416435,
+      "directions": "On Old Berwick Road, Espy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298120",
+      "photo_urls": []
+    },
+    {
+      "id": "298121",
+      "title": "Lime Ridge",
+      "latitude": 41.023398,
+      "longitude": -76.348131,
+      "directions": "On Old Berwick Road, Lime Ridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298121",
+      "photo_urls": []
+    },
+    {
+      "id": "298122",
+      "title": "Mainville",
+      "latitude": 40.97841,
+      "longitude": -76.375719,
+      "directions": "On Mainville Drive, Mainville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298122",
+      "photo_urls": []
+    },
+    {
+      "id": "298123",
+      "title": "Millville",
+      "latitude": 41.128742,
+      "longitude": -76.534865,
+      "directions": "On North State Street (State Route 42) , Millville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298123",
+      "photo_urls": []
+    },
+    {
+      "id": "298124",
+      "title": "Orangeville",
+      "latitude": 41.07391389,
+      "longitude": -76.41591389,
+      "directions": "On Main Street (State Route 487) , Orangeville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298124",
+      "photo_urls": []
+    },
+    {
+      "id": "298126",
+      "title": "New Florence",
+      "latitude": 40.37788,
+      "longitude": -79.06928,
+      "directions": "On 2nd Street, New Florence, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298126",
+      "photo_urls": []
+    },
+    {
+      "id": "298127",
+      "title": "Ellwood City",
+      "latitude": 40.8755463,
+      "longitude": -80.26389549,
+      "directions": "On State Route 65, Ellwood City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298127",
+      "photo_urls": []
+    },
+    {
+      "id": "298128",
+      "title": "Mount Jackson",
+      "latitude": 40.963234,
+      "longitude": -80.432807,
+      "directions": "On Mount Jackson Road (State Route 108) , Mount Jackson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298128",
+      "photo_urls": []
+    },
+    {
+      "id": "298129",
+      "title": "New Wilmington",
+      "latitude": 41.121201,
+      "longitude": -80.340978,
+      "directions": "On West Neshannock Avenue (State Route 108) , New Wilmington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298129",
+      "photo_urls": []
+    },
+    {
+      "id": "298130",
+      "title": "New Wilmington",
+      "latitude": 41.113588,
+      "longitude": -80.335953,
+      "directions": "On South New Castle Street (Route 158) , New Wilmington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298130",
+      "photo_urls": []
+    },
+    {
+      "id": "298131",
+      "title": "Wampum",
+      "latitude": 40.891263,
+      "longitude": -80.342682,
+      "directions": "On Main Street, Wampum, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298131",
+      "photo_urls": []
+    },
+    {
+      "id": "298141",
+      "title": "The First Presbyterian Church of North East",
+      "latitude": 42.21628685,
+      "longitude": -79.8351811,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298141",
+      "photo_urls": []
+    },
+    {
+      "id": "298175",
+      "title": "North-East Boro",
+      "latitude": 42.2164177,
+      "longitude": -79.83491292,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298175",
+      "photo_urls": []
+    },
+    {
+      "id": "298208",
+      "title": "North East Historic District",
+      "latitude": 42.21663624,
+      "longitude": -79.83551587,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298208",
+      "photo_urls": []
+    },
+    {
+      "id": "298230",
+      "title": "Campaign for Excellence",
+      "latitude": 41.87161718,
+      "longitude": -80.12885798,
+      "directions": "On East Normal Street, Edinboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298230",
       "photo_urls": []
     },
     {
@@ -110159,12 +110438,201 @@
       "photo_urls": []
     },
     {
+      "id": "298396",
+      "title": "The Pennsylvania Slave Trade",
+      "latitude": 39.94632109,
+      "longitude": -75.13980393,
+      "directions": "Near South Christopher Columbus Boulevard, Philadelphia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298396",
+      "photo_urls": []
+    },
+    {
+      "id": "298514",
+      "title": "Old City Hall / Independence Hall / Congress Hall",
+      "latitude": 39.94925556,
+      "longitude": -75.15016944,
+      "directions": "On South Independence Mall West (County Route 3008) , Philadelphia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298514",
+      "photo_urls": []
+    },
+    {
+      "id": "298518",
+      "title": "Independence Hall",
+      "latitude": 39.948976,
+      "longitude": -75.149987,
+      "directions": "On Chestnut Street, Philadelphia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298518",
+      "photo_urls": []
+    },
+    {
+      "id": "298530",
+      "title": "1910 Bethlehem Steel Strike",
+      "latitude": 40.612167,
+      "longitude": -75.369655,
+      "directions": "On East 3rd Street (State Route 412) , Bethlehem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298530",
+      "photo_urls": []
+    },
+    {
       "id": "29871",
       "title": "Brooks House",
       "latitude": 40.233793,
       "longitude": -74.93764,
       "directions": "On North Sycamore Street, near Newtown, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29871",
+      "photo_urls": []
+    },
+    {
+      "id": "298771",
+      "title": "Mary Ulyan Bizzak",
+      "latitude": 41.65895434,
+      "longitude": -78.81114218,
+      "directions": "On South Fraley Street, Kane, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298771",
+      "photo_urls": []
+    },
+    {
+      "id": "298860",
+      "title": "Rose Kocjancic Paar",
+      "latitude": 41.65893486,
+      "longitude": -78.81113725,
+      "directions": "On South Fraley Street, Kane, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298860",
+      "photo_urls": []
+    },
+    {
+      "id": "298878",
+      "title": "Veterans Memorial",
+      "latitude": 40.41685785,
+      "longitude": -80.47092493,
+      "directions": "On Steubenville Pike, near Burgettstown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298878",
+      "photo_urls": []
+    },
+    {
+      "id": "298886",
+      "title": "One and Two Room Schools",
+      "latitude": 40.42523184,
+      "longitude": -80.44771186,
+      "directions": "On Municipal Drive, near Burgettstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298886",
+      "photo_urls": []
+    },
+    {
+      "id": "298991",
+      "title": "Hanover Township Veterans Memorial",
+      "latitude": 40.42508818,
+      "longitude": -80.44801678,
+      "directions": "On Municipal Drive, near Burgettstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298991",
+      "photo_urls": []
+    },
+    {
+      "id": "298993",
+      "title": "Hanover Township World War II Memorial",
+      "latitude": 40.42507303,
+      "longitude": -80.44800165,
+      "directions": "On Municipal Drive, near Burgettstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298993",
+      "photo_urls": []
+    },
+    {
+      "id": "299005",
+      "title": "Lackawanna Avenue Commercial District",
+      "latitude": 41.40660219,
+      "longitude": -75.66493225,
+      "directions": "On Lackawanna Avenue, Scranton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299005",
+      "photo_urls": []
+    },
+    {
+      "id": "299008",
+      "title": "Lackawanna Avenue Commercial District",
+      "latitude": 41.40577989,
+      "longitude": -75.66366846,
+      "directions": "On Lackawanna Avenue, Scranton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299008",
+      "photo_urls": []
+    },
+    {
+      "id": "299034",
+      "title": "Lackawanna Avenue Commercial District",
+      "latitude": 41.40838868,
+      "longitude": -75.66782121,
+      "directions": "On Lackawanna Avenue, Scranton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299034",
+      "photo_urls": []
+    },
+    {
+      "id": "299035",
+      "title": "Rev. Julian Connor, C.P.",
+      "latitude": 41.40186689,
+      "longitude": -75.69085758,
+      "directions": "Near St. Ann Street, Scranton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299035",
+      "photo_urls": []
+    },
+    {
+      "id": "299036",
+      "title": "\"The Volunteer Workers\"",
+      "latitude": 41.40172235,
+      "longitude": -75.6909555,
+      "directions": "Near St. Ann Street, Scranton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299036",
+      "photo_urls": []
+    },
+    {
+      "id": "299042",
+      "title": "Rev. John Joseph Endler, C.P.",
+      "latitude": 41.40148397,
+      "longitude": -75.69094668,
+      "directions": "Near St. Ann Street, Scranton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299042",
+      "photo_urls": []
+    },
+    {
+      "id": "299066",
+      "title": "McClurg Covered Bridge - 1880",
+      "latitude": 40.42427826,
+      "longitude": -80.44671184,
+      "directions": "Near Municipal Drive, near Burgettstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299066",
+      "photo_urls": []
+    },
+    {
+      "id": "299148",
+      "title": "Lawrence, Pa. Honor Roll",
+      "latitude": 40.3045574,
+      "longitude": -80.12084444,
+      "directions": "On Georgetown Road, Lawrence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299148",
+      "photo_urls": []
+    },
+    {
+      "id": "299268",
+      "title": "2 & 6 East Main",
+      "latitude": 42.21617625,
+      "longitude": -79.83440593,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299268",
+      "photo_urls": []
+    },
+    {
+      "id": "299286",
+      "title": "23 South Lake Street",
+      "latitude": 42.21534438,
+      "longitude": -79.83497834,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299286",
+      "photo_urls": []
+    },
+    {
+      "id": "299309",
+      "title": "The Eye of General Warren",
+      "latitude": 39.79246389,
+      "longitude": -77.23666389,
+      "directions": "Near Sykes Avenue, Gettysburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299309",
       "photo_urls": []
     },
     {
@@ -110177,12 +110645,30 @@
       "photo_urls": []
     },
     {
+      "id": "299317",
+      "title": "12 East Main",
+      "latitude": 42.21625001,
+      "longitude": -79.8341427,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299317",
+      "photo_urls": []
+    },
+    {
       "id": "29932",
       "title": "Samuel Wetherill",
       "latitude": 40.61259833,
       "longitude": -75.37627833,
       "directions": "On Columbia Street, Bethlehem, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29932",
+      "photo_urls": []
+    },
+    {
+      "id": "299332",
+      "title": "41 South Lake Street",
+      "latitude": 42.21490454,
+      "longitude": -79.83515607,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299332",
       "photo_urls": []
     },
     {
@@ -110195,6 +110681,96 @@
       "photo_urls": []
     },
     {
+      "id": "299367",
+      "title": "1 East Main",
+      "latitude": 42.21590905,
+      "longitude": -79.83443614,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299367",
+      "photo_urls": []
+    },
+    {
+      "id": "299383",
+      "title": "39 South Lake Street",
+      "latitude": 42.21494592,
+      "longitude": -79.8351489,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299383",
+      "photo_urls": []
+    },
+    {
+      "id": "299385",
+      "title": "10 East Main",
+      "latitude": 42.21622764,
+      "longitude": -79.83424098,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299385",
+      "photo_urls": []
+    },
+    {
+      "id": "299406",
+      "title": "37 South Lake Street",
+      "latitude": 42.2149604,
+      "longitude": -79.83514378,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299406",
+      "photo_urls": []
+    },
+    {
+      "id": "299452",
+      "title": "8 East Main",
+      "latitude": 42.21622402,
+      "longitude": -79.83426188,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299452",
+      "photo_urls": []
+    },
+    {
+      "id": "299454",
+      "title": "35 South Lake Street",
+      "latitude": 42.21502325,
+      "longitude": -79.83510875,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299454",
+      "photo_urls": []
+    },
+    {
+      "id": "299466",
+      "title": "5 East Main",
+      "latitude": 42.21597933,
+      "longitude": -79.83430061,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299466",
+      "photo_urls": []
+    },
+    {
+      "id": "299552",
+      "title": "Archie's Corner",
+      "latitude": 39.865379,
+      "longitude": -75.575937,
+      "directions": "On Bullock Road, near Chadds Ford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299552",
+      "photo_urls": []
+    },
+    {
+      "id": "299575",
+      "title": "3 East Main",
+      "latitude": 42.21595272,
+      "longitude": -79.8343809,
+      "directions": "On East Main Street (U.S. 20) , North East, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299575",
+      "photo_urls": []
+    },
+    {
+      "id": "299585",
+      "title": "33 South Lake Street",
+      "latitude": 42.21503806,
+      "longitude": -79.83510135,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299585",
+      "photo_urls": []
+    },
+    {
       "id": "29962",
       "title": "David McKee",
       "latitude": 40.336535,
@@ -110204,12 +110780,201 @@
       "photo_urls": []
     },
     {
+      "id": "299625",
+      "title": "6 & 8 South Lake Street",
+      "latitude": 42.21577803,
+      "longitude": -79.83458396,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299625",
+      "photo_urls": []
+    },
+    {
+      "id": "299645",
+      "title": "1 West Main",
+      "latitude": 42.21582856,
+      "longitude": -79.8347636,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299645",
+      "photo_urls": []
+    },
+    {
+      "id": "299677",
+      "title": "31 South Lake Street",
+      "latitude": 42.21514715,
+      "longitude": -79.83505468,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299677",
+      "photo_urls": []
+    },
+    {
+      "id": "299684",
+      "title": "27 & 29 South Lake Street",
+      "latitude": 42.21525201,
+      "longitude": -79.83500568,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299684",
+      "photo_urls": []
+    },
+    {
+      "id": "299690",
+      "title": "10 South Lake Street",
+      "latitude": 42.21561951,
+      "longitude": -79.83462847,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299690",
+      "photo_urls": []
+    },
+    {
+      "id": "299806",
+      "title": "12 South Lake Street",
+      "latitude": 42.21558534,
+      "longitude": -79.83463476,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299806",
+      "photo_urls": []
+    },
+    {
+      "id": "299873",
+      "title": "14 & 16 South Lake Street",
+      "latitude": 42.21549598,
+      "longitude": -79.83466947,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299873",
+      "photo_urls": []
+    },
+    {
+      "id": "299912",
+      "title": "18 South Lake Street",
+      "latitude": 42.21542681,
+      "longitude": -79.83471605,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299912",
+      "photo_urls": []
+    },
+    {
       "id": "30",
       "title": "Fort Penn",
       "latitude": 40.9857,
       "longitude": -75.19322,
       "directions": "On Main Street (U.S. 209) , Stroudsburg, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30",
+      "photo_urls": []
+    },
+    {
+      "id": "300067",
+      "title": "25 South Lake Street",
+      "latitude": 42.21528965,
+      "longitude": -79.83500129,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300067",
+      "photo_urls": []
+    },
+    {
+      "id": "300069",
+      "title": "Davidsville",
+      "latitude": 40.2314076,
+      "longitude": -78.93315144,
+      "directions": "On North Main Street (State Route 403) , Davidsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300069",
+      "photo_urls": []
+    },
+    {
+      "id": "300070",
+      "title": "Holsopple",
+      "latitude": 40.20943426,
+      "longitude": -78.92829526,
+      "directions": "On Whistler Street (State Route 403) , Hollsopple, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300070",
+      "photo_urls": []
+    },
+    {
+      "id": "300072",
+      "title": "Hooversville",
+      "latitude": 40.15599642,
+      "longitude": -78.91481244,
+      "directions": "On Barn Street (State Route 403) , Hooversville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300072",
+      "photo_urls": []
+    },
+    {
+      "id": "300073",
+      "title": "Hooversville",
+      "latitude": 40.14324532,
+      "longitude": -78.91661226,
+      "directions": "On Whistler Road (State Route 403) , Hooversville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300073",
+      "photo_urls": []
+    },
+    {
+      "id": "300093",
+      "title": "Shanksville",
+      "latitude": 40.01651955,
+      "longitude": -78.91793549,
+      "directions": "On Stutzmantown Road (State Route 1001) , near Shanksville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300093",
+      "photo_urls": []
+    },
+    {
+      "id": "300095",
+      "title": "Lavansville",
+      "latitude": 40.0174262,
+      "longitude": -79.1597089,
+      "directions": "On Lavansville Road, near Somerset, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300095",
+      "photo_urls": []
+    },
+    {
+      "id": "300096",
+      "title": "Lavansville",
+      "latitude": 40.01628329,
+      "longitude": -79.14992579,
+      "directions": "On Lavansville Road, near Somerset, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300096",
+      "photo_urls": []
+    },
+    {
+      "id": "300158",
+      "title": "In Memory of Harry Dilmore",
+      "latitude": 40.51724094,
+      "longitude": -80.09696467,
+      "directions": "On Eicher Road, near Pittsburgh, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300158",
+      "photo_urls": []
+    },
+    {
+      "id": "300160",
+      "title": "Markleysburg",
+      "latitude": 39.7384484,
+      "longitude": -79.44977416,
+      "directions": "On Main Street (State Route 281) , Markleysburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300160",
+      "photo_urls": []
+    },
+    {
+      "id": "300164",
+      "title": "Christopher \"Lou\" Balon",
+      "latitude": 40.27078286,
+      "longitude": -78.84314669,
+      "directions": "On Theater Drive, near Johnstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300164",
+      "photo_urls": []
+    },
+    {
+      "id": "300166",
+      "title": "World Trade Center Artifact # G-0020",
+      "latitude": 40.26833715,
+      "longitude": -78.83559776,
+      "directions": "On Kunk&#39;s Drive, near Johnstown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300166",
+      "photo_urls": []
+    },
+    {
+      "id": "300204",
+      "title": "Bring Home the Natives",
+      "latitude": 39.99138876,
+      "longitude": -79.24151668,
+      "directions": "On Laurel Hill Park Road, near Seven Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300204",
       "photo_urls": []
     },
     {
@@ -117820,8 +118585,8 @@
     {
       "id": "49422",
       "title": "Cannelton",
-      "latitude": 40.799013,
-      "longitude": -80.47627,
+      "latitude": 40.79913623,
+      "longitude": -80.47603932,
       "directions": "On Ridge Road, near Darlington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=49422",
       "photo_urls": []
