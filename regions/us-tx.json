@@ -3,9 +3,9 @@
   "region_name": "Texas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-23T06:04:43.878Z",
-  "source_timestamp": "2026-04-23T06:04:43.878Z",
-  "marker_count": 17148,
+  "generated": "2026-05-21T06:05:23.522Z",
+  "source_timestamp": "2026-05-21T06:05:23.522Z",
+  "marker_count": 17240,
   "markers": [
     {
       "id": "100016",
@@ -125810,6 +125810,15 @@
       "photo_urls": []
     },
     {
+      "id": "298162",
+      "title": "Remembering Ancestors",
+      "latitude": 29.87118406,
+      "longitude": -93.93351102,
+      "directions": "On 4th Street, Port Arthur, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298162",
+      "photo_urls": []
+    },
+    {
       "id": "29822",
       "title": "\"The Treaty\"",
       "latitude": 31.60150886,
@@ -125819,12 +125828,84 @@
       "photo_urls": []
     },
     {
+      "id": "298279",
+      "title": "Jackson's Barber Shop & Beauty Salon",
+      "latitude": 29.81798347,
+      "longitude": -95.39323758,
+      "directions": "On North Main Street, Houston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298279",
+      "photo_urls": []
+    },
+    {
+      "id": "298357",
+      "title": "Goodnight College",
+      "latitude": 35.03697858,
+      "longitude": -101.18641798,
+      "directions": "On Farm to Market Road 294, Goodnight, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298357",
+      "photo_urls": []
+    },
+    {
+      "id": "298391",
+      "title": "Wells and Windmills",
+      "latitude": 29.79853693,
+      "longitude": -98.73149034,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298391",
+      "photo_urls": []
+    },
+    {
+      "id": "298394",
+      "title": "Local Groundwater",
+      "latitude": 29.79838611,
+      "longitude": -98.73146111,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298394",
+      "photo_urls": []
+    },
+    {
+      "id": "298400",
+      "title": "History of Boerne",
+      "latitude": 29.79839613,
+      "longitude": -98.73143334,
+      "directions": "Near North Main Street, Boerne, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298400",
+      "photo_urls": []
+    },
+    {
+      "id": "298409",
+      "title": "History of Kendall County",
+      "latitude": 29.79836595,
+      "longitude": -98.73145409,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298409",
+      "photo_urls": []
+    },
+    {
       "id": "29841",
       "title": "Eugenia Sterne Park",
       "latitude": 31.60117607,
       "longitude": -94.65090347,
       "directions": "On Pilar Street, Nacogdoches, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29841",
+      "photo_urls": []
+    },
+    {
+      "id": "298410",
+      "title": "Civic Campus History",
+      "latitude": 29.79861468,
+      "longitude": -98.73122766,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298410",
+      "photo_urls": []
+    },
+    {
+      "id": "298413",
+      "title": "Heavenly Healing Hills",
+      "latitude": 29.79934188,
+      "longitude": -98.73031896,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298413",
       "photo_urls": []
     },
     {
@@ -125846,12 +125927,66 @@
       "photo_urls": []
     },
     {
+      "id": "298479",
+      "title": "Early Kendall County Farming and Ranching",
+      "latitude": 29.79884031,
+      "longitude": -98.73172939,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298479",
+      "photo_urls": []
+    },
+    {
+      "id": "298482",
+      "title": "Native Plants",
+      "latitude": 29.79880994,
+      "longitude": -98.73172314,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298482",
+      "photo_urls": []
+    },
+    {
+      "id": "298513",
+      "title": "Did Indians Ever Live Here?",
+      "latitude": 29.79798483,
+      "longitude": -98.7322894,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298513",
+      "photo_urls": []
+    },
+    {
       "id": "29852",
       "title": "W.C. Trout and the Counter-Balanced Pumping Unit",
       "latitude": 31.3323,
       "longitude": -94.7313,
       "directions": "On South Raguet Street, Lufkin, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29852",
+      "photo_urls": []
+    },
+    {
+      "id": "298529",
+      "title": "One-Time Hill Country Health Capital",
+      "latitude": 29.79780535,
+      "longitude": -98.73260776,
+      "directions": "On North Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298529",
+      "photo_urls": []
+    },
+    {
+      "id": "298538",
+      "title": "What Was Here Before Boerne City Hall?",
+      "latitude": 29.79770168,
+      "longitude": -98.73347527,
+      "directions": "On North Main Street, Boerne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298538",
+      "photo_urls": []
+    },
+    {
+      "id": "298559",
+      "title": "From Trailway, Railway, Roadway to Greenway",
+      "latitude": 29.78894345,
+      "longitude": -98.71577009,
+      "directions": "On S Esser Road, Boerne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298559",
       "photo_urls": []
     },
     {
@@ -125909,12 +126044,174 @@
       "photo_urls": []
     },
     {
+      "id": "298979",
+      "title": "Citizens National Bank",
+      "latitude": 32.75966525,
+      "longitude": -97.79754786,
+      "directions": "On North Main Street (Farm to Market Road 51) , Weatherford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298979",
+      "photo_urls": []
+    },
+    {
+      "id": "299000",
+      "title": "Landergin-Harrington House",
+      "latitude": 35.19709939,
+      "longitude": -101.8394191,
+      "directions": "On South Polk Street, Amarillo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299000",
+      "photo_urls": []
+    },
+    {
+      "id": "299006",
+      "title": "City Park",
+      "latitude": 29.78661724,
+      "longitude": -98.71297678,
+      "directions": "On City Park Road, Boerne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299006",
+      "photo_urls": []
+    },
+    {
+      "id": "299009",
+      "title": "Herff Ranch",
+      "latitude": 29.78743842,
+      "longitude": -98.71521647,
+      "directions": "On City Park Rd, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299009",
+      "photo_urls": []
+    },
+    {
+      "id": "299022",
+      "title": "Sheep Dip Crossing",
+      "latitude": 29.78750429,
+      "longitude": -98.7157635,
+      "directions": "On City Park Rd, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299022",
+      "photo_urls": []
+    },
+    {
+      "id": "299027",
+      "title": "Old No. 9 Trail",
+      "latitude": 29.78752356,
+      "longitude": -98.71578851,
+      "directions": "On City Park Rd, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299027",
+      "photo_urls": []
+    },
+    {
+      "id": "299050",
+      "title": "Promotion & Prosperity",
+      "latitude": 29.79321817,
+      "longitude": -98.72206847,
+      "directions": "On Rosewood Avenue, Boerne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299050",
+      "photo_urls": []
+    },
+    {
+      "id": "299083",
+      "title": "Poor ol' SAP",
+      "latitude": 29.7949204,
+      "longitude": -98.7244669,
+      "directions": "On Shadywood Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299083",
+      "photo_urls": []
+    },
+    {
       "id": "29917",
       "title": "Milam Masonic Institute",
       "latitude": 31.4327,
       "longitude": -93.8461,
       "directions": "On State Route 21, Milam, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29917",
+      "photo_urls": []
+    },
+    {
+      "id": "299171",
+      "title": "Boerne Dam",
+      "latitude": 29.789497,
+      "longitude": -98.72392712,
+      "directions": "On River Road (State Route 46) , Boerne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299171",
+      "photo_urls": []
+    },
+    {
+      "id": "299173",
+      "title": "Sachs Garage",
+      "latitude": 29.78945992,
+      "longitude": -98.72977315,
+      "directions": "On South Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299173",
+      "photo_urls": []
+    },
+    {
+      "id": "299174",
+      "title": "Cibolo Creek",
+      "latitude": 29.78944842,
+      "longitude": -98.72974683,
+      "directions": "On South Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299174",
+      "photo_urls": []
+    },
+    {
+      "id": "299175",
+      "title": "Life Along the Creek",
+      "latitude": 29.78937551,
+      "longitude": -98.73018907,
+      "directions": "On South Main Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299175",
+      "photo_urls": []
+    },
+    {
+      "id": "299180",
+      "title": "Theis-Bergmann House",
+      "latitude": 29.79141637,
+      "longitude": -98.73192235,
+      "directions": "On Newton Street, Boerne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299180",
+      "photo_urls": []
+    },
+    {
+      "id": "299182",
+      "title": "Boerne Crusaders Club",
+      "latitude": 29.79129383,
+      "longitude": -98.73195836,
+      "directions": "On Newton Street, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299182",
+      "photo_urls": []
+    },
+    {
+      "id": "299184",
+      "title": "Bertha Tryon-Hendrick Arnold Cemetery",
+      "latitude": 29.73424964,
+      "longitude": -99.08576968,
+      "directions": "On Old Medina Highway, Bandera, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299184",
+      "photo_urls": []
+    },
+    {
+      "id": "299200",
+      "title": "Thomas E. Creek",
+      "latitude": 35.18219664,
+      "longitude": -101.82702664,
+      "directions": "Near South Arthur Street, Amarillo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299200",
+      "photo_urls": []
+    },
+    {
+      "id": "299254",
+      "title": "Cibolo Nature Center in City Park",
+      "latitude": 29.78743426,
+      "longitude": -98.7152413,
+      "directions": "On City Park Road, Boerne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299254",
+      "photo_urls": []
+    },
+    {
+      "id": "299314",
+      "title": "Laredo Streetcar System",
+      "latitude": 27.50343143,
+      "longitude": -99.49555,
+      "directions": "On Market Street, Laredo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299314",
       "photo_urls": []
     },
     {
@@ -125927,12 +126224,111 @@
       "photo_urls": []
     },
     {
+      "id": "299480",
+      "title": "Harvey C. Sanders, C.S.A.",
+      "latitude": 33.55751389,
+      "longitude": -94.41714444,
+      "directions": "On State Route 8, near Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299480",
+      "photo_urls": []
+    },
+    {
+      "id": "299495",
+      "title": "Operation Desert Storm",
+      "latitude": 34.13151494,
+      "longitude": -99.30072494,
+      "directions": "Near Sand Road, Vernon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299495",
+      "photo_urls": []
+    },
+    {
+      "id": "299497",
+      "title": "Wilbarger County Veterans Memorial",
+      "latitude": 34.15341872,
+      "longitude": -99.28419262,
+      "directions": "On Main Street (U.S. 183) , Vernon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299497",
+      "photo_urls": []
+    },
+    {
+      "id": "299498",
+      "title": "Wilbarger County Centennial Time Capsule",
+      "latitude": 34.15297945,
+      "longitude": -99.28415464,
+      "directions": "On Wilbarger Street (U.S. Business 287) , Vernon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299498",
+      "photo_urls": []
+    },
+    {
+      "id": "299499",
+      "title": "Roy Orbison",
+      "latitude": 34.13185159,
+      "longitude": -99.30052935,
+      "directions": "Near Sand Road, Vernon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299499",
+      "photo_urls": []
+    },
+    {
+      "id": "299572",
+      "title": "Site of the Texas Home of Richard Ellis",
+      "latitude": 33.55753056,
+      "longitude": -94.41713056,
+      "directions": "On State Route 8, near Woodstock, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299572",
+      "photo_urls": []
+    },
+    {
+      "id": "299588",
+      "title": "Green & White Grocery",
+      "latitude": 30.26519469,
+      "longitude": -97.72997585,
+      "directions": "On East 7th Street, Austin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299588",
+      "photo_urls": []
+    },
+    {
       "id": "29965",
       "title": "Tumlinson Family",
       "latitude": 29.7055,
       "longitude": -96.53988333,
       "directions": "On Spring Street, Columbus, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29965",
+      "photo_urls": []
+    },
+    {
+      "id": "299663",
+      "title": "Pleasant Hill Missionary Baptist Church",
+      "latitude": 33.53944953,
+      "longitude": -94.39120234,
+      "directions": "On County Route 2101, near New Boston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299663",
+      "photo_urls": []
+    },
+    {
+      "id": "299665",
+      "title": "Old Sherman Public Library",
+      "latitude": 33.63456019,
+      "longitude": -96.60736092,
+      "directions": "On South Walnut Street, Sherman, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299665",
+      "photo_urls": []
+    },
+    {
+      "id": "299672",
+      "title": "Savannah Cemetery",
+      "latitude": 33.53173056,
+      "longitude": -94.85625556,
+      "directions": "Near County Route 4406, near Avery, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299672",
+      "photo_urls": []
+    },
+    {
+      "id": "299673",
+      "title": "James Titus – Andrew Jackson Titus",
+      "latitude": 33.53172985,
+      "longitude": -94.85625035,
+      "directions": "Near County Route 4406, near Avery, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299673",
       "photo_urls": []
     },
     {
@@ -125951,6 +126347,438 @@
       "longitude": -99.2331934,
       "directions": "On Spruce Street, Mason, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29972",
+      "photo_urls": []
+    },
+    {
+      "id": "299721",
+      "title": "American Legion Wiley B. Murray Post No. 27",
+      "latitude": 31.1968971,
+      "longitude": -98.7196922,
+      "directions": "On East Brown Street, San Saba, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299721",
+      "photo_urls": []
+    },
+    {
+      "id": "299723",
+      "title": "Wiley B. Murray",
+      "latitude": 31.19690556,
+      "longitude": -98.71968611,
+      "directions": "On East Brown Street, San Saba, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299723",
+      "photo_urls": []
+    },
+    {
+      "id": "299725",
+      "title": "Baker-Lain Cemetery",
+      "latitude": 32.18901699,
+      "longitude": -97.57312018,
+      "directions": "On County Route 1239, near Cleburne, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299725",
+      "photo_urls": []
+    },
+    {
+      "id": "299728",
+      "title": "Site of Buchanan",
+      "latitude": 32.41161389,
+      "longitude": -97.44693611,
+      "directions": "On Weatherford Highway (State Route 171) , Cleburne, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299728",
+      "photo_urls": []
+    },
+    {
+      "id": "299730",
+      "title": "Watts Chapel Methodist Church and Cemetery",
+      "latitude": 32.31503068,
+      "longitude": -97.26637891,
+      "directions": "On County Route 308, near Cuba, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299730",
+      "photo_urls": []
+    },
+    {
+      "id": "299731",
+      "title": "Bethany Rest Cemetery",
+      "latitude": 32.41527219,
+      "longitude": -97.26857272,
+      "directions": "On County Route 810, near Alvarado, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299731",
+      "photo_urls": []
+    },
+    {
+      "id": "299732",
+      "title": "A.A. and Susanna Head Homestead",
+      "latitude": 32.4162347,
+      "longitude": -97.2679802,
+      "directions": "On County Route 810, near Alvarado, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299732",
+      "photo_urls": []
+    },
+    {
+      "id": "299734",
+      "title": "Site of Alvarado School, Church and Union Building",
+      "latitude": 32.4060627,
+      "longitude": -97.2148657,
+      "directions": "On West Weaver Avenue, Alvarado, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299734",
+      "photo_urls": []
+    },
+    {
+      "id": "299748",
+      "title": "Site of Ezell-McLeroy Cotton Gin",
+      "latitude": 32.43758137,
+      "longitude": -97.22257063,
+      "directions": "On North Cummings Drive, Alvarado, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299748",
+      "photo_urls": []
+    },
+    {
+      "id": "299749",
+      "title": "Cahill Methodist Church",
+      "latitude": 32.4731516,
+      "longitude": -97.227108,
+      "directions": "On Farm to Market Road 917, Alvarado, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299749",
+      "photo_urls": []
+    },
+    {
+      "id": "299759",
+      "title": "Bethesda Community",
+      "latitude": 32.4855603,
+      "longitude": -97.2818564,
+      "directions": "On West Bethesda Road, Burleson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299759",
+      "photo_urls": []
+    },
+    {
+      "id": "299767",
+      "title": "Upshur County, C. S. A. / Emma Sansom Johnson",
+      "latitude": 32.729018,
+      "longitude": -94.944643,
+      "directions": "On West Tyler Street (State Route 154) , Gilmer, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299767",
+      "photo_urls": []
+    },
+    {
+      "id": "299772",
+      "title": "Marystown Cemetery",
+      "latitude": 32.46221433,
+      "longitude": -97.32016822,
+      "directions": "On West Bethesda Road, Burleson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299772",
+      "photo_urls": []
+    },
+    {
+      "id": "299775",
+      "title": "Union Hill Presbyterian Church and Cemetery",
+      "latitude": 32.45721625,
+      "longitude": -97.35045732,
+      "directions": "On County Route 803, Joshua, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299775",
+      "photo_urls": []
+    },
+    {
+      "id": "299777",
+      "title": "Methodism in Joshua",
+      "latitude": 32.4692189,
+      "longitude": -97.38575327,
+      "directions": "On Paula Street, Joshua, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299777",
+      "photo_urls": []
+    },
+    {
+      "id": "299781",
+      "title": "First Baptist Church",
+      "latitude": 32.541754,
+      "longitude": -97.32583881,
+      "directions": "On West Ellison Street, Burleson, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299781",
+      "photo_urls": []
+    },
+    {
+      "id": "299782",
+      "title": "Baggage Cart",
+      "latitude": 32.54222028,
+      "longitude": -97.32230935,
+      "directions": "On South Wilson Street, Burleson, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299782",
+      "photo_urls": []
+    },
+    {
+      "id": "299784",
+      "title": "Named in Honor of Vera Calvin",
+      "latitude": 32.54213743,
+      "longitude": -97.3223556,
+      "directions": "On South Wilson Street, Burleson, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299784",
+      "photo_urls": []
+    },
+    {
+      "id": "299785",
+      "title": "Burleson",
+      "latitude": 32.54217984,
+      "longitude": -97.32213438,
+      "directions": "On West Ellison Street, Burleson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299785",
+      "photo_urls": []
+    },
+    {
+      "id": "299787",
+      "title": "Crowley Cemetery",
+      "latitude": 32.5819,
+      "longitude": -97.35763611,
+      "directions": "On North Hampton Road, Crowley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299787",
+      "photo_urls": []
+    },
+    {
+      "id": "299797",
+      "title": "First Presbyterian Church of Crowley",
+      "latitude": 32.58087405,
+      "longitude": -97.36228356,
+      "directions": "On North Beverly Street, Crowley, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299797",
+      "photo_urls": []
+    },
+    {
+      "id": "299798",
+      "title": "First Baptist Church of Crowley",
+      "latitude": 32.57483701,
+      "longitude": -97.38112061,
+      "directions": "On Eagle Drive, Crowley, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299798",
+      "photo_urls": []
+    },
+    {
+      "id": "299812",
+      "title": "Terrell Heights",
+      "latitude": 32.73537523,
+      "longitude": -97.31827318,
+      "directions": "On Evans Avenue, Fort Worth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299812",
+      "photo_urls": []
+    },
+    {
+      "id": "299813",
+      "title": "Polytechnic Cemetery",
+      "latitude": 32.7336788,
+      "longitude": -97.2764752,
+      "directions": "On Bishop Street, Fort Worth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299813",
+      "photo_urls": []
+    },
+    {
+      "id": "299815",
+      "title": "Administration Building",
+      "latitude": 32.73244763,
+      "longitude": -97.28027774,
+      "directions": "On Wesleyan Street, Fort Worth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299815",
+      "photo_urls": []
+    },
+    {
+      "id": "299853",
+      "title": "Salem Baptist Church",
+      "latitude": 33.47593661,
+      "longitude": -94.88196867,
+      "directions": "On County Route 4623, near Annona, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299853",
+      "photo_urls": []
+    },
+    {
+      "id": "299882",
+      "title": "Garland Cemetery",
+      "latitude": 33.55284444,
+      "longitude": -94.90370278,
+      "directions": "On Farm to Market 44, near Annona, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299882",
+      "photo_urls": []
+    },
+    {
+      "id": "300050",
+      "title": "Love Field: World War I and the Early Years",
+      "latitude": 32.85220642,
+      "longitude": -96.84874149,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300050",
+      "photo_urls": []
+    },
+    {
+      "id": "300051",
+      "title": "Love Field: The Airport Matures",
+      "latitude": 32.85223465,
+      "longitude": -96.84880726,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300051",
+      "photo_urls": []
+    },
+    {
+      "id": "300053",
+      "title": "Love Field: World War II and the 1950s",
+      "latitude": 32.85225988,
+      "longitude": -96.84884184,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300053",
+      "photo_urls": []
+    },
+    {
+      "id": "300056",
+      "title": "Love Field: Into the Jet Age",
+      "latitude": 32.85222346,
+      "longitude": -96.84877908,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300056",
+      "photo_urls": []
+    },
+    {
+      "id": "300057",
+      "title": "Love Field: A New Era",
+      "latitude": 32.85228642,
+      "longitude": -96.84885748,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300057",
+      "photo_urls": []
+    },
+    {
+      "id": "300058",
+      "title": "Love Field: The 21st Century",
+      "latitude": 32.85229915,
+      "longitude": -96.84887604,
+      "directions": "On George Coker Circle, Dallas, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300058",
+      "photo_urls": []
+    },
+    {
+      "id": "300059",
+      "title": "Grumman A-6 Series Aircraft",
+      "latitude": 32.84306668,
+      "longitude": -96.8350692,
+      "directions": "On Lemmon Avenue, Dallas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300059",
+      "photo_urls": []
+    },
+    {
+      "id": "300060",
+      "title": "F-105 Thunderchief or “Thud”",
+      "latitude": 32.84177209,
+      "longitude": -96.83516972,
+      "directions": "On Lemmon Avenue, Dallas, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300060",
+      "photo_urls": []
+    },
+    {
+      "id": "300097",
+      "title": "Kings Highway",
+      "latitude": 29.5153509,
+      "longitude": -98.45393255,
+      "directions": "On Northeast Interstate 410 Loop, San Antonio, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300097",
+      "photo_urls": []
+    },
+    {
+      "id": "300099",
+      "title": "Zero Milestone",
+      "latitude": 29.424866,
+      "longitude": -98.49485,
+      "directions": "On Military Plaza, San Antonio, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300099",
+      "photo_urls": []
+    },
+    {
+      "id": "300113",
+      "title": "In this Vicinity the Battle of Rosillo",
+      "latitude": 29.35723311,
+      "longitude": -98.40968019,
+      "directions": "On Southeast Military Drive, San Antonio, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300113",
+      "photo_urls": []
+    },
+    {
+      "id": "300117",
+      "title": "Market Plaza",
+      "latitude": 29.70399735,
+      "longitude": -98.12235825,
+      "directions": "On Tolle Street, New Braunfels, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300117",
+      "photo_urls": []
+    },
+    {
+      "id": "300119",
+      "title": "York Creek Cemetery",
+      "latitude": 29.78704079,
+      "longitude": -98.02509938,
+      "directions": "On Old Bastrop Road, New Braunfels, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300119",
+      "photo_urls": []
+    },
+    {
+      "id": "300123",
+      "title": "Windwehen Home",
+      "latitude": 29.70554153,
+      "longitude": -98.12549763,
+      "directions": "On East Bridge Street, New Braunfels, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300123",
+      "photo_urls": []
+    },
+    {
+      "id": "300126",
+      "title": "Joseph Klein House",
+      "latitude": 29.70483754,
+      "longitude": -98.12368881,
+      "directions": "On North Market Avenue, New Braunfels, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300126",
+      "photo_urls": []
+    },
+    {
+      "id": "300143",
+      "title": "English Cemetery",
+      "latitude": 33.62287486,
+      "longitude": -94.86277448,
+      "directions": "Near County Route 3300, near Avery, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300143",
+      "photo_urls": []
+    },
+    {
+      "id": "300144",
+      "title": "Shiloh Cumberland Presbyterian Church",
+      "latitude": 33.65195,
+      "longitude": -95.00814722,
+      "directions": "On County Route 3202, near Clarksville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300144",
+      "photo_urls": []
+    },
+    {
+      "id": "300147",
+      "title": "Tuggle Springs Cemetery",
+      "latitude": 33.79683333,
+      "longitude": -95.10038056,
+      "directions": "Near Farm to Market 2118, near Negley, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300147",
+      "photo_urls": []
+    },
+    {
+      "id": "300148",
+      "title": "New Haven Cemetery",
+      "latitude": 33.71441944,
+      "longitude": -95.08055833,
+      "directions": "Near Farm to Market 2120, near Clarksville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300148",
+      "photo_urls": []
+    },
+    {
+      "id": "300171",
+      "title": "Chesterville",
+      "latitude": 29.6098575,
+      "longitude": -96.2080188,
+      "directions": "On FM 1093, Eagle Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300171",
+      "photo_urls": []
+    },
+    {
+      "id": "300175",
+      "title": "Mattie Davis Lucas",
+      "latitude": 33.6325388,
+      "longitude": -96.6200223,
+      "directions": "On West Lamar Street, Sherman, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300175",
       "photo_urls": []
     },
     {
@@ -153649,9 +154477,9 @@
     {
       "id": "97713",
       "title": "Love Field Airman Memorial",
-      "latitude": 32.841377,
-      "longitude": -96.845964,
-      "directions": "On Herb Kelleher Way, Dallas, (On the right when traveling north)",
+      "latitude": 32.85262884,
+      "longitude": -96.8483562,
+      "directions": "Near George Coker Circle, Dallas, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=97713",
       "photo_urls": []
     },
