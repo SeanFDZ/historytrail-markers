@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-05-20T06:06:07.299Z",
+  "generated": "2026-05-21T06:05:51.303Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73023,
+  "total_markers": 73099,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -462,12 +462,12 @@
       "type": "state",
       "country": "United States",
       "file": "regions/us-ca.json",
-      "markers": 12773,
-      "size_bytes": 3833292,
-      "updated": "2026-04-23",
+      "markers": 12849,
+      "size_bytes": 3856134,
+      "updated": "2026-05-21",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 12775,
+        "added": 12829,
         "removed": 0,
         "modified": 0
       }
