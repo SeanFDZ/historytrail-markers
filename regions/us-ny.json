@@ -3,9 +3,9 @@
   "region_name": "New York",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-23T06:04:43.486Z",
-  "source_timestamp": "2026-04-23T06:04:43.486Z",
-  "marker_count": 17128,
+  "generated": "2026-05-21T06:05:23.138Z",
+  "source_timestamp": "2026-05-21T06:05:23.138Z",
+  "marker_count": 17217,
   "markers": [
     {
       "id": "100019",
@@ -17370,7 +17370,7 @@
     },
     {
       "id": "129986",
-      "title": "African Burial Ground National Monument",
+      "title": "A Place of Remembrance",
       "latitude": 40.7146,
       "longitude": -74.0044,
       "directions": "On Broadway, Manhattan, ",
@@ -55746,7 +55746,7 @@
     },
     {
       "id": "181010",
-      "title": "Massacre 1790",
+      "title": "Massacre 1780",
       "latitude": 42.26841826,
       "longitude": -74.02136513,
       "directions": "On South Road, near Round Top, (On the right when traveling east)",
@@ -113390,6 +113390,15 @@
       "photo_urls": []
     },
     {
+      "id": "294695",
+      "title": "The Legacy of Cornelius Dirkson",
+      "latitude": 40.70869729,
+      "longitude": -74.00220991,
+      "directions": "On Pecks Slip, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=294695",
+      "photo_urls": []
+    },
+    {
       "id": "294766",
       "title": "Catholic War Veterans Square Monument",
       "latitude": 40.67589444,
@@ -114479,6 +114488,15 @@
       "photo_urls": []
     },
     {
+      "id": "297413",
+      "title": "American Cement Company",
+      "latitude": 43.06940198,
+      "longitude": -76.43609422,
+      "directions": "On Schapp Road (County Route 60) , Elbridge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297413",
+      "photo_urls": []
+    },
+    {
       "id": "297416",
       "title": "Trolley Station",
       "latitude": 43.06538889,
@@ -114722,6 +114740,42 @@
       "photo_urls": []
     },
     {
+      "id": "298006",
+      "title": "Mets Win 1986 World Series",
+      "latitude": 40.75564916,
+      "longitude": -73.84590651,
+      "directions": "Near Seaver Way, Queens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298006",
+      "photo_urls": []
+    },
+    {
+      "id": "298007",
+      "title": "Pratt’s Walk-Off Home Run / Game 4 of 1999 NLDS",
+      "latitude": 40.75569182,
+      "longitude": -73.84585208,
+      "directions": "Near Seaver Way, Queens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298007",
+      "photo_urls": []
+    },
+    {
+      "id": "298009",
+      "title": "Mets Score 10 Runs in 8th to Beat Atlanta",
+      "latitude": 40.7557939,
+      "longitude": -73.845786,
+      "directions": "Near Seaver Way, Queens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298009",
+      "photo_urls": []
+    },
+    {
+      "id": "298015",
+      "title": "Piazza’s Home Run After September 11",
+      "latitude": 40.7558105,
+      "longitude": -73.84568296,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298015",
+      "photo_urls": []
+    },
+    {
       "id": "298022",
       "title": "\"The Nation's Guest\"",
       "latitude": 42.26588864,
@@ -114749,6 +114803,33 @@
       "photo_urls": []
     },
     {
+      "id": "298042",
+      "title": "Town of Wayne",
+      "latitude": 42.47360267,
+      "longitude": -77.11700756,
+      "directions": "On State Route 230, Wayne, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298042",
+      "photo_urls": []
+    },
+    {
+      "id": "298051",
+      "title": "MLB All-Star Game at Citi Field",
+      "latitude": 40.75608002,
+      "longitude": -73.8452803,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298051",
+      "photo_urls": []
+    },
+    {
+      "id": "298052",
+      "title": "David Wright Hits Solo Home Run in 2006 All-Star Game",
+      "latitude": 40.75611885,
+      "longitude": -73.84522398,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298052",
+      "photo_urls": []
+    },
+    {
       "id": "298069",
       "title": "Farm of Alexander Cochran",
       "latitude": 42.25955359,
@@ -114758,12 +114839,273 @@
       "photo_urls": []
     },
     {
+      "id": "298138",
+      "title": "Veterans Memorial",
+      "latitude": 42.92381836,
+      "longitude": -78.78570394,
+      "directions": "On Harlem Road (State Route 240) , Cheektowaga, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298138",
+      "photo_urls": []
+    },
+    {
+      "id": "298174",
+      "title": "Hamilton Home",
+      "latitude": 42.26572074,
+      "longitude": -79.71376417,
+      "directions": "On West Main Street (U.S. 20) , Ripley, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298174",
+      "photo_urls": []
+    },
+    {
+      "id": "298185",
+      "title": "The 1890 House",
+      "latitude": 42.59618039,
+      "longitude": -76.18246341,
+      "directions": "On Tompkins Street (State Route 13) , Cortland, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298185",
+      "photo_urls": []
+    },
+    {
       "id": "29820",
       "title": "Warren Family Mortuary Chapel: 1861",
       "latitude": 42.758955,
       "longitude": -73.668512,
       "directions": "Near Oakwood Avenue (State Route 40) , Troy, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29820",
+      "photo_urls": []
+    },
+    {
+      "id": "298224",
+      "title": "Cohocton Valley",
+      "latitude": 42.47589535,
+      "longitude": -77.49378204,
+      "directions": "Near Interstate 390, near Cohocton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298224",
+      "photo_urls": []
+    },
+    {
+      "id": "298242",
+      "title": "Clara Barton",
+      "latitude": 42.55874418,
+      "longitude": -77.69576711,
+      "directions": "On Clara Barton Street (State Route 36) , Dansville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298242",
+      "photo_urls": []
+    },
+    {
+      "id": "298243",
+      "title": "Pioneer Park",
+      "latitude": 42.55714051,
+      "longitude": -77.69419223,
+      "directions": "On Church Street, Dansville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298243",
+      "photo_urls": []
+    },
+    {
+      "id": "298244",
+      "title": "American Red Cross",
+      "latitude": 42.56174408,
+      "longitude": -77.69498244,
+      "directions": "On Elizabeth Street, Dansville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298244",
+      "photo_urls": []
+    },
+    {
+      "id": "298245",
+      "title": "Clara Barton",
+      "latitude": 42.55576977,
+      "longitude": -77.69923876,
+      "directions": "On Clara Barton Street (State Route 36) , Dansville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298245",
+      "photo_urls": []
+    },
+    {
+      "id": "298249",
+      "title": "Maj. Daniel Faulkner",
+      "latitude": 42.5557723,
+      "longitude": -77.69924275,
+      "directions": "On Clara Barton Street (State Route 36) , Dansville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298249",
+      "photo_urls": []
+    },
+    {
+      "id": "298266",
+      "title": "Old Ferry",
+      "latitude": 42.086567,
+      "longitude": -76.798014,
+      "directions": "On Madison Avenue, Elmira, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298266",
+      "photo_urls": []
+    },
+    {
+      "id": "298269",
+      "title": "Citizens Cascade",
+      "latitude": 42.08803611,
+      "longitude": -76.80222222,
+      "directions": "On East Water Street (State Route 352) , Elmira, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298269",
+      "photo_urls": []
+    },
+    {
+      "id": "298336",
+      "title": "Patriot Burials",
+      "latitude": 42.96198889,
+      "longitude": -77.34947222,
+      "directions": "On Barry Place, Farmington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298336",
+      "photo_urls": []
+    },
+    {
+      "id": "298355",
+      "title": "Dunham Park",
+      "latitude": 42.39503056,
+      "longitude": -73.69849444,
+      "directions": "On Broad Street (U.S. 9) , Kinderhook, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298355",
+      "photo_urls": []
+    },
+    {
+      "id": "298373",
+      "title": "In Sacred Memory",
+      "latitude": 42.227725,
+      "longitude": -77.17858056,
+      "directions": "On East Main Street, Campbell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298373",
+      "photo_urls": []
+    },
+    {
+      "id": "298377",
+      "title": "Rev. Robert And Esther Campbell",
+      "latitude": 42.22739167,
+      "longitude": -77.17731389,
+      "directions": "On East Main Street (County Route 333) , Campbell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298377",
+      "photo_urls": []
+    },
+    {
+      "id": "298387",
+      "title": "Veterans Memorial",
+      "latitude": 42.41323333,
+      "longitude": -77.41226944,
+      "directions": "Near East Avenue, Avoca, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298387",
+      "photo_urls": []
+    },
+    {
+      "id": "298388",
+      "title": "Armed Services Memorial",
+      "latitude": 42.41008586,
+      "longitude": -77.42093934,
+      "directions": "On North Main Street, Avoca, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298388",
+      "photo_urls": []
+    },
+    {
+      "id": "298389",
+      "title": "Wayland Veterans Memorial",
+      "latitude": 42.569175,
+      "longitude": -77.59151389,
+      "directions": "On North Main Street, Wayland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298389",
+      "photo_urls": []
+    },
+    {
+      "id": "298390",
+      "title": "Daniel Goho Post 87",
+      "latitude": 42.55960941,
+      "longitude": -77.69247091,
+      "directions": "On Elizabeth Street, Dansville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298390",
+      "photo_urls": []
+    },
+    {
+      "id": "298397",
+      "title": "\"Sankofa\"",
+      "latitude": 40.7144,
+      "longitude": -74.00445,
+      "directions": "On Federal Plaza/Duane Street, Manhattan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298397",
+      "photo_urls": []
+    },
+    {
+      "id": "298404",
+      "title": "Doc's Drop",
+      "latitude": 43.08379477,
+      "longitude": -74.50786047,
+      "directions": "Near State Route 10, Caroga Lake, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298404",
+      "photo_urls": []
+    },
+    {
+      "id": "298405",
+      "title": "Hoop Snake Hill",
+      "latitude": 41.27926944,
+      "longitude": -74.29824722,
+      "directions": "On State School Road, Warwick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298405",
+      "photo_urls": []
+    },
+    {
+      "id": "298419",
+      "title": "Skaneateles World War II Veterans Memorial",
+      "latitude": 42.94472844,
+      "longitude": -76.43125519,
+      "directions": "Near West Genesee Street (U.S. 20) , Skaneateles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298419",
+      "photo_urls": []
+    },
+    {
+      "id": "298426",
+      "title": "Historic Houses",
+      "latitude": 43.36052778,
+      "longitude": -76.42740556,
+      "directions": "On Van Buren Drive, Fulton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298426",
+      "photo_urls": []
+    },
+    {
+      "id": "298484",
+      "title": "Hamburg Civil War Veterans Monument",
+      "latitude": 42.71810809,
+      "longitude": -78.83866594,
+      "directions": "On Lake Street, Hamburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298484",
+      "photo_urls": []
+    },
+    {
+      "id": "298504",
+      "title": "Veterans Square",
+      "latitude": 42.92413703,
+      "longitude": -78.78176477,
+      "directions": "Near Harlem Road (State Route 240) , Cheektowaga, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298504",
+      "photo_urls": []
+    },
+    {
+      "id": "298508",
+      "title": "American Legion Veterans Memorial",
+      "latitude": 42.71819683,
+      "longitude": -78.83868838,
+      "directions": "On Lake Street, Hamburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298508",
+      "photo_urls": []
+    },
+    {
+      "id": "298519",
+      "title": "Federal Hall National Memorial",
+      "latitude": 40.706889,
+      "longitude": -74.010121,
+      "directions": "On Wall Street, Manhattan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298519",
+      "photo_urls": []
+    },
+    {
+      "id": "298616",
+      "title": "Memorial Park",
+      "latitude": 42.71832747,
+      "longitude": -78.83878792,
+      "directions": "On Union Street, Hamburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298616",
       "photo_urls": []
     },
     {
@@ -114791,6 +115133,465 @@
       "longitude": -74.025648,
       "directions": "On Palisades Interstate Parkway, Stony Point, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29869",
+      "photo_urls": []
+    },
+    {
+      "id": "298713",
+      "title": "Ossian",
+      "latitude": 42.521175,
+      "longitude": -77.77925,
+      "directions": "On Ossian Hill Road (County Route 9) , Dansville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298713",
+      "photo_urls": []
+    },
+    {
+      "id": "298714",
+      "title": "Memorial Park",
+      "latitude": 42.71810795,
+      "longitude": -78.83872949,
+      "directions": "On Lake Street, Hamburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298714",
+      "photo_urls": []
+    },
+    {
+      "id": "298761",
+      "title": "HSBC",
+      "latitude": 40.75225175,
+      "longitude": -73.98214525,
+      "directions": "On Fifth Avenue, Manhattan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298761",
+      "photo_urls": []
+    },
+    {
+      "id": "298762",
+      "title": "HSBC",
+      "latitude": 40.6852444,
+      "longitude": -73.97766762,
+      "directions": "On Hanson Place, Brooklyn, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298762",
+      "photo_urls": []
+    },
+    {
+      "id": "298800",
+      "title": "Steven House",
+      "latitude": 42.718219,
+      "longitude": -78.8389559,
+      "directions": "On Lake Street, Hamburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298800",
+      "photo_urls": []
+    },
+    {
+      "id": "298856",
+      "title": "Ventura’s Grand Slam Single / Game 5 of 1999 NLCS",
+      "latitude": 40.7557355,
+      "longitude": -73.84579662,
+      "directions": "Near Seaver Way, Queens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298856",
+      "photo_urls": []
+    },
+    {
+      "id": "298875",
+      "title": "Permanent Memorial to Honour the Victims of Slavery and the Transatlantic Slave Trade",
+      "latitude": 40.75045833,
+      "longitude": -73.96693333,
+      "directions": "Near 1st Avenue, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298875",
+      "photo_urls": []
+    },
+    {
+      "id": "298881",
+      "title": "Non-Violence",
+      "latitude": 40.75194444,
+      "longitude": -73.96703333,
+      "directions": "On 1st Avenue, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298881",
+      "photo_urls": []
+    },
+    {
+      "id": "298988",
+      "title": "Patriot Burials",
+      "latitude": 42.50705395,
+      "longitude": -76.19607569,
+      "directions": "On State Route 392, Virgil, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298988",
+      "photo_urls": []
+    },
+    {
+      "id": "299011",
+      "title": "Heroes Who Lived Among Us",
+      "latitude": 40.72246726,
+      "longitude": -73.9482231,
+      "directions": "On Driggs Avenue, Brooklyn, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299011",
+      "photo_urls": []
+    },
+    {
+      "id": "299012",
+      "title": "Washington Park Stadium Wall",
+      "latitude": 40.67574215,
+      "longitude": -73.98733641,
+      "directions": "On 3rd Avenue, Brooklyn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299012",
+      "photo_urls": []
+    },
+    {
+      "id": "299013",
+      "title": "Russian Orthodox Cathedral of the Transfiguration of Our Lord",
+      "latitude": 40.71955556,
+      "longitude": -73.95355924,
+      "directions": "On Driggs Avenue, Brooklyn, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299013",
+      "photo_urls": []
+    },
+    {
+      "id": "299016",
+      "title": "1986 World Series / Game 6 Comeback Win",
+      "latitude": 40.75579113,
+      "longitude": -73.84668834,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299016",
+      "photo_urls": []
+    },
+    {
+      "id": "299017",
+      "title": "Dykstra’s Home Run / Game 3 of 1986 NLCS",
+      "latitude": 40.75584917,
+      "longitude": -73.84670814,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299017",
+      "photo_urls": []
+    },
+    {
+      "id": "299019",
+      "title": "Seaver Strikes Out 19",
+      "latitude": 40.75590297,
+      "longitude": -73.84672959,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299019",
+      "photo_urls": []
+    },
+    {
+      "id": "299020",
+      "title": "Mets Win 1969 World Series",
+      "latitude": 40.75595899,
+      "longitude": -73.8467616,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299020",
+      "photo_urls": []
+    },
+    {
+      "id": "299021",
+      "title": "Black Cat Game",
+      "latitude": 40.75600882,
+      "longitude": -73.84679115,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299021",
+      "photo_urls": []
+    },
+    {
+      "id": "299023",
+      "title": "Seaver’s Imperfect Game",
+      "latitude": 40.75606984,
+      "longitude": -73.84681453,
+      "directions": "On Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299023",
+      "photo_urls": []
+    },
+    {
+      "id": "299025",
+      "title": "Tom Seaver / Nine-Time Mets All-Star",
+      "latitude": 40.75639528,
+      "longitude": -73.84698377,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299025",
+      "photo_urls": []
+    },
+    {
+      "id": "299026",
+      "title": "MLB All-Star Game at Shea Stadium",
+      "latitude": 40.75644948,
+      "longitude": -73.84701167,
+      "directions": "Near Seaver Way, Queens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299026",
+      "photo_urls": []
+    },
+    {
+      "id": "299028",
+      "title": "Shea Stadium First Base",
+      "latitude": 40.75555337,
+      "longitude": -73.84805696,
+      "directions": "Near Shea Road, Queens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299028",
+      "photo_urls": []
+    },
+    {
+      "id": "299029",
+      "title": "Shea Stadium Second Base",
+      "latitude": 40.75578558,
+      "longitude": -73.84792603,
+      "directions": "Near Shea Road, Queens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299029",
+      "photo_urls": []
+    },
+    {
+      "id": "299030",
+      "title": "Shea Stadium Third Base",
+      "latitude": 40.75588188,
+      "longitude": -73.84822559,
+      "directions": "Near Seaver Way, Queens, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299030",
+      "photo_urls": []
+    },
+    {
+      "id": "299031",
+      "title": "Shea Stadium Home Plate",
+      "latitude": 40.75565622,
+      "longitude": -73.84836227,
+      "directions": "Near Shea Road, Queens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299031",
+      "photo_urls": []
+    },
+    {
+      "id": "299032",
+      "title": "Shea Stadium Pitcher's Plate",
+      "latitude": 40.755718,
+      "longitude": -73.8481508,
+      "directions": "Near Shea Road, Queens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299032",
+      "photo_urls": []
+    },
+    {
+      "id": "299046",
+      "title": "Groton City United Church Of Christ",
+      "latitude": 42.61639444,
+      "longitude": -76.29081667,
+      "directions": "On Groton City Road (County Route 103) , Groton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299046",
+      "photo_urls": []
+    },
+    {
+      "id": "299065",
+      "title": "Welcome to Schoharie Crossing",
+      "latitude": 42.93934722,
+      "longitude": -74.28959722,
+      "directions": "On Aqueduct Picnic Area, near Fort Hunter, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299065",
+      "photo_urls": []
+    },
+    {
+      "id": "299067",
+      "title": "The Schoharie Aqueduct",
+      "latitude": 42.93938889,
+      "longitude": -74.28961944,
+      "directions": "On Aqueduct Picnic Area, near Fort Hunter, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299067",
+      "photo_urls": []
+    },
+    {
+      "id": "299079",
+      "title": "Bruynswick",
+      "latitude": 41.65776567,
+      "longitude": -74.22615175,
+      "directions": "On Bruynswick Road (County Route 7) , Shawangunk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299079",
+      "photo_urls": []
+    },
+    {
+      "id": "299089",
+      "title": "The Schoharie Creek Bypass",
+      "latitude": 42.93888889,
+      "longitude": -74.28823889,
+      "directions": "On Aqueduct Picnic Area, near Fort Hunter, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299089",
+      "photo_urls": []
+    },
+    {
+      "id": "299104",
+      "title": "First Baptist Church",
+      "latitude": 43.07462972,
+      "longitude": -75.75204222,
+      "directions": "On South Peterboro Street, Canastota, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299104",
+      "photo_urls": []
+    },
+    {
+      "id": "299106",
+      "title": "Gesundheit!",
+      "latitude": 42.93985556,
+      "longitude": -74.28140278,
+      "directions": "Near Schoharie Street, near Fort Hunter, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299106",
+      "photo_urls": []
+    },
+    {
+      "id": "299109",
+      "title": "Schoharie Crossing State Historic Site",
+      "latitude": 42.93398611,
+      "longitude": -74.28498889,
+      "directions": "On Empire State Trail, near Fort Hunter, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299109",
+      "photo_urls": []
+    },
+    {
+      "id": "299110",
+      "title": "The Paterno Trivium",
+      "latitude": 40.85551041,
+      "longitude": -73.93789624,
+      "directions": "On Cabrini Boulevard, New York, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299110",
+      "photo_urls": []
+    },
+    {
+      "id": "299112",
+      "title": "Veterans Memorial",
+      "latitude": 42.60938865,
+      "longitude": -76.18754444,
+      "directions": "On Alvena Avenue, Cortland, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299112",
+      "photo_urls": []
+    },
+    {
+      "id": "299205",
+      "title": "East Boundary",
+      "latitude": 42.39061,
+      "longitude": -76.333542,
+      "directions": "On State Route 79, near Brooktondale, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299205",
+      "photo_urls": []
+    },
+    {
+      "id": "299207",
+      "title": "Judd Falls",
+      "latitude": 42.4429929,
+      "longitude": -76.4698212,
+      "directions": "On Pine Tree Road, Ithaca, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299207",
+      "photo_urls": []
+    },
+    {
+      "id": "299238",
+      "title": "ALCO's Legacy",
+      "latitude": 42.823,
+      "longitude": -73.938667,
+      "directions": "Near Rush Street, Schenectady, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299238",
+      "photo_urls": []
+    },
+    {
+      "id": "299307",
+      "title": "The Little Red Lighthouse",
+      "latitude": 40.85016389,
+      "longitude": -73.9469,
+      "directions": "On Hudson River Greenway, Manhattan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299307",
+      "photo_urls": []
+    },
+    {
+      "id": "299311",
+      "title": "Welcome to Worcester",
+      "latitude": 42.608875,
+      "longitude": -74.68529444,
+      "directions": "On Senator Warren M. Anderson Expressway (Interstate 88) , near East Worcester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299311",
+      "photo_urls": []
+    },
+    {
+      "id": "299453",
+      "title": "World Wide Daffodil Project",
+      "latitude": 41.65978107,
+      "longitude": -74.69151717,
+      "directions": "On Sturgis Road, Monticello, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299453",
+      "photo_urls": []
+    },
+    {
+      "id": "299455",
+      "title": "World Wide Daffodil Project",
+      "latitude": 41.7492,
+      "longitude": -74.65354,
+      "directions": "On Brickman Road (County Route 52) , Hurleyville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299455",
+      "photo_urls": []
+    },
+    {
+      "id": "299490",
+      "title": "Knights of St. John Memorial",
+      "latitude": 42.92471142,
+      "longitude": -78.78810861,
+      "directions": "Near Pine Ridge Heritage Boulevard, Cheektowaga, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299490",
+      "photo_urls": []
+    },
+    {
+      "id": "299565",
+      "title": "Site of Malta's First",
+      "latitude": 42.96930593,
+      "longitude": -73.7928608,
+      "directions": "On U.S. 9, Malta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299565",
+      "photo_urls": []
+    },
+    {
+      "id": "299569",
+      "title": "Church Hill Historic District",
+      "latitude": 42.82738854,
+      "longitude": -73.7185719,
+      "directions": "On Church Hill Road (County Route 99) , Crescent, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299569",
+      "photo_urls": []
+    },
+    {
+      "id": "299711",
+      "title": "Home Hon. Henry S. Randall",
+      "latitude": 42.59711994,
+      "longitude": -76.18132022,
+      "directions": "On Tompkins Street (State Route 13) , Cortland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299711",
+      "photo_urls": []
+    },
+    {
+      "id": "300068",
+      "title": "Old Gick Farm",
+      "latitude": 43.14556944,
+      "longitude": -73.69670833,
+      "directions": "Near State Route 50, near Saratoga Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300068",
+      "photo_urls": []
+    },
+    {
+      "id": "300149",
+      "title": "Old Gick Farm",
+      "latitude": 43.14527222,
+      "longitude": -73.69658611,
+      "directions": "Near State Route 50, near Saratoga Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300149",
+      "photo_urls": []
+    },
+    {
+      "id": "300161",
+      "title": "Prison Ship Martyrs Monument",
+      "latitude": 40.69180818,
+      "longitude": -73.97551775,
+      "directions": "Near Washington Park, Brooklyn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300161",
+      "photo_urls": []
+    },
+    {
+      "id": "300162",
+      "title": "Fort Greene Park",
+      "latitude": 40.692195,
+      "longitude": -73.974842,
+      "directions": "Near Washington Park, Brooklyn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300162",
+      "photo_urls": []
+    },
+    {
+      "id": "300163",
+      "title": "What is a Redoubt Anyway?",
+      "latitude": 40.69214763,
+      "longitude": -73.9746498,
+      "directions": "Near Washington Park, Brooklyn, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300163",
       "photo_urls": []
     },
     {
@@ -150624,7 +151425,7 @@
     },
     {
       "id": "93153",
-      "title": "1885-1935 Game Farm",
+      "title": "Game Farm",
       "latitude": 42.68298583,
       "longitude": -75.51690983,
       "directions": "On State Route 80, Sherburne, ",
