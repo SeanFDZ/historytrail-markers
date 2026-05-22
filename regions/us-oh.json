@@ -3,9 +3,9 @@
   "region_name": "Ohio",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-24T06:03:32.642Z",
-  "source_timestamp": "2026-04-24T06:03:32.642Z",
-  "marker_count": 12079,
+  "generated": "2026-05-22T06:04:31.599Z",
+  "source_timestamp": "2026-05-22T06:04:31.599Z",
+  "marker_count": 12370,
   "markers": [
     {
       "id": "100086",
@@ -4809,7 +4809,7 @@
       "title": "First Congregational Church of Claridon UCC",
       "latitude": 41.532341,
       "longitude": -81.14306,
-      "directions": "Near Mayfield Road, Huntsburg, ",
+      "directions": "Near Mayfield Road (U.S. 322) , Huntsburg, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=122786",
       "photo_urls": []
     },
@@ -5221,8 +5221,8 @@
     {
       "id": "12431",
       "title": "Green Lawn Cemetery",
-      "latitude": 39.940064,
-      "longitude": -83.0205,
+      "latitude": 39.93997279,
+      "longitude": -83.02370446,
       "directions": "On Greenlawn Avenue, Columbus, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=12431",
       "photo_urls": []
@@ -79012,8 +79012,8 @@
     {
       "id": "275",
       "title": "Second Capital of Ohio",
-      "latitude": 39.940376,
-      "longitude": -82.006963,
+      "latitude": 39.94020328,
+      "longitude": -82.00733092,
       "directions": "On Main Street (U.S. 40) , Zanesville, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=275",
       "photo_urls": []
@@ -93194,12 +93194,606 @@
       "photo_urls": []
     },
     {
+      "id": "298154",
+      "title": "Wolf Creek (Pine Run) Grist Mill",
+      "latitude": 40.60114062,
+      "longitude": -82.26203527,
+      "directions": "On Ohio 3, near Loudonville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298154",
+      "photo_urls": []
+    },
+    {
+      "id": "298167",
+      "title": "Jeromesville 1815-2015",
+      "latitude": 40.80348938,
+      "longitude": -82.19559597,
+      "directions": "On West Main Street, Jeromesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298167",
+      "photo_urls": []
+    },
+    {
+      "id": "298180",
+      "title": "Founding of the State of Israel",
+      "latitude": 39.96691225,
+      "longitude": -82.9525976,
+      "directions": "On Monypenny Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298180",
+      "photo_urls": []
+    },
+    {
+      "id": "298181",
+      "title": "The Transformation of Franklin Park",
+      "latitude": 39.96381033,
+      "longitude": -82.95624859,
+      "directions": "On Franklin Park South, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298181",
+      "photo_urls": []
+    },
+    {
+      "id": "298182",
+      "title": "Bill Moose Memorial",
+      "latitude": 40.04639479,
+      "longitude": -83.09446013,
+      "directions": "On Riverside Drive (U.S. 33) , Upper Arlington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298182",
+      "photo_urls": []
+    },
+    {
+      "id": "298274",
+      "title": "Log House",
+      "latitude": 40.74054383,
+      "longitude": -84.11433316,
+      "directions": "On West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298274",
+      "photo_urls": []
+    },
+    {
+      "id": "298276",
+      "title": "St. Paul's AME Church",
+      "latitude": 40.73856335,
+      "longitude": -84.12825169,
+      "directions": "On West Spring Street, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298276",
+      "photo_urls": []
+    },
+    {
+      "id": "298277",
+      "title": "Hog Creek",
+      "latitude": 40.73031911,
+      "longitude": -84.1132559,
+      "directions": "On South Metcalf Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298277",
+      "photo_urls": []
+    },
+    {
+      "id": "298278",
+      "title": "The Old Bell",
+      "latitude": 40.7427484,
+      "longitude": -84.1052843,
+      "directions": "On West North Street (State Route 81) , Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298278",
+      "photo_urls": []
+    },
+    {
       "id": "29828",
       "title": "William Moore McCullough / Civil Rights Movement in Piqua",
       "latitude": 40.148541,
       "longitude": -84.240589,
       "directions": "On High Street, Piqua, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29828",
+      "photo_urls": []
+    },
+    {
+      "id": "298280",
+      "title": "Ohio Theater",
+      "latitude": 40.74275165,
+      "longitude": -84.10598076,
+      "directions": "On West North Street (State Route 81) , Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298280",
+      "photo_urls": []
+    },
+    {
+      "id": "298282",
+      "title": "Site of Lima's First Cemetery",
+      "latitude": 40.74234022,
+      "longitude": -84.10210456,
+      "directions": "On North Central Avenue, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298282",
+      "photo_urls": []
+    },
+    {
+      "id": "298284",
+      "title": "Tawa Town",
+      "latitude": 40.73276697,
+      "longitude": -84.10496255,
+      "directions": "On South Main Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298284",
+      "photo_urls": []
+    },
+    {
+      "id": "298285",
+      "title": "James Daniels' Cabin",
+      "latitude": 40.74017042,
+      "longitude": -84.09522787,
+      "directions": "On East Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298285",
+      "photo_urls": []
+    },
+    {
+      "id": "298286",
+      "title": "Bessie Crayton's Road to the 19th Amendment",
+      "latitude": 40.74007243,
+      "longitude": -84.10453462,
+      "directions": "On East Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298286",
+      "photo_urls": []
+    },
+    {
+      "id": "298287",
+      "title": "Bessie Crayton",
+      "latitude": 40.7399251,
+      "longitude": -84.10454883,
+      "directions": "On East Market Street, Lima, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298287",
+      "photo_urls": []
+    },
+    {
+      "id": "298288",
+      "title": "Allen County's First Settlement",
+      "latitude": 40.78830769,
+      "longitude": -84.10202965,
+      "directions": "On East Bluelick Road, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298288",
+      "photo_urls": []
+    },
+    {
+      "id": "298290",
+      "title": "Allen County's First Post Office",
+      "latitude": 40.74142148,
+      "longitude": -84.10894806,
+      "directions": "On West High Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298290",
+      "photo_urls": []
+    },
+    {
+      "id": "298291",
+      "title": "Veterans Freedom Flag Monument",
+      "latitude": 40.70853069,
+      "longitude": -84.12903101,
+      "directions": "On Buckeye Road, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298291",
+      "photo_urls": []
+    },
+    {
+      "id": "298293",
+      "title": "Servicemen's Free Canteen",
+      "latitude": 40.74465929,
+      "longitude": -84.1023382,
+      "directions": "On North Central Avenue, Lima, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298293",
+      "photo_urls": []
+    },
+    {
+      "id": "298294",
+      "title": "Allen County Memorial Hall",
+      "latitude": 40.73732511,
+      "longitude": -84.10624338,
+      "directions": "On West Elm Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298294",
+      "photo_urls": []
+    },
+    {
+      "id": "298295",
+      "title": "Allen County Soldier Monument",
+      "latitude": 40.72980078,
+      "longitude": -84.13189229,
+      "directions": "On Spencerville Road, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298295",
+      "photo_urls": []
+    },
+    {
+      "id": "298297",
+      "title": "American Legion Post No. 96 Veterans Memorial Wall",
+      "latitude": 40.73311659,
+      "longitude": -84.11398888,
+      "directions": "On South Shore Street, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298297",
+      "photo_urls": []
+    },
+    {
+      "id": "298298",
+      "title": "Veterans Memorial Grove",
+      "latitude": 40.73933501,
+      "longitude": -84.10538375,
+      "directions": "On South Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298298",
+      "photo_urls": []
+    },
+    {
+      "id": "298299",
+      "title": "Allen County 9/11 Memorial",
+      "latitude": 40.73732341,
+      "longitude": -84.10355927,
+      "directions": "On East Elm Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298299",
+      "photo_urls": []
+    },
+    {
+      "id": "298300",
+      "title": "First Oil Well",
+      "latitude": 40.74272222,
+      "longitude": -84.09206095,
+      "directions": "On East North Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298300",
+      "photo_urls": []
+    },
+    {
+      "id": "298301",
+      "title": "Lima Locomotive Works",
+      "latitude": 40.73805216,
+      "longitude": -84.08905251,
+      "directions": "On South Shawnee Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298301",
+      "photo_urls": []
+    },
+    {
+      "id": "298302",
+      "title": "The Interurban Era",
+      "latitude": 40.74008178,
+      "longitude": -84.10236101,
+      "directions": "On East Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298302",
+      "photo_urls": []
+    },
+    {
+      "id": "298303",
+      "title": "Lima's First Power Plant",
+      "latitude": 40.74189566,
+      "longitude": -84.10674708,
+      "directions": "On North Elizabeth Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298303",
+      "photo_urls": []
+    },
+    {
+      "id": "298305",
+      "title": "Oil Refinery",
+      "latitude": 40.72027421,
+      "longitude": -84.11379778,
+      "directions": "On South Metcalf Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298305",
+      "photo_urls": []
+    },
+    {
+      "id": "298306",
+      "title": "Rotary River Walk",
+      "latitude": 40.73544187,
+      "longitude": -84.10611888,
+      "directions": "On South Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298306",
+      "photo_urls": []
+    },
+    {
+      "id": "298309",
+      "title": "Hermon Woodlands",
+      "latitude": 40.74539434,
+      "longitude": -84.2057099,
+      "directions": "On North Wapakoneta Road, near Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298309",
+      "photo_urls": []
+    },
+    {
+      "id": "298310",
+      "title": "Heritage Park",
+      "latitude": 40.6955344,
+      "longitude": -84.14664918,
+      "directions": "On Reed Road, Fort Shawnee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298310",
+      "photo_urls": []
+    },
+    {
+      "id": "298311",
+      "title": "McLean Teddy Bear Park",
+      "latitude": 40.75966683,
+      "longitude": -84.05725377,
+      "directions": "On North Dixie Highway, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298311",
+      "photo_urls": []
+    },
+    {
+      "id": "298312",
+      "title": "Ottawa Metro Park",
+      "latitude": 40.75475158,
+      "longitude": -84.05288454,
+      "directions": "On Ada Road (State Route 81) , Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298312",
+      "photo_urls": []
+    },
+    {
+      "id": "298313",
+      "title": "Rhode State College - Tech Ed Lab",
+      "latitude": 40.73898168,
+      "longitude": -84.02476025,
+      "directions": "On Campus Drive, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298313",
+      "photo_urls": []
+    },
+    {
+      "id": "298314",
+      "title": "The Ohio State University at Lima - Galvin Hall",
+      "latitude": 40.738892,
+      "longitude": -84.02577073,
+      "directions": "On Campus Drive, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298314",
+      "photo_urls": []
+    },
+    {
+      "id": "298316",
+      "title": "Rhode State College - Borra Center",
+      "latitude": 40.73923698,
+      "longitude": -84.10482298,
+      "directions": "On South Main Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298316",
+      "photo_urls": []
+    },
+    {
+      "id": "298318",
+      "title": "Mercy Health-St. Rita's Medical Center",
+      "latitude": 40.74127563,
+      "longitude": -84.11671214,
+      "directions": "On West High Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298318",
+      "photo_urls": []
+    },
+    {
+      "id": "298321",
+      "title": "Lima Memorial Health System",
+      "latitude": 40.73525257,
+      "longitude": -84.08634668,
+      "directions": "On Bellefontaine Avenue, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298321",
+      "photo_urls": []
+    },
+    {
+      "id": "298322",
+      "title": "Faurot Opera House",
+      "latitude": 40.741427,
+      "longitude": -84.10512883,
+      "directions": "On North Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298322",
+      "photo_urls": []
+    },
+    {
+      "id": "298323",
+      "title": "Oliver's / Boilermaker Restaurant & Grill",
+      "latitude": 40.73889306,
+      "longitude": -84.10229512,
+      "directions": "On South Central Avenue, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298323",
+      "photo_urls": []
+    },
+    {
+      "id": "298324",
+      "title": "Encore Theatre",
+      "latitude": 40.73337308,
+      "longitude": -84.11902872,
+      "directions": "On North Shore Drive, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298324",
+      "photo_urls": []
+    },
+    {
+      "id": "298325",
+      "title": "Allen County Courthouse",
+      "latitude": 40.743156,
+      "longitude": -84.10513713,
+      "directions": "On North Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298325",
+      "photo_urls": []
+    },
+    {
+      "id": "298326",
+      "title": "The Met Block",
+      "latitude": 40.74280925,
+      "longitude": -84.10489684,
+      "directions": "On North Main Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298326",
+      "photo_urls": []
+    },
+    {
+      "id": "298327",
+      "title": "Macdonell House",
+      "latitude": 40.74017386,
+      "longitude": -84.11465709,
+      "directions": "On West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298327",
+      "photo_urls": []
+    },
+    {
+      "id": "298328",
+      "title": "Faurot Park",
+      "latitude": 40.73122546,
+      "longitude": -84.12775401,
+      "directions": "On South Cole Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298328",
+      "photo_urls": []
+    },
+    {
+      "id": "298329",
+      "title": "St. John Catholic Church",
+      "latitude": 40.7284116,
+      "longitude": -84.1049836,
+      "directions": "On South Main Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298329",
+      "photo_urls": []
+    },
+    {
+      "id": "298332",
+      "title": "Historic Near East Side",
+      "latitude": 39.96853913,
+      "longitude": -82.98224259,
+      "directions": "On Hamilton Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298332",
+      "photo_urls": []
+    },
+    {
+      "id": "298333",
+      "title": "Helen Carter",
+      "latitude": 39.96849202,
+      "longitude": -82.98237143,
+      "directions": "On Hamilton Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298333",
+      "photo_urls": []
+    },
+    {
+      "id": "298334",
+      "title": "New England Lodge No. 4, F. & A. M.",
+      "latitude": 40.08636616,
+      "longitude": -83.01794471,
+      "directions": "On North High Street (U.S. 23) , Worthington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298334",
+      "photo_urls": []
+    },
+    {
+      "id": "298338",
+      "title": "The Rower, 2020",
+      "latitude": 39.94157443,
+      "longitude": -82.99378242,
+      "directions": "On East Deshler Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298338",
+      "photo_urls": []
+    },
+    {
+      "id": "298340",
+      "title": "Marvel at the Works of Art",
+      "latitude": 39.9420746,
+      "longitude": -82.99247579,
+      "directions": "On City Park Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298340",
+      "photo_urls": []
+    },
+    {
+      "id": "298341",
+      "title": "Engage in Schiller Park",
+      "latitude": 39.94209933,
+      "longitude": -82.9924483,
+      "directions": "On Jaeger Street, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298341",
+      "photo_urls": []
+    },
+    {
+      "id": "298342",
+      "title": "Discover the History Schiller Park",
+      "latitude": 39.94206991,
+      "longitude": -82.99241534,
+      "directions": "On Jaeger Street, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298342",
+      "photo_urls": []
+    },
+    {
+      "id": "298344",
+      "title": "Join Friends of Schiller Park",
+      "latitude": 39.94205536,
+      "longitude": -82.99244809,
+      "directions": "On Jaeger Street, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298344",
+      "photo_urls": []
+    },
+    {
+      "id": "298351",
+      "title": "4008 Broadway",
+      "latitude": 39.88245667,
+      "longitude": -83.09320482,
+      "directions": "On Broadway (U.S. 62) , Grove City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298351",
+      "photo_urls": []
+    },
+    {
+      "id": "298354",
+      "title": "George Edge",
+      "latitude": 39.8823817,
+      "longitude": -83.09369856,
+      "directions": "On Broadway, Grove City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298354",
+      "photo_urls": []
+    },
+    {
+      "id": "298356",
+      "title": "Circa 1897",
+      "latitude": 39.94738226,
+      "longitude": -82.99620091,
+      "directions": "On East Frankfort Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298356",
+      "photo_urls": []
+    },
+    {
+      "id": "298359",
+      "title": "Circa 1887",
+      "latitude": 39.94779989,
+      "longitude": -82.99589281,
+      "directions": "On City Park Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298359",
+      "photo_urls": []
+    },
+    {
+      "id": "298361",
+      "title": "This Bell",
+      "latitude": 39.88196329,
+      "longitude": -83.0929609,
+      "directions": "On Park Street, Grove City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298361",
+      "photo_urls": []
+    },
+    {
+      "id": "298362",
+      "title": "Their Perpetual Memorial",
+      "latitude": 40.08820063,
+      "longitude": -83.0183617,
+      "directions": "On North High Street (U.S. 23) , Worthington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298362",
+      "photo_urls": []
+    },
+    {
+      "id": "298363",
+      "title": "Horace Wolcott",
+      "latitude": 40.08957999,
+      "longitude": -83.01886402,
+      "directions": "On North High Street, Worthington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298363",
+      "photo_urls": []
+    },
+    {
+      "id": "298364",
+      "title": "Former U.S. Courthouse & Post Office",
+      "latitude": 39.96015609,
+      "longitude": -82.99729018,
+      "directions": "On South 3rd Street, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298364",
+      "photo_urls": []
+    },
+    {
+      "id": "298365",
+      "title": "Site of the First School in Grove City",
+      "latitude": 39.8813077,
+      "longitude": -83.09177553,
+      "directions": "On Park Street, Grove City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298365",
+      "photo_urls": []
+    },
+    {
+      "id": "298368",
+      "title": "Our Flag",
+      "latitude": 40.0885008,
+      "longitude": -83.01371563,
+      "directions": "On East Dublin Granville Road (State Route 161) , Worthington, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298368",
+      "photo_urls": []
+    },
+    {
+      "id": "298369",
+      "title": "Baumgartner Outhouse",
+      "latitude": 39.8600339,
+      "longitude": -83.10380448,
+      "directions": "On Orders Road, Grove City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298369",
       "photo_urls": []
     },
     {
@@ -93221,12 +93815,687 @@
       "photo_urls": []
     },
     {
+      "id": "298542",
+      "title": "Chimney Swifts",
+      "latitude": 39.93983066,
+      "longitude": -83.02435866,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298542",
+      "photo_urls": []
+    },
+    {
+      "id": "298543",
+      "title": "Native Prairie",
+      "latitude": 39.9398226,
+      "longitude": -83.02440247,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298543",
+      "photo_urls": []
+    },
+    {
+      "id": "298545",
+      "title": "Departed Denizens",
+      "latitude": 39.94154189,
+      "longitude": -83.03145417,
+      "directions": "On Greenlawn Avenue, Columbus, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298545",
+      "photo_urls": []
+    },
+    {
+      "id": "298546",
+      "title": "Consecration Grove",
+      "latitude": 39.94152924,
+      "longitude": -83.03328649,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298546",
+      "photo_urls": []
+    },
+    {
+      "id": "298547",
+      "title": "Lucas Sullivant",
+      "latitude": 39.94151094,
+      "longitude": -83.03315281,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298547",
+      "photo_urls": []
+    },
+    {
+      "id": "298548",
+      "title": "Grandfather Tree",
+      "latitude": 39.94294168,
+      "longitude": -83.03627471,
+      "directions": "On Brown Road, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298548",
+      "photo_urls": []
+    },
+    {
+      "id": "298550",
+      "title": "The Pond",
+      "latitude": 39.93921818,
+      "longitude": -83.03291375,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298550",
+      "photo_urls": []
+    },
+    {
+      "id": "298551",
+      "title": "Pigeon Oaks",
+      "latitude": 39.93950796,
+      "longitude": -83.03276611,
+      "directions": "On Greenlawn Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298551",
+      "photo_urls": []
+    },
+    {
+      "id": "298552",
+      "title": "Topiary Garden",
+      "latitude": 39.96048948,
+      "longitude": -82.98750331,
+      "directions": "On East Town Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298552",
+      "photo_urls": []
+    },
+    {
+      "id": "298554",
+      "title": "Topiary Garden",
+      "latitude": 39.960383,
+      "longitude": -82.988354,
+      "directions": "On Town Street, Columbus, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298554",
+      "photo_urls": []
+    },
+    {
+      "id": "298555",
+      "title": "Topiary Garden",
+      "latitude": 39.96166429,
+      "longitude": -82.98838937,
+      "directions": "On East Town Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298555",
+      "photo_urls": []
+    },
+    {
+      "id": "298557",
+      "title": "Topiary Garden",
+      "latitude": 39.96146925,
+      "longitude": -82.98764731,
+      "directions": "On East Town Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298557",
+      "photo_urls": []
+    },
+    {
+      "id": "298560",
+      "title": "Topiary Garden",
+      "latitude": 39.96193959,
+      "longitude": -82.98690573,
+      "directions": "On South Washington Avenue, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298560",
+      "photo_urls": []
+    },
+    {
+      "id": "298566",
+      "title": "Veterans Mausoleum",
+      "latitude": 40.1204492,
+      "longitude": -82.93617048,
+      "directions": "On South Knox Street, Westerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298566",
+      "photo_urls": []
+    },
+    {
+      "id": "298567",
+      "title": "American Legion Veterans Memorial",
+      "latitude": 40.12152205,
+      "longitude": -82.93451023,
+      "directions": "On South Knox Street, Westerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298567",
+      "photo_urls": []
+    },
+    {
+      "id": "298568",
+      "title": "This Flag",
+      "latitude": 40.12247003,
+      "longitude": -82.93002863,
+      "directions": "On South State Street (State Route 6) , Westerville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298568",
+      "photo_urls": []
+    },
+    {
+      "id": "298569",
+      "title": "Carol J. Stewart",
+      "latitude": 39.96052259,
+      "longitude": -83.01603116,
+      "directions": "On West Broad Street (U.S. 40) , Columbus, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298569",
+      "photo_urls": []
+    },
+    {
+      "id": "298570",
+      "title": "Jubilee 2000 Doors",
+      "latitude": 39.96042269,
+      "longitude": -83.01654732,
+      "directions": "On West Broad Street (U.S. 40) , Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298570",
+      "photo_urls": []
+    },
+    {
+      "id": "298575",
+      "title": "This Monument",
+      "latitude": 40.0950458,
+      "longitude": -82.90503072,
+      "directions": "On South Hempstead Road, Westerville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298575",
+      "photo_urls": []
+    },
+    {
+      "id": "298576",
+      "title": "The Flag Pole",
+      "latitude": 40.09987032,
+      "longitude": -82.88958762,
+      "directions": "On Whitney Lane, Westerville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298576",
+      "photo_urls": []
+    },
+    {
+      "id": "298577",
+      "title": "Donn Vickers Gazebo in Thurber Park",
+      "latitude": 39.965383,
+      "longitude": -82.984564,
+      "directions": "On Jefferson Avenue, Columbus, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298577",
+      "photo_urls": []
+    },
+    {
+      "id": "298578",
+      "title": "Donn Vickers Gazebo in Thurber Park",
+      "latitude": 39.96540793,
+      "longitude": -82.98458907,
+      "directions": "On Jefferson Avenue, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298578",
+      "photo_urls": []
+    },
+    {
+      "id": "298579",
+      "title": "Nature Preserve & Wetlands",
+      "latitude": 40.08499418,
+      "longitude": -82.81845538,
+      "directions": "On Fodor Road, New Albany, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298579",
+      "photo_urls": []
+    },
+    {
+      "id": "298580",
+      "title": "New Albany-Plain Local School Campus",
+      "latitude": 40.08320589,
+      "longitude": -82.81393245,
+      "directions": "On West Granville Street, New Albany, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298580",
+      "photo_urls": []
+    },
+    {
+      "id": "298581",
+      "title": "Lee Corso",
+      "latitude": 40.00481864,
+      "longitude": -83.01919555,
+      "directions": "On Woody Hayes Drive, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298581",
+      "photo_urls": []
+    },
+    {
+      "id": "298583",
+      "title": "Colonel George L. Converse, Jr.",
+      "latitude": 40.00475561,
+      "longitude": -83.01746364,
+      "directions": "On Tuttle Park Place, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298583",
+      "photo_urls": []
+    },
+    {
+      "id": "298584",
+      "title": "General Curtis LeMay",
+      "latitude": 40.00475606,
+      "longitude": -83.01749392,
+      "directions": "On Tuttle Park Place, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298584",
+      "photo_urls": []
+    },
+    {
+      "id": "298585",
+      "title": "General Maryanne Miller",
+      "latitude": 40.0047615,
+      "longitude": -83.01757208,
+      "directions": "On Tuttle Park Place, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298585",
+      "photo_urls": []
+    },
+    {
+      "id": "298586",
+      "title": "General John (Mike) Murray",
+      "latitude": 40.00476464,
+      "longitude": -83.01764124,
+      "directions": "On Tuttle Park Place, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298586",
+      "photo_urls": []
+    },
+    {
+      "id": "298588",
+      "title": "Archie Griffin",
+      "latitude": 40.00296017,
+      "longitude": -83.01935944,
+      "directions": "On Woody Hayes Drive, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298588",
+      "photo_urls": []
+    },
+    {
+      "id": "298589",
+      "title": "South Oval and Hale Green Geothermal Wells",
+      "latitude": 39.99768839,
+      "longitude": -83.00979686,
+      "directions": "On College Road South, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298589",
+      "photo_urls": []
+    },
+    {
+      "id": "298590",
+      "title": "Alpha Kappa Alpha Sorority, Incorporated",
+      "latitude": 39.99699351,
+      "longitude": -83.01135454,
+      "directions": "On West 12th Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298590",
+      "photo_urls": []
+    },
+    {
+      "id": "298592",
+      "title": "Alpha Phi Alpha Fraternity, Inc.",
+      "latitude": 39.99707539,
+      "longitude": -83.01136902,
+      "directions": "On West 12th Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298592",
+      "photo_urls": []
+    },
+    {
+      "id": "298593",
+      "title": "History of NPHC",
+      "latitude": 39.99725726,
+      "longitude": -83.01167201,
+      "directions": "On West 12th Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298593",
+      "photo_urls": []
+    },
+    {
+      "id": "298594",
+      "title": "NPHC at Ohio State",
+      "latitude": 39.99724568,
+      "longitude": -83.0117626,
+      "directions": "On West 12th Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298594",
+      "photo_urls": []
+    },
+    {
+      "id": "298605",
+      "title": "Mirror Lake",
+      "latitude": 39.99774365,
+      "longitude": -83.01427048,
+      "directions": "On Neil Avenue, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298605",
+      "photo_urls": []
+    },
+    {
+      "id": "298606",
+      "title": "2018 Restoration & Evolution",
+      "latitude": 39.99819694,
+      "longitude": -83.01354642,
+      "directions": "On Neil Avenue, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298606",
+      "photo_urls": []
+    },
+    {
+      "id": "298607",
+      "title": "Mirror Lake",
+      "latitude": 39.99811724,
+      "longitude": -83.01359007,
+      "directions": "On Neil Avenue, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298607",
+      "photo_urls": []
+    },
+    {
+      "id": "298609",
+      "title": "Bucket & Dipper Junior Class Honorary",
+      "latitude": 39.99821225,
+      "longitude": -83.01459074,
+      "directions": "On Neil Avenue, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298609",
+      "photo_urls": []
+    },
+    {
+      "id": "298640",
+      "title": "This Bell",
+      "latitude": 40.06169634,
+      "longitude": -82.79751701,
+      "directions": "On Kitzmiller Road, near New Albany, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298640",
+      "photo_urls": []
+    },
+    {
+      "id": "298642",
+      "title": "Buckeye Tree",
+      "latitude": 40.01510701,
+      "longitude": -82.87630654,
+      "directions": "On Oklahoma Avenue, Gahanna, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298642",
+      "photo_urls": []
+    },
+    {
+      "id": "298643",
+      "title": "The King Avenue Bridge",
+      "latitude": 39.99072797,
+      "longitude": -83.02483383,
+      "directions": "On King Avenue, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298643",
+      "photo_urls": []
+    },
+    {
+      "id": "298648",
+      "title": "Pride Circles",
+      "latitude": 39.98597134,
+      "longitude": -83.00512386,
+      "directions": "On North High Street, Columbus, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298648",
+      "photo_urls": []
+    },
+    {
+      "id": "298649",
+      "title": "Charles Benton Flagg",
+      "latitude": 39.97542378,
+      "longitude": -83.00529422,
+      "directions": "On Park Street, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298649",
+      "photo_urls": []
+    },
+    {
+      "id": "298650",
+      "title": "Tragedy and the Demise of the Ohio Penitentiary",
+      "latitude": 39.96567274,
+      "longitude": -83.00737857,
+      "directions": "On West Spring Street, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298650",
+      "photo_urls": []
+    },
+    {
+      "id": "298651",
+      "title": "Confederate General John Hunt",
+      "latitude": 39.96563126,
+      "longitude": -83.00752793,
+      "directions": "On West Spring Street, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298651",
+      "photo_urls": []
+    },
+    {
+      "id": "298652",
+      "title": "The Ohio Penitentiary",
+      "latitude": 39.96561845,
+      "longitude": -83.00758463,
+      "directions": "On West Spring Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298652",
+      "photo_urls": []
+    },
+    {
+      "id": "298653",
+      "title": "Chiesa Italiana u San Giovanni Battista",
+      "latitude": 39.97750287,
+      "longitude": -82.99915081,
+      "directions": "On East Lincoln Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298653",
+      "photo_urls": []
+    },
+    {
+      "id": "298654",
+      "title": "Chiesa Italiana di San Giovanni Battista",
+      "latitude": 39.97729029,
+      "longitude": -82.99906961,
+      "directions": "On East Lincoln Street, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298654",
+      "photo_urls": []
+    },
+    {
+      "id": "298655",
+      "title": "Interurban Railway",
+      "latitude": 39.84242831,
+      "longitude": -82.80578137,
+      "directions": "On South High Street, Canal Winchester, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298655",
+      "photo_urls": []
+    },
+    {
+      "id": "298656",
+      "title": "Interurban Railway",
+      "latitude": 39.8423329,
+      "longitude": -82.80556245,
+      "directions": "On South High Street, Canal Winchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298656",
+      "photo_urls": []
+    },
+    {
+      "id": "298657",
+      "title": "Canal Winchester High School Veterans Memorial",
+      "latitude": 39.83688516,
+      "longitude": -82.81156531,
+      "directions": "On Washington Street, Canal Winchester, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298657",
+      "photo_urls": []
+    },
+    {
+      "id": "298658",
+      "title": "The Railroad Comes to Town",
+      "latitude": 39.85464344,
+      "longitude": -82.87276451,
+      "directions": "On Groveport Road, Groveport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298658",
+      "photo_urls": []
+    },
+    {
+      "id": "298659",
+      "title": "Life With The Ohio Canal",
+      "latitude": 39.8546454,
+      "longitude": -82.87282333,
+      "directions": "On Groveport Road, Groveport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298659",
+      "photo_urls": []
+    },
+    {
+      "id": "298660",
+      "title": "The Ohio And Erie Canal",
+      "latitude": 39.8531413,
+      "longitude": -82.87903705,
+      "directions": "On Blacklick Street, Groveport, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298660",
+      "photo_urls": []
+    },
+    {
+      "id": "298661",
+      "title": "The Interurban Railway",
+      "latitude": 39.85314321,
+      "longitude": -82.87908981,
+      "directions": "On Blacklick Street, Groveport, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298661",
+      "photo_urls": []
+    },
+    {
+      "id": "298662",
+      "title": "Beginnings And Endings",
+      "latitude": 39.84940797,
+      "longitude": -82.88543076,
+      "directions": "On Wirt Road, Groveport, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298662",
+      "photo_urls": []
+    },
+    {
+      "id": "298663",
+      "title": "Recreation and Physical Activity Center Solar Array",
+      "latitude": 39.99913364,
+      "longitude": -83.01900594,
+      "directions": "On Annie and John Glenn Avenue, Columbus, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298663",
+      "photo_urls": []
+    },
+    {
+      "id": "298664",
+      "title": "Veterans Memorial Grove",
+      "latitude": 40.73959965,
+      "longitude": -84.10532476,
+      "directions": "On South Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298664",
+      "photo_urls": []
+    },
+    {
+      "id": "298666",
+      "title": "Ohio Department of Natural Resources 75th Anniversary",
+      "latitude": 40.75470173,
+      "longitude": -84.0533542,
+      "directions": "On Ada Road (State Route 81) , Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298666",
+      "photo_urls": []
+    },
+    {
+      "id": "298667",
+      "title": "The steel before you was recovered from Ground Zero in New York City",
+      "latitude": 40.73742714,
+      "longitude": -84.10355184,
+      "directions": "On East Elm Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298667",
+      "photo_urls": []
+    },
+    {
+      "id": "298668",
+      "title": "The limestone before you was recovered from the western facade of the Pentagon in Arlington, VA",
+      "latitude": 40.7374369,
+      "longitude": -84.10347883,
+      "directions": "On East Elm Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298668",
+      "photo_urls": []
+    },
+    {
+      "id": "298669",
+      "title": "The boulder before you was recovered from the debris field in Shanksville, PA",
+      "latitude": 40.73743561,
+      "longitude": -84.10342397,
+      "directions": "On East Elm Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298669",
+      "photo_urls": []
+    },
+    {
+      "id": "298670",
+      "title": "Madelon's Way",
+      "latitude": 40.73835896,
+      "longitude": -84.10395914,
+      "directions": "On East Spring Street, Lima, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298670",
+      "photo_urls": []
+    },
+    {
+      "id": "298672",
+      "title": "Rotary Riverwalk & Ottawa River Bikeway",
+      "latitude": 40.736112,
+      "longitude": -84.10627112,
+      "directions": "On South Elizabeth Street, Lima, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298672",
+      "photo_urls": []
+    },
+    {
+      "id": "298673",
+      "title": "Bicentennials of the Northwest Ordinance and the U.S. Constitution",
+      "latitude": 40.69555637,
+      "longitude": -84.1466543,
+      "directions": "On Reed Road, Fort Shawnee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298673",
+      "photo_urls": []
+    },
+    {
+      "id": "298674",
+      "title": "God Bless America",
+      "latitude": 40.69910431,
+      "longitude": -84.15165798,
+      "directions": "On Shawnee Road, Fort Shawnee, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298674",
+      "photo_urls": []
+    },
+    {
+      "id": "298675",
+      "title": "Rotary Riverwalk & Ottawa River Bikeway",
+      "latitude": 40.69601937,
+      "longitude": -84.1465439,
+      "directions": "On Reed Road, Fort Shawnee, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298675",
+      "photo_urls": []
+    },
+    {
+      "id": "298698",
+      "title": "Building a Community in Churches and Schools",
+      "latitude": 39.12616239,
+      "longitude": -84.54792691,
+      "directions": "On Queen City Avenue, Cincinnati, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298698",
+      "photo_urls": []
+    },
+    {
+      "id": "298699",
+      "title": "1739 Elm",
+      "latitude": 39.11505978,
+      "longitude": -84.51994581,
+      "directions": "On Elm Street, Cincinnati, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298699",
+      "photo_urls": []
+    },
+    {
+      "id": "298700",
+      "title": "1801 Elm",
+      "latitude": 39.11524804,
+      "longitude": -84.520004,
+      "directions": "On Elm Street, Cincinnati, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298700",
+      "photo_urls": []
+    },
+    {
+      "id": "298702",
+      "title": "1801 Race",
+      "latitude": 39.11524241,
+      "longitude": -84.51974949,
+      "directions": "On Elm Street, Cincinnati, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298702",
+      "photo_urls": []
+    },
+    {
+      "id": "298704",
+      "title": "Sunny Meisel Plaque",
+      "latitude": 39.11516618,
+      "longitude": -84.51972767,
+      "directions": "On Elm Street, Cincinnati, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298704",
+      "photo_urls": []
+    },
+    {
+      "id": "298705",
+      "title": "Cincinnati Gilded Brew / Our Brewing Heritage",
+      "latitude": 39.11550023,
+      "longitude": -84.51837609,
+      "directions": "On Race Street, Cincinnati, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298705",
+      "photo_urls": []
+    },
+    {
       "id": "29873",
       "title": "John W. Carey",
       "latitude": 40.395012,
       "longitude": -84.176063,
       "directions": "On Main Street (State Route 119) , Anna, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29873",
+      "photo_urls": []
+    },
+    {
+      "id": "298731",
+      "title": "In Memory of Major John Mills",
+      "latitude": 40.098455,
+      "longitude": -84.637543,
+      "directions": "On Third Street, Greenville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298731",
       "photo_urls": []
     },
     {
@@ -93239,12 +94508,516 @@
       "photo_urls": []
     },
     {
+      "id": "298803",
+      "title": "Westinghouse Electric and Manufacturing Co.",
+      "latitude": 40.74058272,
+      "longitude": -84.11354707,
+      "directions": "On West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298803",
+      "photo_urls": []
+    },
+    {
+      "id": "298804",
+      "title": "Neon Plant",
+      "latitude": 40.74065864,
+      "longitude": -84.11358496,
+      "directions": "Near West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298804",
+      "photo_urls": []
+    },
+    {
+      "id": "298807",
+      "title": "Hall Of Valor",
+      "latitude": 40.7406866,
+      "longitude": -84.11367388,
+      "directions": "On West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298807",
+      "photo_urls": []
+    },
+    {
+      "id": "298809",
+      "title": "Lima Cord And Sole Company",
+      "latitude": 40.74040472,
+      "longitude": -84.11389241,
+      "directions": "On West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298809",
+      "photo_urls": []
+    },
+    {
+      "id": "298811",
+      "title": "Artspace/Lima",
+      "latitude": 40.74052252,
+      "longitude": -84.10544189,
+      "directions": "On North Main Street, Lima, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298811",
+      "photo_urls": []
+    },
+    {
+      "id": "298817",
+      "title": "1819 Elm",
+      "latitude": 39.11578812,
+      "longitude": -84.52013035,
+      "directions": "On Elm Street, Cincinnati, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298817",
+      "photo_urls": []
+    },
+    {
+      "id": "298822",
+      "title": "130-134 West Elder",
+      "latitude": 39.11540075,
+      "longitude": -84.51975699,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298822",
+      "photo_urls": []
+    },
+    {
+      "id": "298825",
+      "title": "128 West Elder",
+      "latitude": 39.11544839,
+      "longitude": -84.51955694,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298825",
+      "photo_urls": []
+    },
+    {
+      "id": "298827",
+      "title": "126 West Elder",
+      "latitude": 39.11545174,
+      "longitude": -84.51948393,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298827",
+      "photo_urls": []
+    },
+    {
+      "id": "298828",
+      "title": "124 West Elder",
+      "latitude": 39.1154623,
+      "longitude": -84.51938838,
+      "directions": "On West Elder Street, Cincinnati, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298828",
+      "photo_urls": []
+    },
+    {
+      "id": "298829",
+      "title": "122 West Elder",
+      "latitude": 39.11547137,
+      "longitude": -84.51935961,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298829",
+      "photo_urls": []
+    },
+    {
+      "id": "298833",
+      "title": "118-120 West Elder",
+      "latitude": 39.11549852,
+      "longitude": -84.51917272,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298833",
+      "photo_urls": []
+    },
+    {
+      "id": "298834",
+      "title": "112 West Elder",
+      "latitude": 39.11551801,
+      "longitude": -84.51905071,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298834",
+      "photo_urls": []
+    },
+    {
+      "id": "298835",
+      "title": "110 West Elder",
+      "latitude": 39.11554532,
+      "longitude": -84.51883121,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298835",
+      "photo_urls": []
+    },
+    {
+      "id": "298836",
+      "title": "106 West Elder",
+      "latitude": 39.11557204,
+      "longitude": -84.51866025,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298836",
+      "photo_urls": []
+    },
+    {
+      "id": "298837",
+      "title": "100-104 West Elder",
+      "latitude": 39.11560685,
+      "longitude": -84.51845004,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298837",
+      "photo_urls": []
+    },
+    {
+      "id": "298838",
+      "title": "1800 Race",
+      "latitude": 39.11555412,
+      "longitude": -84.51816422,
+      "directions": "On Race Street, Cincinnati, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298838",
+      "photo_urls": []
+    },
+    {
+      "id": "298839",
+      "title": "1730 Race",
+      "latitude": 39.11537336,
+      "longitude": -84.51810896,
+      "directions": "On Race Street, Cincinnati, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298839",
+      "photo_urls": []
+    },
+    {
       "id": "29884",
       "title": "Historic House",
       "latitude": 40.741492,
       "longitude": -84.102075,
       "directions": "On Central Avenue (State Route 309) , Lima, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29884",
+      "photo_urls": []
+    },
+    {
+      "id": "298840",
+      "title": "1818-1824 Race",
+      "latitude": 39.11612986,
+      "longitude": -84.51831481,
+      "directions": "On Race Street, Cincinnati, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298840",
+      "photo_urls": []
+    },
+    {
+      "id": "298841",
+      "title": "101 West Elder",
+      "latitude": 39.11525906,
+      "longitude": -84.51832875,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298841",
+      "photo_urls": []
+    },
+    {
+      "id": "298842",
+      "title": "103 West Elder",
+      "latitude": 39.11523467,
+      "longitude": -84.51842087,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298842",
+      "photo_urls": []
+    },
+    {
+      "id": "298843",
+      "title": "105 West Elder",
+      "latitude": 39.11522675,
+      "longitude": -84.51849103,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298843",
+      "photo_urls": []
+    },
+    {
+      "id": "298844",
+      "title": "107 West Elder",
+      "latitude": 39.11521426,
+      "longitude": -84.51856605,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298844",
+      "photo_urls": []
+    },
+    {
+      "id": "298845",
+      "title": "109 West Elder",
+      "latitude": 39.11513779,
+      "longitude": -84.51893874,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298845",
+      "photo_urls": []
+    },
+    {
+      "id": "298846",
+      "title": "111-113 West Elder",
+      "latitude": 39.11518422,
+      "longitude": -84.51876559,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298846",
+      "photo_urls": []
+    },
+    {
+      "id": "298847",
+      "title": "119-121 West Elder",
+      "latitude": 39.11513685,
+      "longitude": -84.51909056,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298847",
+      "photo_urls": []
+    },
+    {
+      "id": "298848",
+      "title": "123-127 West Elder",
+      "latitude": 39.11509351,
+      "longitude": -84.51930818,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298848",
+      "photo_urls": []
+    },
+    {
+      "id": "298850",
+      "title": "129 West Elder",
+      "latitude": 39.11507165,
+      "longitude": -84.5194659,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298850",
+      "photo_urls": []
+    },
+    {
+      "id": "298851",
+      "title": "131 West Elder",
+      "latitude": 39.11506604,
+      "longitude": -84.51954203,
+      "directions": "On West Elder Street, Cincinnati, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298851",
+      "photo_urls": []
+    },
+    {
+      "id": "298852",
+      "title": "133 West Elder",
+      "latitude": 39.11505284,
+      "longitude": -84.51960398,
+      "directions": "On West Elder Street, Cincinnati, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298852",
+      "photo_urls": []
+    },
+    {
+      "id": "298853",
+      "title": "135 West Elder",
+      "latitude": 39.11504419,
+      "longitude": -84.51968543,
+      "directions": "On West Elder Street, Cincinnati, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298853",
+      "photo_urls": []
+    },
+    {
+      "id": "298887",
+      "title": "Shay Engine 10",
+      "latitude": 40.74048109,
+      "longitude": -84.11354067,
+      "directions": "Near West Market Street, Lima, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298887",
+      "photo_urls": []
+    },
+    {
+      "id": "298921",
+      "title": "The C.R. Patterson & Sons Story",
+      "latitude": 39.35178309,
+      "longitude": -83.38319089,
+      "directions": "On North Washington Street, Greenfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298921",
+      "photo_urls": []
+    },
+    {
+      "id": "298923",
+      "title": "Greenfield's Path To Freedom",
+      "latitude": 39.35251391,
+      "longitude": -83.37937456,
+      "directions": "On Jefferson Street (State Route 28) , Greenfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298923",
+      "photo_urls": []
+    },
+    {
+      "id": "298924",
+      "title": "First Presbyterian Church Site",
+      "latitude": 39.35211397,
+      "longitude": -83.37856071,
+      "directions": "On South McArthur Way, Greenfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298924",
+      "photo_urls": []
+    },
+    {
+      "id": "298925",
+      "title": "Greenfield's Path To Freedom",
+      "latitude": 39.35158598,
+      "longitude": -83.37859839,
+      "directions": "On South McArthur Way, Greenfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298925",
+      "photo_urls": []
+    },
+    {
+      "id": "298926",
+      "title": "The Old Burying Ground ~ Greenfield, Ohio",
+      "latitude": 39.35140462,
+      "longitude": -83.37857922,
+      "directions": "On South McArthur Street, Greenfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298926",
+      "photo_urls": []
+    },
+    {
+      "id": "298927",
+      "title": "Birthplace of General John E. Hull",
+      "latitude": 39.35261972,
+      "longitude": -83.37869111,
+      "directions": "On Jefferson Street (State Route 28) , Greenfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298927",
+      "photo_urls": []
+    },
+    {
+      "id": "298928",
+      "title": "The Patchwork Path",
+      "latitude": 39.35290288,
+      "longitude": -83.37905208,
+      "directions": "On South McArthur Way, Greenfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298928",
+      "photo_urls": []
+    },
+    {
+      "id": "298929",
+      "title": "Greenfield",
+      "latitude": 39.35266345,
+      "longitude": -83.37842223,
+      "directions": "On Jefferson Street (State Route 28) , Greenfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298929",
+      "photo_urls": []
+    },
+    {
+      "id": "298930",
+      "title": "Birthplace of Johnny Paycheck",
+      "latitude": 39.35265576,
+      "longitude": -83.37845667,
+      "directions": "On Jefferson Street (State Route 28) , Greenfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298930",
+      "photo_urls": []
+    },
+    {
+      "id": "298932",
+      "title": "Friends Cemetery Veterans Memorial",
+      "latitude": 40.26709728,
+      "longitude": -80.78453928,
+      "directions": "On Maple Avenue, near Smithfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298932",
+      "photo_urls": []
+    },
+    {
+      "id": "298933",
+      "title": "Toronto World War Memorial",
+      "latitude": 40.46553403,
+      "longitude": -80.59968423,
+      "directions": "On Market Street, Toronto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298933",
+      "photo_urls": []
+    },
+    {
+      "id": "298936",
+      "title": "River of Life",
+      "latitude": 40.37601135,
+      "longitude": -82.40365075,
+      "directions": "On Laymon Road, Gambier, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298936",
+      "photo_urls": []
+    },
+    {
+      "id": "298938",
+      "title": "Change is Constant",
+      "latitude": 40.37374758,
+      "longitude": -82.40617471,
+      "directions": "On Laymon Road, near Gambier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298938",
+      "photo_urls": []
+    },
+    {
+      "id": "298939",
+      "title": "Natural Areas",
+      "latitude": 40.37376335,
+      "longitude": -82.40619256,
+      "directions": "On Laymon Road, near Gambier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298939",
+      "photo_urls": []
+    },
+    {
+      "id": "298940",
+      "title": "What is Your Role in Shaping Our Future?",
+      "latitude": 40.37378145,
+      "longitude": -82.40619551,
+      "directions": "On Laymon Road, near Gambier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298940",
+      "photo_urls": []
+    },
+    {
+      "id": "298941",
+      "title": "Conserving Natural Diversity",
+      "latitude": 40.37379727,
+      "longitude": -82.40616057,
+      "directions": "On Laymon Road, near Gambier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298941",
+      "photo_urls": []
+    },
+    {
+      "id": "298943",
+      "title": "Thomas R. Sant '65 H '13",
+      "latitude": 40.37394231,
+      "longitude": -82.40623713,
+      "directions": "On Laymon Road, near Gambier, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298943",
+      "photo_urls": []
+    },
+    {
+      "id": "298944",
+      "title": "Johnstown",
+      "latitude": 40.15973605,
+      "longitude": -82.69069108,
+      "directions": "On North Main Street, Johnstown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298944",
+      "photo_urls": []
+    },
+    {
+      "id": "298945",
+      "title": "Pauline Chambers Yost",
+      "latitude": 40.15351891,
+      "longitude": -82.68479811,
+      "directions": "On South Main Street, Johnstown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298945",
+      "photo_urls": []
+    },
+    {
+      "id": "298946",
+      "title": "Alexandria",
+      "latitude": 40.09307976,
+      "longitude": -82.61982891,
+      "directions": "On Johnstown-Alexandria Road (State Route 37) , Alexandria, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298946",
+      "photo_urls": []
+    },
+    {
+      "id": "298947",
+      "title": "Veterans Memorial",
+      "latitude": 40.09206652,
+      "longitude": -82.61370098,
+      "directions": "On Maple Drive, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298947",
+      "photo_urls": []
+    },
+    {
+      "id": "298948",
+      "title": "Lest We Forget",
+      "latitude": 40.09254323,
+      "longitude": -82.61359321,
+      "directions": "On Maple Drive, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298948",
+      "photo_urls": []
+    },
+    {
+      "id": "298949",
+      "title": "Old Pioneer Cemetery",
+      "latitude": 40.09383154,
+      "longitude": -82.61311249,
+      "directions": "On Maple Drive, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298949",
+      "photo_urls": []
+    },
+    {
+      "id": "298950",
+      "title": "Gaffield Cemetery",
+      "latitude": 40.06164428,
+      "longitude": -82.59353386,
+      "directions": "On Morse Road, near Alexandria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298950",
       "photo_urls": []
     },
     {
@@ -93257,12 +95030,66 @@
       "photo_urls": []
     },
     {
+      "id": "299015",
+      "title": "Crestline PRR Roundhouse",
+      "latitude": 40.78477961,
+      "longitude": -82.75465739,
+      "directions": "On Crestline Road, Crestline, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299015",
+      "photo_urls": []
+    },
+    {
+      "id": "299062",
+      "title": "Victory Shaft",
+      "latitude": 40.54908242,
+      "longitude": -82.82881,
+      "directions": "On West High Street, near Mount Gilead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299062",
+      "photo_urls": []
+    },
+    {
+      "id": "299084",
+      "title": "Mansfield's War Of 1812 Blockhouse",
+      "latitude": 40.75606687,
+      "longitude": -82.54162037,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299084",
+      "photo_urls": []
+    },
+    {
+      "id": "299085",
+      "title": "Mansfield's War of 1812 Blockhouse",
+      "latitude": 40.75619993,
+      "longitude": -82.54143448,
+      "directions": "Near Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299085",
+      "photo_urls": []
+    },
+    {
+      "id": "299086",
+      "title": "Mansfield's War of 1812 Blockhouse",
+      "latitude": 40.75623367,
+      "longitude": -82.54144614,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299086",
+      "photo_urls": []
+    },
+    {
       "id": "29911",
       "title": "Hospital Care",
       "latitude": 40.143231,
       "longitude": -84.26886,
       "directions": "On Sunset Drive, Piqua, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29911",
+      "photo_urls": []
+    },
+    {
+      "id": "299217",
+      "title": "Major Amos Stoddard",
+      "latitude": 41.55276667,
+      "longitude": -83.65251667,
+      "directions": "Near West Indiana Avenue (State Route 65) , Perrysburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299217",
       "photo_urls": []
     },
     {
@@ -93293,6 +95120,60 @@
       "photo_urls": []
     },
     {
+      "id": "299270",
+      "title": "Harpersfield Covered Bridge",
+      "latitude": 41.755701,
+      "longitude": -80.944704,
+      "directions": "On Harpersfield Road, near Geneva, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299270",
+      "photo_urls": []
+    },
+    {
+      "id": "299275",
+      "title": "Mary Evans",
+      "latitude": 41.71822999,
+      "longitude": -81.25211284,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299275",
+      "photo_urls": []
+    },
+    {
+      "id": "299276",
+      "title": "The Birth of Neutrino Astronomy",
+      "latitude": 41.75550509,
+      "longitude": -81.28837865,
+      "directions": "On Williams Street, near Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299276",
+      "photo_urls": []
+    },
+    {
+      "id": "299277",
+      "title": "Mentor Lagoons Water Trail",
+      "latitude": 41.725679,
+      "longitude": -81.338851,
+      "directions": "Near Harbor Drive, Mentor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299277",
+      "photo_urls": []
+    },
+    {
+      "id": "299278",
+      "title": "Kirtland Temple",
+      "latitude": 41.62513889,
+      "longitude": -81.36175,
+      "directions": "On Chillicothe Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299278",
+      "photo_urls": []
+    },
+    {
+      "id": "299279",
+      "title": "Harry Coulby",
+      "latitude": 41.59628337,
+      "longitude": -81.47757688,
+      "directions": "On Ridge Road, Wickliffe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299279",
+      "photo_urls": []
+    },
+    {
       "id": "29929",
       "title": "Oglevie Post 64 G.A.R. Civil War Memorial",
       "latitude": 40.921028,
@@ -93308,6 +95189,105 @@
       "longitude": -84.057064,
       "directions": "On Liberty Street, Columbus Grove, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29930",
+      "photo_urls": []
+    },
+    {
+      "id": "299315",
+      "title": "Grand Army of the Republic Memorial",
+      "latitude": 38.99469307,
+      "longitude": -81.77484038,
+      "directions": "On Ohio River Scenic Byway (State Route Scenic 124) , near Portland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299315",
+      "photo_urls": []
+    },
+    {
+      "id": "299333",
+      "title": "Lewistown Reserve / Lewistown Reservoir",
+      "latitude": 40.4802121,
+      "longitude": -83.89793208,
+      "directions": "On ODNR Road, Russells Point, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299333",
+      "photo_urls": []
+    },
+    {
+      "id": "299334",
+      "title": "Brooks Lawrence",
+      "latitude": 39.91609312,
+      "longitude": -83.80908911,
+      "directions": "On North High School Place, Springfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299334",
+      "photo_urls": []
+    },
+    {
+      "id": "299335",
+      "title": "The Rubi Girls",
+      "latitude": 39.75015768,
+      "longitude": -84.17532391,
+      "directions": "On Wayne Avenue, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299335",
+      "photo_urls": []
+    },
+    {
+      "id": "299338",
+      "title": "The Keifer Cabin Site",
+      "latitude": 39.909504,
+      "longitude": -83.911763,
+      "directions": "Near South Tecumseh Road (State Route 69) , near Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299338",
+      "photo_urls": []
+    },
+    {
+      "id": "299348",
+      "title": "The Anderson Schoolhouse",
+      "latitude": 40.84167851,
+      "longitude": -82.35865765,
+      "directions": "On Mansfield Road (U.S. 42) , near Ashland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299348",
+      "photo_urls": []
+    },
+    {
+      "id": "299350",
+      "title": "September 11, 2001 Memorial",
+      "latitude": 40.86211418,
+      "longitude": -82.32387916,
+      "directions": "On Clermont Avenue, Ashland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299350",
+      "photo_urls": []
+    },
+    {
+      "id": "299351",
+      "title": "The New Salem Presbyterian Church",
+      "latitude": 40.67681024,
+      "longitude": -84.42518709,
+      "directions": "On Deep Cut Road (State Route 116) , near Spencerville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299351",
+      "photo_urls": []
+    },
+    {
+      "id": "299352",
+      "title": "War of 1861-1865",
+      "latitude": 41.69257489,
+      "longitude": -80.95340682,
+      "directions": "On State Route 534, near Trumbull, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299352",
+      "photo_urls": []
+    },
+    {
+      "id": "299353",
+      "title": "Harpersfield Township Veterans Memorial",
+      "latitude": 41.75877671,
+      "longitude": -80.94989051,
+      "directions": "On North River Road (State Route 307) , near Geneva, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299353",
+      "photo_urls": []
+    },
+    {
+      "id": "299355",
+      "title": "Unionville Soldiers Veterans Memorial",
+      "latitude": 41.78011132,
+      "longitude": -81.00246236,
+      "directions": "On South County Line Road (County Route 141) , near Unionville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299355",
       "photo_urls": []
     },
     {
@@ -93329,12 +95309,129 @@
       "photo_urls": []
     },
     {
+      "id": "299472",
+      "title": "Christian Frederick Post",
+      "latitude": 40.666981,
+      "longitude": -81.456763,
+      "directions": "Near Riverdale Street Southwest, near Bolivar, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299472",
+      "photo_urls": []
+    },
+    {
+      "id": "299508",
+      "title": "Veterans Memorial",
+      "latitude": 40.46548169,
+      "longitude": -80.59958524,
+      "directions": "On Market Street, Toronto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299508",
+      "photo_urls": []
+    },
+    {
+      "id": "299513",
+      "title": "C.B.C. Bicentennial Grove",
+      "latitude": 39.90942764,
+      "longitude": -83.91112415,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299513",
+      "photo_urls": []
+    },
+    {
+      "id": "299514",
+      "title": "Echos From The Past",
+      "latitude": 39.90947887,
+      "longitude": -83.91172399,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299514",
+      "photo_urls": []
+    },
+    {
+      "id": "299515",
+      "title": "Clark's Rookery Romp!",
+      "latitude": 39.91239379,
+      "longitude": -83.90310159,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299515",
+      "photo_urls": []
+    },
+    {
+      "id": "299517",
+      "title": "Afternoon Assault",
+      "latitude": 39.90600702,
+      "longitude": -83.9164644,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299517",
+      "photo_urls": []
+    },
+    {
+      "id": "299518",
+      "title": "Tribal Resistance",
+      "latitude": 39.90596526,
+      "longitude": -83.91640348,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299518",
+      "photo_urls": []
+    },
+    {
+      "id": "299519",
+      "title": "Clark's Report to Governor Thomas Jefferson",
+      "latitude": 39.90589212,
+      "longitude": -83.91627659,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299519",
+      "photo_urls": []
+    },
+    {
+      "id": "299520",
+      "title": "Excerpt from Captain Alexander Mckee's Report to Major Arendt S. Depeyster",
+      "latitude": 39.90585932,
+      "longitude": -83.91599264,
+      "directions": "On Lower Valley Pike, Springfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299520",
+      "photo_urls": []
+    },
+    {
+      "id": "299533",
+      "title": "Steve Schnitkey",
+      "latitude": 41.5559105,
+      "longitude": -84.36779954,
+      "directions": "On County Road Ef (County Route EF) , near Archbold, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299533",
+      "photo_urls": []
+    },
+    {
       "id": "29957",
       "title": "William and Hannah Neil",
       "latitude": 39.965521,
       "longitude": -83.009517,
       "directions": "On Long Street (U.S. 33) , Columbus, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29957",
+      "photo_urls": []
+    },
+    {
+      "id": "299638",
+      "title": "The Day Death Came To Newark",
+      "latitude": 40.0624677,
+      "longitude": -82.4050457,
+      "directions": "On Hudson Avenue (State Route 13) , Newark, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299638",
+      "photo_urls": []
+    },
+    {
+      "id": "299653",
+      "title": "Akron Community Service Center and Urban League",
+      "latitude": 41.08216482,
+      "longitude": -81.50952839,
+      "directions": "On East Market Street (State Route 18) , Akron, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299653",
+      "photo_urls": []
+    },
+    {
+      "id": "299654",
+      "title": "Wesley Temple African Methodist Episcopal Zion Church",
+      "latitude": 41.085815,
+      "longitude": -81.510208,
+      "directions": "On Martin Luther King Jr Blvd / Perkins Street (State Route 59) , Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299654",
       "photo_urls": []
     },
     {
@@ -93347,6 +95444,150 @@
       "photo_urls": []
     },
     {
+      "id": "299737",
+      "title": "\"The Copus Massacre\"",
+      "latitude": 40.72843333,
+      "longitude": -82.35923333,
+      "directions": "On Route 1225, near Perrysville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299737",
+      "photo_urls": []
+    },
+    {
+      "id": "299738",
+      "title": "Frontier Violence During the War of 1812",
+      "latitude": 40.73876,
+      "longitude": -82.36,
+      "directions": "On Johnny Appleseed Historic Byway (State Route 603) , near Ashland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299738",
+      "photo_urls": []
+    },
+    {
+      "id": "299750",
+      "title": "Bainbridge Center Historic District",
+      "latitude": 41.38290154,
+      "longitude": -81.34010987,
+      "directions": "On Chillicothe Road (State Route 306) , Bainbridge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299750",
+      "photo_urls": []
+    },
+    {
+      "id": "299751",
+      "title": "Indian Point / The Whittlesey People",
+      "latitude": 41.72060079,
+      "longitude": -81.17116969,
+      "directions": "On Seeley Road, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299751",
+      "photo_urls": []
+    },
+    {
+      "id": "299753",
+      "title": "The James Converse & Hopson Hurd Store / A Commercial Site Since 1825",
+      "latitude": 41.31733575,
+      "longitude": -81.34608307,
+      "directions": "On West Garfield Road (State Route 82) , Aurora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299753",
+      "photo_urls": []
+    },
+    {
+      "id": "299754",
+      "title": "Cleveland & Mahoning Railroad Randall Secondary / Aurora Train Station",
+      "latitude": 41.31730206,
+      "longitude": -81.33445409,
+      "directions": "On East Garfield Road (State Route 82) , Aurora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299754",
+      "photo_urls": []
+    },
+    {
+      "id": "299755",
+      "title": "\"The Root Homestead\"",
+      "latitude": 41.13901992,
+      "longitude": -81.87492815,
+      "directions": "On West Liberty Street (State Route 57) , Medina, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299755",
+      "photo_urls": []
+    },
+    {
+      "id": "299756",
+      "title": "Middlebury Lodge No. 34 F.&A.M.",
+      "latitude": 41.070926,
+      "longitude": -81.489136,
+      "directions": "On Market Street, Akron, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299756",
+      "photo_urls": []
+    },
+    {
+      "id": "299757",
+      "title": "St. Vincent-St. Mary Catholic High School / A Firm Foundation In Catholic Education",
+      "latitude": 41.0886771,
+      "longitude": -81.52307927,
+      "directions": "On North Maple Street, Akron, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299757",
+      "photo_urls": []
+    },
+    {
+      "id": "299758",
+      "title": "Ohio Education Association",
+      "latitude": 41.07985865,
+      "longitude": -81.51772523,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299758",
+      "photo_urls": []
+    },
+    {
+      "id": "299760",
+      "title": "Thompson Veterans Memorial",
+      "latitude": 41.68903015,
+      "longitude": -81.05152731,
+      "directions": "On Madison Road (State Route 528) , Thompson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299760",
+      "photo_urls": []
+    },
+    {
+      "id": "299761",
+      "title": "Thompson Ledge Park",
+      "latitude": 41.68977086,
+      "longitude": -81.04505533,
+      "directions": "On Thompson Road (County Route 7) , Thompson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299761",
+      "photo_urls": []
+    },
+    {
+      "id": "299762",
+      "title": "Frances Spatz Leighton",
+      "latitude": 41.6896972,
+      "longitude": -81.04459719,
+      "directions": "On Thompson Road (County Route 7) , Thompson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299762",
+      "photo_urls": []
+    },
+    {
+      "id": "299764",
+      "title": "The Chardon Trestle and Fire",
+      "latitude": 41.57389198,
+      "longitude": -81.20565787,
+      "directions": "On Greenway Drive, Chardon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299764",
+      "photo_urls": []
+    },
+    {
+      "id": "299765",
+      "title": "Chardon",
+      "latitude": 41.56032443,
+      "longitude": -81.19828578,
+      "directions": "On South Street (State Route 44) , Chardon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299765",
+      "photo_urls": []
+    },
+    {
+      "id": "299766",
+      "title": "Original School Bell",
+      "latitude": 41.53252528,
+      "longitude": -81.14348325,
+      "directions": "On Mayfield Road (U.S. 322) , Chardon, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299766",
+      "photo_urls": []
+    },
+    {
       "id": "29977",
       "title": "Butler County Civil War Memorial",
       "latitude": 39.499964,
@@ -93356,12 +95597,273 @@
       "photo_urls": []
     },
     {
+      "id": "299770",
+      "title": "Burton",
+      "latitude": 41.47075823,
+      "longitude": -81.13570637,
+      "directions": "On Kinsman Road (State Route 87) , Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299770",
+      "photo_urls": []
+    },
+    {
+      "id": "299771",
+      "title": "Veterans Memorial",
+      "latitude": 41.47629196,
+      "longitude": -81.14101209,
+      "directions": "Near Goodwin Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299771",
+      "photo_urls": []
+    },
+    {
+      "id": "299773",
+      "title": "The Great Geauga County Fair",
+      "latitude": 41.47739233,
+      "longitude": -81.14468866,
+      "directions": "On Berkshire Lane, Burton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299773",
+      "photo_urls": []
+    },
+    {
+      "id": "299774",
+      "title": "Dan McClelland",
+      "latitude": 41.47684815,
+      "longitude": -81.1436382,
+      "directions": "On Cook Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299774",
+      "photo_urls": []
+    },
+    {
+      "id": "299776",
+      "title": "Paul Harris and Pam Krotzer",
+      "latitude": 41.47683275,
+      "longitude": -81.14369474,
+      "directions": "Near Cook Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299776",
+      "photo_urls": []
+    },
+    {
+      "id": "299778",
+      "title": "Vernon and Marion Howard",
+      "latitude": 41.47679676,
+      "longitude": -81.14371553,
+      "directions": "On Cook Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299778",
+      "photo_urls": []
+    },
+    {
+      "id": "299779",
+      "title": "Audre and Evelyn Blair",
+      "latitude": 41.47678043,
+      "longitude": -81.14372649,
+      "directions": "Near Cook Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299779",
+      "photo_urls": []
+    },
+    {
+      "id": "299783",
+      "title": "Veterans Memorial",
+      "latitude": 41.4768796,
+      "longitude": -81.14324179,
+      "directions": "On Cook Street, Burton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299783",
+      "photo_urls": []
+    },
+    {
+      "id": "299788",
+      "title": "Mt. Gilead",
+      "latitude": 40.54860841,
+      "longitude": -82.81991735,
+      "directions": "On East High Street (State Route 95) , Mount Gilead, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299788",
+      "photo_urls": []
+    },
+    {
+      "id": "299789",
+      "title": "Welcome",
+      "latitude": 40.54855494,
+      "longitude": -82.81833949,
+      "directions": "On East High Street, Mount Gilead, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299789",
+      "photo_urls": []
+    },
+    {
       "id": "29979",
       "title": "Middletown World War II Memorial Chapel & Plaza",
       "latitude": 39.500034,
       "longitude": -84.40812,
       "directions": "Near Woodside Boulevard, Middletown, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29979",
+      "photo_urls": []
+    },
+    {
+      "id": "299790",
+      "title": "Welcome",
+      "latitude": 40.54689738,
+      "longitude": -82.8102025,
+      "directions": "On East High Street (State Route 95) , Mount Gilead, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299790",
+      "photo_urls": []
+    },
+    {
+      "id": "299792",
+      "title": "Ohio Department of Natural Resources 75th Anniversary",
+      "latitude": 40.54671143,
+      "longitude": -82.81066527,
+      "directions": "On East High Street (State Route 95) , Mount Gilead, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299792",
+      "photo_urls": []
+    },
+    {
+      "id": "299793",
+      "title": "Vermilion",
+      "latitude": 41.42723771,
+      "longitude": -82.28682523,
+      "directions": "On West Erie Avenue (U.S. 6) , Vermilion, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299793",
+      "photo_urls": []
+    },
+    {
+      "id": "299799",
+      "title": "Plain City",
+      "latitude": 40.10749624,
+      "longitude": -83.27839388,
+      "directions": "On South Jefferson Avenue (State Route 42) , Plain City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299799",
+      "photo_urls": []
+    },
+    {
+      "id": "299800",
+      "title": "London",
+      "latitude": 39.88980734,
+      "longitude": -83.43515126,
+      "directions": "On East 1st Street, London, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299800",
+      "photo_urls": []
+    },
+    {
+      "id": "299801",
+      "title": "Jonathan Alder Cabin 1806",
+      "latitude": 39.89111523,
+      "longitude": -83.43572573,
+      "directions": "On East High Street, London, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299801",
+      "photo_urls": []
+    },
+    {
+      "id": "299802",
+      "title": "Corner Stone",
+      "latitude": 39.89094072,
+      "longitude": -83.4350812,
+      "directions": "On East High Street, London, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299802",
+      "photo_urls": []
+    },
+    {
+      "id": "299807",
+      "title": "Englewood",
+      "latitude": 39.85625584,
+      "longitude": -84.27661097,
+      "directions": "On North Main Street (Route 48) , Englewood, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299807",
+      "photo_urls": []
+    },
+    {
+      "id": "299808",
+      "title": "Fairport Harbor",
+      "latitude": 41.73671872,
+      "longitude": -81.26718207,
+      "directions": "On Fairport Road, Fairport Harbor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299808",
+      "photo_urls": []
+    },
+    {
+      "id": "299809",
+      "title": "Middlefield",
+      "latitude": 41.46319338,
+      "longitude": -81.09098249,
+      "directions": "On Kinsman Road (State Route 87) , Middlefield, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299809",
+      "photo_urls": []
+    },
+    {
+      "id": "299810",
+      "title": "Medina",
+      "latitude": 41.14887991,
+      "longitude": -81.84108929,
+      "directions": "On Weymouth Road (State Route 3) , Medina, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299810",
+      "photo_urls": []
+    },
+    {
+      "id": "299811",
+      "title": "Seville",
+      "latitude": 41.01016167,
+      "longitude": -81.85322317,
+      "directions": "On East Main Street (Route 13) , Seville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299811",
+      "photo_urls": []
+    },
+    {
+      "id": "299830",
+      "title": "May the Forest be With You",
+      "latitude": 41.72037939,
+      "longitude": -81.16964361,
+      "directions": "On Seeley Road, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299830",
+      "photo_urls": []
+    },
+    {
+      "id": "299831",
+      "title": "Edna A. Phelps (Ne Crofoot) and James A. Phelps",
+      "latitude": 41.7205409,
+      "longitude": -81.17116975,
+      "directions": "On Seeley Road, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299831",
+      "photo_urls": []
+    },
+    {
+      "id": "299832",
+      "title": "Camp Wissalohichan",
+      "latitude": 41.72057074,
+      "longitude": -81.17313511,
+      "directions": "On Seeley Road, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299832",
+      "photo_urls": []
+    },
+    {
+      "id": "299833",
+      "title": "The Old Church Bell",
+      "latitude": 40.09935436,
+      "longitude": -83.08075408,
+      "directions": "On Bent Tree Boulevard, Columbus, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299833",
+      "photo_urls": []
+    },
+    {
+      "id": "299834",
+      "title": "George E. Stevens Memorial Stone",
+      "latitude": 41.72060176,
+      "longitude": -81.1731177,
+      "directions": "On Seeley Road, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299834",
+      "photo_urls": []
+    },
+    {
+      "id": "299835",
+      "title": "Vrooman Road Bridge",
+      "latitude": 41.72483067,
+      "longitude": -81.18235784,
+      "directions": "On Seeley Road, Painesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299835",
+      "photo_urls": []
+    },
+    {
+      "id": "299864",
+      "title": "Perry Volunteers Died in the U.S. Service",
+      "latitude": 41.77638691,
+      "longitude": -81.1479156,
+      "directions": "Near Center Road (County Route 115) , North Perry, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299864",
       "photo_urls": []
     },
     {
@@ -93383,12 +95885,66 @@
       "photo_urls": []
     },
     {
+      "id": "299921",
+      "title": "The Chagrin River's \"High Falls\"",
+      "latitude": 41.4309667,
+      "longitude": -81.39198881,
+      "directions": "On North Main Street, Chagrin Falls, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299921",
+      "photo_urls": []
+    },
+    {
+      "id": "299971",
+      "title": "Geauga Lake",
+      "latitude": 41.34658725,
+      "longitude": -81.37732727,
+      "directions": "On North Aurora Road (State Route 43) , Aurora, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299971",
+      "photo_urls": []
+    },
+    {
       "id": "300",
       "title": "Delaware Nation Council House",
       "latitude": 40.273771,
       "longitude": -81.868991,
       "directions": "On Main Street, Coshocton, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300",
+      "photo_urls": []
+    },
+    {
+      "id": "300012",
+      "title": "Veterans Memorial",
+      "latitude": 41.38822992,
+      "longitude": -81.43804338,
+      "directions": "On SOM Center Road, Solon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300012",
+      "photo_urls": []
+    },
+    {
+      "id": "300014",
+      "title": "In Memoriam",
+      "latitude": 41.38826929,
+      "longitude": -81.43826805,
+      "directions": "On SOM Center Road, Solon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300014",
+      "photo_urls": []
+    },
+    {
+      "id": "300015",
+      "title": "Solon Veterans Honor Roll",
+      "latitude": 41.38815241,
+      "longitude": -81.43826199,
+      "directions": "On SOM Center Road, Solon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300015",
+      "photo_urls": []
+    },
+    {
+      "id": "300019",
+      "title": "Claridon Veterans Memorial",
+      "latitude": 41.53313974,
+      "longitude": -81.14220159,
+      "directions": "Near Mayfield Road (U.S. 322) , Claridon Center, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300019",
       "photo_urls": []
     },
     {
@@ -93401,12 +95957,66 @@
       "photo_urls": []
     },
     {
+      "id": "300021",
+      "title": "Heroes Buried In Unknown Graves",
+      "latitude": 41.60288699,
+      "longitude": -81.14491663,
+      "directions": "On North State Road (State Route 608) , Hambden, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300021",
+      "photo_urls": []
+    },
+    {
+      "id": "300025",
+      "title": "East Claridon Cemetery Veterans Memorial",
+      "latitude": 41.52915098,
+      "longitude": -81.11405181,
+      "directions": "On North State Street (State Route 608) , East Claridon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300025",
+      "photo_urls": []
+    },
+    {
+      "id": "300040",
+      "title": "Astronaut Robert Franklyn Overmyer",
+      "latitude": 41.46612068,
+      "longitude": -81.88450863,
+      "directions": "On Roman Lane, Westlake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300040",
+      "photo_urls": []
+    },
+    {
+      "id": "300047",
+      "title": "This Stone",
+      "latitude": 41.73599753,
+      "longitude": -81.22802781,
+      "directions": "On Old Casement Avenue, Painesville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300047",
+      "photo_urls": []
+    },
+    {
       "id": "30007",
       "title": "Transportation, Growth, and Development",
       "latitude": 39.965551,
       "longitude": -83.010206,
       "directions": "On Long Street (U.S. 33) , Columbus, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30007",
+      "photo_urls": []
+    },
+    {
+      "id": "300100",
+      "title": "Green Camp",
+      "latitude": 40.53231667,
+      "longitude": -83.21046667,
+      "directions": "On Marion-Green Camp Road (State Route 739) , Green Camp, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300100",
+      "photo_urls": []
+    },
+    {
+      "id": "300128",
+      "title": "Fairport Harbor Veterans Memorial",
+      "latitude": 41.75628408,
+      "longitude": -81.27484474,
+      "directions": "On 3rd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300128",
       "photo_urls": []
     },
     {
@@ -93434,6 +96044,15 @@
       "longitude": -83.009927,
       "directions": "On Neil Avenue, Columbus, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30026",
+      "photo_urls": []
+    },
+    {
+      "id": "300271",
+      "title": "Kirtland Temple",
+      "latitude": 41.62520415,
+      "longitude": -81.36193967,
+      "directions": "On Chillicothe Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300271",
       "photo_urls": []
     },
     {
@@ -105669,7 +108288,7 @@
     },
     {
       "id": "93047",
-      "title": "Site Of Lima's First Cemetery",
+      "title": "Site of Lima's First Cemetery and burial place of Pvt. Elijah Stites 1758-1843",
       "latitude": 40.74213889,
       "longitude": -84.10215,
       "directions": "On Central Avenue, Lima, (On the right when traveling north)",
