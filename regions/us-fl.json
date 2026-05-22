@@ -3,9 +3,9 @@
   "region_name": "Florida",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-24T06:03:32.465Z",
-  "source_timestamp": "2026-04-24T06:03:32.465Z",
-  "marker_count": 7712,
+  "generated": "2026-05-22T06:04:31.408Z",
+  "source_timestamp": "2026-05-22T06:04:31.408Z",
+  "marker_count": 7801,
   "markers": [
     {
       "id": "100029",
@@ -48117,7 +48117,7 @@
       "title": "Commander Clyde E. Lassen, United States Navy",
       "latitude": 26.96244,
       "longitude": -82.36618,
-      "directions": "On West Dearborn Street, Edgewood, (On the right when traveling west)",
+      "directions": "On West Dearborn Street, Englewood, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=261176",
       "photo_urls": []
     },
@@ -54989,6 +54989,15 @@
       "photo_urls": []
     },
     {
+      "id": "296414",
+      "title": "Viet Nam War",
+      "latitude": 27.50010649,
+      "longitude": -82.56195277,
+      "directions": "On Riverfront Boulevard, Bradenton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=296414",
+      "photo_urls": []
+    },
+    {
       "id": "296452",
       "title": "Korean War Defenders",
       "latitude": 27.50010649,
@@ -55268,6 +55277,15 @@
       "photo_urls": []
     },
     {
+      "id": "297632",
+      "title": "The Challenger Memorial",
+      "latitude": 25.77306459,
+      "longitude": -80.18666918,
+      "directions": "On Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297632",
+      "photo_urls": []
+    },
+    {
       "id": "297635",
       "title": "Miami Centennial Time Capsule",
       "latitude": 25.7733482,
@@ -55286,12 +55304,30 @@
       "photo_urls": []
     },
     {
+      "id": "297648",
+      "title": "Anton J. Cermak",
+      "latitude": 25.77391788,
+      "longitude": -80.18615791,
+      "directions": "Near Biscayne Boulevard, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297648",
+      "photo_urls": []
+    },
+    {
       "id": "297653",
       "title": "Plaza Libertador Simón Bolívar",
       "latitude": 25.77738946,
       "longitude": -80.18763066,
       "directions": "On Biscayne Boulevard, Miami, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297653",
+      "photo_urls": []
+    },
+    {
+      "id": "297657",
+      "title": "Capitán Arturo Prat Chacón",
+      "latitude": 25.7774923,
+      "longitude": -80.187724,
+      "directions": "Near Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297657",
       "photo_urls": []
     },
     {
@@ -55313,12 +55349,57 @@
       "photo_urls": []
     },
     {
+      "id": "297662",
+      "title": "Juan Ponce de León",
+      "latitude": 25.7778053,
+      "longitude": -80.1877666,
+      "directions": "On Biscayne Boulevard, Miami, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297662",
+      "photo_urls": []
+    },
+    {
+      "id": "297697",
+      "title": "Biscayne Boulevard – New World Design",
+      "latitude": 25.77790307,
+      "longitude": -80.1878498,
+      "directions": "Near Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297697",
+      "photo_urls": []
+    },
+    {
       "id": "297702",
       "title": "William Leroy MacGowan",
       "latitude": 30.16466037,
       "longitude": -85.68737244,
       "directions": "On West Beach Drive (U.S. Business 98) , Panama City, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297702",
+      "photo_urls": []
+    },
+    {
+      "id": "297704",
+      "title": "Dante B. Fascell",
+      "latitude": 25.77995753,
+      "longitude": -80.18852484,
+      "directions": "Near Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297704",
+      "photo_urls": []
+    },
+    {
+      "id": "297706",
+      "title": "Tribute to International Trade Pioneers",
+      "latitude": 25.77984537,
+      "longitude": -80.1885766,
+      "directions": "Near Biscayne Boulevard, Miami, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297706",
+      "photo_urls": []
+    },
+    {
+      "id": "297714",
+      "title": "Gold Star Memorial",
+      "latitude": 26.8845158,
+      "longitude": -80.0565887,
+      "directions": "On Erikson Way, Juno Beach, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297714",
       "photo_urls": []
     },
     {
@@ -55355,6 +55436,24 @@
       "longitude": -80.0771884,
       "directions": "On North Highway A1A, Jupiter, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297768",
+      "photo_urls": []
+    },
+    {
+      "id": "297769",
+      "title": "Welcome to Wakodahatchee Wetland",
+      "latitude": 26.478208,
+      "longitude": -80.1448103,
+      "directions": "Near South Jog Road, Delray Beach, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297769",
+      "photo_urls": []
+    },
+    {
+      "id": "297777",
+      "title": "The History of the Russell Cottage",
+      "latitude": 24.91080464,
+      "longitude": -80.64528741,
+      "directions": "Near Overseas Highway (U.S. 1) , Islamorada, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297777",
       "photo_urls": []
     },
     {
@@ -55445,6 +55544,708 @@
       "longitude": -85.65259816,
       "directions": "On West 4th Street, Lynn Haven, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298062",
+      "photo_urls": []
+    },
+    {
+      "id": "298170",
+      "title": "African Cemetery at Higgs Beach",
+      "latitude": 24.547424,
+      "longitude": -81.78549,
+      "directions": "On Atlantic Boulevard, Key West, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298170",
+      "photo_urls": []
+    },
+    {
+      "id": "298184",
+      "title": "Living in Eastside",
+      "latitude": 30.43013114,
+      "longitude": -87.21344322,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298184",
+      "photo_urls": []
+    },
+    {
+      "id": "298186",
+      "title": "“Thou Shalt Not Quit”",
+      "latitude": 30.4301421,
+      "longitude": -87.21335344,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298186",
+      "photo_urls": []
+    },
+    {
+      "id": "298192",
+      "title": "Growing Up",
+      "latitude": 30.43015815,
+      "longitude": -87.2132495,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298192",
+      "photo_urls": []
+    },
+    {
+      "id": "298193",
+      "title": "Early Military Career",
+      "latitude": 30.43018322,
+      "longitude": -87.21335568,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298193",
+      "photo_urls": []
+    },
+    {
+      "id": "298194",
+      "title": "Reach for the Stars",
+      "latitude": 30.43019322,
+      "longitude": -87.21327719,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298194",
+      "photo_urls": []
+    },
+    {
+      "id": "298195",
+      "title": "History in Place",
+      "latitude": 30.43016554,
+      "longitude": -87.21344718,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298195",
+      "photo_urls": []
+    },
+    {
+      "id": "298196",
+      "title": "General Daniel James, Jr.",
+      "latitude": 30.430194,
+      "longitude": -87.21318745,
+      "directions": "On Doctor Martin Luther King Junior Drive (State Route 291) , Pensacola, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298196",
+      "photo_urls": []
+    },
+    {
+      "id": "298197",
+      "title": "Dedicated to Julian Ole Olsen, Sr.",
+      "latitude": 30.43288164,
+      "longitude": -87.19229,
+      "directions": "On North 20th Avenue, Pensacola, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298197",
+      "photo_urls": []
+    },
+    {
+      "id": "298198",
+      "title": "General Francisco De Miranda",
+      "latitude": 30.42362578,
+      "longitude": -87.21823828,
+      "directions": "On North Palafox Street, Pensacola, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298198",
+      "photo_urls": []
+    },
+    {
+      "id": "298199",
+      "title": "A.M.E. Zion Cemetery",
+      "latitude": 30.42385251,
+      "longitude": -87.22544049,
+      "directions": "On North A Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298199",
+      "photo_urls": []
+    },
+    {
+      "id": "298200",
+      "title": "Welcome to St. John's Cemetery",
+      "latitude": 30.41632521,
+      "longitude": -87.23286504,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298200",
+      "photo_urls": []
+    },
+    {
+      "id": "298209",
+      "title": "Dr. Jeptha Vining Harris",
+      "latitude": 24.55978889,
+      "longitude": -81.80696111,
+      "directions": "Near Wall Street, Key West, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298209",
+      "photo_urls": []
+    },
+    {
+      "id": "298439",
+      "title": "Norwegian Wood Carvings",
+      "latitude": 28.37066944,
+      "longitude": -81.54711111,
+      "directions": "Near Avenue of the Stars, Lake Buena Vista, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298439",
+      "photo_urls": []
+    },
+    {
+      "id": "298460",
+      "title": "Pillsbury Boatshop",
+      "latitude": 27.468043,
+      "longitude": -82.680718,
+      "directions": "Near 119th Street W., Cortez, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298460",
+      "photo_urls": []
+    },
+    {
+      "id": "298465",
+      "title": "Magnolia Cemetery",
+      "latitude": 30.42401527,
+      "longitude": -87.2254198,
+      "directions": "On North A Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298465",
+      "photo_urls": []
+    },
+    {
+      "id": "298478",
+      "title": "Gatehouse Chapel",
+      "latitude": 30.4163626,
+      "longitude": -87.23283317,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298478",
+      "photo_urls": []
+    },
+    {
+      "id": "298487",
+      "title": "Historic North Side",
+      "latitude": 30.41640535,
+      "longitude": -87.23307042,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298487",
+      "photo_urls": []
+    },
+    {
+      "id": "298489",
+      "title": "Stave Churches",
+      "latitude": 28.37056667,
+      "longitude": -81.54701667,
+      "directions": "Near Epcot Center Drive, Lake Buena Vista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298489",
+      "photo_urls": []
+    },
+    {
+      "id": "298490",
+      "title": "First Interment",
+      "latitude": 30.41643,
+      "longitude": -87.233585,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298490",
+      "photo_urls": []
+    },
+    {
+      "id": "298491",
+      "title": "Inventor of FSU Tomahawk Chop",
+      "latitude": 30.41647315,
+      "longitude": -87.23374397,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298491",
+      "photo_urls": []
+    },
+    {
+      "id": "298492",
+      "title": "Edward A. Perry",
+      "latitude": 30.4171806,
+      "longitude": -87.23371129,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298492",
+      "photo_urls": []
+    },
+    {
+      "id": "298493",
+      "title": "Crypts",
+      "latitude": 30.41718345,
+      "longitude": -87.23332835,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298493",
+      "photo_urls": []
+    },
+    {
+      "id": "298494",
+      "title": "William F. Miller",
+      "latitude": 30.41698109,
+      "longitude": -87.23328745,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298494",
+      "photo_urls": []
+    },
+    {
+      "id": "298495",
+      "title": "Helen Fisher",
+      "latitude": 30.41724429,
+      "longitude": -87.23419297,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298495",
+      "photo_urls": []
+    },
+    {
+      "id": "298496",
+      "title": "Monument Sculpting",
+      "latitude": 30.41593073,
+      "longitude": -87.23440216,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298496",
+      "photo_urls": []
+    },
+    {
+      "id": "298497",
+      "title": "Samuel G. French",
+      "latitude": 30.41723175,
+      "longitude": -87.23434479,
+      "directions": "On North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298497",
+      "photo_urls": []
+    },
+    {
+      "id": "298498",
+      "title": "Burials",
+      "latitude": 30.41681221,
+      "longitude": -87.23553145,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298498",
+      "photo_urls": []
+    },
+    {
+      "id": "298499",
+      "title": "Mary Lewis Willis",
+      "latitude": 30.417051,
+      "longitude": -87.2340911,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298499",
+      "photo_urls": []
+    },
+    {
+      "id": "298500",
+      "title": "Mary W. Willis",
+      "latitude": 30.41704392,
+      "longitude": -87.2340911,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298500",
+      "photo_urls": []
+    },
+    {
+      "id": "298719",
+      "title": "Pillsbury Boatshop/Pillsbury Tienda de Barcos",
+      "latitude": 27.468019,
+      "longitude": -82.680659,
+      "directions": "Near 119th Street W., Cortez, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298719",
+      "photo_urls": []
+    },
+    {
+      "id": "298751",
+      "title": "Historic Greek Section",
+      "latitude": 30.41629121,
+      "longitude": -87.23629212,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298751",
+      "photo_urls": []
+    },
+    {
+      "id": "298768",
+      "title": "Mollie McCoy",
+      "latitude": 30.41610521,
+      "longitude": -87.23420116,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298768",
+      "photo_urls": []
+    },
+    {
+      "id": "298783",
+      "title": "Historic Colored Section",
+      "latitude": 30.41636189,
+      "longitude": -87.23490219,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298783",
+      "photo_urls": []
+    },
+    {
+      "id": "298888",
+      "title": "Morris Slater",
+      "latitude": 30.41630591,
+      "longitude": -87.23553287,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298888",
+      "photo_urls": []
+    },
+    {
+      "id": "298889",
+      "title": "Zinc Marker",
+      "latitude": 30.41577722,
+      "longitude": -87.23351774,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298889",
+      "photo_urls": []
+    },
+    {
+      "id": "298890",
+      "title": "Baby Section",
+      "latitude": 30.41569341,
+      "longitude": -87.23274381,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298890",
+      "photo_urls": []
+    },
+    {
+      "id": "298891",
+      "title": "More to Discover... A Secret Language",
+      "latitude": 30.41631714,
+      "longitude": -87.23286519,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298891",
+      "photo_urls": []
+    },
+    {
+      "id": "298892",
+      "title": "Maya's Wings of Wisdom",
+      "latitude": 30.42463009,
+      "longitude": -87.23479878,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298892",
+      "photo_urls": []
+    },
+    {
+      "id": "298893",
+      "title": "Stevie's Trail of Wonder",
+      "latitude": 30.42460776,
+      "longitude": -87.23507505,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298893",
+      "photo_urls": []
+    },
+    {
+      "id": "298894",
+      "title": "The HeLa Legacy Garden",
+      "latitude": 30.42467893,
+      "longitude": -87.23517195,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298894",
+      "photo_urls": []
+    },
+    {
+      "id": "298895",
+      "title": "The Tabei Summit Wall",
+      "latitude": 30.42479636,
+      "longitude": -87.23522484,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298895",
+      "photo_urls": []
+    },
+    {
+      "id": "298896",
+      "title": "Simone's Balance Heaven",
+      "latitude": 30.42488106,
+      "longitude": -87.23520556,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298896",
+      "photo_urls": []
+    },
+    {
+      "id": "298897",
+      "title": "Satchmo's Sound Wall",
+      "latitude": 30.425,
+      "longitude": -87.235055,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298897",
+      "photo_urls": []
+    },
+    {
+      "id": "298898",
+      "title": "Emmitt Smith Playing Field",
+      "latitude": 30.42508,
+      "longitude": -87.234915,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298898",
+      "photo_urls": []
+    },
+    {
+      "id": "298899",
+      "title": "Former Goldfish Pond",
+      "latitude": 30.41652569,
+      "longitude": -87.23700575,
+      "directions": "Near North G Street, Pensacola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298899",
+      "photo_urls": []
+    },
+    {
+      "id": "298965",
+      "title": "Dolores Huerta Harmony Stream",
+      "latitude": 30.42497994,
+      "longitude": -87.23473833,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298965",
+      "photo_urls": []
+    },
+    {
+      "id": "298978",
+      "title": "Jackie Robinson Unity Court",
+      "latitude": 30.42479486,
+      "longitude": -87.23439916,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298978",
+      "photo_urls": []
+    },
+    {
+      "id": "298985",
+      "title": "Basquiat's Artful Journey",
+      "latitude": 30.42474167,
+      "longitude": -87.23464828,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298985",
+      "photo_urls": []
+    },
+    {
+      "id": "298987",
+      "title": "A. A. Dixon Discovery Pavilion",
+      "latitude": 30.42477664,
+      "longitude": -87.23496667,
+      "directions": "Near West Brainerd Street, Pensacola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298987",
+      "photo_urls": []
+    },
+    {
+      "id": "298992",
+      "title": "Confederate Veterans Monument",
+      "latitude": 29.61237883,
+      "longitude": -82.81772199,
+      "directions": "On Southeast 1st Avenue, Trenton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298992",
+      "photo_urls": []
+    },
+    {
+      "id": "298997",
+      "title": "Scott House",
+      "latitude": 29.18537114,
+      "longitude": -82.12911465,
+      "directions": "On East Fort King Street, Ocala, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298997",
+      "photo_urls": []
+    },
+    {
+      "id": "298998",
+      "title": "Dr. Joseph P. Hendrix Memorial Park",
+      "latitude": 29.81361492,
+      "longitude": -85.30244423,
+      "directions": "On Williams Avenue, Port St. Joe, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298998",
+      "photo_urls": []
+    },
+    {
+      "id": "298999",
+      "title": "Commemorating the Organization of the Second Girl Scout Troop in America",
+      "latitude": 30.33167494,
+      "longitude": -82.76809997,
+      "directions": "Near Lillian Saunders Drive, White Springs, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298999",
+      "photo_urls": []
+    },
+    {
+      "id": "299178",
+      "title": "Capt. Dale M. Leslie U.S.M.C.",
+      "latitude": 30.46901663,
+      "longitude": -83.41268295,
+      "directions": "On Southwest Range Avenue, Madison, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299178",
+      "photo_urls": []
+    },
+    {
+      "id": "299189",
+      "title": "Seminole Family",
+      "latitude": 30.43890887,
+      "longitude": -84.30355468,
+      "directions": "Near Champions Way, Tallahassee, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299189",
+      "photo_urls": []
+    },
+    {
+      "id": "299191",
+      "title": "A Place Called “<i>Eiland's Hammock</i>”",
+      "latitude": 27.47153778,
+      "longitude": -81.54162734,
+      "directions": "On Park Loop Drive, Sebring, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299191",
+      "photo_urls": []
+    },
+    {
+      "id": "299192",
+      "title": "The Story of Highlands Hammock...",
+      "latitude": 27.47155748,
+      "longitude": -81.54165996,
+      "directions": "On Park Loop Drive, Sebring, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299192",
+      "photo_urls": []
+    },
+    {
+      "id": "299194",
+      "title": "Highlands Hammock",
+      "latitude": 27.47057328,
+      "longitude": -81.55073333,
+      "directions": "On Park Loop Drive, Sebring, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299194",
+      "photo_urls": []
+    },
+    {
+      "id": "299195",
+      "title": "Welcome to the Carrabelle Riverwalk and Wharf",
+      "latitude": 29.84723082,
+      "longitude": -84.66404265,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299195",
+      "photo_urls": []
+    },
+    {
+      "id": "299196",
+      "title": "The Land and Sea Provide",
+      "latitude": 29.84723082,
+      "longitude": -84.66402192,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299196",
+      "photo_urls": []
+    },
+    {
+      "id": "299197",
+      "title": "A Bustling Seaport",
+      "latitude": 29.84723082,
+      "longitude": -84.664002,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299197",
+      "photo_urls": []
+    },
+    {
+      "id": "299198",
+      "title": "From Sails to Rails",
+      "latitude": 29.847292,
+      "longitude": -84.664002,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299198",
+      "photo_urls": []
+    },
+    {
+      "id": "299199",
+      "title": "From Boom to Bust... and Back Again!",
+      "latitude": 29.847292,
+      "longitude": -84.66402192,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299199",
+      "photo_urls": []
+    },
+    {
+      "id": "299299",
+      "title": "The Planters Exchange",
+      "latitude": 30.62494151,
+      "longitude": -84.41639239,
+      "directions": "On 2nd Street Northwest, Havana, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299299",
+      "photo_urls": []
+    },
+    {
+      "id": "299300",
+      "title": "St. Marks Lighthouse",
+      "latitude": 30.07392051,
+      "longitude": -84.17966213,
+      "directions": "On Lighthouse Road (County Route 59) , St. Marks, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299300",
+      "photo_urls": []
+    },
+    {
+      "id": "299386",
+      "title": "A Coastal Gem",
+      "latitude": 29.847292,
+      "longitude": -84.66404265,
+      "directions": "On Marine Street, Carrabelle, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299386",
+      "photo_urls": []
+    },
+    {
+      "id": "299391",
+      "title": "Saw Palmetto",
+      "latitude": 29.63443357,
+      "longitude": -81.64325163,
+      "directions": "Near Twigg Street, Palatka, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299391",
+      "photo_urls": []
+    },
+    {
+      "id": "299395",
+      "title": "The Blacksmith Demonstration",
+      "latitude": 29.90640767,
+      "longitude": -81.31455083,
+      "directions": "Near Williams Street, St. Augustine, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299395",
+      "photo_urls": []
+    },
+    {
+      "id": "299396",
+      "title": "Purple Heart",
+      "latitude": 30.62699211,
+      "longitude": -84.41162963,
+      "directions": "On 5th Avenue East (County Route 12) , Havana, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299396",
+      "photo_urls": []
+    },
+    {
+      "id": "299398",
+      "title": "The History of Blue Spring",
+      "latitude": 28.94455833,
+      "longitude": -81.33924,
+      "directions": "Near Magnolia Avenue (via Becker Boulevard), Orange City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299398",
+      "photo_urls": []
+    },
+    {
+      "id": "299399",
+      "title": "The Price of Freedom Veterans Memorial",
+      "latitude": 30.62701695,
+      "longitude": -84.41166063,
+      "directions": "On 5th Avenue East (County Route 12) , Havana, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299399",
+      "photo_urls": []
+    },
+    {
+      "id": "299496",
+      "title": "POW&#9733;MIA",
+      "latitude": 30.62703449,
+      "longitude": -84.41169096,
+      "directions": "On 5th Avenue East (County Route 12) , Havana, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299496",
+      "photo_urls": []
+    },
+    {
+      "id": "299540",
+      "title": "West Branch Library",
+      "latitude": 27.95705278,
+      "longitude": -82.47183889,
+      "directions": "On West Main Street, Tampa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299540",
+      "photo_urls": []
+    },
+    {
+      "id": "299541",
+      "title": "Belmont Heights",
+      "latitude": 27.98036944,
+      "longitude": -82.43681389,
+      "directions": "On North 21st Street, Tampa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299541",
+      "photo_urls": []
+    },
+    {
+      "id": "299550",
+      "title": "Martí~Colón Cemetery",
+      "latitude": 27.96662778,
+      "longitude": -82.493775,
+      "directions": "On West Columbus Drive, Tampa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299550",
+      "photo_urls": []
+    },
+    {
+      "id": "299551",
+      "title": "St. Joseph Aid Cemetery-Montana City Cemetery",
+      "latitude": 27.98408889,
+      "longitude": -82.42237778,
+      "directions": "On North 34th Street, Tampa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299551",
+      "photo_urls": []
+    },
+    {
+      "id": "299689",
+      "title": "Havana High School Site",
+      "latitude": 30.62651462,
+      "longitude": -84.41059781,
+      "directions": "On 6th Avenue East, Havana, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299689",
       "photo_urls": []
     },
     {
@@ -63775,9 +64576,9 @@
     {
       "id": "73952",
       "title": "1914 United Confederate Veterans Reunion",
-      "latitude": 30.334573,
-      "longitude": -81.655145,
-      "directions": "On Main Street N (State Route 5) (U.S. 1) , Jacksonville, (On the right when traveling north)",
+      "latitude": 30.40305,
+      "longitude": -81.7546,
+      "directions": "On Old Kings Road, Jacksonville, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73952",
       "photo_urls": []
     },
