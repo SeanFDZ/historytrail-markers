@@ -3,9 +3,9 @@
   "region_name": "Virginia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-24T06:03:32.783Z",
-  "source_timestamp": "2026-04-24T06:03:32.783Z",
-  "marker_count": 14944,
+  "generated": "2026-05-22T06:04:31.744Z",
+  "source_timestamp": "2026-05-22T06:04:31.744Z",
+  "marker_count": 15251,
   "markers": [
     {
       "id": "100002",
@@ -1713,7 +1713,7 @@
       "title": "Dr. William Fleming",
       "latitude": 37.30632672,
       "longitude": -79.92710236,
-      "directions": "On Hollins Road NE, Roanoke, (On the right when traveling south)",
+      "directions": "On Hollins Road Northeast, Roanoke, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=103850",
       "photo_urls": []
     },
@@ -2205,7 +2205,7 @@
     },
     {
       "id": "104452",
-      "title": "Smith Mountain Project",
+      "title": "Smith Mountain Project: Pittsylvania County",
       "latitude": 37.03518,
       "longitude": -79.52748,
       "directions": "On Ford Road (County Route 908) , near Sandy Level, (On the right when traveling west)",
@@ -9030,7 +9030,7 @@
       "title": "The Alexandria Marine Railway",
       "latitude": 38.79690556,
       "longitude": -77.04018333,
-      "directions": "On Wharf Street, Alexandria, (On the right when traveling west)",
+      "directions": "Near Wharf Street, Alexandria, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=127769",
       "photo_urls": []
     },
@@ -9039,7 +9039,7 @@
       "title": "The Federal District and Alexandria",
       "latitude": 38.79691667,
       "longitude": -77.04023056,
-      "directions": "On Wharf Street, Alexandria, (On the right when traveling west)",
+      "directions": "Near Wharf Street, Alexandria, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=127771",
       "photo_urls": []
     },
@@ -15960,7 +15960,7 @@
       "title": "A Colonial Ford",
       "latitude": 37.254652,
       "longitude": -79.950098,
-      "directions": "On Franklin Road SW (State Route 220) , Roanoke, (On the right when traveling north)",
+      "directions": "On Franklin Road Southwest (State Route 220) , Roanoke, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14799",
       "photo_urls": []
     },
@@ -16291,9 +16291,9 @@
     {
       "id": "14820",
       "title": "George Morgan Jones",
-      "latitude": 37.327948,
-      "longitude": -80.040325,
-      "directions": "On Dutch Oven Road, Hanging Rock, (On the right when traveling west)",
+      "latitude": 37.32787895,
+      "longitude": -80.04014097,
+      "directions": "On Dutch Oven Road, Hanging Rock, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14820",
       "photo_urls": []
     },
@@ -19413,7 +19413,7 @@
     },
     {
       "id": "151901",
-      "title": "Floyd County Civil War Memorial",
+      "title": "Floyd County Confederate Memorial",
       "latitude": 36.91142702,
       "longitude": -80.31998141,
       "directions": "On East Main Street (U.S. 221) , Floyd, (On the left when traveling east)",
@@ -21358,8 +21358,8 @@
     {
       "id": "155474",
       "title": "Staunton",
-      "latitude": 38.14739,
-      "longitude": -79.07278,
+      "latitude": 38.14739056,
+      "longitude": -79.07278383,
       "directions": "On Middlebrook Avenue (State Route 252) , Staunton, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155474",
       "photo_urls": []
@@ -26352,7 +26352,7 @@
     },
     {
       "id": "162874",
-      "title": "Revolutionary War Soldiers of Giles County",
+      "title": "Revolutionary War Soldiers",
       "latitude": 37.326704,
       "longitude": -80.73458,
       "directions": "On Wenonah Avenue (U.S. Business 460) , Pearisburg, (On the left when traveling east)",
@@ -36388,9 +36388,9 @@
     {
       "id": "171922",
       "title": "POW-MIA Memorial",
-      "latitude": 36.6439899,
-      "longitude": -79.38232539,
-      "directions": "On North Main Street (U.S. Business 15) , near Danville, (On the left when traveling north)",
+      "latitude": 36.61965,
+      "longitude": -79.37916667,
+      "directions": "On American Legion Boulevard, Danville, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=171922",
       "photo_urls": []
     },
@@ -40998,7 +40998,7 @@
       "title": "Mount Moriah Baptist Church",
       "latitude": 37.303785,
       "longitude": -79.891623,
-      "directions": "On Orange Avenue (U.S. 460) , Roanoke, ",
+      "directions": "On Orange Avenue Northeast (U.S. 460) , Roanoke, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=17891",
       "photo_urls": []
     },
@@ -44451,7 +44451,7 @@
     },
     {
       "id": "182178",
-      "title": "Sharpsburg / Antietam Campaign",
+      "title": "Sharpsburg/Antietam Campaign",
       "latitude": 38.99854167,
       "longitude": -77.34283333,
       "directions": "On Reston Avenue, near Dranesville, (On the right when traveling north)",
@@ -56233,8 +56233,8 @@
     {
       "id": "207703",
       "title": "Caroline County Courthouse",
-      "latitude": 38.05063648,
-      "longitude": -77.34711356,
+      "latitude": 38.05067,
+      "longitude": -77.34711,
       "directions": "On North Main Street (State Route 2) , Bowling Green, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207703",
       "photo_urls": []
@@ -56242,7 +56242,7 @@
     {
       "id": "207706",
       "title": "Star Hotel",
-      "latitude": 38.05066,
+      "latitude": 38.05067,
       "longitude": -77.34713,
       "directions": "On North Main Street (State Route 2) , Bowling Green, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=207706",
@@ -62013,7 +62013,7 @@
       "title": "Root Cellar",
       "latitude": 38.295284,
       "longitude": -77.449562,
-      "directions": "Near Kings Hwy (U.S. 3) , Fredericksburg, ",
+      "directions": "Near Kings Hwy (U.S. 3) , near Fredericksburg, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=221456",
       "photo_urls": []
     },
@@ -63351,7 +63351,7 @@
     },
     {
       "id": "22709",
-      "title": "Rice’s Hotel / Hughlett’s Tavern",
+      "title": "Rice’s Hotel",
       "latitude": 37.91771,
       "longitude": -76.47248,
       "directions": "On Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
@@ -65763,7 +65763,7 @@
     },
     {
       "id": "233525",
-      "title": "Brig. Gen. Joseph Martin 1740-1805",
+      "title": "Brig. Gen. Joseph Martin",
       "latitude": 36.632603,
       "longitude": -83.526601,
       "directions": "Near Wilderness Road (U.S. 58) , near Ewing, ",
@@ -72075,7 +72075,7 @@
       "title": "Holton Plaza",
       "latitude": 37.26967592,
       "longitude": -79.93925955,
-      "directions": "On Franklin Road (Interstate 221) , Roanoke, (On the right when traveling west)",
+      "directions": "On Franklin Road Southeast (Interstate 221) , Roanoke, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244773",
       "photo_urls": []
     },
@@ -78085,8 +78085,8 @@
     {
       "id": "25847",
       "title": "King William County Courthouse",
-      "latitude": 37.687168,
-      "longitude": -77.01344,
+      "latitude": 37.6872,
+      "longitude": -77.01338,
       "directions": "On Courthouse Road (State Route 1301) , King William, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25847",
       "photo_urls": []
@@ -83658,7 +83658,7 @@
       "title": "Organization of the Christian Church",
       "latitude": 37.124647,
       "longitude": -76.845484,
-      "directions": "On Colonial Trail West (State Route 10) , near Surry, (On the left when traveling north)",
+      "directions": "On Colonial Trail West (State Route 10) , near Spring Grove, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2697",
       "photo_urls": []
     },
@@ -100116,7 +100116,7 @@
     },
     {
       "id": "297177",
-      "title": "Eyewitness to Battle",
+      "title": "Eyewitness To Battle",
       "latitude": 38.29903,
       "longitude": -77.4555,
       "directions": "On Sophia Street, Fredericksburg, (On the right when traveling south)",
@@ -100367,12 +100367,66 @@
       "photo_urls": []
     },
     {
+      "id": "297333",
+      "title": "To the Memory of the Confederate Dead",
+      "latitude": 37.2343854,
+      "longitude": -80.4083673,
+      "directions": "Near Jackson Street Northeast, Blacksburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297333",
+      "photo_urls": []
+    },
+    {
+      "id": "297346",
+      "title": "Lieutenant William H. Cocke",
+      "latitude": 36.83814055,
+      "longitude": -76.30761809,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297346",
+      "photo_urls": []
+    },
+    {
+      "id": "297348",
+      "title": "Ellsberry V. White",
+      "latitude": 36.83847496,
+      "longitude": -76.30762659,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297348",
+      "photo_urls": []
+    },
+    {
+      "id": "297350",
+      "title": "Captain Hugh Nelson Page",
+      "latitude": 36.8379746,
+      "longitude": -76.30778758,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297350",
+      "photo_urls": []
+    },
+    {
+      "id": "297352",
+      "title": "Captain William H. Murdaugh",
+      "latitude": 36.83925933,
+      "longitude": -76.30772931,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297352",
+      "photo_urls": []
+    },
+    {
       "id": "297355",
       "title": "Fannie Murdaugh Downing",
       "latitude": 36.83925698,
       "longitude": -76.30772202,
       "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297355",
+      "photo_urls": []
+    },
+    {
+      "id": "297357",
+      "title": "Arthur Emmerson",
+      "latitude": 36.83798327,
+      "longitude": -76.30785324,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297357",
       "photo_urls": []
     },
     {
@@ -100394,12 +100448,93 @@
       "photo_urls": []
     },
     {
+      "id": "297360",
+      "title": "Brigadier General William Frederick Niemeyer",
+      "latitude": 36.83961765,
+      "longitude": -76.30731854,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297360",
+      "photo_urls": []
+    },
+    {
+      "id": "297361",
+      "title": "The Portsmouth Cedar Grove Cemetery",
+      "latitude": 36.83972314,
+      "longitude": -76.30801504,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297361",
+      "photo_urls": []
+    },
+    {
+      "id": "297364",
+      "title": "Funerary Art",
+      "latitude": 36.83882943,
+      "longitude": -76.30771215,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297364",
+      "photo_urls": []
+    },
+    {
+      "id": "297368",
+      "title": "James F. Crocker",
+      "latitude": 36.83874668,
+      "longitude": -76.30807133,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297368",
+      "photo_urls": []
+    },
+    {
+      "id": "297371",
+      "title": "Captain John Julius Guthrie",
+      "latitude": 36.83820817,
+      "longitude": -76.30761979,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297371",
+      "photo_urls": []
+    },
+    {
       "id": "297373",
       "title": "Colonel William White, IV",
       "latitude": 36.83976924,
       "longitude": -76.30747288,
       "directions": "Near Effingham Street, Portsmouth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297373",
+      "photo_urls": []
+    },
+    {
+      "id": "297376",
+      "title": "Captain William Tee",
+      "latitude": 36.83819004,
+      "longitude": -76.30731188,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297376",
+      "photo_urls": []
+    },
+    {
+      "id": "297377",
+      "title": "Thomas Williamson, M.D.",
+      "latitude": 36.83797378,
+      "longitude": -76.30811795,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297377",
+      "photo_urls": []
+    },
+    {
+      "id": "297421",
+      "title": "Charles R. McAlpine, M.D.",
+      "latitude": 36.83892267,
+      "longitude": -76.30771229,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297421",
+      "photo_urls": []
+    },
+    {
+      "id": "297424",
+      "title": "Roll of Honor",
+      "latitude": 36.83893345,
+      "longitude": -76.30771243,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297424",
       "photo_urls": []
     },
     {
@@ -100430,12 +100565,84 @@
       "photo_urls": []
     },
     {
+      "id": "297580",
+      "title": "Chaplain Vernon Eskridge",
+      "latitude": 36.83875151,
+      "longitude": -76.30763889,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297580",
+      "photo_urls": []
+    },
+    {
+      "id": "297586",
+      "title": "John K. Cooke",
+      "latitude": 36.83915885,
+      "longitude": -76.30736055,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297586",
+      "photo_urls": []
+    },
+    {
+      "id": "297587",
+      "title": "Mordecai Cooke",
+      "latitude": 36.83914687,
+      "longitude": -76.30736198,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297587",
+      "photo_urls": []
+    },
+    {
+      "id": "297588",
+      "title": "Commodore James Wallace Cooke",
+      "latitude": 36.8384373,
+      "longitude": -76.30778616,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297588",
+      "photo_urls": []
+    },
+    {
+      "id": "297589",
+      "title": "Colonel James Gregory Hodges",
+      "latitude": 36.83831923,
+      "longitude": -76.30805085,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297589",
+      "photo_urls": []
+    },
+    {
       "id": "2976",
       "title": "Glebe Landing Church",
       "latitude": 37.743346,
       "longitude": -76.72065,
       "directions": "On George Washington Memorial Highway (U.S. 17) , Laneview, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2976",
+      "photo_urls": []
+    },
+    {
+      "id": "297602",
+      "title": "Co. G, 9th Va. Infantry Monument",
+      "latitude": 36.83850033,
+      "longitude": -76.3079996,
+      "directions": "Near Fort Lane, Portsmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297602",
+      "photo_urls": []
+    },
+    {
+      "id": "297605",
+      "title": "Portsmouth Confederate Memorial",
+      "latitude": 36.83928966,
+      "longitude": -76.30778467,
+      "directions": "Near Saxe Lane, Portsmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297605",
+      "photo_urls": []
+    },
+    {
+      "id": "297612",
+      "title": "U.S. Lightship No. 101 Portsmouth",
+      "latitude": 36.83695559,
+      "longitude": -76.29655372,
+      "directions": "On Water Street, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297612",
       "photo_urls": []
     },
     {
@@ -100485,7 +100692,7 @@
     },
     {
       "id": "297664",
-      "title": "Eyewitness to Battle",
+      "title": "Eyewitness To Battle",
       "latitude": 38.2965,
       "longitude": -77.45369,
       "directions": "On Sophia Street, Fredericksburg, (On the left when traveling south)",
@@ -100508,6 +100715,24 @@
       "longitude": -77.5426888,
       "directions": "Near General Kirkland Drive, Bristow, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297667",
+      "photo_urls": []
+    },
+    {
+      "id": "297677",
+      "title": "Ballard House, circa 1709",
+      "latitude": 37.23350851,
+      "longitude": -76.50767597,
+      "directions": "On Nelson Street, Yorktown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297677",
+      "photo_urls": []
+    },
+    {
+      "id": "297687",
+      "title": "Smith House, circa 1750",
+      "latitude": 37.23375515,
+      "longitude": -76.50746251,
+      "directions": "On Nelson Street, Yorktown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297687",
       "photo_urls": []
     },
     {
@@ -100538,6 +100763,15 @@
       "photo_urls": []
     },
     {
+      "id": "297695",
+      "title": "Eyewitness To Battle",
+      "latitude": 38.30078,
+      "longitude": -77.46367,
+      "directions": "On George Street, Fredericksburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297695",
+      "photo_urls": []
+    },
+    {
       "id": "297696",
       "title": "War Comes to Fairfield",
       "latitude": 38.14816667,
@@ -100553,6 +100787,33 @@
       "longitude": -77.5435,
       "directions": "Near Iron Brigade Unit Ave., Bristow, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297701",
+      "photo_urls": []
+    },
+    {
+      "id": "297740",
+      "title": "The Poor Potter of Yorktown",
+      "latitude": 37.23361504,
+      "longitude": -76.50839921,
+      "directions": "On Read Street, Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297740",
+      "photo_urls": []
+    },
+    {
+      "id": "297744",
+      "title": "The Poor Potter of Yorktown (Cont.)",
+      "latitude": 37.23361334,
+      "longitude": -76.50841124,
+      "directions": "On Read Street, Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297744",
+      "photo_urls": []
+    },
+    {
+      "id": "297747",
+      "title": "The Poor Potter of Yorktown",
+      "latitude": 37.23360426,
+      "longitude": -76.50841894,
+      "directions": "On Read Street, Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297747",
       "photo_urls": []
     },
     {
@@ -100574,6 +100835,24 @@
       "photo_urls": []
     },
     {
+      "id": "297756",
+      "title": "The Work Shop and Laborers",
+      "latitude": 37.23354501,
+      "longitude": -76.50851325,
+      "directions": "On Read Street, Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297756",
+      "photo_urls": []
+    },
+    {
+      "id": "297757",
+      "title": "Revealing the Past",
+      "latitude": 37.23354822,
+      "longitude": -76.50851023,
+      "directions": "On Read Street, Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297757",
+      "photo_urls": []
+    },
+    {
       "id": "297773",
       "title": "Ford's Mill at Wolf Run Shoals",
       "latitude": 38.72753977,
@@ -100589,6 +100868,24 @@
       "longitude": -77.28267,
       "directions": "Near Beulah Road (County Route 702) , near Vienna, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29790",
+      "photo_urls": []
+    },
+    {
+      "id": "297956",
+      "title": "These Page Family Tombs",
+      "latitude": 37.33377249,
+      "longitude": -76.51369785,
+      "directions": "Near South George Washington Memorial Highway (U.S. 17) , Gloucester Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297956",
+      "photo_urls": []
+    },
+    {
+      "id": "297965",
+      "title": "The Page Family",
+      "latitude": 37.33371436,
+      "longitude": -76.51366169,
+      "directions": "Near South George Washington Memorial Highway (U.S. 17) , Gloucester Point, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297965",
       "photo_urls": []
     },
     {
@@ -100619,6 +100916,15 @@
       "photo_urls": []
     },
     {
+      "id": "298075",
+      "title": "The Tavern At Cuckoo",
+      "latitude": 37.95379379,
+      "longitude": -77.90057543,
+      "directions": "On Jefferson Highway (U.S. 33) , near Mineral, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298075",
+      "photo_urls": []
+    },
+    {
       "id": "298078",
       "title": "The Marquis Road",
       "latitude": 38.071295,
@@ -100637,12 +100943,48 @@
       "photo_urls": []
     },
     {
+      "id": "298080",
+      "title": "Confederate Encampment",
+      "latitude": 38.23035283,
+      "longitude": -78.18024188,
+      "directions": "Near Constitution Highway (State Route 20) , near Montpelier Station, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298080",
+      "photo_urls": []
+    },
+    {
+      "id": "298081",
+      "title": "Post-Emancipation: A Promise Unfulfilled",
+      "latitude": 38.22664183,
+      "longitude": -78.18171059,
+      "directions": "On Constitution Highway (State Route 20) , Montpelier Station, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298081",
+      "photo_urls": []
+    },
+    {
       "id": "298082",
       "title": "Post-Emancipation",
       "latitude": 38.22709368,
       "longitude": -78.18184912,
       "directions": "Near Constitution Highway (State Route 20) , near Montpelier Station, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298082",
+      "photo_urls": []
+    },
+    {
+      "id": "298083",
+      "title": "Gilmore Farm: A Freedman's Home",
+      "latitude": 38.22664246,
+      "longitude": -78.18171389,
+      "directions": "On Constitution Highway (State Route 20) , Montpelier Station, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298083",
+      "photo_urls": []
+    },
+    {
+      "id": "298085",
+      "title": "Lafayette's Tour",
+      "latitude": 38.22863429,
+      "longitude": -78.17639585,
+      "directions": "On Constitution Highway (State Route 20) , Montpelier Station, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298085",
       "photo_urls": []
     },
     {
@@ -100772,12 +101114,1461 @@
       "photo_urls": []
     },
     {
+      "id": "298142",
+      "title": "Mount Pleasant",
+      "latitude": 38.21769338,
+      "longitude": -78.17374156,
+      "directions": "Near Constitution Highway (State Route 20) , Montpelier Station, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298142",
+      "photo_urls": []
+    },
+    {
+      "id": "298147",
+      "title": "Home Farm Complex",
+      "latitude": 38.21679351,
+      "longitude": -78.17320764,
+      "directions": "Near Constitution Highway (State Route 20) , Montpelier Station, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298147",
+      "photo_urls": []
+    },
+    {
+      "id": "298150",
+      "title": "Garden",
+      "latitude": 38.21804111,
+      "longitude": -78.16820155,
+      "directions": "Near Constitution Highway (State Route 20) , Montpelier Station, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298150",
+      "photo_urls": []
+    },
+    {
+      "id": "298169",
+      "title": "The Middle Passage",
+      "latitude": 38.29686667,
+      "longitude": -77.45393333,
+      "directions": "Near Sophia Street, Fredericksburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298169",
+      "photo_urls": []
+    },
+    {
+      "id": "298353",
+      "title": "Like to Eat?",
+      "latitude": 38.61653611,
+      "longitude": -78.70655,
+      "directions": "On Interstate 81, near Timberville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298353",
+      "photo_urls": []
+    },
+    {
+      "id": "298360",
+      "title": "Railroads, Warehouses, Hospitals",
+      "latitude": 38.14739121,
+      "longitude": -79.07277927,
+      "directions": "On Middlebrook Avenue, Staunton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298360",
+      "photo_urls": []
+    },
+    {
+      "id": "298371",
+      "title": "Jordan's Point",
+      "latitude": 37.79228908,
+      "longitude": -79.42943651,
+      "directions": "On Moses Mill Road, Lexington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298371",
+      "photo_urls": []
+    },
+    {
+      "id": "298374",
+      "title": "Lexington",
+      "latitude": 37.78422222,
+      "longitude": -79.44053611,
+      "directions": "On East Washington Street, Lexington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298374",
+      "photo_urls": []
+    },
+    {
+      "id": "298376",
+      "title": "Lexington and the Green Book",
+      "latitude": 37.784325,
+      "longitude": -79.44068056,
+      "directions": "On East Washington Street, Lexington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298376",
+      "photo_urls": []
+    },
+    {
+      "id": "298378",
+      "title": "The Subway: Joe Wood's Barbershop",
+      "latitude": 37.78554638,
+      "longitude": -79.44128092,
+      "directions": "On North Main Street (U.S. Business 11) , Lexington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298378",
+      "photo_urls": []
+    },
+    {
       "id": "29838",
       "title": "Gen'l Joseph E. Johnston",
       "latitude": 37.530732,
       "longitude": -77.41744,
       "directions": "Near East Broad Street, Richmond, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29838",
+      "photo_urls": []
+    },
+    {
+      "id": "298398",
+      "title": "First Africans in Virginia",
+      "latitude": 37.001038,
+      "longitude": -76.308195,
+      "directions": "On Fenwick Road, Hampton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298398",
+      "photo_urls": []
+    },
+    {
+      "id": "298423",
+      "title": "World War I Memorial",
+      "latitude": 37.81627262,
+      "longitude": -79.82491705,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298423",
+      "photo_urls": []
+    },
+    {
+      "id": "298427",
+      "title": "Veterans Memorial",
+      "latitude": 37.81624787,
+      "longitude": -79.82483138,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298427",
+      "photo_urls": []
+    },
+    {
+      "id": "298429",
+      "title": "World War I Memorial",
+      "latitude": 37.81637979,
+      "longitude": -79.82483915,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298429",
+      "photo_urls": []
+    },
+    {
+      "id": "298435",
+      "title": "Fire Department World War Memorial",
+      "latitude": 37.81637222,
+      "longitude": -79.824875,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298435",
+      "photo_urls": []
+    },
+    {
+      "id": "298436",
+      "title": "World War Memorial",
+      "latitude": 37.81635556,
+      "longitude": -79.82491944,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298436",
+      "photo_urls": []
+    },
+    {
+      "id": "298437",
+      "title": "All Wars Memorial",
+      "latitude": 37.816325,
+      "longitude": -79.82489722,
+      "directions": "On Main Street, Clifton Forge, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298437",
+      "photo_urls": []
+    },
+    {
+      "id": "298438",
+      "title": "Chesapeake and Ohio Lines",
+      "latitude": 37.81502477,
+      "longitude": -79.82757191,
+      "directions": "On East Ridgeway Street (U.S. Business 60) , Clifton Forge, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298438",
+      "photo_urls": []
+    },
+    {
+      "id": "298441",
+      "title": "Covington High School",
+      "latitude": 37.78428699,
+      "longitude": -79.99182349,
+      "directions": "On South Lexington Avenue, Covington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298441",
+      "photo_urls": []
+    },
+    {
+      "id": "298442",
+      "title": "C and O for Progress / Engine 701 - Track Facts",
+      "latitude": 37.78946389,
+      "longitude": -79.99980833,
+      "directions": "On West Main Street, Covington, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298442",
+      "photo_urls": []
+    },
+    {
+      "id": "298466",
+      "title": "Trolleys Come to Ballston / CIA Occupies the Building",
+      "latitude": 38.88259569,
+      "longitude": -77.11678449,
+      "directions": "Near North Glebe Road (State Route 120) , Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298466",
+      "photo_urls": []
+    },
+    {
+      "id": "298468",
+      "title": "The Ages of Abingdon",
+      "latitude": 38.851632,
+      "longitude": -77.044051,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298468",
+      "photo_urls": []
+    },
+    {
+      "id": "298469",
+      "title": "The Alexander Family",
+      "latitude": 38.85117,
+      "longitude": -77.044381,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298469",
+      "photo_urls": []
+    },
+    {
+      "id": "298470",
+      "title": "The Dress",
+      "latitude": 38.8511649,
+      "longitude": -77.0443962,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298470",
+      "photo_urls": []
+    },
+    {
+      "id": "298471",
+      "title": "The Custis Family",
+      "latitude": 38.851237,
+      "longitude": -77.044753,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298471",
+      "photo_urls": []
+    },
+    {
+      "id": "298472",
+      "title": "Abingdon Plantation",
+      "latitude": 38.851249,
+      "longitude": -77.044753,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298472",
+      "photo_urls": []
+    },
+    {
+      "id": "298473",
+      "title": "The Hunter Family",
+      "latitude": 38.851266,
+      "longitude": -77.044756,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298473",
+      "photo_urls": []
+    },
+    {
+      "id": "298474",
+      "title": "The Industrial Age",
+      "latitude": 38.851233,
+      "longitude": -77.044606,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298474",
+      "photo_urls": []
+    },
+    {
+      "id": "298475",
+      "title": "Abingdon Plantation Restoration",
+      "latitude": 38.851281,
+      "longitude": -77.044611,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298475",
+      "photo_urls": []
+    },
+    {
+      "id": "298515",
+      "title": "War of 1812 Veterans buried in this Cemetery",
+      "latitude": 36.83793918,
+      "longitude": -76.30783259,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298515",
+      "photo_urls": []
+    },
+    {
+      "id": "298544",
+      "title": "Boundary Monument",
+      "latitude": 37.63775659,
+      "longitude": -80.23939803,
+      "directions": "On Kanawha Trail (State Route 311) , near Covington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298544",
+      "photo_urls": []
+    },
+    {
+      "id": "298549",
+      "title": "In Memory of These Confederate Soldiers Buried Herein",
+      "latitude": 37.29339722,
+      "longitude": -80.04756944,
+      "directions": "On East Hill Cemetery, Salem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298549",
+      "photo_urls": []
+    },
+    {
+      "id": "298553",
+      "title": "General Andrew Lewis Land Grant",
+      "latitude": 37.294675,
+      "longitude": -80.04756944,
+      "directions": "On East Main Street (U.S. 460) , Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298553",
+      "photo_urls": []
+    },
+    {
+      "id": "298556",
+      "title": "Roanoke College Statement of Context",
+      "latitude": 37.29355599,
+      "longitude": -80.05455076,
+      "directions": "On East Main Street (U.S. 460) , Salem, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298556",
+      "photo_urls": []
+    },
+    {
+      "id": "298561",
+      "title": "Lucy Addison",
+      "latitude": 37.282725,
+      "longitude": -79.94111667,
+      "directions": "On Burrell Street Northwest, Roanoke, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298561",
+      "photo_urls": []
+    },
+    {
+      "id": "298610",
+      "title": "Washington Park",
+      "latitude": 37.28547778,
+      "longitude": -79.94613611,
+      "directions": "On Lick Run Greenway, Roanoke, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298610",
+      "photo_urls": []
+    },
+    {
+      "id": "298614",
+      "title": "Becoming Visible - Meet the Enslaved at Abingdon Plantation",
+      "latitude": 38.85170072,
+      "longitude": -77.04406782,
+      "directions": "Near National Avenue, Arlington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298614",
+      "photo_urls": []
+    },
+    {
+      "id": "298617",
+      "title": "First Known Interment",
+      "latitude": 36.58254118,
+      "longitude": -79.4013828,
+      "directions": "Near Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298617",
+      "photo_urls": []
+    },
+    {
+      "id": "298618",
+      "title": "Battle of Wytheville",
+      "latitude": 36.9575,
+      "longitude": -81.09277778,
+      "directions": "On Tazewell Street, Wytheville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298618",
+      "photo_urls": []
+    },
+    {
+      "id": "298619",
+      "title": "Cheatham Marker",
+      "latitude": 36.58258558,
+      "longitude": -79.40182321,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298619",
+      "photo_urls": []
+    },
+    {
+      "id": "298620",
+      "title": "McElroy/Benedict Markers",
+      "latitude": 36.5824993,
+      "longitude": -79.40144011,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298620",
+      "photo_urls": []
+    },
+    {
+      "id": "298621",
+      "title": "Wilson/Williamson Obelisks",
+      "latitude": 36.5829579,
+      "longitude": -79.40161164,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298621",
+      "photo_urls": []
+    },
+    {
+      "id": "298623",
+      "title": "Patton Square",
+      "latitude": 36.58279922,
+      "longitude": -79.40157241,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298623",
+      "photo_urls": []
+    },
+    {
+      "id": "298624",
+      "title": "Ross/Patton/Thornton Square",
+      "latitude": 36.5828199,
+      "longitude": -79.40146297,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298624",
+      "photo_urls": []
+    },
+    {
+      "id": "298625",
+      "title": "Shepherd/Noble Plot",
+      "latitude": 36.58265131,
+      "longitude": -79.40148696,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298625",
+      "photo_urls": []
+    },
+    {
+      "id": "298626",
+      "title": "Mackenzie/Lapham Plot",
+      "latitude": 36.58246159,
+      "longitude": -79.40177606,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298626",
+      "photo_urls": []
+    },
+    {
+      "id": "298627",
+      "title": "Cabell Plot",
+      "latitude": 36.58294729,
+      "longitude": -79.40171189,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298627",
+      "photo_urls": []
+    },
+    {
+      "id": "298628",
+      "title": "Dame Children",
+      "latitude": 36.58270797,
+      "longitude": -79.40160863,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298628",
+      "photo_urls": []
+    },
+    {
+      "id": "298629",
+      "title": "Craghead Monument",
+      "latitude": 36.58272271,
+      "longitude": -79.40159544,
+      "directions": "On Grove Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298629",
+      "photo_urls": []
+    },
+    {
+      "id": "298633",
+      "title": "POW&#9733;MIA",
+      "latitude": 36.61948333,
+      "longitude": -79.3795,
+      "directions": "On American Legion Boulevard, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298633",
+      "photo_urls": []
+    },
+    {
+      "id": "298638",
+      "title": "Patriot Burials",
+      "latitude": 36.96166667,
+      "longitude": -81.10138889,
+      "directions": "On North Fourth Street (U.S. 52) , Wytheville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298638",
+      "photo_urls": []
+    },
+    {
+      "id": "298671",
+      "title": "United States Colored Troops Memorial",
+      "latitude": 36.9993321,
+      "longitude": -79.89308181,
+      "directions": "On Franklin Street (State Route 40) , Rocky Mount, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298671",
+      "photo_urls": []
+    },
+    {
+      "id": "298676",
+      "title": "Roanoke Navigation System",
+      "latitude": 36.59328312,
+      "longitude": -79.39718625,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298676",
+      "photo_urls": []
+    },
+    {
+      "id": "298677",
+      "title": "Danville Historic Mill District",
+      "latitude": 36.59366215,
+      "longitude": -79.39688237,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298677",
+      "photo_urls": []
+    },
+    {
+      "id": "298678",
+      "title": "Union Street Dam",
+      "latitude": 36.59438883,
+      "longitude": -79.39627106,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298678",
+      "photo_urls": []
+    },
+    {
+      "id": "298679",
+      "title": "The Dan River",
+      "latitude": 36.59471853,
+      "longitude": -79.39598072,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298679",
+      "photo_urls": []
+    },
+    {
+      "id": "298680",
+      "title": "Preservation Alliance of Virginia",
+      "latitude": 36.59505713,
+      "longitude": -79.39566884,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298680",
+      "photo_urls": []
+    },
+    {
+      "id": "298681",
+      "title": "Union Street Bridge",
+      "latitude": 36.59521543,
+      "longitude": -79.39552639,
+      "directions": "On Union Street Bridge, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298681",
+      "photo_urls": []
+    },
+    {
+      "id": "298682",
+      "title": "Carvins Cove Natural Reserve",
+      "latitude": 37.32814444,
+      "longitude": -80.04021389,
+      "directions": "On Dutch Oven Road, near Salem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298682",
+      "photo_urls": []
+    },
+    {
+      "id": "298683",
+      "title": "The Dan River",
+      "latitude": 36.58837651,
+      "longitude": -79.38967568,
+      "directions": "Near Patton Street, Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298683",
+      "photo_urls": []
+    },
+    {
+      "id": "298684",
+      "title": "Wynne's Falls",
+      "latitude": 36.58838106,
+      "longitude": -79.38954394,
+      "directions": "Near Main Street (State Route 293) , Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298684",
+      "photo_urls": []
+    },
+    {
+      "id": "298685",
+      "title": "Early Settlement of Danville",
+      "latitude": 36.58836253,
+      "longitude": -79.38984064,
+      "directions": "Near Main Street (State Route 293) , Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298685",
+      "photo_urls": []
+    },
+    {
+      "id": "298686",
+      "title": "Japan Tobacco International",
+      "latitude": 36.58836792,
+      "longitude": -79.39004424,
+      "directions": "Near Main Street (State Route 293) , Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298686",
+      "photo_urls": []
+    },
+    {
+      "id": "298687",
+      "title": "The World's Best Tobacco Market",
+      "latitude": 36.5883759,
+      "longitude": -79.3901366,
+      "directions": "Near Main Street (State Route 293) , Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298687",
+      "photo_urls": []
+    },
+    {
+      "id": "298688",
+      "title": "Danville's Textile Industry",
+      "latitude": 36.58836505,
+      "longitude": -79.39026851,
+      "directions": "Near Main Street (Route 293) , Danville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298688",
+      "photo_urls": []
+    },
+    {
+      "id": "298689",
+      "title": "Pro Patria",
+      "latitude": 36.58984486,
+      "longitude": -79.46222846,
+      "directions": "On Church Avenue, Danville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298689",
+      "photo_urls": []
+    },
+    {
+      "id": "298690",
+      "title": "Railroad History Preserved",
+      "latitude": 36.58622,
+      "longitude": -79.38369,
+      "directions": "Near Bridge Street, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298690",
+      "photo_urls": []
+    },
+    {
+      "id": "298691",
+      "title": "North Danville",
+      "latitude": 36.59566835,
+      "longitude": -79.38496501,
+      "directions": "On North Main Street (State Route 293) , Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298691",
+      "photo_urls": []
+    },
+    {
+      "id": "298692",
+      "title": "Hinchee Park",
+      "latitude": 37.32813889,
+      "longitude": -80.04024444,
+      "directions": "On Dutch Oven Road, near Salem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298692",
+      "photo_urls": []
+    },
+    {
+      "id": "298695",
+      "title": "Old Carolina Road",
+      "latitude": 37.3700473,
+      "longitude": -79.90781724,
+      "directions": "On Lee Highway (U.S. 11) , Cloverdale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298695",
+      "photo_urls": []
+    },
+    {
+      "id": "298697",
+      "title": "Randolph-Macon Academy/Liberty Academy",
+      "latitude": 37.34083889,
+      "longitude": -79.52985278,
+      "directions": "On College Street, Bedford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298697",
+      "photo_urls": []
+    },
+    {
+      "id": "298703",
+      "title": "Brig. Gen. William R. Terry (1827-1897)",
+      "latitude": 37.34441667,
+      "longitude": -79.51279444,
+      "directions": "On Oakwood Street, Bedford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298703",
+      "photo_urls": []
+    },
+    {
+      "id": "298706",
+      "title": "Marilyn Moore Boardman",
+      "latitude": 37.33812778,
+      "longitude": -79.52443611,
+      "directions": "On Avenel Avenue, Bedford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298706",
+      "photo_urls": []
+    },
+    {
+      "id": "298708",
+      "title": "Mural of Appreciation",
+      "latitude": 37.33420556,
+      "longitude": -79.52372778,
+      "directions": "On South Bridge Street, Bedford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298708",
+      "photo_urls": []
+    },
+    {
+      "id": "298709",
+      "title": "Mural of Appreciation",
+      "latitude": 37.33439167,
+      "longitude": -79.52371944,
+      "directions": "On West Main Street (U.S. 221) , Bedford, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298709",
+      "photo_urls": []
+    },
+    {
+      "id": "298710",
+      "title": "Veterans Memorial",
+      "latitude": 37.33434722,
+      "longitude": -79.52260556,
+      "directions": "On East Main Street (State Route 43) , Bedford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298710",
+      "photo_urls": []
+    },
+    {
+      "id": "298711",
+      "title": "Supreme Sacrifice Memorial",
+      "latitude": 37.33433611,
+      "longitude": -79.52256111,
+      "directions": "On East Main Street (State Route 43) , Bedford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298711",
+      "photo_urls": []
+    },
+    {
+      "id": "298712",
+      "title": "Vietnam Veterans Memorial",
+      "latitude": 37.33428341,
+      "longitude": -79.52242342,
+      "directions": "On East Main Street (State Route 43) , Bedford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298712",
+      "photo_urls": []
+    },
+    {
+      "id": "298715",
+      "title": "Morgan Baptist Church",
+      "latitude": 37.18976944,
+      "longitude": -79.59045278,
+      "directions": "On Morgans Church Road, near Bedford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298715",
+      "photo_urls": []
+    },
+    {
+      "id": "298716",
+      "title": "Style Block/Horse Block",
+      "latitude": 37.18998333,
+      "longitude": -79.58993611,
+      "directions": "On Morgans Church Road, near Bedford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298716",
+      "photo_urls": []
+    },
+    {
+      "id": "298717",
+      "title": "Bedford County / Franklin County",
+      "latitude": 37.14686944,
+      "longitude": -79.66378889,
+      "directions": "On Moneta Road (State Route 122) , near Moneta, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298717",
+      "photo_urls": []
+    },
+    {
+      "id": "298734",
+      "title": "New Kent County",
+      "latitude": 37.514475,
+      "longitude": -77.206644,
+      "directions": "On East Williamsburg Road (U.S. 60) , near Sandston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298734",
+      "photo_urls": []
+    },
+    {
+      "id": "298735",
+      "title": "Henrico County / New Kent County",
+      "latitude": 37.514415,
+      "longitude": -77.206718,
+      "directions": "On East Williamsburg Road (U.S. 60) , near Sandston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298735",
+      "photo_urls": []
+    },
+    {
+      "id": "298737",
+      "title": "New Kent Road",
+      "latitude": 37.514384,
+      "longitude": -77.206919,
+      "directions": "On East Williamsburg Road (U.S. 60) , near Sandston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298737",
+      "photo_urls": []
+    },
+    {
+      "id": "298739",
+      "title": "Mt. Zion & Rustic",
+      "latitude": 37.326915,
+      "longitude": -76.928064,
+      "directions": "On Wilcox Neck Road (State Route 623) , near Charles City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298739",
+      "photo_urls": []
+    },
+    {
+      "id": "298740",
+      "title": "Bermuda Hundred",
+      "latitude": 37.319702,
+      "longitude": -77.306854,
+      "directions": "On East Hundred Road (State Route 10) , near Chester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298740",
+      "photo_urls": []
+    },
+    {
+      "id": "298742",
+      "title": "\"On behalf of the United States\"",
+      "latitude": 37.11937093,
+      "longitude": -79.73166207,
+      "directions": "Near Booker T Washington Highway (State Route 122) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298742",
+      "photo_urls": []
+    },
+    {
+      "id": "298743",
+      "title": "Plantation Trail",
+      "latitude": 37.11940917,
+      "longitude": -79.7315571,
+      "directions": "Near Booker T Washington Highway (State Route 122) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298743",
+      "photo_urls": []
+    },
+    {
+      "id": "298744",
+      "title": "Slavery in the Tobacco Kingdom",
+      "latitude": 37.11943889,
+      "longitude": -79.73128611,
+      "directions": "Near Booker T Washington Highway (State Route 122) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298744",
+      "photo_urls": []
+    },
+    {
+      "id": "298745",
+      "title": "The Day of Freedom",
+      "latitude": 37.11835556,
+      "longitude": -79.73082778,
+      "directions": "Near Booker T Washington Highway (State Route 122) , Hardy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298745",
+      "photo_urls": []
+    },
+    {
+      "id": "298746",
+      "title": "<i>\"No period of my life … was devoted to play\"</i>",
+      "latitude": 37.11761389,
+      "longitude": -79.73059167,
+      "directions": "Near Plantation Trail Spur, Westlake Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298746",
+      "photo_urls": []
+    },
+    {
+      "id": "298747",
+      "title": "Booker's Lifelong Love of Animals",
+      "latitude": 37.11879444,
+      "longitude": -79.73004167,
+      "directions": "Near Plantation Trail, Westlake Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298747",
+      "photo_urls": []
+    },
+    {
+      "id": "298748",
+      "title": "Animals for Food and Farm Work",
+      "latitude": 37.11879444,
+      "longitude": -79.73005,
+      "directions": "Near Plantation Trail, Westlake Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298748",
+      "photo_urls": []
+    },
+    {
+      "id": "298752",
+      "title": "Battle of Wytheville",
+      "latitude": 37.04559325,
+      "longitude": -81.228096,
+      "directions": "On South Scenic Highway (U.S. 52) , near Bland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298752",
+      "photo_urls": []
+    },
+    {
+      "id": "298753",
+      "title": "Battle of Wytheville",
+      "latitude": 36.96166667,
+      "longitude": -81.10138889,
+      "directions": "On North 4th Street (U.S. 52) , Wytheville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298753",
+      "photo_urls": []
+    },
+    {
+      "id": "298754",
+      "title": "Battle of Wytheville",
+      "latitude": 36.9655,
+      "longitude": -81.1804,
+      "directions": "On Black Lick Road (State Route 680) , near Wytheville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298754",
+      "photo_urls": []
+    },
+    {
+      "id": "298755",
+      "title": "Battle of Wytheville",
+      "latitude": 37.0102,
+      "longitude": -81.1902,
+      "directions": "On Stony Fork Road (U.S. 52) , near Wytheville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298755",
+      "photo_urls": []
+    },
+    {
+      "id": "298757",
+      "title": "Battle of Wytheville",
+      "latitude": 36.96166667,
+      "longitude": -81.10138889,
+      "directions": "On North 4th Street (U.S. 52) , Wytheville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298757",
+      "photo_urls": []
+    },
+    {
+      "id": "298758",
+      "title": "Kippax Plantation",
+      "latitude": 37.27954887,
+      "longitude": -77.31965348,
+      "directions": "On Cedar Level Road, Hopewell, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298758",
+      "photo_urls": []
+    },
+    {
+      "id": "298778",
+      "title": "Honoring J. B. Fishburn",
+      "latitude": 37.243175,
+      "longitude": -79.93728611,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298778",
+      "photo_urls": []
+    },
+    {
+      "id": "298782",
+      "title": "M. Carl Andrews Overlook",
+      "latitude": 37.25137326,
+      "longitude": -79.93244124,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298782",
+      "photo_urls": []
+    },
+    {
+      "id": "298787",
+      "title": "American Chestnut: Tree of Hope",
+      "latitude": 37.250325,
+      "longitude": -79.93522778,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298787",
+      "photo_urls": []
+    },
+    {
+      "id": "298789",
+      "title": "In Honor and Remembrance",
+      "latitude": 37.24986389,
+      "longitude": -79.93531111,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298789",
+      "photo_urls": []
+    },
+    {
+      "id": "298790",
+      "title": "American Fringe",
+      "latitude": 37.24965556,
+      "longitude": -79.93576111,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298790",
+      "photo_urls": []
+    },
+    {
+      "id": "298791",
+      "title": "American Basswood",
+      "latitude": 37.24956389,
+      "longitude": -79.93570833,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298791",
+      "photo_urls": []
+    },
+    {
+      "id": "298793",
+      "title": "Welcome to Mill Mountain Wildflower Garden",
+      "latitude": 37.24951111,
+      "longitude": -79.93594444,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298793",
+      "photo_urls": []
+    },
+    {
+      "id": "298796",
+      "title": "American Guinea Hog",
+      "latitude": 37.24798333,
+      "longitude": -79.93660833,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298796",
+      "photo_urls": []
+    },
+    {
+      "id": "298799",
+      "title": "Myotonic Goats",
+      "latitude": 37.24792222,
+      "longitude": -79.93663889,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298799",
+      "photo_urls": []
+    },
+    {
+      "id": "298801",
+      "title": "Burmese Python",
+      "latitude": 37.24778056,
+      "longitude": -79.9364,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298801",
+      "photo_urls": []
+    },
+    {
+      "id": "298805",
+      "title": "Red Panda",
+      "latitude": 37.24758056,
+      "longitude": -79.93691389,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298805",
+      "photo_urls": []
+    },
+    {
+      "id": "298806",
+      "title": "Northern Lynx",
+      "latitude": 37.24733333,
+      "longitude": -79.93702778,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298806",
+      "photo_urls": []
+    },
+    {
+      "id": "298813",
+      "title": "Red Wolf",
+      "latitude": 37.24700556,
+      "longitude": -79.93707222,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298813",
+      "photo_urls": []
+    },
+    {
+      "id": "298815",
+      "title": "Black Bear Recovery",
+      "latitude": 37.24702778,
+      "longitude": -79.93680556,
+      "directions": "On Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298815",
+      "photo_urls": []
+    },
+    {
+      "id": "298818",
+      "title": "Bald Eagle",
+      "latitude": 37.24710833,
+      "longitude": -79.936775,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298818",
+      "photo_urls": []
+    },
+    {
+      "id": "298821",
+      "title": "Domestic Ducks",
+      "latitude": 37.24813333,
+      "longitude": -79.93678333,
+      "directions": "Near Mill Mountain Spur Southeast, Roanoke, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298821",
+      "photo_urls": []
+    },
+    {
+      "id": "298824",
+      "title": "Dr. Elbyrne Grady Gill",
+      "latitude": 37.26746667,
+      "longitude": -79.94068056,
+      "directions": "On South Jefferson Street (U.S. 221) , Roanoke, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298824",
+      "photo_urls": []
+    },
+    {
+      "id": "298826",
+      "title": "A Brief History of Elmwood Park",
+      "latitude": 37.26928333,
+      "longitude": -79.93917222,
+      "directions": "On Franklin Road Southeast, Roanoke, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298826",
+      "photo_urls": []
+    },
+    {
+      "id": "298830",
+      "title": "U.S.S. Roanoke",
+      "latitude": 37.26831944,
+      "longitude": -79.94046111,
+      "directions": "On South Jefferson Street (U.S. 221) , Roanoke, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298830",
+      "photo_urls": []
+    },
+    {
+      "id": "298831",
+      "title": "Cedar Grove",
+      "latitude": 37.88303889,
+      "longitude": -79.38470556,
+      "directions": "On Maury River Road (State Route 39) , Rockbridge Baths, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298831",
+      "photo_urls": []
+    },
+    {
+      "id": "298832",
+      "title": "Welcome to the Frontier Culture Museum",
+      "latitude": 38.12563056,
+      "longitude": -79.05104722,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298832",
+      "photo_urls": []
+    },
+    {
+      "id": "298857",
+      "title": "West Africa, 1700s",
+      "latitude": 38.12444167,
+      "longitude": -79.05162778,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298857",
+      "photo_urls": []
+    },
+    {
+      "id": "298858",
+      "title": "West Africa, 1700s",
+      "latitude": 38.12443889,
+      "longitude": -79.05179722,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298858",
+      "photo_urls": []
+    },
+    {
+      "id": "298859",
+      "title": "England, 1650s",
+      "latitude": 38.12358056,
+      "longitude": -79.05181944,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298859",
+      "photo_urls": []
+    },
+    {
+      "id": "298867",
+      "title": "Ireland, 1750s",
+      "latitude": 38.12306944,
+      "longitude": -79.05075,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298867",
+      "photo_urls": []
+    },
+    {
+      "id": "298868",
+      "title": "Ireland, 1750s",
+      "latitude": 38.12326111,
+      "longitude": -79.04991111,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298868",
+      "photo_urls": []
+    },
+    {
+      "id": "298869",
+      "title": "Germany, 1750s",
+      "latitude": 38.12326389,
+      "longitude": -79.04841667,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298869",
+      "photo_urls": []
+    },
+    {
+      "id": "298871",
+      "title": "The Virginia Frontier",
+      "latitude": 38.12464167,
+      "longitude": -79.04861389,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298871",
+      "photo_urls": []
+    },
+    {
+      "id": "298872",
+      "title": "American Indians, 1600s",
+      "latitude": 38.12497222,
+      "longitude": -79.04779167,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298872",
+      "photo_urls": []
+    },
+    {
+      "id": "298877",
+      "title": "American Inidians, 1600s",
+      "latitude": 38.12529444,
+      "longitude": -79.04764444,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298877",
+      "photo_urls": []
+    },
+    {
+      "id": "298879",
+      "title": "Valley of Virginia, 1760s",
+      "latitude": 38.12525833,
+      "longitude": -79.04623333,
+      "directions": "On Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298879",
+      "photo_urls": []
+    },
+    {
+      "id": "298880",
+      "title": "Valley of Virginia, 1760s",
+      "latitude": 38.12551389,
+      "longitude": -79.04592222,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298880",
+      "photo_urls": []
+    },
+    {
+      "id": "298903",
+      "title": "Shenandoah Valley, 1820s",
+      "latitude": 38.1267,
+      "longitude": -79.04504444,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298903",
+      "photo_urls": []
+    },
+    {
+      "id": "298905",
+      "title": "Shenandoah Valley, 1820s",
+      "latitude": 38.12671667,
+      "longitude": -79.04500556,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298905",
+      "photo_urls": []
+    },
+    {
+      "id": "298906",
+      "title": "Valley of Virginia, 1820s",
+      "latitude": 38.12673056,
+      "longitude": -79.04495278,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298906",
+      "photo_urls": []
+    },
+    {
+      "id": "298908",
+      "title": "Garden",
+      "latitude": 38.12686667,
+      "longitude": -79.04505833,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298908",
+      "photo_urls": []
+    },
+    {
+      "id": "298909",
+      "title": "Bake Oven",
+      "latitude": 38.12704167,
+      "longitude": -79.04513611,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298909",
+      "photo_urls": []
+    },
+    {
+      "id": "298910",
+      "title": "Main House",
+      "latitude": 38.12713889,
+      "longitude": -79.04499167,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298910",
+      "photo_urls": []
+    },
+    {
+      "id": "298911",
+      "title": "Schoolhouse, 1840s",
+      "latitude": 38.12722778,
+      "longitude": -79.04454722,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298911",
+      "photo_urls": []
+    },
+    {
+      "id": "298912",
+      "title": "Appalachian Virginia, 1850s",
+      "latitude": 38.12720833,
+      "longitude": -79.04441111,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298912",
+      "photo_urls": []
+    },
+    {
+      "id": "298913",
+      "title": "Valley of Virginia, 1850s",
+      "latitude": 38.12716389,
+      "longitude": -79.04448056,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298913",
+      "photo_urls": []
+    },
+    {
+      "id": "298914",
+      "title": "Springhouse",
+      "latitude": 38.12709722,
+      "longitude": -79.044425,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298914",
+      "photo_urls": []
+    },
+    {
+      "id": "298915",
+      "title": "Garden",
+      "latitude": 38.12706389,
+      "longitude": -79.04396111,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298915",
+      "photo_urls": []
+    },
+    {
+      "id": "298917",
+      "title": "Meat House",
+      "latitude": 38.12687778,
+      "longitude": -79.04416667,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298917",
+      "photo_urls": []
+    },
+    {
+      "id": "298918",
+      "title": "Root Cellar",
+      "latitude": 38.12685278,
+      "longitude": -79.04408889,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298918",
+      "photo_urls": []
+    },
+    {
+      "id": "298919",
+      "title": "Main House",
+      "latitude": 38.12684167,
+      "longitude": -79.04402222,
+      "directions": "On Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298919",
+      "photo_urls": []
+    },
+    {
+      "id": "298920",
+      "title": "Tobacco Barn",
+      "latitude": 38.12657222,
+      "longitude": -79.04403611,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298920",
+      "photo_urls": []
+    },
+    {
+      "id": "298954",
+      "title": "Appalachian Virginia, 1850s",
+      "latitude": 38.12738889,
+      "longitude": -79.04424167,
+      "directions": "Near Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298954",
+      "photo_urls": []
+    },
+    {
+      "id": "298955",
+      "title": "African-American Church, 1860s",
+      "latitude": 38.12698333,
+      "longitude": -79.04658611,
+      "directions": "On Frontier Drive, Staunton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298955",
+      "photo_urls": []
+    },
+    {
+      "id": "298956",
+      "title": "Lucy F. Simms",
+      "latitude": 38.45459444,
+      "longitude": -78.85871944,
+      "directions": "On Simms Avenue, Harrisonburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298956",
+      "photo_urls": []
+    },
+    {
+      "id": "298959",
+      "title": "Rockingham County Vietnam Memorial",
+      "latitude": 38.44939444,
+      "longitude": -78.86880556,
+      "directions": "On South Main Street (U.S. 11) , Harrisonburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298959",
+      "photo_urls": []
+    },
+    {
+      "id": "298960",
+      "title": "The International Mural Project",
+      "latitude": 38.44886111,
+      "longitude": -78.86862222,
+      "directions": "On South Main Street (Route 11) , Harrisonburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298960",
+      "photo_urls": []
+    },
+    {
+      "id": "298961",
+      "title": "Like to Eat?",
+      "latitude": 38.61411667,
+      "longitude": -78.70631389,
+      "directions": "Near Interstate 81, near Timberville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298961",
+      "photo_urls": []
+    },
+    {
+      "id": "298962",
+      "title": "Revolutionary War Patriots Buried in this Historic Cemetery",
+      "latitude": 39.08289444,
+      "longitude": -78.21687222,
+      "directions": "On Mulberry Street (County Route T-1002) , Stephens City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298962",
+      "photo_urls": []
+    },
+    {
+      "id": "299072",
+      "title": "\"Racial Integrity\" and the Tribes of King William",
+      "latitude": 37.68723,
+      "longitude": -77.01348,
+      "directions": "On Courthouse Lane (State Route 1301) , King William, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299072",
+      "photo_urls": []
+    },
+    {
+      "id": "299096",
+      "title": "Warren G. Lineberry",
+      "latitude": 36.90999555,
+      "longitude": -80.31995789,
+      "directions": "Near South Locust Street (State Route 8) , Floyd, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299096",
+      "photo_urls": []
+    },
+    {
+      "id": "299097",
+      "title": "Robley Evans",
+      "latitude": 36.91047472,
+      "longitude": -80.31880834,
+      "directions": "Near South Locust Street (State Route 8) , Floyd, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299097",
+      "photo_urls": []
+    },
+    {
+      "id": "299099",
+      "title": "\"The Ridgemont\"",
+      "latitude": 36.91376396,
+      "longitude": -80.32064688,
+      "directions": "On North Locust Street (State Route 8) , Floyd, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299099",
+      "photo_urls": []
+    },
+    {
+      "id": "299100",
+      "title": "Last Cavalry Raid",
+      "latitude": 36.91375,
+      "longitude": -80.32061,
+      "directions": "On North Locust Street (State Route 8) , Floyd, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299100",
+      "photo_urls": []
+    },
+    {
+      "id": "299107",
+      "title": "The Crooked Road",
+      "latitude": 36.91008,
+      "longitude": -80.31969,
+      "directions": "On South Locust Street, Floyd, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299107",
+      "photo_urls": []
+    },
+    {
+      "id": "299108",
+      "title": "Floyd",
+      "latitude": 36.91009,
+      "longitude": -80.3197,
+      "directions": "On South Locust Street, Floyd, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299108",
+      "photo_urls": []
+    },
+    {
+      "id": "299137",
+      "title": "Stuart's Birthplace Marker",
+      "latitude": 36.56281667,
+      "longitude": -80.5523,
+      "directions": "On Ararat Highway (State Route 773) , Ararat, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299137",
       "photo_urls": []
     },
     {
@@ -100790,12 +102581,552 @@
       "photo_urls": []
     },
     {
+      "id": "299214",
+      "title": "Brigadier General Archibald Campbell Godwin",
+      "latitude": 36.8392613,
+      "longitude": -76.30777366,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299214",
+      "photo_urls": []
+    },
+    {
+      "id": "299242",
+      "title": "Portsmouth Rifles Monument",
+      "latitude": 36.838447,
+      "longitude": -76.30799615,
+      "directions": "Near Fort Lane, Portsmouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299242",
+      "photo_urls": []
+    },
+    {
+      "id": "299243",
+      "title": "Floyd Presbyterian Church",
+      "latitude": 36.91143818,
+      "longitude": -80.31797991,
+      "directions": "On East Main Street (U.S. 221) , Floyd, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299243",
+      "photo_urls": []
+    },
+    {
+      "id": "299255",
+      "title": "Confederate Left Disintegrates",
+      "latitude": 38.98854,
+      "longitude": -78.42083,
+      "directions": "Near Battlefield Road (State Route 601) , Strasburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299255",
+      "photo_urls": []
+    },
+    {
+      "id": "299256",
+      "title": "The Coming Storm",
+      "latitude": 38.988069,
+      "longitude": -78.420344,
+      "directions": "On Battlefield Road (State Route 601) , Strasburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299256",
+      "photo_urls": []
+    },
+    {
+      "id": "299274",
+      "title": "Ronald Reagan Washington National Airport & George Washington Memorial Parkway",
+      "latitude": 38.8635,
+      "longitude": -77.042825,
+      "directions": "On George Washington Memorial Parkway, Arlington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299274",
+      "photo_urls": []
+    },
+    {
+      "id": "299281",
+      "title": "Engineer Wharf",
+      "latitude": 37.001145,
+      "longitude": -76.30725,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299281",
+      "photo_urls": []
+    },
+    {
+      "id": "299282",
+      "title": "Fort Monroe Seawall History",
+      "latitude": 37.001097,
+      "longitude": -76.30721,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299282",
+      "photo_urls": []
+    },
+    {
+      "id": "299283",
+      "title": "Fort Monroe Seawall History",
+      "latitude": 37.001135,
+      "longitude": -76.30739,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299283",
+      "photo_urls": []
+    },
+    {
+      "id": "299284",
+      "title": "Fort Monroe Concrete Seawall Eastern Terminus",
+      "latitude": 37.001345,
+      "longitude": -76.304566,
+      "directions": "On Fenwick Road, Hampton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299284",
+      "photo_urls": []
+    },
+    {
+      "id": "299285",
+      "title": "Water Battery",
+      "latitude": 37.004199,
+      "longitude": -76.303866,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299285",
+      "photo_urls": []
+    },
+    {
+      "id": "299287",
+      "title": "3 – Inch Ordnance Rifle",
+      "latitude": 37.002096,
+      "longitude": -76.308864,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299287",
+      "photo_urls": []
+    },
+    {
+      "id": "299288",
+      "title": "12-Pounder Howitzer",
+      "latitude": 37.00208,
+      "longitude": -76.308833,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299288",
+      "photo_urls": []
+    },
+    {
+      "id": "299289",
+      "title": "Spanish 1-½-Pounder",
+      "latitude": 37.002063,
+      "longitude": -76.308804,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299289",
+      "photo_urls": []
+    },
+    {
+      "id": "299290",
+      "title": "Lantaka",
+      "latitude": 37.002048,
+      "longitude": -76.30877,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299290",
+      "photo_urls": []
+    },
+    {
+      "id": "299291",
+      "title": "Lee's Quarters",
+      "latitude": 37.002388,
+      "longitude": -76.309002,
+      "directions": "On Bernard Road, Hampton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299291",
+      "photo_urls": []
+    },
+    {
+      "id": "299292",
+      "title": "12-Pounder Gun-Howitzer",
+      "latitude": 37.00245,
+      "longitude": -76.309544,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299292",
+      "photo_urls": []
+    },
+    {
+      "id": "299293",
+      "title": "14 – Pounder James Rifle",
+      "latitude": 37.002467,
+      "longitude": -76.309579,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299293",
+      "photo_urls": []
+    },
+    {
+      "id": "299294",
+      "title": "Austrian 6-Pounder Gun",
+      "latitude": 37.00248,
+      "longitude": -76.309616,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299294",
+      "photo_urls": []
+    },
+    {
+      "id": "299295",
+      "title": "Austrian 6-Pounder Gun",
+      "latitude": 37.002495,
+      "longitude": -76.309646,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299295",
+      "photo_urls": []
+    },
+    {
+      "id": "299296",
+      "title": "Lantaka",
+      "latitude": 37.00254,
+      "longitude": -76.309761,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299296",
+      "photo_urls": []
+    },
+    {
+      "id": "299297",
+      "title": "Eprouvette Mortar",
+      "latitude": 37.002508,
+      "longitude": -76.30993,
+      "directions": "On Bernard Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299297",
+      "photo_urls": []
+    },
+    {
+      "id": "299330",
+      "title": "Wayside & Granville",
+      "latitude": 37.376385,
+      "longitude": -77.224792,
+      "directions": "On John Tyler Memorial Highway (State Route 5) , near Granville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299330",
+      "photo_urls": []
+    },
+    {
       "id": "29934",
       "title": "High Bridge",
       "latitude": 37.32402297,
       "longitude": -78.3373864,
       "directions": "On River Road (County Route 600) , Farmville, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29934",
+      "photo_urls": []
+    },
+    {
+      "id": "299343",
+      "title": "Bunch of Grapes Tavern",
+      "latitude": 37.023956,
+      "longitude": -76.34353,
+      "directions": "On South King Street, Hampton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299343",
+      "photo_urls": []
+    },
+    {
+      "id": "299344",
+      "title": "British Approach to Hampton / The War of 1812",
+      "latitude": 37.024271,
+      "longitude": -76.34317,
+      "directions": "On South King Street, Hampton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299344",
+      "photo_urls": []
+    },
+    {
+      "id": "299345",
+      "title": "Hampton",
+      "latitude": 37.024314,
+      "longitude": -76.34354,
+      "directions": "Near Settlers Landing Road (U.S. 60) , Hampton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299345",
+      "photo_urls": []
+    },
+    {
+      "id": "299420",
+      "title": "Northumberland County",
+      "latitude": 37.91670278,
+      "longitude": -76.471625,
+      "directions": "On Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299420",
+      "photo_urls": []
+    },
+    {
+      "id": "299422",
+      "title": "Foggy River",
+      "latitude": 37.84350833,
+      "longitude": -76.27495556,
+      "directions": "Near Main Street, Reedville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299422",
+      "photo_urls": []
+    },
+    {
+      "id": "299423",
+      "title": "Elva C",
+      "latitude": 37.843625,
+      "longitude": -76.27588611,
+      "directions": "Near Main Street, Reedville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299423",
+      "photo_urls": []
+    },
+    {
+      "id": "299424",
+      "title": "Claud W. Somers",
+      "latitude": 37.84374167,
+      "longitude": -76.27591667,
+      "directions": "Near Main Street, Reedville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299424",
+      "photo_urls": []
+    },
+    {
+      "id": "299425",
+      "title": "Fannie",
+      "latitude": 37.84392222,
+      "longitude": -76.27587778,
+      "directions": "Near Main Street, Reedville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299425",
+      "photo_urls": []
+    },
+    {
+      "id": "299426",
+      "title": "Morris-Fisher Stack",
+      "latitude": 37.84374167,
+      "longitude": -76.27559722,
+      "directions": "Near Main Street, Reedville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299426",
+      "photo_urls": []
+    },
+    {
+      "id": "299427",
+      "title": "Welcome to Historic Tangier Island",
+      "latitude": 37.82831111,
+      "longitude": -75.992325,
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299427",
+      "photo_urls": []
+    },
+    {
+      "id": "299428",
+      "title": "The Peter Williams House",
+      "latitude": 37.82850278,
+      "longitude": -75.99243889,
+      "directions": "On Main Ridge Road, Tangier, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299428",
+      "photo_urls": []
+    },
+    {
+      "id": "299429",
+      "title": "Puge's & County Dock",
+      "latitude": 37.82935833,
+      "longitude": -75.99266944,
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299429",
+      "photo_urls": []
+    },
+    {
+      "id": "299431",
+      "title": "Welcome to Historic Tangier Island",
+      "latitude": 37.82924167,
+      "longitude": -75.99268333,
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299431",
+      "photo_urls": []
+    },
+    {
+      "id": "299432",
+      "title": "Jim's Gift Shop",
+      "latitude": 37.82745341,
+      "longitude": -75.99194384,
+      "directions": "On Main Ridge Road, Tangier, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299432",
+      "photo_urls": []
+    },
+    {
+      "id": "299446",
+      "title": "Hoistin' Bridge",
+      "latitude": 37.82071944,
+      "longitude": -75.99378889,
+      "directions": "On Parker Lane, Tangier, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299446",
+      "photo_urls": []
+    },
+    {
+      "id": "299447",
+      "title": "Tangier Treasures",
+      "latitude": 37.82077138,
+      "longitude": -75.99413243,
+      "directions": "On Parker Lane, Tangier, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299447",
+      "photo_urls": []
+    },
+    {
+      "id": "299448",
+      "title": "Wading Birds",
+      "latitude": 37.82072254,
+      "longitude": -75.99412771,
+      "directions": "On Factory Road, Tangier, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299448",
+      "photo_urls": []
+    },
+    {
+      "id": "299449",
+      "title": "Muddy Toes",
+      "latitude": 37.81928889,
+      "longitude": -75.99706944,
+      "directions": "On Hog Ridge Road, Tangier, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299449",
+      "photo_urls": []
+    },
+    {
+      "id": "299450",
+      "title": "Tangier Beach",
+      "latitude": 37.81811944,
+      "longitude": -75.99689444,
+      "directions": "On Hog Ridge Road, Tangier, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299450",
+      "photo_urls": []
+    },
+    {
+      "id": "299451",
+      "title": "Tangier Combined School",
+      "latitude": 37.82711667,
+      "longitude": -75.99371389,
+      "directions": "On School Lane, Tangier, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299451",
+      "photo_urls": []
+    },
+    {
+      "id": "299456",
+      "title": "The Long Road to Today's Library",
+      "latitude": 37.91564544,
+      "longitude": -76.46955311,
+      "directions": "On Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299456",
+      "photo_urls": []
+    },
+    {
+      "id": "299458",
+      "title": "Chesapeake Bay Watermen",
+      "latitude": 37.91551944,
+      "longitude": -76.46964167,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299458",
+      "photo_urls": []
+    },
+    {
+      "id": "299459",
+      "title": "Who Invented the Crab Pot",
+      "latitude": 37.915375,
+      "longitude": -76.46955,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299459",
+      "photo_urls": []
+    },
+    {
+      "id": "299460",
+      "title": "Necessity and the Mothers of Invention",
+      "latitude": 37.91528611,
+      "longitude": -76.46948889,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299460",
+      "photo_urls": []
+    },
+    {
+      "id": "299461",
+      "title": "The Stars Are Falling! The Stars Are Falling!",
+      "latitude": 37.91529167,
+      "longitude": -76.46948333,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299461",
+      "photo_urls": []
+    },
+    {
+      "id": "299463",
+      "title": "Hooray for Steamboats! / Meet Daisy / The Amazon of Its Day",
+      "latitude": 37.91516389,
+      "longitude": -76.46938333,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299463",
+      "photo_urls": []
+    },
+    {
+      "id": "299464",
+      "title": "Holley-Graded School",
+      "latitude": 37.91485556,
+      "longitude": -76.46943611,
+      "directions": "Near Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299464",
+      "photo_urls": []
+    },
+    {
+      "id": "299471",
+      "title": "The Small Fish that Made Reedville Rich",
+      "latitude": 37.91486389,
+      "longitude": -76.46951944,
+      "directions": "On Northumberland Highway (U.S. 360) , Heathsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299471",
+      "photo_urls": []
+    },
+    {
+      "id": "299474",
+      "title": "The Saddlery Foundation Community and Veterans' Memorial Terrace",
+      "latitude": 37.96046111,
+      "longitude": -76.75672222,
+      "directions": "On Main Street, Warsaw, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299474",
+      "photo_urls": []
+    },
+    {
+      "id": "299483",
+      "title": "Gen. James Dearing",
+      "latitude": 37.12985453,
+      "longitude": -79.26914075,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299483",
+      "photo_urls": []
+    },
+    {
+      "id": "299484",
+      "title": "Altavista 9/11 Memorial",
+      "latitude": 37.12995859,
+      "longitude": -79.2694338,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299484",
+      "photo_urls": []
+    },
+    {
+      "id": "299487",
+      "title": "Tories, Treachery, Treason, and a Tree",
+      "latitude": 37.12969526,
+      "longitude": -79.26959777,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299487",
+      "photo_urls": []
+    },
+    {
+      "id": "299488",
+      "title": "Civil War Cannon",
+      "latitude": 37.12999249,
+      "longitude": -79.26941141,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299488",
+      "photo_urls": []
+    },
+    {
+      "id": "299491",
+      "title": "Herb Garden",
+      "latitude": 37.13010826,
+      "longitude": -79.26935766,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299491",
+      "photo_urls": []
+    },
+    {
+      "id": "299492",
+      "title": "Uses for Avoca's Colonial Herb Garden",
+      "latitude": 37.13010155,
+      "longitude": -79.26936419,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299492",
+      "photo_urls": []
+    },
+    {
+      "id": "299506",
+      "title": "Smoke House",
+      "latitude": 37.13012118,
+      "longitude": -79.26938628,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299506",
+      "photo_urls": []
+    },
+    {
+      "id": "299507",
+      "title": "Milk House",
+      "latitude": 37.13051083,
+      "longitude": -79.2696499,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299507",
       "photo_urls": []
     },
     {
@@ -100808,12 +103139,84 @@
       "photo_urls": []
     },
     {
+      "id": "299522",
+      "title": "Colonel Charles Lynch",
+      "latitude": 37.12987837,
+      "longitude": -79.26946646,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299522",
+      "photo_urls": []
+    },
+    {
+      "id": "299523",
+      "title": "General James Dearing",
+      "latitude": 37.12989638,
+      "longitude": -79.269452,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299523",
+      "photo_urls": []
+    },
+    {
+      "id": "299525",
+      "title": "Hogsheads, Ward's Road, and Batteaux",
+      "latitude": 37.13030005,
+      "longitude": -79.26941836,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299525",
+      "photo_urls": []
+    },
+    {
+      "id": "299527",
+      "title": "The John E. Sue M. Jackson Visitor's Center",
+      "latitude": 37.13031308,
+      "longitude": -79.26969209,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299527",
+      "photo_urls": []
+    },
+    {
       "id": "29953",
       "title": "Ballenger Church",
       "latitude": 37.777982,
       "longitude": -78.593665,
       "directions": "On James River Road (County Route 626) , near Esmont, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29953",
+      "photo_urls": []
+    },
+    {
+      "id": "299531",
+      "title": "The Fauntleroy Home Destroyed and Rebuilt",
+      "latitude": 37.13050715,
+      "longitude": -79.27036651,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299531",
+      "photo_urls": []
+    },
+    {
+      "id": "299532",
+      "title": "These millstones",
+      "latitude": 37.13053498,
+      "longitude": -79.27037114,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299532",
+      "photo_urls": []
+    },
+    {
+      "id": "299534",
+      "title": "Stocks & Pillories",
+      "latitude": 37.13051173,
+      "longitude": -79.27040297,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299534",
+      "photo_urls": []
+    },
+    {
+      "id": "299536",
+      "title": "Privy (Latin for private)",
+      "latitude": 37.13066186,
+      "longitude": -79.27023014,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299536",
       "photo_urls": []
     },
     {
@@ -100826,6 +103229,69 @@
       "photo_urls": []
     },
     {
+      "id": "299560",
+      "title": "Bilhartz Hall Munitions Plant",
+      "latitude": 36.82750327,
+      "longitude": -79.39746298,
+      "directions": "Near Main Street (U.S. Business 29) , Chatham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299560",
+      "photo_urls": []
+    },
+    {
+      "id": "299561",
+      "title": "The County Seats of Pittsylvania",
+      "latitude": 36.82643863,
+      "longitude": -79.39825218,
+      "directions": "Near S Main Street, Chatham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299561",
+      "photo_urls": []
+    },
+    {
+      "id": "299574",
+      "title": "The Onishi Davenport Aquatics Center",
+      "latitude": 36.83143592,
+      "longitude": -79.40177089,
+      "directions": "Near J R Hill Memorial Drive, Chatham, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299574",
+      "photo_urls": []
+    },
+    {
+      "id": "299602",
+      "title": "North Danville",
+      "latitude": 36.59572,
+      "longitude": -79.38496,
+      "directions": "On North Main Street, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299602",
+      "photo_urls": []
+    },
+    {
+      "id": "299621",
+      "title": "Pittsylvania County Tobacco Heritage",
+      "latitude": 36.82609575,
+      "longitude": -79.40072876,
+      "directions": "Near Court Place, Chatham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299621",
+      "photo_urls": []
+    },
+    {
+      "id": "299639",
+      "title": "Fishburne Military School",
+      "latitude": 38.06775,
+      "longitude": -78.88993,
+      "directions": "On South Wayne Avenue, Waynesboro, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299639",
+      "photo_urls": []
+    },
+    {
+      "id": "299678",
+      "title": "Local Patriots",
+      "latitude": 37.13255556,
+      "longitude": -75.96598889,
+      "directions": "Near U.S. 13, Cape Charles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299678",
+      "photo_urls": []
+    },
+    {
       "id": "29969",
       "title": "Carver-Price School",
       "latitude": 37.36036595,
@@ -100835,12 +103301,102 @@
       "photo_urls": []
     },
     {
+      "id": "299704",
+      "title": "Bilhartz, Hall & Co.",
+      "latitude": 36.82733741,
+      "longitude": -79.39803846,
+      "directions": "On Main Street, Chatham, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299704",
+      "photo_urls": []
+    },
+    {
+      "id": "299705",
+      "title": "Battery Cove Filled: A New Shipyard",
+      "latitude": 38.79690833,
+      "longitude": -77.04019167,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299705",
+      "photo_urls": []
+    },
+    {
       "id": "29971",
       "title": "Winonah Camp / Mozella Price Home",
       "latitude": 37.36035955,
       "longitude": -78.8289696,
       "directions": "On Confederate Boulevard (U.S. 460) , Appomattox, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29971",
+      "photo_urls": []
+    },
+    {
+      "id": "299710",
+      "title": "The Civil War and Battery Rodgers",
+      "latitude": 38.79688611,
+      "longitude": -77.04022222,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299710",
+      "photo_urls": []
+    },
+    {
+      "id": "299712",
+      "title": "The Federal District and Alexandria",
+      "latitude": 38.79691944,
+      "longitude": -77.04025278,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299712",
+      "photo_urls": []
+    },
+    {
+      "id": "299714",
+      "title": "Early Alexandria and Keith's Wharf",
+      "latitude": 38.79694722,
+      "longitude": -77.04023056,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299714",
+      "photo_urls": []
+    },
+    {
+      "id": "299716",
+      "title": "The Earliest Inhabitants",
+      "latitude": 38.79701111,
+      "longitude": -77.04021389,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299716",
+      "photo_urls": []
+    },
+    {
+      "id": "299718",
+      "title": "The Alexandria Ford Plant",
+      "latitude": 38.79713889,
+      "longitude": -77.04011667,
+      "directions": "Near Fords Landing Way, Alexandria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299718",
+      "photo_urls": []
+    },
+    {
+      "id": "299814",
+      "title": "Ford's Mill at Wolf Run Shoals",
+      "latitude": 38.72753977,
+      "longitude": -77.36052985,
+      "directions": "On Wolf Run Shoals Road, Clifton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299814",
+      "photo_urls": []
+    },
+    {
+      "id": "299817",
+      "title": "Loving v Virginia",
+      "latitude": 38.05066,
+      "longitude": -77.34709,
+      "directions": "On North Main Street, Bowling Green, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299817",
+      "photo_urls": []
+    },
+    {
+      "id": "299878",
+      "title": "Callands War Memorial",
+      "latitude": 36.827186,
+      "longitude": -79.589282,
+      "directions": "On Sago Road, Callands, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299878",
       "photo_urls": []
     },
     {
@@ -100862,6 +103418,15 @@
       "photo_urls": []
     },
     {
+      "id": "299994",
+      "title": "Tredegar Iron Works",
+      "latitude": 37.535717,
+      "longitude": -77.44542,
+      "directions": "Near Tredegar Street, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299994",
+      "photo_urls": []
+    },
+    {
       "id": "30000",
       "title": "Matthew Fontaine Maury",
       "latitude": 37.541639,
@@ -100880,6 +103445,69 @@
       "photo_urls": []
     },
     {
+      "id": "300037",
+      "title": "An Attack Repulsed",
+      "latitude": 38.3202174,
+      "longitude": -79.4740599,
+      "directions": "Near Highland Turnpike (U.S. 250) , near McDowell, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300037",
+      "photo_urls": []
+    },
+    {
+      "id": "300074",
+      "title": "Doles Salient",
+      "latitude": 38.22134121,
+      "longitude": -77.60360241,
+      "directions": "On Anderson Drive, near Spotsylvania Courthouse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300074",
+      "photo_urls": []
+    },
+    {
+      "id": "300075",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22222624,
+      "longitude": -77.60197699,
+      "directions": "On Anderson Drive, near Spotsylvania Courthouse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300075",
+      "photo_urls": []
+    },
+    {
+      "id": "300076",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22347368,
+      "longitude": -77.60147274,
+      "directions": "On Grant Drive, near Spotsylvania Courthouse, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300076",
+      "photo_urls": []
+    },
+    {
+      "id": "300077",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22337886,
+      "longitude": -77.60006726,
+      "directions": "Near Grant Drive, near Spotsylvania Courthouse, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300077",
+      "photo_urls": []
+    },
+    {
+      "id": "300078",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22335568,
+      "longitude": -77.60011554,
+      "directions": "Near Grant Drive, near Spotsylvania Courthouse, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300078",
+      "photo_urls": []
+    },
+    {
+      "id": "300079",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22357904,
+      "longitude": -77.59634972,
+      "directions": "Near Gordon Drive, near Spotsylvania Courthouse, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300079",
+      "photo_urls": []
+    },
+    {
       "id": "30008",
       "title": "Site of Arlington Chapel",
       "latitude": 38.866611,
@@ -100889,12 +103517,147 @@
       "photo_urls": []
     },
     {
+      "id": "300080",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22357272,
+      "longitude": -77.59633094,
+      "directions": "Near Gordon Drive, near Spotsylvania Courthouse, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300080",
+      "photo_urls": []
+    },
+    {
+      "id": "300081",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21783472,
+      "longitude": -77.59596348,
+      "directions": "On Gordon Drive, near Spotsylvania Courthouse, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300081",
+      "photo_urls": []
+    },
+    {
+      "id": "300082",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21426063,
+      "longitude": -77.60773301,
+      "directions": "On Anderson Drive, near Spotsylvania Courthouse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300082",
+      "photo_urls": []
+    },
+    {
+      "id": "300083",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21435335,
+      "longitude": -77.60767937,
+      "directions": "On Anderson Drive, near Spotsylvania Courthouse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300083",
+      "photo_urls": []
+    },
+    {
+      "id": "300084",
+      "title": "Harrison House Site",
+      "latitude": 38.21585382,
+      "longitude": -77.60237932,
+      "directions": "Near Gordon Drive, near Spotsylvania Courthouse, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300084",
+      "photo_urls": []
+    },
+    {
+      "id": "300085",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22367175,
+      "longitude": -77.60641336,
+      "directions": "On Grant Drive, near Spotsylvania Courthouse, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300085",
+      "photo_urls": []
+    },
+    {
+      "id": "300086",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.22367175,
+      "longitude": -77.60641336,
+      "directions": "On Grant Drive, near Spotsylvania Courthouse, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300086",
+      "photo_urls": []
+    },
+    {
+      "id": "300087",
+      "title": "Vista Clearing at Spotsylvania",
+      "latitude": 38.22653742,
+      "longitude": -77.59838283,
+      "directions": "Near Grant Drive, near Spotsylvania Courthouse, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300087",
+      "photo_urls": []
+    },
+    {
+      "id": "300088",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21575266,
+      "longitude": -77.59148955,
+      "directions": "On Burnside Drive, near Spotsylvania Courthouse, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300088",
+      "photo_urls": []
+    },
+    {
+      "id": "300089",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21805388,
+      "longitude": -77.61435807,
+      "directions": "On Grant Drive, near Spotsylvania Courthouse, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300089",
+      "photo_urls": []
+    },
+    {
       "id": "30009",
       "title": "The Edward V. Valentine Sculpture Studio",
       "latitude": 37.541336,
       "longitude": -77.43123,
       "directions": "Near East Clay Street, Richmond, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30009",
+      "photo_urls": []
+    },
+    {
+      "id": "300090",
+      "title": "Spotsylvania Campaign",
+      "latitude": 38.21694121,
+      "longitude": -77.61580646,
+      "directions": "On Hancock Road, near Spotsylvania Courthouse, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300090",
+      "photo_urls": []
+    },
+    {
+      "id": "300091",
+      "title": "The Spindle House",
+      "latitude": 38.21383071,
+      "longitude": -77.61630535,
+      "directions": "Near Brock Road (County Route 613) , near Spotsylvania Courthouse, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300091",
+      "photo_urls": []
+    },
+    {
+      "id": "300092",
+      "title": "Maryland Monument",
+      "latitude": 38.21181598,
+      "longitude": -77.61544704,
+      "directions": "Near Pritchett Road, near Spotsylvania Courthouse, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300092",
+      "photo_urls": []
+    },
+    {
+      "id": "300118",
+      "title": "Pittsylvania County / North Carolina",
+      "latitude": 36.54193407,
+      "longitude": -79.21736664,
+      "directions": "On North Broad Street (State Route 62) , near Danville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300118",
+      "photo_urls": []
+    },
+    {
+      "id": "300220",
+      "title": "Site of Homestead",
+      "latitude": 36.74210833,
+      "longitude": -77.627075,
+      "directions": "On Pleasant Shade Drive (Route 58) , Durand, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300220",
       "photo_urls": []
     },
     {
@@ -104014,9 +106777,9 @@
     {
       "id": "33892",
       "title": "Edward Braddock",
-      "latitude": 37.019895,
-      "longitude": -76.34507,
-      "directions": "On Victoria Boulevard, Hampton, (In the median)",
+      "latitude": 37.02003,
+      "longitude": -76.34517,
+      "directions": "On Bridge Street, Hampton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33892",
       "photo_urls": []
     },
@@ -105049,8 +107812,8 @@
     {
       "id": "34767",
       "title": "West Virginia / Giles County Virginia",
-      "latitude": 37.36757,
-      "longitude": -80.868141,
+      "latitude": 37.36745699,
+      "longitude": -80.86817738,
       "directions": "On Virginia Avenue (U.S. 460) , Glen Lyn, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=34767",
       "photo_urls": []
@@ -107301,7 +110064,7 @@
       "title": "McNeil Drive",
       "latitude": 37.24686,
       "longitude": -79.971837,
-      "directions": "On Colonial Avenue (State Route 720) , Roanoke, (On the left when traveling east)",
+      "directions": "On Colonial Avenue Southwest (State Route 720) , Roanoke, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3755",
       "photo_urls": []
     },
@@ -107319,7 +110082,7 @@
       "title": "Lee Highway",
       "latitude": 37.26444,
       "longitude": -80.01137,
-      "directions": "On Brandon Avenue SW (U.S. 11) , near Roanoke, (On the right when traveling east)",
+      "directions": "On Brandon Avenue SW (U.S. 11) , Roanoke, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3761",
       "photo_urls": []
     },
@@ -107875,9 +110638,9 @@
     {
       "id": "39554",
       "title": "Tangier Harbor",
-      "latitude": 37.828542,
-      "longitude": -75.991308,
-      "directions": "Near Thomas Road, Tangier, ",
+      "latitude": 37.82848972,
+      "longitude": -75.99130816,
+      "directions": "Near Thomas Road, Tangier, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39554",
       "photo_urls": []
     },
@@ -108192,7 +110955,7 @@
       "title": "Methodist Parsonage",
       "latitude": 37.82902,
       "longitude": -75.99267,
-      "directions": "On Main Ridge Road, Tangier, ",
+      "directions": "On Main Ridge Road, Tangier, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39949",
       "photo_urls": []
     },
@@ -108219,7 +110982,7 @@
       "title": "Chesapeake House",
       "latitude": 37.825301,
       "longitude": -75.991825,
-      "directions": "On Main Ridge Road, Tangier, ",
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39952",
       "photo_urls": []
     },
@@ -108228,7 +110991,7 @@
       "title": "The Peter Dise House",
       "latitude": 37.825551,
       "longitude": -75.991955,
-      "directions": "On Main Ridge Road, Tangier, ",
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39953",
       "photo_urls": []
     },
@@ -108264,7 +111027,7 @@
       "title": "Swain Memorial United Methodist Church",
       "latitude": 37.82723333,
       "longitude": -75.99198333,
-      "directions": "On Main Ridge Road, Tangier, ",
+      "directions": "On Main Ridge Road, Tangier, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=39998",
       "photo_urls": []
     },
@@ -115860,7 +118623,7 @@
       "title": "Audie Murphy Monument",
       "latitude": 37.36451,
       "longitude": -80.22574,
-      "directions": "Near Brush Mountain Road, near Catawba, ",
+      "directions": "Near Brush Mountain Road, near Bradshaw, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58308",
       "photo_urls": []
     },
@@ -115914,7 +118677,7 @@
       "title": "Jordan’s Point",
       "latitude": 37.79232432,
       "longitude": -79.42943772,
-      "directions": "On Moses Mill Road (Stono Lane), Lexington, (On the right when traveling north)",
+      "directions": "On Moses Mill Road, Lexington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58589",
       "photo_urls": []
     },
@@ -121089,7 +123852,7 @@
       "title": "Toland’s Raid",
       "latitude": 37.04566667,
       "longitude": -81.22736111,
-      "directions": "On Stony Fork Road / South Scenic Highway (U.S. 52) , near Wytheville, (On the right when traveling south)",
+      "directions": "On Stony Fork Road / South Scenic Highway (U.S. 52) , near Bland, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=68018",
       "photo_urls": []
     },
@@ -121431,7 +124194,7 @@
       "title": "The Alexandria Ford Plant",
       "latitude": 38.797104,
       "longitude": -77.040097,
-      "directions": "Near Ford&#39;s Landing Way, Alexandria, (On the left when traveling south)",
+      "directions": "Near Fords Landing Way, Alexandria, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=69852",
       "photo_urls": []
     },
@@ -121683,7 +124446,7 @@
       "title": "The Civil War and Battery Rodgers",
       "latitude": 38.79691,
       "longitude": -77.040194,
-      "directions": "Near Ford&#39;s Landing Way, Alexandria, (On the left when traveling south)",
+      "directions": "Near Fords Landing Way, Alexandria, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=70411",
       "photo_urls": []
     },
@@ -128919,7 +131682,7 @@
       "title": "Jubal Early Homeplace",
       "latitude": 37.170452,
       "longitude": -79.890379,
-      "directions": "On Old Hollow Road, Boones Mill, (On the right when traveling west)",
+      "directions": "Near Old Hollow Lane, near Hardy, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=87172",
       "photo_urls": []
     },
@@ -133182,7 +135945,7 @@
     },
     {
       "id": "97723",
-      "title": "Welcome To Historic Tangier Island",
+      "title": "Welcome to Historic Tangier Island",
       "latitude": 37.82833667,
       "longitude": -75.992365,
       "directions": "On Main Ridge Road, Tangier, ",
