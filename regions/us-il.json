@@ -3,9 +3,9 @@
   "region_name": "Illinois",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-24T06:03:32.568Z",
-  "source_timestamp": "2026-04-24T06:03:32.568Z",
-  "marker_count": 6071,
+  "generated": "2026-05-22T06:04:31.517Z",
+  "source_timestamp": "2026-05-22T06:04:31.517Z",
+  "marker_count": 6200,
   "markers": [
     {
       "id": "100606",
@@ -39151,8 +39151,8 @@
     {
       "id": "270867",
       "title": "Col. Franklin A. Denison",
-      "latitude": 41.83098611,
-      "longitude": -87.61727778,
+      "latitude": 41.83098319,
+      "longitude": -87.61714326,
       "directions": "On South Martin Luther King Drive, Chicago, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=270867",
       "photo_urls": []
@@ -40233,7 +40233,7 @@
       "title": "Harvey Sterkel Field",
       "latitude": 41.73588141,
       "longitude": -88.38816803,
-      "directions": "Near Landgraf Lane, Montgomery, (On the left when traveling west)",
+      "directions": "Near Jericho Road (County Route 24) , Montgomery, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=273392",
       "photo_urls": []
     },
@@ -40242,7 +40242,7 @@
       "title": "Quarry Reclamation and Site History",
       "latitude": 41.73994064,
       "longitude": -88.38154078,
-      "directions": "On Jericho Road, Aurora, (On the right when traveling east)",
+      "directions": "On Jericho Road (County Route 24) , Aurora, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=273473",
       "photo_urls": []
     },
@@ -41196,7 +41196,7 @@
       "title": "Watch Us Grow",
       "latitude": 41.73980714,
       "longitude": -88.37986818,
-      "directions": "Near Jericho Road (Route 24) , Aurora, (On the right",
+      "directions": "Near Jericho Road (County Route 24) , Aurora, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=276927",
       "photo_urls": []
     },
@@ -47660,6 +47660,1167 @@
       "longitude": -87.77961667,
       "directions": "On Lombard Avenue, Oak Park, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298135",
+      "photo_urls": []
+    },
+    {
+      "id": "298187",
+      "title": "Senator John Humphrey",
+      "latitude": 41.63243696,
+      "longitude": -87.85699662,
+      "directions": "Near Crescent Park Circle, Orland Park, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298187",
+      "photo_urls": []
+    },
+    {
+      "id": "298370",
+      "title": "1837",
+      "latitude": 41.89538584,
+      "longitude": -89.39355084,
+      "directions": "On Lost Nation Road (County Route 1) , Kingdom, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298370",
+      "photo_urls": []
+    },
+    {
+      "id": "298532",
+      "title": "Veterans Memorial",
+      "latitude": 41.87703211,
+      "longitude": -87.9079007,
+      "directions": "Near Hillside Avenue, Hillside, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298532",
+      "photo_urls": []
+    },
+    {
+      "id": "298612",
+      "title": "LaBagh Woods",
+      "latitude": 41.97870588,
+      "longitude": -87.74566141,
+      "directions": "On Paved Trail, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298612",
+      "photo_urls": []
+    },
+    {
+      "id": "298726",
+      "title": "Korean War Memorial",
+      "latitude": 41.68796637,
+      "longitude": -87.68148745,
+      "directions": "On South Western Avenue, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298726",
+      "photo_urls": []
+    },
+    {
+      "id": "298727",
+      "title": "Palliser’s Cottage Home No. 35",
+      "latitude": 41.69092988,
+      "longitude": -87.67938672,
+      "directions": "On West 111th Place, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298727",
+      "photo_urls": []
+    },
+    {
+      "id": "298730",
+      "title": "The Milwaukee Road",
+      "latitude": 41.87817832,
+      "longitude": -87.64045954,
+      "directions": "Near West Jackson Boulevard, Chicago, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298730",
+      "photo_urls": []
+    },
+    {
+      "id": "298733",
+      "title": "Morgan Park World War I Memorial",
+      "latitude": 41.68981111,
+      "longitude": -87.67433056,
+      "directions": "On South Lothair Avenue, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298733",
+      "photo_urls": []
+    },
+    {
+      "id": "298749",
+      "title": "Mt. Olivet Cemetery",
+      "latitude": 41.69133056,
+      "longitude": -87.69326111,
+      "directions": "On West 111th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298749",
+      "photo_urls": []
+    },
+    {
+      "id": "298750",
+      "title": "Veterans Memorial",
+      "latitude": 41.69171944,
+      "longitude": -87.70096667,
+      "directions": "On West 111th Street, Chicago, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298750",
+      "photo_urls": []
+    },
+    {
+      "id": "298756",
+      "title": "Irish Nationalist Monument",
+      "latitude": 41.68951777,
+      "longitude": -87.69384855,
+      "directions": "Near West 111th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298756",
+      "photo_urls": []
+    },
+    {
+      "id": "298874",
+      "title": "Pontiac's Conspiracy",
+      "latitude": 39.86152663,
+      "longitude": -87.93766022,
+      "directions": "On State Route 49, near Allerton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298874",
+      "photo_urls": []
+    },
+    {
+      "id": "298904",
+      "title": "Piggot's Fort Great Run",
+      "latitude": 38.45109126,
+      "longitude": -90.2286682,
+      "directions": "On Bluff Road (County Route 6) , Columbia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298904",
+      "photo_urls": []
+    },
+    {
+      "id": "298986",
+      "title": "The Bettenhausens",
+      "latitude": 41.57925332,
+      "longitude": -87.81499463,
+      "directions": "Near West 171st Street, Tinley Park, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298986",
+      "photo_urls": []
+    },
+    {
+      "id": "299037",
+      "title": "Tom Healy Field",
+      "latitude": 41.73416838,
+      "longitude": -88.38830482,
+      "directions": "On Jericho Road (County Route 24) , Montgomery, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299037",
+      "photo_urls": []
+    },
+    {
+      "id": "299041",
+      "title": "Remember Oklahoma City",
+      "latitude": 41.75509607,
+      "longitude": -88.34808831,
+      "directions": "Near Gladstone Avenue, Aurora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299041",
+      "photo_urls": []
+    },
+    {
+      "id": "299043",
+      "title": "Glacial Boulder from Mendota College",
+      "latitude": 41.75479245,
+      "longitude": -88.34729475,
+      "directions": "On Gladstone Avenue, Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299043",
+      "photo_urls": []
+    },
+    {
+      "id": "299049",
+      "title": "Samuel Bedrosian, PhD",
+      "latitude": 41.74370391,
+      "longitude": -88.35838267,
+      "directions": "On Edgelawn Drive, Aurora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299049",
+      "photo_urls": []
+    },
+    {
+      "id": "299052",
+      "title": "Memorial Bridge",
+      "latitude": 41.75935477,
+      "longitude": -88.3147324,
+      "directions": "On New York Street, Aurora, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299052",
+      "photo_urls": []
+    },
+    {
+      "id": "299053",
+      "title": "Memorial Bridge",
+      "latitude": 41.7585066,
+      "longitude": -88.31273552,
+      "directions": "On New York Street, Aurora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299053",
+      "photo_urls": []
+    },
+    {
+      "id": "299054",
+      "title": "Graham Building",
+      "latitude": 41.75769603,
+      "longitude": -88.31600284,
+      "directions": "On Stolp Avenue, Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299054",
+      "photo_urls": []
+    },
+    {
+      "id": "299055",
+      "title": "Millennium Tower",
+      "latitude": 41.7578097,
+      "longitude": -88.3157742,
+      "directions": "On Stolp Avenue, Aurora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299055",
+      "photo_urls": []
+    },
+    {
+      "id": "299056",
+      "title": "Keystone Building",
+      "latitude": 41.75740556,
+      "longitude": -88.31600278,
+      "directions": "On Stolp Avenue, Aurora, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299056",
+      "photo_urls": []
+    },
+    {
+      "id": "299057",
+      "title": "Block & Kuhl Store",
+      "latitude": 41.75831425,
+      "longitude": -88.31509541,
+      "directions": "On Galena Boulevard, Aurora, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299057",
+      "photo_urls": []
+    },
+    {
+      "id": "299059",
+      "title": "The Illiniwek and “The Illinois Country”",
+      "latitude": 41.75887355,
+      "longitude": -88.3156252,
+      "directions": "On Galena Boulevard, Aurora, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299059",
+      "photo_urls": []
+    },
+    {
+      "id": "299061",
+      "title": "Hobbs Building",
+      "latitude": 41.7589,
+      "longitude": -88.31699444,
+      "directions": "On River Street, Aurora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299061",
+      "photo_urls": []
+    },
+    {
+      "id": "299063",
+      "title": "Tivoli Theatre",
+      "latitude": 41.75871411,
+      "longitude": -88.31632726,
+      "directions": "On Galena Boulevard, Aurora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299063",
+      "photo_urls": []
+    },
+    {
+      "id": "299069",
+      "title": "Illinois Lincoln Highway",
+      "latitude": 41.79851051,
+      "longitude": -88.32522625,
+      "directions": "On Lincolnway Street (State Route 31) , North Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299069",
+      "photo_urls": []
+    },
+    {
+      "id": "299070",
+      "title": "Lincoln Highway",
+      "latitude": 41.79863056,
+      "longitude": -88.32533333,
+      "directions": "On Lincolnway Street (State Route 31) , North Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299070",
+      "photo_urls": []
+    },
+    {
+      "id": "299074",
+      "title": "Illinois Lincoln Highway",
+      "latitude": 41.79863333,
+      "longitude": -88.325325,
+      "directions": "On Lincolnway Street, North Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299074",
+      "photo_urls": []
+    },
+    {
+      "id": "299075",
+      "title": "The Lincoln Highway - the nation’s first coast-to-coast highway!",
+      "latitude": 41.798625,
+      "longitude": -88.32534722,
+      "directions": "On Lincolnway Street (State Route 31) , North Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299075",
+      "photo_urls": []
+    },
+    {
+      "id": "299076",
+      "title": "North Aurora",
+      "latitude": 41.7988869,
+      "longitude": -88.32605693,
+      "directions": "On Airport Road, North Aurora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299076",
+      "photo_urls": []
+    },
+    {
+      "id": "299077",
+      "title": "Exposition Park",
+      "latitude": 41.79888066,
+      "longitude": -88.32607262,
+      "directions": "On Airport Road, North Aurora, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299077",
+      "photo_urls": []
+    },
+    {
+      "id": "299125",
+      "title": "Millennium Plaza",
+      "latitude": 41.75792544,
+      "longitude": -88.31560317,
+      "directions": "On South Stolp Avenue, Aurora, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299125",
+      "photo_urls": []
+    },
+    {
+      "id": "299213",
+      "title": "Wieboldt's Department Store",
+      "latitude": 41.87986233,
+      "longitude": -87.66773611,
+      "directions": "On West Ogden Avenue, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299213",
+      "photo_urls": []
+    },
+    {
+      "id": "299246",
+      "title": "Pontiac's Conspiracy",
+      "latitude": 39.86140972,
+      "longitude": -87.93732042,
+      "directions": "On State Route 49, near Allerton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299246",
+      "photo_urls": []
+    },
+    {
+      "id": "299247",
+      "title": "The Austin Neighborhood Renaissance",
+      "latitude": 41.89489914,
+      "longitude": -87.77195629,
+      "directions": "On West Chicago Avenue, Chicago, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299247",
+      "photo_urls": []
+    },
+    {
+      "id": "299259",
+      "title": "Model 1912 4.7 Inch Howitzer",
+      "latitude": 41.90981673,
+      "longitude": -87.68003477,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299259",
+      "photo_urls": []
+    },
+    {
+      "id": "299263",
+      "title": "Wicker Park",
+      "latitude": 41.90977222,
+      "longitude": -87.67997778,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299263",
+      "photo_urls": []
+    },
+    {
+      "id": "299264",
+      "title": "Wicker Park",
+      "latitude": 41.90828322,
+      "longitude": -87.67992578,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299264",
+      "photo_urls": []
+    },
+    {
+      "id": "299266",
+      "title": "Parados para Triunfar",
+      "latitude": 41.90340289,
+      "longitude": -87.67984311,
+      "directions": "On North Hoyne Street, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299266",
+      "photo_urls": []
+    },
+    {
+      "id": "299271",
+      "title": "Wicker Park",
+      "latitude": 41.90436111,
+      "longitude": -87.67981667,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299271",
+      "photo_urls": []
+    },
+    {
+      "id": "299316",
+      "title": "Ukrainian Village",
+      "latitude": 41.8997415,
+      "longitude": -87.67968149,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299316",
+      "photo_urls": []
+    },
+    {
+      "id": "299318",
+      "title": "Ukrainian Village",
+      "latitude": 41.90139201,
+      "longitude": -87.67975225,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299318",
+      "photo_urls": []
+    },
+    {
+      "id": "299319",
+      "title": "1036 North Hoyne Avenue",
+      "latitude": 41.90063047,
+      "longitude": -87.67981538,
+      "directions": "On North Hoyne Avenue, Chicago, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299319",
+      "photo_urls": []
+    },
+    {
+      "id": "299361",
+      "title": "The Fighting Saints",
+      "latitude": 41.9027157,
+      "longitude": -88.26964181,
+      "directions": "Near Legacy Boulevard, St. Charles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299361",
+      "photo_urls": []
+    },
+    {
+      "id": "299375",
+      "title": "Kevin White",
+      "latitude": 41.90270608,
+      "longitude": -88.26964252,
+      "directions": "Near Legacy Boulevard, St. Charles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299375",
+      "photo_urls": []
+    },
+    {
+      "id": "299387",
+      "title": "The Kaskaskia-Cahokia Trail",
+      "latitude": 38.45109903,
+      "longitude": -90.22890911,
+      "directions": "On Bluff Road (County Route 6) , Columbia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299387",
+      "photo_urls": []
+    },
+    {
+      "id": "299627",
+      "title": "Armour Flats",
+      "latitude": 41.83459715,
+      "longitude": -87.6278758,
+      "directions": "On 33rd Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299627",
+      "photo_urls": []
+    },
+    {
+      "id": "299629",
+      "title": "Our Hometown: Chicago",
+      "latitude": 41.83597284,
+      "longitude": -87.62782517,
+      "directions": "On South State Street, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299629",
+      "photo_urls": []
+    },
+    {
+      "id": "299630",
+      "title": "Our Hometown: Chicago",
+      "latitude": 41.83595941,
+      "longitude": -87.627824,
+      "directions": "On South State Street, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299630",
+      "photo_urls": []
+    },
+    {
+      "id": "299637",
+      "title": "John Simpson",
+      "latitude": 41.83823762,
+      "longitude": -87.62499688,
+      "directions": "On East 31st Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299637",
+      "photo_urls": []
+    },
+    {
+      "id": "299640",
+      "title": "Paul Laurence Dunbar",
+      "latitude": 41.83855447,
+      "longitude": -87.6207611,
+      "directions": "On East 31st Street, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299640",
+      "photo_urls": []
+    },
+    {
+      "id": "299641",
+      "title": "Dr. Mae Jemison",
+      "latitude": 41.83851715,
+      "longitude": -87.61760646,
+      "directions": "On East 31st Street, Chicago, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299641",
+      "photo_urls": []
+    },
+    {
+      "id": "299643",
+      "title": "Corneal Davis",
+      "latitude": 41.83859722,
+      "longitude": -87.61731667,
+      "directions": "On South Martin Luther King Jr. Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299643",
+      "photo_urls": []
+    },
+    {
+      "id": "299646",
+      "title": "Welcome to Bronzeville",
+      "latitude": 41.8311655,
+      "longitude": -87.6264017,
+      "directions": "On South State Street, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299646",
+      "photo_urls": []
+    },
+    {
+      "id": "299649",
+      "title": "Rendleman Orchards Historic District",
+      "latitude": 37.59550466,
+      "longitude": -89.32180285,
+      "directions": "On State Route 127, Alto Pass, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299649",
+      "photo_urls": []
+    },
+    {
+      "id": "299655",
+      "title": "Eugene Temple",
+      "latitude": 41.8279444,
+      "longitude": -87.62633417,
+      "directions": "On South State Street, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299655",
+      "photo_urls": []
+    },
+    {
+      "id": "299660",
+      "title": "Casmere Lazzeroni",
+      "latitude": 41.82761316,
+      "longitude": -87.62632283,
+      "directions": "On South State Street, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299660",
+      "photo_urls": []
+    },
+    {
+      "id": "299662",
+      "title": "Wendell Phillips High School",
+      "latitude": 41.82403054,
+      "longitude": -87.6196961,
+      "directions": "On East Pershing Road, Chicago, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299662",
+      "photo_urls": []
+    },
+    {
+      "id": "299691",
+      "title": "Giles-Calumet",
+      "latitude": 41.82544787,
+      "longitude": -87.61911581,
+      "directions": "On South Giles Avenue, Chicago, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299691",
+      "photo_urls": []
+    },
+    {
+      "id": "299692",
+      "title": "Giles-Calumet",
+      "latitude": 41.82568757,
+      "longitude": -87.61888144,
+      "directions": "On East 39th Street, Chicago, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299692",
+      "photo_urls": []
+    },
+    {
+      "id": "299693",
+      "title": "Giles-Calumet",
+      "latitude": 41.82555716,
+      "longitude": -87.61832191,
+      "directions": "On South Calumet Avenue, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299693",
+      "photo_urls": []
+    },
+    {
+      "id": "299694",
+      "title": "Giles-Calumet",
+      "latitude": 41.82505259,
+      "longitude": -87.61831569,
+      "directions": "On South Calumet Avenue, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299694",
+      "photo_urls": []
+    },
+    {
+      "id": "299699",
+      "title": "Giles-Calumet",
+      "latitude": 41.82426321,
+      "longitude": -87.61815382,
+      "directions": "On South Calumet Avenue, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299699",
+      "photo_urls": []
+    },
+    {
+      "id": "299706",
+      "title": "Margaret Goss Burroughs",
+      "latitude": 41.83830812,
+      "longitude": -87.61730307,
+      "directions": "On South King Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299706",
+      "photo_urls": []
+    },
+    {
+      "id": "299752",
+      "title": "John “Jack” Johnson",
+      "latitude": 41.83833005,
+      "longitude": -87.61760409,
+      "directions": "On South Martin Luther King Jr. Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299752",
+      "photo_urls": []
+    },
+    {
+      "id": "299786",
+      "title": "Ferdinand \"Jelly Roll\" Morton",
+      "latitude": 41.83778333,
+      "longitude": -87.61763056,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299786",
+      "photo_urls": []
+    },
+    {
+      "id": "299804",
+      "title": "Theresa Needham",
+      "latitude": 41.8373373,
+      "longitude": -87.61762866,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299804",
+      "photo_urls": []
+    },
+    {
+      "id": "299819",
+      "title": "Elgin Wind Power and Pump Company",
+      "latitude": 42.03868091,
+      "longitude": -88.2885546,
+      "directions": "On State Street (State Route 31) , Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299819",
+      "photo_urls": []
+    },
+    {
+      "id": "299821",
+      "title": "The Elgin Windmill",
+      "latitude": 42.03860662,
+      "longitude": -88.28849002,
+      "directions": "On State Street (State Route 31) , Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299821",
+      "photo_urls": []
+    },
+    {
+      "id": "299880",
+      "title": "James T. and Hezekiah Gifford",
+      "latitude": 42.0397925,
+      "longitude": -88.28604533,
+      "directions": "On Civic Center Plaza, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299880",
+      "photo_urls": []
+    },
+    {
+      "id": "299881",
+      "title": "Communication Station",
+      "latitude": 42.03958109,
+      "longitude": -88.28644266,
+      "directions": "On Civic Center Plaza, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299881",
+      "photo_urls": []
+    },
+    {
+      "id": "299883",
+      "title": "Mother Skye",
+      "latitude": 42.03897538,
+      "longitude": -88.2866724,
+      "directions": "On Fox River Trail, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299883",
+      "photo_urls": []
+    },
+    {
+      "id": "299885",
+      "title": "The Promise of Elgin",
+      "latitude": 42.03587681,
+      "longitude": -88.28278491,
+      "directions": "On Spring Street, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299885",
+      "photo_urls": []
+    },
+    {
+      "id": "299892",
+      "title": "The Elgin National Watch Company",
+      "latitude": 42.03052201,
+      "longitude": -88.27620168,
+      "directions": "On Wellington Street, Elgin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299892",
+      "photo_urls": []
+    },
+    {
+      "id": "299897",
+      "title": "Elgin Railroad Watches",
+      "latitude": 42.03052778,
+      "longitude": -88.27625278,
+      "directions": "On National Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299897",
+      "photo_urls": []
+    },
+    {
+      "id": "299902",
+      "title": "Watch Factory Depot",
+      "latitude": 42.03063234,
+      "longitude": -88.27627643,
+      "directions": "On National Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299902",
+      "photo_urls": []
+    },
+    {
+      "id": "299904",
+      "title": "Generations of Watch Workers",
+      "latitude": 42.03060556,
+      "longitude": -88.27619167,
+      "directions": "On Wellington Street, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299904",
+      "photo_urls": []
+    },
+    {
+      "id": "299906",
+      "title": "The National House",
+      "latitude": 42.03057222,
+      "longitude": -88.2762,
+      "directions": "On Wellington Street, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299906",
+      "photo_urls": []
+    },
+    {
+      "id": "299907",
+      "title": "Life Inside the Watch Factory",
+      "latitude": 42.03055556,
+      "longitude": -88.27629167,
+      "directions": "On National Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299907",
+      "photo_urls": []
+    },
+    {
+      "id": "299908",
+      "title": "The Watch Factory District",
+      "latitude": 42.03054722,
+      "longitude": -88.27622222,
+      "directions": "On National Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299908",
+      "photo_urls": []
+    },
+    {
+      "id": "299909",
+      "title": "General John S. Wilcox & General William Lynch",
+      "latitude": 42.01889504,
+      "longitude": -88.25389402,
+      "directions": "Near Bluff City Boulevard, Elgin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299909",
+      "photo_urls": []
+    },
+    {
+      "id": "299924",
+      "title": "Illinois Firefighters Memorial Plaza",
+      "latitude": 42.02554951,
+      "longitude": -88.26945984,
+      "directions": "On St. Charles Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299924",
+      "photo_urls": []
+    },
+    {
+      "id": "299925",
+      "title": "Peter VanNostrand",
+      "latitude": 42.02521944,
+      "longitude": -88.26939444,
+      "directions": "On St. Charles Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299925",
+      "photo_urls": []
+    },
+    {
+      "id": "299933",
+      "title": "Sigi Psimenos",
+      "latitude": 42.04263056,
+      "longitude": -88.26289444,
+      "directions": "On Grand Boulevard, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299933",
+      "photo_urls": []
+    },
+    {
+      "id": "299942",
+      "title": "The Elgin Public Museum",
+      "latitude": 42.04246353,
+      "longitude": -88.26218001,
+      "directions": "On Grand Boulevard, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299942",
+      "photo_urls": []
+    },
+    {
+      "id": "299944",
+      "title": "Lord Memorial Museum",
+      "latitude": 42.04247384,
+      "longitude": -88.26222119,
+      "directions": "On Grand Boulevard, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299944",
+      "photo_urls": []
+    },
+    {
+      "id": "299945",
+      "title": "Observatory/Planetarium",
+      "latitude": 42.030033,
+      "longitude": -88.27360515,
+      "directions": "On Watch Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299945",
+      "photo_urls": []
+    },
+    {
+      "id": "299967",
+      "title": "Elgin National Watch Co. Observatory",
+      "latitude": 42.0301785,
+      "longitude": -88.27370473,
+      "directions": "On Watch Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299967",
+      "photo_urls": []
+    },
+    {
+      "id": "299968",
+      "title": "Wing Park Golf Course 1908",
+      "latitude": 42.04778194,
+      "longitude": -88.30466257,
+      "directions": "On Wing Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299968",
+      "photo_urls": []
+    },
+    {
+      "id": "299973",
+      "title": "Wing Park",
+      "latitude": 42.04975082,
+      "longitude": -88.30498182,
+      "directions": "Near Wing Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299973",
+      "photo_urls": []
+    },
+    {
+      "id": "299977",
+      "title": "George Van De Voorde",
+      "latitude": 42.02543611,
+      "longitude": -88.26946389,
+      "directions": "On St. Charles Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299977",
+      "photo_urls": []
+    },
+    {
+      "id": "299978",
+      "title": "The Old Cemetery 1845-1945",
+      "latitude": 42.03483652,
+      "longitude": -88.27346177,
+      "directions": "On Channing Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299978",
+      "photo_urls": []
+    },
+    {
+      "id": "299979",
+      "title": "Fire Barn No. 5",
+      "latitude": 42.02574951,
+      "longitude": -88.26952395,
+      "directions": "On St. Charles Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299979",
+      "photo_urls": []
+    },
+    {
+      "id": "299981",
+      "title": "Channing Memorial Park",
+      "latitude": 42.03597149,
+      "longitude": -88.27100145,
+      "directions": "On DuPage Street, Elgin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299981",
+      "photo_urls": []
+    },
+    {
+      "id": "299982",
+      "title": "Welcome to Newsome Park",
+      "latitude": 42.04197133,
+      "longitude": -88.27969308,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299982",
+      "photo_urls": []
+    },
+    {
+      "id": "299983",
+      "title": "Fremont Recreation Center / Second Baptist Church",
+      "latitude": 42.04199167,
+      "longitude": -88.27965556,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299983",
+      "photo_urls": []
+    },
+    {
+      "id": "299984",
+      "title": "Phyllis Jones Tilley",
+      "latitude": 42.04203333,
+      "longitude": -88.27966944,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299984",
+      "photo_urls": []
+    },
+    {
+      "id": "299985",
+      "title": "La Verne Newsome",
+      "latitude": 42.04201944,
+      "longitude": -88.27968611,
+      "directions": "On Kimball Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299985",
+      "photo_urls": []
+    },
+    {
+      "id": "299986",
+      "title": "Mary Newsome Wheeler",
+      "latitude": 42.04204167,
+      "longitude": -88.2797,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299986",
+      "photo_urls": []
+    },
+    {
+      "id": "299987",
+      "title": "Sherman Hunter",
+      "latitude": 42.04201944,
+      "longitude": -88.27971667,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299987",
+      "photo_urls": []
+    },
+    {
+      "id": "299988",
+      "title": "Elgin's First Church",
+      "latitude": 42.03735,
+      "longitude": -88.28095278,
+      "directions": "On Center Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299988",
+      "photo_urls": []
+    },
+    {
+      "id": "299991",
+      "title": "Veteran Post 49 G.A.R. Memorial",
+      "latitude": 42.03531,
+      "longitude": -88.27989,
+      "directions": "On Villa Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299991",
+      "photo_urls": []
+    },
+    {
+      "id": "299992",
+      "title": "James T. Gifford’s Log House",
+      "latitude": 42.03438889,
+      "longitude": -88.27860278,
+      "directions": "On Prairie Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299992",
+      "photo_urls": []
+    },
+    {
+      "id": "299998",
+      "title": "Elgin Historic District",
+      "latitude": 42.03431433,
+      "longitude": -88.2787047,
+      "directions": "On Prairie Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299998",
+      "photo_urls": []
+    },
+    {
+      "id": "300001",
+      "title": "Davidson Park",
+      "latitude": 42.03432398,
+      "longitude": -88.27870567,
+      "directions": "On Villa Street, Elgin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300001",
+      "photo_urls": []
+    },
+    {
+      "id": "300010",
+      "title": "W.R. Meadows, Inc.",
+      "latitude": 42.04193056,
+      "longitude": -88.28866667,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300010",
+      "photo_urls": []
+    },
+    {
+      "id": "300017",
+      "title": "The Pioneer Memorial Statue",
+      "latitude": 42.04171968,
+      "longitude": -88.28872255,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300017",
+      "photo_urls": []
+    },
+    {
+      "id": "300018",
+      "title": "Gail Borden Library",
+      "latitude": 42.04170278,
+      "longitude": -88.28867222,
+      "directions": "On Kimball Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300018",
+      "photo_urls": []
+    },
+    {
+      "id": "300020",
+      "title": "\"The Ultimate Sacrifice\"",
+      "latitude": 42.04088039,
+      "longitude": -88.28839022,
+      "directions": "On Fox River Trail, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300020",
+      "photo_urls": []
+    },
+    {
+      "id": "300023",
+      "title": "Veterans Memorial",
+      "latitude": 42.04066111,
+      "longitude": -88.27977778,
+      "directions": "On Park Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300023",
+      "photo_urls": []
+    },
+    {
+      "id": "300024",
+      "title": "Old Main",
+      "latitude": 42.04089213,
+      "longitude": -88.27754598,
+      "directions": "On Park Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300024",
+      "photo_urls": []
+    },
+    {
+      "id": "300033",
+      "title": "Elgin Academy Civil War Memorial",
+      "latitude": 42.04103742,
+      "longitude": -88.27741388,
+      "directions": "On Park Street, Elgin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300033",
+      "photo_urls": []
+    },
+    {
+      "id": "300035",
+      "title": "Pioneer Log Cabin of the 1830s",
+      "latitude": 42.041375,
+      "longitude": -88.27780278,
+      "directions": "Near Park Street, Elgin, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300035",
+      "photo_urls": []
+    },
+    {
+      "id": "300039",
+      "title": "Masjid Al-W&#257;jidi",
+      "latitude": 42.04115013,
+      "longitude": -88.27841904,
+      "directions": "On Academy Place, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300039",
+      "photo_urls": []
+    },
+    {
+      "id": "300041",
+      "title": "Gifford Park",
+      "latitude": 42.03612011,
+      "longitude": -88.27784406,
+      "directions": "On Dupage Street, Elgin, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300041",
+      "photo_urls": []
+    },
+    {
+      "id": "300042",
+      "title": "Elgin Historic District",
+      "latitude": 42.0355,
+      "longitude": -88.27718333,
+      "directions": "On Park Row, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300042",
+      "photo_urls": []
+    },
+    {
+      "id": "300043",
+      "title": "Gifford Park",
+      "latitude": 42.03552789,
+      "longitude": -88.27718761,
+      "directions": "On Park Row, Elgin, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300043",
+      "photo_urls": []
+    },
+    {
+      "id": "300044",
+      "title": "Gifford-Davidson House",
+      "latitude": 42.03435556,
+      "longitude": -88.27763333,
+      "directions": "On Prairie Street, Elgin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300044",
+      "photo_urls": []
+    },
+    {
+      "id": "300045",
+      "title": "The Log Cabin Home of James T. Gifford",
+      "latitude": 42.03441111,
+      "longitude": -88.27892222,
+      "directions": "On Prairie Street, Elgin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300045",
+      "photo_urls": []
+    },
+    {
+      "id": "300182",
+      "title": "Dr. J.B. Martin",
+      "latitude": 41.83667328,
+      "longitude": -87.61761764,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300182",
+      "photo_urls": []
+    },
+    {
+      "id": "300184",
+      "title": "Ferdinand Lee Barnett",
+      "latitude": 41.83669346,
+      "longitude": -87.61726595,
+      "directions": "On South Dr. Martin Luther King Junior Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300184",
+      "photo_urls": []
+    },
+    {
+      "id": "300186",
+      "title": "Ida B. Wells-Barnett",
+      "latitude": 41.83650586,
+      "longitude": -87.61726332,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300186",
+      "photo_urls": []
+    },
+    {
+      "id": "300187",
+      "title": "John Lee Williamson",
+      "latitude": 41.83651805,
+      "longitude": -87.61759837,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300187",
+      "photo_urls": []
+    },
+    {
+      "id": "300189",
+      "title": "Ernest Griffin",
+      "latitude": 41.83570567,
+      "longitude": -87.6176185,
+      "directions": "On South Dr. Martin Luther King Dr., Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300189",
+      "photo_urls": []
+    },
+    {
+      "id": "300190",
+      "title": "Theodore K. Lawless",
+      "latitude": 41.83528369,
+      "longitude": -87.61760805,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300190",
+      "photo_urls": []
+    },
+    {
+      "id": "300192",
+      "title": "Mahalia Jackson",
+      "latitude": 41.83482778,
+      "longitude": -87.61750833,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300192",
+      "photo_urls": []
+    },
+    {
+      "id": "300193",
+      "title": "William L. Dawson",
+      "latitude": 41.83485278,
+      "longitude": -87.61723333,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300193",
       "photo_urls": []
     },
     {
