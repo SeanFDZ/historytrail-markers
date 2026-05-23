@@ -3,9 +3,9 @@
   "region_name": "Michigan",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-25T06:03:20.828Z",
-  "source_timestamp": "2026-04-25T06:03:20.828Z",
-  "marker_count": 4118,
+  "generated": "2026-05-23T06:03:55.835Z",
+  "source_timestamp": "2026-05-23T06:03:55.835Z",
+  "marker_count": 4140,
   "markers": [
     {
       "id": "100032",
@@ -32039,12 +32039,210 @@
       "photo_urls": []
     },
     {
+      "id": "297613",
+      "title": "Con Foster and the Movies in Traverse City",
+      "latitude": 44.76551497,
+      "longitude": -85.62112492,
+      "directions": "On East Grandview Parkway (U.S. 31) , Traverse City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297613",
+      "photo_urls": []
+    },
+    {
       "id": "298100",
       "title": "Walloon Lake",
       "latitude": 45.26332415,
       "longitude": -84.93337337,
       "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298100",
+      "photo_urls": []
+    },
+    {
+      "id": "298226",
+      "title": "The Horton Bay General Store",
+      "latitude": 45.2851022,
+      "longitude": -85.07967412,
+      "directions": "On Boyne City Road (County Route C-56) , Horton Bay, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298226",
+      "photo_urls": []
+    },
+    {
+      "id": "298238",
+      "title": "904 Wisconsin Avenue",
+      "latitude": 45.84564617,
+      "longitude": -87.02016341,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298238",
+      "photo_urls": []
+    },
+    {
+      "id": "298239",
+      "title": "1022 Wisconsin Avenue",
+      "latitude": 45.8451237,
+      "longitude": -87.02273695,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298239",
+      "photo_urls": []
+    },
+    {
+      "id": "298240",
+      "title": "1102 Wisconsin Avenue",
+      "latitude": 45.84502784,
+      "longitude": -87.02325168,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298240",
+      "photo_urls": []
+    },
+    {
+      "id": "298241",
+      "title": "903 Wisconsin",
+      "latitude": 45.84544558,
+      "longitude": -87.02014132,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298241",
+      "photo_urls": []
+    },
+    {
+      "id": "298283",
+      "title": "805 Wisconsin",
+      "latitude": 45.84575683,
+      "longitude": -87.01861525,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298283",
+      "photo_urls": []
+    },
+    {
+      "id": "298292",
+      "title": "706 Wisconsin Avenue",
+      "latitude": 45.84623567,
+      "longitude": -87.01726162,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298292",
+      "photo_urls": []
+    },
+    {
+      "id": "298319",
+      "title": "714 Wisconsin",
+      "latitude": 45.84613806,
+      "longitude": -87.01769858,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298319",
+      "photo_urls": []
+    },
+    {
+      "id": "298337",
+      "title": "802 Wisconsin Avenue",
+      "latitude": 45.84593281,
+      "longitude": -87.01873416,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298337",
+      "photo_urls": []
+    },
+    {
+      "id": "298343",
+      "title": "814 Wisconsin",
+      "latitude": 45.84583637,
+      "longitude": -87.01921751,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298343",
+      "photo_urls": []
+    },
+    {
+      "id": "298346",
+      "title": "816 Wisconsin Avenue",
+      "latitude": 45.84583731,
+      "longitude": -87.01922287,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298346",
+      "photo_urls": []
+    },
+    {
+      "id": "298349",
+      "title": "818 Wisconsin Avenue",
+      "latitude": 45.84580871,
+      "longitude": -87.01937089,
+      "directions": "On Wisconsin Avenue, Gladstone, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298349",
+      "photo_urls": []
+    },
+    {
+      "id": "298463",
+      "title": "Big Wheel History",
+      "latitude": 45.55487308,
+      "longitude": -84.7841409,
+      "directions": "On Stimpson Street (U.S. 31) , Pellston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298463",
+      "photo_urls": []
+    },
+    {
+      "id": "298464",
+      "title": "Pellston",
+      "latitude": 45.55469694,
+      "longitude": -84.78410353,
+      "directions": "On Stimpson Street (U.S. 31) , Pellston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298464",
+      "photo_urls": []
+    },
+    {
+      "id": "298477",
+      "title": "The History of Bear River",
+      "latitude": 45.36490481,
+      "longitude": -84.96200605,
+      "directions": "On Sheridan Street, Petoskey, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298477",
+      "photo_urls": []
+    },
+    {
+      "id": "298480",
+      "title": "Hemingway on Walloon",
+      "latitude": 45.26338112,
+      "longitude": -84.93337381,
+      "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298480",
+      "photo_urls": []
+    },
+    {
+      "id": "298486",
+      "title": "Walloon Depot",
+      "latitude": 45.2635686,
+      "longitude": -84.93377755,
+      "directions": "On State Route 75, Walloon Lake, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298486",
+      "photo_urls": []
+    },
+    {
+      "id": "298502",
+      "title": "Walloon By Boat",
+      "latitude": 45.26347768,
+      "longitude": -84.93377745,
+      "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298502",
+      "photo_urls": []
+    },
+    {
+      "id": "298509",
+      "title": "Walloon Hotel",
+      "latitude": 45.26339839,
+      "longitude": -84.93390888,
+      "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298509",
+      "photo_urls": []
+    },
+    {
+      "id": "298511",
+      "title": "Walloon Village",
+      "latitude": 45.26337719,
+      "longitude": -84.93402507,
+      "directions": "On State Route 75, Walloon Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298511",
+      "photo_urls": []
+    },
+    {
+      "id": "298517",
+      "title": "Walloon Lake",
+      "latitude": 45.26342052,
+      "longitude": -84.93338903,
+      "directions": "On State Route 75, Walloon Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298517",
       "photo_urls": []
     },
     {
