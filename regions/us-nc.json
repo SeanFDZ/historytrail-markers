@@ -3,9 +3,9 @@
   "region_name": "North Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-25T06:03:20.877Z",
-  "source_timestamp": "2026-04-25T06:03:20.877Z",
-  "marker_count": 6576,
+  "generated": "2026-05-23T06:03:55.885Z",
+  "source_timestamp": "2026-05-23T06:03:55.885Z",
+  "marker_count": 6611,
   "markers": [
     {
       "id": "100040",
@@ -4969,9 +4969,9 @@
     {
       "id": "17093",
       "title": "Sulphur Springs",
-      "latitude": 35.570745,
-      "longitude": -82.619081,
-      "directions": "On Patton Avenue (U.S. 19) , Asheville, ",
+      "latitude": 35.57108731,
+      "longitude": -82.6191704,
+      "directions": "On Patton Avenue (U.S. 19/23) , Asheville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=17093",
       "photo_urls": []
     },
@@ -44990,12 +44990,111 @@
       "photo_urls": []
     },
     {
+      "id": "298227",
+      "title": "Andre the Giant",
+      "latitude": 35.0892632,
+      "longitude": -79.7625288,
+      "directions": "On State Route 73, Ellerbe, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298227",
+      "photo_urls": []
+    },
+    {
+      "id": "298345",
+      "title": "Town Creek",
+      "latitude": 35.2150155,
+      "longitude": -80.0013351,
+      "directions": "On East Allenton Street (State Route 731) , Mount Gilead, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298345",
+      "photo_urls": []
+    },
+    {
+      "id": "298348",
+      "title": "The Bostick School",
+      "latitude": 35.1265099,
+      "longitude": -79.7726934,
+      "directions": "On Clayton Carriker Road, near Ellerbe, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298348",
+      "photo_urls": []
+    },
+    {
+      "id": "298350",
+      "title": "The Town Creek Indian Mound Prairie Reconstruction",
+      "latitude": 35.1837736,
+      "longitude": -79.9304133,
+      "directions": "Near Town Creek Mound Road, near Mount Gilead, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298350",
+      "photo_urls": []
+    },
+    {
+      "id": "298367",
+      "title": "Pfeiffer University",
+      "latitude": 35.4841409,
+      "longitude": -80.2840601,
+      "directions": "On U.S. 52, Misenheimer, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298367",
+      "photo_urls": []
+    },
+    {
+      "id": "298372",
+      "title": "Gold Hill Mining District",
+      "latitude": 35.52179,
+      "longitude": -80.338116,
+      "directions": "On U.S. 52, Gold Hill, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298372",
+      "photo_urls": []
+    },
+    {
+      "id": "298375",
+      "title": "Gold Hill Mining District",
+      "latitude": 35.5107867,
+      "longitude": -80.3461501,
+      "directions": "On Saint Stephens Church Road, Gold Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298375",
+      "photo_urls": []
+    },
+    {
+      "id": "298380",
+      "title": "Revolutionary War Patriots",
+      "latitude": 35.7605499,
+      "longitude": -80.6843389,
+      "directions": "On Third Creek Church Road, near Cleveland, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298380",
+      "photo_urls": []
+    },
+    {
       "id": "29842",
       "title": "Edward Moseley",
       "latitude": 34.47416667,
       "longitude": -77.88722222,
       "directions": "On U.S. 117, near Rocky Point, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29842",
+      "photo_urls": []
+    },
+    {
+      "id": "298447",
+      "title": "Allen High School",
+      "latitude": 35.59942018,
+      "longitude": -82.54346545,
+      "directions": "On College Place, Asheville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298447",
+      "photo_urls": []
+    },
+    {
+      "id": "298873",
+      "title": "The Village of Gold Hill",
+      "latitude": 35.5109023,
+      "longitude": -80.346177,
+      "directions": "On Saint Stephens Church Road, Gold Hill, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298873",
+      "photo_urls": []
+    },
+    {
+      "id": "298876",
+      "title": "Gold Hill Jail & English Dry-Stack Rock Wall",
+      "latitude": 35.5114354,
+      "longitude": -80.3454737,
+      "directions": "On Saint Stephens Church Road, Gold Hill, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298876",
       "photo_urls": []
     },
     {
@@ -45008,6 +45107,51 @@
       "photo_urls": []
     },
     {
+      "id": "298981",
+      "title": "Gold Hill, North Carolina Est. 1843",
+      "latitude": 35.51184031,
+      "longitude": -80.34535125,
+      "directions": "On Saint Stephens Church Road, Gold Hill, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298981",
+      "photo_urls": []
+    },
+    {
+      "id": "298996",
+      "title": "Randolph Shaft",
+      "latitude": 35.5125211,
+      "longitude": -80.3454624,
+      "directions": "Near Saint Stephens Church Road, Gold Hill, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298996",
+      "photo_urls": []
+    },
+    {
+      "id": "299201",
+      "title": "Russell-Rufty Shelter",
+      "latitude": 35.5115312,
+      "longitude": -80.3445927,
+      "directions": "Near Saint Stephens Church Road, Gold Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299201",
+      "photo_urls": []
+    },
+    {
+      "id": "299202",
+      "title": "The 19th Century View from the Miller Shaft",
+      "latitude": 35.5112264,
+      "longitude": -80.3448396,
+      "directions": "Near Saint Stephens Church Road, Gold Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299202",
+      "photo_urls": []
+    },
+    {
+      "id": "299203",
+      "title": "Chilean Ore Mill",
+      "latitude": 35.5109852,
+      "longitude": -80.3450436,
+      "directions": "Near Saint Stephens Church Road, Gold Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299203",
+      "photo_urls": []
+    },
+    {
       "id": "29946",
       "title": "Samuel Ashe",
       "latitude": 34.47833333,
@@ -45017,12 +45161,57 @@
       "photo_urls": []
     },
     {
+      "id": "299469",
+      "title": "Davidson College",
+      "latitude": 35.500853,
+      "longitude": -80.847632,
+      "directions": "On North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299469",
+      "photo_urls": []
+    },
+    {
       "id": "29947",
       "title": "William S. Ashe",
       "latitude": 34.4785,
       "longitude": -77.88888889,
       "directions": "On U.S. 117, near Ashton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29947",
+      "photo_urls": []
+    },
+    {
+      "id": "299470",
+      "title": "Davidson College",
+      "latitude": 35.50062,
+      "longitude": -80.847848,
+      "directions": "On North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299470",
+      "photo_urls": []
+    },
+    {
+      "id": "299473",
+      "title": "With These Hands: A Memorial to the Enslaved and Exploited, 2025",
+      "latitude": 35.50112885,
+      "longitude": -80.84746022,
+      "directions": "On North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299473",
+      "photo_urls": []
+    },
+    {
+      "id": "299477",
+      "title": "With These Hands: A Memorial to the Enslaved and Exploited, 2025",
+      "latitude": 35.5011048,
+      "longitude": -80.8470862,
+      "directions": "Near North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299477",
+      "photo_urls": []
+    },
+    {
+      "id": "299478",
+      "title": "Original Chapel of Davidson College",
+      "latitude": 35.5011853,
+      "longitude": -80.84697861,
+      "directions": "Near North Main Street (U.S. 115) , Davidson, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299478",
       "photo_urls": []
     },
     {
@@ -45044,12 +45233,75 @@
       "photo_urls": []
     },
     {
+      "id": "299545",
+      "title": "With These Hands: A Memorial to the Enslaved and Exploited, 2025",
+      "latitude": 35.50078583,
+      "longitude": -80.84703651,
+      "directions": "Near North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299545",
+      "photo_urls": []
+    },
+    {
+      "id": "299594",
+      "title": "Judge Hiram H. Ward",
+      "latitude": 35.63419406,
+      "longitude": -80.11374726,
+      "directions": "Near North Main Street (State Route 2414) , Denton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299594",
+      "photo_urls": []
+    },
+    {
+      "id": "299616",
+      "title": "America’s Favorite Drive",
+      "latitude": 35.56573611,
+      "longitude": -82.48650278,
+      "directions": "Near Hemphill Knob Road, near Asheville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299616",
+      "photo_urls": []
+    },
+    {
       "id": "29963",
       "title": "Lt. Robert Maynard",
       "latitude": 35.116,
       "longitude": -75.98532,
       "directions": "On Irvin Garrish Highway (State Route 12) , near Ocracoke, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29963",
+      "photo_urls": []
+    },
+    {
+      "id": "299632",
+      "title": "Gold Hill Methodist Church Bell",
+      "latitude": 35.51096325,
+      "longitude": -80.34625446,
+      "directions": "On Saint Stephens Church Road, Gold Hill, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299632",
+      "photo_urls": []
+    },
+    {
+      "id": "299634",
+      "title": "The Barnhardt Shaft",
+      "latitude": 35.5103474,
+      "longitude": -80.3457936,
+      "directions": "Near Saint Stephens Church Road, Gold Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299634",
+      "photo_urls": []
+    },
+    {
+      "id": "299657",
+      "title": "Aquascogoc",
+      "latitude": 35.54685556,
+      "longitude": -76.63112778,
+      "directions": "On Main Street, Belhaven, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299657",
+      "photo_urls": []
+    },
+    {
+      "id": "299661",
+      "title": "Belhaven is the Town that the Lumber Industry and the Railroad Built",
+      "latitude": 35.54039444,
+      "longitude": -76.62356389,
+      "directions": "On Main Street (Route Business 265) , Belhaven, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299661",
       "photo_urls": []
     },
     {
@@ -45062,12 +45314,75 @@
       "photo_urls": []
     },
     {
+      "id": "299791",
+      "title": "Spiral Odyssey",
+      "latitude": 35.2264022,
+      "longitude": -80.8477149,
+      "directions": "On West Martin Luther King JR Boulevard, Charlotte, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299791",
+      "photo_urls": []
+    },
+    {
+      "id": "299794",
+      "title": "Romare Bearden",
+      "latitude": 35.226626,
+      "longitude": -80.8466566,
+      "directions": "On South Church Street, Charlotte, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299794",
+      "photo_urls": []
+    },
+    {
+      "id": "299928",
+      "title": "The Octagon House",
+      "latitude": 35.48492783,
+      "longitude": -76.05219902,
+      "directions": "On U.S. 264, near Engelhard, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299928",
+      "photo_urls": []
+    },
+    {
+      "id": "299930",
+      "title": "Octagon House",
+      "latitude": 35.48501667,
+      "longitude": -76.05219167,
+      "directions": "On U.S. 264, near Engelhard, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299930",
+      "photo_urls": []
+    },
+    {
       "id": "29995",
       "title": "Pioneer Plant",
       "latitude": 36.087479,
       "longitude": -79.415208,
       "directions": "On Graham Street, Burlington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29995",
+      "photo_urls": []
+    },
+    {
+      "id": "300214",
+      "title": "Farming Davidson River Valley",
+      "latitude": 35.28722222,
+      "longitude": -82.73798333,
+      "directions": "On Pisgah Highway (U.S. 276) , near Brevard, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300214",
+      "photo_urls": []
+    },
+    {
+      "id": "300225",
+      "title": "A Snapshot in Time / Byway Hightlights",
+      "latitude": 35.27563889,
+      "longitude": -82.71086111,
+      "directions": "On Pisgah Highway (U.S. 276) , Brevard, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300225",
+      "photo_urls": []
+    },
+    {
+      "id": "300233",
+      "title": "Big Kill Devil Hill",
+      "latitude": 36.01230278,
+      "longitude": -75.66758611,
+      "directions": "On Wright Memorial Drive, Kill Devil Hills, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300233",
       "photo_urls": []
     },
     {
