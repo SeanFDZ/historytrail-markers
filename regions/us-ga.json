@@ -3,9 +3,9 @@
   "region_name": "Georgia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-25T06:03:20.685Z",
-  "source_timestamp": "2026-04-25T06:03:20.685Z",
-  "marker_count": 7578,
+  "generated": "2026-05-23T06:03:55.687Z",
+  "source_timestamp": "2026-05-23T06:03:55.687Z",
+  "marker_count": 7590,
   "markers": [
     {
       "id": "10000",
@@ -19009,9 +19009,9 @@
     {
       "id": "17162",
       "title": "Stevenson's Line",
-      "latitude": 34.83388889,
-      "longitude": -84.99111111,
-      "directions": "On Poplar Springs Road NW, Dalton, (On the right when traveling east)",
+      "latitude": 34.83411,
+      "longitude": -84.99508,
+      "directions": "On Crow Valley Road NW, Dalton, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=17162",
       "photo_urls": []
     },
@@ -46268,6 +46268,24 @@
       "photo_urls": []
     },
     {
+      "id": "297824",
+      "title": "The Hedgerows Trail",
+      "latitude": 33.81028909,
+      "longitude": -84.48559401,
+      "directions": "Near Wales Avenue Northwest, Atlanta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297824",
+      "photo_urls": []
+    },
+    {
+      "id": "297826",
+      "title": "The Carpenter Shop",
+      "latitude": 33.81037021,
+      "longitude": -84.48525326,
+      "directions": "On Wales Avenue Northwest, Atlanta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297826",
+      "photo_urls": []
+    },
+    {
       "id": "297858",
       "title": "Hot Corner",
       "latitude": 33.95888856,
@@ -46304,6 +46322,15 @@
       "photo_urls": []
     },
     {
+      "id": "298125",
+      "title": "18th Ohio Infantry",
+      "latitude": 34.916815,
+      "longitude": -85.264232,
+      "directions": "Near LaFayette Road, near Fort Oglethorpe, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298125",
+      "photo_urls": []
+    },
+    {
       "id": "29816",
       "title": "Confederate Cemetery",
       "latitude": 33.946933,
@@ -46319,6 +46346,78 @@
       "longitude": -84.41276,
       "directions": "On Howell Mill Road, Atlanta, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29827",
+      "photo_urls": []
+    },
+    {
+      "id": "298414",
+      "title": "Smith's Mississippi Battery.",
+      "latitude": 34.91799,
+      "longitude": -85.24044,
+      "directions": "Near Alexanders Bridge Road, near Fort Oglethorpe, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298414",
+      "photo_urls": []
+    },
+    {
+      "id": "298421",
+      "title": "God's Acre",
+      "latitude": 33.74584877,
+      "longitude": -84.444509,
+      "directions": "Near Ralph David Abernathy Boulevard Southwest (State Route 139) , Atlanta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298421",
+      "photo_urls": []
+    },
+    {
+      "id": "298422",
+      "title": "Office James 'Chris' Magill Memorial Bridge",
+      "latitude": 33.91133717,
+      "longitude": -84.20724625,
+      "directions": "On Jimmy Carter Boulevard, Norcross, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298422",
+      "photo_urls": []
+    },
+    {
+      "id": "298424",
+      "title": "Princeton Methodist Church",
+      "latitude": 33.92124878,
+      "longitude": -83.39012049,
+      "directions": "Near South Lumpkin Street, Athens, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298424",
+      "photo_urls": []
+    },
+    {
+      "id": "298425",
+      "title": "First African Methodist Episcopal Church",
+      "latitude": 33.96087475,
+      "longitude": -83.37941296,
+      "directions": "On North Hull Street, Athens, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298425",
+      "photo_urls": []
+    },
+    {
+      "id": "298430",
+      "title": "William Clinton Family",
+      "latitude": 33.7073004,
+      "longitude": -84.86293591,
+      "directions": "Near Streetman Road, Villa Rica, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298430",
+      "photo_urls": []
+    },
+    {
+      "id": "298431",
+      "title": "In Memory of Our Comrades",
+      "latitude": 33.74634314,
+      "longitude": -84.44412956,
+      "directions": "Near Ralph David Abernathy Boulevard Southwest (State Route 139) , Atlanta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298431",
+      "photo_urls": []
+    },
+    {
+      "id": "298432",
+      "title": "Westview Receiving Vault",
+      "latitude": 33.74711586,
+      "longitude": -84.44596813,
+      "directions": "Near Ralph David Abernathy Blvd SW, Atlanta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298432",
       "photo_urls": []
     },
     {
@@ -46355,6 +46454,15 @@
       "longitude": -84.46456,
       "directions": "On Paces Mill Road, Vinings, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29944",
+      "photo_urls": []
+    },
+    {
+      "id": "299475",
+      "title": "Toccoa Falls College Apple Orchard Memorial",
+      "latitude": 34.59206,
+      "longitude": -83.35217,
+      "directions": "On Guy Wilson Drive, Toccoa, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299475",
       "photo_urls": []
     },
     {
@@ -56406,7 +56514,7 @@
       "title": "William Bartram Trail",
       "latitude": 32.76416667,
       "longitude": -83.83944444,
-      "directions": "On Carl Sutton Road, near Sandy Point, (On the right when traveling north)",
+      "directions": "On Marshall Mill Road, near Sandy Point, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=59559",
       "photo_urls": []
     },
