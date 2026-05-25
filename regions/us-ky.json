@@ -3,9 +3,9 @@
   "region_name": "Kentucky",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-27T06:03:43.229Z",
-  "source_timestamp": "2026-04-27T06:03:43.229Z",
-  "marker_count": 4461,
+  "generated": "2026-05-25T06:03:41.032Z",
+  "source_timestamp": "2026-05-25T06:03:41.032Z",
+  "marker_count": 4463,
   "markers": [
     {
       "id": "100711",
@@ -29570,6 +29570,24 @@
       "longitude": -82.7064622,
       "directions": "On State Route 317, Jackhorn, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297161",
+      "photo_urls": []
+    },
+    {
+      "id": "299144",
+      "title": "County Named, 1780",
+      "latitude": 37.52956259,
+      "longitude": -84.66115415,
+      "directions": "On Main Street (U.S. Business 150) , Stanford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299144",
+      "photo_urls": []
+    },
+    {
+      "id": "299169",
+      "title": "Abner Gaines House",
+      "latitude": 38.88361111,
+      "longitude": -84.60777778,
+      "directions": "On Old Nicholson Road, near Walton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299169",
       "photo_urls": []
     },
     {
