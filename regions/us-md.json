@@ -3,9 +3,9 @@
   "region_name": "Maryland",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-27T06:03:43.279Z",
-  "source_timestamp": "2026-04-27T06:03:43.279Z",
-  "marker_count": 8293,
+  "generated": "2026-05-25T06:03:41.088Z",
+  "source_timestamp": "2026-05-25T06:03:41.088Z",
+  "marker_count": 8326,
   "markers": [
     {
       "id": "100",
@@ -25041,7 +25041,7 @@
       "title": "Prosperity and Power",
       "latitude": 39.581996,
       "longitude": -77.434347,
-      "directions": "Near Catoctin Furnace Road (State Route 806) , near Thurmont, ",
+      "directions": "Near Catoctin Furnace Road (State Route 806) , near Thurmont, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=184255",
       "photo_urls": []
     },
@@ -30456,7 +30456,7 @@
     },
     {
       "id": "197402",
-      "title": "12 N Church Street",
+      "title": "12 North Church Street",
       "latitude": 39.56863564,
       "longitude": -76.98806485,
       "directions": "On North Church Street, Westminster, (On the left when traveling east)",
@@ -44364,7 +44364,7 @@
       "title": "Walk Through History",
       "latitude": 39.58571944,
       "longitude": -77.43586389,
-      "directions": "On Cunningham Falls Park Road, Thurmont, ",
+      "directions": "On Cunningham Falls Park Road, near Thurmont, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260222",
       "photo_urls": []
     },
@@ -44418,7 +44418,7 @@
       "title": "A Fractured Landscape",
       "latitude": 39.58430278,
       "longitude": -77.43554722,
-      "directions": "Near Catoctin Mountain Highway, Thurmont, ",
+      "directions": "Near Catoctin Mountain Highway, Thurmont, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260381",
       "photo_urls": []
     },
@@ -44463,7 +44463,7 @@
       "title": "Recreation For All",
       "latitude": 39.58425278,
       "longitude": -77.43452778,
-      "directions": "Near Catoctin Mountain Highway, Thurmont, ",
+      "directions": "Near Catoctin Furnace Road, Thurmont, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260625",
       "photo_urls": []
     },
@@ -44472,7 +44472,7 @@
       "title": "A Creek Rediscovered",
       "latitude": 39.58462778,
       "longitude": -77.4361,
-      "directions": "Near Catoctin Mountain Highway, Thurmont, ",
+      "directions": "Near Catoctin Mountain Highway, Thurmont, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260711",
       "photo_urls": []
     },
@@ -44490,7 +44490,7 @@
       "title": "The Ingredients For Iron",
       "latitude": 39.58519722,
       "longitude": -77.43621944,
-      "directions": "Near Cunningham Falls Park Road, Thurmont, ",
+      "directions": "Near Cunningham Falls Park Road, Thurmont, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260841",
       "photo_urls": []
     },
@@ -50068,8 +50068,8 @@
     {
       "id": "2927",
       "title": "Birthplace of Johns Hopkins",
-      "latitude": 39.024118,
-      "longitude": -76.674361,
+      "latitude": 39.02379198,
+      "longitude": -76.67435062,
       "directions": "On Reidel Road, Crofton, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2927",
       "photo_urls": []
@@ -52127,6 +52127,15 @@
       "photo_urls": []
     },
     {
+      "id": "298407",
+      "title": "Remembering Ancestors: The Middle Passage in Oxford, Maryland",
+      "latitude": 38.69277778,
+      "longitude": -76.17055556,
+      "directions": "On Mill Street, Oxford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298407",
+      "photo_urls": []
+    },
+    {
       "id": "2987",
       "title": "Spring Garden",
       "latitude": 39.60746667,
@@ -52145,12 +52154,66 @@
       "photo_urls": []
     },
     {
+      "id": "298882",
+      "title": "Improving Beachwood Park on the Magothy River",
+      "latitude": 39.10700657,
+      "longitude": -76.53199391,
+      "directions": "On Beachwood Park Road, Pasadena, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298882",
+      "photo_urls": []
+    },
+    {
+      "id": "298883",
+      "title": "Beechwood Park",
+      "latitude": 39.10710556,
+      "longitude": -76.53248611,
+      "directions": "Near Beachwood Park Road, Pasadena, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298883",
+      "photo_urls": []
+    },
+    {
+      "id": "298884",
+      "title": "Homewood’s Lot",
+      "latitude": 39.02384372,
+      "longitude": -76.43064098,
+      "directions": "On Whitehall Road, Annapolis, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298884",
+      "photo_urls": []
+    },
+    {
       "id": "2991",
       "title": "Union Mills",
       "latitude": 39.66621667,
       "longitude": -77.0168,
       "directions": "On Littlestown Pike (State Route 97) , Union Mills, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2991",
+      "photo_urls": []
+    },
+    {
+      "id": "299150",
+      "title": "The Blue Jay Motel",
+      "latitude": 38.64414976,
+      "longitude": -76.89447731,
+      "directions": "Near U.S. 301, Waldorf, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299150",
+      "photo_urls": []
+    },
+    {
+      "id": "299237",
+      "title": "Transformation of the Avery House and over a Century of Expansion",
+      "latitude": 38.84931667,
+      "longitude": -76.51196389,
+      "directions": "On East West Shady Side Road, Shady Side, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299237",
+      "photo_urls": []
+    },
+    {
+      "id": "299280",
+      "title": "Ellsworth Cemetery",
+      "latitude": 39.56141389,
+      "longitude": -76.96613889,
+      "directions": "On Brown Private Road, Westminster, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299280",
       "photo_urls": []
     },
     {
@@ -52196,6 +52259,240 @@
       "longitude": -77.25218333,
       "directions": "On Keysville Bruceville Road, near Keymar, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2998",
+      "photo_urls": []
+    },
+    {
+      "id": "299824",
+      "title": "Rosaryville State Park",
+      "latitude": 38.78234444,
+      "longitude": -76.80486389,
+      "directions": "Near West Marlton Avenue, Rosaryville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299824",
+      "photo_urls": []
+    },
+    {
+      "id": "299825",
+      "title": "Frederick Lee Eskew",
+      "latitude": 38.78201944,
+      "longitude": -76.80474722,
+      "directions": "Near West Marlton Avenue, Rosaryville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299825",
+      "photo_urls": []
+    },
+    {
+      "id": "299826",
+      "title": "Veterans Memorial Display",
+      "latitude": 38.73366667,
+      "longitude": -76.83104722,
+      "directions": "Near Crain Highway (Route 301) , Rosaryville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299826",
+      "photo_urls": []
+    },
+    {
+      "id": "299827",
+      "title": "Purple Heart Memorial",
+      "latitude": 38.73337222,
+      "longitude": -76.83101667,
+      "directions": "Near Crain Highway (U.S. 301) , Rosaryville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299827",
+      "photo_urls": []
+    },
+    {
+      "id": "299828",
+      "title": "Louis Sheir Memorial",
+      "latitude": 38.733525,
+      "longitude": -76.83079444,
+      "directions": "On Crain Highway (U.S. 301) , Rosaryville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299828",
+      "photo_urls": []
+    },
+    {
+      "id": "299829",
+      "title": "House of Reformation",
+      "latitude": 38.73556111,
+      "longitude": -76.82618056,
+      "directions": "On Frank Tippett Road, Rosaryville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299829",
+      "photo_urls": []
+    },
+    {
+      "id": "299936",
+      "title": "Macaws",
+      "latitude": 39.59100833,
+      "longitude": -77.43177778,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299936",
+      "photo_urls": []
+    },
+    {
+      "id": "299939",
+      "title": "Ruffed Lemur",
+      "latitude": 39.59059444,
+      "longitude": -77.43166389,
+      "directions": "Near Catoctin Furnace Road, Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299939",
+      "photo_urls": []
+    },
+    {
+      "id": "299940",
+      "title": "Australian Wetland Birds",
+      "latitude": 39.59056389,
+      "longitude": -77.43138889,
+      "directions": "Near Catoctin Furnace Road, Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299940",
+      "photo_urls": []
+    },
+    {
+      "id": "299941",
+      "title": "Dingo",
+      "latitude": 39.590375,
+      "longitude": -77.43150278,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299941",
+      "photo_urls": []
+    },
+    {
+      "id": "299943",
+      "title": "Lucky Bird's Aviary",
+      "latitude": 39.59053889,
+      "longitude": -77.43105278,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299943",
+      "photo_urls": []
+    },
+    {
+      "id": "299946",
+      "title": "Sacred Ibis",
+      "latitude": 39.59069722,
+      "longitude": -77.43066389,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299946",
+      "photo_urls": []
+    },
+    {
+      "id": "299947",
+      "title": "Koi",
+      "latitude": 39.59149444,
+      "longitude": -77.42926111,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299947",
+      "photo_urls": []
+    },
+    {
+      "id": "299948",
+      "title": "Jaguar",
+      "latitude": 39.59111667,
+      "longitude": -77.42935278,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299948",
+      "photo_urls": []
+    },
+    {
+      "id": "299949",
+      "title": "Collared Peccary",
+      "latitude": 39.58982222,
+      "longitude": -77.42875556,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299949",
+      "photo_urls": []
+    },
+    {
+      "id": "299954",
+      "title": "American Alligator",
+      "latitude": 39.59007222,
+      "longitude": -77.42838333,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299954",
+      "photo_urls": []
+    },
+    {
+      "id": "299957",
+      "title": "The North American Bison",
+      "latitude": 39.59055278,
+      "longitude": -77.42820833,
+      "directions": "Near Catoctin Furnace Road, Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299957",
+      "photo_urls": []
+    },
+    {
+      "id": "299959",
+      "title": "Nigerian Dwarf and African Pygmy Goats",
+      "latitude": 39.59092778,
+      "longitude": -77.42800278,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299959",
+      "photo_urls": []
+    },
+    {
+      "id": "299960",
+      "title": "Sun Bear",
+      "latitude": 39.59129444,
+      "longitude": -77.43065556,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299960",
+      "photo_urls": []
+    },
+    {
+      "id": "299961",
+      "title": "Snakes in Religion",
+      "latitude": 39.59162222,
+      "longitude": -77.43173333,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299961",
+      "photo_urls": []
+    },
+    {
+      "id": "299963",
+      "title": "Fang Lore",
+      "latitude": 39.59164722,
+      "longitude": -77.43148889,
+      "directions": "Near Catoctin Furnace Road, near Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299963",
+      "photo_urls": []
+    },
+    {
+      "id": "299964",
+      "title": "Veterans Memorial",
+      "latitude": 39.62178056,
+      "longitude": -77.41078056,
+      "directions": "On Park Lane, Thurmont, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299964",
+      "photo_urls": []
+    },
+    {
+      "id": "299965",
+      "title": "A Walk Along the Trolley Trail",
+      "latitude": 39.62258611,
+      "longitude": -77.40862222,
+      "directions": "On Thurmont Trolley Trail, Thurmont, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299965",
+      "photo_urls": []
+    },
+    {
+      "id": "299993",
+      "title": "Welcome to The Thurmont Trolley Trail!",
+      "latitude": 39.62258056,
+      "longitude": -77.40863056,
+      "directions": "On Thurmont Trolley Trail, Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299993",
+      "photo_urls": []
+    },
+    {
+      "id": "299995",
+      "title": "History of the Trolley Trail",
+      "latitude": 39.62257778,
+      "longitude": -77.40863056,
+      "directions": "On Thurmont Trolley Trail, Thurmont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299995",
+      "photo_urls": []
+    },
+    {
+      "id": "299996",
+      "title": "Roads to Gettysburg",
+      "latitude": 39.6455,
+      "longitude": -77.39076111,
+      "directions": "On Roddy Road, near Thurmont, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299996",
       "photo_urls": []
     },
     {
