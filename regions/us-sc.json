@@ -3,9 +3,9 @@
   "region_name": "South Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-27T06:03:43.375Z",
-  "source_timestamp": "2026-04-27T06:03:43.375Z",
-  "marker_count": 5189,
+  "generated": "2026-05-25T06:03:41.183Z",
+  "source_timestamp": "2026-05-25T06:03:41.183Z",
+  "marker_count": 5199,
   "markers": [
     {
       "id": "10001",
@@ -1287,7 +1287,7 @@
     },
     {
       "id": "103911",
-      "title": "Church Street/Main Street",
+      "title": "Church Street / Main Street",
       "latitude": 33.871716,
       "longitude": -79.7528,
       "directions": "On North Church Street (U.S. Business 378) , Lake City, (On the right when traveling south)",
@@ -17091,7 +17091,7 @@
     },
     {
       "id": "22503",
-      "title": "Colonial Dorchester",
+      "title": "Welcome to Colonial Dorchester State Historic Site",
       "latitude": 32.948209,
       "longitude": -80.169377,
       "directions": "On State Park Road, Summerville, ",
@@ -17154,7 +17154,7 @@
     },
     {
       "id": "22554",
-      "title": "Colonial Dorchester",
+      "title": "Networks of Trade",
       "latitude": 32.946877,
       "longitude": -80.169666,
       "directions": "Near State Park Road, Summerville, ",
@@ -17163,7 +17163,7 @@
     },
     {
       "id": "22555",
-      "title": "Colonial Dorchester",
+      "title": "Clues of Wealth",
       "latitude": 32.947836,
       "longitude": -80.170605,
       "directions": "On State Park Road, Summerville, ",
@@ -17280,7 +17280,7 @@
     },
     {
       "id": "22659",
-      "title": "Dorchester Free School",
+      "title": "A Chance to Learn",
       "latitude": 32.948598,
       "longitude": -80.171155,
       "directions": "On State Park Road, Summerville, ",
@@ -17388,7 +17388,7 @@
     },
     {
       "id": "22689",
-      "title": "Colonial Dorchester",
+      "title": "To Market, To Market",
       "latitude": 32.948056,
       "longitude": -80.169994,
       "directions": "On State Park Road, Summerville, (On the right when traveling west)",
@@ -25209,7 +25209,7 @@
     },
     {
       "id": "27475",
-      "title": "Hibernian Hall",
+      "title": "Hibernian Society",
       "latitude": 32.7774,
       "longitude": -79.9313,
       "directions": "On Meeting Street, Charleston, (On the left when traveling north)",
@@ -30455,6 +30455,15 @@
       "photo_urls": []
     },
     {
+      "id": "298234",
+      "title": "Construction of Stonework",
+      "latitude": 34.77206667,
+      "longitude": -80.87799722,
+      "directions": "Near Canal Road (County Route 330) , Catawba, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298234",
+      "photo_urls": []
+    },
+    {
       "id": "29834",
       "title": "Central",
       "latitude": 34.72388889,
@@ -30527,6 +30536,24 @@
       "photo_urls": []
     },
     {
+      "id": "299493",
+      "title": "A Story to Tell",
+      "latitude": 33.83041944,
+      "longitude": -80.82305278,
+      "directions": "Near National Park Road, near Hopkins, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299493",
+      "photo_urls": []
+    },
+    {
+      "id": "299502",
+      "title": "The Van Wyck Train Passenger Wait Station/Depot",
+      "latitude": 34.85604444,
+      "longitude": -80.83939444,
+      "directions": "On Old Hickory Road, Van Wyck, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299502",
+      "photo_urls": []
+    },
+    {
       "id": "29958",
       "title": "The First Shot of the War of Secession",
       "latitude": 32.751615,
@@ -30542,6 +30569,33 @@
       "longitude": -81.726168,
       "directions": "On Highland Park Drive, Aiken, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29974",
+      "photo_urls": []
+    },
+    {
+      "id": "300063",
+      "title": "Crossing the Congaree",
+      "latitude": 33.78315278,
+      "longitude": -80.63789444,
+      "directions": "Near U.S. 601, near Wateree, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300063",
+      "photo_urls": []
+    },
+    {
+      "id": "300064",
+      "title": "What Happened to the Ferries?",
+      "latitude": 33.78316944,
+      "longitude": -80.63788611,
+      "directions": "Near U.S. 601, near Wateree, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300064",
+      "photo_urls": []
+    },
+    {
+      "id": "300071",
+      "title": "Pine Grove A.M.E. Church",
+      "latitude": 34.20895833,
+      "longitude": -81.32264722,
+      "directions": "On Broad River Road (U.S. 176) , near Peak, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300071",
       "photo_urls": []
     },
     {
@@ -30572,6 +30626,24 @@
       "photo_urls": []
     },
     {
+      "id": "300165",
+      "title": "St. Michael Lutheran Church",
+      "latitude": 34.07317778,
+      "longitude": -81.24061667,
+      "directions": "On River Road (State Route 32-38) , near Yacht Cove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300165",
+      "photo_urls": []
+    },
+    {
+      "id": "300167",
+      "title": "Harold Boulware House",
+      "latitude": 34.08672222,
+      "longitude": -81.14606389,
+      "directions": "On Lake Murray Boulevard (State Route 60) , Irmo, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300167",
+      "photo_urls": []
+    },
+    {
       "id": "30018",
       "title": "Captain William Henry Mouzon",
       "latitude": 33.732995,
@@ -30587,6 +30659,24 @@
       "longitude": -79.926779,
       "directions": "On Vendue Range Street, Charleston, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30019",
+      "photo_urls": []
+    },
+    {
+      "id": "300210",
+      "title": "Red Hill School",
+      "latitude": 34.42478056,
+      "longitude": -80.73859444,
+      "directions": "On Running Fox Road (State Route 26-696) , Red Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300210",
+      "photo_urls": []
+    },
+    {
+      "id": "300399",
+      "title": "Sweat Equity",
+      "latitude": 35.08525,
+      "longitude": -82.61239722,
+      "directions": "Near Persimmon Ridge Road, near Cleveland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300399",
       "photo_urls": []
     },
     {
@@ -41949,7 +42039,7 @@
     },
     {
       "id": "6195",
-      "title": "General Robert E. Lee",
+      "title": "General Robert E. Lee / Fighting Near Coosawhatchie",
       "latitude": 32.63125,
       "longitude": -80.87761667,
       "directions": "On Frontage road, Yemassee, (On the right when traveling east)",
@@ -42177,7 +42267,7 @@
       "title": "Purrysburg Township",
       "latitude": 32.305736,
       "longitude": -81.120144,
-      "directions": "On Purrysburg Rd (State Route S-27-34) , Hardeeville, (On the right when traveling south)",
+      "directions": "On Purrysburg Road (State Route S-27-34) , Hardeeville, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6353",
       "photo_urls": []
     },
