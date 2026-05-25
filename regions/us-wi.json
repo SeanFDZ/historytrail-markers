@@ -3,9 +3,9 @@
   "region_name": "Wisconsin",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-27T06:03:43.438Z",
-  "source_timestamp": "2026-04-27T06:03:43.438Z",
-  "marker_count": 3501,
+  "generated": "2026-05-25T06:03:41.241Z",
+  "source_timestamp": "2026-05-25T06:03:41.241Z",
+  "marker_count": 3512,
   "markers": [
     {
       "id": "10026",
@@ -12626,6 +12626,15 @@
       "photo_urls": []
     },
     {
+      "id": "297464",
+      "title": "Carlos J. Martin Memorial Native American Interpretive Site",
+      "latitude": 43.026528,
+      "longitude": -89.332556,
+      "directions": "Near the William G. Lunney Lake Farm County Park road, Madison, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297464",
+      "photo_urls": []
+    },
+    {
       "id": "297500",
       "title": "Old Tigerton Village Hall",
       "latitude": 44.74034823,
@@ -12695,6 +12704,96 @@
       "longitude": -89.521312,
       "directions": "Near Maple Drive, Plover, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29837",
+      "photo_urls": []
+    },
+    {
+      "id": "298440",
+      "title": "From Glacier to Refuge",
+      "latitude": 43.62818359,
+      "longitude": -88.67356251,
+      "directions": "On Redhead Trail, near Waupun, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298440",
+      "photo_urls": []
+    },
+    {
+      "id": "298443",
+      "title": "401 Watson Street",
+      "latitude": 43.84279891,
+      "longitude": -88.83868248,
+      "directions": "On Watson Street, Ripon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298443",
+      "photo_urls": []
+    },
+    {
+      "id": "298451",
+      "title": "Grand View Hotel",
+      "latitude": 43.84640391,
+      "longitude": -88.83870894,
+      "directions": "On Jackson Street (State Route 23) , Ripon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298451",
+      "photo_urls": []
+    },
+    {
+      "id": "298454",
+      "title": "Rotary Square",
+      "latitude": 43.84575234,
+      "longitude": -88.83896255,
+      "directions": "On Watson Street, Ripon, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298454",
+      "photo_urls": []
+    },
+    {
+      "id": "298459",
+      "title": "The Long Way Home",
+      "latitude": 43.84463604,
+      "longitude": -88.8389853,
+      "directions": "On Watson Street, Ripon, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298459",
+      "photo_urls": []
+    },
+    {
+      "id": "298461",
+      "title": "300 Watson Street",
+      "latitude": 43.84414255,
+      "longitude": -88.8389423,
+      "directions": "On Watson Street, Ripon, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298461",
+      "photo_urls": []
+    },
+    {
+      "id": "298462",
+      "title": "126 E. Jackson Street",
+      "latitude": 43.84643115,
+      "longitude": -88.83692424,
+      "directions": "On Blackburn Street, Ripon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298462",
+      "photo_urls": []
+    },
+    {
+      "id": "299251",
+      "title": "Oak Grove Cemetery",
+      "latitude": 43.81886918,
+      "longitude": -91.23434445,
+      "directions": "Near La Crosse Street, La Crosse, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299251",
+      "photo_urls": []
+    },
+    {
+      "id": "299301",
+      "title": "Serving to The \"Glory of God\"",
+      "latitude": 44.50615078,
+      "longitude": -89.12637036,
+      "directions": "On East Iola Street, Iola, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299301",
+      "photo_urls": []
+    },
+    {
+      "id": "299623",
+      "title": "Lake Farm Archaeological District",
+      "latitude": 43.026222,
+      "longitude": -89.330972,
+      "directions": "Near Libby Road, Madison, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299623",
       "photo_urls": []
     },
     {
