@@ -3,9 +3,9 @@
   "region_name": "Alabama",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-28T06:02:59.738Z",
-  "source_timestamp": "2026-04-28T06:02:59.738Z",
-  "marker_count": 4491,
+  "generated": "2026-05-26T06:03:27.210Z",
+  "source_timestamp": "2026-05-26T06:03:27.210Z",
+  "marker_count": 4506,
   "markers": [
     {
       "id": "100028",
@@ -8118,7 +8118,7 @@
     },
     {
       "id": "168098",
-      "title": "Pike County's John Lewis: National Civil Rights Icon",
+      "title": "Pike County's John Lewis / Courageous John Lewis",
       "latitude": 31.80891667,
       "longitude": -85.96569722,
       "directions": "On Walnut Street, Troy, ",
@@ -23502,7 +23502,7 @@
       "title": "Greater Mallard's Chapel A.M.E. Church Cemetery",
       "latitude": 32.45788611,
       "longitude": -86.77695556,
-      "directions": "On County Route 9 S, near Autauguaville, (On the left when traveling north)",
+      "directions": "On County Route 9 S, near Autaugaville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294227",
       "photo_urls": []
     },
@@ -24164,6 +24164,15 @@
       "photo_urls": []
     },
     {
+      "id": "299165",
+      "title": "Hugh S. Branyon Backcountry Trail System",
+      "latitude": 30.280547,
+      "longitude": -87.581158,
+      "directions": "On Orange Beach Boulevard (State Route 161) , Orange Beach, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299165",
+      "photo_urls": []
+    },
+    {
       "id": "29919",
       "title": "Beauregard's Headquarters",
       "latitude": 33.80679,
@@ -24197,6 +24206,87 @@
       "longitude": -85.762348,
       "directions": "On Pelham Road (State Route 21) , Jacksonville, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29922",
+      "photo_urls": []
+    },
+    {
+      "id": "299416",
+      "title": "Original Site of the University of Alabama in Huntsville (UAH)",
+      "latitude": 34.72068078,
+      "longitude": -86.60740861,
+      "directions": "On Clinton Avenue West, Huntsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299416",
+      "photo_urls": []
+    },
+    {
+      "id": "299418",
+      "title": "Lowe Mill / General Shoe Company Lowe Mill Arts and Entertainment",
+      "latitude": 34.71571503,
+      "longitude": -86.5980559,
+      "directions": "On Seminole Drive Southwest, Huntsville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299418",
+      "photo_urls": []
+    },
+    {
+      "id": "299419",
+      "title": "Jackson House",
+      "latitude": 34.4769775,
+      "longitude": -87.29843885,
+      "directions": "On College Street, Moulton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299419",
+      "photo_urls": []
+    },
+    {
+      "id": "299580",
+      "title": "S.R. Butler High School / Stone Middle School",
+      "latitude": 34.72067804,
+      "longitude": -86.60741808,
+      "directions": "On Clinton Avenue West, Huntsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299580",
+      "photo_urls": []
+    },
+    {
+      "id": "299617",
+      "title": "Mount Olive Baptist Church",
+      "latitude": 32.37300937,
+      "longitude": -85.03710279,
+      "directions": "On State Route 165, near Phenix City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299617",
+      "photo_urls": []
+    },
+    {
+      "id": "299715",
+      "title": "Dave Albritton",
+      "latitude": 34.41474208,
+      "longitude": -87.080594,
+      "directions": "On Alabama 36 (State Route 36) , Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299715",
+      "photo_urls": []
+    },
+    {
+      "id": "299717",
+      "title": "New Prospect Baptist Church",
+      "latitude": 34.24701366,
+      "longitude": -87.58875284,
+      "directions": "On County Route 3463, Haleyville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299717",
+      "photo_urls": []
+    },
+    {
+      "id": "299719",
+      "title": "Austinville High School",
+      "latitude": 34.56856977,
+      "longitude": -86.99719786,
+      "directions": "On Clara Avenue Southwest, Decatur, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299719",
+      "photo_urls": []
+    },
+    {
+      "id": "299724",
+      "title": "Arnett Cemetery",
+      "latitude": 34.62939499,
+      "longitude": -86.72236458,
+      "directions": "On Shaker Street Southwest, Huntsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299724",
       "photo_urls": []
     },
     {
@@ -24242,6 +24332,51 @@
       "longitude": -87.277461,
       "directions": "On 3rd Avenue S., Jasper, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29982",
+      "photo_urls": []
+    },
+    {
+      "id": "299886",
+      "title": "Coleman-Crenshaw House",
+      "latitude": 31.89495574,
+      "longitude": -86.74993814,
+      "directions": "On Crenshaw Road, Greenville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299886",
+      "photo_urls": []
+    },
+    {
+      "id": "299888",
+      "title": "Rainbow Mountain",
+      "latitude": 34.73418728,
+      "longitude": -86.72775954,
+      "directions": "On Stoneway Trail, Madison, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299888",
+      "photo_urls": []
+    },
+    {
+      "id": "300135",
+      "title": "Byler Road",
+      "latitude": 33.39449703,
+      "longitude": -87.60705459,
+      "directions": "On U.S. 43, Northport, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300135",
+      "photo_urls": []
+    },
+    {
+      "id": "300180",
+      "title": "The Camellia Gardens at Beeland Park / Registered Camellias of Butler County",
+      "latitude": 31.82998611,
+      "longitude": -86.61106111,
+      "directions": "On East Commerce Street (State Route 10) , Greenville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300180",
+      "photo_urls": []
+    },
+    {
+      "id": "300181",
+      "title": "The Rock Wall at Beeland Park / The Greenville Men's Camellia Society",
+      "latitude": 31.83021944,
+      "longitude": -86.61086389,
+      "directions": "On East Commerce Street (State Route 10) , Greenville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300181",
       "photo_urls": []
     },
     {
