@@ -3,9 +3,9 @@
   "region_name": "Louisiana",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-28T06:02:59.817Z",
-  "source_timestamp": "2026-04-28T06:02:59.817Z",
-  "marker_count": 3623,
+  "generated": "2026-05-26T06:03:27.306Z",
+  "source_timestamp": "2026-05-26T06:03:27.306Z",
+  "marker_count": 3634,
   "markers": [
     {
       "id": "100001",
@@ -24332,6 +24332,105 @@
       "longitude": -90.06191299,
       "directions": "Near St. Peter Street, New Orleans, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298172",
+      "photo_urls": []
+    },
+    {
+      "id": "299090",
+      "title": "Parish of Carroll",
+      "latitude": 32.80384782,
+      "longitude": -91.17308114,
+      "directions": "On 1st Street, Lake Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299090",
+      "photo_urls": []
+    },
+    {
+      "id": "299091",
+      "title": "Jean Baptiste Bienville",
+      "latitude": 32.80393707,
+      "longitude": -91.17340737,
+      "directions": "On 1st Street, Lake Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299091",
+      "photo_urls": []
+    },
+    {
+      "id": "299117",
+      "title": "Free State of Sabine",
+      "latitude": 31.44315456,
+      "longitude": -93.45775994,
+      "directions": "On North Nolan Trce (U.S. 171) , Florien, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299117",
+      "photo_urls": []
+    },
+    {
+      "id": "299118",
+      "title": "Bethlehem Baptist Church School",
+      "latitude": 29.81220294,
+      "longitude": -89.99767733,
+      "directions": "On State Route 39, Braithwaite, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299118",
+      "photo_urls": []
+    },
+    {
+      "id": "299121",
+      "title": "Arizona Methodist Church",
+      "latitude": 32.787317,
+      "longitude": -92.9576033,
+      "directions": "On Arizona Road, near Homer, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299121",
+      "photo_urls": []
+    },
+    {
+      "id": "299124",
+      "title": "Holly Grove Methodist Church",
+      "latitude": 31.23104519,
+      "longitude": -93.33626443,
+      "directions": "On Shreveport Highway (U.S. 171) , near Anacoco, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299124",
+      "photo_urls": []
+    },
+    {
+      "id": "299537",
+      "title": "Honoring the Area's African-American Musicians & Legendary Music Venues",
+      "latitude": 32.44855815,
+      "longitude": -92.08309413,
+      "directions": "On Martin Luther King Drive, Richwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299537",
+      "photo_urls": []
+    },
+    {
+      "id": "299582",
+      "title": "The Harkey Building",
+      "latitude": 32.51034972,
+      "longitude": -93.75131531,
+      "directions": "On Milam Street, Shreveport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299582",
+      "photo_urls": []
+    },
+    {
+      "id": "299586",
+      "title": "Shepherd/Blanchard Building",
+      "latitude": 32.5106905,
+      "longitude": -93.75052727,
+      "directions": "On Milam Street, Shreveport, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299586",
+      "photo_urls": []
+    },
+    {
+      "id": "299593",
+      "title": "Selber Bros",
+      "latitude": 32.51100583,
+      "longitude": -93.75006836,
+      "directions": "On Milam Street, Shreveport, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299593",
+      "photo_urls": []
+    },
+    {
+      "id": "299713",
+      "title": "Dedicated in Honor of Christiana Gordon Smith",
+      "latitude": 30.20981667,
+      "longitude": -92.0166,
+      "directions": "Near Girard Park Drive, Lafayette, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299713",
       "photo_urls": []
     },
     {
