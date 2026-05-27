@@ -3,9 +3,9 @@
   "region_name": "Oklahoma",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-29T06:02:16.405Z",
-  "source_timestamp": "2026-04-29T06:02:16.405Z",
-  "marker_count": 2041,
+  "generated": "2026-05-27T06:02:44.840Z",
+  "source_timestamp": "2026-05-27T06:02:44.840Z",
+  "marker_count": 2054,
   "markers": [
     {
       "id": "100131",
@@ -15386,6 +15386,123 @@
       "longitude": -95.99039444,
       "directions": "On East 3rd Street, Tulsa, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294666",
+      "photo_urls": []
+    },
+    {
+      "id": "297295",
+      "title": "Yukon Facts",
+      "latitude": 35.4807645,
+      "longitude": -97.74786187,
+      "directions": "On Jim Watson Drive, Yukon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297295",
+      "photo_urls": []
+    },
+    {
+      "id": "298900",
+      "title": "Waurika Rock Island Depot",
+      "latitude": 34.16294865,
+      "longitude": -97.99940637,
+      "directions": "On South Meridian Street (Route N2800) , Waurika, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298900",
+      "photo_urls": []
+    },
+    {
+      "id": "298901",
+      "title": "Shawneetown",
+      "latitude": 33.88105377,
+      "longitude": -94.83032764,
+      "directions": "On West Lincoln Road (U.S. Bypass 70) , Idabel, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298901",
+      "photo_urls": []
+    },
+    {
+      "id": "298902",
+      "title": "Roxana",
+      "latitude": 36.11623655,
+      "longitude": -97.65973658,
+      "directions": "On State Route 51, Marshall, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298902",
+      "photo_urls": []
+    },
+    {
+      "id": "298966",
+      "title": "Temple Lea Houston",
+      "latitude": 36.43607047,
+      "longitude": -99.39057835,
+      "directions": "On 9th Street, Woodward, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298966",
+      "photo_urls": []
+    },
+    {
+      "id": "298967",
+      "title": "New Springplace",
+      "latitude": 36.20533435,
+      "longitude": -94.85153357,
+      "directions": "On U.S. Alternate 412, Twin Oaks, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298967",
+      "photo_urls": []
+    },
+    {
+      "id": "298969",
+      "title": "Baptist Mission",
+      "latitude": 36.03527147,
+      "longitude": -94.58387796,
+      "directions": "On Old Mission Mountain Road, Westville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298969",
+      "photo_urls": []
+    },
+    {
+      "id": "298970",
+      "title": "Robert Rogers",
+      "latitude": 36.03531725,
+      "longitude": -94.58367833,
+      "directions": "On Old Mission Mountain Road, Westville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298970",
+      "photo_urls": []
+    },
+    {
+      "id": "298971",
+      "title": "Baptist Mission",
+      "latitude": 36.03533835,
+      "longitude": -94.58366377,
+      "directions": "On Old Mission Mountain Road, Westville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298971",
+      "photo_urls": []
+    },
+    {
+      "id": "298974",
+      "title": "Former Area Schools",
+      "latitude": 34.56500804,
+      "longitude": -99.77133286,
+      "directions": "On State Route 5, near Gould, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298974",
+      "photo_urls": []
+    },
+    {
+      "id": "298975",
+      "title": "Old Greer County",
+      "latitude": 34.68415619,
+      "longitude": -99.91916012,
+      "directions": "On West Hollis Street, Hollis, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298975",
+      "photo_urls": []
+    },
+    {
+      "id": "298976",
+      "title": "La Casa School",
+      "latitude": 34.68150807,
+      "longitude": -99.85819743,
+      "directions": "On U.S. 62, Hollis, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298976",
+      "photo_urls": []
+    },
+    {
+      "id": "298982",
+      "title": "Carry A. Nation",
+      "latitude": 36.14024273,
+      "longitude": -98.95578709,
+      "directions": "On U.S. 183, Seiling, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298982",
       "photo_urls": []
     },
     {
