@@ -3,9 +3,9 @@
   "region_name": "Oregon",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-29T06:02:16.430Z",
-  "source_timestamp": "2026-04-29T06:02:16.430Z",
-  "marker_count": 1341,
+  "generated": "2026-05-27T06:02:44.864Z",
+  "source_timestamp": "2026-05-27T06:02:44.864Z",
+  "marker_count": 1344,
   "markers": [
     {
       "id": "100202",
@@ -10823,6 +10823,33 @@
       "longitude": -123.06943339,
       "directions": "Near South River Road, Cottage Grove, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298415",
+      "photo_urls": []
+    },
+    {
+      "id": "298417",
+      "title": "Timber Town",
+      "latitude": 43.78944232,
+      "longitude": -123.06941796,
+      "directions": "Near South River Road, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298417",
+      "photo_urls": []
+    },
+    {
+      "id": "298433",
+      "title": "Millwork Memories",
+      "latitude": 43.789448,
+      "longitude": -123.06945313,
+      "directions": "Near South River Road, Cottage Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298433",
+      "photo_urls": []
+    },
+    {
+      "id": "299559",
+      "title": "Kindergarten Cop",
+      "latitude": 46.19401,
+      "longitude": -123.80411,
+      "directions": "On Astoria Riverwalk, Astoria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299559",
       "photo_urls": []
     },
     {
