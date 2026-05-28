@@ -3,9 +3,9 @@
   "region_name": "Iowa",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-30T06:02:20.577Z",
-  "source_timestamp": "2026-04-30T06:02:20.577Z",
-  "marker_count": 1411,
+  "generated": "2026-05-28T06:02:35.624Z",
+  "source_timestamp": "2026-05-28T06:02:35.624Z",
+  "marker_count": 1412,
   "markers": [
     {
       "id": "100944",
@@ -9617,6 +9617,15 @@
       "longitude": -91.72216179,
       "directions": "On Big Canoe Road, Decorah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=296619",
+      "photo_urls": []
+    },
+    {
+      "id": "299392",
+      "title": "WTC Steel",
+      "latitude": 41.58550412,
+      "longitude": -92.52220021,
+      "directions": "On East Main Street, Montezuma, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299392",
       "photo_urls": []
     },
     {
