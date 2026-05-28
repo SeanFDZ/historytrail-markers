@@ -3,9 +3,9 @@
   "region_name": "Connecticut",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-30T06:02:20.540Z",
-  "source_timestamp": "2026-04-30T06:02:20.540Z",
-  "marker_count": 2957,
+  "generated": "2026-05-28T06:02:35.577Z",
+  "source_timestamp": "2026-05-28T06:02:35.577Z",
+  "marker_count": 2995,
   "markers": [
     {
       "id": "100091",
@@ -201,7 +201,7 @@
       "title": "Ivoryton",
       "latitude": 41.34851,
       "longitude": -72.441682,
-      "directions": "On Main Street, Essex, (On the left when traveling east)",
+      "directions": "On Main Street, Clinton, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=100239",
       "photo_urls": []
     },
@@ -813,7 +813,7 @@
       "title": "Dawson Dawson-Watson",
       "latitude": 41.784142,
       "longitude": -72.923344,
-      "directions": "Near Canton Road, Burlington, ",
+      "directions": "Near Canton Road, Avon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=102122",
       "photo_urls": []
     },
@@ -1299,7 +1299,7 @@
       "title": "Scitico Roll of Honor",
       "latitude": 41.984869,
       "longitude": -72.514409,
-      "directions": "On Hazard Avenue (State Route 190) , Somers, (On the left when traveling west)",
+      "directions": "On Hazard Avenue (State Route 190) , Enfield, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=113853",
       "photo_urls": []
     },
@@ -2379,7 +2379,7 @@
       "title": "Scotland World War II Monument",
       "latitude": 41.69822,
       "longitude": -72.082185,
-      "directions": "On Huntington Road (State Route 14) , Scotland, (On the right when traveling east)",
+      "directions": "On Huntington Road (State Route 14) , Windham, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=140370",
       "photo_urls": []
     },
@@ -3540,7 +3540,7 @@
       "title": "Matthew Furlong",
       "latitude": 41.76955278,
       "longitude": -72.67350833,
-      "directions": "Near Main Street (U.S. 44) , Hartford, (On the left when traveling north)",
+      "directions": "Near Main Street (U.S. 44) , East Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151919",
       "photo_urls": []
     },
@@ -3549,7 +3549,7 @@
       "title": "New Ross, County Wexford Park",
       "latitude": 41.76960833,
       "longitude": -72.67329444,
-      "directions": "On Main Street (U.S. 44) , Hartford, (On the left when traveling north)",
+      "directions": "On Main Street (U.S. 44) , East Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151920",
       "photo_urls": []
     },
@@ -3819,7 +3819,7 @@
       "title": "Washington – Rochambeau Revolutionary Route",
       "latitude": 41.587794,
       "longitude": -72.889069,
-      "directions": "On Main Street (State Route 10) , Plantsville, (On the left when traveling north)",
+      "directions": "On Main Street (State Route 10) , Southington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=165804",
       "photo_urls": []
     },
@@ -3963,7 +3963,7 @@
       "title": "Woodbury",
       "latitude": 41.53771667,
       "longitude": -73.20721667,
-      "directions": "On Main Street South (U.S. 6) , Woodbury, (On the left when traveling north)",
+      "directions": "On Main Street South (U.S. 6) , Southbury, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=17607",
       "photo_urls": []
     },
@@ -4620,7 +4620,7 @@
       "title": "Washington – Rochambeau Revolutionary Route",
       "latitude": 41.556903,
       "longitude": -73.043235,
-      "directions": "On West Main Street, Waterbury, (On the right when traveling east)",
+      "directions": "On West Main Street, Wolcott, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=190232",
       "photo_urls": []
     },
@@ -4710,7 +4710,7 @@
       "title": "The Common",
       "latitude": 41.53763333,
       "longitude": -73.20721667,
-      "directions": "On Main Street South (U.S. 6) , Woodbury, ",
+      "directions": "On Main Street South (U.S. 6) , Southbury, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19226",
       "photo_urls": []
     },
@@ -4854,7 +4854,7 @@
       "title": "Soldiers' Memorial",
       "latitude": 41.53785,
       "longitude": -73.20691667,
-      "directions": "On Main Street South (U.S. 6) , Woodbury, (On the right when traveling north)",
+      "directions": "On Main Street South (U.S. 6) , Southbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19504",
       "photo_urls": []
     },
@@ -5043,7 +5043,7 @@
       "title": "Waterbury Veteran’s Monument",
       "latitude": 41.55661667,
       "longitude": -73.04268333,
-      "directions": "On West Main Street, Waterbury, (On the left when traveling east)",
+      "directions": "On West Main Street, Wolcott, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19923",
       "photo_urls": []
     },
@@ -6447,7 +6447,7 @@
       "title": "Margaret Delia Geary",
       "latitude": 41.36405724,
       "longitude": -72.12547057,
-      "directions": "On Jefferson Avenue, Waterford, (On the left when traveling north)",
+      "directions": "On Jefferson Avenue, New London, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=220854",
       "photo_urls": []
     },
@@ -8607,7 +8607,7 @@
       "title": "James Goodwin Batterson",
       "latitude": 41.76725738,
       "longitude": -72.67300266,
-      "directions": "On Main Street, Hartford, (On the right when traveling north)",
+      "directions": "On Main Street, East Hartford, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230409",
       "photo_urls": []
     },
@@ -11748,7 +11748,7 @@
       "title": "Chapmans Pond",
       "latitude": 41.29475203,
       "longitude": -72.49533348,
-      "directions": "Near Fish Plain Road, Clinton, (On the right when traveling east)",
+      "directions": "Near Fish Plain Road, Westbrook, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260437",
       "photo_urls": []
     },
@@ -11955,7 +11955,7 @@
       "title": "Emancipation",
       "latitude": 41.76566,
       "longitude": -72.66453,
-      "directions": "Near East River Drive, East Hartford, (On the left when traveling north)",
+      "directions": "Near East River Drive, Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=261740",
       "photo_urls": []
     },
@@ -12045,7 +12045,7 @@
       "title": "VFW Post 9460 Memorial",
       "latitude": 41.198437,
       "longitude": -73.121891,
-      "directions": "On Barnum Avenue (U.S. 1) , Stratford, (On the right when traveling north)",
+      "directions": "On Barnum Avenue (U.S. 1) , Bridgeport, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26307",
       "photo_urls": []
     },
@@ -12648,7 +12648,7 @@
       "title": "Pearl Harbor Memorial Park",
       "latitude": 41.30097916,
       "longitude": -72.9103605,
-      "directions": "On East Street, New Haven, (On the right when traveling north)",
+      "directions": "On East Street, Hamden, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=265249",
       "photo_urls": []
     },
@@ -13467,7 +13467,7 @@
       "title": "Officers Quarters",
       "latitude": 41.342521,
       "longitude": -73.383867,
-      "directions": "Near Putnam Park Road (State Route 58) , Redding, (On the right when traveling south)",
+      "directions": "Near Putnam Park Road (State Route 58) , Bethel, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26899",
       "photo_urls": []
     },
@@ -13476,7 +13476,7 @@
       "title": "Philips Cave",
       "latitude": 41.343134,
       "longitude": -73.384747,
-      "directions": "Near Putnam Park Road (State Route 58) , Redding, (On the right when traveling south)",
+      "directions": "Near Putnam Park Road (State Route 58) , Bethel, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26900",
       "photo_urls": []
     },
@@ -13485,7 +13485,7 @@
       "title": "Officers Quarters/Magazine",
       "latitude": 41.343402,
       "longitude": -73.385514,
-      "directions": "Near Putnam Park Road (State Route 58) , Redding, (On the right when traveling south)",
+      "directions": "Near Putnam Park Road (State Route 58) , Bethel, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26901",
       "photo_urls": []
     },
@@ -14727,7 +14727,7 @@
       "title": "Robert Wallace",
       "latitude": 41.45618333,
       "longitude": -72.83261667,
-      "directions": "On Quinnipiac Street (State Route 150) , Wallingford, (On the right when traveling east)",
+      "directions": "On Quinnipiac Street (State Route 150) , North Haven, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27570",
       "photo_urls": []
     },
@@ -14817,7 +14817,7 @@
       "title": "New Haven City Hospital Scenes",
       "latitude": 41.31057062,
       "longitude": -72.94133187,
-      "directions": "On Chapel Street, New Haven, (On the right when traveling east)",
+      "directions": "On Chapel Street, Hamden, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=276245",
       "photo_urls": []
     },
@@ -16932,7 +16932,7 @@
       "title": "Liverpole",
       "latitude": 41.76435621,
       "longitude": -72.7419317,
-      "directions": "On North Main Street, WestHartford, (On the right when traveling north)",
+      "directions": "On North Main Street, West Hartford, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292982",
       "photo_urls": []
     },
@@ -17675,12 +17675,30 @@
       "photo_urls": []
     },
     {
+      "id": "297822",
+      "title": "French Army Memorial",
+      "latitude": 41.63790556,
+      "longitude": -72.21286111,
+      "directions": "On Trumbull Highway, Lebanon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297822",
+      "photo_urls": []
+    },
+    {
       "id": "297823",
       "title": "The Pastor's Library",
       "latitude": 41.63817,
       "longitude": -72.21277,
       "directions": "Near Trumbull Highway (State Route 87) , Lebanon, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297823",
+      "photo_urls": []
+    },
+    {
+      "id": "297825",
+      "title": "The Child and Family Guidance Center",
+      "latitude": 41.1767301,
+      "longitude": -73.19072474,
+      "directions": "On Broad Street, Bridgeport, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297825",
       "photo_urls": []
     },
     {
@@ -17720,12 +17738,48 @@
       "photo_urls": []
     },
     {
+      "id": "298013",
+      "title": "Johnson Oak Park",
+      "latitude": 41.17863732,
+      "longitude": -73.15951647,
+      "directions": "On Alex Street, Bridgeport, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298013",
+      "photo_urls": []
+    },
+    {
+      "id": "298074",
+      "title": "Smoke House",
+      "latitude": 41.63814167,
+      "longitude": -72.21283611,
+      "directions": "On Trumbull Highway, Lebanon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298074",
+      "photo_urls": []
+    },
+    {
+      "id": "298087",
+      "title": "Bridgeport Baseball Veterans Memorial",
+      "latitude": 41.16133383,
+      "longitude": -73.18818776,
+      "directions": "On Howe Drive, Bridgeport, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298087",
+      "photo_urls": []
+    },
+    {
       "id": "298165",
       "title": "The UNESCO Slave Route Project",
       "latitude": 41.5618,
       "longitude": -72.6463,
       "directions": "On Harbor Drive, Middletown, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298165",
+      "photo_urls": []
+    },
+    {
+      "id": "298231",
+      "title": "Lt. John G. Corr U.S.M.C. Memorial",
+      "latitude": 41.16587179,
+      "longitude": -73.19005853,
+      "directions": "On Myrtle Avenue, Bridgeport, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298231",
       "photo_urls": []
     },
     {
@@ -17744,6 +17798,24 @@
       "longitude": -72.83775597,
       "directions": "Near Shore Drive (State Route 142) , Branford, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298261",
+      "photo_urls": []
+    },
+    {
+      "id": "298262",
+      "title": "Andrew A. Amatrudo",
+      "latitude": 41.32530579,
+      "longitude": -72.77265375,
+      "directions": "On Foxon Road (State Route 80) , North Branford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298262",
+      "photo_urls": []
+    },
+    {
+      "id": "298263",
+      "title": "Ralph J. Byorick",
+      "latitude": 41.3252909,
+      "longitude": -72.77278267,
+      "directions": "On Foxon Road (State Route 80) , North Branford, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298263",
       "photo_urls": []
     },
     {
@@ -17864,6 +17936,15 @@
       "photo_urls": []
     },
     {
+      "id": "298766",
+      "title": "John Doe",
+      "latitude": 41.2839,
+      "longitude": -72.9542,
+      "directions": "Near Campbell Avenue, West Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298766",
+      "photo_urls": []
+    },
+    {
       "id": "29887",
       "title": "In Honor of Lambert Hitchcock",
       "latitude": 41.961973,
@@ -17877,7 +17958,7 @@
       "title": "M110A2 Howitzer S/P",
       "latitude": 41.948887,
       "longitude": -73.049634,
-      "directions": "On Colebrook River Road, Winsted, (On the right when traveling north)",
+      "directions": "On Colebrook River Road, Winchester, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29888",
       "photo_urls": []
     },
@@ -17886,7 +17967,7 @@
       "title": "Winsted Veterans Monument",
       "latitude": 41.927154,
       "longitude": -73.077004,
-      "directions": "On Main Street (U.S. 44) , Winsted, (On the right when traveling south)",
+      "directions": "On Main Street (U.S. 44) , Winchester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29892",
       "photo_urls": []
     },
@@ -17895,7 +17976,7 @@
       "title": "Winsted Korean Conflict - Persian Gulf Monument",
       "latitude": 41.927179,
       "longitude": -73.077018,
-      "directions": "On Main Street (U.S. 44) , Winsted, (On the right when traveling south)",
+      "directions": "On Main Street (U.S. 44) , Winchester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29896",
       "photo_urls": []
     },
@@ -17904,7 +17985,7 @@
       "title": "Winsted Vietnam Monument",
       "latitude": 41.922759,
       "longitude": -73.060021,
-      "directions": "On Park Place, Winsted, (On the left when traveling north)",
+      "directions": "On Park Place, Winchester, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29897",
       "photo_urls": []
     },
@@ -17913,7 +17994,7 @@
       "title": "Winchester Revolutionary War Memorial",
       "latitude": 41.922739,
       "longitude": -73.060683,
-      "directions": "On Park Place West, Winsted, (On the right when traveling south)",
+      "directions": "On Park Place West, Winchester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29901",
       "photo_urls": []
     },
@@ -17922,7 +18003,7 @@
       "title": "Winsted Old Burying Ground",
       "latitude": 41.922772,
       "longitude": -73.060871,
-      "directions": "On Park Place West, Winsted, (On the right when traveling south)",
+      "directions": "On Park Place West, Winchester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29903",
       "photo_urls": []
     },
@@ -17931,7 +18012,7 @@
       "title": "Winchester",
       "latitude": 41.921005,
       "longitude": -73.06005,
-      "directions": "On Main Street (State Route 183) , Winsted, (On the right when traveling west)",
+      "directions": "On Main Street (State Route 183) , Winchester, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29904",
       "photo_urls": []
     },
@@ -17940,8 +18021,224 @@
       "title": "Winchester Soldiers Memorial",
       "latitude": 41.921283,
       "longitude": -73.060013,
-      "directions": "On Main Street (State Route 183) , Winsted, (On the right when traveling west)",
+      "directions": "On Main Street (State Route 183) , Winchester, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29907",
+      "photo_urls": []
+    },
+    {
+      "id": "299071",
+      "title": "North Branford Fire Department Charter Members",
+      "latitude": 41.32528834,
+      "longitude": -72.77271252,
+      "directions": "On Foxon Road (State Route 80) , North Branford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299071",
+      "photo_urls": []
+    },
+    {
+      "id": "299073",
+      "title": "North Branford Fire Department Ladies Auxiliary",
+      "latitude": 41.32528837,
+      "longitude": -72.77273643,
+      "directions": "On Foxon Road (State Route 80) , North Branford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299073",
+      "photo_urls": []
+    },
+    {
+      "id": "299078",
+      "title": "Shem",
+      "latitude": 41.36791223,
+      "longitude": -72.72763516,
+      "directions": "On Ledge Hill Road, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299078",
+      "photo_urls": []
+    },
+    {
+      "id": "299080",
+      "title": "Tombo",
+      "latitude": 41.36792119,
+      "longitude": -72.72763325,
+      "directions": "On Ledge Hill Road, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299080",
+      "photo_urls": []
+    },
+    {
+      "id": "299081",
+      "title": "Peter Gardner",
+      "latitude": 41.3679236,
+      "longitude": -72.72763635,
+      "directions": "On Ledge Hill Road, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299081",
+      "photo_urls": []
+    },
+    {
+      "id": "299082",
+      "title": "Lucy Dudley Baldwin 1721 – 1758",
+      "latitude": 41.36777,
+      "longitude": -72.72798,
+      "directions": "On Great Hill Road, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299082",
+      "photo_urls": []
+    },
+    {
+      "id": "299313",
+      "title": "Outhouse Exhibit",
+      "latitude": 41.27828181,
+      "longitude": -72.67543408,
+      "directions": "Near Stone House Lane, Guilford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299313",
+      "photo_urls": []
+    },
+    {
+      "id": "299368",
+      "title": "Harmon B. Johnson",
+      "latitude": 41.27529183,
+      "longitude": -72.6736452,
+      "directions": "On Old Whitfield Street, Guilford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299368",
+      "photo_urls": []
+    },
+    {
+      "id": "299369",
+      "title": "Beecher House",
+      "latitude": 41.27279251,
+      "longitude": -72.66745297,
+      "directions": "On Old Whitfield Street, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299369",
+      "photo_urls": []
+    },
+    {
+      "id": "299371",
+      "title": "The State Street School House",
+      "latitude": 41.27025981,
+      "longitude": -72.66975227,
+      "directions": "On Seaside Avenue, Guilford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299371",
+      "photo_urls": []
+    },
+    {
+      "id": "299372",
+      "title": "\"King\" William Lanson",
+      "latitude": 41.31537389,
+      "longitude": -72.92685231,
+      "directions": "On Canal Street, New Haven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299372",
+      "photo_urls": []
+    },
+    {
+      "id": "299374",
+      "title": "1918 Flu Epidemic Victims",
+      "latitude": 41.28006895,
+      "longitude": -72.81912111,
+      "directions": "On Monroe Street, Branford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299374",
+      "photo_urls": []
+    },
+    {
+      "id": "299376",
+      "title": "Home of Nathaniel Johnson",
+      "latitude": 41.28599939,
+      "longitude": -72.68520648,
+      "directions": "On Fair Street, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299376",
+      "photo_urls": []
+    },
+    {
+      "id": "299378",
+      "title": "Father Michael J. McGivney",
+      "latitude": 41.303164,
+      "longitude": -72.927539,
+      "directions": "Near Church Street, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299378",
+      "photo_urls": []
+    },
+    {
+      "id": "299380",
+      "title": "Meigs' Raid",
+      "latitude": 41.24754253,
+      "longitude": -72.70551348,
+      "directions": "On Colonial Road, Guilford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299380",
+      "photo_urls": []
+    },
+    {
+      "id": "299382",
+      "title": "Sachem's Head School",
+      "latitude": 41.25170067,
+      "longitude": -72.69907293,
+      "directions": "On Colonial Road, Guilford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299382",
+      "photo_urls": []
+    },
+    {
+      "id": "299388",
+      "title": "Sir Donald Stone",
+      "latitude": 41.31170053,
+      "longitude": -72.92482547,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299388",
+      "photo_urls": []
+    },
+    {
+      "id": "299409",
+      "title": "Into The Light",
+      "latitude": 41.3117857,
+      "longitude": -72.923946,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299409",
+      "photo_urls": []
+    },
+    {
+      "id": "299410",
+      "title": "Two Homes",
+      "latitude": 41.311783,
+      "longitude": -72.92393,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299410",
+      "photo_urls": []
+    },
+    {
+      "id": "299412",
+      "title": "God and the Curveball",
+      "latitude": 41.311773,
+      "longitude": -72.923892,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299412",
+      "photo_urls": []
+    },
+    {
+      "id": "299415",
+      "title": "The Stone that was Rejected",
+      "latitude": 41.311771,
+      "longitude": -72.923871,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299415",
+      "photo_urls": []
+    },
+    {
+      "id": "299417",
+      "title": "Stepping into the Breach",
+      "latitude": 41.311759,
+      "longitude": -72.923845,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299417",
+      "photo_urls": []
+    },
+    {
+      "id": "299444",
+      "title": "The Cost of Life",
+      "latitude": 41.311755,
+      "longitude": -72.923822,
+      "directions": "On Hillhouse Avenue, New Haven, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299444",
+      "photo_urls": []
+    },
+    {
+      "id": "299652",
+      "title": "Jacobs Beach",
+      "latitude": 41.2680088,
+      "longitude": -72.66919341,
+      "directions": "On Seaside Avenue, Guilford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299652",
       "photo_urls": []
     },
     {
@@ -17949,7 +18246,7 @@
       "title": "Winchester World War II Memorial",
       "latitude": 41.921472,
       "longitude": -73.059864,
-      "directions": "On Park Place (State Route 8) , Winsted, (On the left when traveling north)",
+      "directions": "On Park Place (State Route 8) , Winchester, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29983",
       "photo_urls": []
     },
@@ -17958,7 +18255,7 @@
       "title": "Winchester World War I Memorial",
       "latitude": 41.917744,
       "longitude": -73.062206,
-      "directions": "On Torrington Road, Winsted, (On the left when traveling south)",
+      "directions": "On Torrington Road, Winchester, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29984",
       "photo_urls": []
     },
@@ -17967,7 +18264,7 @@
       "title": "World War II Living Memorial",
       "latitude": 41.921304,
       "longitude": -73.068951,
-      "directions": "On Main Street (State Route 183) , Winsted, (On the right when traveling west)",
+      "directions": "On Main Street (State Route 183) , Winchester, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29985",
       "photo_urls": []
     },
@@ -17976,8 +18273,44 @@
       "title": "Winchester VFW Monument",
       "latitude": 41.921244,
       "longitude": -73.068951,
-      "directions": "On Main Street (State Route 183) , Winsted, (On the right when traveling west)",
+      "directions": "On Main Street (State Route 183) , Winchester, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29986",
+      "photo_urls": []
+    },
+    {
+      "id": "299951",
+      "title": "Let Us Pray",
+      "latitude": 41.3118,
+      "longitude": -72.923833,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299951",
+      "photo_urls": []
+    },
+    {
+      "id": "299952",
+      "title": "Blessed Is He",
+      "latitude": 41.311789,
+      "longitude": -72.923816,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299952",
+      "photo_urls": []
+    },
+    {
+      "id": "299955",
+      "title": "The Strong Right Arm of the Church",
+      "latitude": 41.311787,
+      "longitude": -72.923796,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299955",
+      "photo_urls": []
+    },
+    {
+      "id": "299958",
+      "title": "The Dominican Legacy",
+      "latitude": 41.311783,
+      "longitude": -72.923775,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299958",
       "photo_urls": []
     },
     {
@@ -17985,7 +18318,7 @@
       "title": "Winchester Soldiers' Memorial",
       "latitude": 41.924554,
       "longitude": -73.072757,
-      "directions": "On Crown Street, Winsted, (On the left when traveling south)",
+      "directions": "On Crown Street, Winchester, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29998",
       "photo_urls": []
     },
@@ -18023,6 +18356,15 @@
       "longitude": -73.199121,
       "directions": "On Greenwoods Road East (U.S. 44) , Norfolk, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30015",
+      "photo_urls": []
+    },
+    {
+      "id": "300410",
+      "title": "Valour Memorial Green",
+      "latitude": 41.60552726,
+      "longitude": -72.64760285,
+      "directions": "On Main Street, Cromwell, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300410",
       "photo_urls": []
     },
     {
@@ -19227,7 +19569,7 @@
       "title": "Forever Honored Forever Mourned",
       "latitude": 41.578486,
       "longitude": -72.91465,
-      "directions": "On Marion Avenue, Plantsville, (On the left when traveling north)",
+      "directions": "On Marion Avenue, Southington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33822",
       "photo_urls": []
     },
@@ -19902,7 +20244,7 @@
       "title": "Dedicated to All Veterans",
       "latitude": 41.568715,
       "longitude": -72.874033,
-      "directions": "On South End Road, Plantsville, (On the left when traveling north)",
+      "directions": "On South End Road, Southington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35970",
       "photo_urls": []
     },
@@ -19911,7 +20253,7 @@
       "title": "Southington Recreation Park",
       "latitude": 41.568706,
       "longitude": -72.874028,
-      "directions": "On South End Road, Plantsville, (On the left when traveling north)",
+      "directions": "On South End Road, Southington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35971",
       "photo_urls": []
     },
@@ -19920,7 +20262,7 @@
       "title": "Maxwell Noble Drive",
       "latitude": 41.568723,
       "longitude": -72.874041,
-      "directions": "On South End Road, Plantsville, (On the left when traveling north)",
+      "directions": "On South End Road, Southington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35973",
       "photo_urls": []
     },
@@ -20082,7 +20424,7 @@
       "title": "North Canaan",
       "latitude": 42.024782,
       "longitude": -73.325997,
-      "directions": "On E Main Street (U.S. 44) , North Canaan, (On the right when traveling east)",
+      "directions": "On E Main Street (U.S. 44) , Canaan, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=37885",
       "photo_urls": []
     },
@@ -20622,7 +20964,7 @@
       "title": "Joseph J. \"Joe\" Buzas",
       "latitude": 41.647612,
       "longitude": -72.775138,
-      "directions": "On John Karbonic Way, New Britain, (On the right when traveling west)",
+      "directions": "On John Karbonic Way, Berlin, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=41516",
       "photo_urls": []
     },
@@ -20631,7 +20973,7 @@
       "title": "New Britain Vietnam Veterans Memorial",
       "latitude": 41.647746,
       "longitude": -72.773164,
-      "directions": "Near John Karbonic Way, New Britain, (On the right when traveling west)",
+      "directions": "Near John Karbonic Way, Berlin, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=41600",
       "photo_urls": []
     },
@@ -20649,7 +20991,7 @@
       "title": "Fourth Ward WWII Veterans Monument",
       "latitude": 41.668756,
       "longitude": -72.765235,
-      "directions": "On East Street, New Britain, (On the right when traveling north)",
+      "directions": "On East Street, South Windsor, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=41605",
       "photo_urls": []
     },
@@ -20712,7 +21054,7 @@
       "title": "TGM Memorial Parkade",
       "latitude": 41.675117,
       "longitude": -72.792973,
-      "directions": "On Smith Street, New Britain, (On the right when traveling north)",
+      "directions": "On Smith Street, South Windsor, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=41647",
       "photo_urls": []
     },
@@ -21000,7 +21342,7 @@
       "title": "North Canaan Korean - World War II – Vietnam Veterans Monument",
       "latitude": 42.026348,
       "longitude": -73.328085,
-      "directions": "On East Main Street (U.S. 44) , North Canaan, (On the right when traveling west)",
+      "directions": "On East Main Street (U.S. 44) , Canaan, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42039",
       "photo_urls": []
     },
@@ -21009,7 +21351,7 @@
       "title": "John F. Bianchi",
       "latitude": 42.03259,
       "longitude": -73.329713,
-      "directions": "On Pease Street, North Canaan, (On the right when traveling west)",
+      "directions": "On Pease Street, Canaan, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42042",
       "photo_urls": []
     },
@@ -21063,7 +21405,7 @@
       "title": "North Canaan Veterans Monument",
       "latitude": 42.026304,
       "longitude": -73.328118,
-      "directions": "On East Main Street (U.S. 44) , North Canaan, (On the right when traveling west)",
+      "directions": "On East Main Street (U.S. 44) , Canaan, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42098",
       "photo_urls": []
     },
@@ -21207,7 +21549,7 @@
       "title": "Hartford",
       "latitude": 41.764714,
       "longitude": -72.674029,
-      "directions": "On Main Street, Hartford, (On the right when traveling south)",
+      "directions": "On Main Street, East Hartford, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43708",
       "photo_urls": []
     },
@@ -21216,7 +21558,7 @@
       "title": "Stephen A. Douglas",
       "latitude": 41.765896,
       "longitude": -72.673516,
-      "directions": "On Main Street, Hartford, (On the right when traveling south)",
+      "directions": "On Main Street, East Hartford, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=43738",
       "photo_urls": []
     },
@@ -21351,7 +21693,7 @@
       "title": "Christ Church Cathedral",
       "latitude": 41.768379,
       "longitude": -72.673337,
-      "directions": "On Main Street, Hartford, (On the right when traveling south)",
+      "directions": "On Main Street, East Hartford, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=44074",
       "photo_urls": []
     },
@@ -22485,7 +22827,7 @@
       "title": "General Casimir Pulaski",
       "latitude": 41.76088,
       "longitude": -72.674611,
-      "directions": "On Main Street, Hartford, (On the right when traveling north)",
+      "directions": "On Main Street, East Hartford, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52343",
       "photo_urls": []
     },
@@ -22530,7 +22872,7 @@
       "title": "American School for the Deaf",
       "latitude": 41.764042,
       "longitude": -72.674186,
-      "directions": "On Main Street, Hartford, (On the left when traveling north)",
+      "directions": "On Main Street, East Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52437",
       "photo_urls": []
     },
@@ -22638,7 +22980,7 @@
       "title": "Union",
       "latitude": 41.765532,
       "longitude": -72.665714,
-      "directions": "Near Columbus Boulevard, East Hartford, (On the right when traveling north)",
+      "directions": "Near Columbus Boulevard, Hartford, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52621",
       "photo_urls": []
     },
@@ -22710,7 +23052,7 @@
       "title": "South Britain Congregational Church",
       "latitude": 41.471296,
       "longitude": -73.251946,
-      "directions": "On South Britain Road (State Route 172) , South Britain, (On the left when traveling north)",
+      "directions": "On South Britain Road (State Route 172) , Southbury, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52786",
       "photo_urls": []
     },
@@ -23205,7 +23547,7 @@
       "title": "Non-Repatriated Soldiers' Monument",
       "latitude": 41.91694444,
       "longitude": -73.06083889,
-      "directions": "Near Torrington Road, Winsted, (On the left when traveling south)",
+      "directions": "Near Torrington Road, Winchester, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=56063",
       "photo_urls": []
     },
@@ -23430,7 +23772,7 @@
       "title": "Where Rochambeau Crossed the Housatonic River",
       "latitude": 41.439134,
       "longitude": -73.247397,
-      "directions": "On Interstate 84 (Interstate 84) , Southbury, (On the right when traveling east)",
+      "directions": "On Interstate 84 (Interstate 84) , Newtown, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6432",
       "photo_urls": []
     },
@@ -24357,7 +24699,7 @@
       "title": "Schools and Education",
       "latitude": 41.391045,
       "longitude": -73.448538,
-      "directions": "On Main Street, Danbury, (On the left when traveling north)",
+      "directions": "On Main Street, New Fairfield, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71477",
       "photo_urls": []
     },
@@ -24735,7 +25077,7 @@
       "title": "Comstock Covered Bridge",
       "latitude": 41.553387,
       "longitude": -72.448795,
-      "directions": "On Colchester Avenue (State Route 16) , East Hampton, (On the right when traveling north)",
+      "directions": "On Colchester Avenue (State Route 16) , Colchester, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=84109",
       "photo_urls": []
     },
@@ -26193,7 +26535,7 @@
       "title": "Bear Mountain, Connecticut",
       "latitude": 42.04486465,
       "longitude": -73.45439911,
-      "directions": "Near Under Mountain Road (Route 41) , Salisbury, (On the left when traveling north)",
+      "directions": "Near Under Mountain Road (Route 41) , Mount Washington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98939",
       "photo_urls": []
     },
