@@ -3,9 +3,9 @@
   "region_name": "Mississippi",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-30T06:02:20.592Z",
-  "source_timestamp": "2026-04-30T06:02:20.592Z",
-  "marker_count": 3266,
+  "generated": "2026-05-28T06:02:35.639Z",
+  "source_timestamp": "2026-05-28T06:02:35.640Z",
+  "marker_count": 3268,
   "markers": [
     {
       "id": "10058",
@@ -370,8 +370,8 @@
     {
       "id": "102301",
       "title": "Louisiana Native Guard Attacks Pascagoula",
-      "latitude": 30.343494,
-      "longitude": -88.534949,
+      "latitude": 30.343612,
+      "longitude": -88.557112,
       "directions": "On Beach Boulevard, Pascagoula, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=102301",
       "photo_urls": []
@@ -22892,6 +22892,24 @@
       "longitude": -90.03617778,
       "directions": "On Goodman Road West, Horn Lake, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298267",
+      "photo_urls": []
+    },
+    {
+      "id": "299365",
+      "title": "Veteran Memorial",
+      "latitude": 34.98843633,
+      "longitude": -90.02326384,
+      "directions": "On Veterans Drive, Southaven, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299365",
+      "photo_urls": []
+    },
+    {
+      "id": "299931",
+      "title": "The Crossroads of 49 & 61",
+      "latitude": 34.19472772,
+      "longitude": -90.56374137,
+      "directions": "On Desoto Avenue, Clarksdale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299931",
       "photo_urls": []
     },
     {
