@@ -3,9 +3,9 @@
   "region_name": "Arkansas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-30T06:02:20.514Z",
-  "source_timestamp": "2026-04-30T06:02:20.514Z",
-  "marker_count": 2004,
+  "generated": "2026-05-28T06:02:35.550Z",
+  "source_timestamp": "2026-05-28T06:02:35.550Z",
+  "marker_count": 2025,
   "markers": [
     {
       "id": "100703",
@@ -14549,6 +14549,195 @@
       "longitude": -94.39338035,
       "directions": "Near South Madden Street (State Route 32/41) , Foreman, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297396",
+      "photo_urls": []
+    },
+    {
+      "id": "298907",
+      "title": "American Revolution Flagpole",
+      "latitude": 35.53567383,
+      "longitude": -90.12680354,
+      "directions": "On Main Street, Bassett, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298907",
+      "photo_urls": []
+    },
+    {
+      "id": "299001",
+      "title": "Desha County",
+      "latitude": 33.60913578,
+      "longitude": -91.20234441,
+      "directions": "On Robert S Moore Avenue, Arkansas City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299001",
+      "photo_urls": []
+    },
+    {
+      "id": "299003",
+      "title": "Flood of 1927",
+      "latitude": 33.60700196,
+      "longitude": -91.2030604,
+      "directions": "On Capitol Street, Arkansas City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299003",
+      "photo_urls": []
+    },
+    {
+      "id": "299004",
+      "title": "Arkansas City River Port",
+      "latitude": 33.60491476,
+      "longitude": -91.20397353,
+      "directions": "On Desoto Avenue, Arkansas City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299004",
+      "photo_urls": []
+    },
+    {
+      "id": "299209",
+      "title": "Hattie Wyatt Caraway",
+      "latitude": 35.84208308,
+      "longitude": -90.67412396,
+      "directions": "On Aggie Road, Jonesboro, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299209",
+      "photo_urls": []
+    },
+    {
+      "id": "299211",
+      "title": "A Lake Called Cayman",
+      "latitude": 35.19016716,
+      "longitude": -90.12967505,
+      "directions": "On Pirani Headquarters Road, Mound City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299211",
+      "photo_urls": []
+    },
+    {
+      "id": "299397",
+      "title": "Chicot County Veterans Memorial",
+      "latitude": 33.33135843,
+      "longitude": -91.28199047,
+      "directions": "On Main Street, Lake Village, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299397",
+      "photo_urls": []
+    },
+    {
+      "id": "299553",
+      "title": "Poinsett Community Club",
+      "latitude": 35.67249354,
+      "longitude": -90.51286519,
+      "directions": "On Poinsett Avenue, Trumann, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299553",
+      "photo_urls": []
+    },
+    {
+      "id": "299576",
+      "title": "Bella Vista Village Country Club",
+      "latitude": 36.47931111,
+      "longitude": -94.25743056,
+      "directions": "On Clubhouse Drive, Bella Vista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299576",
+      "photo_urls": []
+    },
+    {
+      "id": "299578",
+      "title": "Benton County Poor Farm Cemetery",
+      "latitude": 36.39049444,
+      "longitude": -94.20044167,
+      "directions": "On Northeast Young Avenue, Bentonville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299578",
+      "photo_urls": []
+    },
+    {
+      "id": "299579",
+      "title": "Pyeatte House",
+      "latitude": 36.18278889,
+      "longitude": -94.54086111,
+      "directions": "Near South Mount Olive Street, Siloam Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299579",
+      "photo_urls": []
+    },
+    {
+      "id": "299581",
+      "title": "Simon Sager Cabin 1837",
+      "latitude": 36.19133889,
+      "longitude": -94.55836944,
+      "directions": "Near North Eagle Drive, Siloam Springs, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299581",
+      "photo_urls": []
+    },
+    {
+      "id": "299583",
+      "title": "Simon Sager Cabin",
+      "latitude": 36.19126116,
+      "longitude": -94.55838956,
+      "directions": "On North Eagle Drive, Siloam Springs, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299583",
+      "photo_urls": []
+    },
+    {
+      "id": "299688",
+      "title": "Desha County",
+      "latitude": 33.60692657,
+      "longitude": -91.20313437,
+      "directions": "On Capitol Street, Arkansas City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299688",
+      "photo_urls": []
+    },
+    {
+      "id": "299918",
+      "title": "The X. O. Pindall Law Office",
+      "latitude": 33.60688721,
+      "longitude": -91.20299408,
+      "directions": "On Capitol Street, Arkansas City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299918",
+      "photo_urls": []
+    },
+    {
+      "id": "299919",
+      "title": "John H. Johnson Cultural & Educational Museum",
+      "latitude": 33.61044587,
+      "longitude": -91.2017214,
+      "directions": "On Morning Star Avenue, Arkansas City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299919",
+      "photo_urls": []
+    },
+    {
+      "id": "299922",
+      "title": "Snow Lake: Transformed by the Rail",
+      "latitude": 34.06033681,
+      "longitude": -91.02312924,
+      "directions": "On Arkansas 44, Snow Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299922",
+      "photo_urls": []
+    },
+    {
+      "id": "299923",
+      "title": "Laconia Circle: Before the Railroad",
+      "latitude": 34.05998213,
+      "longitude": -91.02267592,
+      "directions": "On AR - 44, Snow Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299923",
+      "photo_urls": []
+    },
+    {
+      "id": "299926",
+      "title": "Snow Lake Station",
+      "latitude": 34.05998,
+      "longitude": -91.0226171,
+      "directions": "On U.S. 44, Snow Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299926",
+      "photo_urls": []
+    },
+    {
+      "id": "299929",
+      "title": "Lake View Community",
+      "latitude": 34.41651636,
+      "longitude": -90.79493061,
+      "directions": "On Arkansas 44, Wabash, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299929",
+      "photo_urls": []
+    },
+    {
+      "id": "300185",
+      "title": "Cross Hollows",
+      "latitude": 36.281103,
+      "longitude": -94.113607,
+      "directions": "On South Old Wire Road (County Route 83) , near Rogers, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300185",
       "photo_urls": []
     },
     {
