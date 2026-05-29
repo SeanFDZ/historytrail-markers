@@ -3,9 +3,9 @@
   "region_name": "New Mexico",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-01T06:02:14.283Z",
-  "source_timestamp": "2026-05-01T06:02:14.283Z",
-  "marker_count": 1562,
+  "generated": "2026-05-29T06:03:05.442Z",
+  "source_timestamp": "2026-05-29T06:03:05.442Z",
+  "marker_count": 1573,
   "markers": [
     {
       "id": "100422",
@@ -10409,6 +10409,105 @@
       "longitude": -103.33807211,
       "directions": "On West 1st Street, Portales, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298145",
+      "photo_urls": []
+    },
+    {
+      "id": "300564",
+      "title": "Espejo's Trail",
+      "latitude": 32.230515,
+      "longitude": -104.07577,
+      "directions": "On U.S. 285, near Loving, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300564",
+      "photo_urls": []
+    },
+    {
+      "id": "300575",
+      "title": "Goodnight-Loving Trail",
+      "latitude": 32.311976,
+      "longitude": -104.120983,
+      "directions": "On U.S. 285, near Carlsbad, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300575",
+      "photo_urls": []
+    },
+    {
+      "id": "300577",
+      "title": "Loving's Bend",
+      "latitude": 32.293977,
+      "longitude": -104.102377,
+      "directions": "On U.S. 285, near Loving, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300577",
+      "photo_urls": []
+    },
+    {
+      "id": "300589",
+      "title": "Oil and Gas",
+      "latitude": 32.726532,
+      "longitude": -103.089751,
+      "directions": "On U.S. 62, near Hobbs, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300589",
+      "photo_urls": []
+    },
+    {
+      "id": "300832",
+      "title": "Josephine Cox \"Grandma\" Anderson",
+      "latitude": 32.42168752,
+      "longitude": -104.21271175,
+      "directions": "On East Greene Street, Carlsbad, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300832",
+      "photo_urls": []
+    },
+    {
+      "id": "300850",
+      "title": "Eddy County Courthouse",
+      "latitude": 32.42094103,
+      "longitude": -104.22866734,
+      "directions": "On North Canal Street, Carlsbad, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300850",
+      "photo_urls": []
+    },
+    {
+      "id": "300896",
+      "title": "Mother Magdalen and the Sisters of Loretto (1852 - 1968) / Carlsbad",
+      "latitude": 32.42160781,
+      "longitude": -104.21285832,
+      "directions": "On East Greene Street (U.S. 62/180) , Carlsbad, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300896",
+      "photo_urls": []
+    },
+    {
+      "id": "300919",
+      "title": "The Roosevelt County Museum",
+      "latitude": 34.17998591,
+      "longitude": -103.34852914,
+      "directions": "On West 2nd Street (U.S. 70) , Portales, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300919",
+      "photo_urls": []
+    },
+    {
+      "id": "300922",
+      "title": "Artesia",
+      "latitude": 32.722611,
+      "longitude": -104.396436,
+      "directions": "On 7 Rivers Highway (U.S. 285) , Artesia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300922",
+      "photo_urls": []
+    },
+    {
+      "id": "300923",
+      "title": "Seven Rivers Cemetery",
+      "latitude": 32.722446,
+      "longitude": -104.396437,
+      "directions": "On U.S. 285, Artesia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300923",
+      "photo_urls": []
+    },
+    {
+      "id": "300924",
+      "title": "The Roosevelt County Museum",
+      "latitude": 34.17998333,
+      "longitude": -103.34853333,
+      "directions": "On West 2nd Street (U.S. 70) , Portales, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300924",
       "photo_urls": []
     },
     {
