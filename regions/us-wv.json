@@ -3,9 +3,9 @@
   "region_name": "West Virginia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-01T06:02:14.304Z",
-  "source_timestamp": "2026-05-01T06:02:14.304Z",
-  "marker_count": 4019,
+  "generated": "2026-05-29T06:03:05.462Z",
+  "source_timestamp": "2026-05-29T06:03:05.462Z",
+  "marker_count": 4030,
   "markers": [
     {
       "id": "100004",
@@ -4359,7 +4359,7 @@
       "title": "Doddridge County / Ritchie County",
       "latitude": 39.277324,
       "longitude": -80.909341,
-      "directions": "On Northwest Turnpike, Pennsboro, (On the right when traveling east)",
+      "directions": "On Northwest Turnpike, near Pennsboro, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=142407",
       "photo_urls": []
     },
@@ -29597,6 +29597,105 @@
       "longitude": -80.74291167,
       "directions": "On Jefferson Avenue, Moundsville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298641",
+      "photo_urls": []
+    },
+    {
+      "id": "298770",
+      "title": "A Cemetery Disturbed",
+      "latitude": 39.2890478,
+      "longitude": -77.8545012,
+      "directions": "On East Avis Street, Charles Town, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298770",
+      "photo_urls": []
+    },
+    {
+      "id": "298777",
+      "title": "\"Coloured\" Grave Yard",
+      "latitude": 39.2892121,
+      "longitude": -77.85418745,
+      "directions": "On South Seminary Street, Charles Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298777",
+      "photo_urls": []
+    },
+    {
+      "id": "298779",
+      "title": "An African American Cemetery Reclaimed",
+      "latitude": 39.28913006,
+      "longitude": -77.85451821,
+      "directions": "On East Avis Street, Charles Town, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298779",
+      "photo_urls": []
+    },
+    {
+      "id": "298788",
+      "title": "African American Cemetery Monument",
+      "latitude": 39.28917679,
+      "longitude": -77.85457107,
+      "directions": "On East Avis Street, Charles Town, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298788",
+      "photo_urls": []
+    },
+    {
+      "id": "298792",
+      "title": "Who Is Buried Here?",
+      "latitude": 39.28931552,
+      "longitude": -77.85426658,
+      "directions": "On South Seminary Street, Charles Town, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298792",
+      "photo_urls": []
+    },
+    {
+      "id": "298861",
+      "title": "Major Philip A Wise",
+      "latitude": 40.39973148,
+      "longitude": -80.57601129,
+      "directions": "Near Cove Road, Weirton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298861",
+      "photo_urls": []
+    },
+    {
+      "id": "298865",
+      "title": "Independent Steelworkers Union Members Veterans Memorial",
+      "latitude": 40.40918184,
+      "longitude": -80.58958795,
+      "directions": "On West Street, Weirton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298865",
+      "photo_urls": []
+    },
+    {
+      "id": "298866",
+      "title": "Colliers Veterans Memorial",
+      "latitude": 40.36723924,
+      "longitude": -80.54164425,
+      "directions": "On Pennsylvania Avenue, Colliers, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298866",
+      "photo_urls": []
+    },
+    {
+      "id": "298963",
+      "title": "1880 Collier's Station",
+      "latitude": 40.3665095,
+      "longitude": -80.52666977,
+      "directions": "Near Harmon Creek Road, Colliers, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298963",
+      "photo_urls": []
+    },
+    {
+      "id": "299105",
+      "title": "Septimius Hall",
+      "latitude": 39.66821336,
+      "longitude": -80.85942043,
+      "directions": "Near Energy Highway (State Route 2) , New Martinsville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299105",
+      "photo_urls": []
+    },
+    {
+      "id": "299135",
+      "title": "Golden Delicious Apple",
+      "latitude": 38.41327566,
+      "longitude": -81.22988326,
+      "directions": "On Lizemore Road, Bomont, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299135",
       "photo_urls": []
     },
     {
