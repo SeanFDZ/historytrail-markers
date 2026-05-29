@@ -3,9 +3,9 @@
   "region_name": "Nebraska",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-01T06:02:14.268Z",
-  "source_timestamp": "2026-05-01T06:02:14.268Z",
-  "marker_count": 1328,
+  "generated": "2026-05-29T06:03:05.428Z",
+  "source_timestamp": "2026-05-29T06:03:05.429Z",
+  "marker_count": 1332,
   "markers": [
     {
       "id": "101391",
@@ -7322,6 +7322,42 @@
       "longitude": -96.31340777,
       "directions": "Near Eugene T. Mahoney State Park Road, Ashland, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298136",
+      "photo_urls": []
+    },
+    {
+      "id": "299047",
+      "title": "Swedish Crosses Cemetery",
+      "latitude": 40.973452,
+      "longitude": -100.204992,
+      "directions": "On Local Route 769, near Gothenburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299047",
+      "photo_urls": []
+    },
+    {
+      "id": "299060",
+      "title": "The Mormon Pioneer Trail",
+      "latitude": 41.0387768,
+      "longitude": -96.3660741,
+      "directions": "On Silver Street, Ashland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299060",
+      "photo_urls": []
+    },
+    {
+      "id": "299068",
+      "title": "1860",
+      "latitude": 40.64833289,
+      "longitude": -99.38031769,
+      "directions": "On U.S. 183, Elm Creek, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299068",
+      "photo_urls": []
+    },
+    {
+      "id": "299624",
+      "title": "\"Little Queen Bee\"",
+      "latitude": 40.5218232,
+      "longitude": -95.8684634,
+      "directions": "On West Street, Julian, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299624",
       "photo_urls": []
     },
     {
