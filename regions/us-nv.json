@@ -3,9 +3,9 @@
   "region_name": "Nevada",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-02T06:03:01.069Z",
-  "source_timestamp": "2026-05-02T06:03:01.069Z",
-  "marker_count": 1109,
+  "generated": "2026-05-30T06:02:49.371Z",
+  "source_timestamp": "2026-05-30T06:02:49.371Z",
+  "marker_count": 1114,
   "markers": [
     {
       "id": "100249",
@@ -336,7 +336,7 @@
       "title": "Goldfield’s Railroads",
       "latitude": 37.70941377,
       "longitude": -117.23773939,
-      "directions": "On Crook Avenue, Goldfield, ",
+      "directions": "On Veterans Memorial Highway (U.S. 95) , Goldfield, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=116113",
       "photo_urls": []
     },
@@ -4545,7 +4545,7 @@
     },
     {
       "id": "257850",
-      "title": "Monitor - Belmont Mill",
+      "title": "Monitor-Belmont Mill",
       "latitude": 38.58968235,
       "longitude": -116.88310073,
       "directions": "On West Pond, Belmont, (On the left when traveling west)",
@@ -4557,7 +4557,7 @@
       "title": "Thomas Gaskill Lockhart",
       "latitude": 37.70606667,
       "longitude": -117.23505,
-      "directions": "On Euclid Avenue, Goldfield, ",
+      "directions": "On Euclid Avenue, Goldfield, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=259480",
       "photo_urls": []
     },
@@ -5948,6 +5948,15 @@
       "photo_urls": []
     },
     {
+      "id": "297966",
+      "title": "Interstate 11 Project Team",
+      "latitude": 35.99436243,
+      "longitude": -114.79933282,
+      "directions": "Near Purple Heart Highway (Interstate 11) , near Boulder City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297966",
+      "photo_urls": []
+    },
+    {
       "id": "298056",
       "title": "The Old Spanish Trail",
       "latitude": 36.66646565,
@@ -5975,12 +5984,48 @@
       "photo_urls": []
     },
     {
+      "id": "299440",
+      "title": "Ione",
+      "latitude": 38.9495,
+      "longitude": -117.58516667,
+      "directions": "On Ione Summit Road (State Route 844) , Gabbs, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299440",
+      "photo_urls": []
+    },
+    {
+      "id": "299479",
+      "title": "Belmont Courthouse",
+      "latitude": 38.596202,
+      "longitude": -116.87593764,
+      "directions": "On Cedar Street, near Belmont, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299479",
+      "photo_urls": []
+    },
+    {
       "id": "29960",
       "title": "Tule Springs",
       "latitude": 36.32222222,
       "longitude": -115.26916667,
       "directions": "On Tule Springs Road, Las Vegas, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29960",
+      "photo_urls": []
+    },
+    {
+      "id": "300327",
+      "title": "Sutro Tunnel",
+      "latitude": 39.28001574,
+      "longitude": -119.58422324,
+      "directions": "Near , Dayton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300327",
+      "photo_urls": []
+    },
+    {
+      "id": "300767",
+      "title": "The Great Train Robbery",
+      "latitude": 39.517467,
+      "longitude": -119.98838,
+      "directions": "On South Verdi Road, Verdi, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300767",
       "photo_urls": []
     },
     {
@@ -6067,9 +6112,9 @@
     {
       "id": "32982",
       "title": "Nevada Test Site",
-      "latitude": 36.5925,
-      "longitude": -116.02805556,
-      "directions": "On U.S. 95, near Mercury, (On the right when traveling west)",
+      "latitude": 36.59264381,
+      "longitude": -116.02820726,
+      "directions": "On U.S. 95,, near Mercury, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32982",
       "photo_urls": []
     },
@@ -6132,7 +6177,7 @@
       "title": "Gold Point",
       "latitude": 37.437725,
       "longitude": -117.284889,
-      "directions": "On State Route 266, Goldfield, (On the right when traveling west)",
+      "directions": "On State Route 266, near Goldfield, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35148",
       "photo_urls": []
     },
@@ -6141,7 +6186,7 @@
       "title": "Palmetto",
       "latitude": 37.443931,
       "longitude": -117.694632,
-      "directions": "On State Route 266, Goldfield, (On the right when traveling west)",
+      "directions": "On State Route 266,, near Goldfield, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35150",
       "photo_urls": []
     },
@@ -6375,7 +6420,7 @@
       "title": "Tonopah",
       "latitude": 38.066992,
       "longitude": -117.229108,
-      "directions": "On Erie Street (U.S. 95) , Tonopah, (On the right",
+      "directions": "On South Erie Main Street (U.S. 95) , Tonopah, (On the right",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=42454",
       "photo_urls": []
     },
@@ -7392,7 +7437,7 @@
       "title": "Lida",
       "latitude": 37.45527778,
       "longitude": -117.49944444,
-      "directions": "On State Route 266, Goldfield, (On the left when traveling west)",
+      "directions": "On State Route 266,, near Goldfield, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=52961",
       "photo_urls": []
     },
@@ -9036,7 +9081,7 @@
     },
     {
       "id": "89449",
-      "title": "Gans Vs. Nelson",
+      "title": "Gans vs. Nelson",
       "latitude": 37.707739,
       "longitude": -117.233738,
       "directions": "On U.S. 95, Goldfield, (On the right when traveling west)",
@@ -9417,7 +9462,7 @@
       "title": "Watson's House",
       "latitude": 38.88194,
       "longitude": -117.610139,
-      "directions": "Near Berlin Ichthyosaur State Park Road, Berlin, (On the right when traveling east)",
+      "directions": "Near Berlin Ichthyosaur State Park Road, Berlin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89584",
       "photo_urls": []
     },
@@ -9514,63 +9559,63 @@
     {
       "id": "89626",
       "title": "The Leasers",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07026913,
+      "longitude": -117.22963282,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89626",
       "photo_urls": []
     },
     {
       "id": "89627",
       "title": "Stopes",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07028128,
+      "longitude": -117.22959561,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89627",
       "photo_urls": []
     },
     {
       "id": "89629",
       "title": "Mizpah Mine Powder Magazine",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07018525,
+      "longitude": -117.22964188,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89629",
       "photo_urls": []
     },
     {
       "id": "89630",
       "title": "Verdi Lumber Company Coal Bin",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07013252,
+      "longitude": -117.22958077,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89630",
       "photo_urls": []
     },
     {
       "id": "89632",
       "title": "Teamsters",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07029646,
+      "longitude": -117.22955482,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89632",
       "photo_urls": []
     },
     {
       "id": "89633",
       "title": "Undiscovered Silver Vein",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.0702068,
+      "longitude": -117.22968897,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89633",
       "photo_urls": []
     },
     {
       "id": "89635",
       "title": "Framing Building",
-      "latitude": 38.070206,
-      "longitude": -117.229639,
-      "directions": "Near 110 Burro Avenue, Tonopah, ",
+      "latitude": 38.07026564,
+      "longitude": -117.22971934,
+      "directions": "Near Burro Avenue, Tonopah, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=89635",
       "photo_urls": []
     },
