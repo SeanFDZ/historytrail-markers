@@ -3,9 +3,9 @@
   "region_name": "Rhode Island",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-03T06:03:08.709Z",
-  "source_timestamp": "2026-05-03T06:03:08.709Z",
-  "marker_count": 835,
+  "generated": "2026-05-31T06:05:20.860Z",
+  "source_timestamp": "2026-05-31T06:05:20.860Z",
+  "marker_count": 846,
   "markers": [
     {
       "id": "106872",
@@ -5702,6 +5702,105 @@
       "longitude": -71.35015145,
       "directions": "On Newman Avenue (State Route 152) , East Providence, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298814",
+      "photo_urls": []
+    },
+    {
+      "id": "299257",
+      "title": "Reverend Samuel Newman, the Founder of Rehoboth",
+      "latitude": 41.84067486,
+      "longitude": -71.35085693,
+      "directions": "Near Newman Avenue, East Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299257",
+      "photo_urls": []
+    },
+    {
+      "id": "299260",
+      "title": "Rehoboth’s First Church",
+      "latitude": 41.84094941,
+      "longitude": -71.3500152,
+      "directions": "On Newman Avenue (State Route 152) , East Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299260",
+      "photo_urls": []
+    },
+    {
+      "id": "299261",
+      "title": "Ring of the Green and settlement in the 17th Century",
+      "latitude": 41.84093838,
+      "longitude": -71.35015145,
+      "directions": "On Newman Avenue (State Route 152) , East Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299261",
+      "photo_urls": []
+    },
+    {
+      "id": "299486",
+      "title": "The First Baptist Church in Massachusetts",
+      "latitude": 41.77199251,
+      "longitude": -71.31169564,
+      "directions": "On George Street, Barrington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299486",
+      "photo_urls": []
+    },
+    {
+      "id": "299816",
+      "title": "Four Cannon Fort",
+      "latitude": 41.81388029,
+      "longitude": -71.38721777,
+      "directions": "On Veterans Memorial Parkway, East Providence, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299816",
+      "photo_urls": []
+    },
+    {
+      "id": "299823",
+      "title": "Veterans Memorial Parkway",
+      "latitude": 41.8137383,
+      "longitude": -71.38758097,
+      "directions": "On Veterans Memorial Boulevard, East Providence, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299823",
+      "photo_urls": []
+    },
+    {
+      "id": "300511",
+      "title": "Here Were Bvried",
+      "latitude": 41.58331158,
+      "longitude": -71.45704952,
+      "directions": "Near Richard Smith Drive, North Kingston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300511",
+      "photo_urls": []
+    },
+    {
+      "id": "300543",
+      "title": "Cocumscussoc Archaeological Site",
+      "latitude": 41.58323646,
+      "longitude": -71.45732788,
+      "directions": "Near Richard Smith Drive, North Kingston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300543",
+      "photo_urls": []
+    },
+    {
+      "id": "300549",
+      "title": "Captain John Gallup",
+      "latitude": 41.58325372,
+      "longitude": -71.45710315,
+      "directions": "Near Richard Smith Drive, North Kingston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300549",
+      "photo_urls": []
+    },
+    {
+      "id": "300554",
+      "title": "The Great Swamp Fight",
+      "latitude": 41.468625,
+      "longitude": -71.59560278,
+      "directions": "Near South County Trail (State Route 2) , Charlestown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300554",
+      "photo_urls": []
+    },
+    {
+      "id": "300555",
+      "title": "The New Mill & New Beginnings",
+      "latitude": 41.57279756,
+      "longitude": -71.48535155,
+      "directions": "On Ten Rod Road (State Route 102) , North Kingstown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300555",
       "photo_urls": []
     },
     {
