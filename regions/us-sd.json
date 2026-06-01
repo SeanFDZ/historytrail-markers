@@ -3,9 +3,9 @@
   "region_name": "South Dakota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-04T06:02:27.228Z",
-  "source_timestamp": "2026-05-04T06:02:27.228Z",
-  "marker_count": 1824,
+  "generated": "2026-06-01T06:02:22.492Z",
+  "source_timestamp": "2026-06-01T06:02:22.492Z",
+  "marker_count": 1826,
   "markers": [
     {
       "id": "100821",
@@ -15674,6 +15674,24 @@
       "longitude": -98.48050368,
       "directions": "Near Southeast 17th Street, Aberdeen, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297087",
+      "photo_urls": []
+    },
+    {
+      "id": "300576",
+      "title": "Edward Nielsen",
+      "latitude": 44.04833574,
+      "longitude": -103.29867937,
+      "directions": "On Chapel Lane, Rapid City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300576",
+      "photo_urls": []
+    },
+    {
+      "id": "300605",
+      "title": "Veterans Memorial",
+      "latitude": 43.99377909,
+      "longitude": -102.24226107,
+      "directions": "On Main St., Wall, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300605",
       "photo_urls": []
     },
     {
