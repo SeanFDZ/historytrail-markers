@@ -3,9 +3,9 @@
   "region_name": "Delaware",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-04T06:02:27.199Z",
-  "source_timestamp": "2026-05-04T06:02:27.199Z",
-  "marker_count": 1869,
+  "generated": "2026-06-01T06:02:22.461Z",
+  "source_timestamp": "2026-06-01T06:02:22.461Z",
+  "marker_count": 1887,
   "markers": [
     {
       "id": "100344",
@@ -2332,8 +2332,8 @@
     {
       "id": "145279",
       "title": "Robert Kirkwood, Jr.",
-      "latitude": 39.710614,
-      "longitude": -75.678993,
+      "latitude": 39.71053827,
+      "longitude": -75.67926974,
       "directions": "On Kirkwood Highway (State Route 2) , near Wilmington, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=145279",
       "photo_urls": []
@@ -13150,8 +13150,8 @@
     {
       "id": "290635",
       "title": "Scott Church",
-      "latitude": 39.3699,
-      "longitude": -75.66145,
+      "latitude": 39.36998283,
+      "longitude": -75.66142552,
       "directions": "On Blackbird Forest Road (Local Route 471) , Townsend, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290635",
       "photo_urls": []
@@ -13451,6 +13451,168 @@
       "longitude": -75.58693611,
       "directions": "On Clinton Street, Delaware City, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298223",
+      "photo_urls": []
+    },
+    {
+      "id": "299167",
+      "title": "All Saints Cemetery",
+      "latitude": 39.71120644,
+      "longitude": -75.67982596,
+      "directions": "On Kirkwood Highway, near Wilmington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299167",
+      "photo_urls": []
+    },
+    {
+      "id": "299328",
+      "title": "Fish Resources and Water Quality of the St. Jones River",
+      "latitude": 39.13790556,
+      "longitude": -75.49887778,
+      "directions": "Near Korean War Veterans Memorial Highway, Dover, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299328",
+      "photo_urls": []
+    },
+    {
+      "id": "299329",
+      "title": "St. Jones River Wild Life and Habitats",
+      "latitude": 39.13789444,
+      "longitude": -75.49889444,
+      "directions": "Near Korean War Veterans Memorial Highway, Dover, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299329",
+      "photo_urls": []
+    },
+    {
+      "id": "299402",
+      "title": "A Brief History of Middletown",
+      "latitude": 39.44948611,
+      "longitude": -75.71756667,
+      "directions": "Near Delaware 299, Middletown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299402",
+      "photo_urls": []
+    },
+    {
+      "id": "299403",
+      "title": "The Middletown Transcript",
+      "latitude": 39.44952636,
+      "longitude": -75.71756833,
+      "directions": "Near Delaware 299, Middletown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299403",
+      "photo_urls": []
+    },
+    {
+      "id": "299404",
+      "title": "Historical Pictures from Around Downtown",
+      "latitude": 39.44954472,
+      "longitude": -75.71758504,
+      "directions": "Near West Main Street, Middletown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299404",
+      "photo_urls": []
+    },
+    {
+      "id": "300302",
+      "title": "Tom Hickman",
+      "latitude": 38.75758571,
+      "longitude": -75.15114051,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300302",
+      "photo_urls": []
+    },
+    {
+      "id": "300303",
+      "title": "Dave Frederick",
+      "latitude": 38.75756527,
+      "longitude": -75.15121445,
+      "directions": "On Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300303",
+      "photo_urls": []
+    },
+    {
+      "id": "300304",
+      "title": "Dan Cook",
+      "latitude": 38.75755392,
+      "longitude": -75.1512261,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300304",
+      "photo_urls": []
+    },
+    {
+      "id": "300305",
+      "title": "Coach George Pepper",
+      "latitude": 38.7575601,
+      "longitude": -75.15122756,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300305",
+      "photo_urls": []
+    },
+    {
+      "id": "300306",
+      "title": "Coach Janet Maull-Martin",
+      "latitude": 38.75755437,
+      "longitude": -75.15123856,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300306",
+      "photo_urls": []
+    },
+    {
+      "id": "300307",
+      "title": "Ruth Sponaugle Skoglund",
+      "latitude": 38.75755706,
+      "longitude": -75.15123496,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300307",
+      "photo_urls": []
+    },
+    {
+      "id": "300308",
+      "title": "Carolyn Ivins",
+      "latitude": 38.75756394,
+      "longitude": -75.15124036,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300308",
+      "photo_urls": []
+    },
+    {
+      "id": "300309",
+      "title": "Coach PJ Kesmodel",
+      "latitude": 38.75756479,
+      "longitude": -75.15124405,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300309",
+      "photo_urls": []
+    },
+    {
+      "id": "300310",
+      "title": "Coach William W. \"Bill\" Collick",
+      "latitude": 38.75756938,
+      "longitude": -75.15125388,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300310",
+      "photo_urls": []
+    },
+    {
+      "id": "300311",
+      "title": "Janet Nowakowski",
+      "latitude": 38.75756659,
+      "longitude": -75.15125701,
+      "directions": "Near Kings Highway, Lewes, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300311",
+      "photo_urls": []
+    },
+    {
+      "id": "301077",
+      "title": "A Place of the Siconese",
+      "latitude": 38.7640622,
+      "longitude": -75.17037645,
+      "directions": "On Joel Lane, Lewes, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301077",
+      "photo_urls": []
+    },
+    {
+      "id": "301078",
+      "title": "Tower Hill",
+      "latitude": 38.76401944,
+      "longitude": -75.17046389,
+      "directions": "On Joel Lane, Lewes, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301078",
       "photo_urls": []
     },
     {
@@ -16606,8 +16768,8 @@
     {
       "id": "94186",
       "title": "Blackbird School (District No. 69)",
-      "latitude": 39.369855,
-      "longitude": -75.6614398,
+      "latitude": 39.36985855,
+      "longitude": -75.6612574,
       "directions": "On Blackbird Forest Road, Townsend, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=94186",
       "photo_urls": []
