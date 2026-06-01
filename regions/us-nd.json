@@ -3,9 +3,9 @@
   "region_name": "North Dakota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-04T06:02:27.221Z",
-  "source_timestamp": "2026-05-04T06:02:27.221Z",
-  "marker_count": 769,
+  "generated": "2026-06-01T06:02:22.485Z",
+  "source_timestamp": "2026-06-01T06:02:22.485Z",
+  "marker_count": 773,
   "markers": [
     {
       "id": "100836",
@@ -6251,6 +6251,42 @@
       "longitude": -103.39237483,
       "directions": "On 2nd Avenue Northeast, Bowman, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298528",
+      "photo_urls": []
+    },
+    {
+      "id": "299400",
+      "title": "Minard Hall",
+      "latitude": 46.89146771,
+      "longitude": -96.8024908,
+      "directions": "On Albrecht Boulevard, Fargo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299400",
+      "photo_urls": []
+    },
+    {
+      "id": "299494",
+      "title": "Peterson Homestead Cabin",
+      "latitude": 48.06072722,
+      "longitude": -100.93656268,
+      "directions": "Near 2nd Avenue West, Velva, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299494",
+      "photo_urls": []
+    },
+    {
+      "id": "299500",
+      "title": "Great Western Trail",
+      "latitude": 45.94550433,
+      "longitude": -103.39057299,
+      "directions": "On Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , near Bowman, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299500",
+      "photo_urls": []
+    },
+    {
+      "id": "299600",
+      "title": "World War I Memorial Auditorium",
+      "latitude": 46.88656641,
+      "longitude": -103.19802613,
+      "directions": "On 2nd Avenue Northeast, Belfield, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299600",
       "photo_urls": []
     },
     {
