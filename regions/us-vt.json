@@ -3,9 +3,9 @@
   "region_name": "Vermont",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-05T06:02:32.102Z",
-  "source_timestamp": "2026-05-05T06:02:32.102Z",
-  "marker_count": 1067,
+  "generated": "2026-06-02T06:02:11.106Z",
+  "source_timestamp": "2026-06-02T06:02:11.106Z",
+  "marker_count": 1070,
   "markers": [
     {
       "id": "100958",
@@ -7091,12 +7091,39 @@
       "photo_urls": []
     },
     {
+      "id": "298067",
+      "title": "Vermont",
+      "latitude": 42.73014167,
+      "longitude": -72.57306667,
+      "directions": "On Brattleboro Road (U.S. 5) , Guilford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298067",
+      "photo_urls": []
+    },
+    {
       "id": "298331",
       "title": "Indian Stones",
       "latitude": 43.44653333,
       "longitude": -72.5355,
       "directions": "On State Route 106, Reading, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298331",
+      "photo_urls": []
+    },
+    {
+      "id": "299430",
+      "title": "Howe Scale Company / Howe Center",
+      "latitude": 43.6007,
+      "longitude": -72.97346389,
+      "directions": "On Strong Avenue, Rutland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299430",
+      "photo_urls": []
+    },
+    {
+      "id": "300526",
+      "title": "This Tablet and the Clock in the Tower",
+      "latitude": 43.26560278,
+      "longitude": -72.60296667,
+      "directions": "On Main Street (State Route 11) , Chester, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300526",
       "photo_urls": []
     },
     {
