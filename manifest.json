@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-01T06:02:33.038Z",
+  "generated": "2026-06-02T06:02:20.457Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73240,
+  "total_markers": 73252,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -494,12 +494,12 @@
       "type": "district",
       "country": "United States",
       "file": "regions/us-dc.json",
-      "markers": 2815,
-      "size_bytes": 917303,
-      "updated": "2026-05-05",
+      "markers": 2827,
+      "size_bytes": 921297,
+      "updated": "2026-06-02",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 2811,
+        "added": 2821,
         "removed": 0,
         "modified": 0
       }
