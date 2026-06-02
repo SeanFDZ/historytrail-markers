@@ -3,9 +3,9 @@
   "region_name": "Wyoming",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-05T06:02:32.117Z",
-  "source_timestamp": "2026-05-05T06:02:32.117Z",
-  "marker_count": 1431,
+  "generated": "2026-06-02T06:02:11.121Z",
+  "source_timestamp": "2026-06-02T06:02:11.121Z",
+  "marker_count": 1437,
   "markers": [
     {
       "id": "100065",
@@ -2633,6 +2633,60 @@
       "longitude": -104.18384782,
       "directions": "On CanAm Highway (U.S. 85) , Torrington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292793",
+      "photo_urls": []
+    },
+    {
+      "id": "300744",
+      "title": "Ranger Station",
+      "latitude": 43.75224144,
+      "longitude": -110.72225332,
+      "directions": "On Teton Park Road, Moose, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300744",
+      "photo_urls": []
+    },
+    {
+      "id": "300753",
+      "title": "Republic of Korea War Memorial",
+      "latitude": 44.51287541,
+      "longitude": -109.03986019,
+      "directions": "On Greybull Highway, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300753",
+      "photo_urls": []
+    },
+    {
+      "id": "300813",
+      "title": "OSS Memorial",
+      "latitude": 44.51285879,
+      "longitude": -109.04058947,
+      "directions": "On Greybull Highway, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300813",
+      "photo_urls": []
+    },
+    {
+      "id": "300814",
+      "title": "Wyoming National Guard Memorial",
+      "latitude": 44.51286977,
+      "longitude": -109.04096052,
+      "directions": "On Greybull Hwy, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300814",
+      "photo_urls": []
+    },
+    {
+      "id": "300891",
+      "title": "POW - MIA Memorial",
+      "latitude": 44.51287401,
+      "longitude": -109.04112315,
+      "directions": "On Greybull Highway, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300891",
+      "photo_urls": []
+    },
+    {
+      "id": "300892",
+      "title": "This Anchor",
+      "latitude": 44.51308764,
+      "longitude": -109.04148708,
+      "directions": "On Greybull Hwy., Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300892",
       "photo_urls": []
     },
     {
