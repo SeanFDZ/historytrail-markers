@@ -3,9 +3,9 @@
   "region_name": "District of Columbia",
   "region_type": "district",
   "country": "United States",
-  "generated": "2026-05-05T06:02:32.062Z",
-  "source_timestamp": "2026-05-05T06:02:32.063Z",
-  "marker_count": 2815,
+  "generated": "2026-06-02T06:02:11.072Z",
+  "source_timestamp": "2026-06-02T06:02:11.072Z",
+  "marker_count": 2827,
   "markers": [
     {
       "id": "100155",
@@ -20672,6 +20672,69 @@
       "photo_urls": []
     },
     {
+      "id": "299161",
+      "title": "<i>Replica of Greek Statue</i>",
+      "latitude": 38.94199722,
+      "longitude": -77.06584167,
+      "directions": "Near International Drive Northwest, Northwest Washington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299161",
+      "photo_urls": []
+    },
+    {
+      "id": "299162",
+      "title": "Czech Row",
+      "latitude": 38.93319715,
+      "longitude": -77.04559596,
+      "directions": "On Klingle Road Northwest, Northwest Washington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299162",
+      "photo_urls": []
+    },
+    {
+      "id": "299176",
+      "title": "<i>Railroad Employment</i>",
+      "latitude": 38.8857174,
+      "longitude": -77.01678046,
+      "directions": "On C Street Southwest, Southwest Washington, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299176",
+      "photo_urls": []
+    },
+    {
+      "id": "299177",
+      "title": "<i>Family Group</i>",
+      "latitude": 38.88639607,
+      "longitude": -77.01638937,
+      "directions": "On C Street Southwest, Southwest Washington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299177",
+      "photo_urls": []
+    },
+    {
+      "id": "299219",
+      "title": "Asbury United Methodist Church",
+      "latitude": 38.90200833,
+      "longitude": -77.02718333,
+      "directions": "On 11th Street Northwest, Northwest Washington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299219",
+      "photo_urls": []
+    },
+    {
+      "id": "299220",
+      "title": "Uzbekistan",
+      "latitude": 38.90846389,
+      "longitude": -77.04041389,
+      "directions": "On Massachusetts Avenue Northwest, Northwest Washington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299220",
+      "photo_urls": []
+    },
+    {
+      "id": "299221",
+      "title": "Abu Rayhan Muhammad Biruni",
+      "latitude": 38.90838803,
+      "longitude": -77.04038427,
+      "directions": "On Massachusetts Avenue Northwest, Northwest Washington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299221",
+      "photo_urls": []
+    },
+    {
       "id": "2993",
       "title": "Fort Totten",
       "latitude": 38.948666,
@@ -20681,12 +20744,57 @@
       "photo_urls": []
     },
     {
+      "id": "299604",
+      "title": "Hemingway Temple A.M.E. Church",
+      "latitude": 38.90977239,
+      "longitude": -77.01908715,
+      "directions": "On P Street Northwest, Northwest Washington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299604",
+      "photo_urls": []
+    },
+    {
+      "id": "299745",
+      "title": "Samuel Hahnemann Monument",
+      "latitude": 38.90726038,
+      "longitude": -77.03573682,
+      "directions": "On Scott Circle Northwest, Northwest Washington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299745",
+      "photo_urls": []
+    },
+    {
+      "id": "299746",
+      "title": "Mrs. Ruth Elizabeth Rucker",
+      "latitude": 38.91341738,
+      "longitude": -77.02943893,
+      "directions": "On 13th Street Northwest, Northwest Washington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299746",
+      "photo_urls": []
+    },
+    {
       "id": "2999",
       "title": "Fort Totten",
       "latitude": 38.947373,
       "longitude": -77.005277,
       "directions": "On Fort Totten Drive Northeast, Northeast Washington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2999",
+      "photo_urls": []
+    },
+    {
+      "id": "300006",
+      "title": "Sons & Daughters in Christ African Methodist Episcopal Zion Church",
+      "latitude": 38.91749695,
+      "longitude": -77.01750303,
+      "directions": "On 4th Street Northwest, Northwest Washington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300006",
+      "photo_urls": []
+    },
+    {
+      "id": "300007",
+      "title": "Sons & Daughters in Christ African Methodist Episcopal Zion Church",
+      "latitude": 38.91746111,
+      "longitude": -77.01745556,
+      "directions": "On Elm Street Northwest, Northwest Washington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300007",
       "photo_urls": []
     },
     {
