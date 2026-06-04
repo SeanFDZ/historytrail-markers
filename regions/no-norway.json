@@ -3,9 +3,9 @@
   "region_name": "Norway",
   "region_type": "country",
   "country": "Norway",
-  "generated": "2026-05-07T06:13:34.612Z",
-  "source_timestamp": "2026-05-07T06:13:34.612Z",
-  "marker_count": 277,
+  "generated": "2026-06-04T06:12:51.713Z",
+  "source_timestamp": "2026-06-04T06:12:51.713Z",
+  "marker_count": 278,
   "markers": [
     {
       "id": "226461",
@@ -2498,6 +2498,15 @@
       "longitude": 10.73768993,
       "directions": "On Akershusstranda, Oslo, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292589",
+      "photo_urls": []
+    },
+    {
+      "id": "300136",
+      "title": "Ære og Fortvilelse 1857-1864 / Honour and Despair, 1857-1864",
+      "latitude": 59.91506944,
+      "longitude": 10.73412222,
+      "directions": "On Karl Johans gate, Oslo, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300136",
       "photo_urls": []
     }
   ]
