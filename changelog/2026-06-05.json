@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-05",
+  "run_id": 157,
+  "cycle_day": 16,
+  "regions_processed": [
+    "br-brazil"
+  ],
+  "changes": {
+    "br-brazil": {
+      "added": 15,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 7762,
+  "total_removed": 0,
+  "total_modified": 0
+}
