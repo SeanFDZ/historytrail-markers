@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-04T06:12:59.269Z",
+  "generated": "2026-06-05T06:07:26.515Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73252,
@@ -144,7 +144,7 @@
       "file": "regions/br-brazil.json",
       "markers": 15,
       "size_bytes": 4591,
-      "updated": "2026-05-08",
+      "updated": "2026-06-05",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 15,
