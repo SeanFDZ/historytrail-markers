@@ -3,8 +3,8 @@
   "region_name": "Jewish American Society for Historic Preservation.",
   "region_type": "state",
   "country": "Sint Eustatius",
-  "generated": "2026-05-08T06:06:31.584Z",
-  "source_timestamp": "2026-05-08T06:06:31.584Z",
+  "generated": "2026-06-05T06:07:15.593Z",
+  "source_timestamp": "2026-06-05T06:07:15.593Z",
   "marker_count": 111,
   "markers": [
     {
@@ -723,7 +723,7 @@
       "title": "Lion's Trail - Dimona",
       "latitude": 31.061262,
       "longitude": 35.019074,
-      "directions": "On , Dimona, (In the median)",
+      "directions": "On unnamed street, Dimona, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=245163",
       "photo_urls": []
     },
@@ -741,7 +741,7 @@
       "title": "The Lion's Trail - Beit Jann",
       "latitude": 32.96527778,
       "longitude": 35.37944444,
-      "directions": "On , Beit Jann, ",
+      "directions": "On an unnamed street, Beit Jann, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=248391",
       "photo_urls": []
     },
@@ -930,7 +930,7 @@
       "title": "The Kerem Shalom Lion",
       "latitude": 31.22083333,
       "longitude": 34.27055556,
-      "directions": "On , Kerem Shalom, (In the median)",
+      "directions": "On no nearby street, Kerem Shalom, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=287303",
       "photo_urls": []
     },
