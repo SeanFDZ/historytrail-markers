@@ -3,10 +3,19 @@
   "region_name": "Canada",
   "region_type": "country",
   "country": "Canada",
-  "generated": "2026-05-08T06:06:31.582Z",
-  "source_timestamp": "2026-05-08T06:06:31.582Z",
-  "marker_count": 5,
+  "generated": "2026-06-05T06:07:15.589Z",
+  "source_timestamp": "2026-06-05T06:07:15.589Z",
+  "marker_count": 126,
   "markers": [
+    {
+      "id": "297203",
+      "title": "Dalhousie House circa 1850",
+      "latitude": 43.20101818,
+      "longitude": -79.26687236,
+      "directions": "On Lakeport Road, St. Catharines, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=297203",
+      "photo_urls": []
+    },
     {
       "id": "298816",
       "title": "Top of the World Highway",
@@ -50,6 +59,1086 @@
       "longitude": -79.41372317,
       "directions": "On Yonge Street, Lincoln, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299252",
+      "photo_urls": []
+    },
+    {
+      "id": "299598",
+      "title": "Parc Fleury-Mesplet",
+      "latitude": 45.51088976,
+      "longitude": -73.55037472,
+      "directions": "On Rue de la Commune Est, Montreal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299598",
+      "photo_urls": []
+    },
+    {
+      "id": "299599",
+      "title": "École Vétérinaire Française de Montréal",
+      "latitude": 45.51062156,
+      "longitude": -73.55435577,
+      "directions": "On Rue Saint-Antoine Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299599",
+      "photo_urls": []
+    },
+    {
+      "id": "299636",
+      "title": "The Evolution of Stanley Park",
+      "latitude": 49.31248056,
+      "longitude": -123.14301944,
+      "directions": "On Prospect Point Trail, Vancouver, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299636",
+      "photo_urls": []
+    },
+    {
+      "id": "299682",
+      "title": "Billy Bishop Toronto City Airport / Aéroport Billy Bishop de Toronto",
+      "latitude": 43.63533333,
+      "longitude": -79.39813889,
+      "directions": "On Eireann Quay, Toronto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299682",
+      "photo_urls": []
+    },
+    {
+      "id": "299695",
+      "title": "Commémoration de la Nation Mohawk / Mohawk Nation Commemoration",
+      "latitude": 45.50492522,
+      "longitude": -73.55786811,
+      "directions": "On Rue Saint-Jacques, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299695",
+      "photo_urls": []
+    },
+    {
+      "id": "299696",
+      "title": "Adélard Godbout",
+      "latitude": 45.49736556,
+      "longitude": -73.55580829,
+      "directions": "On Rue Wellington, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299696",
+      "photo_urls": []
+    },
+    {
+      "id": "299697",
+      "title": "Poste Adélard-Godbout",
+      "latitude": 45.49720791,
+      "longitude": -73.55566264,
+      "directions": "On Rue Wellington, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299697",
+      "photo_urls": []
+    },
+    {
+      "id": "299698",
+      "title": "Place du Génie",
+      "latitude": 45.49866808,
+      "longitude": -73.55224766,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299698",
+      "photo_urls": []
+    },
+    {
+      "id": "299700",
+      "title": "Ancien Palais de Justice / The Old Courthouse",
+      "latitude": 45.50825974,
+      "longitude": -73.5545019,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299700",
+      "photo_urls": []
+    },
+    {
+      "id": "299707",
+      "title": "Shadow Lake",
+      "latitude": 42.93408611,
+      "longitude": -80.29474722,
+      "directions": "On Alice Street, Waterford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299707",
+      "photo_urls": []
+    },
+    {
+      "id": "299709",
+      "title": "Shadow Lake",
+      "latitude": 42.93383889,
+      "longitude": -80.29515833,
+      "directions": "On Alice Street, Waterford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299709",
+      "photo_urls": []
+    },
+    {
+      "id": "299729",
+      "title": "Shadow Lake",
+      "latitude": 42.93376667,
+      "longitude": -80.29628889,
+      "directions": "On Alice Street, Waterford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299729",
+      "photo_urls": []
+    },
+    {
+      "id": "299818",
+      "title": "Bridge Park",
+      "latitude": 42.93544722,
+      "longitude": -80.29148056,
+      "directions": "On Main Street South, Waterford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299818",
+      "photo_urls": []
+    },
+    {
+      "id": "299822",
+      "title": "Shadow Lake",
+      "latitude": 42.93143333,
+      "longitude": -80.30413056,
+      "directions": "Near L.E. & North Trail, Waterford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299822",
+      "photo_urls": []
+    },
+    {
+      "id": "299841",
+      "title": "The Black Bridge Centennial Festival",
+      "latitude": 42.93233059,
+      "longitude": -80.30454454,
+      "directions": "Near L.E. & North Trail, Waterford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299841",
+      "photo_urls": []
+    },
+    {
+      "id": "299845",
+      "title": "Shadow Lake",
+      "latitude": 42.9325,
+      "longitude": -80.30594722,
+      "directions": "Near no nearby street, Waterford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299845",
+      "photo_urls": []
+    },
+    {
+      "id": "299872",
+      "title": "6305 Main Street",
+      "latitude": 42.23503683,
+      "longitude": -82.55266412,
+      "directions": "On Main Street, Comber, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299872",
+      "photo_urls": []
+    },
+    {
+      "id": "299874",
+      "title": "The Foundation of Stoney Point / La Fondation de Pointe aux Roches",
+      "latitude": 42.30496667,
+      "longitude": -82.55027778,
+      "directions": "On Tecumseh Road, Lakeshore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299874",
+      "photo_urls": []
+    },
+    {
+      "id": "299884",
+      "title": "Autour de la Craig",
+      "latitude": 45.51224629,
+      "longitude": -73.55091547,
+      "directions": "On Rue St-Hubert, Montréal, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299884",
+      "photo_urls": []
+    },
+    {
+      "id": "299887",
+      "title": "Le Canal de Lachine / The Lachine Canal",
+      "latitude": 45.49832568,
+      "longitude": -73.55232353,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299887",
+      "photo_urls": []
+    },
+    {
+      "id": "299890",
+      "title": "Place Victor-Morin",
+      "latitude": 45.51066404,
+      "longitude": -73.55446594,
+      "directions": "On Rue Saint-Antoine Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299890",
+      "photo_urls": []
+    },
+    {
+      "id": "299899",
+      "title": "Château de Ramezay",
+      "latitude": 45.50874512,
+      "longitude": -73.55332728,
+      "directions": "On Rue Notre-Dame Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299899",
+      "photo_urls": []
+    },
+    {
+      "id": "299900",
+      "title": "Immeuble de l'association des débardeurs / Building of the Longshoremen Association",
+      "latitude": 45.5104409,
+      "longitude": -73.553019,
+      "directions": "On Rue Bonsecours, Montréal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299900",
+      "photo_urls": []
+    },
+    {
+      "id": "299911",
+      "title": "The Founding of Belle River / La Fondation de Belle-Rivière",
+      "latitude": 42.29097038,
+      "longitude": -82.71165387,
+      "directions": "On South Street (County Road 27), Belle River, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299911",
+      "photo_urls": []
+    },
+    {
+      "id": "299913",
+      "title": "Puce River Black Community",
+      "latitude": 42.27718812,
+      "longitude": -82.77683945,
+      "directions": "On County Road 42, near Belle River, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299913",
+      "photo_urls": []
+    },
+    {
+      "id": "299914",
+      "title": "First Baptist Church, Puce / Première Église Baptiste de Puce",
+      "latitude": 42.27189167,
+      "longitude": -82.78569167,
+      "directions": "On Puce Road, near Belle River, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299914",
+      "photo_urls": []
+    },
+    {
+      "id": "299937",
+      "title": "Entrez dans l'histoire! / Step into History!",
+      "latitude": 45.50865139,
+      "longitude": -73.55346494,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299937",
+      "photo_urls": []
+    },
+    {
+      "id": "299972",
+      "title": "Un jardin à la mode de Nouvelle-France / A Garden in the Style of New France",
+      "latitude": 45.50851644,
+      "longitude": -73.55314678,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299972",
+      "photo_urls": []
+    },
+    {
+      "id": "299974",
+      "title": "The Windsor Ford Strike of 1945 / La Grève Ford-Windsor de 1945",
+      "latitude": 42.32628333,
+      "longitude": -83.00304444,
+      "directions": "On Drouillard Road, Windsor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299974",
+      "photo_urls": []
+    },
+    {
+      "id": "299975",
+      "title": "The Catholic Coloured Mission of Windsor / La Mission Catholique Noire de Windsor",
+      "latitude": 42.31673889,
+      "longitude": -83.03653056,
+      "directions": "On Park Street East, Windsor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299975",
+      "photo_urls": []
+    },
+    {
+      "id": "299980",
+      "title": "Les délices de la belle saison / The delicacies of the beautiful season",
+      "latitude": 45.50879033,
+      "longitude": -73.5527508,
+      "directions": "Near Rue Notre Dame Est, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299980",
+      "photo_urls": []
+    },
+    {
+      "id": "299989",
+      "title": "L'évolution du site comme témoin du quartier / The Evolution of the site as Witness to Neighbourhood",
+      "latitude": 45.50055973,
+      "longitude": -73.55493603,
+      "directions": "On Rue Saint-Pierre, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299989",
+      "photo_urls": []
+    },
+    {
+      "id": "299990",
+      "title": "L'Hôpital général et l'évolution du site 1693-1871 / The Hôpital général Site Development 1693-1871",
+      "latitude": 45.50039843,
+      "longitude": -73.55451233,
+      "directions": "On Rue Saint-Pierre, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299990",
+      "photo_urls": []
+    },
+    {
+      "id": "299997",
+      "title": "Maison de Mère d'Youville",
+      "latitude": 45.5005892,
+      "longitude": -73.55549138,
+      "directions": "Near Place d&#39;Youville, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299997",
+      "photo_urls": []
+    },
+    {
+      "id": "299999",
+      "title": "Marguerite d'Youville et Sœurs Grises de Montréal / Marguerite d'Youville and Grey Nuns of Montreal",
+      "latitude": 45.50044162,
+      "longitude": -73.55461721,
+      "directions": "On Rue Saint-Pierre, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299999",
+      "photo_urls": []
+    },
+    {
+      "id": "300000",
+      "title": "Bank of Montreal / Banque de Montréal",
+      "latitude": 45.50482905,
+      "longitude": -73.55794664,
+      "directions": "On Rue Saint-Jacques, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300000",
+      "photo_urls": []
+    },
+    {
+      "id": "300002",
+      "title": "Jean Vauquelin",
+      "latitude": 45.50850633,
+      "longitude": -73.55467725,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300002",
+      "photo_urls": []
+    },
+    {
+      "id": "300009",
+      "title": "The Bell",
+      "latitude": 42.31676389,
+      "longitude": -83.03648333,
+      "directions": "On Park Street East, Windsor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300009",
+      "photo_urls": []
+    },
+    {
+      "id": "300094",
+      "title": "Colonel Arthur Rankin 1816-1893",
+      "latitude": 42.31310556,
+      "longitude": -83.06313333,
+      "directions": "On Riverside Drive West, Windsor, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300094",
+      "photo_urls": []
+    },
+    {
+      "id": "300098",
+      "title": "The University of Windsor / L’Université de Windsor",
+      "latitude": 42.30684722,
+      "longitude": -83.06620833,
+      "directions": "On Sunset Avenue, Windsor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300098",
+      "photo_urls": []
+    },
+    {
+      "id": "300168",
+      "title": "James Baby 1763-1833 / James Baby 1763-1833",
+      "latitude": 42.30241111,
+      "longitude": -83.07699722,
+      "directions": "On Mill Street, Windsor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300168",
+      "photo_urls": []
+    },
+    {
+      "id": "300170",
+      "title": "The Sandwich First Baptist Church / L’Église de la First Baptist Church de Sandwich",
+      "latitude": 42.291875,
+      "longitude": -83.08007778,
+      "directions": "On Peter Street, Windsor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300170",
+      "photo_urls": []
+    },
+    {
+      "id": "300172",
+      "title": "Sandwich First Baptist Church / Première Église Baptiste de Sandwich",
+      "latitude": 42.29181132,
+      "longitude": -83.08008958,
+      "directions": "On Peter Street, Windsor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300172",
+      "photo_urls": []
+    },
+    {
+      "id": "300223",
+      "title": "Fighting Island 1838",
+      "latitude": 42.2374,
+      "longitude": -83.10582778,
+      "directions": "On Laurier, LaSalle, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300223",
+      "photo_urls": []
+    },
+    {
+      "id": "300234",
+      "title": "River Canard Bridge / Pont de la Rivière aux Canards",
+      "latitude": 42.18631111,
+      "longitude": -83.07055,
+      "directions": "On North Townline Road, near Amherstburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300234",
+      "photo_urls": []
+    },
+    {
+      "id": "300236",
+      "title": "River Canard Bridge / Pont de la Rivière aux Canards",
+      "latitude": 42.1869789,
+      "longitude": -83.07106397,
+      "directions": "On Townline Road, Windsor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300236",
+      "photo_urls": []
+    },
+    {
+      "id": "300322",
+      "title": "Park House / La Maison Park",
+      "latitude": 42.10371519,
+      "longitude": -83.11332039,
+      "directions": "On Dalhousie Street, Amherstburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300322",
+      "photo_urls": []
+    },
+    {
+      "id": "300323",
+      "title": "Amherstburg First Baptist Church / L’Église de la First Baptist Church D’Amherstburg",
+      "latitude": 42.1026714,
+      "longitude": -83.10557645,
+      "directions": "On George Street, Amherstburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300323",
+      "photo_urls": []
+    },
+    {
+      "id": "300325",
+      "title": "The Nazrey African Methodist Episcopal (AME) Church",
+      "latitude": 42.10128781,
+      "longitude": -83.1060458,
+      "directions": "On King Street, Amherstburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300325",
+      "photo_urls": []
+    },
+    {
+      "id": "300326",
+      "title": "Christ Church 1819",
+      "latitude": 42.09994103,
+      "longitude": -83.11058011,
+      "directions": "On Ramsay Street, Amherstburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300326",
+      "photo_urls": []
+    },
+    {
+      "id": "300330",
+      "title": "Belle Vue",
+      "latitude": 42.09289975,
+      "longitude": -83.11271498,
+      "directions": "On Dalhousie Street, Amherstburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300330",
+      "photo_urls": []
+    },
+    {
+      "id": "300416",
+      "title": "Historic McGregor",
+      "latitude": 42.14619167,
+      "longitude": -82.96886389,
+      "directions": "On Walker Road, Essex, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300416",
+      "photo_urls": []
+    },
+    {
+      "id": "300426",
+      "title": "Essex Railway Station",
+      "latitude": 42.1762636,
+      "longitude": -82.8213186,
+      "directions": "On Station Street, Essex, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300426",
+      "photo_urls": []
+    },
+    {
+      "id": "300428",
+      "title": "Essex Terminal Railway Caboose",
+      "latitude": 42.17631944,
+      "longitude": -82.8209,
+      "directions": "On Station Street North, Essex, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300428",
+      "photo_urls": []
+    },
+    {
+      "id": "300502",
+      "title": "The Sandwich Windmill - 1992",
+      "latitude": 42.30279319,
+      "longitude": -83.07746145,
+      "directions": "On Mill Street, Windsor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300502",
+      "photo_urls": []
+    },
+    {
+      "id": "300505",
+      "title": "Unitarian Universalist Church of Olinda / L’Église Universaliste Unitarienne d’Olinda",
+      "latitude": 42.08703333,
+      "longitude": -82.6715,
+      "directions": "On Olinda Side Road, Kingsville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300505",
+      "photo_urls": []
+    },
+    {
+      "id": "300508",
+      "title": "The Founding of Leamington",
+      "latitude": 42.05754167,
+      "longitude": -82.59977778,
+      "directions": "On Erie Street North, Leamington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300508",
+      "photo_urls": []
+    },
+    {
+      "id": "300541",
+      "title": "Place Vauquelin",
+      "latitude": 45.50860469,
+      "longitude": -73.55434846,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300541",
+      "photo_urls": []
+    },
+    {
+      "id": "300579",
+      "title": "Jacques Viger",
+      "latitude": 45.50859393,
+      "longitude": -73.55431925,
+      "directions": "Near Rue Notre-Dame Est, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300579",
+      "photo_urls": []
+    },
+    {
+      "id": "300611",
+      "title": "Horatio Nelson",
+      "latitude": 45.50837151,
+      "longitude": -73.55380089,
+      "directions": "On Place Jacques-Cartier, Montréal, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300611",
+      "photo_urls": []
+    },
+    {
+      "id": "300699",
+      "title": "Marguerite Bourgeoys",
+      "latitude": 45.50721258,
+      "longitude": -73.5551083,
+      "directions": "On Rue Notre-Dame Est, Montréal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300699",
+      "photo_urls": []
+    },
+    {
+      "id": "300700",
+      "title": "The Right Honourable Sir Wilfrid Laurier",
+      "latitude": 45.50495429,
+      "longitude": -73.57780092,
+      "directions": "Near Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300700",
+      "photo_urls": []
+    },
+    {
+      "id": "300756",
+      "title": "École Polytechnique Massacre",
+      "latitude": 45.50386255,
+      "longitude": -73.57791687,
+      "directions": "On Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300756",
+      "photo_urls": []
+    },
+    {
+      "id": "300783",
+      "title": "Caserne 1",
+      "latitude": 45.50104367,
+      "longitude": -73.55560426,
+      "directions": "On Place d&#39;Youville, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300783",
+      "photo_urls": []
+    },
+    {
+      "id": "300791",
+      "title": "Caserne 2",
+      "latitude": 45.50676148,
+      "longitude": -73.55468162,
+      "directions": "On Rue Saint Gabriel, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300791",
+      "photo_urls": []
+    },
+    {
+      "id": "300795",
+      "title": "Esplanade Tranquille",
+      "latitude": 45.50950875,
+      "longitude": -73.56445431,
+      "directions": "On Rue Clark, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300795",
+      "photo_urls": []
+    },
+    {
+      "id": "300796",
+      "title": "Henri Tranquille",
+      "latitude": 45.50949898,
+      "longitude": -73.56455491,
+      "directions": "Near Rue Clark, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300796",
+      "photo_urls": []
+    },
+    {
+      "id": "300797",
+      "title": "La Librairie Tranquille",
+      "latitude": 45.50950725,
+      "longitude": -73.56457312,
+      "directions": "Near Rue Clark, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300797",
+      "photo_urls": []
+    },
+    {
+      "id": "300798",
+      "title": "La passion partagée de la littérature à la Librairie Tranquille",
+      "latitude": 45.5095208,
+      "longitude": -73.56460443,
+      "directions": "Near Rue Clark, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300798",
+      "photo_urls": []
+    },
+    {
+      "id": "300799",
+      "title": "L'avant-garde artistique au rendez-vous Chez Tranquille",
+      "latitude": 45.50953051,
+      "longitude": -73.56462358,
+      "directions": "Near Rue Clark, Montréal, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300799",
+      "photo_urls": []
+    },
+    {
+      "id": "300800",
+      "title": "Le Cercle Universitaire de McGill / McGill University Faculty Club",
+      "latitude": 45.50330656,
+      "longitude": -73.57727711,
+      "directions": "On Rue McTavish, Montréal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300800",
+      "photo_urls": []
+    },
+    {
+      "id": "300830",
+      "title": "East End Incline Railway",
+      "latitude": 43.24301667,
+      "longitude": -79.85266111,
+      "directions": "On Mountain Park Avenue, Hamilton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300830",
+      "photo_urls": []
+    },
+    {
+      "id": "300854",
+      "title": "The International Labour Organization (ILO) / L'Organisation internationale du Travail (OIT)",
+      "latitude": 45.50558443,
+      "longitude": -73.5771765,
+      "directions": "Near Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300854",
+      "photo_urls": []
+    },
+    {
+      "id": "300898",
+      "title": "Second World War Commemorative Garden",
+      "latitude": 45.5050848,
+      "longitude": -73.57727913,
+      "directions": "Near Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300898",
+      "photo_urls": []
+    },
+    {
+      "id": "300899",
+      "title": "To the Memory of The Honourable James McGill",
+      "latitude": 45.50511956,
+      "longitude": -73.57734591,
+      "directions": "Near Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300899",
+      "photo_urls": []
+    },
+    {
+      "id": "300900",
+      "title": "L'Abbe Edouard Quertier",
+      "latitude": 47.50308987,
+      "longitude": -69.93814465,
+      "directions": "On State Route 132, Saint-Denis-de-la-Bouteillerie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300900",
+      "photo_urls": []
+    },
+    {
+      "id": "300982",
+      "title": "Alexander McFee Memorial",
+      "latitude": 45.49832787,
+      "longitude": -73.58036224,
+      "directions": "On Rue Sherbrooke Ouest (State Route 138) , Montréal, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300982",
+      "photo_urls": []
+    },
+    {
+      "id": "300983",
+      "title": "So We Will Not Forget: / Puissions-nous ne jamais oublier :",
+      "latitude": 45.50568265,
+      "longitude": -73.57734119,
+      "directions": "Near Rue McTavish, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300983",
+      "photo_urls": []
+    },
+    {
+      "id": "300990",
+      "title": "Presbyterian College Montreal",
+      "latitude": 45.50642751,
+      "longitude": -73.57614416,
+      "directions": "On Rue University, Montréal, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300990",
+      "photo_urls": []
+    },
+    {
+      "id": "300994",
+      "title": "Malak Karsh",
+      "latitude": 45.4269307,
+      "longitude": -75.69539079,
+      "directions": "On MacKenzie Avenue, Ottawa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300994",
+      "photo_urls": []
+    },
+    {
+      "id": "300996",
+      "title": "Édifice Edmonstone-Allan / Édifice des Commissaires",
+      "latitude": 45.50012282,
+      "longitude": -73.55248933,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300996",
+      "photo_urls": []
+    },
+    {
+      "id": "300997",
+      "title": "Une croix de chemin transformée",
+      "latitude": 47.45310162,
+      "longitude": -70.00099788,
+      "directions": "On State Route 132, Rivière-Ouelle, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300997",
+      "photo_urls": []
+    },
+    {
+      "id": "300998",
+      "title": "Première Croix du 1892",
+      "latitude": 47.68375023,
+      "longitude": -69.62506512,
+      "directions": "On State Route 289, Saint-Alexandre-de-Kamouraska, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300998",
+      "photo_urls": []
+    },
+    {
+      "id": "300999",
+      "title": "Un Monde de Silos / A World of Elevators",
+      "latitude": 45.49746231,
+      "longitude": -73.55242005,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300999",
+      "photo_urls": []
+    },
+    {
+      "id": "301000",
+      "title": "Concordia University: Our History and Presence / L'Université Concordia : une présence historique",
+      "latitude": 45.49692703,
+      "longitude": -73.57878576,
+      "directions": "On Boulevard De Maisonneuve Ouest, Montréal, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301000",
+      "photo_urls": []
+    },
+    {
+      "id": "301179",
+      "title": "Le site des écluses nos 1 et 2 / The site of locks 1 and 2",
+      "latitude": 45.49687057,
+      "longitude": -73.55248549,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301179",
+      "photo_urls": []
+    },
+    {
+      "id": "301192",
+      "title": "Trois Siecles D'histoire / Three Centuries of History",
+      "latitude": 45.49642449,
+      "longitude": -73.55242927,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301192",
+      "photo_urls": []
+    },
+    {
+      "id": "301195",
+      "title": "Le berceau de l'industrie / Cradle of Canadian Industry",
+      "latitude": 45.49643986,
+      "longitude": -73.55242927,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301195",
+      "photo_urls": []
+    },
+    {
+      "id": "301197",
+      "title": "Une ville en profonde mutation / Transformation of a City",
+      "latitude": 45.49645657,
+      "longitude": -73.55242927,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301197",
+      "photo_urls": []
+    },
+    {
+      "id": "301198",
+      "title": "Un petit monde en soi / A World Unto Itself",
+      "latitude": 45.4964736,
+      "longitude": -73.55242927,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301198",
+      "photo_urls": []
+    },
+    {
+      "id": "301199",
+      "title": "L'époque revolue des canalers / The Era of the Canaler",
+      "latitude": 45.49647219,
+      "longitude": -73.55235,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301199",
+      "photo_urls": []
+    },
+    {
+      "id": "301200",
+      "title": "Ingram Real Estate Block",
+      "latitude": 50.78766844,
+      "longitude": -112.46970759,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301200",
+      "photo_urls": []
+    },
+    {
+      "id": "301208",
+      "title": "Plattsville Park History",
+      "latitude": 43.30541667,
+      "longitude": -80.61605,
+      "directions": "On Mill Street East, Plattsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301208",
+      "photo_urls": []
+    },
+    {
+      "id": "301211",
+      "title": "Washington Public School Bell and Flag Pole",
+      "latitude": 43.29467778,
+      "longitude": -80.66703889,
+      "directions": "On Oxford Road 22, Chesterfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301211",
+      "photo_urls": []
+    },
+    {
+      "id": "301427",
+      "title": "245 Downie Street",
+      "latitude": 43.36648359,
+      "longitude": -80.97971308,
+      "directions": "On Downie Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301427",
+      "photo_urls": []
+    },
+    {
+      "id": "301428",
+      "title": "111-117 Downie Street",
+      "latitude": 43.36883644,
+      "longitude": -80.98108478,
+      "directions": "On Downie Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301428",
+      "photo_urls": []
+    },
+    {
+      "id": "301439",
+      "title": "Wet or Dry?",
+      "latitude": 43.36883449,
+      "longitude": -80.98309828,
+      "directions": "On George Street West, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301439",
+      "photo_urls": []
+    },
+    {
+      "id": "301441",
+      "title": "Mansion House",
+      "latitude": 43.36868499,
+      "longitude": -80.98343085,
+      "directions": "On St. Patrick Street, Stratford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301441",
+      "photo_urls": []
+    },
+    {
+      "id": "301565",
+      "title": "La batellerie du Saint-Laurent / The St. Lawrence Fleet",
+      "latitude": 45.496455,
+      "longitude": -73.55235,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301565",
+      "photo_urls": []
+    },
+    {
+      "id": "301579",
+      "title": "Daly Terrace (1875)",
+      "latitude": 43.36967282,
+      "longitude": -80.98403968,
+      "directions": "On Erie Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301579",
+      "photo_urls": []
+    },
+    {
+      "id": "301580",
+      "title": "Daly Terrace (1875)",
+      "latitude": 43.36965378,
+      "longitude": -80.9840467,
+      "directions": "On Erie Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301580",
+      "photo_urls": []
+    },
+    {
+      "id": "301584",
+      "title": "Les canaux du Saint-Laurent / The St. Lawrence Canals",
+      "latitude": 45.49643896,
+      "longitude": -73.55235,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301584",
+      "photo_urls": []
+    },
+    {
+      "id": "301589",
+      "title": "Vers L'intérieur du continent / Gateway to the Interior",
+      "latitude": 45.49642417,
+      "longitude": -73.55235,
+      "directions": "Near Rue de la Commune Ouest, Montréal, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301589",
+      "photo_urls": []
+    },
+    {
+      "id": "301619",
+      "title": "B.P.O.E. Bassano Lodge #487",
+      "latitude": 50.78765649,
+      "longitude": -112.46965731,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301619",
+      "photo_urls": []
+    },
+    {
+      "id": "301628",
+      "title": "The Founding of Stratford / La Fondation de Stratford",
+      "latitude": 43.37258056,
+      "longitude": -80.98487222,
+      "directions": "On Huron Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301628",
+      "photo_urls": []
+    },
+    {
+      "id": "301693",
+      "title": "The Dutch Memorial Garden",
+      "latitude": 43.37301944,
+      "longitude": -80.98518333,
+      "directions": "On William Street, Stratford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301693",
+      "photo_urls": []
+    },
+    {
+      "id": "301694",
+      "title": "God’s Holy Acre",
+      "latitude": 43.37354167,
+      "longitude": -80.984825,
+      "directions": "On William Street, Stratford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301694",
+      "photo_urls": []
+    },
+    {
+      "id": "301695",
+      "title": "St. James Church",
+      "latitude": 43.37406667,
+      "longitude": -80.98444444,
+      "directions": "On Mornington Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301695",
+      "photo_urls": []
+    },
+    {
+      "id": "301698",
+      "title": "The Stratford War Memorial",
+      "latitude": 43.37211111,
+      "longitude": -80.98268056,
+      "directions": "On York Street, Stratford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301698",
+      "photo_urls": []
+    },
+    {
+      "id": "301710",
+      "title": "Stratford Festival of Canada",
+      "latitude": 43.37213611,
+      "longitude": -80.9831,
+      "directions": "On York Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301710",
+      "photo_urls": []
+    },
+    {
+      "id": "301712",
+      "title": "Union Bank of Canada",
+      "latitude": 50.78765196,
+      "longitude": -112.46963356,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301712",
+      "photo_urls": []
+    },
+    {
+      "id": "301760",
+      "title": "The Freeland Fountain",
+      "latitude": 43.37160833,
+      "longitude": -80.98235278,
+      "directions": "On Ontario Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301760",
+      "photo_urls": []
+    },
+    {
+      "id": "301761",
+      "title": "Site of the Shakespeare Hotel",
+      "latitude": 43.3716,
+      "longitude": -80.98222222,
+      "directions": "On Ontario Street, Stratford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301761",
+      "photo_urls": []
+    },
+    {
+      "id": "301762",
+      "title": "70-76 Ontario",
+      "latitude": 43.37158087,
+      "longitude": -80.98208461,
+      "directions": "On Ontario Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301762",
+      "photo_urls": []
+    },
+    {
+      "id": "301774",
+      "title": "Stiles “The Druggist”",
+      "latitude": 50.78725657,
+      "longitude": -112.46871552,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301774",
+      "photo_urls": []
+    },
+    {
+      "id": "301796",
+      "title": "Crown Lumber Co.",
+      "latitude": 50.78750271,
+      "longitude": -112.46879292,
+      "directions": "On 2 Avenue, Bassano, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301796",
+      "photo_urls": []
+    },
+    {
+      "id": "301797",
+      "title": "Central Meat Market",
+      "latitude": 50.78729616,
+      "longitude": -112.46879932,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301797",
+      "photo_urls": []
+    },
+    {
+      "id": "301798",
+      "title": "Webster Bros. Gen. Merchants",
+      "latitude": 50.78725417,
+      "longitude": -112.46860591,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301798",
+      "photo_urls": []
+    },
+    {
+      "id": "301799",
+      "title": "Canadian Government Post Office",
+      "latitude": 50.78833579,
+      "longitude": -112.46883771,
+      "directions": "On 3 Street East, Bassano, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301799",
+      "photo_urls": []
+    },
+    {
+      "id": "301834",
+      "title": "Hunter Hotel",
+      "latitude": 50.78684328,
+      "longitude": -112.46682667,
+      "directions": "On 2 Avenue, Bassano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301834",
       "photo_urls": []
     }
   ]
