@@ -3,9 +3,9 @@
   "region_name": "Alberta",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-09T06:06:47.752Z",
-  "source_timestamp": "2026-05-09T06:06:47.752Z",
-  "marker_count": 229,
+  "generated": "2026-06-06T06:07:13.661Z",
+  "source_timestamp": "2026-06-06T06:07:13.661Z",
+  "marker_count": 230,
   "markers": [
     {
       "id": "100084",
@@ -1940,6 +1940,15 @@
       "longitude": -113.59960278,
       "directions": "Near Rooney Crescent Northwest, Edmonton, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294328",
+      "photo_urls": []
+    },
+    {
+      "id": "301889",
+      "title": "Brooks Aqueduct",
+      "latitude": 50.53177835,
+      "longitude": -111.83750973,
+      "directions": "On Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301889",
       "photo_urls": []
     },
     {
