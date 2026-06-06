@@ -3,9 +3,9 @@
   "region_name": "The Holocaust",
   "region_type": "state",
   "country": "Suriname",
-  "generated": "2026-05-09T06:06:47.810Z",
-  "source_timestamp": "2026-05-09T06:06:47.810Z",
-  "marker_count": 337,
+  "generated": "2026-06-06T06:07:13.715Z",
+  "source_timestamp": "2026-06-06T06:07:13.715Z",
+  "marker_count": 340,
   "markers": [
     {
       "id": "100089",
@@ -2750,6 +2750,33 @@
       "longitude": 10.98711944,
       "directions": "On Marktplatz, Fürth, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292909",
+      "photo_urls": []
+    },
+    {
+      "id": "300101",
+      "title": "Transvaalplein: 7. Oorlog en deportatie / War and Deportation",
+      "latitude": 52.35352216,
+      "longitude": 4.92286706,
+      "directions": "On Transvaalplein, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300101",
+      "photo_urls": []
+    },
+    {
+      "id": "300231",
+      "title": "École Élémentaire Publique Mont-Cenis Deported Jewish Students Memorial",
+      "latitude": 48.88853244,
+      "longitude": 2.34214014,
+      "directions": "On Rue du Mont-Cenis, Paris, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300231",
+      "photo_urls": []
+    },
+    {
+      "id": "301860",
+      "title": "Voormalig Nederlands-Israëlietisch Ziekenhuis / Former Dutch-Jewish Hospital",
+      "latitude": 52.3653542,
+      "longitude": 4.90772328,
+      "directions": "On Nieuwe Keizersgracht, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301860",
       "photo_urls": []
     },
     {
