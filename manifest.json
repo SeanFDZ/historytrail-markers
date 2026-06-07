@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-06T06:07:25.707Z",
+  "generated": "2026-06-07T06:06:34.355Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73253,
@@ -208,10 +208,10 @@
       "file": "regions/ca-bc.json",
       "markers": 498,
       "size_bytes": 146886,
-      "updated": "2026-05-10",
+      "updated": "2026-06-07",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 498,
+        "added": 499,
         "removed": 0,
         "modified": 0
       }
