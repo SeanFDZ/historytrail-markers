@@ -3,9 +3,9 @@
   "region_name": "Manitoba",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-11T06:09:25.073Z",
-  "source_timestamp": "2026-05-11T06:09:25.073Z",
-  "marker_count": 144,
+  "generated": "2026-06-08T06:05:32.659Z",
+  "source_timestamp": "2026-06-08T06:05:32.659Z",
+  "marker_count": 145,
   "markers": [
     {
       "id": "106418",
@@ -1229,6 +1229,15 @@
       "longitude": -96.74090782,
       "directions": "On Road 32 East, Gardenton, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=296627",
+      "photo_urls": []
+    },
+    {
+      "id": "301875",
+      "title": "The Fish",
+      "latitude": 49.14235091,
+      "longitude": -97.1559151,
+      "directions": "On Centennial Drive, Dominion City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301875",
       "photo_urls": []
     },
     {
