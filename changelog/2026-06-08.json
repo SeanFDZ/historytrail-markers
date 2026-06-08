@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-08",
+  "run_id": 160,
+  "cycle_day": 19,
+  "regions_processed": [
+    "ca-mb"
+  ],
+  "changes": {
+    "ca-mb": {
+      "added": 145,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 2845,
+  "total_removed": 0,
+  "total_modified": 0
+}
