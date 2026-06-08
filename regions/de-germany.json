@@ -3,9 +3,9 @@
   "region_name": "Germany",
   "region_type": "country",
   "country": "Germany",
-  "generated": "2026-05-11T06:09:25.075Z",
-  "source_timestamp": "2026-05-11T06:09:25.075Z",
-  "marker_count": 2320,
+  "generated": "2026-06-08T06:05:32.661Z",
+  "source_timestamp": "2026-06-08T06:05:32.661Z",
+  "marker_count": 2328,
   "markers": [
     {
       "id": "100030",
@@ -19247,6 +19247,78 @@
       "longitude": 13.40700488,
       "directions": "On Propststraße, Berlin, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299363",
+      "photo_urls": []
+    },
+    {
+      "id": "299364",
+      "title": "Martin Heinrich Klaproth",
+      "latitude": 52.5173135,
+      "longitude": 13.40786874,
+      "directions": "On Propststraße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299364",
+      "photo_urls": []
+    },
+    {
+      "id": "299481",
+      "title": "Rotes Rathaus / Red Town Hall",
+      "latitude": 52.51860688,
+      "longitude": 13.40819497,
+      "directions": "On Rathausstraße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299481",
+      "photo_urls": []
+    },
+    {
+      "id": "299482",
+      "title": "Wasserkaskaden am Fernsehturm / Water Cascades at the Television Tower",
+      "latitude": 52.52003451,
+      "longitude": 13.40799577,
+      "directions": "Near Spandauer Str., Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299482",
+      "photo_urls": []
+    },
+    {
+      "id": "299503",
+      "title": "Marienviertel / Marien Quarter",
+      "latitude": 52.52096268,
+      "longitude": 13.40751865,
+      "directions": "On Karl-Liebknecht-Straße, Berlin, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299503",
+      "photo_urls": []
+    },
+    {
+      "id": "299592",
+      "title": "St. Marienkirche / St. Mary’s Church",
+      "latitude": 52.52043245,
+      "longitude": 13.40771369,
+      "directions": "On Karl-Liebknecht-Straße, Berlin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299592",
+      "photo_urls": []
+    },
+    {
+      "id": "299622",
+      "title": "Eagle Square",
+      "latitude": 52.48336142,
+      "longitude": 13.38784933,
+      "directions": "On Platz der Luftbrücke, Berlin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299622",
+      "photo_urls": []
+    },
+    {
+      "id": "300249",
+      "title": "Parkanlage im Schlossgraben / The Park in the Castle Moat",
+      "latitude": 49.87425507,
+      "longitude": 8.65546523,
+      "directions": "Near Friedensplatz, Darmstadt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300249",
+      "photo_urls": []
+    },
+    {
+      "id": "300301",
+      "title": "Wilhelmstraße 68",
+      "latitude": 52.51541826,
+      "longitude": 13.38154991,
+      "directions": "On Wilhelmstraße, Berlin, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300301",
       "photo_urls": []
     },
     {
