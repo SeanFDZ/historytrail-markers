@@ -3,9 +3,9 @@
   "region_name": "Spain",
   "region_type": "country",
   "country": "Spain",
-  "generated": "2026-05-12T06:08:01.103Z",
-  "source_timestamp": "2026-05-12T06:08:01.103Z",
-  "marker_count": 562,
+  "generated": "2026-06-09T06:08:38.989Z",
+  "source_timestamp": "2026-06-09T06:08:38.989Z",
+  "marker_count": 564,
   "markers": [
     {
       "id": "140431",
@@ -5063,6 +5063,24 @@
       "longitude": 2.16656974,
       "directions": "Near Carretera de Montjuïc, Barcelona, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299557",
+      "photo_urls": []
+    },
+    {
+      "id": "299651",
+      "title": "L’orellot de Santa Amàlia / The Santa Amàlia Orillon",
+      "latitude": 41.36413889,
+      "longitude": 2.16593611,
+      "directions": "Near Avinguda del Castell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299651",
+      "photo_urls": []
+    },
+    {
+      "id": "300133",
+      "title": "El baluard de Santa Amàlia / The Santa Amàlia Bastion",
+      "latitude": 41.36438209,
+      "longitude": 2.16639368,
+      "directions": "Near Carrer del Castell, Barcelona, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300133",
       "photo_urls": []
     }
   ]
