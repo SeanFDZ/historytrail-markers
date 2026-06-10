@@ -3,9 +3,9 @@
   "region_name": "Ireland",
   "region_type": "country",
   "country": "Ireland",
-  "generated": "2026-05-13T06:08:50.901Z",
-  "source_timestamp": "2026-05-13T06:08:50.901Z",
-  "marker_count": 579,
+  "generated": "2026-06-10T06:08:17.055Z",
+  "source_timestamp": "2026-06-10T06:08:17.055Z",
+  "marker_count": 720,
   "markers": [
     {
       "id": "109137",
@@ -39,7 +39,7 @@
       "title": "Tiny and Teddy and Eugenie and Princess",
       "latitude": 53.18193635,
       "longitude": -6.18521718,
-      "directions": "Near , near Enniskerry, ",
+      "directions": "Near no nearby street, near Enniskerry, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=135692",
       "photo_urls": []
     },
@@ -1056,7 +1056,7 @@
       "title": "Cathair na Stéige / Staigue Fort",
       "latitude": 51.80505653,
       "longitude": -10.01633129,
-      "directions": "Near , near Staigue, ",
+      "directions": "Near no nearby street, near Staigue, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=140605",
       "photo_urls": []
     },
@@ -1677,7 +1677,7 @@
       "title": "Castletown",
       "latitude": 53.3511852,
       "longitude": -6.52811073,
-      "directions": "Near , Celbridge, ",
+      "directions": "Near no nearby street, Celbridge, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=143409",
       "photo_urls": []
     },
@@ -1803,7 +1803,7 @@
       "title": "Haslam Memorial Seat",
       "latitude": 53.33792,
       "longitude": -6.258766,
-      "directions": "Near , Dublin, ",
+      "directions": "Near no nearby street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22485",
       "photo_urls": []
     },
@@ -1812,7 +1812,7 @@
       "title": "James Clarence Mangan",
       "latitude": 53.338045,
       "longitude": -6.259918,
-      "directions": "Near , Dublin, ",
+      "directions": "Near no nearby street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22488",
       "photo_urls": []
     },
@@ -1821,7 +1821,7 @@
       "title": "Thomas M. Kettle",
       "latitude": 53.338037,
       "longitude": -6.258278,
-      "directions": "Near , Dublin, ",
+      "directions": "Near no nearby street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22489",
       "photo_urls": []
     },
@@ -1830,7 +1830,7 @@
       "title": "Countess Constance Markievicz",
       "latitude": 53.33779,
       "longitude": -6.259,
-      "directions": "Near , Dublin, ",
+      "directions": "Near no nearby street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22504",
       "photo_urls": []
     },
@@ -1839,7 +1839,7 @@
       "title": "The Woodhenge/Pit circle / The Winter Soltice",
       "latitude": 53.694401,
       "longitude": -6.474198,
-      "directions": "Near , Newgrange, ",
+      "directions": "Near no nearby street, Newgrange, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22522",
       "photo_urls": []
     },
@@ -1848,7 +1848,7 @@
       "title": "Slane Abbey",
       "latitude": 53.717203,
       "longitude": -6.542686,
-      "directions": "Near , Slane, ",
+      "directions": "Near no nearby street, Slane, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22533",
       "photo_urls": []
     },
@@ -1857,7 +1857,7 @@
       "title": "Saint Patrick on the Hill of Slane",
       "latitude": 53.717098,
       "longitude": -6.542686,
-      "directions": "Near , Slane, ",
+      "directions": "Near no nearby street, Slane, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22538",
       "photo_urls": []
     },
@@ -1929,7 +1929,7 @@
       "title": "Gallarus Oratory / Séipéilín Ghallarais",
       "latitude": 52.172879,
       "longitude": -10.35013,
-      "directions": "Near , near Gallarus, ",
+      "directions": "Near no nearby street, near Gallarus, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23499",
       "photo_urls": []
     },
@@ -2397,7 +2397,7 @@
       "title": "Kilmalkedar Church / Cill Mhaoilchéadair",
       "latitude": 52.184708,
       "longitude": -10.337132,
-      "directions": "Near , Kilmalkedar, ",
+      "directions": "Near Cois Farriage, Kilmalkedar, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24299",
       "photo_urls": []
     },
@@ -2514,7 +2514,7 @@
       "title": "Dunbeg Promontory Fort / An Dún Beag",
       "latitude": 52.103767,
       "longitude": -10.409009,
-      "directions": "Near , Fahan, ",
+      "directions": "Near no nearby street, Fahan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=24780",
       "photo_urls": []
     },
@@ -3549,7 +3549,7 @@
       "title": "William Butler Yeats",
       "latitude": 53.33835,
       "longitude": -6.260358,
-      "directions": "Near , Dublin, ",
+      "directions": "Near no nearby street, Dublin, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27039",
       "photo_urls": []
     },
@@ -4521,7 +4521,7 @@
       "title": "Meet The Yew",
       "latitude": 53.56148156,
       "longitude": -9.89119459,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271360",
       "photo_urls": []
     },
@@ -4530,7 +4530,7 @@
       "title": "Lake Walk",
       "latitude": 53.5612887,
       "longitude": -9.88992137,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271364",
       "photo_urls": []
     },
@@ -4539,7 +4539,7 @@
       "title": "Lake Walk",
       "latitude": 53.56180909,
       "longitude": -9.88699913,
-      "directions": "Near , Kylemore, ",
+      "directions": "Near no nearby street, Kylemore, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271375",
       "photo_urls": []
     },
@@ -4584,7 +4584,7 @@
       "title": "Knowth / Cnogbha",
       "latitude": 53.701743,
       "longitude": -6.490839,
-      "directions": "On , near Newgrange, ",
+      "directions": "On no nearby street, near Newgrange, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27219",
       "photo_urls": []
     },
@@ -4629,7 +4629,7 @@
       "title": "Kells Union Workhouse Paupers' Graveyard",
       "latitude": 53.733533,
       "longitude": -6.905079,
-      "directions": "Near , near Loyd, ",
+      "directions": "Near no nearby street, near Loyd, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=27326",
       "photo_urls": []
     },
@@ -4913,6 +4913,1275 @@
       "photo_urls": []
     },
     {
+      "id": "300141",
+      "title": "Tait’s Clock",
+      "latitude": 52.65994252,
+      "longitude": -8.6273354,
+      "directions": "On Pery Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300141",
+      "photo_urls": []
+    },
+    {
+      "id": "300146",
+      "title": "People's Park",
+      "latitude": 52.65909048,
+      "longitude": -8.62813813,
+      "directions": "Near Pery Square, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300146",
+      "photo_urls": []
+    },
+    {
+      "id": "300154",
+      "title": "Welcome to the People's Park / Fáilte go bPáirc an Phobail",
+      "latitude": 52.65896158,
+      "longitude": -8.62809395,
+      "directions": "Near Pery Square, Limerick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300154",
+      "photo_urls": []
+    },
+    {
+      "id": "300212",
+      "title": "A Star for Connie",
+      "latitude": 52.65711164,
+      "longitude": -8.62913125,
+      "directions": "Near Saint Joseph&#39;s Place, Limerick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300212",
+      "photo_urls": []
+    },
+    {
+      "id": "300213",
+      "title": "Denis M. Leonard",
+      "latitude": 52.65827326,
+      "longitude": -8.627171,
+      "directions": "Near Upper Mallow Street, Limerick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300213",
+      "photo_urls": []
+    },
+    {
+      "id": "300224",
+      "title": "John Daly & Edward Daly / Seán Ó Dálaigh agus Éamonn Ó Dálaigh",
+      "latitude": 52.65802616,
+      "longitude": -8.63045196,
+      "directions": "On Barrington Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300224",
+      "photo_urls": []
+    },
+    {
+      "id": "300227",
+      "title": "The Barrington Family",
+      "latitude": 52.65796627,
+      "longitude": -8.63021131,
+      "directions": "On Barrington Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300227",
+      "photo_urls": []
+    },
+    {
+      "id": "300281",
+      "title": "The Limerick Grand Prix",
+      "latitude": 52.65816868,
+      "longitude": -8.62981668,
+      "directions": "On Pery Square, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300281",
+      "photo_urls": []
+    },
+    {
+      "id": "300287",
+      "title": "The Georgian House and Garden",
+      "latitude": 52.65821985,
+      "longitude": -8.62977877,
+      "directions": "On Pery Square, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300287",
+      "photo_urls": []
+    },
+    {
+      "id": "300299",
+      "title": "Private James O’Rourke",
+      "latitude": 52.65833381,
+      "longitude": -8.6301188,
+      "directions": "Near Pery Square, Limerick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300299",
+      "photo_urls": []
+    },
+    {
+      "id": "300317",
+      "title": "Limerick Soviet 1919 Proclamation",
+      "latitude": 52.65868227,
+      "longitude": -8.62994984,
+      "directions": "On Upper Hartstonge Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300317",
+      "photo_urls": []
+    },
+    {
+      "id": "300318",
+      "title": "Joseph O’Mara",
+      "latitude": 52.65878736,
+      "longitude": -8.63018617,
+      "directions": "On Upper Hartstonge Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300318",
+      "photo_urls": []
+    },
+    {
+      "id": "300319",
+      "title": "Leamy’s School",
+      "latitude": 52.65884382,
+      "longitude": -8.63058549,
+      "directions": "On Upper Hartstonge Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300319",
+      "photo_urls": []
+    },
+    {
+      "id": "300320",
+      "title": "The Hartstonges",
+      "latitude": 52.65921549,
+      "longitude": -8.63134049,
+      "directions": "On Upper Hartstonge Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300320",
+      "photo_urls": []
+    },
+    {
+      "id": "300351",
+      "title": "Mathew Bridge",
+      "latitude": 52.66688399,
+      "longitude": -8.62375597,
+      "directions": "On Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300351",
+      "photo_urls": []
+    },
+    {
+      "id": "300377",
+      "title": "St. Mary's Cathedral",
+      "latitude": 52.66784343,
+      "longitude": -8.6243429,
+      "directions": "On Merchants Quay, Limerick, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300377",
+      "photo_urls": []
+    },
+    {
+      "id": "300398",
+      "title": "The United Nations Peace Garden",
+      "latitude": 52.66812153,
+      "longitude": -8.62415041,
+      "directions": "On Saint Augustine Place, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300398",
+      "photo_urls": []
+    },
+    {
+      "id": "300403",
+      "title": "United Nations Peace Garden",
+      "latitude": 52.66815208,
+      "longitude": -8.62420034,
+      "directions": "Near Saint Augustine Place, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300403",
+      "photo_urls": []
+    },
+    {
+      "id": "300407",
+      "title": "The West Door",
+      "latitude": 52.66809638,
+      "longitude": -8.62387824,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300407",
+      "photo_urls": []
+    },
+    {
+      "id": "300432",
+      "title": "St. Mary’s Cathedral",
+      "latitude": 52.66794048,
+      "longitude": -8.62353139,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300432",
+      "photo_urls": []
+    },
+    {
+      "id": "300433",
+      "title": "Katie (Cis) Smyth",
+      "latitude": 52.66793531,
+      "longitude": -8.62351326,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300433",
+      "photo_urls": []
+    },
+    {
+      "id": "300435",
+      "title": "The Graveyard",
+      "latitude": 52.66774752,
+      "longitude": -8.62328194,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300435",
+      "photo_urls": []
+    },
+    {
+      "id": "300437",
+      "title": "Maidenhair Fern",
+      "latitude": 52.66794965,
+      "longitude": -8.62344852,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300437",
+      "photo_urls": []
+    },
+    {
+      "id": "300439",
+      "title": "The Sexten Family Vault",
+      "latitude": 52.6679748,
+      "longitude": -8.6234511,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300439",
+      "photo_urls": []
+    },
+    {
+      "id": "300494",
+      "title": "The Barrington Vault",
+      "latitude": 52.66813462,
+      "longitude": -8.62333252,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300494",
+      "photo_urls": []
+    },
+    {
+      "id": "300495",
+      "title": "Welcome to Saint Mary's Cathedral, Limerick",
+      "latitude": 52.66771027,
+      "longitude": -8.62334429,
+      "directions": "On Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300495",
+      "photo_urls": []
+    },
+    {
+      "id": "300496",
+      "title": "Sylvester O’Halloran",
+      "latitude": 52.66750864,
+      "longitude": -8.62374781,
+      "directions": "On Merchant&#39;s Quay, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300496",
+      "photo_urls": []
+    },
+    {
+      "id": "300497",
+      "title": "Merchant’s Quay",
+      "latitude": 52.66744364,
+      "longitude": -8.62356395,
+      "directions": "On Merchant&#39;s Quay, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300497",
+      "photo_urls": []
+    },
+    {
+      "id": "300510",
+      "title": "St. Mary’s Cathedral",
+      "latitude": 52.66807814,
+      "longitude": -8.622693,
+      "directions": "On Nicholas Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300510",
+      "photo_urls": []
+    },
+    {
+      "id": "300528",
+      "title": "The Exchange Wall",
+      "latitude": 52.66817301,
+      "longitude": -8.62281756,
+      "directions": "On Nicholas Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300528",
+      "photo_urls": []
+    },
+    {
+      "id": "300530",
+      "title": "Bourke House",
+      "latitude": 52.6682576,
+      "longitude": -8.62222426,
+      "directions": "On Athlunkard Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300530",
+      "photo_urls": []
+    },
+    {
+      "id": "300533",
+      "title": "Athlunkard Street",
+      "latitude": 52.66836794,
+      "longitude": -8.6219954,
+      "directions": "On Athlunkard Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300533",
+      "photo_urls": []
+    },
+    {
+      "id": "300536",
+      "title": "Island Road & Remains of the City Walls",
+      "latitude": 52.66933277,
+      "longitude": -8.62175151,
+      "directions": "On Island Road, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300536",
+      "photo_urls": []
+    },
+    {
+      "id": "300540",
+      "title": "Villier’s Alms Houses",
+      "latitude": 52.67107609,
+      "longitude": -8.62530118,
+      "directions": "On Church Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300540",
+      "photo_urls": []
+    },
+    {
+      "id": "300542",
+      "title": "Villier’s Alms Houses",
+      "latitude": 52.67113211,
+      "longitude": -8.62540615,
+      "directions": "Near Church Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300542",
+      "photo_urls": []
+    },
+    {
+      "id": "300548",
+      "title": "St Munchin’s Church",
+      "latitude": 52.67076689,
+      "longitude": -8.62537657,
+      "directions": "On Church Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300548",
+      "photo_urls": []
+    },
+    {
+      "id": "300556",
+      "title": "Bishops Palace",
+      "latitude": 52.6704145,
+      "longitude": -8.62517934,
+      "directions": "On Castle Street, Limerick, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300556",
+      "photo_urls": []
+    },
+    {
+      "id": "300557",
+      "title": "The Bishop’s Palace",
+      "latitude": 52.67037821,
+      "longitude": -8.6251577,
+      "directions": "On Castle Street, Limerick, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300557",
+      "photo_urls": []
+    },
+    {
+      "id": "300558",
+      "title": "The Bishop's Palace / Saint Munchin's Church",
+      "latitude": 52.670558,
+      "longitude": -8.62495505,
+      "directions": "On Church Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300558",
+      "photo_urls": []
+    },
+    {
+      "id": "300562",
+      "title": "Michael Hogan",
+      "latitude": 52.67015019,
+      "longitude": -8.62493813,
+      "directions": "On Castle Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300562",
+      "photo_urls": []
+    },
+    {
+      "id": "300563",
+      "title": "King John’s Castle",
+      "latitude": 52.67005234,
+      "longitude": -8.62515477,
+      "directions": "On Castle Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300563",
+      "photo_urls": []
+    },
+    {
+      "id": "300565",
+      "title": "The Bishop’s Palace",
+      "latitude": 52.67035726,
+      "longitude": -8.62520507,
+      "directions": "On Castle Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300565",
+      "photo_urls": []
+    },
+    {
+      "id": "300570",
+      "title": "Sóivéid Luimní / Limerick Soviet",
+      "latitude": 52.67011734,
+      "longitude": -8.62823388,
+      "directions": "On Thomondgate, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300570",
+      "photo_urls": []
+    },
+    {
+      "id": "300572",
+      "title": "Second Siege of Limerick",
+      "latitude": 52.66995768,
+      "longitude": -8.62817232,
+      "directions": "On Clancy&#39;s Strand, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300572",
+      "photo_urls": []
+    },
+    {
+      "id": "300601",
+      "title": "The Treaty Stone",
+      "latitude": 52.66964837,
+      "longitude": -8.62808583,
+      "directions": "On Clancy&#39;s Strand, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300601",
+      "photo_urls": []
+    },
+    {
+      "id": "300603",
+      "title": "The Toll House",
+      "latitude": 52.67026873,
+      "longitude": -8.62625725,
+      "directions": "On Castle Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300603",
+      "photo_urls": []
+    },
+    {
+      "id": "300607",
+      "title": "Thomond Bridge",
+      "latitude": 52.67031197,
+      "longitude": -8.62626702,
+      "directions": "Near Castle Street, Limerick, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300607",
+      "photo_urls": []
+    },
+    {
+      "id": "300609",
+      "title": "The North Munster Masonic Centre",
+      "latitude": 52.67031833,
+      "longitude": -8.62537686,
+      "directions": "On Castle Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300609",
+      "photo_urls": []
+    },
+    {
+      "id": "300610",
+      "title": "The Bard of Thomond",
+      "latitude": 52.670346,
+      "longitude": -8.6252297,
+      "directions": "On Castle Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300610",
+      "photo_urls": []
+    },
+    {
+      "id": "300613",
+      "title": "Nicholas Street",
+      "latitude": 52.66977184,
+      "longitude": -8.62430528,
+      "directions": "On Nicholas Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300613",
+      "photo_urls": []
+    },
+    {
+      "id": "300614",
+      "title": "The Corporation Alms House",
+      "latitude": 52.66946687,
+      "longitude": -8.62462752,
+      "directions": "Near Nicholas Street, Limerick, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300614",
+      "photo_urls": []
+    },
+    {
+      "id": "300615",
+      "title": "Nicholas Street",
+      "latitude": 52.66923928,
+      "longitude": -8.62400248,
+      "directions": "On Nicholas Street, Limerick, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300615",
+      "photo_urls": []
+    },
+    {
+      "id": "300617",
+      "title": "Old City Court House & Gerald Griffin Memorial School",
+      "latitude": 52.66750456,
+      "longitude": -8.62324238,
+      "directions": "On Bridge Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300617",
+      "photo_urls": []
+    },
+    {
+      "id": "300619",
+      "title": "Willow Sculpture",
+      "latitude": 52.6677473,
+      "longitude": -8.6231206,
+      "directions": "Near Bridge Street, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300619",
+      "photo_urls": []
+    },
+    {
+      "id": "300621",
+      "title": "The Graveyard",
+      "latitude": 52.6680813,
+      "longitude": -8.6227359,
+      "directions": "Near Nicholas Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300621",
+      "photo_urls": []
+    },
+    {
+      "id": "300625",
+      "title": "Cuimhneachán 1916 / The 1916 Memorial",
+      "latitude": 52.6650249,
+      "longitude": -8.62988428,
+      "directions": "On Sarsfield Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300625",
+      "photo_urls": []
+    },
+    {
+      "id": "300629",
+      "title": "Cuimhneachán 1916 / The 1916 Memorial",
+      "latitude": 52.66506511,
+      "longitude": -8.6298655,
+      "directions": "Near Sarsfield Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300629",
+      "photo_urls": []
+    },
+    {
+      "id": "300631",
+      "title": "Sarsfield Bridge",
+      "latitude": 52.66547308,
+      "longitude": -8.63022733,
+      "directions": "On Sarsfield Street, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300631",
+      "photo_urls": []
+    },
+    {
+      "id": "300637",
+      "title": "Terry Wogan",
+      "latitude": 52.66428383,
+      "longitude": -8.63004774,
+      "directions": "On Harvey&#39;s Quay, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300637",
+      "photo_urls": []
+    },
+    {
+      "id": "300642",
+      "title": "Desmond O’Grady",
+      "latitude": 52.66104588,
+      "longitude": -8.62948588,
+      "directions": "On O&#39;Connell Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300642",
+      "photo_urls": []
+    },
+    {
+      "id": "300693",
+      "title": "Number 44 O’Connell Street",
+      "latitude": 52.661605,
+      "longitude": -8.6288845,
+      "directions": "On O&#39;Connell Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300693",
+      "photo_urls": []
+    },
+    {
+      "id": "300759",
+      "title": "St. Augustine's Church",
+      "latitude": 52.6627195,
+      "longitude": -8.6277377,
+      "directions": "On O&#39;Connell Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300759",
+      "photo_urls": []
+    },
+    {
+      "id": "300777",
+      "title": "Maurice Lenihan",
+      "latitude": 52.66547943,
+      "longitude": -8.62454832,
+      "directions": "On Patrick Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300777",
+      "photo_urls": []
+    },
+    {
+      "id": "300778",
+      "title": "Catherine Hayes",
+      "latitude": 52.66537735,
+      "longitude": -8.62468794,
+      "directions": "On Patrick Street, Limerick, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300778",
+      "photo_urls": []
+    },
+    {
+      "id": "300781",
+      "title": "Robert Graves",
+      "latitude": 52.66716118,
+      "longitude": -8.62310201,
+      "directions": "On George&#39;s Quay, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300781",
+      "photo_urls": []
+    },
+    {
+      "id": "300794",
+      "title": "Fannings Castle",
+      "latitude": 52.66744106,
+      "longitude": -8.62173306,
+      "directions": "On Mary Street, Limerick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300794",
+      "photo_urls": []
+    },
+    {
+      "id": "300801",
+      "title": "The Tholsel",
+      "latitude": 52.66744266,
+      "longitude": -8.62152132,
+      "directions": "On Mary Street, Limerick, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300801",
+      "photo_urls": []
+    },
+    {
+      "id": "300817",
+      "title": "Barrington’s Hospital",
+      "latitude": 52.6666867,
+      "longitude": -8.62105247,
+      "directions": "On George&#39;s Quay, Limerick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300817",
+      "photo_urls": []
+    },
+    {
+      "id": "300869",
+      "title": "Bryan Whelan and T.J. O’Herlihy",
+      "latitude": 52.66992959,
+      "longitude": -8.62815586,
+      "directions": "On Clancy&#39;s Strand, Limerick, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300869",
+      "photo_urls": []
+    },
+    {
+      "id": "300883",
+      "title": "Suíomh Geopháirc Aillte an Mhothair / Cliffs of Moher Geopark Site",
+      "latitude": 52.97162121,
+      "longitude": -9.42676361,
+      "directions": "On Moher Road, Knockevin, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300883",
+      "photo_urls": []
+    },
+    {
+      "id": "300901",
+      "title": "Bunratty Castle",
+      "latitude": 52.69638483,
+      "longitude": -8.81285261,
+      "directions": "Near Old Bunratty Road, Bunratty, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300901",
+      "photo_urls": []
+    },
+    {
+      "id": "300903",
+      "title": "Caiseal Óir",
+      "latitude": 52.69636687,
+      "longitude": -8.81279377,
+      "directions": "On Old Bunratty Road, Bunratty, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300903",
+      "photo_urls": []
+    },
+    {
+      "id": "300904",
+      "title": "Landscape and River",
+      "latitude": 52.69591362,
+      "longitude": -8.81118018,
+      "directions": "On Old Bunratty Road, Bunratty, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300904",
+      "photo_urls": []
+    },
+    {
+      "id": "300905",
+      "title": "Military Events",
+      "latitude": 52.69605272,
+      "longitude": -8.81118822,
+      "directions": "On Old Bunratty Road, Bunratty, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300905",
+      "photo_urls": []
+    },
+    {
+      "id": "300907",
+      "title": "Bunratty Bridge",
+      "latitude": 52.69622708,
+      "longitude": -8.81137879,
+      "directions": "On Old Bunratty Road, Bunratty, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300907",
+      "photo_urls": []
+    },
+    {
+      "id": "300908",
+      "title": "Bunratty House",
+      "latitude": 52.6961543,
+      "longitude": -8.8137875,
+      "directions": "On Bunratty West, Bunratty, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300908",
+      "photo_urls": []
+    },
+    {
+      "id": "300993",
+      "title": "James Beale",
+      "latitude": 51.90012034,
+      "longitude": -8.46171089,
+      "directions": "On Penrose Quay, Cork, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300993",
+      "photo_urls": []
+    },
+    {
+      "id": "300995",
+      "title": "S.S. Ardmore",
+      "latitude": 51.90016775,
+      "longitude": -8.46375295,
+      "directions": "On Penrose Quay, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300995",
+      "photo_urls": []
+    },
+    {
+      "id": "301129",
+      "title": "Rory Gallagher",
+      "latitude": 51.90151952,
+      "longitude": -8.46959305,
+      "directions": "On MacCurtain Street, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301129",
+      "photo_urls": []
+    },
+    {
+      "id": "301132",
+      "title": "John Lynch the Fenian / Seán Ó Loinsigh an Fínín",
+      "latitude": 51.90199418,
+      "longitude": -8.47159998,
+      "directions": "On Devonshire Street, Cork, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301132",
+      "photo_urls": []
+    },
+    {
+      "id": "301134",
+      "title": "Joan Denise Moriarty LL.D",
+      "latitude": 51.89997977,
+      "longitude": -8.47240114,
+      "directions": "On Emmett Place, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301134",
+      "photo_urls": []
+    },
+    {
+      "id": "301142",
+      "title": "Opera Lane / Lána an Cheoldráma",
+      "latitude": 51.8995479,
+      "longitude": -8.4729715,
+      "directions": "On Opera Lane, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301142",
+      "photo_urls": []
+    },
+    {
+      "id": "301155",
+      "title": "Rory Gallagher Place",
+      "latitude": 51.89942823,
+      "longitude": -8.4746553,
+      "directions": "On Rory Gallagher Place, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301155",
+      "photo_urls": []
+    },
+    {
+      "id": "301156",
+      "title": "Richard Dowden (Richard)",
+      "latitude": 51.89967947,
+      "longitude": -8.47465137,
+      "directions": "Near Paul Street, Cork, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301156",
+      "photo_urls": []
+    },
+    {
+      "id": "301262",
+      "title": "Daniel Maclise",
+      "latitude": 51.89912957,
+      "longitude": -8.47496996,
+      "directions": "On Paul Street, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301262",
+      "photo_urls": []
+    },
+    {
+      "id": "301264",
+      "title": "Mary Aikenhead",
+      "latitude": 51.89858566,
+      "longitude": -8.47588729,
+      "directions": "On Grand Parade, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301264",
+      "photo_urls": []
+    },
+    {
+      "id": "301265",
+      "title": "Sráid Phóil / Paul Street / Sráid an Chaisleáin / Castle Street",
+      "latitude": 51.8993449,
+      "longitude": -8.4746581,
+      "directions": "On Paul Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301265",
+      "photo_urls": []
+    },
+    {
+      "id": "301307",
+      "title": "Sráid an Chapaill Bhuí / Grand Parade / Cearnóg Daunt / Daunt’s Square",
+      "latitude": 51.89863863,
+      "longitude": -8.47576989,
+      "directions": "On Grand Parade, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301307",
+      "photo_urls": []
+    },
+    {
+      "id": "301309",
+      "title": "Sráid Mhargadh an Arbhair / Cornmarket Street",
+      "latitude": 51.89907056,
+      "longitude": -8.47620965,
+      "directions": "On Corn Market Street, Cork, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301309",
+      "photo_urls": []
+    },
+    {
+      "id": "301313",
+      "title": "Don Juan de Aquila",
+      "latitude": 51.89945336,
+      "longitude": -8.47675015,
+      "directions": "On Corn Market Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301313",
+      "photo_urls": []
+    },
+    {
+      "id": "301317",
+      "title": "Droichead an tSeandúin / Shandon Bridge",
+      "latitude": 51.9007798,
+      "longitude": -8.4761536,
+      "directions": "On Coal Quay, Cork, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301317",
+      "photo_urls": []
+    },
+    {
+      "id": "301319",
+      "title": "Sráid Mhargadh an Arbhair / Cornmarket Street",
+      "latitude": 51.9006457,
+      "longitude": -8.4764035,
+      "directions": "On Corn Market Street, Cork, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301319",
+      "photo_urls": []
+    },
+    {
+      "id": "301324",
+      "title": "Terence MacSwiney / Traolach Mac Suibhne",
+      "latitude": 51.9000337,
+      "longitude": -8.47857368,
+      "directions": "On North Main Street, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301324",
+      "photo_urls": []
+    },
+    {
+      "id": "301327",
+      "title": "Toirdhealbhach Mac Suibhne",
+      "latitude": 51.90007966,
+      "longitude": -8.47862825,
+      "directions": "On North Main Street, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301327",
+      "photo_urls": []
+    },
+    {
+      "id": "301332",
+      "title": "Site of Skiddy’s Castle",
+      "latitude": 51.90054003,
+      "longitude": -8.47926775,
+      "directions": "On North Main Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301332",
+      "photo_urls": []
+    },
+    {
+      "id": "301334",
+      "title": "Láthair Chaisleán an Scidígh / Site of Skiddys Castle",
+      "latitude": 51.90052055,
+      "longitude": -8.47934278,
+      "directions": "On North Main Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301334",
+      "photo_urls": []
+    },
+    {
+      "id": "301337",
+      "title": "The North Gate",
+      "latitude": 51.90091488,
+      "longitude": -8.47933582,
+      "directions": "On North Main Street, Cork, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301337",
+      "photo_urls": []
+    },
+    {
+      "id": "301408",
+      "title": "Cé an Chearlaigh / Kyrl’s Quay / Droichead Uí Ghríofa / Griffith Bridge",
+      "latitude": 51.90103843,
+      "longitude": -8.47928327,
+      "directions": "On Kyrl&#39;s Quay, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301408",
+      "photo_urls": []
+    },
+    {
+      "id": "301409",
+      "title": "George Boole",
+      "latitude": 51.90004794,
+      "longitude": -8.483029,
+      "directions": "On Grenville Place, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301409",
+      "photo_urls": []
+    },
+    {
+      "id": "301410",
+      "title": "Teach an Ardmhéara / The Mansion House",
+      "latitude": 51.89884427,
+      "longitude": -8.48275345,
+      "directions": "On Henry Street, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301410",
+      "photo_urls": []
+    },
+    {
+      "id": "301411",
+      "title": "John & Charles Wesley",
+      "latitude": 51.89904866,
+      "longitude": -8.48198614,
+      "directions": "On Henry Street, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301411",
+      "photo_urls": []
+    },
+    {
+      "id": "301749",
+      "title": "Sráid Anraí / Henry Street / Sráid Grattan / Grattan Street",
+      "latitude": 51.8999185,
+      "longitude": -8.48077578,
+      "directions": "On Grattan Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301749",
+      "photo_urls": []
+    },
+    {
+      "id": "301750",
+      "title": "Pádraig Ó h-Ainlí",
+      "latitude": 51.8993002,
+      "longitude": -8.48031606,
+      "directions": "On Grattan Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301750",
+      "photo_urls": []
+    },
+    {
+      "id": "301752",
+      "title": "An Area of Great Historical Significance",
+      "latitude": 51.89828729,
+      "longitude": -8.47740243,
+      "directions": "On South Main Street, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301752",
+      "photo_urls": []
+    },
+    {
+      "id": "301756",
+      "title": "The Burning of Cork 1920",
+      "latitude": 51.8992478,
+      "longitude": -8.4801773,
+      "directions": "On Grattan Street, Cork, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301756",
+      "photo_urls": []
+    },
+    {
+      "id": "301829",
+      "title": "Castle Street / North Main Street",
+      "latitude": 51.89850276,
+      "longitude": -8.47716437,
+      "directions": "On Castle Street, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301829",
+      "photo_urls": []
+    },
+    {
+      "id": "301831",
+      "title": "John George MacCarthy M.P.",
+      "latitude": 51.89850215,
+      "longitude": -8.47716653,
+      "directions": "On Castle Street, Cork, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301831",
+      "photo_urls": []
+    },
+    {
+      "id": "301836",
+      "title": "Sráid an Chaisleáin / Castle Street / An Phríomhshráid Thuaidh / North Main Street",
+      "latitude": 51.89858826,
+      "longitude": -8.47736804,
+      "directions": "On North Main Street, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301836",
+      "photo_urls": []
+    },
+    {
+      "id": "301838",
+      "title": "John Francis Maguire M.P.",
+      "latitude": 51.89879589,
+      "longitude": -8.47287506,
+      "directions": "On Academy Street, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301838",
+      "photo_urls": []
+    },
+    {
+      "id": "301841",
+      "title": "Sráid Phádraig / St Patrick's Street",
+      "latitude": 51.8986184,
+      "longitude": -8.4720259,
+      "directions": "On Saint Patrick&#39;s Street, Cork, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301841",
+      "photo_urls": []
+    },
+    {
+      "id": "301858",
+      "title": "Gaelic Athletic Association Second Meeting",
+      "latitude": 51.89833768,
+      "longitude": -8.47225194,
+      "directions": "On Saint Patrick&#39;s Street, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301858",
+      "photo_urls": []
+    },
+    {
+      "id": "301881",
+      "title": "\"The Echo Boy\"",
+      "latitude": 51.89860332,
+      "longitude": -8.47238743,
+      "directions": "On Saint Patrick&#39;s Street, Cork, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301881",
+      "photo_urls": []
+    },
+    {
+      "id": "301883",
+      "title": "Father Mathew",
+      "latitude": 51.90006169,
+      "longitude": -8.47059582,
+      "directions": "On Saint Patrick&#39;s Street, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301883",
+      "photo_urls": []
+    },
+    {
+      "id": "301904",
+      "title": "Sráid Phádraig / St Patrick’s Street / Droichead Phádraig / St Patrick’s Bridge",
+      "latitude": 51.8999007,
+      "longitude": -8.4704629,
+      "directions": "On Saint Patrick&#39;s Street, Cork, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301904",
+      "photo_urls": []
+    },
+    {
+      "id": "301911",
+      "title": "27 MacCurtain Street",
+      "latitude": 51.90147985,
+      "longitude": -8.46925298,
+      "directions": "On MacCurtain Street, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301911",
+      "photo_urls": []
+    },
+    {
+      "id": "301912",
+      "title": "The Everyman",
+      "latitude": 51.90141636,
+      "longitude": -8.46836973,
+      "directions": "On MacCurtain Street, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301912",
+      "photo_urls": []
+    },
+    {
+      "id": "301915",
+      "title": "Metropole Hotel",
+      "latitude": 51.90136622,
+      "longitude": -8.46772123,
+      "directions": "Near MacCurtain Street, Cork, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301915",
+      "photo_urls": []
+    },
+    {
+      "id": "301918",
+      "title": "The Muskerry Tram Turntable",
+      "latitude": 51.93170418,
+      "longitude": -8.56778607,
+      "directions": "On The Square, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301918",
+      "photo_urls": []
+    },
+    {
+      "id": "301921",
+      "title": "Welcome to Blarney Castle & Gardens",
+      "latitude": 51.93156779,
+      "longitude": -8.56800436,
+      "directions": "On The Square, Cork, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301921",
+      "photo_urls": []
+    },
+    {
+      "id": "301922",
+      "title": "Welcome to Blarney Castle & Gardens",
+      "latitude": 51.93128882,
+      "longitude": -8.56835692,
+      "directions": "Near The Square, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301922",
+      "photo_urls": []
+    },
+    {
+      "id": "301923",
+      "title": "Castle First Vista",
+      "latitude": 51.9310781,
+      "longitude": -8.5694517,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301923",
+      "photo_urls": []
+    },
+    {
+      "id": "301924",
+      "title": "Where Two Rivers Cross",
+      "latitude": 51.9308048,
+      "longitude": -8.57011939,
+      "directions": "On Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301924",
+      "photo_urls": []
+    },
+    {
+      "id": "301925",
+      "title": "The North Wall",
+      "latitude": 51.929505,
+      "longitude": -8.5709275,
+      "directions": "On Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301925",
+      "photo_urls": []
+    },
+    {
+      "id": "301928",
+      "title": "Kennel, Sentry & Dungeon",
+      "latitude": 51.929505,
+      "longitude": -8.5709275,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301928",
+      "photo_urls": []
+    },
+    {
+      "id": "301929",
+      "title": "An Doinsiún / The Dungeon",
+      "latitude": 51.929505,
+      "longitude": -8.5709275,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301929",
+      "photo_urls": []
+    },
+    {
+      "id": "301932",
+      "title": "Badgers Cave",
+      "latitude": 51.929297,
+      "longitude": -8.5711465,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301932",
+      "photo_urls": []
+    },
+    {
+      "id": "301933",
+      "title": "The Lookout Tower",
+      "latitude": 51.92930105,
+      "longitude": -8.57027918,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301933",
+      "photo_urls": []
+    },
+    {
+      "id": "301935",
+      "title": "Blarney House",
+      "latitude": 51.9290539,
+      "longitude": -8.5706861,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301935",
+      "photo_urls": []
+    },
+    {
+      "id": "301936",
+      "title": "Blarney Village",
+      "latitude": 51.9290539,
+      "longitude": -8.5706862,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301936",
+      "photo_urls": []
+    },
+    {
+      "id": "301940",
+      "title": "Blarney Railway",
+      "latitude": 51.9290539,
+      "longitude": -8.570686,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301940",
+      "photo_urls": []
+    },
+    {
+      "id": "301948",
+      "title": "Blarney Castle",
+      "latitude": 51.9290539,
+      "longitude": -8.5706863,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301948",
+      "photo_urls": []
+    },
+    {
+      "id": "301952",
+      "title": "Blarney Castle Timeline",
+      "latitude": 51.929049,
+      "longitude": -8.5706857,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301952",
+      "photo_urls": []
+    },
+    {
+      "id": "301957",
+      "title": "The Stable Yard",
+      "latitude": 51.9285627,
+      "longitude": -8.5699248,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301957",
+      "photo_urls": []
+    },
+    {
+      "id": "301958",
+      "title": "The Curtain Wall",
+      "latitude": 51.9289639,
+      "longitude": -8.5709272,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301958",
+      "photo_urls": []
+    },
+    {
+      "id": "301960",
+      "title": "Outer Defences",
+      "latitude": 51.9289806,
+      "longitude": -8.5709858,
+      "directions": "On Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301960",
+      "photo_urls": []
+    },
+    {
+      "id": "301964",
+      "title": "The Bawn",
+      "latitude": 51.928977,
+      "longitude": -8.5705138,
+      "directions": "On Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301964",
+      "photo_urls": []
+    },
+    {
+      "id": "301969",
+      "title": "Why Blarney?",
+      "latitude": 51.928977,
+      "longitude": -8.5705138,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301969",
+      "photo_urls": []
+    },
+    {
+      "id": "301971",
+      "title": "Castle History",
+      "latitude": 51.928977,
+      "longitude": -8.5705138,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301971",
+      "photo_urls": []
+    },
+    {
+      "id": "301975",
+      "title": "MacCarthy Family History",
+      "latitude": 51.9290587,
+      "longitude": -8.5706668,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301975",
+      "photo_urls": []
+    },
+    {
+      "id": "301977",
+      "title": "The Court",
+      "latitude": 51.9290578,
+      "longitude": -8.5706684,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301977",
+      "photo_urls": []
+    },
+    {
+      "id": "302161",
+      "title": "Jefferyes & Colthurst Family History",
+      "latitude": 51.9290578,
+      "longitude": -8.5706684,
+      "directions": "Near Blarney Castle Estate, Cork, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302161",
+      "photo_urls": []
+    },
+    {
       "id": "33198",
       "title": "The world's first automobile fatality",
       "latitude": 53.09789,
@@ -4935,7 +6204,7 @@
       "title": "Grianan Ailligh / Grianán Ailigh",
       "latitude": 55.024595,
       "longitude": -7.426734,
-      "directions": "On , near Burt, ",
+      "directions": "On no nearby street, near Burt, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=71458",
       "photo_urls": []
     },
