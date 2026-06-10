@@ -3,9 +3,9 @@
   "region_name": "Newfoundland and Labrador",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-13T06:08:50.900Z",
-  "source_timestamp": "2026-05-13T06:08:50.900Z",
-  "marker_count": 81,
+  "generated": "2026-06-10T06:08:17.054Z",
+  "source_timestamp": "2026-06-10T06:08:17.054Z",
+  "marker_count": 90,
   "markers": [
     {
       "id": "285952",
@@ -266,6 +266,87 @@
       "longitude": -53.10906897,
       "directions": "On Sweeneys Lane, Bonavista, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294796",
+      "photo_urls": []
+    },
+    {
+      "id": "301879",
+      "title": "Cabot's Landfall in the New World / L'Arrivée de Cabot au Nouveau-Monde",
+      "latitude": 48.69838306,
+      "longitude": -53.089325,
+      "directions": "On Cape Shore Road, Bonavista, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301879",
+      "photo_urls": []
+    },
+    {
+      "id": "301982",
+      "title": "Transatlantic Flights / Vols Transatlantiques",
+      "latitude": 47.69399942,
+      "longitude": -53.21085081,
+      "directions": "On Water Street East, Harbour Grace, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301982",
+      "photo_urls": []
+    },
+    {
+      "id": "301984",
+      "title": "Laurence Coughlan",
+      "latitude": 47.69427098,
+      "longitude": -53.21106038,
+      "directions": "On Water Street East, Harbour Grace, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301984",
+      "photo_urls": []
+    },
+    {
+      "id": "301989",
+      "title": "Education & Confederation",
+      "latitude": 47.67284934,
+      "longitude": -53.25532256,
+      "directions": "On Water Street West, Harbour Grace, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301989",
+      "photo_urls": []
+    },
+    {
+      "id": "302009",
+      "title": "Rothesay House, Munn/Godden Residence",
+      "latitude": 47.69308833,
+      "longitude": -53.21315372,
+      "directions": "On Water Street West, Harbour Grace, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302009",
+      "photo_urls": []
+    },
+    {
+      "id": "302012",
+      "title": "Amelia Earhart",
+      "latitude": 47.67224988,
+      "longitude": -53.25633838,
+      "directions": "On Water Street West, Harbour Grace, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302012",
+      "photo_urls": []
+    },
+    {
+      "id": "302015",
+      "title": "Hawthorne Cottage / Cottage Hawthorne",
+      "latitude": 47.53507962,
+      "longitude": -53.20987419,
+      "directions": "On South Street, Brigus, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302015",
+      "photo_urls": []
+    },
+    {
+      "id": "302017",
+      "title": "Rennie's Mill Road Historic District / Le District Historique de Rennie's Mill Road",
+      "latitude": 47.572541,
+      "longitude": -52.70996358,
+      "directions": "On Rennies Mill Road, St. John&#39;s, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302017",
+      "photo_urls": []
+    },
+    {
+      "id": "302204",
+      "title": "Otterbury Schoolhouse (Built circa 1884) / Preserving the Schoolhouse",
+      "latitude": 47.67292798,
+      "longitude": -53.25525034,
+      "directions": "On Water Street West, Harbour Grace, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302204",
       "photo_urls": []
     },
     {
