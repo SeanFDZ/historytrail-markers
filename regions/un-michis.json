@@ -3,9 +3,9 @@
   "region_name": "Michigan Historical Commission",
   "region_type": "state",
   "country": "United States of America",
-  "generated": "2026-05-14T06:10:59.072Z",
-  "source_timestamp": "2026-05-14T06:10:59.072Z",
-  "marker_count": 1524,
+  "generated": "2026-06-11T06:06:59.124Z",
+  "source_timestamp": "2026-06-11T06:06:59.124Z",
+  "marker_count": 1525,
   "markers": [
     {
       "id": "100136",
@@ -9698,6 +9698,15 @@
       "longitude": -83.745057,
       "directions": "On East Huron Street (Interstate Business 94) , Ann Arbor, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=292370",
+      "photo_urls": []
+    },
+    {
+      "id": "299916",
+      "title": "Chaldean Town",
+      "latitude": 42.43234841,
+      "longitude": -83.10691798,
+      "directions": "On West Seven Mile Road, Highland Park, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299916",
       "photo_urls": []
     },
     {
