@@ -3,9 +3,9 @@
   "region_name": "Australia",
   "region_type": "country",
   "country": "Australia",
-  "generated": "2026-05-14T06:10:59.056Z",
-  "source_timestamp": "2026-05-14T06:10:59.056Z",
-  "marker_count": 152,
+  "generated": "2026-06-11T06:06:59.107Z",
+  "source_timestamp": "2026-06-11T06:06:59.107Z",
+  "marker_count": 193,
   "markers": [
     {
       "id": "100365",
@@ -903,7 +903,7 @@
       "title": "Botanic Gardens Curators or Directors",
       "latitude": -37.82712778,
       "longitude": 144.97955833,
-      "directions": "Near , Melbourne, ",
+      "directions": "Near Alexandra Ave, Melbourne, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299168",
       "photo_urls": []
     },
@@ -1025,12 +1025,30 @@
       "photo_urls": []
     },
     {
+      "id": "299546",
+      "title": "Victorian Houses of Parliament",
+      "latitude": -37.81122778,
+      "longitude": 144.97344722,
+      "directions": "On Spring Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299546",
+      "photo_urls": []
+    },
+    {
       "id": "299547",
       "title": "Bourke Street c1900.",
       "latitude": -37.81156389,
       "longitude": 144.97275278,
       "directions": "On Bourke Street, Melbourne, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299547",
+      "photo_urls": []
+    },
+    {
+      "id": "299549",
+      "title": "Royal Exhibition Building and Carlton Gardens",
+      "latitude": -37.80733056,
+      "longitude": 144.97122778,
+      "directions": "On Victoria Parade, Carlton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299549",
       "photo_urls": []
     },
     {
@@ -1049,6 +1067,15 @@
       "longitude": 144.97540556,
       "directions": "On Victoria Parade (State Route 32) , East Melbourne, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299607",
+      "photo_urls": []
+    },
+    {
+      "id": "299608",
+      "title": "Aubrey Bowen Wing, Royal Victorian Eye and Ear Hospital",
+      "latitude": -37.80902778,
+      "longitude": 144.97657778,
+      "directions": "On Morrison Place, East Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299608",
       "photo_urls": []
     },
     {
@@ -1094,6 +1121,348 @@
       "longitude": 144.97596944,
       "directions": "On Cathedral Place, East Melbourne, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299619",
+      "photo_urls": []
+    },
+    {
+      "id": "299953",
+      "title": "Saint Patrick's College",
+      "latitude": -37.81087767,
+      "longitude": 144.977994,
+      "directions": "On Lansdowne Street, East Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299953",
+      "photo_urls": []
+    },
+    {
+      "id": "299956",
+      "title": "Fitzroy Gardens Welcome",
+      "latitude": -37.81427222,
+      "longitude": 144.97804167,
+      "directions": "On Landsdowne Street, East Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299956",
+      "photo_urls": []
+    },
+    {
+      "id": "300206",
+      "title": "A Great Australian Tree",
+      "latitude": -37.81463056,
+      "longitude": 144.97924444,
+      "directions": "Near Wellington Parade (State Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300206",
+      "photo_urls": []
+    },
+    {
+      "id": "300207",
+      "title": "Captain Cook's Pine",
+      "latitude": -37.81461667,
+      "longitude": 144.979125,
+      "directions": "Near Wellington Parade (State Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300207",
+      "photo_urls": []
+    },
+    {
+      "id": "300208",
+      "title": "Scarred Tree",
+      "latitude": -37.81483333,
+      "longitude": 144.98058333,
+      "directions": "On Wellington Parade (State Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300208",
+      "photo_urls": []
+    },
+    {
+      "id": "300209",
+      "title": "River God Fountain, 1862",
+      "latitude": -37.81033611,
+      "longitude": 144.98087222,
+      "directions": "On Albert Street, East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300209",
+      "photo_urls": []
+    },
+    {
+      "id": "300211",
+      "title": "Sinclair's Cottage",
+      "latitude": -37.81442778,
+      "longitude": 144.98028889,
+      "directions": "Near Wellington Parade (Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300211",
+      "photo_urls": []
+    },
+    {
+      "id": "300757",
+      "title": "The Fairies Tree",
+      "latitude": -37.81336389,
+      "longitude": 144.98107778,
+      "directions": "Near Wellington Parade (State Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300757",
+      "photo_urls": []
+    },
+    {
+      "id": "300758",
+      "title": "Model Tudor Village",
+      "latitude": -37.81318889,
+      "longitude": 144.98097778,
+      "directions": "Near Wellington Parade (State Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300758",
+      "photo_urls": []
+    },
+    {
+      "id": "300865",
+      "title": "Fitzroy Gardens",
+      "latitude": -37.81370833,
+      "longitude": 144.98033611,
+      "directions": "Near Wellington Parade (Route 30) , East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300865",
+      "photo_urls": []
+    },
+    {
+      "id": "300867",
+      "title": "Scotch College (Lansdowne Street)",
+      "latitude": -37.811375,
+      "longitude": 144.97797778,
+      "directions": "On Lansdowne Street, East Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300867",
+      "photo_urls": []
+    },
+    {
+      "id": "300871",
+      "title": "Scotch College",
+      "latitude": -37.81253889,
+      "longitude": 144.97345,
+      "directions": "On Spring Street, Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300871",
+      "photo_urls": []
+    },
+    {
+      "id": "300873",
+      "title": "Taken not Given",
+      "latitude": -37.81230879,
+      "longitude": 144.97760028,
+      "directions": "On Lansdowne Street, East Melbourne, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300873",
+      "photo_urls": []
+    },
+    {
+      "id": "300875",
+      "title": "John F. Kennedy Memorial",
+      "latitude": -37.81389444,
+      "longitude": 144.97639444,
+      "directions": "Near Treasury Place, East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300875",
+      "photo_urls": []
+    },
+    {
+      "id": "300878",
+      "title": "Great Petition Sculpture",
+      "latitude": -37.81158056,
+      "longitude": 144.975175,
+      "directions": "On Parliament Place, East Melbourne, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300878",
+      "photo_urls": []
+    },
+    {
+      "id": "300881",
+      "title": "Great Petition",
+      "latitude": -37.81146111,
+      "longitude": 144.97507778,
+      "directions": "On Macarthur Street, East Melbourne, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300881",
+      "photo_urls": []
+    },
+    {
+      "id": "300885",
+      "title": "Coaxial Cable - Sydney to Melbourne",
+      "latitude": -37.81209444,
+      "longitude": 144.9743,
+      "directions": "On Macarthur Street, East Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300885",
+      "photo_urls": []
+    },
+    {
+      "id": "301133",
+      "title": "The Salvation Army Temple",
+      "latitude": -37.8119044,
+      "longitude": 144.97146568,
+      "directions": "On Bourke Street, Melbourne, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301133",
+      "photo_urls": []
+    },
+    {
+      "id": "301737",
+      "title": "Richmond War Memorial",
+      "latitude": -37.82881111,
+      "longitude": 145.00126111,
+      "directions": "On Mary Street, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301737",
+      "photo_urls": []
+    },
+    {
+      "id": "301738",
+      "title": "100th Anniversary of Anzac Landing at Gallipoli",
+      "latitude": -37.82881389,
+      "longitude": 145.00125278,
+      "directions": "On Mary Street, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301738",
+      "photo_urls": []
+    },
+    {
+      "id": "301739",
+      "title": "WW1 Field Gun, Barkly Gardens Richmond",
+      "latitude": -37.82850833,
+      "longitude": 145.00126944,
+      "directions": "On Mary Street, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301739",
+      "photo_urls": []
+    },
+    {
+      "id": "301747",
+      "title": "Silencing War",
+      "latitude": -37.82857778,
+      "longitude": 145.001275,
+      "directions": "On Mary Street, Richmond, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301747",
+      "photo_urls": []
+    },
+    {
+      "id": "301807",
+      "title": "Ringwood's WWI Casualties",
+      "latitude": -37.81678356,
+      "longitude": 145.22814838,
+      "directions": "On Station Street, Ringwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301807",
+      "photo_urls": []
+    },
+    {
+      "id": "301808",
+      "title": "Conscription and Honours",
+      "latitude": -37.81660278,
+      "longitude": 145.22851111,
+      "directions": "On Station Street, Ringwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301808",
+      "photo_urls": []
+    },
+    {
+      "id": "301809",
+      "title": "Ringwood's WWI Honour Boards",
+      "latitude": -37.81638293,
+      "longitude": 145.22912989,
+      "directions": "On Station Street, Ringwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301809",
+      "photo_urls": []
+    },
+    {
+      "id": "301810",
+      "title": "Ringwood RSL Memorial Marker",
+      "latitude": -37.81635556,
+      "longitude": 145.22923889,
+      "directions": "On Station Street, Ringwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301810",
+      "photo_urls": []
+    },
+    {
+      "id": "301811",
+      "title": "Ringwood RSL Women's Auxilliary",
+      "latitude": -37.81634722,
+      "longitude": 145.22922778,
+      "directions": "On Station Street, Ringwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301811",
+      "photo_urls": []
+    },
+    {
+      "id": "301812",
+      "title": "First Australian President of Rotary International",
+      "latitude": -37.83369722,
+      "longitude": 144.98252778,
+      "directions": "On Birdwood Avenue, Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301812",
+      "photo_urls": []
+    },
+    {
+      "id": "301813",
+      "title": "The Wattle",
+      "latitude": -37.83245556,
+      "longitude": 144.97889444,
+      "directions": "Near Birdwood Avenue, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301813",
+      "photo_urls": []
+    },
+    {
+      "id": "301815",
+      "title": "Carlo Catani",
+      "latitude": -37.82816667,
+      "longitude": 144.9848,
+      "directions": "On Alexandra Avenue, South Yarra, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301815",
+      "photo_urls": []
+    },
+    {
+      "id": "302043",
+      "title": "Sydney Road",
+      "latitude": -37.74093056,
+      "longitude": 144.96684444,
+      "directions": "On Sydney Road (State Route 55) , Coburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302043",
+      "photo_urls": []
+    },
+    {
+      "id": "302044",
+      "title": "Coburg Lake Reserve",
+      "latitude": -37.73437222,
+      "longitude": 144.97130278,
+      "directions": "Near Newlands Road, Coburg North, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302044",
+      "photo_urls": []
+    },
+    {
+      "id": "302150",
+      "title": "River Red Gum",
+      "latitude": -37.80896111,
+      "longitude": 144.97051944,
+      "directions": "Near Little Lonsdale Street, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302150",
+      "photo_urls": []
+    },
+    {
+      "id": "302155",
+      "title": "Digging through Time",
+      "latitude": -37.80889149,
+      "longitude": 144.97107202,
+      "directions": "On Casselden Place, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302155",
+      "photo_urls": []
+    },
+    {
+      "id": "302205",
+      "title": "Madame Brussels",
+      "latitude": -37.80883572,
+      "longitude": 144.97112059,
+      "directions": "On Casselden Place, Melbourne, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302205",
+      "photo_urls": []
+    },
+    {
+      "id": "302206",
+      "title": "Bill Proudfoot",
+      "latitude": -37.80885892,
+      "longitude": 144.97116503,
+      "directions": "On Casselden Place, Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302206",
+      "photo_urls": []
+    },
+    {
+      "id": "302207",
+      "title": "Sister Esther",
+      "latitude": -37.80884454,
+      "longitude": 144.9712028,
+      "directions": "On Casselden Place, Melbourne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302207",
+      "photo_urls": []
+    },
+    {
+      "id": "302208",
+      "title": "Ti Cum Ah Chung, 1903",
+      "latitude": -37.80883065,
+      "longitude": 144.97120863,
+      "directions": "On Casselden Place, Melbourne, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302208",
       "photo_urls": []
     },
     {
