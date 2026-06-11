@@ -3,9 +3,9 @@
   "region_name": "Sweden",
   "region_type": "country",
   "country": "Sweden",
-  "generated": "2026-05-14T06:10:59.071Z",
-  "source_timestamp": "2026-05-14T06:10:59.071Z",
-  "marker_count": 56,
+  "generated": "2026-06-11T06:06:59.124Z",
+  "source_timestamp": "2026-06-11T06:06:59.124Z",
+  "marker_count": 58,
   "markers": [
     {
       "id": "105621",
@@ -500,6 +500,24 @@
       "longitude": 12.69159167,
       "directions": "On Hamntorget, Helsingborg, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=244209",
+      "photo_urls": []
+    },
+    {
+      "id": "299910",
+      "title": "Broderiparterren",
+      "latitude": 59.32117483,
+      "longitude": 17.88344351,
+      "directions": "Near , Stockholm, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299910",
+      "photo_urls": []
+    },
+    {
+      "id": "300061",
+      "title": "St Göransporten / St. George Gate",
+      "latitude": 57.64548464,
+      "longitude": 18.29969421,
+      "directions": "Near Silverhättan, Visby, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300061",
       "photo_urls": []
     },
     {
