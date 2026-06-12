@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-12",
+  "run_id": 164,
+  "cycle_day": 23,
+  "regions_processed": [
+    "at-austria"
+  ],
+  "changes": {
+    "at-austria": {
+      "added": 189,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 7567,
+  "total_removed": 0,
+  "total_modified": 0
+}
