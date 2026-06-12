@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-11T06:07:12.185Z",
+  "generated": "2026-06-12T06:07:51.652Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73295,
@@ -48,7 +48,7 @@
       "file": "regions/at-austria.json",
       "markers": 183,
       "size_bytes": 55128,
-      "updated": "2026-05-15",
+      "updated": "2026-06-12",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 189,
