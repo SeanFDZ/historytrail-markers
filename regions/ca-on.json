@@ -3,9 +3,9 @@
   "region_name": "Ontario",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-15T06:06:38.345Z",
-  "source_timestamp": "2026-05-15T06:06:38.345Z",
-  "marker_count": 4495,
+  "generated": "2026-06-12T06:07:36.193Z",
+  "source_timestamp": "2026-06-12T06:07:36.193Z",
+  "marker_count": 4559,
   "markers": [
     {
       "id": "100728",
@@ -37571,6 +37571,582 @@
       "longitude": -80.29028333,
       "directions": "On Main Street South (Norfolk County Road 24), Waterford, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299681",
+      "photo_urls": []
+    },
+    {
+      "id": "301175",
+      "title": "St. Matthew’s Lutheran Church",
+      "latitude": 43.30783889,
+      "longitude": -80.77649722,
+      "directions": "On Maplewood Sideroad, near Tavistock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301175",
+      "photo_urls": []
+    },
+    {
+      "id": "301220",
+      "title": "“The Glass Swan”",
+      "latitude": 43.3198705,
+      "longitude": -80.83738834,
+      "directions": "On Woodstock Street South, Tavistock, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301220",
+      "photo_urls": []
+    },
+    {
+      "id": "301224",
+      "title": "6-8 Shakespeare Street",
+      "latitude": 43.36558056,
+      "longitude": -80.97921667,
+      "directions": "On Shakespeare Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301224",
+      "photo_urls": []
+    },
+    {
+      "id": "301296",
+      "title": "Stratford’s Railway Industry",
+      "latitude": 43.36531944,
+      "longitude": -80.97911111,
+      "directions": "On Downie Street, Stratford, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301296",
+      "photo_urls": []
+    },
+    {
+      "id": "301819",
+      "title": "Bellamy's Grist Mill / Minoterie à vapeur Bellamy",
+      "latitude": 44.94707868,
+      "longitude": -75.06831433,
+      "directions": "Near no nearby street, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301819",
+      "photo_urls": []
+    },
+    {
+      "id": "301850",
+      "title": "Broom-maker's House / La Maison du fabricant de balais",
+      "latitude": 44.94664173,
+      "longitude": -75.0672467,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301850",
+      "photo_urls": []
+    },
+    {
+      "id": "301853",
+      "title": "Site of First Canada Company Mill",
+      "latitude": 43.37223889,
+      "longitude": -80.98354444,
+      "directions": "On York Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301853",
+      "photo_urls": []
+    },
+    {
+      "id": "301855",
+      "title": "Planbook Facade",
+      "latitude": 43.3713094,
+      "longitude": -80.98188626,
+      "directions": "On Ontario Street, Stratford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301855",
+      "photo_urls": []
+    },
+    {
+      "id": "301856",
+      "title": "Festival Square",
+      "latitude": 43.37115313,
+      "longitude": -80.98238078,
+      "directions": "On Downie Street, Stratford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301856",
+      "photo_urls": []
+    },
+    {
+      "id": "301859",
+      "title": "Gordon Block",
+      "latitude": 43.37134191,
+      "longitude": -80.98248887,
+      "directions": "On Downie Street, Stratford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301859",
+      "photo_urls": []
+    },
+    {
+      "id": "301863",
+      "title": "Chautauqua Park",
+      "latitude": 43.25768548,
+      "longitude": -79.09194454,
+      "directions": "On Oak Drive, Niagara-on-the-Lake, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301863",
+      "photo_urls": []
+    },
+    {
+      "id": "301865",
+      "title": "Landsdowne Pond Wetland Biodiversity Enhancement Project",
+      "latitude": 43.26085707,
+      "longitude": -79.09214604,
+      "directions": "On Niagara Boulevard, Niagara-on-the-Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301865",
+      "photo_urls": []
+    },
+    {
+      "id": "301869",
+      "title": "Teyoninhokarawen (John Norton) (1770-1827)",
+      "latitude": 43.15957184,
+      "longitude": -79.05360235,
+      "directions": "On Niagara River Parkway, Niagara-on-the-Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301869",
+      "photo_urls": []
+    },
+    {
+      "id": "301872",
+      "title": "Fire Engine House / Poste de Pompiers",
+      "latitude": 44.94696577,
+      "longitude": -75.06721145,
+      "directions": "Near , Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301872",
+      "photo_urls": []
+    },
+    {
+      "id": "301876",
+      "title": "Providence Chapel / Église de la Providence",
+      "latitude": 44.9476153,
+      "longitude": -75.06651159,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301876",
+      "photo_urls": []
+    },
+    {
+      "id": "301880",
+      "title": "Cabinetmaker's Shop / L'atelier de l'ébéniste",
+      "latitude": 44.94758147,
+      "longitude": -75.06640857,
+      "directions": "Near no nearby street, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301880",
+      "photo_urls": []
+    },
+    {
+      "id": "301885",
+      "title": "Richardson-Kiely House circa 1832",
+      "latitude": 43.25818846,
+      "longitude": -79.07740691,
+      "directions": "On Queen Street, Niagara-on-the-Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301885",
+      "photo_urls": []
+    },
+    {
+      "id": "301888",
+      "title": "Willard's Hotel / L'hôtel Willard",
+      "latitude": 44.94697907,
+      "longitude": -75.0659145,
+      "directions": "Near no nearby street, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301888",
+      "photo_urls": []
+    },
+    {
+      "id": "301890",
+      "title": "Cottage Hospital circa 1820, 1920-1951",
+      "latitude": 43.25759609,
+      "longitude": -79.07615019,
+      "directions": "On Queen Street, Niagara-on-the-Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301890",
+      "photo_urls": []
+    },
+    {
+      "id": "301934",
+      "title": "George Bernard Shaw (1856-1950)",
+      "latitude": 43.25607135,
+      "longitude": -79.07377722,
+      "directions": "On Queen Street, Niagara-on-the-Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301934",
+      "photo_urls": []
+    },
+    {
+      "id": "301941",
+      "title": "The Shakespearean Gardens",
+      "latitude": 43.37200278,
+      "longitude": -80.98486389,
+      "directions": "On Huron Street, Stratford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301941",
+      "photo_urls": []
+    },
+    {
+      "id": "301942",
+      "title": "Upper Canada Heritage Trail",
+      "latitude": 43.24777243,
+      "longitude": -79.0770401,
+      "directions": "On John Street E, Niagara-on-the-Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301942",
+      "photo_urls": []
+    },
+    {
+      "id": "301944",
+      "title": "Huron Street Bridge 1885",
+      "latitude": 43.37208611,
+      "longitude": -80.98486389,
+      "directions": "On Huron Street, Stratford, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301944",
+      "photo_urls": []
+    },
+    {
+      "id": "301945",
+      "title": "Upper Canada Heritage Trail",
+      "latitude": 43.23487131,
+      "longitude": -79.07208081,
+      "directions": "On East & West Line, Niagara-on-the-Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301945",
+      "photo_urls": []
+    },
+    {
+      "id": "301947",
+      "title": "The Queen’s Inn",
+      "latitude": 43.37126933,
+      "longitude": -80.97938817,
+      "directions": "On Ontario Street (Highway 8), Stratford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301947",
+      "photo_urls": []
+    },
+    {
+      "id": "301949",
+      "title": "The Founding of Burford",
+      "latitude": 43.10182222,
+      "longitude": -80.43631111,
+      "directions": "On King Street, Brant, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301949",
+      "photo_urls": []
+    },
+    {
+      "id": "301950",
+      "title": "Rare and Interesting Animals in Niagara-on-the-Lake",
+      "latitude": 43.24598454,
+      "longitude": -79.07666977,
+      "directions": "On John St E, Niagara-on-the-Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301950",
+      "photo_urls": []
+    },
+    {
+      "id": "301955",
+      "title": "Perley School Bell",
+      "latitude": 43.14940278,
+      "longitude": -80.38790833,
+      "directions": "On Bethel Road, near Brantford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301955",
+      "photo_urls": []
+    },
+    {
+      "id": "301956",
+      "title": "Our Carolinian Forest Zone",
+      "latitude": 43.24377262,
+      "longitude": -79.07574912,
+      "directions": "Near Charlotte Street, Niagara-on-the-Lake, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301956",
+      "photo_urls": []
+    },
+    {
+      "id": "301959",
+      "title": "History of the Heritage Trail: Escarpment and Railroad",
+      "latitude": 43.24092887,
+      "longitude": -79.07452544,
+      "directions": "On The Promenade, Niagara-on-the-Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301959",
+      "photo_urls": []
+    },
+    {
+      "id": "301972",
+      "title": "Nationally-Rare Trees in Niagara-on-the-Lake",
+      "latitude": 43.23939597,
+      "longitude": -79.07385334,
+      "directions": "Near The Promenade, Niagara-on-the-Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301972",
+      "photo_urls": []
+    },
+    {
+      "id": "301978",
+      "title": "St. Saviour / The Brock Memorial Church",
+      "latitude": 43.16602929,
+      "longitude": -79.05368535,
+      "directions": "On Princess Street, Niagara-on-the-Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301978",
+      "photo_urls": []
+    },
+    {
+      "id": "301986",
+      "title": "Major General Sir Isaac Brock K.B.",
+      "latitude": 43.16601162,
+      "longitude": -79.05373561,
+      "directions": "On Highlander St, Niagara-on-the-Lake, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301986",
+      "photo_urls": []
+    },
+    {
+      "id": "302014",
+      "title": "Blacksmith Shop / La Forge",
+      "latitude": 44.94733334,
+      "longitude": -75.06673377,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302014",
+      "photo_urls": []
+    },
+    {
+      "id": "302021",
+      "title": "Union Cheese Factory / La fromagerie Union",
+      "latitude": 44.94798414,
+      "longitude": -75.06422532,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302021",
+      "photo_urls": []
+    },
+    {
+      "id": "302023",
+      "title": "Schoolhouse / L'école",
+      "latitude": 44.94824644,
+      "longitude": -75.06498362,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302023",
+      "photo_urls": []
+    },
+    {
+      "id": "302053",
+      "title": "Sir John A. Macdonald Plaza",
+      "latitude": 43.64564331,
+      "longitude": -79.38015406,
+      "directions": "On Front Street West, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302053",
+      "photo_urls": []
+    },
+    {
+      "id": "302056",
+      "title": "Hockey Hall of Fame / Le Temple de renomée du hockey",
+      "latitude": 43.64678889,
+      "longitude": -79.37732778,
+      "directions": "On Front Street West, Toronto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302056",
+      "photo_urls": []
+    },
+    {
+      "id": "302058",
+      "title": "Canadian Pacific Railway Building",
+      "latitude": 43.64873889,
+      "longitude": -79.37760278,
+      "directions": "On Yonge Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302058",
+      "photo_urls": []
+    },
+    {
+      "id": "302061",
+      "title": "The “Canada First” Movement",
+      "latitude": 43.64950054,
+      "longitude": -79.38049601,
+      "directions": "On Bay Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302061",
+      "photo_urls": []
+    },
+    {
+      "id": "302063",
+      "title": "The National Club",
+      "latitude": 43.64943359,
+      "longitude": -79.38045797,
+      "directions": "On Bay Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302063",
+      "photo_urls": []
+    },
+    {
+      "id": "302100",
+      "title": "Christ Church / L'église du Christ",
+      "latitude": 44.9461456,
+      "longitude": -75.06650951,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302100",
+      "photo_urls": []
+    },
+    {
+      "id": "302113",
+      "title": "Signal Tower / Tour à signaux",
+      "latitude": 44.94579097,
+      "longitude": -75.06192175,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302113",
+      "photo_urls": []
+    },
+    {
+      "id": "302119",
+      "title": "Family Activity Centre / Centre d'activités familiales",
+      "latitude": 44.94583186,
+      "longitude": -75.06268774,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302119",
+      "photo_urls": []
+    },
+    {
+      "id": "302202",
+      "title": "Gazette Printing Office / Imprimerie La Gazette",
+      "latitude": 44.94815553,
+      "longitude": -75.06541969,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302202",
+      "photo_urls": []
+    },
+    {
+      "id": "302212",
+      "title": "Beach's Sawmill / Scierie Beach",
+      "latitude": 44.94668075,
+      "longitude": -75.06748192,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302212",
+      "photo_urls": []
+    },
+    {
+      "id": "302214",
+      "title": "Bakery / La boulangerie",
+      "latitude": 44.94703275,
+      "longitude": -75.06631711,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302214",
+      "photo_urls": []
+    },
+    {
+      "id": "302253",
+      "title": "Hiram Piper Building",
+      "latitude": 43.64970306,
+      "longitude": -79.37799292,
+      "directions": "On Yonge Street, Toronto, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302253",
+      "photo_urls": []
+    },
+    {
+      "id": "302254",
+      "title": "Site of Toronto’s First Moving Picture Show",
+      "latitude": 43.65028278,
+      "longitude": -79.37816686,
+      "directions": "On Yonge Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302254",
+      "photo_urls": []
+    },
+    {
+      "id": "302258",
+      "title": "Sir Ernest MacMillan",
+      "latitude": 43.65417558,
+      "longitude": -79.37918814,
+      "directions": "On Shuter Treet, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302258",
+      "photo_urls": []
+    },
+    {
+      "id": "302267",
+      "title": "Massey Hall",
+      "latitude": 43.65431224,
+      "longitude": -79.37923471,
+      "directions": "On Shuter Street, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302267",
+      "photo_urls": []
+    },
+    {
+      "id": "302269",
+      "title": "St. Michael’s Cathedral",
+      "latitude": 43.65487222,
+      "longitude": -79.37760833,
+      "directions": "On Bond Street, Toronto, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302269",
+      "photo_urls": []
+    },
+    {
+      "id": "302330",
+      "title": "St. Michael’s Cathedral Rectory",
+      "latitude": 43.65555572,
+      "longitude": -79.3769534,
+      "directions": "On Church Street, Toronto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302330",
+      "photo_urls": []
+    },
+    {
+      "id": "302331",
+      "title": "William Lyon Mackenzie",
+      "latitude": 43.6557902,
+      "longitude": -79.37822709,
+      "directions": "On Bond Street, Toronto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302331",
+      "photo_urls": []
+    },
+    {
+      "id": "302355",
+      "title": "Simpsons Mail-Order Warehouse Dalhousie Street Extension",
+      "latitude": 43.65760438,
+      "longitude": -79.3768941,
+      "directions": "On Dalhousie Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302355",
+      "photo_urls": []
+    },
+    {
+      "id": "302359",
+      "title": "McDiarmid House / Maison de McDiarmid",
+      "latitude": 44.94804706,
+      "longitude": -75.06570723,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302359",
+      "photo_urls": []
+    },
+    {
+      "id": "302361",
+      "title": "Cook's Tavern Barn / Grange de la taverne Cook",
+      "latitude": 44.94618331,
+      "longitude": -75.06724577,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302361",
+      "photo_urls": []
+    },
+    {
+      "id": "302368",
+      "title": "Lutheran Pastor's House / Maison du pasteur luthérien",
+      "latitude": 44.94601902,
+      "longitude": -75.06642643,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302368",
+      "photo_urls": []
+    },
+    {
+      "id": "302376",
+      "title": "Asselstine's Woollen Factory / Lainerie Asseltine",
+      "latitude": 44.94675722,
+      "longitude": -75.0682673,
+      "directions": "Near Upper Canada Village, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302376",
+      "photo_urls": []
+    },
+    {
+      "id": "302384",
+      "title": "Robert Simpson Co. Warehouse",
+      "latitude": 43.65721732,
+      "longitude": -79.37671439,
+      "directions": "On Dalhousie Street, Toronto, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302384",
+      "photo_urls": []
+    },
+    {
+      "id": "302387",
+      "title": "Cooper and Gillespie Houses",
+      "latitude": 43.65509897,
+      "longitude": -79.37564284,
+      "directions": "On Shuter Street, Toronto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302387",
+      "photo_urls": []
+    },
+    {
+      "id": "302395",
+      "title": "Public Health in Toronto",
+      "latitude": 43.65306707,
+      "longitude": -79.38176273,
+      "directions": "On Albert Street, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302395",
+      "photo_urls": []
+    },
+    {
+      "id": "302401",
+      "title": "Osgoode Hall Fence",
+      "latitude": 43.65130653,
+      "longitude": -79.38493176,
+      "directions": "On Queen Street West, Toronto, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302401",
+      "photo_urls": []
+    },
+    {
+      "id": "302406",
+      "title": "St. John’s Nassagaweya",
+      "latitude": 43.50593579,
+      "longitude": -80.00883495,
+      "directions": "On Guelph Line, Milton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302406",
       "photo_urls": []
     },
     {
