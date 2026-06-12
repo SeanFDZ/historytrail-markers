@@ -3,9 +3,9 @@
   "region_name": "France",
   "region_type": "country",
   "country": "France",
-  "generated": "2026-05-15T06:06:38.406Z",
-  "source_timestamp": "2026-05-15T06:06:38.406Z",
-  "marker_count": 1522,
+  "generated": "2026-06-12T06:07:36.280Z",
+  "source_timestamp": "2026-06-12T06:07:36.280Z",
+  "marker_count": 1523,
   "markers": [
     {
       "id": "103329",
@@ -11507,6 +11507,15 @@
       "longitude": 3.87328953,
       "directions": "On Rte de Mons (County Route D932) , Taisnières-sur-Hon, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293382",
+      "photo_urls": []
+    },
+    {
+      "id": "300216",
+      "title": "Maurice Drouard",
+      "latitude": 48.88632059,
+      "longitude": 2.34092787,
+      "directions": "On Place du Tertre, Paris, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300216",
       "photo_urls": []
     },
     {
