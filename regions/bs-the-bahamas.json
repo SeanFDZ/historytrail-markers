@@ -3,9 +3,9 @@
   "region_name": "The Bahamas",
   "region_type": "country",
   "country": "The Bahamas",
-  "generated": "2026-05-16T06:07:06.524Z",
-  "source_timestamp": "2026-05-16T06:07:06.524Z",
-  "marker_count": 25,
+  "generated": "2026-06-13T06:06:47.404Z",
+  "source_timestamp": "2026-06-13T06:06:47.404Z",
+  "marker_count": 34,
   "markers": [
     {
       "id": "125664",
@@ -203,6 +203,87 @@
       "longitude": -77.45043056,
       "directions": "On West Bay Street, Nassau, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=295455",
+      "photo_urls": []
+    },
+    {
+      "id": "301245",
+      "title": "Henry Norman Albury",
+      "latitude": 26.75874878,
+      "longitude": -77.32912213,
+      "directions": "On Parliament Street, Blackwood Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301245",
+      "photo_urls": []
+    },
+    {
+      "id": "301249",
+      "title": "Anthony Frederick Armbrister",
+      "latitude": 26.75880047,
+      "longitude": -77.32907086,
+      "directions": "On Parliament Street, Blackwood Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301249",
+      "photo_urls": []
+    },
+    {
+      "id": "301251",
+      "title": "Frank Christie",
+      "latitude": 26.758741,
+      "longitude": -77.32912942,
+      "directions": "On Parliament Street, Blackwood Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301251",
+      "photo_urls": []
+    },
+    {
+      "id": "301344",
+      "title": "William Henry Curry",
+      "latitude": 26.75880565,
+      "longitude": -77.32910841,
+      "directions": "On Parliament Street, Blackwood Village, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301344",
+      "photo_urls": []
+    },
+    {
+      "id": "301346",
+      "title": "Laddie Curtis Gates",
+      "latitude": 26.75881523,
+      "longitude": -77.32911914,
+      "directions": "On Parliament Street, Blackwood Village, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301346",
+      "photo_urls": []
+    },
+    {
+      "id": "301349",
+      "title": "Gilbert Reginald Malone",
+      "latitude": 26.75882002,
+      "longitude": -77.329095,
+      "directions": "On Parliament Street, Blackwood Village, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301349",
+      "photo_urls": []
+    },
+    {
+      "id": "301359",
+      "title": "Martis Eugene Pinder",
+      "latitude": 26.75881284,
+      "longitude": -77.3290655,
+      "directions": "On Parliament Street, Blackwood Village, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301359",
+      "photo_urls": []
+    },
+    {
+      "id": "301362",
+      "title": "L. Iris Lowe Powers",
+      "latitude": 26.75887401,
+      "longitude": -77.32908517,
+      "directions": "On Parliament Street, Blackwood Village, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301362",
+      "photo_urls": []
+    },
+    {
+      "id": "301366",
+      "title": "William Augustus Saunders",
+      "latitude": 26.75880086,
+      "longitude": -77.32910036,
+      "directions": "On Parliament Street, Blackwood Village, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301366",
       "photo_urls": []
     },
     {
