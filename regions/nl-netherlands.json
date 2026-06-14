@@ -3,9 +3,9 @@
   "region_name": "Netherlands",
   "region_type": "country",
   "country": "Netherlands",
-  "generated": "2026-05-17T06:09:41.689Z",
-  "source_timestamp": "2026-05-17T06:09:41.689Z",
-  "marker_count": 1291,
+  "generated": "2026-06-14T06:06:53.749Z",
+  "source_timestamp": "2026-06-14T06:06:53.749Z",
+  "marker_count": 1348,
   "markers": [
     {
       "id": "100017",
@@ -11601,11 +11601,524 @@
     },
     {
       "id": "299656",
-      "title": "Transvaalplein 5. Het Plein / The Square",
+      "title": "Transvaalplein: 5. Het Plein / The Square",
       "latitude": 52.35360586,
       "longitude": 4.92306085,
       "directions": "On Transvaalplein, Amsterdam, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299656",
+      "photo_urls": []
+    },
+    {
+      "id": "300062",
+      "title": "Transvaalplein: 6. Partijpropaganda / Party Propaganda",
+      "latitude": 52.3535412,
+      "longitude": 4.92291839,
+      "directions": "On Transvaalplein, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300062",
+      "photo_urls": []
+    },
+    {
+      "id": "300142",
+      "title": "Het Water / The Water",
+      "latitude": 52.34139722,
+      "longitude": 4.79304444,
+      "directions": "On Sloterweg, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300142",
+      "photo_urls": []
+    },
+    {
+      "id": "300169",
+      "title": "Hugo de Vries Laboratorium",
+      "latitude": 52.36725306,
+      "longitude": 4.90829674,
+      "directions": "On Plantage Middenlaan, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300169",
+      "photo_urls": []
+    },
+    {
+      "id": "300188",
+      "title": "Transvaalplein: 8. Nieuw socialistisch elan / A New Socialist Spirit",
+      "latitude": 52.35364331,
+      "longitude": 4.92227294,
+      "directions": "On Transvaalstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300188",
+      "photo_urls": []
+    },
+    {
+      "id": "300205",
+      "title": "<i>Anna van Nieuwkoop</i>",
+      "latitude": 52.63741944,
+      "longitude": 5.06290278,
+      "directions": "On Veermanskade, Hoorn, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300205",
+      "photo_urls": []
+    },
+    {
+      "id": "300272",
+      "title": "19th Century Section of the Sugar Factory",
+      "latitude": 52.38541861,
+      "longitude": 4.74769771,
+      "directions": "On Haarlemmerstraatweg, Halfweg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300272",
+      "photo_urls": []
+    },
+    {
+      "id": "301023",
+      "title": "Gerard Reve",
+      "latitude": 52.37336394,
+      "longitude": 4.89906045,
+      "directions": "On Oudezijds Achterburgwal, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301023",
+      "photo_urls": []
+    },
+    {
+      "id": "301079",
+      "title": "Rembrandt",
+      "latitude": 52.368034,
+      "longitude": 4.89517472,
+      "directions": "On Nieuwe Doelenstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301079",
+      "photo_urls": []
+    },
+    {
+      "id": "301151",
+      "title": "Huis met de Kolommen / House with the Columns",
+      "latitude": 52.36488,
+      "longitude": 4.89341944,
+      "directions": "On Herengracht, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301151",
+      "photo_urls": []
+    },
+    {
+      "id": "301154",
+      "title": "Joseph Rothschild",
+      "latitude": 52.3699,
+      "longitude": 4.89891944,
+      "directions": "On Raamgracht, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301154",
+      "photo_urls": []
+    },
+    {
+      "id": "301193",
+      "title": "Stadion / Stadium",
+      "latitude": 52.34630688,
+      "longitude": 4.86522595,
+      "directions": "On Stadionweg, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301193",
+      "photo_urls": []
+    },
+    {
+      "id": "301207",
+      "title": "Achilles",
+      "latitude": 52.34618112,
+      "longitude": 4.86411772,
+      "directions": "On Achillesstraat, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301207",
+      "photo_urls": []
+    },
+    {
+      "id": "301214",
+      "title": "Bronzen beeld Johan Cruijff en Berti Vogts / Bronze Statue of Johan Cruyff and Berti Vogts",
+      "latitude": 52.34436111,
+      "longitude": 4.852875,
+      "directions": "On Olympisch Stadion, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301214",
+      "photo_urls": []
+    },
+    {
+      "id": "301635",
+      "title": "Slag bij Kijkduin (21 augustus 1673) / Battle of Texel (August 21, 1673)",
+      "latitude": 52.95315881,
+      "longitude": 4.72476092,
+      "directions": "On Badhuisstraat, Huisduinen, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301635",
+      "photo_urls": []
+    },
+    {
+      "id": "301639",
+      "title": "Rampspoed in het verleden / Disaster in the Past",
+      "latitude": 53.00474757,
+      "longitude": 4.77717844,
+      "directions": "On Molwerk, Den Hoorn Texel, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301639",
+      "photo_urls": []
+    },
+    {
+      "id": "301688",
+      "title": "Leo Pinkhof",
+      "latitude": 52.95913565,
+      "longitude": 4.75192242,
+      "directions": "On Soembastraat, Den Helder, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301688",
+      "photo_urls": []
+    },
+    {
+      "id": "301689",
+      "title": "Korenmolen ‘De Oude Knegt’ / ‘The Old Servant’ Grain Mill",
+      "latitude": 52.56983008,
+      "longitude": 4.742816,
+      "directions": "On Pontweg Noord, Akersloot, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301689",
+      "photo_urls": []
+    },
+    {
+      "id": "301713",
+      "title": "Vliegtuigcrash Haviland Mosquito DZ316 Herdenking / Haviland Mosquito DZ316 Crash Memorial",
+      "latitude": 52.87108794,
+      "longitude": 4.99066456,
+      "directions": "On Schelpenbolweg, Slootdorp, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301713",
+      "photo_urls": []
+    },
+    {
+      "id": "301753",
+      "title": "Vliegtuigcrash Mosquito Mk. IV DZ386 Herdenking / Mosquito Mk. IV DZ386 Crash Memorial",
+      "latitude": 52.82284444,
+      "longitude": 5.10939722,
+      "directions": "On Zuiderdijkweg, Wieringerwerf, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301753",
+      "photo_urls": []
+    },
+    {
+      "id": "301754",
+      "title": "Laurens Janszoon Coster",
+      "latitude": 52.38309167,
+      "longitude": 4.63786667,
+      "directions": "Near Jansstraat, Haarlem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301754",
+      "photo_urls": []
+    },
+    {
+      "id": "301781",
+      "title": "Krommertstraat",
+      "latitude": 52.37153333,
+      "longitude": 4.85808056,
+      "directions": "On Krommertstraat, Amsterdam, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301781",
+      "photo_urls": []
+    },
+    {
+      "id": "301782",
+      "title": "Jan Hendrik van Kinsbergen",
+      "latitude": 52.36886035,
+      "longitude": 4.86139865,
+      "directions": "On Van Kinsbergenstraat, Amsterdam, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301782",
+      "photo_urls": []
+    },
+    {
+      "id": "301791",
+      "title": "Molen de Traanroeier / Windmill de Traanroeier / Mühle de Traanroeier",
+      "latitude": 53.03890278,
+      "longitude": 4.84857778,
+      "directions": "On Barentszstraat, Oudeschild, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301791",
+      "photo_urls": []
+    },
+    {
+      "id": "301842",
+      "title": "Egbert Bartholomeusz Kortenaer",
+      "latitude": 52.36945278,
+      "longitude": 4.86164167,
+      "directions": "On Kortenaerstraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301842",
+      "photo_urls": []
+    },
+    {
+      "id": "301843",
+      "title": "Gemaal Eijerland / Eijerland Pumping Station",
+      "latitude": 53.15774167,
+      "longitude": 4.87663611,
+      "directions": "On Stengweg, De Cocksdorp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301843",
+      "photo_urls": []
+    },
+    {
+      "id": "301864",
+      "title": "Rosenthal-May zusterhuis / Rosenthal-May Nurses’ Residence",
+      "latitude": 52.36543596,
+      "longitude": 4.90816379,
+      "directions": "On Nieuwe Keizersgracht, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301864",
+      "photo_urls": []
+    },
+    {
+      "id": "301866",
+      "title": "Het Badhuis / The Bathhouse",
+      "latitude": 52.36350468,
+      "longitude": 4.9398001,
+      "directions": "On Javaplein, Amsterdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301866",
+      "photo_urls": []
+    },
+    {
+      "id": "301920",
+      "title": "Goutsmitscamer / Goldsmiths Guild Hall",
+      "latitude": 52.38301419,
+      "longitude": 4.63928985,
+      "directions": "On Goudsmidspleintje, Haarlem, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301920",
+      "photo_urls": []
+    },
+    {
+      "id": "301931",
+      "title": "Het Zeeburgerdorp",
+      "latitude": 52.36647778,
+      "longitude": 4.94634444,
+      "directions": "On Th. K. van Lohuizenlaan, Amsterdam, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301931",
+      "photo_urls": []
+    },
+    {
+      "id": "301937",
+      "title": "Harold E. Kious Rescued",
+      "latitude": 53.03908889,
+      "longitude": 4.85134444,
+      "directions": "Near Haven, Oudeschild, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301937",
+      "photo_urls": []
+    },
+    {
+      "id": "301961",
+      "title": "Lockheed PV-1 Ventura AE780 Crash",
+      "latitude": 52.38134468,
+      "longitude": 4.86853817,
+      "directions": "On Van Bossestraat, Amsterdam, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301961",
+      "photo_urls": []
+    },
+    {
+      "id": "301987",
+      "title": "Sint Martinuskerk / St. Martin Church",
+      "latitude": 52.77203333,
+      "longitude": 5.10214722,
+      "directions": "On Ridderstraat, Medemblik, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301987",
+      "photo_urls": []
+    },
+    {
+      "id": "302045",
+      "title": "Heilige Willibrordus / St. Willibrord",
+      "latitude": 52.58327911,
+      "longitude": 4.68681686,
+      "directions": "Near Runxputteweg, Heiloo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302045",
+      "photo_urls": []
+    },
+    {
+      "id": "302170",
+      "title": "Siem de Waal Returns",
+      "latitude": 53.03915278,
+      "longitude": 4.85133611,
+      "directions": "Near Haven, Oudeschild, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302170",
+      "photo_urls": []
+    },
+    {
+      "id": "302180",
+      "title": "Beaufighter NE746 Crash Memorial",
+      "latitude": 53.00833889,
+      "longitude": 4.74720556,
+      "directions": "On Mokweg, Den Hoorn Texel, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302180",
+      "photo_urls": []
+    },
+    {
+      "id": "302201",
+      "title": "Batterij Begraafplaats / Battery ‘Cemetery’",
+      "latitude": 52.94950833,
+      "longitude": 4.73873889,
+      "directions": "On Kerkhoflaan, Den Helder, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302201",
+      "photo_urls": []
+    },
+    {
+      "id": "302217",
+      "title": "Philips van Almonde",
+      "latitude": 52.37005936,
+      "longitude": 4.85892355,
+      "directions": "On Filips van Almondestraat, Amsterdam, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302217",
+      "photo_urls": []
+    },
+    {
+      "id": "302252",
+      "title": "Lodewijk van Boisot",
+      "latitude": 52.36922904,
+      "longitude": 4.85898304,
+      "directions": "On Lodewijk Boisotstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302252",
+      "photo_urls": []
+    },
+    {
+      "id": "302266",
+      "title": "Molen de Veer / The Veer Windmill",
+      "latitude": 52.39051072,
+      "longitude": 4.67342423,
+      "directions": "On Penningsveer, Haarlem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302266",
+      "photo_urls": []
+    },
+    {
+      "id": "302372",
+      "title": "Het Schuilveld / The Sheltering Field",
+      "latitude": 52.57731944,
+      "longitude": 4.68265833,
+      "directions": "On Amberlint, Limmen, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302372",
+      "photo_urls": []
+    },
+    {
+      "id": "302373",
+      "title": "Het Koggehuis / The Koggehuis",
+      "latitude": 52.77285,
+      "longitude": 5.10610278,
+      "directions": "On Nieuwstraat, Medemblik, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302373",
+      "photo_urls": []
+    },
+    {
+      "id": "302374",
+      "title": "Het haarlemse huis / The Haarlem House",
+      "latitude": 52.41336366,
+      "longitude": 4.67918936,
+      "directions": "On IJdijk, Spaarndam Gem. Haarlem, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302374",
+      "photo_urls": []
+    },
+    {
+      "id": "302412",
+      "title": "Nederlandse Hervormde Kerk van den Burg / Dutch Reformed Church of Den Burg",
+      "latitude": 53.05479167,
+      "longitude": 4.79733266,
+      "directions": "On Binnenburg, Den Burg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302412",
+      "photo_urls": []
+    },
+    {
+      "id": "302432",
+      "title": "Dirck Volkertszoon Coornhert",
+      "latitude": 52.38167239,
+      "longitude": 4.63656791,
+      "directions": "On Grote Markt, Haarlem, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302432",
+      "photo_urls": []
+    },
+    {
+      "id": "302439",
+      "title": "David Hendrik Chassé",
+      "latitude": 52.3688379,
+      "longitude": 4.86169896,
+      "directions": "On Chasséstraat, Amsterdam, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302439",
+      "photo_urls": []
+    },
+    {
+      "id": "302445",
+      "title": "Bakker Steegie / Bakker Alley",
+      "latitude": 53.03376159,
+      "longitude": 4.8433341,
+      "directions": "On Bakker Steegie, Oudeschild, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302445",
+      "photo_urls": []
+    },
+    {
+      "id": "302455",
+      "title": "Monument ‘De Walvis’ / Huisduinen Whaling Memorial",
+      "latitude": 52.95326667,
+      "longitude": 4.72586667,
+      "directions": "On Badhuisstraat, Huisduinen, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302455",
+      "photo_urls": []
+    },
+    {
+      "id": "302461",
+      "title": "Malli Rothschild",
+      "latitude": 52.3699,
+      "longitude": 4.89891944,
+      "directions": "On Raamgracht, Amsterdam, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302461",
+      "photo_urls": []
+    },
+    {
+      "id": "302492",
+      "title": "Cornelis Dirkszoon",
+      "latitude": 52.37180395,
+      "longitude": 4.85792021,
+      "directions": "On Cornelis Dirkszstraat, Amsterdam, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302492",
+      "photo_urls": []
+    },
+    {
+      "id": "302550",
+      "title": "Spaarndam",
+      "latitude": 52.41349167,
+      "longitude": 4.67761389,
+      "directions": "On Westkolk, Spaarndam Gem. Haarlem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302550",
+      "photo_urls": []
+    },
+    {
+      "id": "302564",
+      "title": "Hulpsecretarie / Municipal Branch Office",
+      "latitude": 52.41433056,
+      "longitude": 4.67761111,
+      "directions": "On Westkolk, Spaarndam Gem. Haarlem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302564",
+      "photo_urls": []
+    },
+    {
+      "id": "302588",
+      "title": "Oorlogsmonument Medemblik / Medemblik War Memorial",
+      "latitude": 52.77301106,
+      "longitude": 5.10598719,
+      "directions": "On Breedstraat, Medemblik, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302588",
+      "photo_urls": []
+    },
+    {
+      "id": "302610",
+      "title": "Medemblik: heden en verleden / Medemblik: Past and Present",
+      "latitude": 52.77393043,
+      "longitude": 5.10594129,
+      "directions": "On Dam, Medemblik, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302610",
+      "photo_urls": []
+    },
+    {
+      "id": "302615",
+      "title": "De Grote Haarlemmersluis / The Grote Haarlemmersluis",
+      "latitude": 52.41325278,
+      "longitude": 4.68216111,
+      "directions": "On Spaarndammerdijk, Spaarndam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302615",
+      "photo_urls": []
+    },
+    {
+      "id": "302665",
+      "title": "Wielerbaan Zeeburg / Zeeburg Velodrome",
+      "latitude": 52.36491667,
+      "longitude": 4.94188889,
+      "directions": "On Gorontalostraat, Amsterdam, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302665",
+      "photo_urls": []
+    },
+    {
+      "id": "302737",
+      "title": "Nederlandse Hervormde Kerk / Dutch Reformed Church",
+      "latitude": 52.43597598,
+      "longitude": 4.99297518,
+      "directions": "On Kerkplein, Broek in Waterland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302737",
+      "photo_urls": []
+    },
+    {
+      "id": "302744",
+      "title": "St. Josephkerk (R.K.) / St. Joseph Church (Roman Catholic)",
+      "latitude": 52.38328959,
+      "longitude": 4.63844838,
+      "directions": "On Jansstraat, Haarlem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302744",
       "photo_urls": []
     },
     {
