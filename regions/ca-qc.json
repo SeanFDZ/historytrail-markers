@@ -3,9 +3,9 @@
   "region_name": "Québec",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-17T06:09:41.679Z",
-  "source_timestamp": "2026-05-17T06:09:41.679Z",
-  "marker_count": 621,
+  "generated": "2026-06-14T06:06:53.738Z",
+  "source_timestamp": "2026-06-14T06:06:53.738Z",
+  "marker_count": 638,
   "markers": [
     {
       "id": "102395",
@@ -2701,8 +2701,8 @@
     {
       "id": "268500",
       "title": "Les Sœurs Grises de Montréal / The Grey Nuns of Montréal",
-      "latitude": 45.50044308,
-      "longitude": -73.55466248,
+      "latitude": 45.50045667,
+      "longitude": -73.55466153,
       "directions": "On Rue Saint-Pierre, Montréal, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=268500",
       "photo_urls": []
@@ -3819,7 +3819,7 @@
       "title": "Place J.-Ernest-Laforce",
       "latitude": 45.51243337,
       "longitude": -73.55524908,
-      "directions": "On Rue Berri, Montreal, (On the right when traveling east)",
+      "directions": "On Rue Berri, Montréal, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299595",
       "photo_urls": []
     },
@@ -3828,7 +3828,7 @@
       "title": "Square Viger",
       "latitude": 45.51187278,
       "longitude": -73.5541008,
-      "directions": "On Rue Saint-Antoine Est, Montreal, (On the left when traveling north)",
+      "directions": "On Rue Saint-Antoine Est, Montréal, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299596",
       "photo_urls": []
     },
@@ -3846,8 +3846,161 @@
       "title": "Le jardin de Lyon",
       "latitude": 45.51234644,
       "longitude": -73.55540982,
-      "directions": "On Avenue Viger Est, Montreal, (On the right when traveling south)",
+      "directions": "On Avenue Viger Est, Montréal, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299875",
+      "photo_urls": []
+    },
+    {
+      "id": "301985",
+      "title": "Les débuts modestes de l'usine E. B. Eddy",
+      "latitude": 45.42508882,
+      "longitude": -75.71955993,
+      "directions": "On Promenade du Portage, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301985",
+      "photo_urls": []
+    },
+    {
+      "id": "301998",
+      "title": "Maison Aubry",
+      "latitude": 45.4266047,
+      "longitude": -75.71545591,
+      "directions": "On Promenade du Portage, Gatineau, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301998",
+      "photo_urls": []
+    },
+    {
+      "id": "302000",
+      "title": "Ce bâtiment est un haut lieu du syndicalisme Québécois",
+      "latitude": 45.42696407,
+      "longitude": -75.71614171,
+      "directions": "On Rue Laval, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302000",
+      "photo_urls": []
+    },
+    {
+      "id": "302124",
+      "title": "Une enclave du passé au cœur de la ville",
+      "latitude": 45.42662157,
+      "longitude": -75.71527494,
+      "directions": "On Promenade du Portage, Gatineau, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302124",
+      "photo_urls": []
+    },
+    {
+      "id": "302172",
+      "title": "Le village d'Argentine, dernier témoin d'une époque",
+      "latitude": 45.42635822,
+      "longitude": -75.72483403,
+      "directions": "On Rue Wright, Gatineau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302172",
+      "photo_urls": []
+    },
+    {
+      "id": "302183",
+      "title": "Le Quartier-du-Musée : Des habitants qui ont marqué l'histoire de Hull",
+      "latitude": 45.42995994,
+      "longitude": -75.71218952,
+      "directions": "On Rue Champlain, Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302183",
+      "photo_urls": []
+    },
+    {
+      "id": "302184",
+      "title": "Le métier et les combats des allumettières",
+      "latitude": 45.42512575,
+      "longitude": -75.71873908,
+      "directions": "On Promenade du Portage, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302184",
+      "photo_urls": []
+    },
+    {
+      "id": "302185",
+      "title": "Hull au début du XX<sup>e</sup> siècle",
+      "latitude": 45.42542001,
+      "longitude": -75.71667385,
+      "directions": "On Rue Laval, Gatineau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302185",
+      "photo_urls": []
+    },
+    {
+      "id": "302188",
+      "title": "Une histoire marquée par les flammes",
+      "latitude": 45.42689512,
+      "longitude": -75.71543316,
+      "directions": "On Rue Aubry, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302188",
+      "photo_urls": []
+    },
+    {
+      "id": "302191",
+      "title": "Hull, une ville ouvrière dans l'âme",
+      "latitude": 45.42706179,
+      "longitude": -75.71881213,
+      "directions": "On Rue Wright, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302191",
+      "photo_urls": []
+    },
+    {
+      "id": "302193",
+      "title": "Place de la Francophonie",
+      "latitude": 45.42566787,
+      "longitude": -75.72405049,
+      "directions": "Near Rue Montcalm, Gatineau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302193",
+      "photo_urls": []
+    },
+    {
+      "id": "302195",
+      "title": "Bienvenue à Wrightstown",
+      "latitude": 45.4251265,
+      "longitude": -75.71870237,
+      "directions": "On Promenade du Portage, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302195",
+      "photo_urls": []
+    },
+    {
+      "id": "302196",
+      "title": "Le ruisseau de la Brasserie",
+      "latitude": 45.42596406,
+      "longitude": -75.72457155,
+      "directions": "Near Rue Montcalm, Gatineau, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302196",
+      "photo_urls": []
+    },
+    {
+      "id": "302197",
+      "title": "La Rue Hanson : témoin d'une famille d'industriels",
+      "latitude": 45.42585514,
+      "longitude": -75.72648125,
+      "directions": "On Rue Hanson, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302197",
+      "photo_urls": []
+    },
+    {
+      "id": "302198",
+      "title": "La Maison Wright-Scott : Un environnement pittoresque au cœur de la ville",
+      "latitude": 45.42535169,
+      "longitude": -75.72636821,
+      "directions": "On Rue Hanson, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302198",
+      "photo_urls": []
+    },
+    {
+      "id": "302199",
+      "title": "Le Quartier-du-Musée : Un lieu résidentiel, commercial et professionnel",
+      "latitude": 45.43090726,
+      "longitude": -75.7118507,
+      "directions": "On Rue Champlain, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302199",
+      "photo_urls": []
+    },
+    {
+      "id": "302200",
+      "title": "L'édifice Jules-Léger / The Jules Léger Building",
+      "latitude": 45.4251303,
+      "longitude": -75.72010382,
+      "directions": "On Rue Eddy, Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302200",
       "photo_urls": []
     },
     {
