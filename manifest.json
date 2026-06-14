@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-13T06:06:57.619Z",
+  "generated": "2026-06-14T06:07:05.676Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73304,
+  "total_markers": 73321,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -238,12 +238,12 @@
       "type": "province",
       "country": "Canada",
       "file": "regions/ca-qc.json",
-      "markers": 621,
-      "size_bytes": 201442,
-      "updated": "2026-05-17",
+      "markers": 638,
+      "size_bytes": 207042,
+      "updated": "2026-06-14",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 621,
+        "added": 694,
         "removed": 0,
         "modified": 0
       }
