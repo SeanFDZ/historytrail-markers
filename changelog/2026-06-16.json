@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-16",
+  "run_id": 168,
+  "cycle_day": 27,
+  "regions_processed": [
+    "be-belgium"
+  ],
+  "changes": {
+    "be-belgium": {
+      "added": 241,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 647,
+  "total_removed": 0,
+  "total_modified": 0
+}
