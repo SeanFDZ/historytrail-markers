@@ -3,9 +3,9 @@
   "region_name": "Yukon",
   "region_type": "province",
   "country": "Canada",
-  "generated": "2026-05-19T06:06:40.213Z",
-  "source_timestamp": "2026-05-19T06:06:40.213Z",
-  "marker_count": 58,
+  "generated": "2026-06-16T06:06:26.675Z",
+  "source_timestamp": "2026-06-16T06:06:26.675Z",
+  "marker_count": 60,
   "markers": [
     {
       "id": "108780",
@@ -203,6 +203,24 @@
       "longitude": -134.70597283,
       "directions": "On Dawson Charlie Street, Carcross, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=282328",
+      "photo_urls": []
+    },
+    {
+      "id": "302653",
+      "title": "Our Lady of the Holy Rosary Mission",
+      "latitude": 61.35472931,
+      "longitude": -138.99597645,
+      "directions": "On Mezhan Street, Burwash Landing, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302653",
+      "photo_urls": []
+    },
+    {
+      "id": "302678",
+      "title": "Our Lady of the Way Catholic Church",
+      "latitude": 60.75624259,
+      "longitude": -137.51344855,
+      "directions": "On Alaska Highway, Haines Junction, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302678",
       "photo_urls": []
     },
     {
