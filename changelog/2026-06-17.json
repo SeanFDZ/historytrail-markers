@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-17",
+  "run_id": 169,
+  "cycle_day": 28,
+  "regions_processed": [
+    "bz-belize"
+  ],
+  "changes": {
+    "bz-belize": {
+      "added": 45,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 508,
+  "total_removed": 0,
+  "total_modified": 0
+}
