@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-16T06:06:37.517Z",
+  "generated": "2026-06-17T06:06:14.961Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73321,
@@ -176,7 +176,7 @@
       "file": "regions/bz-belize.json",
       "markers": 45,
       "size_bytes": 13711,
-      "updated": "2026-05-20",
+      "updated": "2026-06-17",
       "checksum": "sha256:undefined",
       "changes_since_last": {
         "added": 45,
