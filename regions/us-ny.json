@@ -3,9 +3,9 @@
   "region_name": "New York",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-21T06:05:23.138Z",
-  "source_timestamp": "2026-05-21T06:05:23.138Z",
-  "marker_count": 17217,
+  "generated": "2026-06-18T06:04:18.344Z",
+  "source_timestamp": "2026-06-18T06:04:18.344Z",
+  "marker_count": 17248,
   "markers": [
     {
       "id": "100019",
@@ -33651,7 +33651,7 @@
     },
     {
       "id": "144102",
-      "title": "D&H Canal",
+      "title": "D & H Canal",
       "latitude": 41.8436,
       "longitude": -74.0887,
       "directions": "On Main Street (State Route 213) , Rosendale, (On the left when traveling west)",
@@ -73974,7 +73974,7 @@
       "title": "The Bark Hut",
       "latitude": 42.8279342,
       "longitude": -75.5897237,
-      "directions": "On River Road (County Route 73) , Earlville, (On the right when traveling south)",
+      "directions": "On River Road (County Route 73) , Hamilton, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=226557",
       "photo_urls": []
     },
@@ -92943,7 +92943,7 @@
     },
     {
       "id": "256886",
-      "title": "Golden Crossroads/ Encrucijada dorada",
+      "title": "Golden Crossroads / Encrucijada dorada",
       "latitude": 41.84362222,
       "longitude": -74.08826389,
       "directions": "On Wallkill Valley Rail Trail, Rosendale, (On the right when traveling north)",
@@ -100962,7 +100962,7 @@
     },
     {
       "id": "272418",
-      "title": "Sha-Hase-Ga-O",
+      "title": "Ska-Hase-Ga-O",
       "latitude": 42.90468889,
       "longitude": -77.613425,
       "directions": "On West Main Street (U.S. 20) , Lima, (On the right when traveling west)",
@@ -113994,7 +113994,7 @@
     },
     {
       "id": "296113",
-      "title": "1000 Park Ave",
+      "title": "1000 Park Avenue",
       "latitude": 40.77914479,
       "longitude": -73.95823437,
       "directions": "On Park Avenue, Manhattan, (On the right when traveling south)",
@@ -114956,6 +114956,15 @@
       "photo_urls": []
     },
     {
+      "id": "298347",
+      "title": "Campbell Civil War Veterans Memorial",
+      "latitude": 42.227725,
+      "longitude": -77.17863333,
+      "directions": "On East Main Street (Route 333) , Campbell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298347",
+      "photo_urls": []
+    },
+    {
       "id": "298355",
       "title": "Dunham Park",
       "latitude": 42.39503056,
@@ -115437,7 +115446,7 @@
       "title": "The Paterno Trivium",
       "latitude": 40.85551041,
       "longitude": -73.93789624,
-      "directions": "On Cabrini Boulevard, New York, (In the median)",
+      "directions": "On Cabrini Boulevard, Manhattan, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299110",
       "photo_urls": []
     },
@@ -115595,6 +115604,42 @@
       "photo_urls": []
     },
     {
+      "id": "300174",
+      "title": "Union Center N.Y.",
+      "latitude": 42.14615,
+      "longitude": -76.06815278,
+      "directions": "On Union Center Maine Highway (State Route 26) , Endicott, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300174",
+      "photo_urls": []
+    },
+    {
+      "id": "300176",
+      "title": "Revolutionary War Memorial",
+      "latitude": 42.09490556,
+      "longitude": -76.06376667,
+      "directions": "On East Main Street (State Route 17C) , Endicott, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300176",
+      "photo_urls": []
+    },
+    {
+      "id": "300279",
+      "title": "House Built 1800",
+      "latitude": 42.47775556,
+      "longitude": -73.39032778,
+      "directions": "On West Street (County Route 5A) , New Lebanon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300279",
+      "photo_urls": []
+    },
+    {
+      "id": "300521",
+      "title": "Patriot Burials",
+      "latitude": 42.89853251,
+      "longitude": -76.01169318,
+      "directions": "On Cemetery Road, Fabius, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300521",
+      "photo_urls": []
+    },
+    {
       "id": "30055",
       "title": "Gravesend",
       "latitude": 40.595196,
@@ -115658,12 +115703,57 @@
       "photo_urls": []
     },
     {
+      "id": "300750",
+      "title": "Episcopal Chapel",
+      "latitude": 40.89244723,
+      "longitude": -73.41700918,
+      "directions": "On East Shore Road, Halesite, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300750",
+      "photo_urls": []
+    },
+    {
+      "id": "300751",
+      "title": "Gilbert Potter",
+      "latitude": 40.87384216,
+      "longitude": -73.42700664,
+      "directions": "On Wall Street, Huntington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300751",
+      "photo_urls": []
+    },
+    {
+      "id": "300773",
+      "title": "Pet Cemetery",
+      "latitude": 41.330968,
+      "longitude": -74.26895,
+      "directions": "On Restdale Rd, Chester, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300773",
+      "photo_urls": []
+    },
+    {
+      "id": "300780",
+      "title": "The Ashoken Center",
+      "latitude": 41.92788333,
+      "longitude": -74.19591667,
+      "directions": "Near Beaverkill Road, Olivebridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300780",
+      "photo_urls": []
+    },
+    {
       "id": "30079",
       "title": "Pieter Claesen Wyckoff House",
       "latitude": 40.644918,
       "longitude": -73.920436,
       "directions": "On Clarendon Road, Brooklyn, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30079",
+      "photo_urls": []
+    },
+    {
+      "id": "300790",
+      "title": "Site of the Oakland Station",
+      "latitude": 41.50249167,
+      "longitude": -74.65322778,
+      "directions": "On Galligan Road, near Cuddebackville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300790",
       "photo_urls": []
     },
     {
@@ -115703,12 +115793,75 @@
       "photo_urls": []
     },
     {
+      "id": "301187",
+      "title": "Daniel Richards",
+      "latitude": 42.755768,
+      "longitude": -78.29107,
+      "directions": "On U.S. 20A, near Varysburg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301187",
+      "photo_urls": []
+    },
+    {
+      "id": "301202",
+      "title": "The Goldberg Eagle",
+      "latitude": 40.7674076,
+      "longitude": -73.52867183,
+      "directions": "On N Newbridge Road, Hicksville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301202",
+      "photo_urls": []
+    },
+    {
       "id": "30133",
       "title": "Underground Railroad Station",
       "latitude": 40.72,
       "longitude": -74.00333333,
       "directions": "On 36 Lispenard Street, Manhattan, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30133",
+      "photo_urls": []
+    },
+    {
+      "id": "301381",
+      "title": "Site of Stony Brook Grist Mill",
+      "latitude": 40.91482723,
+      "longitude": -73.14747691,
+      "directions": "On Harbor Road, Stony Brook, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301381",
+      "photo_urls": []
+    },
+    {
+      "id": "301421",
+      "title": "Welcome to Boehme Legacy Forest",
+      "latitude": 42.75341944,
+      "longitude": -73.50866667,
+      "directions": "Near Jay Hakes Road, near Cropseyville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301421",
+      "photo_urls": []
+    },
+    {
+      "id": "301519",
+      "title": "Holcroft House",
+      "latitude": 44.66637942,
+      "longitude": -74.99816365,
+      "directions": "Near Goldenrod Drive, Potsdam, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301519",
+      "photo_urls": []
+    },
+    {
+      "id": "301692",
+      "title": "Andrew Short House",
+      "latitude": 43.05921667,
+      "longitude": -77.62951111,
+      "directions": "On Lehigh Station Road (State Route 253) , Henrietta, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301692",
+      "photo_urls": []
+    },
+    {
+      "id": "301707",
+      "title": "Veterans in Lewiston Village Cemetery By War Fought In",
+      "latitude": 43.170159,
+      "longitude": -79.04131,
+      "directions": "On South 5th Street, Lewiston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301707",
       "photo_urls": []
     },
     {
@@ -115739,6 +115892,15 @@
       "photo_urls": []
     },
     {
+      "id": "301766",
+      "title": "Lewiston Village Cemetery",
+      "latitude": 43.169906,
+      "longitude": -79.041352,
+      "directions": "On South 5th Street, Lewiston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301766",
+      "photo_urls": []
+    },
+    {
       "id": "30177",
       "title": "New Utrecht Reformed Church",
       "latitude": 40.608493,
@@ -115757,6 +115919,33 @@
       "photo_urls": []
     },
     {
+      "id": "301891",
+      "title": "Site of Iron Forge",
+      "latitude": 41.25293476,
+      "longitude": -74.30768515,
+      "directions": "On Iron Forge Road, Warwick, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301891",
+      "photo_urls": []
+    },
+    {
+      "id": "301894",
+      "title": "Bellvale Methodist Church",
+      "latitude": 41.25401667,
+      "longitude": -74.30512222,
+      "directions": "On Bellvale Lakes Road, Warwick, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301894",
+      "photo_urls": []
+    },
+    {
+      "id": "301953",
+      "title": "The Berlin Wall",
+      "latitude": 41.22133052,
+      "longitude": -74.02602549,
+      "directions": "On Patriot Hills Lane (County Route 98) , Stony Point, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301953",
+      "photo_urls": []
+    },
+    {
       "id": "30198",
       "title": "Kosciuszko",
       "latitude": 41.394634,
@@ -115766,12 +115955,102 @@
       "photo_urls": []
     },
     {
+      "id": "301983",
+      "title": "Skirmish of Heathcote Hill",
+      "latitude": 40.946539,
+      "longitude": -73.736954,
+      "directions": "On Fenimore Road, Mamaroneck, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301983",
+      "photo_urls": []
+    },
+    {
       "id": "30200",
       "title": "Hendrick I. Lott House",
       "latitude": 40.610484,
       "longitude": -73.932323,
       "directions": "On E 36th Street, Brooklyn, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30200",
+      "photo_urls": []
+    },
+    {
+      "id": "302375",
+      "title": "Waddell House",
+      "latitude": 43.633674,
+      "longitude": -73.941421,
+      "directions": "On State Route 28, Wevertown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302375",
+      "photo_urls": []
+    },
+    {
+      "id": "302377",
+      "title": "Adam Cohen",
+      "latitude": 40.74565838,
+      "longitude": -74.00675562,
+      "directions": "On West 19th Street, Manhattan, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302377",
+      "photo_urls": []
+    },
+    {
+      "id": "302398",
+      "title": "Old Croton Aqueduct",
+      "latitude": 40.83040423,
+      "longitude": -73.94132669,
+      "directions": "On Saint Nicholas Avenue, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302398",
+      "photo_urls": []
+    },
+    {
+      "id": "302453",
+      "title": "Bailey House",
+      "latitude": 40.82725963,
+      "longitude": -73.94217519,
+      "directions": "On Saint Nicholas Place, Manhattan, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302453",
+      "photo_urls": []
+    },
+    {
+      "id": "302456",
+      "title": "Nicholas C. and Agnes Benzinger House",
+      "latitude": 40.82705278,
+      "longitude": -73.94154444,
+      "directions": "On Edgecombe Avenue, Manhattan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302456",
+      "photo_urls": []
+    },
+    {
+      "id": "302458",
+      "title": "Town of Petersburgh Honor Roll",
+      "latitude": 42.75071667,
+      "longitude": -73.34307222,
+      "directions": "On Main Street (State Route 2) , Petersburgh, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302458",
+      "photo_urls": []
+    },
+    {
+      "id": "302459",
+      "title": "Castle Clinton National Monument",
+      "latitude": 40.703564,
+      "longitude": -74.01643,
+      "directions": "Near Battery Place, Manhattan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302459",
+      "photo_urls": []
+    },
+    {
+      "id": "302954",
+      "title": "Fort Greene / Downtown Brooklyn",
+      "latitude": 40.6898906,
+      "longitude": -73.97845823,
+      "directions": "On Dekalb Avenue, Brooklyn, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302954",
+      "photo_urls": []
+    },
+    {
+      "id": "303099",
+      "title": "McGown's Pass",
+      "latitude": 40.79536778,
+      "longitude": -73.95214265,
+      "directions": "Near 5th Avenue, Manhattan, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303099",
       "photo_urls": []
     },
     {
@@ -123057,7 +123336,7 @@
     },
     {
       "id": "47414",
-      "title": "Pettengill Home",
+      "title": "Pettingill Home",
       "latitude": 42.90076,
       "longitude": -74.25049,
       "directions": "On Denice Road, near Amsterdam, (On the right when traveling north)",
