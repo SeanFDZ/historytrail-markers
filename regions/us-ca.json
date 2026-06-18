@@ -3,9 +3,9 @@
   "region_name": "California",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-21T06:05:22.985Z",
-  "source_timestamp": "2026-05-21T06:05:22.985Z",
-  "marker_count": 12849,
+  "generated": "2026-06-18T06:04:18.195Z",
+  "source_timestamp": "2026-06-18T06:04:18.195Z",
+  "marker_count": 12946,
   "markers": [
     {
       "id": "100099",
@@ -8085,7 +8085,7 @@
       "title": "La Mesa Battlefield",
       "latitude": 34.004966,
       "longitude": -118.2306,
-      "directions": "Near South Santa Fe Avenue, Vernon, (On the right when traveling south)",
+      "directions": "Near Santa Fe Avenue, Vernon, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=121401",
       "photo_urls": []
     },
@@ -11755,9 +11755,9 @@
     {
       "id": "131429",
       "title": "S.S. <i>Lane Victory</i>",
-      "latitude": 33.748721,
-      "longitude": -118.27396,
-      "directions": "On Pier 94, Los Angeles, ",
+      "latitude": 33.7209,
+      "longitude": -118.27453316,
+      "directions": "Near Miner Street, Los Angeles, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=131429",
       "photo_urls": []
     },
@@ -14718,7 +14718,7 @@
       "title": "Daunt",
       "latitude": 36.12279368,
       "longitude": -118.8250049,
-      "directions": "On Route 190, Springville, (On the left when traveling south)",
+      "directions": "On Route 190, Springville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=141677",
       "photo_urls": []
     },
@@ -14770,9 +14770,9 @@
     {
       "id": "141759",
       "title": "Camp Nelson",
-      "latitude": 36.13944296,
-      "longitude": -118.61451058,
-      "directions": "On Nelson Drive, Springville, (On the left when traveling east)",
+      "latitude": 36.13998305,
+      "longitude": -118.61311999,
+      "directions": "On Nelson Drive, Springville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=141759",
       "photo_urls": []
     },
@@ -14889,7 +14889,7 @@
       "title": "Treaty of 1851",
       "latitude": 36.0916875,
       "longitude": -118.8817912,
-      "directions": "On State Route 190, Porterville, (On the right when traveling east)",
+      "directions": "On State Route 190, near Porterville, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=141876",
       "photo_urls": []
     },
@@ -25048,8 +25048,8 @@
     {
       "id": "158905",
       "title": "Devils Golf Course",
-      "latitude": 36.32829,
-      "longitude": -116.86061,
+      "latitude": 36.28573156,
+      "longitude": -116.82599904,
       "directions": "On Badwater Road, Death Valley National Park, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=158905",
       "photo_urls": []
@@ -40107,7 +40107,7 @@
       "title": "Golden Canyon Trail",
       "latitude": 36.42059223,
       "longitude": -116.84657118,
-      "directions": "On Badwater Road, Death Valley National Park, (On the left when traveling south)",
+      "directions": "Near Badwater Road, Death Valley National Park, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=195617",
       "photo_urls": []
     },
@@ -63450,7 +63450,7 @@
     },
     {
       "id": "241268",
-      "title": "Hugh Michael Mooney (1864-1934)",
+      "title": "Hugh Michael Mooney",
       "latitude": 36.27924638,
       "longitude": -119.30988397,
       "directions": "Near South Mooney Boulevard, Visalia, ",
@@ -67188,7 +67188,7 @@
       "title": "Bob Powers",
       "latitude": 35.755167,
       "longitude": -118.426931,
-      "directions": "On Big Blue Road, Kernville, ",
+      "directions": "On Big Blue Road, Kernville, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=25238",
       "photo_urls": []
     },
@@ -68958,10 +68958,10 @@
     },
     {
       "id": "261009",
-      "title": "O.B. Eller & John Knight Great Western Cordage",
+      "title": "Great Western Cordage",
       "latitude": 33.79161797,
       "longitude": -117.85765996,
-      "directions": "On West Palm Avenue, Orange, (On the right when traveling west)",
+      "directions": "On Palm Avenue, Orange, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=261009",
       "photo_urls": []
     },
@@ -72012,7 +72012,7 @@
       "title": "First Street, Manzanar, USA",
       "latitude": 36.72591487,
       "longitude": -118.14549059,
-      "directions": "On Sentry House Road, near Independence, (In the median)",
+      "directions": "Near Manzanar Reward Road, near Independence, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=273403",
       "photo_urls": []
     },
@@ -72066,7 +72066,7 @@
       "title": "California Wire Company",
       "latitude": 33.78984242,
       "longitude": -117.85651665,
-      "directions": "On West Maple Avenue, Orange, (On the left when traveling east)",
+      "directions": "On Maple Avenue, Orange, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=273745",
       "photo_urls": []
     },
@@ -75504,7 +75504,7 @@
       "title": "Kouraku",
       "latitude": 34.04895833,
       "longitude": -118.24137222,
-      "directions": "On East 2nd Street, Los Angeles, (On the right when traveling south)",
+      "directions": "On 2nd Street, Los Angeles, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=287191",
       "photo_urls": []
     },
@@ -79668,7 +79668,7 @@
     },
     {
       "id": "298257",
-      "title": "Mount Ophir Mine",
+      "title": "Mount Ophir Mines",
       "latitude": 37.51451667,
       "longitude": -120.06643333,
       "directions": "On Mount Ophir Road, near Mariposa, ",
@@ -80054,6 +80054,15 @@
       "photo_urls": []
     },
     {
+      "id": "299669",
+      "title": "Laguna Niguel Today",
+      "latitude": 33.52386111,
+      "longitude": -117.71615556,
+      "directions": "On Crown Valley Parkway, Laguna Niguel, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299669",
+      "photo_urls": []
+    },
+    {
       "id": "299670",
       "title": "Rancho Niguel",
       "latitude": 33.52389722,
@@ -80279,6 +80288,105 @@
       "photo_urls": []
     },
     {
+      "id": "300217",
+      "title": "Smartville/Smartsville",
+      "latitude": 39.207142,
+      "longitude": -121.297657,
+      "directions": "On Smartsville Road, Smartsville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300217",
+      "photo_urls": []
+    },
+    {
+      "id": "300237",
+      "title": "Israel \"Doc\" Beal",
+      "latitude": 34.08627015,
+      "longitude": -117.18612854,
+      "directions": "On Riverview Drive, Redlands, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300237",
+      "photo_urls": []
+    },
+    {
+      "id": "300241",
+      "title": "Managing Manzanar",
+      "latitude": 36.72574722,
+      "longitude": -118.14601944,
+      "directions": "Near Manzanar Reward Road, near Independence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300241",
+      "photo_urls": []
+    },
+    {
+      "id": "300242",
+      "title": "An American Education",
+      "latitude": 36.72622778,
+      "longitude": -118.15351944,
+      "directions": "Near Manzanar Reward Road, near Independence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300242",
+      "photo_urls": []
+    },
+    {
+      "id": "300244",
+      "title": "Ties to Tradition",
+      "latitude": 36.72455556,
+      "longitude": -118.15373333,
+      "directions": "Near Manzanar Reward Road, near Independence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300244",
+      "photo_urls": []
+    },
+    {
+      "id": "300246",
+      "title": "Austere Landscape, Abundant Life",
+      "latitude": 36.72310556,
+      "longitude": -118.15392222,
+      "directions": "Near Manzanar Reward Road, near Independence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300246",
+      "photo_urls": []
+    },
+    {
+      "id": "300312",
+      "title": "Oak Creek Community Park",
+      "latitude": 36.84095414,
+      "longitude": -118.23071259,
+      "directions": "Near Frontage Road, near Independence, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300312",
+      "photo_urls": []
+    },
+    {
+      "id": "300436",
+      "title": "USS Farenholt Memorial - Battle of Cape Esperance Oct 11-12, 1942",
+      "latitude": 32.68361448,
+      "longitude": -117.1260384,
+      "directions": "Near Surface Navy Boulevard, near NBSD, Near Nimitz Gate 6, San Diego, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300436",
+      "photo_urls": []
+    },
+    {
+      "id": "300478",
+      "title": "Mills Corner",
+      "latitude": 34.39900727,
+      "longitude": -119.51807449,
+      "directions": "On Linden Avenue, Carpinteria, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300478",
+      "photo_urls": []
+    },
+    {
+      "id": "300573",
+      "title": "The Manzanar Riot",
+      "latitude": 36.72606389,
+      "longitude": -118.14569167,
+      "directions": "Near Manzanar Reward Road, near Independence, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300573",
+      "photo_urls": []
+    },
+    {
+      "id": "300597",
+      "title": "Goodspeed Street Marker",
+      "latitude": 34.16106524,
+      "longitude": -119.19917166,
+      "directions": "On Goodspeed Street, Port Hueneme, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300597",
+      "photo_urls": []
+    },
+    {
       "id": "3006",
       "title": "Old Webster School",
       "latitude": 38.6945,
@@ -80297,12 +80405,75 @@
       "photo_urls": []
     },
     {
+      "id": "300747",
+      "title": "Hilton Office Building",
+      "latitude": 34.06387856,
+      "longitude": -118.41380592,
+      "directions": "On South Santa Monica Boulevard, Beverly Hills, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300747",
+      "photo_urls": []
+    },
+    {
+      "id": "300819",
+      "title": "Jay Meuser",
+      "latitude": 33.73773614,
+      "longitude": -118.28459278,
+      "directions": "On West 7th Street, Los Angeles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300819",
+      "photo_urls": []
+    },
+    {
+      "id": "300820",
+      "title": "Dedicated to All Mariners",
+      "latitude": 33.72942778,
+      "longitude": -118.280075,
+      "directions": "On Miner Street, Los Angeles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300820",
+      "photo_urls": []
+    },
+    {
+      "id": "300821",
+      "title": "Avalon",
+      "latitude": 33.34435739,
+      "longitude": -118.32166144,
+      "directions": "Near Pebbly Beach Road, near Avalon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300821",
+      "photo_urls": []
+    },
+    {
+      "id": "300823",
+      "title": "Independence Day - Catalina Island",
+      "latitude": 33.34264444,
+      "longitude": -118.32462222,
+      "directions": "Near Clarissa Avenue, Avalon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300823",
+      "photo_urls": []
+    },
+    {
+      "id": "300895",
+      "title": "Four Motor Electric Locomotive",
+      "latitude": 34.15509599,
+      "longitude": -118.30668649,
+      "directions": "Near Zoo Drive, Los Angeles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300895",
+      "photo_urls": []
+    },
+    {
       "id": "30091",
       "title": "Main Post Office",
       "latitude": 37.337937,
       "longitude": -121.891959,
       "directions": "On North 1st Street, San Jose, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30091",
+      "photo_urls": []
+    },
+    {
+      "id": "300918",
+      "title": "Colton Vietnam War Memorial",
+      "latitude": 34.07054444,
+      "longitude": -117.32438611,
+      "directions": "On North La Cadena Drive, Colton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300918",
       "photo_urls": []
     },
     {
@@ -80315,12 +80486,327 @@
       "photo_urls": []
     },
     {
+      "id": "300991",
+      "title": "D'Agostini Winery",
+      "latitude": 38.532785,
+      "longitude": -120.754853,
+      "directions": "On Plymouth-Shenandoah Road, Plymouth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300991",
+      "photo_urls": []
+    },
+    {
+      "id": "301004",
+      "title": "California Highway Patrol and Department of Motor Vehicles",
+      "latitude": 37.48461042,
+      "longitude": -119.96523611,
+      "directions": "On State Route 140, Mariposa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301004",
+      "photo_urls": []
+    },
+    {
+      "id": "301006",
+      "title": "Bagby",
+      "latitude": 37.61016,
+      "longitude": -120.1346,
+      "directions": "Near State Route 49, near Coulterville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301006",
+      "photo_urls": []
+    },
+    {
+      "id": "301007",
+      "title": "May Rock",
+      "latitude": 37.54568333,
+      "longitude": -120.0966,
+      "directions": "On State Route 49, near Bear Valley, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301007",
+      "photo_urls": []
+    },
+    {
+      "id": "301011",
+      "title": "National Hotel",
+      "latitude": 37.952726,
+      "longitude": -120.423052,
+      "directions": "On Main Street, Jamestown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301011",
+      "photo_urls": []
+    },
+    {
+      "id": "301036",
+      "title": "Jamestown Museum",
+      "latitude": 37.95339193,
+      "longitude": -120.42324081,
+      "directions": "On Main Street, Jamestown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301036",
+      "photo_urls": []
+    },
+    {
+      "id": "301037",
+      "title": "Chinese Camp",
+      "latitude": 37.87095,
+      "longitude": -120.43133333,
+      "directions": "On Highway 120, Chinese Camp, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301037",
+      "photo_urls": []
+    },
+    {
+      "id": "301039",
+      "title": "Community Hall/Jamestown Justice Court",
+      "latitude": 37.953876,
+      "longitude": -120.422693,
+      "directions": "On Main Street, Jamestown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301039",
+      "photo_urls": []
+    },
+    {
+      "id": "301040",
+      "title": "The Willow",
+      "latitude": 37.954257,
+      "longitude": -120.42258,
+      "directions": "On Main Street, Jamestown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301040",
+      "photo_urls": []
+    },
+    {
+      "id": "301041",
+      "title": "Rocca Park",
+      "latitude": 37.953438,
+      "longitude": -120.423114,
+      "directions": "On Main Street, Jamestown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301041",
+      "photo_urls": []
+    },
+    {
+      "id": "301043",
+      "title": "A Portal of the Past",
+      "latitude": 37.985001,
+      "longitude": -120.382,
+      "directions": "On South Stewart Street, Sonora, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301043",
+      "photo_urls": []
+    },
+    {
+      "id": "301045",
+      "title": "Rehm Building",
+      "latitude": 37.98367587,
+      "longitude": -120.38213655,
+      "directions": "On South Washington Street, Sonora, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301045",
+      "photo_urls": []
+    },
+    {
+      "id": "301048",
+      "title": "Original Site of the Sonora Daily",
+      "latitude": 37.985813,
+      "longitude": -120.38385,
+      "directions": "On North Washington Street, Sonora, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301048",
+      "photo_urls": []
+    },
+    {
+      "id": "301049",
+      "title": "Jedediah Strong Smith",
+      "latitude": 37.98357228,
+      "longitude": -120.38565159,
+      "directions": "On West Bradford Avenue, Sonora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301049",
+      "photo_urls": []
+    },
+    {
+      "id": "301050",
+      "title": "Tuolumne County Jail",
+      "latitude": 37.98369913,
+      "longitude": -120.38552284,
+      "directions": "Near West Bradford Avenue, Sonora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301050",
+      "photo_urls": []
+    },
+    {
+      "id": "301051",
+      "title": "Bradford Building",
+      "latitude": 37.9848306,
+      "longitude": -120.38308,
+      "directions": "On Bradford Street, Sonora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301051",
+      "photo_urls": []
+    },
+    {
+      "id": "301060",
+      "title": "MCH History",
+      "latitude": 37.81349167,
+      "longitude": -120.30873889,
+      "directions": "Near State Route 49, Moccasin, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301060",
+      "photo_urls": []
+    },
+    {
+      "id": "301070",
+      "title": "Jeffery Hotel",
+      "latitude": 37.71103333,
+      "longitude": -120.19698333,
+      "directions": "On Main Street (County Route J20) , Coulterville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301070",
+      "photo_urls": []
+    },
+    {
+      "id": "301071",
+      "title": "Historic Walls",
+      "latitude": 37.711253,
+      "longitude": -120.196807,
+      "directions": "On Main Street, Coulterville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301071",
+      "photo_urls": []
+    },
+    {
+      "id": "301073",
+      "title": "Sun Sun Wo Co.",
+      "latitude": 37.71456667,
+      "longitude": -120.1929,
+      "directions": "On Chinatown Main Street, Coulterville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301073",
+      "photo_urls": []
+    },
+    {
+      "id": "301074",
+      "title": "The Mint",
+      "latitude": 37.711419,
+      "longitude": -120.19617,
+      "directions": "On Main Steet (County Route J132) , Coulterville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301074",
+      "photo_urls": []
+    },
+    {
+      "id": "301075",
+      "title": "Mount Ophir Mine",
+      "latitude": 37.51453889,
+      "longitude": -120.06650556,
+      "directions": "On Mount Ophir Road, Mount Bullion, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301075",
+      "photo_urls": []
+    },
+    {
+      "id": "301076",
+      "title": "Hornitos",
+      "latitude": 37.50192839,
+      "longitude": -120.23850293,
+      "directions": "On Bear Valley Road, Hornitos, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301076",
+      "photo_urls": []
+    },
+    {
+      "id": "301080",
+      "title": "The Challenge Saloon",
+      "latitude": 37.48418467,
+      "longitude": -119.96457604,
+      "directions": "On State Highway 140 (State Route 140) , Mariposa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301080",
+      "photo_urls": []
+    },
+    {
+      "id": "301088",
+      "title": "Mariposa Restaurant",
+      "latitude": 37.48468782,
+      "longitude": -119.96506695,
+      "directions": "On State Route 140, Mariposa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301088",
+      "photo_urls": []
+    },
+    {
+      "id": "301089",
+      "title": "Bogan & Company",
+      "latitude": 37.48457778,
+      "longitude": -119.965225,
+      "directions": "On State Route 140, Mariposa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301089",
+      "photo_urls": []
+    },
+    {
+      "id": "301092",
+      "title": "Gishel Hotel and Bakery",
+      "latitude": 37.48484206,
+      "longitude": -119.96542085,
+      "directions": "Near California 140 (State Route 140) , Mariposa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301092",
+      "photo_urls": []
+    },
+    {
+      "id": "301099",
+      "title": "Mariposa Bakery",
+      "latitude": 37.48482416,
+      "longitude": -119.96518658,
+      "directions": "On Central Yosemite Highway (State Route 140) , Mariposa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301099",
+      "photo_urls": []
+    },
+    {
+      "id": "301100",
+      "title": "Mariposa Meat Market",
+      "latitude": 37.4845,
+      "longitude": -119.96513333,
+      "directions": "On Central Yosemite Highway (State Route 49/140) , Mariposa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301100",
+      "photo_urls": []
+    },
+    {
+      "id": "301102",
+      "title": "The Lind Homes",
+      "latitude": 37.48866721,
+      "longitude": -119.96768861,
+      "directions": "On Bullion Street, Mariposa, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301102",
+      "photo_urls": []
+    },
+    {
+      "id": "301104",
+      "title": "Acorn Granary",
+      "latitude": 37.33000556,
+      "longitude": -119.63938056,
+      "directions": "On School Road, Oakhurst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301104",
+      "photo_urls": []
+    },
+    {
+      "id": "301108",
+      "title": "Grinding Holes",
+      "latitude": 37.32998611,
+      "longitude": -119.639375,
+      "directions": "Near School Road, Oakhurst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301108",
+      "photo_urls": []
+    },
+    {
+      "id": "301110",
+      "title": "Local Indigenous Dwellings",
+      "latitude": 37.32994722,
+      "longitude": -119.63943611,
+      "directions": "Near School Road, Oakhurst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301110",
+      "photo_urls": []
+    },
+    {
+      "id": "301116",
+      "title": "Delta III Rocket",
+      "latitude": 33.77268831,
+      "longitude": -117.8705251,
+      "directions": "On Mainplace Drive, Santa Ana, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301116",
+      "photo_urls": []
+    },
+    {
       "id": "30118",
       "title": "Santa Clara County Courthouse",
       "latitude": 37.338568,
       "longitude": -121.892409,
       "directions": "On North First Street, San Jose, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30118",
+      "photo_urls": []
+    },
+    {
+      "id": "301227",
+      "title": "Irene Tovar Square",
+      "latitude": 34.31545556,
+      "longitude": -118.42111944,
+      "directions": "On Hubbard Street, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301227",
       "photo_urls": []
     },
     {
@@ -80333,12 +80819,93 @@
       "photo_urls": []
     },
     {
+      "id": "301355",
+      "title": "Gottfried Maulhardt Farm",
+      "latitude": 34.21378174,
+      "longitude": -119.16439399,
+      "directions": "On Gottfried Place, Oxnard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301355",
+      "photo_urls": []
+    },
+    {
+      "id": "301361",
+      "title": "Whitley Heights",
+      "latitude": 34.10846389,
+      "longitude": -118.33248889,
+      "directions": "On Whitley Avenue, Los Angeles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301361",
+      "photo_urls": []
+    },
+    {
+      "id": "301380",
+      "title": "Chumash Garden at Oxnard Historic Farm Park",
+      "latitude": 34.21375969,
+      "longitude": -119.16440013,
+      "directions": "On Gottfried Place, Oxnard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301380",
+      "photo_urls": []
+    },
+    {
+      "id": "301406",
+      "title": "Hallowed Ground, Critical Landmark and Popular Icon",
+      "latitude": 34.00206477,
+      "longitude": -118.80827207,
+      "directions": "Near Birdview Avenue, Malibu, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301406",
+      "photo_urls": []
+    },
+    {
+      "id": "301407",
+      "title": "Pike House",
+      "latitude": 34.10707505,
+      "longitude": -118.33529505,
+      "directions": "On Whitley Terrace, Los Angeles, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301407",
+      "photo_urls": []
+    },
+    {
       "id": "30147",
       "title": "The Juan Bautista de Anza Trail",
       "latitude": 37.33676837,
       "longitude": -121.89457655,
       "directions": "On West Saint John Street, San Jose, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30147",
+      "photo_urls": []
+    },
+    {
+      "id": "301497",
+      "title": "World's Largest Surfboard",
+      "latitude": 33.65918368,
+      "longitude": -118.00093945,
+      "directions": "On Olive Avenue, Huntington Beach, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301497",
+      "photo_urls": []
+    },
+    {
+      "id": "301522",
+      "title": "Goldenrod Footbridge",
+      "latitude": 33.59860233,
+      "longitude": -117.87501395,
+      "directions": "On Goldenrod Avenue, Newport Beach, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301522",
+      "photo_urls": []
+    },
+    {
+      "id": "301526",
+      "title": "Goldenrod Footbridge",
+      "latitude": 33.59805504,
+      "longitude": -117.87551899,
+      "directions": "On Goldenrod Avenue, Newport Beach, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301526",
+      "photo_urls": []
+    },
+    {
+      "id": "301534",
+      "title": "Rex Brandt/Blue Sky",
+      "latitude": 33.59863695,
+      "longitude": -117.87507424,
+      "directions": "On Goldenrod Avenue, Newport Beach, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301534",
       "photo_urls": []
     },
     {
@@ -80369,6 +80936,24 @@
       "photo_urls": []
     },
     {
+      "id": "301871",
+      "title": "Buena Vista Bridge",
+      "latitude": 33.98834603,
+      "longitude": -117.38530159,
+      "directions": "On Mount Rubidoux Drive, Riverside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301871",
+      "photo_urls": []
+    },
+    {
+      "id": "301873",
+      "title": "Patrick and Margaret Breen",
+      "latitude": 36.845862,
+      "longitude": -121.54499,
+      "directions": "On Monterey Street, San Juan Bautista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301873",
+      "photo_urls": []
+    },
+    {
       "id": "30190",
       "title": "Old Fisherman's Wharf",
       "latitude": 36.60365352,
@@ -80384,6 +80969,78 @@
       "longitude": -121.89051667,
       "directions": "On East Saint John Street, San Jose, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30196",
+      "photo_urls": []
+    },
+    {
+      "id": "302027",
+      "title": "Nelson House",
+      "latitude": 32.97000449,
+      "longitude": -117.03646913,
+      "directions": "Near Midland Road, Poway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302027",
+      "photo_urls": []
+    },
+    {
+      "id": "302028",
+      "title": "Porter House",
+      "latitude": 32.97029694,
+      "longitude": -117.03659583,
+      "directions": "Near Midland Road, Poway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302028",
+      "photo_urls": []
+    },
+    {
+      "id": "302029",
+      "title": "Community Church of Poway",
+      "latitude": 32.96020865,
+      "longitude": -117.04030901,
+      "directions": "Near Community Road, Poway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302029",
+      "photo_urls": []
+    },
+    {
+      "id": "302030",
+      "title": "Dearborn Memorial Park",
+      "latitude": 32.97446312,
+      "longitude": -117.02758092,
+      "directions": "On Tierra Bonita Road, Poway, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302030",
+      "photo_urls": []
+    },
+    {
+      "id": "302031",
+      "title": "DJ Ranch",
+      "latitude": 32.97695885,
+      "longitude": -117.03030735,
+      "directions": "On Poway Valley Road, Poway, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302031",
+      "photo_urls": []
+    },
+    {
+      "id": "302032",
+      "title": "Flint Farm",
+      "latitude": 32.97617682,
+      "longitude": -117.03657224,
+      "directions": "On Midland Road, Poway, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302032",
+      "photo_urls": []
+    },
+    {
+      "id": "302033",
+      "title": "Baldwin Locomotive No. 3",
+      "latitude": 32.97055063,
+      "longitude": -117.03633933,
+      "directions": "On Midland Road, Poway, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302033",
+      "photo_urls": []
+    },
+    {
+      "id": "302042",
+      "title": "Havilah",
+      "latitude": 35.59027109,
+      "longitude": -118.49600763,
+      "directions": "On Kern River Canyon Road, Bodfish, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302042",
       "photo_urls": []
     },
     {
@@ -80405,12 +81062,93 @@
       "photo_urls": []
     },
     {
+      "id": "302190",
+      "title": "Giant Sequoia National Monument",
+      "latitude": 35.97735278,
+      "longitude": -118.59651944,
+      "directions": "Near Great Western Divide Highway, near Johnsondale, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302190",
+      "photo_urls": []
+    },
+    {
+      "id": "302209",
+      "title": "Success Dam and Lake",
+      "latitude": 36.06382491,
+      "longitude": -118.90996907,
+      "directions": "On California 190, near Porterville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302209",
+      "photo_urls": []
+    },
+    {
+      "id": "302247",
+      "title": "The Harley Mine",
+      "latitude": 35.75520355,
+      "longitude": -118.42659659,
+      "directions": "On Big Blue Road, Kernville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302247",
+      "photo_urls": []
+    },
+    {
+      "id": "302248",
+      "title": "Kern River Valley History",
+      "latitude": 35.75522222,
+      "longitude": -118.42664444,
+      "directions": "On Big Blue Road, Kernville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302248",
+      "photo_urls": []
+    },
+    {
+      "id": "302249",
+      "title": "Wasco Union High School Auditorium",
+      "latitude": 35.59461667,
+      "longitude": -119.34657222,
+      "directions": "On 7th Street, Wasco, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302249",
+      "photo_urls": []
+    },
+    {
+      "id": "302250",
+      "title": "The Citrus School Bell",
+      "latitude": 36.12276944,
+      "longitude": -118.82563889,
+      "directions": "On California 190, Springville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302250",
+      "photo_urls": []
+    },
+    {
+      "id": "302251",
+      "title": "Elster Building",
+      "latitude": 36.13053507,
+      "longitude": -118.81792973,
+      "directions": "On California 190, Springville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302251",
+      "photo_urls": []
+    },
+    {
       "id": "30226",
       "title": "First Church of Christ, Scientist",
       "latitude": 37.33948333,
       "longitude": -121.89218333,
       "directions": "On Saint James Street, San Jose, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30226",
+      "photo_urls": []
+    },
+    {
+      "id": "302309",
+      "title": "Patrol Squadron Fifty",
+      "latitude": 37.41196389,
+      "longitude": -122.05698333,
+      "directions": "Near North Akron Road, Mountain View, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302309",
+      "photo_urls": []
+    },
+    {
+      "id": "302314",
+      "title": "Andesite Block from Mt. St. Helens",
+      "latitude": 37.41193889,
+      "longitude": -122.05568611,
+      "directions": "On S Akron Road, Moffett Field, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302314",
       "photo_urls": []
     },
     {
@@ -80423,6 +81161,15 @@
       "photo_urls": []
     },
     {
+      "id": "302442",
+      "title": "Tomasa Zapata Service Station",
+      "latitude": 35.7617485,
+      "longitude": -119.28832559,
+      "directions": "On Garces Highway, Delano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302442",
+      "photo_urls": []
+    },
+    {
       "id": "30251",
       "title": "Hendy Stamp Mill / Hendy's \"California\" Stamp Mill",
       "latitude": 37.38143333,
@@ -80432,12 +81179,102 @@
       "photo_urls": []
     },
     {
+      "id": "302519",
+      "title": "Arlington Branch Library",
+      "latitude": 33.91936944,
+      "longitude": -117.44741111,
+      "directions": "On Roosevelt Street, Riverside, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302519",
+      "photo_urls": []
+    },
+    {
+      "id": "302529",
+      "title": "Heritage House",
+      "latitude": 33.93448893,
+      "longitude": -117.42244859,
+      "directions": "Near Magnolia Avenue, Riverside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302529",
+      "photo_urls": []
+    },
+    {
+      "id": "302531",
+      "title": "Mangolia United Presbyterian Church",
+      "latitude": 33.944296,
+      "longitude": -117.40358677,
+      "directions": "On Magnolia Avenue, Riverside, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302531",
+      "photo_urls": []
+    },
+    {
+      "id": "302533",
+      "title": "The Chicago White Sox Redwood Tree",
+      "latitude": 33.94679722,
+      "longitude": -117.40093056,
+      "directions": "On Magnolia Avenue, Riverside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302533",
+      "photo_urls": []
+    },
+    {
+      "id": "302541",
+      "title": "Hartree Grove",
+      "latitude": 33.93678611,
+      "longitude": -117.37777778,
+      "directions": "On Victoria Avenue, Riverside, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302541",
+      "photo_urls": []
+    },
+    {
+      "id": "302543",
+      "title": "Raeburn Place",
+      "latitude": 33.93232778,
+      "longitude": -117.375625,
+      "directions": "On Raeburn Drive, Riverside, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302543",
+      "photo_urls": []
+    },
+    {
+      "id": "302551",
+      "title": "Edgewild",
+      "latitude": 33.92624444,
+      "longitude": -117.38083611,
+      "directions": "On Mary Street, Riverside, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302551",
+      "photo_urls": []
+    },
+    {
       "id": "30261",
       "title": "Eagles Hall",
       "latitude": 37.33938333,
       "longitude": -121.88991667,
       "directions": "On North 3rd Street, San Jose, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30261",
+      "photo_urls": []
+    },
+    {
+      "id": "302708",
+      "title": "Blinn House",
+      "latitude": 34.14868056,
+      "longitude": -118.13955,
+      "directions": "On Oakland Avenue, Pasadena, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302708",
+      "photo_urls": []
+    },
+    {
+      "id": "302718",
+      "title": "W.A. McHenry House",
+      "latitude": 34.14820595,
+      "longitude": -118.13966006,
+      "directions": "Near Oakland Avenue, Pasadena, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302718",
+      "photo_urls": []
+    },
+    {
+      "id": "302747",
+      "title": "Devils Golf Course",
+      "latitude": 36.28578611,
+      "longitude": -116.82623889,
+      "directions": "On Salt Pool Road, Death Valley National Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302747",
       "photo_urls": []
     },
     {
@@ -80474,6 +81311,42 @@
       "longitude": -121.89084291,
       "directions": "On East Saint James Street, San Jose, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30310",
+      "photo_urls": []
+    },
+    {
+      "id": "303129",
+      "title": "The Tetley Buildings (1925)",
+      "latitude": 33.97711324,
+      "longitude": -117.37913176,
+      "directions": "On Market Street, Riverside, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303129",
+      "photo_urls": []
+    },
+    {
+      "id": "303135",
+      "title": "Martin Chase House",
+      "latitude": 33.95805278,
+      "longitude": -117.37139722,
+      "directions": "On Myrtle Avenue, Riverside, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303135",
+      "photo_urls": []
+    },
+    {
+      "id": "303207",
+      "title": "People Throughout Time",
+      "latitude": 34.09544444,
+      "longitude": -118.71592778,
+      "directions": "Near , Malibu Creek State Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303207",
+      "photo_urls": []
+    },
+    {
+      "id": "303216",
+      "title": "The World's Stage",
+      "latitude": 34.09534167,
+      "longitude": -118.71711667,
+      "directions": "Near , Malibu Creek State Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303216",
       "photo_urls": []
     },
     {
