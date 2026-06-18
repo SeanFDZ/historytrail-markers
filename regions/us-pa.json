@@ -3,9 +3,9 @@
   "region_name": "Pennsylvania",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-21T06:05:23.339Z",
-  "source_timestamp": "2026-05-21T06:05:23.339Z",
-  "marker_count": 15638,
+  "generated": "2026-06-18T06:04:18.555Z",
+  "source_timestamp": "2026-06-18T06:04:18.555Z",
+  "marker_count": 15701,
   "markers": [
     {
       "id": "100012",
@@ -66567,7 +66567,7 @@
       "title": "Windber Veteran's Park",
       "latitude": 40.233821,
       "longitude": -78.831223,
-      "directions": "On Jefferson Avenue, Windber, (On the right when traveling east)",
+      "directions": "On Jefferson Avenue, Windber, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21584",
       "photo_urls": []
     },
@@ -74154,7 +74154,7 @@
       "title": "Ankeny Square",
       "latitude": 40.007475,
       "longitude": -79.081998,
-      "directions": "On Patriot Street (State Route 281) , Somerset, (On the left when traveling west)",
+      "directions": "On West Patriot Street (State Route 281) , Somerset, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23093",
       "photo_urls": []
     },
@@ -110978,12 +110978,156 @@
       "photo_urls": []
     },
     {
+      "id": "300221",
+      "title": "Civilian Conservation Corps",
+      "latitude": 39.99157984,
+      "longitude": -79.24137466,
+      "directions": "On Laurel Hill Park Road, near Seven Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300221",
+      "photo_urls": []
+    },
+    {
+      "id": "300222",
+      "title": "Hard Work - Pride - Spirit - Education - Recreation - Sports - Comradery - Heritage",
+      "latitude": 39.99159122,
+      "longitude": -79.24132324,
+      "directions": "On Laurel Hill Park Road, near Seven Springs, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300222",
+      "photo_urls": []
+    },
+    {
+      "id": "300232",
+      "title": "Restoring an Icon",
+      "latitude": 39.94860556,
+      "longitude": -75.15028333,
+      "directions": "On South 5th Street (County Route 2003) , Philadelphia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300232",
+      "photo_urls": []
+    },
+    {
+      "id": "300239",
+      "title": "Upper Turkeyfoot Township Honor Roll",
+      "latitude": 39.9015385,
+      "longitude": -79.26917174,
+      "directions": "On Humbert Road (State Route 3007) , near Markleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300239",
+      "photo_urls": []
+    },
+    {
+      "id": "300240",
+      "title": "Kingwood Veterans Memorial",
+      "latitude": 39.90157505,
+      "longitude": -79.26915545,
+      "directions": "On Humbert Road (State Route 3007) , near Markleton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300240",
+      "photo_urls": []
+    },
+    {
+      "id": "300316",
+      "title": "\"Lest We Forget\"",
+      "latitude": 40.2093603,
+      "longitude": -78.92801674,
+      "directions": "On River Street, Hollsopple, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300316",
+      "photo_urls": []
+    },
+    {
+      "id": "300328",
+      "title": "1904",
+      "latitude": 40.20935231,
+      "longitude": -78.92837622,
+      "directions": "On Whistler Street (State Route 403) , Hollsopple, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300328",
+      "photo_urls": []
+    },
+    {
+      "id": "300335",
+      "title": "Hooversville Veterans Memorial",
+      "latitude": 40.14559399,
+      "longitude": -78.91475626,
+      "directions": "On Clark Street, Hooversville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300335",
+      "photo_urls": []
+    },
+    {
+      "id": "300339",
+      "title": "\"In Honor of Those Who Have and Will Stand for Freedom\"",
+      "latitude": 40.10870872,
+      "longitude": -78.80803681,
+      "directions": "On Chestnut Street, Central City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300339",
+      "photo_urls": []
+    },
+    {
+      "id": "300353",
+      "title": "Dr. George Grazier",
+      "latitude": 40.21071089,
+      "longitude": -78.92823554,
+      "directions": "On South Main Street (State Route 403) , Hollsopple, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300353",
+      "photo_urls": []
+    },
+    {
+      "id": "300430",
+      "title": "Welcome To Shanksville United Methodist Church",
+      "latitude": 40.01687835,
+      "longitude": -78.90582756,
+      "directions": "On Main Street, Shanksville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300430",
+      "photo_urls": []
+    },
+    {
+      "id": "300434",
+      "title": "Never Forget Flight 93",
+      "latitude": 40.0176897,
+      "longitude": -78.90622512,
+      "directions": "On North Street, Shanksville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300434",
+      "photo_urls": []
+    },
+    {
+      "id": "300438",
+      "title": "Revolutionary Soldier",
+      "latitude": 40.00692274,
+      "longitude": -79.08188773,
+      "directions": "On West Patriot Street (State Route 281) , Somerset, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300438",
+      "photo_urls": []
+    },
+    {
+      "id": "300448",
+      "title": "Somerset County Bridge No. 65",
+      "latitude": 40.02645633,
+      "longitude": -78.9207147,
+      "directions": "On Covered Bridge Road (Local Route 565) , near Shanksville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300448",
+      "photo_urls": []
+    },
+    {
       "id": "30045",
       "title": "Indiantown",
       "latitude": 40.401731,
       "longitude": -76.57585,
       "directions": "On Bellegrove Road (State Route 934) , near Annville, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30045",
+      "photo_urls": []
+    },
+    {
+      "id": "300498",
+      "title": "Time Capsule",
+      "latitude": 40.01029937,
+      "longitude": -79.07832534,
+      "directions": "On East Fairview Street, Somerset, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300498",
+      "photo_urls": []
+    },
+    {
+      "id": "300499",
+      "title": "20 South Lake Street",
+      "latitude": 42.21535251,
+      "longitude": -79.83475511,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300499",
       "photo_urls": []
     },
     {
@@ -110996,12 +111140,129 @@
       "photo_urls": []
     },
     {
+      "id": "300507",
+      "title": "Somerset County National Guard Memorial",
+      "latitude": 40.03778855,
+      "longitude": -79.02705527,
+      "directions": "On Stoystown Road (State Route 281) , Friedens, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300507",
+      "photo_urls": []
+    },
+    {
+      "id": "300514",
+      "title": "Stoystown Legion Veterans Memorial",
+      "latitude": 40.0955173,
+      "longitude": -78.94596673,
+      "directions": "On North Club Road, Stoystown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300514",
+      "photo_urls": []
+    },
+    {
+      "id": "300552",
+      "title": "East Hills Kiwanis Memorial Park to Veterans",
+      "latitude": 40.27068422,
+      "longitude": -78.84303163,
+      "directions": "On Theater Drive, near Johnstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300552",
+      "photo_urls": []
+    },
+    {
       "id": "30060",
       "title": "John Walter",
       "latitude": 40.40238,
       "longitude": -76.54155,
       "directions": "On Jonestown Road, near Annville, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30060",
+      "photo_urls": []
+    },
+    {
+      "id": "300604",
+      "title": "Flight 93 Monument",
+      "latitude": 40.01362076,
+      "longitude": -78.95376676,
+      "directions": "On Coleman Station Road (State Route 1003) , near Shanksville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300604",
+      "photo_urls": []
+    },
+    {
+      "id": "300628",
+      "title": "Windber Veterans Memorial Wall",
+      "latitude": 40.23384496,
+      "longitude": -78.83128019,
+      "directions": "On Jefferson Avenue, Windber, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300628",
+      "photo_urls": []
+    },
+    {
+      "id": "300692",
+      "title": "POW &#9734; MIA",
+      "latitude": 40.23380552,
+      "longitude": -78.83120237,
+      "directions": "On Jefferson Avenue, Windber, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300692",
+      "photo_urls": []
+    },
+    {
+      "id": "300719",
+      "title": "Gettysburg Orientation Map",
+      "latitude": 39.81639,
+      "longitude": -77.23283,
+      "directions": "On Cyclorama Drive, Gettysburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300719",
+      "photo_urls": []
+    },
+    {
+      "id": "300726",
+      "title": "Bald Eagles and Middle Creek",
+      "latitude": 40.274902,
+      "longitude": -76.220299,
+      "directions": "On Furnace Hills Road (Local Route T987) , near Denver, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300726",
+      "photo_urls": []
+    },
+    {
+      "id": "300764",
+      "title": "The Windber Town Clock",
+      "latitude": 40.23433264,
+      "longitude": -78.82978985,
+      "directions": "On Graham Avenue, Windber, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300764",
+      "photo_urls": []
+    },
+    {
+      "id": "300771",
+      "title": "22 South Lake Street",
+      "latitude": 42.21533341,
+      "longitude": -79.83475949,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300771",
+      "photo_urls": []
+    },
+    {
+      "id": "300772",
+      "title": "Armed Forces Memorial",
+      "latitude": 40.10871172,
+      "longitude": -78.80794219,
+      "directions": "On Chestnut Street, Central City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300772",
+      "photo_urls": []
+    },
+    {
+      "id": "300775",
+      "title": "Heroes of Flight 93",
+      "latitude": 40.0782753,
+      "longitude": -78.87818759,
+      "directions": "On Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300775",
+      "photo_urls": []
+    },
+    {
+      "id": "300776",
+      "title": "The Compass Rose",
+      "latitude": 40.07908337,
+      "longitude": -78.87820995,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300776",
       "photo_urls": []
     },
     {
@@ -111014,6 +111275,69 @@
       "photo_urls": []
     },
     {
+      "id": "300782",
+      "title": "Benjamin Franklin",
+      "latitude": 39.95194066,
+      "longitude": -75.19367315,
+      "directions": "Near Woodland Walk, Philadelphia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300782",
+      "photo_urls": []
+    },
+    {
+      "id": "300808",
+      "title": "Veterans Memorial",
+      "latitude": 40.10879979,
+      "longitude": -78.8079991,
+      "directions": "On Chestnut Street, Central City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300808",
+      "photo_urls": []
+    },
+    {
+      "id": "300834",
+      "title": "The Kavod Garden",
+      "latitude": 40.07958343,
+      "longitude": -78.87734107,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300834",
+      "photo_urls": []
+    },
+    {
+      "id": "300847",
+      "title": "Ryan's Trail",
+      "latitude": 40.07990848,
+      "longitude": -78.87853976,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300847",
+      "photo_urls": []
+    },
+    {
+      "id": "300848",
+      "title": "The Cross",
+      "latitude": 40.07984671,
+      "longitude": -78.87863429,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300848",
+      "photo_urls": []
+    },
+    {
+      "id": "300889",
+      "title": "Wildflower Meadow",
+      "latitude": 40.0795838,
+      "longitude": -78.87864431,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300889",
+      "photo_urls": []
+    },
+    {
+      "id": "300916",
+      "title": "24 South Lake Street",
+      "latitude": 42.21529669,
+      "longitude": -79.83476941,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300916",
+      "photo_urls": []
+    },
+    {
       "id": "30108",
       "title": "Sullivan Expedition Against the Iroquois Indians",
       "latitude": 40.705948,
@@ -111023,12 +111347,147 @@
       "photo_urls": []
     },
     {
+      "id": "301170",
+      "title": "26 South Lake Street",
+      "latitude": 42.21522542,
+      "longitude": -79.83479597,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301170",
+      "photo_urls": []
+    },
+    {
+      "id": "301223",
+      "title": "Dedicated in Honor of All Veterans",
+      "latitude": 40.23380199,
+      "longitude": -78.83108534,
+      "directions": "On Jefferson Avenue, Windber, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301223",
+      "photo_urls": []
+    },
+    {
+      "id": "301266",
+      "title": "28 South Lake Street",
+      "latitude": 42.21517947,
+      "longitude": -79.83481485,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301266",
+      "photo_urls": []
+    },
+    {
+      "id": "301480",
+      "title": "21 South Lake Street",
+      "latitude": 42.21542305,
+      "longitude": -79.83493695,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301480",
+      "photo_urls": []
+    },
+    {
       "id": "30152",
       "title": "Sullivan Expedition Against the Iroquois Indians",
       "latitude": 40.83915,
       "longitude": -75.29638333,
       "directions": "On South Broadway (State Route 512) , Wind Gap, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30152",
+      "photo_urls": []
+    },
+    {
+      "id": "301595",
+      "title": "17 & 19 South Lake Street",
+      "latitude": 42.21556307,
+      "longitude": -79.83487963,
+      "directions": "On South Lake Street (State Route 89) , North East, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301595",
+      "photo_urls": []
+    },
+    {
+      "id": "301645",
+      "title": "Honoring Veterans of Windber",
+      "latitude": 40.23381506,
+      "longitude": -78.83114723,
+      "directions": "On Jefferson Avenue, Windber, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301645",
+      "photo_urls": []
+    },
+    {
+      "id": "301718",
+      "title": "Route of the First Successful Electric Streetcar",
+      "latitude": 41.40968758,
+      "longitude": -75.66167002,
+      "directions": "On North Washington Avenue, Scranton, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301718",
+      "photo_urls": []
+    },
+    {
+      "id": "301755",
+      "title": "3 West Main",
+      "latitude": 42.21583989,
+      "longitude": -79.83483357,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301755",
+      "photo_urls": []
+    },
+    {
+      "id": "301848",
+      "title": "5 West Main",
+      "latitude": 42.21582319,
+      "longitude": -79.83489236,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301848",
+      "photo_urls": []
+    },
+    {
+      "id": "301938",
+      "title": "7 West Main",
+      "latitude": 42.21581234,
+      "longitude": -79.83495815,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301938",
+      "photo_urls": []
+    },
+    {
+      "id": "302298",
+      "title": "19 West Main",
+      "latitude": 42.21565765,
+      "longitude": -79.83549496,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302298",
+      "photo_urls": []
+    },
+    {
+      "id": "302349",
+      "title": "17 West Main",
+      "latitude": 42.21568953,
+      "longitude": -79.83533988,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302349",
+      "photo_urls": []
+    },
+    {
+      "id": "302419",
+      "title": "11, 13 & 15 West Main",
+      "latitude": 42.21572833,
+      "longitude": -79.83524445,
+      "directions": "On West Main Street (U.S. 20) , North East, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302419",
+      "photo_urls": []
+    },
+    {
+      "id": "302576",
+      "title": "Simpson Voting House",
+      "latitude": 40.41127157,
+      "longitude": -79.38672162,
+      "directions": "On William Penn Highway (U.S. 22) , near New Alexandria, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302576",
+      "photo_urls": []
+    },
+    {
+      "id": "302593",
+      "title": "Frank Sinatra Weds Ava Gardner in Philadelphia",
+      "latitude": 39.93909867,
+      "longitude": -75.15772972,
+      "directions": "On South 9th Street, Philadelphia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302593",
       "photo_urls": []
     },
     {
@@ -111122,6 +111581,24 @@
       "photo_urls": []
     },
     {
+      "id": "302914",
+      "title": "Parley Hughes",
+      "latitude": 41.38299129,
+      "longitude": -75.71168977,
+      "directions": "On Main Street, Taylor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302914",
+      "photo_urls": []
+    },
+    {
+      "id": "302916",
+      "title": "Memorial Fence",
+      "latitude": 41.38285027,
+      "longitude": -75.71153829,
+      "directions": "On Main Street, Taylor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302916",
+      "photo_urls": []
+    },
+    {
       "id": "30293",
       "title": "Shelling of Carlisle",
       "latitude": 40.201547,
@@ -111155,6 +111632,96 @@
       "longitude": -77.191701,
       "directions": "On W. High Street, Carlisle, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30300",
+      "photo_urls": []
+    },
+    {
+      "id": "303025",
+      "title": "Field of Heroes Flag Display",
+      "latitude": 40.0841679,
+      "longitude": -78.8909024,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303025",
+      "photo_urls": []
+    },
+    {
+      "id": "303026",
+      "title": "1st Battalion 109th Infantry Regiment Pennsylvania Army National Guard",
+      "latitude": 40.0843582,
+      "longitude": -78.89077462,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303026",
+      "photo_urls": []
+    },
+    {
+      "id": "303027",
+      "title": "Afghanistan Fallen Heroes",
+      "latitude": 40.08433247,
+      "longitude": -78.89078895,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303027",
+      "photo_urls": []
+    },
+    {
+      "id": "303028",
+      "title": "Cambria County, Pennsylvania Hometown Heroes",
+      "latitude": 40.08431009,
+      "longitude": -78.89080288,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303028",
+      "photo_urls": []
+    },
+    {
+      "id": "303040",
+      "title": "Sergeant First Class Alwyn Crendall Cashe",
+      "latitude": 40.08437784,
+      "longitude": -78.89082825,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303040",
+      "photo_urls": []
+    },
+    {
+      "id": "303041",
+      "title": "Master Sergeant John Chapman",
+      "latitude": 40.08435409,
+      "longitude": -78.89084761,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303041",
+      "photo_urls": []
+    },
+    {
+      "id": "303104",
+      "title": "John Durang",
+      "latitude": 40.0380694,
+      "longitude": -76.30847251,
+      "directions": "On North Water Street, Lancaster, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303104",
+      "photo_urls": []
+    },
+    {
+      "id": "303121",
+      "title": "Warrior Dog",
+      "latitude": 40.08433946,
+      "longitude": -78.89085936,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303121",
+      "photo_urls": []
+    },
+    {
+      "id": "303123",
+      "title": "Totals by State of the Fallen",
+      "latitude": 40.08431919,
+      "longitude": -78.89087417,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303123",
+      "photo_urls": []
+    },
+    {
+      "id": "303136",
+      "title": "Honoring the families of those who served.",
+      "latitude": 40.08428843,
+      "longitude": -78.89089209,
+      "directions": "Near Lincoln Highway (U.S. 30) , near Stoystown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303136",
       "photo_urls": []
     },
     {
