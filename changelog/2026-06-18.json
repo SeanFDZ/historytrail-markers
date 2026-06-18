@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-18",
+  "run_id": 170,
+  "cycle_day": 1,
+  "regions_processed": [
+    "us-ca"
+  ],
+  "changes": {
+    "us-ca": {
+      "added": 12897,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 63141,
+  "total_removed": 0,
+  "total_modified": 0
+}
