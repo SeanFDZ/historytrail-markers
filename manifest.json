@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-18T06:04:43.352Z",
+  "generated": "2026-06-19T06:04:33.878Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73418,
+  "total_markers": 73432,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -510,12 +510,12 @@
       "type": "state",
       "country": "United States",
       "file": "regions/us-fl.json",
-      "markers": 7801,
-      "size_bytes": 2396461,
-      "updated": "2026-05-22",
+      "markers": 7815,
+      "size_bytes": 2400814,
+      "updated": "2026-06-19",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 7796,
+        "added": 7807,
         "removed": 0,
         "modified": 0
       }
