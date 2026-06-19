@@ -3,9 +3,9 @@
   "region_name": "Virginia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-22T06:04:31.744Z",
-  "source_timestamp": "2026-05-22T06:04:31.744Z",
-  "marker_count": 15251,
+  "generated": "2026-06-19T06:04:11.275Z",
+  "source_timestamp": "2026-06-19T06:04:11.275Z",
+  "marker_count": 15391,
   "markers": [
     {
       "id": "100002",
@@ -20298,7 +20298,7 @@
       "title": "Elijah Baker",
       "latitude": 37.24598333,
       "longitude": -75.9722,
-      "directions": "On Lankford Highway (U.S. 13) , Cape Charles, ",
+      "directions": "On Lankford Highway (U.S. 13) , near Cape Charles, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=154163",
       "photo_urls": []
     },
@@ -55827,7 +55827,7 @@
     },
     {
       "id": "206447",
-      "title": "A Changing Way of Life...",
+      "title": "A Changing Way of Life… / Appreciating Our Beach",
       "latitude": 37.26741,
       "longitude": -76.02332,
       "directions": "On Bay Avenue, Cape Charles, (On the left when traveling north)",
@@ -65163,7 +65163,7 @@
       "title": "Powhatan's Hill",
       "latitude": 37.514694,
       "longitude": -77.40683,
-      "directions": "On Williamsburg Road, Richmond, (On the left when traveling east)",
+      "directions": "On Williamsburg Road, near Richmond, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230996",
       "photo_urls": []
     },
@@ -80661,7 +80661,7 @@
       "title": "Samuel L. Gravely Jr.",
       "latitude": 37.520722,
       "longitude": -77.4063893,
-      "directions": "On Old Nicholson Street, Richmond, (On the right when traveling east)",
+      "directions": "On Old Nicholson Street, near Richmond, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=264277",
       "photo_urls": []
     },
@@ -83656,9 +83656,9 @@
     {
       "id": "2697",
       "title": "Organization of the Christian Church",
-      "latitude": 37.124647,
-      "longitude": -76.845484,
-      "directions": "On Colonial Trail West (State Route 10) , near Spring Grove, (On the left when traveling north)",
+      "latitude": 37.12457478,
+      "longitude": -76.85088484,
+      "directions": "On Colonial Trail West (State Route 10) , near Spring Grove, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2697",
       "photo_urls": []
     },
@@ -92784,7 +92784,7 @@
       "title": "1652 Protest",
       "latitude": 37.45361111,
       "longitude": -75.93166667,
-      "directions": "On 9232 Chatham Road, Machipongo, (On the left when traveling north)",
+      "directions": "On Chatham Road, Machipongo, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=288521",
       "photo_urls": []
     },
@@ -103175,6 +103175,24 @@
       "photo_urls": []
     },
     {
+      "id": "299528",
+      "title": "Avoca",
+      "latitude": 37.1301454,
+      "longitude": -79.26972932,
+      "directions": "Near Avoca Lane, Altavista, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299528",
+      "photo_urls": []
+    },
+    {
+      "id": "299529",
+      "title": "Victorian Garden",
+      "latitude": 37.13048048,
+      "longitude": -79.27002747,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299529",
+      "photo_urls": []
+    },
+    {
       "id": "29953",
       "title": "Ballenger Church",
       "latitude": 37.777982,
@@ -103211,6 +103229,15 @@
       "photo_urls": []
     },
     {
+      "id": "299535",
+      "title": "Powell Educational Center",
+      "latitude": 37.1306264,
+      "longitude": -79.27032627,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299535",
+      "photo_urls": []
+    },
+    {
       "id": "299536",
       "title": "Privy (Latin for private)",
       "latitude": 37.13066186,
@@ -103220,12 +103247,48 @@
       "photo_urls": []
     },
     {
+      "id": "299539",
+      "title": "The Dickerson Family Garden",
+      "latitude": 37.13028193,
+      "longitude": -79.27104096,
+      "directions": "Near Main Street, Altavista, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299539",
+      "photo_urls": []
+    },
+    {
       "id": "29954",
       "title": "Diuguidsville",
       "latitude": 37.53495352,
       "longitude": -78.82749707,
       "directions": "On Richmond Highway (U.S. 60) , Bent Creek, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29954",
+      "photo_urls": []
+    },
+    {
+      "id": "299542",
+      "title": "Welcome to Wayside Park",
+      "latitude": 37.08875996,
+      "longitude": -79.32017589,
+      "directions": "Near Main Street, Hurt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299542",
+      "photo_urls": []
+    },
+    {
+      "id": "299543",
+      "title": "Welcome to Wayside Park",
+      "latitude": 37.09035245,
+      "longitude": -79.3223528,
+      "directions": "Near Main Street, Hurt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299543",
+      "photo_urls": []
+    },
+    {
+      "id": "299544",
+      "title": "Welcome to Wayside Park",
+      "latitude": 37.09063156,
+      "longitude": -79.32264018,
+      "directions": "Near Main Street, Hurt, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299544",
       "photo_urls": []
     },
     {
@@ -103244,6 +103307,33 @@
       "longitude": -79.39825218,
       "directions": "Near S Main Street, Chatham, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299561",
+      "photo_urls": []
+    },
+    {
+      "id": "299562",
+      "title": "Pittsylvania County Veterans Memorial",
+      "latitude": 36.82681717,
+      "longitude": -79.39830785,
+      "directions": "On Main Street, Chatham, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299562",
+      "photo_urls": []
+    },
+    {
+      "id": "299570",
+      "title": "Hargrave World War II Memorial",
+      "latitude": 36.83171289,
+      "longitude": -79.40054934,
+      "directions": "Near Military Drive, Chatham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299570",
+      "photo_urls": []
+    },
+    {
+      "id": "299573",
+      "title": "Richard A. Potter Memorial",
+      "latitude": 36.83174833,
+      "longitude": -79.40063686,
+      "directions": "Near Military Drive, Chatham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299573",
       "photo_urls": []
     },
     {
@@ -103271,6 +103361,15 @@
       "longitude": -79.40072876,
       "directions": "Near Court Place, Chatham, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299621",
+      "photo_urls": []
+    },
+    {
+      "id": "299635",
+      "title": "Park to Library Trail",
+      "latitude": 36.90962146,
+      "longitude": -80.32138704,
+      "directions": "Near West Main Street, Floyd, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299635",
       "photo_urls": []
     },
     {
@@ -103373,6 +103472,15 @@
       "photo_urls": []
     },
     {
+      "id": "299803",
+      "title": "Pittsylvania County World War II Memorial",
+      "latitude": 36.82640807,
+      "longitude": -79.39827037,
+      "directions": "Near Bank Street, Chatham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299803",
+      "photo_urls": []
+    },
+    {
       "id": "299814",
       "title": "Ford's Mill at Wolf Run Shoals",
       "latitude": 38.72753977,
@@ -103388,6 +103496,24 @@
       "longitude": -77.34709,
       "directions": "On North Main Street, Bowling Green, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299817",
+      "photo_urls": []
+    },
+    {
+      "id": "299876",
+      "title": "Committee of Safety",
+      "latitude": 36.82727476,
+      "longitude": -79.58841068,
+      "directions": "On Sago Road, Callands, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299876",
+      "photo_urls": []
+    },
+    {
+      "id": "299877",
+      "title": "Cherrystone Meetinghouse",
+      "latitude": 36.82549727,
+      "longitude": -79.40041192,
+      "directions": "Near Court Place, Chatham, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299877",
       "photo_urls": []
     },
     {
@@ -103661,12 +103787,84 @@
       "photo_urls": []
     },
     {
+      "id": "300296",
+      "title": "Battle of Marion",
+      "latitude": 36.84844,
+      "longitude": -81.48967,
+      "directions": "On North Main Street (U.S. 11) , Marion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300296",
+      "photo_urls": []
+    },
+    {
+      "id": "300297",
+      "title": "Battle of Marion",
+      "latitude": 36.84844021,
+      "longitude": -81.48965791,
+      "directions": "On North Main Street (U.S. 11) , Marion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300297",
+      "photo_urls": []
+    },
+    {
+      "id": "300331",
+      "title": "Missed Opportunity",
+      "latitude": 38.70760278,
+      "longitude": -77.56490278,
+      "directions": "On Aden Road (State Route 646) , Nokesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300331",
+      "photo_urls": []
+    },
+    {
+      "id": "300332",
+      "title": "Aden Road Bridge",
+      "latitude": 38.70757222,
+      "longitude": -77.56485833,
+      "directions": "On Aden Road (State Route 646) , Nokesville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300332",
+      "photo_urls": []
+    },
+    {
       "id": "30041",
       "title": "Battle of Appomattox Station",
       "latitude": 37.3731606,
       "longitude": -78.81711155,
       "directions": "On State Route 24, near Appomattox, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30041",
+      "photo_urls": []
+    },
+    {
+      "id": "300522",
+      "title": "Onancock Baptist Church",
+      "latitude": 37.71213056,
+      "longitude": -75.74823889,
+      "directions": "On Market Street, Onancock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300522",
+      "photo_urls": []
+    },
+    {
+      "id": "300524",
+      "title": "Revolutionary War Patriots",
+      "latitude": 37.71185,
+      "longitude": -75.74740556,
+      "directions": "On Market Street, Onancock, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300524",
+      "photo_urls": []
+    },
+    {
+      "id": "300578",
+      "title": "Like to Eat?",
+      "latitude": 38.61882778,
+      "longitude": -77.29873611,
+      "directions": "Near Interstate 95, Dale City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300578",
+      "photo_urls": []
+    },
+    {
+      "id": "300580",
+      "title": "Bishop William McKendree (1757-1835)",
+      "latitude": 36.68264444,
+      "longitude": -77.54463333,
+      "directions": "On South Main Street (U.S. 301) , Emporia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300580",
       "photo_urls": []
     },
     {
@@ -103724,12 +103922,48 @@
       "photo_urls": []
     },
     {
+      "id": "300887",
+      "title": "Tobacco Road",
+      "latitude": 37.23328,
+      "longitude": -76.50375,
+      "directions": "On Water Street, Yorktown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300887",
+      "photo_urls": []
+    },
+    {
+      "id": "300888",
+      "title": "Tobacco Road",
+      "latitude": 37.23017,
+      "longitude": -76.50419,
+      "directions": "On Colonial National Historical Parkway, Yorktown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300888",
+      "photo_urls": []
+    },
+    {
       "id": "30089",
       "title": "Historic Vegetation",
       "latitude": 37.39135116,
       "longitude": -78.78354907,
       "directions": "On Old Courthouse Road (State Route 24) , Appomattox, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30089",
+      "photo_urls": []
+    },
+    {
+      "id": "300893",
+      "title": "Salubria",
+      "latitude": 38.43829168,
+      "longitude": -77.8868508,
+      "directions": "On Salubria Lane, Stevensburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300893",
+      "photo_urls": []
+    },
+    {
+      "id": "300949",
+      "title": "Bloomsbury",
+      "latitude": 38.25636546,
+      "longitude": -78.05454663,
+      "directions": "On Bloomsbury Road, Orange, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300949",
       "photo_urls": []
     },
     {
@@ -103748,6 +103982,24 @@
       "longitude": -77.442616,
       "directions": "On Belleau Avenue, Marine Corps Base Quantico, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3010",
+      "photo_urls": []
+    },
+    {
+      "id": "301002",
+      "title": "Three Battlefields",
+      "latitude": 39.21072,
+      "longitude": -78.12758,
+      "directions": "On Redbud Road (State Route 661) , Winchester, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301002",
+      "photo_urls": []
+    },
+    {
+      "id": "301003",
+      "title": "Three Battlefields",
+      "latitude": 39.21072,
+      "longitude": -78.12756,
+      "directions": "On Redbud Road, Winchester, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301003",
       "photo_urls": []
     },
     {
@@ -103775,6 +104027,24 @@
       "longitude": -76.52987,
       "directions": "On George Washington Memorial Highway (U.S. 17) , Gloucester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30107",
+      "photo_urls": []
+    },
+    {
+      "id": "301084",
+      "title": "Confederate Hospital at Jerusalem, Virginia",
+      "latitude": 36.7161385,
+      "longitude": -77.06844374,
+      "directions": "On Main Street (U.S. Business 58) , Courtland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301084",
+      "photo_urls": []
+    },
+    {
+      "id": "301086",
+      "title": "Texas Confederate Soldiers",
+      "latitude": 36.71596035,
+      "longitude": -77.0688432,
+      "directions": "Near Main Street (U.S. Business 58) , Courtland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301086",
       "photo_urls": []
     },
     {
@@ -103838,6 +104108,15 @@
       "longitude": -76.524196,
       "directions": "On George Washington Memorial Highway (U.S. 17) , near Gloucester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30115",
+      "photo_urls": []
+    },
+    {
+      "id": "301181",
+      "title": "Patrick Henry",
+      "latitude": 36.66747266,
+      "longitude": -79.77889967,
+      "directions": "On Old Liberty Drive, Axton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301181",
       "photo_urls": []
     },
     {
@@ -103994,12 +104273,165 @@
       "photo_urls": []
     },
     {
+      "id": "301616",
+      "title": "Barboursville",
+      "latitude": 38.17137226,
+      "longitude": -78.27952097,
+      "directions": "On Spotswood Trail (U.S. 33) , Barboursville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301616",
+      "photo_urls": []
+    },
+    {
+      "id": "301617",
+      "title": "Barboursville Ruins",
+      "latitude": 38.16218321,
+      "longitude": -78.28037686,
+      "directions": "On Manison Road, near Barboursville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301617",
+      "photo_urls": []
+    },
+    {
+      "id": "301618",
+      "title": "James Barbour, 1775-1842",
+      "latitude": 38.16238457,
+      "longitude": -78.27620878,
+      "directions": "Near Mansion Road, Barboursville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301618",
+      "photo_urls": []
+    },
+    {
+      "id": "301659",
+      "title": "Our Air Force Memorial, Arlington Virginia",
+      "latitude": 38.86911215,
+      "longitude": -77.06684352,
+      "directions": "Near Air Force Memorial Drive, Arlington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301659",
+      "photo_urls": []
+    },
+    {
+      "id": "301696",
+      "title": "Like to Eat?",
+      "latitude": 36.54651944,
+      "longitude": -77.57520278,
+      "directions": "On Welcome Center Drive, Skippers, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301696",
+      "photo_urls": []
+    },
+    {
+      "id": "301697",
+      "title": "The Worst of War",
+      "latitude": 36.68095,
+      "longitude": -77.54443333,
+      "directions": "On Clay Street, Emporia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301697",
+      "photo_urls": []
+    },
+    {
+      "id": "301699",
+      "title": "Christian Church",
+      "latitude": 37.12453889,
+      "longitude": -76.85196667,
+      "directions": "On Colonial Trail West (State Route 10) , Dendron, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301699",
+      "photo_urls": []
+    },
+    {
+      "id": "301700",
+      "title": "Organization of the Christian Church",
+      "latitude": 37.12458056,
+      "longitude": -76.85191389,
+      "directions": "On Colonial Trail West (State Route 10) , Dendron, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301700",
+      "photo_urls": []
+    },
+    {
+      "id": "301722",
+      "title": "Surry County Virginia",
+      "latitude": 37.13771111,
+      "longitude": -76.83440278,
+      "directions": "On Colonial Trail East (State Route 10) , Surry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301722",
+      "photo_urls": []
+    },
+    {
+      "id": "301740",
+      "title": "Merchant's Hope Church",
+      "latitude": 37.26594269,
+      "longitude": -77.20267787,
+      "directions": "On Merchants Hope Road, near Hopewell, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301740",
+      "photo_urls": []
+    },
+    {
+      "id": "301741",
+      "title": "Augustus Robbins, Jr.",
+      "latitude": 37.26579167,
+      "longitude": -77.20275833,
+      "directions": "On Merchants Hope Road, near Hopewell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301741",
+      "photo_urls": []
+    },
+    {
+      "id": "301742",
+      "title": "Samuel Jordan of Jordan's Journey",
+      "latitude": 37.30648056,
+      "longitude": -77.22258889,
+      "directions": "On Jordan Point Road (Route 106/156) , near Hopewell, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301742",
+      "photo_urls": []
+    },
+    {
+      "id": "301743",
+      "title": "New Market Heights",
+      "latitude": 37.43488611,
+      "longitude": -77.32910833,
+      "directions": "On Farmers Circle Drive, near Henrico, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301743",
+      "photo_urls": []
+    },
+    {
+      "id": "301744",
+      "title": "Historic Route 5 Corridor",
+      "latitude": 37.43533056,
+      "longitude": -77.32904722,
+      "directions": "On Farmers Circle Drive, near Henrico, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301744",
+      "photo_urls": []
+    },
+    {
+      "id": "301757",
+      "title": "Building a Bridge of Friendship",
+      "latitude": 37.17938333,
+      "longitude": -76.54738611,
+      "directions": "Near Constitution Way, Newport News, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301757",
+      "photo_urls": []
+    },
+    {
+      "id": "301758",
+      "title": "Church Bell",
+      "latitude": 37.12027222,
+      "longitude": -76.52295,
+      "directions": "On Campbell Road, Newport News, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301758",
+      "photo_urls": []
+    },
+    {
       "id": "30178",
       "title": "Barboursville Ruins",
       "latitude": 38.16230896,
       "longitude": -78.2805571,
       "directions": "On Manison Road, near Barboursville, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30178",
+      "photo_urls": []
+    },
+    {
+      "id": "301784",
+      "title": "Opening of the Gettysburg Campaign",
+      "latitude": 38.50245637,
+      "longitude": -77.89081656,
+      "directions": "On Brandy Road (County Route 762) , near Brandy Station, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301784",
       "photo_urls": []
     },
     {
@@ -104012,12 +104444,192 @@
       "photo_urls": []
     },
     {
+      "id": "301806",
+      "title": "USS Buffalo (SSN-715)",
+      "latitude": 36.57801362,
+      "longitude": -79.35418364,
+      "directions": "Near Slayton Avenue, Danville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301806",
+      "photo_urls": []
+    },
+    {
       "id": "30181",
       "title": "Montebello",
       "latitude": 38.15390442,
       "longitude": -78.24854493,
       "directions": "On Spotswood Trail (U.S. 33) , near Gordonsville, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30181",
+      "photo_urls": []
+    },
+    {
+      "id": "301816",
+      "title": "Battle of Hampton Roads",
+      "latitude": 37.00256237,
+      "longitude": -76.36108908,
+      "directions": "On Chesapeake Avenue, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301816",
+      "photo_urls": []
+    },
+    {
+      "id": "301817",
+      "title": "Harmony of Friendship",
+      "latitude": 38.88833333,
+      "longitude": -77.06926667,
+      "directions": "On North Marshall Drive, Arlington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301817",
+      "photo_urls": []
+    },
+    {
+      "id": "301818",
+      "title": "Harmony of Friendship",
+      "latitude": 38.88833333,
+      "longitude": -77.06926667,
+      "directions": "On North Marshall Drive, Arlington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301818",
+      "photo_urls": []
+    },
+    {
+      "id": "301820",
+      "title": "Modern Liberation",
+      "latitude": 38.888325,
+      "longitude": -77.06923611,
+      "directions": "On North Marshall Drive, Arlington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301820",
+      "photo_urls": []
+    },
+    {
+      "id": "301822",
+      "title": "A Song of Thanks",
+      "latitude": 38.88833,
+      "longitude": -77.06919,
+      "directions": "Near Marshall Drive, Arlington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301822",
+      "photo_urls": []
+    },
+    {
+      "id": "301824",
+      "title": "Hampton Courthouse",
+      "latitude": 37.02663056,
+      "longitude": -76.34458056,
+      "directions": "On Kings Way, Hampton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301824",
+      "photo_urls": []
+    },
+    {
+      "id": "301844",
+      "title": "Indian / African / Settler",
+      "latitude": 37.02454722,
+      "longitude": -76.34349167,
+      "directions": "On Settlers Landing Road, Hampton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301844",
+      "photo_urls": []
+    },
+    {
+      "id": "301845",
+      "title": "Attucks Theatre",
+      "latitude": 36.85706389,
+      "longitude": -76.27866389,
+      "directions": "On Henry Street, Norfolk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301845",
+      "photo_urls": []
+    },
+    {
+      "id": "301867",
+      "title": "Jeff Lyal Simpson",
+      "latitude": 37.08699971,
+      "longitude": -76.47367095,
+      "directions": "Near Town Center Drive, Newport News, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301867",
+      "photo_urls": []
+    },
+    {
+      "id": "301878",
+      "title": "The Historic James and its Tributaries",
+      "latitude": 37.31876721,
+      "longitude": -76.93532467,
+      "directions": "Near Wilcox Neck Road, Charles City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301878",
+      "photo_urls": []
+    },
+    {
+      "id": "301893",
+      "title": "Key Road School",
+      "latitude": 36.81553611,
+      "longitude": -76.34023333,
+      "directions": "On Portsmouth Boulevard (Route 337) , Portsmouth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301893",
+      "photo_urls": []
+    },
+    {
+      "id": "301895",
+      "title": "Portsmouth* Gothic",
+      "latitude": 36.81532458,
+      "longitude": -76.34092908,
+      "directions": "On Portsmouth Boulevard, Portsmouth, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301895",
+      "photo_urls": []
+    },
+    {
+      "id": "301896",
+      "title": "Glasgow Street Park",
+      "latitude": 36.83756944,
+      "longitude": -76.30190278,
+      "directions": "On Glasgow Street, Portsmouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301896",
+      "photo_urls": []
+    },
+    {
+      "id": "301898",
+      "title": "Glasgow Street Park",
+      "latitude": 36.83756389,
+      "longitude": -76.30197778,
+      "directions": "On Granada Street, Portsmouth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301898",
+      "photo_urls": []
+    },
+    {
+      "id": "301899",
+      "title": "Landing of Wool and Surrender of Norfolk",
+      "latitude": 36.958125,
+      "longitude": -76.25639444,
+      "directions": "On West Ocean View Avenue, Norfolk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301899",
+      "photo_urls": []
+    },
+    {
+      "id": "301900",
+      "title": "Miyazaki Japanese Garden",
+      "latitude": 36.791625,
+      "longitude": -75.99448333,
+      "directions": "On Sakura Lane, Virginia Beach, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301900",
+      "photo_urls": []
+    },
+    {
+      "id": "301901",
+      "title": "Japanese Maple Tree",
+      "latitude": 36.79159444,
+      "longitude": -75.99365278,
+      "directions": "Near Sekura Lane, Virginia Beach, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301901",
+      "photo_urls": []
+    },
+    {
+      "id": "301902",
+      "title": "Azumaya of Miyazaki Garden",
+      "latitude": 36.79171667,
+      "longitude": -75.9936,
+      "directions": "On Sakura Lane, Virginia Beach, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301902",
+      "photo_urls": []
+    },
+    {
+      "id": "302025",
+      "title": "The Civil War at Upton’s Hill",
+      "latitude": 38.87138548,
+      "longitude": -77.14352499,
+      "directions": "Near Wilson Boulevard, Arlington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302025",
       "photo_urls": []
     },
     {
@@ -104030,6 +104642,258 @@
       "photo_urls": []
     },
     {
+      "id": "302041",
+      "title": "3015 Libby Terrace",
+      "latitude": 37.52608611,
+      "longitude": -77.41647222,
+      "directions": "On Libby Terrace, Richmond, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302041",
+      "photo_urls": []
+    },
+    {
+      "id": "302049",
+      "title": "Gargaphia",
+      "latitude": 37.800475,
+      "longitude": -75.59774722,
+      "directions": "On Lankford Highway (U.S. 13) , Gargatha, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302049",
+      "photo_urls": []
+    },
+    {
+      "id": "302050",
+      "title": "Arthur Crudup",
+      "latitude": 37.47470843,
+      "longitude": -75.8583484,
+      "directions": "On Lankford Highway (U.S. 13) , Nassawadox, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302050",
+      "photo_urls": []
+    },
+    {
+      "id": "302071",
+      "title": "Native Longleaf Pine Restoration at the Poquoson Museum",
+      "latitude": 37.12506944,
+      "longitude": -76.36467778,
+      "directions": "Near Poquoson Avenue (State Route 171) , Poquoson, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302071",
+      "photo_urls": []
+    },
+    {
+      "id": "302073",
+      "title": "William Porter",
+      "latitude": 36.83726111,
+      "longitude": -76.30197778,
+      "directions": "Near Granada Street, Portsmouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302073",
+      "photo_urls": []
+    },
+    {
+      "id": "302074",
+      "title": "Founding of the Nation",
+      "latitude": 36.83725833,
+      "longitude": -76.30200278,
+      "directions": "Near Glasgow Street, Portsmouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302074",
+      "photo_urls": []
+    },
+    {
+      "id": "302075",
+      "title": "Capt. James Hamilton",
+      "latitude": 36.83732222,
+      "longitude": -76.30201667,
+      "directions": "Near Glasgow Street, Portsmouth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302075",
+      "photo_urls": []
+    },
+    {
+      "id": "302079",
+      "title": "Raptors",
+      "latitude": 37.12433611,
+      "longitude": -76.36411944,
+      "directions": "On Poquoson Museum Marsh Trail, Poquoson, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302079",
+      "photo_urls": []
+    },
+    {
+      "id": "302080",
+      "title": "Man and the Marsh",
+      "latitude": 37.1247,
+      "longitude": -76.36348611,
+      "directions": "On Poquoson Museum Marsh Trail, Poquoson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302080",
+      "photo_urls": []
+    },
+    {
+      "id": "302081",
+      "title": "Atlantic Menhaden / Cownose Ray",
+      "latitude": 37.12544167,
+      "longitude": -76.36386111,
+      "directions": "Near Poquoson Museum Marsh Trail, Poquoson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302081",
+      "photo_urls": []
+    },
+    {
+      "id": "302083",
+      "title": "Weston Cemetery",
+      "latitude": 37.11283853,
+      "longitude": -76.34258579,
+      "directions": "On Poquoson Avenue, Poquoson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302083",
+      "photo_urls": []
+    },
+    {
+      "id": "302085",
+      "title": "Just Passing Through",
+      "latitude": 37.13040677,
+      "longitude": -75.96220666,
+      "directions": "On Wildlife Trail Access, near Cape Charles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302085",
+      "photo_urls": []
+    },
+    {
+      "id": "302086",
+      "title": "Seasons of Protection",
+      "latitude": 37.13017778,
+      "longitude": -75.96224167,
+      "directions": "On Nature Trail, near Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302086",
+      "photo_urls": []
+    },
+    {
+      "id": "302089",
+      "title": "Winslow Battery",
+      "latitude": 37.13005556,
+      "longitude": -75.96205278,
+      "directions": "On Nature Trail, near Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302089",
+      "photo_urls": []
+    },
+    {
+      "id": "302090",
+      "title": "Join the Adventure",
+      "latitude": 37.16663333,
+      "longitude": -75.98888333,
+      "directions": "On Kiptopeke Drive, Kiptopeke, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302090",
+      "photo_urls": []
+    },
+    {
+      "id": "302091",
+      "title": "John Smith Explores the Chesapeake",
+      "latitude": 37.16663333,
+      "longitude": -75.98888333,
+      "directions": "On Kiptopeke Drive, Kiptopeke, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302091",
+      "photo_urls": []
+    },
+    {
+      "id": "302092",
+      "title": "A Blast From the Past",
+      "latitude": 37.1301,
+      "longitude": -75.96204444,
+      "directions": "On Nature Trail, near Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302092",
+      "photo_urls": []
+    },
+    {
+      "id": "302095",
+      "title": "A Vital Site",
+      "latitude": 37.12996667,
+      "longitude": -75.96193611,
+      "directions": "Near Nature Trail, near Cape Charles, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302095",
+      "photo_urls": []
+    },
+    {
+      "id": "302096",
+      "title": "Early Land Use",
+      "latitude": 37.128975,
+      "longitude": -75.96213611,
+      "directions": "Near Nature Trail, near Cape Charles, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302096",
+      "photo_urls": []
+    },
+    {
+      "id": "302097",
+      "title": "In the Distance",
+      "latitude": 37.12858611,
+      "longitude": -75.96126667,
+      "directions": "On Nature Trail, near Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302097",
+      "photo_urls": []
+    },
+    {
+      "id": "302099",
+      "title": "Welcome to the Arlington Sites Preserve",
+      "latitude": 37.2285,
+      "longitude": -76.00283056,
+      "directions": "On Arlington Chase Road (County Route 644) , near Cape Charles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302099",
+      "photo_urls": []
+    },
+    {
+      "id": "302101",
+      "title": "American Indians",
+      "latitude": 37.22850556,
+      "longitude": -76.00290556,
+      "directions": "On Arlington Chase Road (County Route 644) , near Cape Charles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302101",
+      "photo_urls": []
+    },
+    {
+      "id": "302103",
+      "title": "European Settlement",
+      "latitude": 37.22853333,
+      "longitude": -76.00296111,
+      "directions": "On Arlington Chase Road (County Route 644) , near Cape Charles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302103",
+      "photo_urls": []
+    },
+    {
+      "id": "302104",
+      "title": "African Presence",
+      "latitude": 37.22857778,
+      "longitude": -76.00300556,
+      "directions": "On Arlington Chase Road (County Route 644) , Cape Charles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302104",
+      "photo_urls": []
+    },
+    {
+      "id": "302106",
+      "title": "Archaeology",
+      "latitude": 37.22860278,
+      "longitude": -76.00305833,
+      "directions": "On Arlington Chase Road (County Route 644) , near Cape Charles, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302106",
+      "photo_urls": []
+    },
+    {
+      "id": "302116",
+      "title": "The Jetty House",
+      "latitude": 37.26794167,
+      "longitude": -76.00788056,
+      "directions": "On Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302116",
+      "photo_urls": []
+    },
+    {
+      "id": "302117",
+      "title": "Highball",
+      "latitude": 37.26780948,
+      "longitude": -76.00785809,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302117",
+      "photo_urls": []
+    },
+    {
+      "id": "302118",
+      "title": "Bloxom Passenger Station",
+      "latitude": 37.26782222,
+      "longitude": -76.00781389,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302118",
+      "photo_urls": []
+    },
+    {
       "id": "30212",
       "title": "Cumberland County / Prince Edward County",
       "latitude": 37.30822366,
@@ -104039,12 +104903,219 @@
       "photo_urls": []
     },
     {
+      "id": "302120",
+      "title": "Box Car",
+      "latitude": 37.26773056,
+      "longitude": -76.00776667,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302120",
+      "photo_urls": []
+    },
+    {
+      "id": "302122",
+      "title": "Tank Car",
+      "latitude": 37.26771944,
+      "longitude": -76.00790278,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302122",
+      "photo_urls": []
+    },
+    {
+      "id": "302123",
+      "title": "BCR 2000 Locomotive",
+      "latitude": 37.26770278,
+      "longitude": -76.00806389,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302123",
+      "photo_urls": []
+    },
+    {
+      "id": "302125",
+      "title": "Jerry Lewis",
+      "latitude": 37.26771111,
+      "longitude": -76.00811111,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302125",
+      "photo_urls": []
+    },
+    {
+      "id": "302127",
+      "title": "RF&P Baggage Car",
+      "latitude": 37.26771111,
+      "longitude": -76.00826944,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302127",
+      "photo_urls": []
+    },
+    {
+      "id": "302128",
+      "title": "The Caboose",
+      "latitude": 37.26768611,
+      "longitude": -76.00840833,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302128",
+      "photo_urls": []
+    },
+    {
+      "id": "302129",
+      "title": "Pilot House",
+      "latitude": 37.26784167,
+      "longitude": -76.00851389,
+      "directions": "Near Randolph Avenue, Cape Charles, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302129",
+      "photo_urls": []
+    },
+    {
+      "id": "302133",
+      "title": "Peter Jacob Carter",
+      "latitude": 37.26690556,
+      "longitude": -76.02313889,
+      "directions": "On Bay Avenue, Cape Charles, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302133",
+      "photo_urls": []
+    },
+    {
+      "id": "302135",
+      "title": "A Dynamic Environment",
+      "latitude": 37.26735804,
+      "longitude": -76.02329293,
+      "directions": "On Bay Avenue, Cape Charles, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302135",
+      "photo_urls": []
+    },
+    {
+      "id": "302136",
+      "title": "Old Courthouse",
+      "latitude": 37.35348056,
+      "longitude": -75.94606111,
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302136",
+      "photo_urls": []
+    },
+    {
+      "id": "302137",
+      "title": "Northampton County Court Green",
+      "latitude": 37.35339722,
+      "longitude": -75.946075,
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302137",
+      "photo_urls": []
+    },
+    {
+      "id": "302139",
+      "title": "Eastville Inn",
+      "latitude": 37.35282222,
+      "longitude": -75.94628056,
+      "directions": "On Courthouse Road (U.S. Business 13) , Cape Charles, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302139",
+      "photo_urls": []
+    },
+    {
+      "id": "302140",
+      "title": "Relic from Spanish Steamship",
+      "latitude": 37.40435833,
+      "longitude": -75.90579167,
+      "directions": "Near Young Street (County Route 627) , Machipongo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302140",
+      "photo_urls": []
+    },
+    {
+      "id": "302141",
+      "title": "The African American Almshouse",
+      "latitude": 37.40446389,
+      "longitude": -75.90457222,
+      "directions": "On Young Street (County Route 627) , Machipongo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302141",
+      "photo_urls": []
+    },
+    {
+      "id": "302142",
+      "title": "The Quarter Kitchen (1844)",
+      "latitude": 37.40466944,
+      "longitude": -75.90451944,
+      "directions": "Near Young Street (County Route 627) , Machipongo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302142",
+      "photo_urls": []
+    },
+    {
+      "id": "302143",
+      "title": "The Quarter Kitchen (1804)",
+      "latitude": 37.40466667,
+      "longitude": -75.90441944,
+      "directions": "Near Young Street (County Route 627) , Machipongo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302143",
+      "photo_urls": []
+    },
+    {
+      "id": "302144",
+      "title": "Martinsville Seven",
+      "latitude": 36.69170776,
+      "longitude": -79.87278998,
+      "directions": "On East Main Street, Martinsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302144",
+      "photo_urls": []
+    },
+    {
+      "id": "302192",
+      "title": "Samuel Harris",
+      "latitude": 36.78833,
+      "longitude": -79.39881,
+      "directions": "On Tight Squeeze Road, Tightsqueeze, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302192",
+      "photo_urls": []
+    },
+    {
+      "id": "302194",
+      "title": "Samuel Harris",
+      "latitude": 36.83317,
+      "longitude": -79.14092,
+      "directions": "On Chatham Road (State Route 832) , Java, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302194",
+      "photo_urls": []
+    },
+    {
       "id": "30225",
       "title": "Berkeley and Harrison's Landing",
       "latitude": 37.318473,
       "longitude": -77.18021,
       "directions": "Near Harrison Landing Road, near Charles City, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30225",
+      "photo_urls": []
+    },
+    {
+      "id": "302255",
+      "title": "Within this Enclosure",
+      "latitude": 37.27457804,
+      "longitude": -76.70252822,
+      "directions": "Near Palace Green Street, Williamsburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302255",
+      "photo_urls": []
+    },
+    {
+      "id": "302261",
+      "title": "The Sculpture",
+      "latitude": 37.00108637,
+      "longitude": -76.30699377,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302261",
+      "photo_urls": []
+    },
+    {
+      "id": "302264",
+      "title": "The Cultural Connections",
+      "latitude": 37.00109541,
+      "longitude": -76.30708942,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302264",
+      "photo_urls": []
+    },
+    {
+      "id": "302265",
+      "title": "The Movement of a Legacy",
+      "latitude": 37.00113167,
+      "longitude": -76.30725667,
+      "directions": "On Fenwick Road, Hampton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302265",
       "photo_urls": []
     },
     {
@@ -104075,12 +105146,30 @@
       "photo_urls": []
     },
     {
+      "id": "302381",
+      "title": "The Siege of Gloucester Point, 1781",
+      "latitude": 37.29149,
+      "longitude": -76.51486,
+      "directions": "On Powhatan Drive, Hayes, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302381",
+      "photo_urls": []
+    },
+    {
       "id": "30239",
       "title": "Needham Law School",
       "latitude": 37.32284984,
       "longitude": -78.38654324,
       "directions": "On Cumberland Road (State Route 45) , near Farmville, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30239",
+      "photo_urls": []
+    },
+    {
+      "id": "302397",
+      "title": "Weedon’s Tavern",
+      "latitude": 38.30372,
+      "longitude": -77.459611,
+      "directions": "On William Street (State Route 3) , Fredericksburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302397",
       "photo_urls": []
     },
     {
@@ -104111,6 +105200,42 @@
       "photo_urls": []
     },
     {
+      "id": "302488",
+      "title": "AKA Upsilon Omega",
+      "latitude": 37.54563,
+      "longitude": -77.45989,
+      "directions": "On West Cary Street, Richmond, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302488",
+      "photo_urls": []
+    },
+    {
+      "id": "302500",
+      "title": "War Comes to McDowell",
+      "latitude": 38.336475,
+      "longitude": -79.49163333,
+      "directions": "Near Mansion House Road, McDowell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302500",
+      "photo_urls": []
+    },
+    {
+      "id": "302515",
+      "title": "Chickahominy Church",
+      "latitude": 37.379158,
+      "longitude": -76.803157,
+      "directions": "On Chickahominy Road (State Route 631) , Toano, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302515",
+      "photo_urls": []
+    },
+    {
+      "id": "302517",
+      "title": "White Hall Tavern",
+      "latitude": 37.400841,
+      "longitude": -76.807477,
+      "directions": "On Richmond Road (U.S. 60) , near Toano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302517",
+      "photo_urls": []
+    },
+    {
       "id": "30252",
       "title": "Site of the Randolph House",
       "latitude": 37.30376367,
@@ -104129,12 +105254,147 @@
       "photo_urls": []
     },
     {
+      "id": "302741",
+      "title": "Hampton VAMC National Cemetery",
+      "latitude": 37.01857,
+      "longitude": -76.3311,
+      "directions": "On Harris Avenue, Hampton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302741",
+      "photo_urls": []
+    },
+    {
+      "id": "302785",
+      "title": "Shiloh Baptist Church",
+      "latitude": 37.225847,
+      "longitude": -76.5059,
+      "directions": "On Cook Road (State Route 238) , Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302785",
+      "photo_urls": []
+    },
+    {
+      "id": "302787",
+      "title": "Slabtown",
+      "latitude": 37.225916,
+      "longitude": -76.5059,
+      "directions": "On Cook Road (State Route 238) , Yorktown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302787",
+      "photo_urls": []
+    },
+    {
+      "id": "302796",
+      "title": "An Archer House",
+      "latitude": 37.235373,
+      "longitude": -76.505149,
+      "directions": "On Water Street, Yorktown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302796",
+      "photo_urls": []
+    },
+    {
+      "id": "302920",
+      "title": "New Kent County",
+      "latitude": 37.42395,
+      "longitude": -76.8938,
+      "directions": "On Pocahontas Trail (U.S. 60) , Lanexa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302920",
+      "photo_urls": []
+    },
+    {
       "id": "30295",
       "title": "Libby Prison CSA",
       "latitude": 37.530797,
       "longitude": -77.426755,
       "directions": "On East Cary Street, Richmond, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30295",
+      "photo_urls": []
+    },
+    {
+      "id": "302950",
+      "title": "York Spit Lighthouse",
+      "latitude": 37.23949,
+      "longitude": -76.50998,
+      "directions": "Near Water Street, Yorktown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302950",
+      "photo_urls": []
+    },
+    {
+      "id": "302955",
+      "title": "Diascund Bridge",
+      "latitude": 37.42424822,
+      "longitude": -76.89465757,
+      "directions": "On Pocahontas Trail (U.S. 60) , Lanexa, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302955",
+      "photo_urls": []
+    },
+    {
+      "id": "302969",
+      "title": "Reverend John Holcomb Forbes / Mrs. Mary Henry Nance Forbes",
+      "latitude": 36.5885801,
+      "longitude": -79.43547117,
+      "directions": "On Turpin Street, Danville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302969",
+      "photo_urls": []
+    },
+    {
+      "id": "302976",
+      "title": "Stockade and Guardhouse",
+      "latitude": 37.0040827,
+      "longitude": -76.30943395,
+      "directions": "Near Bernard Road, Hampton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302976",
+      "photo_urls": []
+    },
+    {
+      "id": "302978",
+      "title": "Fort Monroe",
+      "latitude": 37.00404026,
+      "longitude": -76.30952191,
+      "directions": "On Ruckman Road, Hampton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302978",
+      "photo_urls": []
+    },
+    {
+      "id": "302982",
+      "title": "In Memoriam",
+      "latitude": 37.00399061,
+      "longitude": -76.30952974,
+      "directions": "On Ruckman Road, Hampton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302982",
+      "photo_urls": []
+    },
+    {
+      "id": "303002",
+      "title": "Camp Hamilton",
+      "latitude": 37.0238043,
+      "longitude": -76.33799654,
+      "directions": "On East Queen Street, Hampton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303002",
+      "photo_urls": []
+    },
+    {
+      "id": "303054",
+      "title": "Charles Church,",
+      "latitude": 37.12860873,
+      "longitude": -76.43875697,
+      "directions": "Near Yorktown Road (State Route 706) , Yorktown, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303054",
+      "photo_urls": []
+    },
+    {
+      "id": "303102",
+      "title": "Historic Jones Point",
+      "latitude": 38.78015833,
+      "longitude": -77.05197222,
+      "directions": "Near Mount Vernon Trail, near Alexandria, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303102",
+      "photo_urls": []
+    },
+    {
+      "id": "303153",
+      "title": "Federation of Colored Women's Clubs",
+      "latitude": 37.03094728,
+      "longitude": -76.34323092,
+      "directions": "On Eaton Street, Hampton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303153",
       "photo_urls": []
     },
     {
@@ -127092,7 +128352,7 @@
       "title": "Old Courthouse",
       "latitude": 37.3535,
       "longitude": -75.94606667,
-      "directions": "On Alt. US 13, Eastville, (On the left when traveling north)",
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7587",
       "photo_urls": []
     },
@@ -127101,7 +128361,7 @@
       "title": "Northampton County Court Green",
       "latitude": 37.35338333,
       "longitude": -75.94608333,
-      "directions": "On Alt. US 13, Eastville, (On the left when traveling north)",
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7589",
       "photo_urls": []
     },
@@ -127119,7 +128379,7 @@
       "title": "Debdeavon",
       "latitude": 37.35346667,
       "longitude": -75.94625,
-      "directions": "On Alt. US 13, Eastville, (On the left when traveling north)",
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7591",
       "photo_urls": []
     },
@@ -127207,9 +128467,9 @@
     {
       "id": "7605",
       "title": "Gingaskin Indian Reservation",
-      "latitude": 37.35305,
-      "longitude": -75.9459,
-      "directions": "On Alt. US 13, Eastville, (On the right when traveling north)",
+      "latitude": 37.35345941,
+      "longitude": -75.94608179,
+      "directions": "On Courthouse Road (U.S. Business 13) , Eastville, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7605",
       "photo_urls": []
     },
@@ -133248,7 +134508,7 @@
       "title": "Paspahegh",
       "latitude": 37.26527778,
       "longitude": -76.8725,
-      "directions": "Near John Tyler Memorial Highway (State Route 5) , near Williamsburg, (On the right when traveling west)",
+      "directions": "Near John Tyler Highway (State Route 5) , near Williamsburg, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=90951",
       "photo_urls": []
     },
@@ -136533,7 +137793,7 @@
       "title": "A Good Start",
       "latitude": 37.16663,
       "longitude": -75.98888,
-      "directions": "On Kiptopeke Drive (County Route 704) , Cape Charles, ",
+      "directions": "On Kiptopeke Drive (County Route 704) , Kiptopeke, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98497",
       "photo_urls": []
     },
@@ -136551,7 +137811,7 @@
       "title": "Concrete Ships",
       "latitude": 37.16663333,
       "longitude": -75.98888333,
-      "directions": "On Kiptopeke Drive, Cape Charles, ",
+      "directions": "On Kiptopeke Drive, Kiptopeke, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98500",
       "photo_urls": []
     },
@@ -136668,7 +137928,7 @@
       "title": "Maritime Highway",
       "latitude": 37.1676,
       "longitude": -75.98668333,
-      "directions": "On Kiptopeke Drive (County Route 704) , Cape Charles, (On the right when traveling west)",
+      "directions": "On Kiptopeke Drive (County Route 704) , Kiptopeke, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98665",
       "photo_urls": []
     },
@@ -136677,7 +137937,7 @@
       "title": "Farm to Market",
       "latitude": 37.16758333,
       "longitude": -75.98671667,
-      "directions": "On Kiptopeke Drive, Cape Charles, (On the right when traveling west)",
+      "directions": "On Kiptopeke Drive, Kiptopeke, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98668",
       "photo_urls": []
     },
@@ -136686,7 +137946,7 @@
       "title": "Chesapeake Bay",
       "latitude": 37.1676,
       "longitude": -75.98676667,
-      "directions": "On Kiptopeke Drive (County Route 704) , Cape Charles, (On the right when traveling west)",
+      "directions": "On Kiptopeke Drive (County Route 704) , near Kiptopeke, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98669",
       "photo_urls": []
     },
@@ -136695,7 +137955,7 @@
       "title": "The Dunes",
       "latitude": 37.16758333,
       "longitude": -75.9868,
-      "directions": "On Kiptopeke Drive (County Route 704) , Cape Charles, ",
+      "directions": "On Kiptopeke Drive (County Route 704) , Kiptopeke, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98671",
       "photo_urls": []
     },
@@ -136731,7 +137991,7 @@
       "title": "Slavery on the Eastern Shore",
       "latitude": 37.22878833,
       "longitude": -76.00330333,
-      "directions": "On Arlington Chase Road, near Cape Charles, ",
+      "directions": "On Arlington Chase Road, near Cape Charles, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98793",
       "photo_urls": []
     },
@@ -136740,7 +138000,7 @@
       "title": "The Custis Tombs",
       "latitude": 37.22905611,
       "longitude": -76.00357583,
-      "directions": "Near Arlington Chase Road, near Cape Charles, ",
+      "directions": "Near Arlington Chase Road (County Route 644) , near Cape Charles, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=98795",
       "photo_urls": []
     },
