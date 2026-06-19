@@ -3,9 +3,9 @@
   "region_name": "Florida",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-22T06:04:31.408Z",
-  "source_timestamp": "2026-05-22T06:04:31.408Z",
-  "marker_count": 7801,
+  "generated": "2026-06-19T06:04:10.971Z",
+  "source_timestamp": "2026-06-19T06:04:10.971Z",
+  "marker_count": 7815,
   "markers": [
     {
       "id": "100029",
@@ -4266,7 +4266,7 @@
     },
     {
       "id": "112519",
-      "title": "The 1890 Bratton Store/The 1912 Cortez Rural Graded Schoolhouse",
+      "title": "The 1890 Bratton Store / The 1912 Cortez Rural Graded Schoolhouse",
       "latitude": 27.46758333,
       "longitude": -82.68046667,
       "directions": "On 119th Street West, Cortez, (On the left when traveling south)",
@@ -30213,7 +30213,7 @@
     },
     {
       "id": "206257",
-      "title": "Welcome to the Pulse Interim Memorial",
+      "title": "Pulse Interim Memorial",
       "latitude": 28.51945127,
       "longitude": -81.37677973,
       "directions": "On West Esther Street, Orlando, (On the right when traveling west)",
@@ -33661,9 +33661,9 @@
     {
       "id": "216411",
       "title": "Charles Lafayette Knight",
-      "latitude": 27.938825,
-      "longitude": -82.454994,
-      "directions": "Near South Harbour Island Boulevard, Tampa, (On the right when traveling south)",
+      "latitude": 27.93851,
+      "longitude": -82.45013,
+      "directions": "On South Beneficial Drive, Tampa, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=216411",
       "photo_urls": []
     },
@@ -55119,7 +55119,7 @@
       "title": "Florida Welcomes Walt Disney",
       "latitude": 28.5425,
       "longitude": -81.37138889,
-      "directions": "On North Osceola Avenue, Orlando, (On the left when traveling north)",
+      "directions": "On Osceola Avenue, Orlando, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=297412",
       "photo_urls": []
     },
@@ -56246,6 +56246,132 @@
       "longitude": -84.41059781,
       "directions": "On 6th Avenue East, Havana, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299689",
+      "photo_urls": []
+    },
+    {
+      "id": "300350",
+      "title": "Fort San Fransisco de Pupo",
+      "latitude": 29.97811,
+      "longitude": -81.62919,
+      "directions": "On Leonard C. Taylor Parkway (State Route 16) , Green Cove Springs, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300350",
+      "photo_urls": []
+    },
+    {
+      "id": "300849",
+      "title": "Church of the Holy Comforter, 1878",
+      "latitude": 29.43355833,
+      "longitude": -81.51061111,
+      "directions": "On North Summit Street (U.S. 17) , Crescent City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300849",
+      "photo_urls": []
+    },
+    {
+      "id": "301107",
+      "title": "The Claxton Manor",
+      "latitude": 27.95214444,
+      "longitude": -82.51660833,
+      "directions": "On West Cypress Street, Tampa, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301107",
+      "photo_urls": []
+    },
+    {
+      "id": "301124",
+      "title": "International Longshoremen’s Association Local #1402",
+      "latitude": 27.95411944,
+      "longitude": -82.45621389,
+      "directions": "On East Harrison Street, Tampa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301124",
+      "photo_urls": []
+    },
+    {
+      "id": "301131",
+      "title": "Music Legends of Central Avenue",
+      "latitude": 27.95474167,
+      "longitude": -82.45603056,
+      "directions": "On North Orange Avenue, Tampa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301131",
+      "photo_urls": []
+    },
+    {
+      "id": "301140",
+      "title": "Ann Lowe",
+      "latitude": 27.95743056,
+      "longitude": -82.45394167,
+      "directions": "On East Kay Street, Tampa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301140",
+      "photo_urls": []
+    },
+    {
+      "id": "301157",
+      "title": "Beach Cottage",
+      "latitude": 27.88141667,
+      "longitude": -82.81076667,
+      "directions": "Near 125th Street North, Largo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301157",
+      "photo_urls": []
+    },
+    {
+      "id": "301174",
+      "title": "Propeller from the 1892 Steamboat '<i>Mistletoe</i>'",
+      "latitude": 27.467957,
+      "longitude": -82.680768,
+      "directions": "Near 119th Street W., Cortez, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301174",
+      "photo_urls": []
+    },
+    {
+      "id": "302026",
+      "title": "The Hotel James as it appeared In 1916",
+      "latitude": 29.64674,
+      "longitude": -81.63123,
+      "directions": "On St. Johns Avenue, Palatka, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302026",
+      "photo_urls": []
+    },
+    {
+      "id": "302035",
+      "title": "Sheriff’s Police Car",
+      "latitude": 29.90794,
+      "longitude": -81.31886,
+      "directions": "Near San Marcos Avenue, St. Augustine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302035",
+      "photo_urls": []
+    },
+    {
+      "id": "302039",
+      "title": "The Old Jail",
+      "latitude": 29.90795,
+      "longitude": -81.31878,
+      "directions": "Near San Marcos Avenue, St. Augustine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302039",
+      "photo_urls": []
+    },
+    {
+      "id": "302059",
+      "title": "XF2Y Sea Dart",
+      "latitude": 27.98219,
+      "longitude": -82.02794,
+      "directions": "Near James C. Ray Drive, Lakeland, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302059",
+      "photo_urls": []
+    },
+    {
+      "id": "302064",
+      "title": "Villa Zorayda",
+      "latitude": 29.89174722,
+      "longitude": -81.31523056,
+      "directions": "On King Street (U.S. Business 1) , St. Augustine, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302064",
+      "photo_urls": []
+    },
+    {
+      "id": "302068",
+      "title": "The Villa Zorayda Today",
+      "latitude": 29.89171623,
+      "longitude": -81.31521262,
+      "directions": "Near King Street (U.S. Business 1) , St. Augustine, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302068",
       "photo_urls": []
     },
     {
