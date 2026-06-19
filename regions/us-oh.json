@@ -3,9 +3,9 @@
   "region_name": "Ohio",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-22T06:04:31.599Z",
-  "source_timestamp": "2026-05-22T06:04:31.599Z",
-  "marker_count": 12370,
+  "generated": "2026-06-19T06:04:11.129Z",
+  "source_timestamp": "2026-06-19T06:04:11.129Z",
+  "marker_count": 12928,
   "markers": [
     {
       "id": "100086",
@@ -19938,7 +19938,7 @@
       "title": "Jeffers Mound",
       "latitude": 40.092063,
       "longitude": -83.039399,
-      "directions": "On Plesenton Drive, Worthington, (On the left when traveling north)",
+      "directions": "On Plesenton Drive South, Worthington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=168823",
       "photo_urls": []
     },
@@ -95309,6 +95309,15 @@
       "photo_urls": []
     },
     {
+      "id": "299442",
+      "title": "B-25 Crashes In Newark",
+      "latitude": 40.06246921,
+      "longitude": -82.40503216,
+      "directions": "On Hudson Avenue, Newark, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299442",
+      "photo_urls": []
+    },
+    {
       "id": "299472",
       "title": "Christian Frederick Post",
       "latitude": 40.666981,
@@ -95858,12 +95867,201 @@
       "photo_urls": []
     },
     {
+      "id": "299836",
+      "title": "The Commons at Town Hall",
+      "latitude": 41.67388972,
+      "longitude": -81.22320929,
+      "directions": "On Ravenna Road, Concord, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299836",
+      "photo_urls": []
+    },
+    {
+      "id": "299837",
+      "title": "In Memory of the Pioneers of Concord and Their Works",
+      "latitude": 41.67420449,
+      "longitude": -81.22385098,
+      "directions": "On Ravenna Road, Concord, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299837",
+      "photo_urls": []
+    },
+    {
+      "id": "299838",
+      "title": "M-60A3TTS Battle Tank Memorial",
+      "latitude": 41.78985741,
+      "longitude": -81.04957172,
+      "directions": "On Middle Ridge Road (County Route 22) , Genung Corners, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299838",
+      "photo_urls": []
+    },
+    {
+      "id": "299847",
+      "title": "Curly Kale",
+      "latitude": 41.78927858,
+      "longitude": -81.0681736,
+      "directions": "On Middle Ridge Road (County Route 22) , North Madison, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299847",
+      "photo_urls": []
+    },
+    {
+      "id": "299850",
+      "title": "Squash",
+      "latitude": 41.78927658,
+      "longitude": -81.06810845,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299850",
+      "photo_urls": []
+    },
+    {
+      "id": "299851",
+      "title": "Sugar Snap Pea",
+      "latitude": 41.78929409,
+      "longitude": -81.06810548,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299851",
+      "photo_urls": []
+    },
+    {
+      "id": "299852",
+      "title": "Flint Corn",
+      "latitude": 41.78929358,
+      "longitude": -81.06812941,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299852",
+      "photo_urls": []
+    },
+    {
+      "id": "299854",
+      "title": "Green Beans",
+      "latitude": 41.78929541,
+      "longitude": -81.06814949,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299854",
+      "photo_urls": []
+    },
+    {
+      "id": "299855",
+      "title": "Lettuce",
+      "latitude": 41.78929623,
+      "longitude": -81.06817345,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299855",
+      "photo_urls": []
+    },
+    {
+      "id": "299856",
+      "title": "Savoy Spinach",
+      "latitude": 41.78931379,
+      "longitude": -81.06817442,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299856",
+      "photo_urls": []
+    },
+    {
+      "id": "299858",
+      "title": "Broccoli",
+      "latitude": 41.78930979,
+      "longitude": -81.06812629,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299858",
+      "photo_urls": []
+    },
+    {
+      "id": "299859",
+      "title": "Early Fortune Cucumber",
+      "latitude": 41.789313,
+      "longitude": -81.06810502,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299859",
+      "photo_urls": []
+    },
+    {
+      "id": "299861",
+      "title": "Touchon Carrot",
+      "latitude": 41.78933046,
+      "longitude": -81.06812789,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299861",
+      "photo_urls": []
+    },
+    {
+      "id": "299862",
+      "title": "Beetroot",
+      "latitude": 41.7893309,
+      "longitude": -81.06814854,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299862",
+      "photo_urls": []
+    },
+    {
+      "id": "299863",
+      "title": "Tomato",
+      "latitude": 41.7893303,
+      "longitude": -81.06817077,
+      "directions": "On Middle Ridge Road (Route 22) , North Madison, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299863",
+      "photo_urls": []
+    },
+    {
       "id": "299864",
       "title": "Perry Volunteers Died in the U.S. Service",
       "latitude": 41.77638691,
       "longitude": -81.1479156,
       "directions": "Near Center Road (County Route 115) , North Perry, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299864",
+      "photo_urls": []
+    },
+    {
+      "id": "299865",
+      "title": "Ezra Beebe",
+      "latitude": 41.77606875,
+      "longitude": -81.14878163,
+      "directions": "On Center Road (County Route 115) , near Perry, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299865",
+      "photo_urls": []
+    },
+    {
+      "id": "299866",
+      "title": "Deep Well Hand Water Pump",
+      "latitude": 41.76286976,
+      "longitude": -81.14707591,
+      "directions": "On Main Street, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299866",
+      "photo_urls": []
+    },
+    {
+      "id": "299867",
+      "title": "New England Tree Digger and Root Pruner",
+      "latitude": 41.76285399,
+      "longitude": -81.14704652,
+      "directions": "On Main Street, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299867",
+      "photo_urls": []
+    },
+    {
+      "id": "299868",
+      "title": "Scalding Kettle",
+      "latitude": 41.76286236,
+      "longitude": -81.14702256,
+      "directions": "On Main Street, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299868",
+      "photo_urls": []
+    },
+    {
+      "id": "299870",
+      "title": "Perry Veterans Memorial",
+      "latitude": 41.7629112,
+      "longitude": -81.14691982,
+      "directions": "On Main Street, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299870",
+      "photo_urls": []
+    },
+    {
+      "id": "299871",
+      "title": "Missing In Action",
+      "latitude": 41.76283979,
+      "longitude": -81.14691351,
+      "directions": "On Main Street, Perry, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299871",
       "photo_urls": []
     },
     {
@@ -95975,12 +96173,75 @@
       "photo_urls": []
     },
     {
+      "id": "300028",
+      "title": "The Early Years",
+      "latitude": 41.46710917,
+      "longitude": -81.14170405,
+      "directions": "On Carlton Street, Burton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300028",
+      "photo_urls": []
+    },
+    {
+      "id": "300029",
+      "title": "Natural Gas and Crude Oil",
+      "latitude": 41.46711199,
+      "longitude": -81.14165855,
+      "directions": "On Carlton Street, Burton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300029",
+      "photo_urls": []
+    },
+    {
+      "id": "300030",
+      "title": "Geauga County Historical Society Well",
+      "latitude": 41.46708095,
+      "longitude": -81.1416493,
+      "directions": "On Carlton Street, Burton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300030",
+      "photo_urls": []
+    },
+    {
+      "id": "300031",
+      "title": "Today there are over 6,000 products refined from Natural Gas and Crude Oil.",
+      "latitude": 41.46707432,
+      "longitude": -81.14170238,
+      "directions": "On Carlton Street, Burton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300031",
+      "photo_urls": []
+    },
+    {
+      "id": "300032",
+      "title": "South Russell Veterans Memorial",
+      "latitude": 41.43122835,
+      "longitude": -81.33832492,
+      "directions": "On Chillicothe Road (State Route 306) , South Russell, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300032",
+      "photo_urls": []
+    },
+    {
+      "id": "300038",
+      "title": "In Commemoration of Hendrick E. Paine",
+      "latitude": 41.71751682,
+      "longitude": -81.14468479,
+      "directions": "On Paine Road, near Painesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300038",
+      "photo_urls": []
+    },
+    {
       "id": "300040",
       "title": "Astronaut Robert Franklyn Overmyer",
       "latitude": 41.46612068,
       "longitude": -81.88450863,
       "directions": "On Roman Lane, Westlake, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300040",
+      "photo_urls": []
+    },
+    {
+      "id": "300046",
+      "title": "Pyramid Of Remembrance",
+      "latitude": 41.71242801,
+      "longitude": -81.21958043,
+      "directions": "On Riverside Drive, Painesville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300046",
       "photo_urls": []
     },
     {
@@ -96011,12 +96272,147 @@
       "photo_urls": []
     },
     {
+      "id": "300104",
+      "title": "Emma Millinda Gillett 1852 - 1927",
+      "latitude": 41.71880081,
+      "longitude": -81.25228724,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300104",
+      "photo_urls": []
+    },
+    {
+      "id": "300105",
+      "title": "Harriet Taylor Upton 1853 - 1945",
+      "latitude": 41.71866276,
+      "longitude": -81.25216839,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300105",
+      "photo_urls": []
+    },
+    {
+      "id": "300107",
+      "title": "The Road to Women's Suffrage",
+      "latitude": 41.71858474,
+      "longitude": -81.25221232,
+      "directions": "On West Wasington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300107",
+      "photo_urls": []
+    },
+    {
+      "id": "300109",
+      "title": "Ellen Spencer Mussey 1850 - 1936",
+      "latitude": 41.71854659,
+      "longitude": -81.25212485,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300109",
+      "photo_urls": []
+    },
+    {
+      "id": "300111",
+      "title": "Florence Ellinwood Allen",
+      "latitude": 41.71844517,
+      "longitude": -81.25216501,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300111",
+      "photo_urls": []
+    },
+    {
+      "id": "300112",
+      "title": "Betsey Mix Cowles 1810 - 1876",
+      "latitude": 41.71840795,
+      "longitude": -81.25208561,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300112",
+      "photo_urls": []
+    },
+    {
+      "id": "300114",
+      "title": "Painesville Equal Rights Association",
+      "latitude": 41.71832942,
+      "longitude": -81.25212479,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300114",
+      "photo_urls": []
+    },
+    {
+      "id": "300115",
+      "title": "Women in Higher Ed",
+      "latitude": 41.71826592,
+      "longitude": -81.25203913,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300115",
+      "photo_urls": []
+    },
+    {
+      "id": "300116",
+      "title": "Ohio Woman Suffrage Association 1885 Convention",
+      "latitude": 41.71823399,
+      "longitude": -81.25208629,
+      "directions": "On West Washington Street, Painesville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300116",
+      "photo_urls": []
+    },
+    {
+      "id": "300120",
+      "title": "Life Car",
+      "latitude": 41.75689304,
+      "longitude": -81.27739173,
+      "directions": "On 2nd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300120",
+      "photo_urls": []
+    },
+    {
+      "id": "300121",
+      "title": "Walking Tour of the Lighthouse Grounds",
+      "latitude": 41.75692469,
+      "longitude": -81.27738998,
+      "directions": "On 2nd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300121",
+      "photo_urls": []
+    },
+    {
+      "id": "300122",
+      "title": "First Iron Warship in US Navy Foremast",
+      "latitude": 41.7569039,
+      "longitude": -81.27762847,
+      "directions": "On 2nd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300122",
+      "photo_urls": []
+    },
+    {
+      "id": "300124",
+      "title": "Oil House",
+      "latitude": 41.75707834,
+      "longitude": -81.27732482,
+      "directions": "On 2nd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300124",
+      "photo_urls": []
+    },
+    {
+      "id": "300125",
+      "title": "Lighthouse View",
+      "latitude": 41.75706083,
+      "longitude": -81.27741024,
+      "directions": "On 2nd Street, Fairport Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300125",
+      "photo_urls": []
+    },
+    {
       "id": "300128",
       "title": "Fairport Harbor Veterans Memorial",
       "latitude": 41.75628408,
       "longitude": -81.27484474,
       "directions": "On 3rd Street, Fairport Harbor, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300128",
+      "photo_urls": []
+    },
+    {
+      "id": "300218",
+      "title": "Here Lies James Jeffers",
+      "latitude": 38.70302333,
+      "longitude": -82.191065,
+      "directions": "On Ohio River Scenic Byway (State Route 7) , near Gallipolis, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300218",
       "photo_urls": []
     },
     {
@@ -96038,12 +96434,174 @@
       "photo_urls": []
     },
     {
+      "id": "300245",
+      "title": "Welcome",
+      "latitude": 41.75606448,
+      "longitude": -81.29123143,
+      "directions": "On Heisley Road, Grand River, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300245",
+      "photo_urls": []
+    },
+    {
+      "id": "300247",
+      "title": "Restoring Wetlands for Clean Water H2Ohio",
+      "latitude": 41.75502135,
+      "longitude": -81.29291054,
+      "directions": "On Heisley Road, Grand River, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300247",
+      "photo_urls": []
+    },
+    {
+      "id": "300248",
+      "title": "From Pavement to Paradise",
+      "latitude": 41.75392411,
+      "longitude": -81.29191737,
+      "directions": "On Heisley Road, Grand River, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300248",
+      "photo_urls": []
+    },
+    {
+      "id": "300250",
+      "title": "Mentor Lagoons Nature Preserve",
+      "latitude": 41.72573151,
+      "longitude": -81.33848197,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300250",
+      "photo_urls": []
+    },
+    {
+      "id": "300253",
+      "title": "Mentor Lagoons Nature Preserve",
+      "latitude": 41.72648518,
+      "longitude": -81.33809974,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300253",
+      "photo_urls": []
+    },
+    {
+      "id": "300254",
+      "title": "Mentor Marsh",
+      "latitude": 41.72649586,
+      "longitude": -81.33805425,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300254",
+      "photo_urls": []
+    },
+    {
+      "id": "300256",
+      "title": "When Disaster Strikes",
+      "latitude": 41.72698542,
+      "longitude": -81.33711187,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300256",
+      "photo_urls": []
+    },
+    {
+      "id": "300257",
+      "title": "Restoring the Marsh",
+      "latitude": 41.72700229,
+      "longitude": -81.33720777,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300257",
+      "photo_urls": []
+    },
+    {
       "id": "30026",
       "title": "Columbus' First Professional Game",
       "latitude": 39.968287,
       "longitude": -83.009927,
       "directions": "On Neil Avenue, Columbus, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30026",
+      "photo_urls": []
+    },
+    {
+      "id": "300260",
+      "title": "Habitat for Many",
+      "latitude": 41.727306,
+      "longitude": -81.33708305,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300260",
+      "photo_urls": []
+    },
+    {
+      "id": "300261",
+      "title": "Chimney Swift",
+      "latitude": 41.72744523,
+      "longitude": -81.33744372,
+      "directions": "On Harbor Drive, Mentor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300261",
+      "photo_urls": []
+    },
+    {
+      "id": "300262",
+      "title": "About Veterans Park",
+      "latitude": 41.71401303,
+      "longitude": -81.34461081,
+      "directions": "On Hopkins Road, Mentor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300262",
+      "photo_urls": []
+    },
+    {
+      "id": "300264",
+      "title": "Kirtland Schoolhouse",
+      "latitude": 41.62857376,
+      "longitude": -81.36029256,
+      "directions": "On Kirtland Chardon Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300264",
+      "photo_urls": []
+    },
+    {
+      "id": "300265",
+      "title": "Baptisms on the East Branch of the Chagrin River",
+      "latitude": 41.62899576,
+      "longitude": -81.36084453,
+      "directions": "On Kirtland Chardon Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300265",
+      "photo_urls": []
+    },
+    {
+      "id": "300266",
+      "title": "Tannery",
+      "latitude": 41.62910271,
+      "longitude": -81.36126228,
+      "directions": "On Whitmer Street, Kirtland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300266",
+      "photo_urls": []
+    },
+    {
+      "id": "300267",
+      "title": "Site of the Whitney and Gilbert Livery Stable",
+      "latitude": 41.62885654,
+      "longitude": -81.36176986,
+      "directions": "On Smith Street, Kirtland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300267",
+      "photo_urls": []
+    },
+    {
+      "id": "300268",
+      "title": "Site of the Whitney Red Store",
+      "latitude": 41.62928984,
+      "longitude": -81.36168253,
+      "directions": "On Smith Street, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300268",
+      "photo_urls": []
+    },
+    {
+      "id": "300269",
+      "title": "Faith, Family, Community, and Industry",
+      "latitude": 41.62652969,
+      "longitude": -81.36286058,
+      "directions": "On Chillicothe Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300269",
+      "photo_urls": []
+    },
+    {
+      "id": "300270",
+      "title": "Sidney and Phoebe Rigdon Home",
+      "latitude": 41.62493492,
+      "longitude": -81.36158838,
+      "directions": "On Chillicothe Road, Kirtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300270",
       "photo_urls": []
     },
     {
@@ -96056,12 +96614,120 @@
       "photo_urls": []
     },
     {
+      "id": "300276",
+      "title": "Big Darby Headwaters",
+      "latitude": 40.29818973,
+      "longitude": -83.57750858,
+      "directions": "On County Route 152, Middleburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300276",
+      "photo_urls": []
+    },
+    {
+      "id": "300277",
+      "title": "George & Parmelia Henry",
+      "latitude": 40.3236506,
+      "longitude": -83.6941173,
+      "directions": "On Mt Crest Drive (County Route 182) , near Zanesfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300277",
+      "photo_urls": []
+    },
+    {
       "id": "30028",
       "title": "The Columbus Buckeyes",
       "latitude": 39.968287,
       "longitude": -83.009927,
       "directions": "On Neil Avenue, Columbus, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30028",
+      "photo_urls": []
+    },
+    {
+      "id": "300280",
+      "title": "Veterans Memorial",
+      "latitude": 40.28129914,
+      "longitude": -83.76074341,
+      "directions": "On U.S. 68, near West Liberty, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300280",
+      "photo_urls": []
+    },
+    {
+      "id": "300283",
+      "title": "Krupp World War I Cannon",
+      "latitude": 41.63907487,
+      "longitude": -81.40699254,
+      "directions": "On East Spaulding Street, Willoughby, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300283",
+      "photo_urls": []
+    },
+    {
+      "id": "300284",
+      "title": "Willoughby Veterans Memorial",
+      "latitude": 41.63925784,
+      "longitude": -81.40564158,
+      "directions": "On East Spaulding Street, Willoughby, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300284",
+      "photo_urls": []
+    },
+    {
+      "id": "300285",
+      "title": "Willowick Veterans Memorial",
+      "latitude": 41.63940991,
+      "longitude": -81.47451157,
+      "directions": "On Lakeshore Boulevard (Route 283) , Willowick, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300285",
+      "photo_urls": []
+    },
+    {
+      "id": "300286",
+      "title": "Bald Eagles are Here",
+      "latitude": 41.64068147,
+      "longitude": -81.47559508,
+      "directions": "On Lakeshore Boulevard, Willowick, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300286",
+      "photo_urls": []
+    },
+    {
+      "id": "300288",
+      "title": "Veterans Memorial",
+      "latitude": 41.59622943,
+      "longitude": -81.47756937,
+      "directions": "On Ridge Road, Wickliffe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300288",
+      "photo_urls": []
+    },
+    {
+      "id": "300290",
+      "title": "Dedicated July 4, 1976",
+      "latitude": 41.59617107,
+      "longitude": -81.47763669,
+      "directions": "On Ridge Road, Wickliffe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300290",
+      "photo_urls": []
+    },
+    {
+      "id": "300291",
+      "title": "Veterans Memorial",
+      "latitude": 41.59602969,
+      "longitude": -81.47821617,
+      "directions": "On Ridge Road, Wickliffe, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300291",
+      "photo_urls": []
+    },
+    {
+      "id": "300292",
+      "title": "Willoughby Hills Veterans Memorial",
+      "latitude": 41.58840707,
+      "longitude": -81.43176584,
+      "directions": "On Chardon Road, Willoughby Hills, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300292",
+      "photo_urls": []
+    },
+    {
+      "id": "300293",
+      "title": "Willoughby Civil War Memorial",
+      "latitude": 41.63924,
+      "longitude": -81.406804,
+      "directions": "On Euclid Avenue (U.S. 20) , Willoughby, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300293",
       "photo_urls": []
     },
     {
@@ -96083,6 +96749,15 @@
       "photo_urls": []
     },
     {
+      "id": "300315",
+      "title": "Veterans Memorial",
+      "latitude": 41.3880219,
+      "longitude": -81.43800957,
+      "directions": "On SOM Center Road (State Route 91) , Solon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300315",
+      "photo_urls": []
+    },
+    {
       "id": "30032",
       "title": "The Columbus Senators",
       "latitude": 39.968287,
@@ -96101,12 +96776,57 @@
       "photo_urls": []
     },
     {
+      "id": "300344",
+      "title": "LaGrange Soldiers' Monument",
+      "latitude": 41.23733934,
+      "longitude": -82.11979075,
+      "directions": "On South Center Street, LaGrange, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300344",
+      "photo_urls": []
+    },
+    {
+      "id": "300347",
+      "title": "A History of 100 Public Square, Lagrange, Ohio",
+      "latitude": 41.23714073,
+      "longitude": -82.12028339,
+      "directions": "On South Central Street, LaGrange, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300347",
+      "photo_urls": []
+    },
+    {
+      "id": "300349",
+      "title": "LaGrange Township Veterans Memorial Park",
+      "latitude": 41.23755384,
+      "longitude": -82.12486706,
+      "directions": "On West Main Street, LaGrange, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300349",
+      "photo_urls": []
+    },
+    {
       "id": "30035",
       "title": "The Jets",
       "latitude": 39.968287,
       "longitude": -83.009927,
       "directions": "On Neil Avenue, Columbus, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30035",
+      "photo_urls": []
+    },
+    {
+      "id": "300357",
+      "title": "Pittsfield Soldiers' Monument",
+      "latitude": 41.23712514,
+      "longitude": -82.21871231,
+      "directions": "On Lagrange-Richfield Road (State Route 303) , Pittsfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300357",
+      "photo_urls": []
+    },
+    {
+      "id": "300359",
+      "title": "Pittsfield Veterans Honor Roll",
+      "latitude": 41.23718739,
+      "longitude": -82.21872225,
+      "directions": "On Lagrange-Richfield Road (State Route 303) , Pittsfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300359",
       "photo_urls": []
     },
     {
@@ -96119,12 +96839,1128 @@
       "photo_urls": []
     },
     {
+      "id": "300361",
+      "title": "Pittsfield Veterans Memorial",
+      "latitude": 41.23715487,
+      "longitude": -82.21878959,
+      "directions": "On Lagrange-Richfield Road (State Route 303) , Pittsfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300361",
+      "photo_urls": []
+    },
+    {
+      "id": "300367",
+      "title": "History of Lakeview Park",
+      "latitude": 41.46356595,
+      "longitude": -82.19352055,
+      "directions": "On West Erie Avenue (U.S. 6) , Lorain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300367",
+      "photo_urls": []
+    },
+    {
+      "id": "300368",
+      "title": "Monuments in Lakeview Park",
+      "latitude": 41.46354941,
+      "longitude": -82.19348123,
+      "directions": "On West Erie Avenue (U.S. 6) , Lorain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300368",
+      "photo_urls": []
+    },
+    {
+      "id": "300370",
+      "title": "History of The Purple Heart Medal",
+      "latitude": 41.46200764,
+      "longitude": -82.19670312,
+      "directions": "On West Erie Avenue, Lorain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300370",
+      "photo_urls": []
+    },
+    {
+      "id": "300372",
+      "title": "Purple Heart Memorial",
+      "latitude": 41.46197224,
+      "longitude": -82.19681976,
+      "directions": "On West Erie Avenue, Lorain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300372",
+      "photo_urls": []
+    },
+    {
       "id": "30038",
       "title": "Harold M. Cooper",
       "latitude": 39.968287,
       "longitude": -83.009927,
       "directions": "On Neil Avenue, Columbus, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30038",
+      "photo_urls": []
+    },
+    {
+      "id": "300380",
+      "title": "Our Fathers",
+      "latitude": 41.46755217,
+      "longitude": -82.17995591,
+      "directions": "On West Erie Avenue (U.S. 6) , Lorain, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300380",
+      "photo_urls": []
+    },
+    {
+      "id": "300381",
+      "title": "Veterans Memorial",
+      "latitude": 41.46741793,
+      "longitude": -82.18008913,
+      "directions": "On West Erie Avenue (U.S. 6) , Lorain, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300381",
+      "photo_urls": []
+    },
+    {
+      "id": "300382",
+      "title": "Veterans Memorial Park",
+      "latitude": 41.46767394,
+      "longitude": -82.18016638,
+      "directions": "On West Erie Avenue (U.S. 6) , Lorain, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300382",
+      "photo_urls": []
+    },
+    {
+      "id": "300384",
+      "title": "In memory of the Brookside Graduates Who Gave All in the Vietnam War",
+      "latitude": 41.49552657,
+      "longitude": -82.08845694,
+      "directions": "On East Lake Road (U.S. 6) , Sheffield Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300384",
+      "photo_urls": []
+    },
+    {
+      "id": "300385",
+      "title": "ALVA #B Tug Shipwreck",
+      "latitude": 41.50287598,
+      "longitude": -82.06070049,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300385",
+      "photo_urls": []
+    },
+    {
+      "id": "300386",
+      "title": "Significant Dates in Avon Lake History",
+      "latitude": 41.50258559,
+      "longitude": -82.06012172,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300386",
+      "photo_urls": []
+    },
+    {
+      "id": "300388",
+      "title": "105 Howitzer War Memorial",
+      "latitude": 41.51335078,
+      "longitude": -82.01868068,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300388",
+      "photo_urls": []
+    },
+    {
+      "id": "300389",
+      "title": "Veterans Memorial Park",
+      "latitude": 41.51344144,
+      "longitude": -82.01870795,
+      "directions": "On Lake Road (Route 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300389",
+      "photo_urls": []
+    },
+    {
+      "id": "300390",
+      "title": "For Democracy WWI Memorial",
+      "latitude": 41.51346902,
+      "longitude": -82.01871056,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300390",
+      "photo_urls": []
+    },
+    {
+      "id": "300391",
+      "title": "Veterans Memorial Park",
+      "latitude": 41.51348864,
+      "longitude": -82.01873043,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300391",
+      "photo_urls": []
+    },
+    {
+      "id": "300392",
+      "title": "Avon Lake High School World War II Memorial",
+      "latitude": 41.51349614,
+      "longitude": -82.01870708,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300392",
+      "photo_urls": []
+    },
+    {
+      "id": "300393",
+      "title": "Veterans Memorial Park",
+      "latitude": 41.51347002,
+      "longitude": -82.01866569,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300393",
+      "photo_urls": []
+    },
+    {
+      "id": "300394",
+      "title": "Wreck Of The Craftsman",
+      "latitude": 41.51385538,
+      "longitude": -82.01826746,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300394",
+      "photo_urls": []
+    },
+    {
+      "id": "300395",
+      "title": "Lake Erie",
+      "latitude": 41.51382226,
+      "longitude": -82.0183663,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300395",
+      "photo_urls": []
+    },
+    {
+      "id": "300396",
+      "title": "Wreck Of The John Pridgeon, Jr.",
+      "latitude": 41.51375698,
+      "longitude": -82.01855277,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300396",
+      "photo_urls": []
+    },
+    {
+      "id": "300397",
+      "title": "History Of Avon Point",
+      "latitude": 41.5136134,
+      "longitude": -82.01913976,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300397",
+      "photo_urls": []
+    },
+    {
+      "id": "300404",
+      "title": "Lake Shore Cemetery",
+      "latitude": 41.51293849,
+      "longitude": -82.02017195,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300404",
+      "photo_urls": []
+    },
+    {
+      "id": "300405",
+      "title": "Battle of Lake Erie",
+      "latitude": 41.51330231,
+      "longitude": -82.02030264,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300405",
+      "photo_urls": []
+    },
+    {
+      "id": "300406",
+      "title": "Avon Lake World War II Veterans Memorial",
+      "latitude": 41.51314411,
+      "longitude": -82.02041585,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300406",
+      "photo_urls": []
+    },
+    {
+      "id": "300408",
+      "title": "Comrades interned in Lake Shore Cemetery",
+      "latitude": 41.51314179,
+      "longitude": -82.02036263,
+      "directions": "On Lake Road (U.S. 6) , Avon Lake, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300408",
+      "photo_urls": []
+    },
+    {
+      "id": "300411",
+      "title": "American Revolution",
+      "latitude": 41.38474381,
+      "longitude": -82.01782523,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300411",
+      "photo_urls": []
+    },
+    {
+      "id": "300412",
+      "title": "War of 1812",
+      "latitude": 41.38474873,
+      "longitude": -82.01782895,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300412",
+      "photo_urls": []
+    },
+    {
+      "id": "300413",
+      "title": "Indian Wars",
+      "latitude": 41.38476692,
+      "longitude": -82.01785059,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300413",
+      "photo_urls": []
+    },
+    {
+      "id": "300414",
+      "title": "Mexican War",
+      "latitude": 41.38478453,
+      "longitude": -82.01787036,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300414",
+      "photo_urls": []
+    },
+    {
+      "id": "300415",
+      "title": "Civil War",
+      "latitude": 41.38479956,
+      "longitude": -82.01798111,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300415",
+      "photo_urls": []
+    },
+    {
+      "id": "300417",
+      "title": "Spanish American War",
+      "latitude": 41.38478857,
+      "longitude": -82.01800073,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300417",
+      "photo_urls": []
+    },
+    {
+      "id": "300419",
+      "title": "World War I",
+      "latitude": 41.38475263,
+      "longitude": -82.01804592,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300419",
+      "photo_urls": []
+    },
+    {
+      "id": "300420",
+      "title": "WWII",
+      "latitude": 41.38467152,
+      "longitude": -82.0180252,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300420",
+      "photo_urls": []
+    },
+    {
+      "id": "300421",
+      "title": "Korean War",
+      "latitude": 41.38467831,
+      "longitude": -82.01797986,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300421",
+      "photo_urls": []
+    },
+    {
+      "id": "300422",
+      "title": "Vietnam War",
+      "latitude": 41.38468561,
+      "longitude": -82.01797128,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300422",
+      "photo_urls": []
+    },
+    {
+      "id": "300423",
+      "title": "Gulf War",
+      "latitude": 41.38469267,
+      "longitude": -82.01790344,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300423",
+      "photo_urls": []
+    },
+    {
+      "id": "300424",
+      "title": "Global War on Terror",
+      "latitude": 41.38472432,
+      "longitude": -82.01784166,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300424",
+      "photo_urls": []
+    },
+    {
+      "id": "300454",
+      "title": "Eaton Township Civil War Memorial",
+      "latitude": 41.34021047,
+      "longitude": -82.04976225,
+      "directions": "On Butternut Ridge Road, Elyria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300454",
+      "photo_urls": []
+    },
+    {
+      "id": "300456",
+      "title": "Eaton's Tribute to All American War Veterans",
+      "latitude": 41.34023668,
+      "longitude": -82.04977373,
+      "directions": "On Butternut Ridge Road, Elyria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300456",
+      "photo_urls": []
+    },
+    {
+      "id": "300457",
+      "title": "Welcome to Elyria",
+      "latitude": 41.34350186,
+      "longitude": -82.06831887,
+      "directions": "On Chestnut Ridge Road, Elyria, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300457",
+      "photo_urls": []
+    },
+    {
+      "id": "300459",
+      "title": "Amherst World War Memorial",
+      "latitude": 41.39811494,
+      "longitude": -82.22707116,
+      "directions": "On South Main Street, Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300459",
+      "photo_urls": []
+    },
+    {
+      "id": "300460",
+      "title": "Eagle & Auxiliary Veterans Memorial",
+      "latitude": 41.39816121,
+      "longitude": -82.22709589,
+      "directions": "On South Main Street, Amherst, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300460",
+      "photo_urls": []
+    },
+    {
+      "id": "300461",
+      "title": "Lorain County Vietnam Veterans Memorial",
+      "latitude": 41.4060689,
+      "longitude": -82.23868852,
+      "directions": "On North Lake Street, Amherst, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300461",
+      "photo_urls": []
+    },
+    {
+      "id": "300462",
+      "title": "First Congregational Church",
+      "latitude": 41.66634516,
+      "longitude": -83.55551904,
+      "directions": "On Collingwood Boulevard, Toledo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300462",
+      "photo_urls": []
+    },
+    {
+      "id": "300465",
+      "title": "1969 AH-1F Aircraft 2004",
+      "latitude": 41.02606508,
+      "longitude": -80.86365794,
+      "directions": "On Ellsworth Road, Ellsworth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300465",
+      "photo_urls": []
+    },
+    {
+      "id": "300466",
+      "title": "Veterans Memorial",
+      "latitude": 41.02621032,
+      "longitude": -80.86404834,
+      "directions": "On Ellsworth Road, Ellsworth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300466",
+      "photo_urls": []
+    },
+    {
+      "id": "300479",
+      "title": "Bacso's Coal Yard Switch",
+      "latitude": 41.0272489,
+      "longitude": -81.72947726,
+      "directions": "On High Street, Wadsworth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300479",
+      "photo_urls": []
+    },
+    {
+      "id": "300481",
+      "title": "Wadesworth Veterans Memorial",
+      "latitude": 41.02546179,
+      "longitude": -81.72879588,
+      "directions": "On Broad, Wadsworth, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300481",
+      "photo_urls": []
+    },
+    {
+      "id": "300487",
+      "title": "Patriot Burials",
+      "latitude": 39.58466437,
+      "longitude": -83.1260044,
+      "directions": "On Mill Street (U.S. 22) , near Williamsport, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300487",
+      "photo_urls": []
+    },
+    {
+      "id": "300489",
+      "title": "Johnson-Miner American Legion Post-618 Veterans Memorial",
+      "latitude": 39.58272741,
+      "longitude": -83.12576574,
+      "directions": "On Mill Street (U.S. 22) , near Williamsport, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300489",
+      "photo_urls": []
+    },
+    {
+      "id": "300490",
+      "title": "In Memorium Frances De Col Graham",
+      "latitude": 39.90447413,
+      "longitude": -84.40533921,
+      "directions": "On West Main Street, Phillipsburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300490",
+      "photo_urls": []
+    },
+    {
+      "id": "300500",
+      "title": "Waynesfield Veterans Memorial",
+      "latitude": 40.597298,
+      "longitude": -83.975669,
+      "directions": "On Westminster Street (County Route 261) , Waynesfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300500",
+      "photo_urls": []
+    },
+    {
+      "id": "300523",
+      "title": "Swamp White Oak (Quercus bicolor)",
+      "latitude": 40.87576345,
+      "longitude": -84.58283281,
+      "directions": "On North Washington Street (U.S. 122) , Van Wert, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300523",
+      "photo_urls": []
+    },
+    {
+      "id": "300525",
+      "title": "The Sight Center of Northwest Ohio",
+      "latitude": 41.62098951,
+      "longitude": -83.59747178,
+      "directions": "On Garden Lake Parkway, Toledo, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300525",
+      "photo_urls": []
+    },
+    {
+      "id": "300527",
+      "title": "Veterans Memorial",
+      "latitude": 41.62374169,
+      "longitude": -83.62535894,
+      "directions": "On Airport Highway (State Route 2) , Toledo, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300527",
+      "photo_urls": []
+    },
+    {
+      "id": "300529",
+      "title": "Swamp White Oak (Quercus bicolor)",
+      "latitude": 41.716154,
+      "longitude": -83.70694242,
+      "directions": "On Monroe Street, Sylvania, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300529",
+      "photo_urls": []
+    },
+    {
+      "id": "300531",
+      "title": "Ohio Department of Natural Resources 75th Anniversary",
+      "latitude": 41.51834622,
+      "longitude": -83.79928791,
+      "directions": "On Saint Louis Avenue, Whitehouse, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300531",
+      "photo_urls": []
+    },
+    {
+      "id": "300532",
+      "title": "Ohio Department of Natural Resources 75th Anniversary",
+      "latitude": 41.41213628,
+      "longitude": -83.88973521,
+      "directions": "On State Route 65, McClure, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300532",
+      "photo_urls": []
+    },
+    {
+      "id": "300545",
+      "title": "Heroes Wall",
+      "latitude": 40.03035083,
+      "longitude": -81.04014276,
+      "directions": "On East Barrister Street, Belmont, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300545",
+      "photo_urls": []
+    },
+    {
+      "id": "300574",
+      "title": "Veterans Wall of Honor",
+      "latitude": 39.00484313,
+      "longitude": -83.80968529,
+      "directions": "On Hope Lane, Sardinia, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300574",
+      "photo_urls": []
+    },
+    {
+      "id": "300586",
+      "title": "In Remembrance",
+      "latitude": 40.67879492,
+      "longitude": -82.58267568,
+      "directions": "On Plymouth Street, Lexington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300586",
+      "photo_urls": []
+    },
+    {
+      "id": "300587",
+      "title": "In Remembrance",
+      "latitude": 40.67878575,
+      "longitude": -82.58311932,
+      "directions": "On Plymouth Street, Lexington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300587",
+      "photo_urls": []
+    },
+    {
+      "id": "300588",
+      "title": "St. Peters Evangelical Lutheran Church Bell",
+      "latitude": 40.75718503,
+      "longitude": -82.54093505,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300588",
+      "photo_urls": []
+    },
+    {
+      "id": "300590",
+      "title": "The Petersburg Cabin",
+      "latitude": 40.75659465,
+      "longitude": -82.54113216,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300590",
+      "photo_urls": []
+    },
+    {
+      "id": "300591",
+      "title": "Mansfield's War of 1812 Blockhouse Timeline",
+      "latitude": 40.75628355,
+      "longitude": -82.54145874,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300591",
+      "photo_urls": []
+    },
+    {
+      "id": "300592",
+      "title": "Hawk's Nest Forge and Cooperage",
+      "latitude": 40.75631824,
+      "longitude": -82.54159967,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300592",
+      "photo_urls": []
+    },
+    {
+      "id": "300593",
+      "title": "Mansfield's War of 1812 Blockhouse",
+      "latitude": 40.7562333,
+      "longitude": -82.5414628,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300593",
+      "photo_urls": []
+    },
+    {
+      "id": "300594",
+      "title": "Mansfield's War of 1812 Blockhouse",
+      "latitude": 40.75624474,
+      "longitude": -82.54156733,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300594",
+      "photo_urls": []
+    },
+    {
+      "id": "300595",
+      "title": "Mansfield's War of 1812 Blockhouse",
+      "latitude": 40.75618389,
+      "longitude": -82.54150672,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300595",
+      "photo_urls": []
+    },
+    {
+      "id": "300596",
+      "title": "Eagle Scout Projects at South Park",
+      "latitude": 40.75677396,
+      "longitude": -82.54134512,
+      "directions": "On Brinkerhoff Avenue, Mansfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300596",
+      "photo_urls": []
+    },
+    {
+      "id": "300640",
+      "title": "Dr. Elinore Barber",
+      "latitude": 41.37454717,
+      "longitude": -81.85078549,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300640",
+      "photo_urls": []
+    },
+    {
+      "id": "300643",
+      "title": "John T. \"Jack\" Amy",
+      "latitude": 41.37454263,
+      "longitude": -81.85079101,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300643",
+      "photo_urls": []
+    },
+    {
+      "id": "300644",
+      "title": "Dr. Robert Drake",
+      "latitude": 41.37454445,
+      "longitude": -81.85079824,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300644",
+      "photo_urls": []
+    },
+    {
+      "id": "300645",
+      "title": "Neille Shoemaker",
+      "latitude": 41.37454291,
+      "longitude": -81.85080904,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300645",
+      "photo_urls": []
+    },
+    {
+      "id": "300647",
+      "title": "Rev. Dr. Mark H. Collier",
+      "latitude": 41.37453934,
+      "longitude": -81.85078336,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300647",
+      "photo_urls": []
+    },
+    {
+      "id": "300648",
+      "title": "David \"Dave\" Demmerle",
+      "latitude": 41.37453895,
+      "longitude": -81.85079024,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300648",
+      "photo_urls": []
+    },
+    {
+      "id": "300650",
+      "title": "Dr. James Feldman",
+      "latitude": 41.37453566,
+      "longitude": -81.85079494,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300650",
+      "photo_urls": []
+    },
+    {
+      "id": "300651",
+      "title": "Dr. Thomas C. Surrarrer '28",
+      "latitude": 41.37453542,
+      "longitude": -81.85080718,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300651",
+      "photo_urls": []
+    },
+    {
+      "id": "300652",
+      "title": "Dr. Georgia \"Jo\" Swanson",
+      "latitude": 41.37453423,
+      "longitude": -81.85078362,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300652",
+      "photo_urls": []
+    },
+    {
+      "id": "300653",
+      "title": "Charles \"Charlie\" Burke",
+      "latitude": 41.37453336,
+      "longitude": -81.85079258,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300653",
+      "photo_urls": []
+    },
+    {
+      "id": "300654",
+      "title": "Marcia M. French '63",
+      "latitude": 41.37453388,
+      "longitude": -81.85079904,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300654",
+      "photo_urls": []
+    },
+    {
+      "id": "300655",
+      "title": "Paul C. Nyland '26",
+      "latitude": 41.3745323,
+      "longitude": -81.85081056,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300655",
+      "photo_urls": []
+    },
+    {
+      "id": "300656",
+      "title": "Stephen W. Boesel",
+      "latitude": 41.37453111,
+      "longitude": -81.85078523,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300656",
+      "photo_urls": []
+    },
+    {
+      "id": "300657",
+      "title": "Dr. Warren Scharf",
+      "latitude": 41.37452897,
+      "longitude": -81.85078861,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300657",
+      "photo_urls": []
+    },
+    {
+      "id": "300658",
+      "title": "Jerry Jarrett",
+      "latitude": 41.37453129,
+      "longitude": -81.85079794,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300658",
+      "photo_urls": []
+    },
+    {
+      "id": "300660",
+      "title": "Robert T. Cossaboom",
+      "latitude": 41.37452741,
+      "longitude": -81.85080804,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300660",
+      "photo_urls": []
+    },
+    {
+      "id": "300661",
+      "title": "Lester E. Gigax",
+      "latitude": 41.37452731,
+      "longitude": -81.85077206,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300661",
+      "photo_urls": []
+    },
+    {
+      "id": "300662",
+      "title": "Lloyd L. Hoffman",
+      "latitude": 41.37452756,
+      "longitude": -81.85077863,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300662",
+      "photo_urls": []
+    },
+    {
+      "id": "300663",
+      "title": "Kathryn Grover Harrington, 1923",
+      "latitude": 41.37452837,
+      "longitude": -81.85078663,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300663",
+      "photo_urls": []
+    },
+    {
+      "id": "300664",
+      "title": "Rev. Dr. Paul O. Mayer, 1925",
+      "latitude": 41.37452476,
+      "longitude": -81.85077362,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300664",
+      "photo_urls": []
+    },
+    {
+      "id": "300665",
+      "title": "Dr. Lucille Mercer",
+      "latitude": 41.37452384,
+      "longitude": -81.85077717,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300665",
+      "photo_urls": []
+    },
+    {
+      "id": "300666",
+      "title": "Lawrence D. Bibbee",
+      "latitude": 41.37452509,
+      "longitude": -81.85078554,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300666",
+      "photo_urls": []
+    },
+    {
+      "id": "300667",
+      "title": "George F. Collier",
+      "latitude": 41.37452271,
+      "longitude": -81.85077179,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300667",
+      "photo_urls": []
+    },
+    {
+      "id": "300668",
+      "title": "Dr. O. Grant Markham, 1886",
+      "latitude": 41.37452327,
+      "longitude": -81.85077787,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300668",
+      "photo_urls": []
+    },
+    {
+      "id": "300669",
+      "title": "Dr. Donald S. Dean '38",
+      "latitude": 41.37452293,
+      "longitude": -81.85078497,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300669",
+      "photo_urls": []
+    },
+    {
+      "id": "300670",
+      "title": "Dayton C. Miller",
+      "latitude": 41.37451628,
+      "longitude": -81.85077285,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300670",
+      "photo_urls": []
+    },
+    {
+      "id": "300671",
+      "title": "Dr. Archie M. Mattison",
+      "latitude": 41.37451704,
+      "longitude": -81.85077674,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300671",
+      "photo_urls": []
+    },
+    {
+      "id": "300672",
+      "title": "W. Donald Pickering",
+      "latitude": 41.37451687,
+      "longitude": -81.85078338,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300672",
+      "photo_urls": []
+    },
+    {
+      "id": "300674",
+      "title": "Charles F. Strecker",
+      "latitude": 41.37451006,
+      "longitude": -81.8507731,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300674",
+      "photo_urls": []
+    },
+    {
+      "id": "300675",
+      "title": "Will J. Gelvin",
+      "latitude": 41.37450859,
+      "longitude": -81.85077749,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300675",
+      "photo_urls": []
+    },
+    {
+      "id": "300676",
+      "title": "Hubbard C. Wilcox '30",
+      "latitude": 41.3745109,
+      "longitude": -81.85078228,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300676",
+      "photo_urls": []
+    },
+    {
+      "id": "300678",
+      "title": "A. Fred Crossman",
+      "latitude": 41.37450404,
+      "longitude": -81.85077493,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300678",
+      "photo_urls": []
+    },
+    {
+      "id": "300679",
+      "title": "Walter E. Huenefeld",
+      "latitude": 41.37450161,
+      "longitude": -81.85078214,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300679",
+      "photo_urls": []
+    },
+    {
+      "id": "300681",
+      "title": "Dr. James A. Ross",
+      "latitude": 41.37450406,
+      "longitude": -81.85078967,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300681",
+      "photo_urls": []
+    },
+    {
+      "id": "300687",
+      "title": "Dr. Albert Riemenschneider",
+      "latitude": 41.37449592,
+      "longitude": -81.85078484,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300687",
+      "photo_urls": []
+    },
+    {
+      "id": "300688",
+      "title": "Dr. Frederic Cramer",
+      "latitude": 41.37449506,
+      "longitude": -81.85079388,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300688",
+      "photo_urls": []
+    },
+    {
+      "id": "300689",
+      "title": "Dr. Albert Gray Jr.",
+      "latitude": 41.37449749,
+      "longitude": -81.8508029,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300689",
+      "photo_urls": []
+    },
+    {
+      "id": "300696",
+      "title": "Dr. John C. Marting",
+      "latitude": 41.37449333,
+      "longitude": -81.85078376,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300696",
+      "photo_urls": []
+    },
+    {
+      "id": "300698",
+      "title": "Dr. Hilbert T. Ficken",
+      "latitude": 41.37449465,
+      "longitude": -81.85079046,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300698",
+      "photo_urls": []
+    },
+    {
+      "id": "300701",
+      "title": "Dr. Robert W. Pitcher",
+      "latitude": 41.37449157,
+      "longitude": -81.85079889,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300701",
+      "photo_urls": []
+    },
+    {
+      "id": "300702",
+      "title": "Dr. Arthur L. Breslich",
+      "latitude": 41.37448775,
+      "longitude": -81.85078125,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300702",
+      "photo_urls": []
+    },
+    {
+      "id": "300703",
+      "title": "Charles G. Irwin '42",
+      "latitude": 41.37448896,
+      "longitude": -81.85079606,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300703",
+      "photo_urls": []
+    },
+    {
+      "id": "300704",
+      "title": "William Alwyn Ashburn",
+      "latitude": 41.37448824,
+      "longitude": -81.8508058,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300704",
+      "photo_urls": []
+    },
+    {
+      "id": "300705",
+      "title": "Dr. Charles William Hertzler",
+      "latitude": 41.37448583,
+      "longitude": -81.85078261,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300705",
+      "photo_urls": []
+    },
+    {
+      "id": "300706",
+      "title": "Thelma Merner Goldsword '27",
+      "latitude": 41.37448414,
+      "longitude": -81.85079534,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300706",
+      "photo_urls": []
+    },
+    {
+      "id": "300707",
+      "title": "Glenn W. Snow",
+      "latitude": 41.37448319,
+      "longitude": -81.85080452,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300707",
+      "photo_urls": []
+    },
+    {
+      "id": "300708",
+      "title": "Martha Goldsworthy Arnold '30",
+      "latitude": 41.37448129,
+      "longitude": -81.85078362,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300708",
+      "photo_urls": []
+    },
+    {
+      "id": "300710",
+      "title": "Dr. Albert I. Gay",
+      "latitude": 41.37448084,
+      "longitude": -81.85079487,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300710",
+      "photo_urls": []
+    },
+    {
+      "id": "300711",
+      "title": "The Reverend Jacob Rothweiler, D.D.",
+      "latitude": 41.37448178,
+      "longitude": -81.85080359,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300711",
+      "photo_urls": []
+    },
+    {
+      "id": "300712",
+      "title": "Dr. Emory C. Unnewehr",
+      "latitude": 41.37447159,
+      "longitude": -81.85078301,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300712",
+      "photo_urls": []
+    },
+    {
+      "id": "300713",
+      "title": "Dr. Stephen Lee Whiteman",
+      "latitude": 41.37447613,
+      "longitude": -81.85079691,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300713",
+      "photo_urls": []
+    },
+    {
+      "id": "300714",
+      "title": "Roger E. Stansfield",
+      "latitude": 41.37447441,
+      "longitude": -81.85080595,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300714",
+      "photo_urls": []
+    },
+    {
+      "id": "300723",
+      "title": "Benjamin Tappan, Jr.",
+      "latitude": 41.1389,
+      "longitude": -81.20035,
+      "directions": "On Cleveland East Liverpool Road (State Route 14) , near Ravenna, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300723",
+      "photo_urls": []
+    },
+    {
+      "id": "300724",
+      "title": "Ephraim Root / Rootstown",
+      "latitude": 41.09805556,
+      "longitude": -81.2425,
+      "directions": "On Ravenna Louisville Road (State Route 44) , Rootstown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300724",
       "photo_urls": []
     },
     {
@@ -96137,12 +97973,1740 @@
       "photo_urls": []
     },
     {
+      "id": "300829",
+      "title": "Hope Furnace / Hanging Rock Iron Region",
+      "latitude": 39.3320945,
+      "longitude": -82.3403291,
+      "directions": "Near State Route 278, Zaleski, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300829",
+      "photo_urls": []
+    },
+    {
+      "id": "300925",
+      "title": "Dr. Lee J.Tressel '48",
+      "latitude": 41.37446574,
+      "longitude": -81.85077353,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300925",
+      "photo_urls": []
+    },
+    {
+      "id": "300926",
+      "title": "Rudolph S. Ursprung",
+      "latitude": 41.37446822,
+      "longitude": -81.85078171,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300926",
+      "photo_urls": []
+    },
+    {
+      "id": "300927",
+      "title": "Dorothy Marks McKelvey '24",
+      "latitude": 41.37446929,
+      "longitude": -81.85079379,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300927",
+      "photo_urls": []
+    },
+    {
+      "id": "300928",
+      "title": "Ray Ernest Watts 33",
+      "latitude": 41.37446327,
+      "longitude": -81.85077457,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300928",
+      "photo_urls": []
+    },
+    {
+      "id": "300929",
+      "title": "Harold C. Beyer",
+      "latitude": 41.37446304,
+      "longitude": -81.85078238,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300929",
+      "photo_urls": []
+    },
+    {
+      "id": "300930",
+      "title": "Charles E. Spahr, CEO, Sohio",
+      "latitude": 41.37446401,
+      "longitude": -81.8507945,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300930",
+      "photo_urls": []
+    },
+    {
+      "id": "300931",
+      "title": "Dr. Louis C. Wright",
+      "latitude": 41.37445568,
+      "longitude": -81.85077352,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300931",
+      "photo_urls": []
+    },
+    {
+      "id": "300932",
+      "title": "Sam Lee Greenwood",
+      "latitude": 41.37445433,
+      "longitude": -81.85078439,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300932",
+      "photo_urls": []
+    },
+    {
+      "id": "300933",
+      "title": "Bertha Louise Stiefel '20",
+      "latitude": 41.3744552,
+      "longitude": -81.85079552,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300933",
+      "photo_urls": []
+    },
+    {
+      "id": "300934",
+      "title": "Ruth Brockett Baur '30",
+      "latitude": 41.37445019,
+      "longitude": -81.85077438,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300934",
+      "photo_urls": []
+    },
+    {
+      "id": "300936",
+      "title": "Dr. John M. Blocher",
+      "latitude": 41.37444954,
+      "longitude": -81.85078176,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300936",
+      "photo_urls": []
+    },
+    {
+      "id": "300937",
+      "title": "Dr. Harry Jason Smith",
+      "latitude": 41.37445153,
+      "longitude": -81.85079302,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300937",
+      "photo_urls": []
+    },
+    {
+      "id": "300939",
+      "title": "Willard H. “Bill” Hagenmeyer '28",
+      "latitude": 41.37444512,
+      "longitude": -81.85077469,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300939",
+      "photo_urls": []
+    },
+    {
+      "id": "300940",
+      "title": "Dr. Millard Fillmore Warner",
+      "latitude": 41.37444201,
+      "longitude": -81.85078151,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300940",
+      "photo_urls": []
+    },
+    {
+      "id": "300941",
+      "title": "Dr. Edwin S. Havichurst",
+      "latitude": 41.37444333,
+      "longitude": -81.85079399,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300941",
+      "photo_urls": []
+    },
+    {
+      "id": "300943",
+      "title": "Carl Stiefel",
+      "latitude": 41.37443857,
+      "longitude": -81.85077332,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300943",
+      "photo_urls": []
+    },
+    {
+      "id": "300944",
+      "title": "Carleton H. Bullis",
+      "latitude": 41.37443909,
+      "longitude": -81.85078429,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300944",
+      "photo_urls": []
+    },
+    {
+      "id": "300945",
+      "title": "Robert B. Howells",
+      "latitude": 41.37444226,
+      "longitude": -81.85079524,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300945",
+      "photo_urls": []
+    },
+    {
+      "id": "300946",
+      "title": "John Baldwin",
+      "latitude": 41.37443002,
+      "longitude": -81.85078496,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300946",
+      "photo_urls": []
+    },
+    {
+      "id": "300947",
+      "title": "James Wallace",
+      "latitude": 41.37442082,
+      "longitude": -81.85078453,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300947",
+      "photo_urls": []
+    },
+    {
+      "id": "300954",
+      "title": "Theo Moll",
+      "latitude": 41.37440994,
+      "longitude": -81.85077441,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300954",
+      "photo_urls": []
+    },
+    {
+      "id": "300955",
+      "title": "Dr. Albert L. Marting ’06",
+      "latitude": 41.37441165,
+      "longitude": -81.8507832,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300955",
+      "photo_urls": []
+    },
+    {
+      "id": "300956",
+      "title": "Ethel S. Tudor",
+      "latitude": 41.37441067,
+      "longitude": -81.85079733,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300956",
+      "photo_urls": []
+    },
+    {
+      "id": "300960",
+      "title": "Jacob O. Kamm '40",
+      "latitude": 41.374405,
+      "longitude": -81.85077487,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300960",
+      "photo_urls": []
+    },
+    {
+      "id": "300961",
+      "title": "Dr. William D. Pendell '35",
+      "latitude": 41.37440575,
+      "longitude": -81.85078349,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300961",
+      "photo_urls": []
+    },
+    {
+      "id": "300962",
+      "title": "Frederick Roehm",
+      "latitude": 41.37440322,
+      "longitude": -81.85079689,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300962",
+      "photo_urls": []
+    },
+    {
+      "id": "300964",
+      "title": "Dana T. Burns",
+      "latitude": 41.37439698,
+      "longitude": -81.85077526,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300964",
+      "photo_urls": []
+    },
+    {
+      "id": "300965",
+      "title": "Theodore S. Bogardus",
+      "latitude": 41.37440114,
+      "longitude": -81.85078566,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300965",
+      "photo_urls": []
+    },
+    {
+      "id": "300967",
+      "title": "Dr. Arthur Clinton Boggess",
+      "latitude": 41.37439697,
+      "longitude": -81.8507988,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300967",
+      "photo_urls": []
+    },
+    {
+      "id": "300968",
+      "title": "Ranger Station Mound",
+      "latitude": 39.28752618,
+      "longitude": -82.39536729,
+      "directions": "On Forestry Street, Zaleski, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300968",
+      "photo_urls": []
+    },
+    {
+      "id": "300972",
+      "title": "Dr. John R. Sinnema '33",
+      "latitude": 41.37438855,
+      "longitude": -81.85077446,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300972",
+      "photo_urls": []
+    },
+    {
+      "id": "300974",
+      "title": "Lloyd C. Wicke '23",
+      "latitude": 41.37438994,
+      "longitude": -81.85078621,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300974",
+      "photo_urls": []
+    },
+    {
       "id": "301",
       "title": "This Fraternity House",
       "latitude": 40.073236,
       "longitude": -82.525102,
       "directions": "On Fraternity Row, Granville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=301",
+      "photo_urls": []
+    },
+    {
+      "id": "301009",
+      "title": "Dr. Wesley N. Speckman '89",
+      "latitude": 41.37438934,
+      "longitude": -81.85080161,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301009",
+      "photo_urls": []
+    },
+    {
+      "id": "301010",
+      "title": "William C. Pautz",
+      "latitude": 41.37436518,
+      "longitude": -81.85076994,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301010",
+      "photo_urls": []
+    },
+    {
+      "id": "301012",
+      "title": "Myron Forrest Wicke '30",
+      "latitude": 41.37436022,
+      "longitude": -81.85078494,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301012",
+      "photo_urls": []
+    },
+    {
+      "id": "301013",
+      "title": "Dr. Cornelius D. Penner",
+      "latitude": 41.37435986,
+      "longitude": -81.85080193,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301013",
+      "photo_urls": []
+    },
+    {
+      "id": "301014",
+      "title": "Harry T. Marks",
+      "latitude": 41.37435541,
+      "longitude": -81.85077103,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301014",
+      "photo_urls": []
+    },
+    {
+      "id": "301015",
+      "title": "Dr. Ruby V. Redinger",
+      "latitude": 41.3743769,
+      "longitude": -81.85078813,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301015",
+      "photo_urls": []
+    },
+    {
+      "id": "301016",
+      "title": "Paul Emil Baur",
+      "latitude": 41.37437631,
+      "longitude": -81.85080102,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301016",
+      "photo_urls": []
+    },
+    {
+      "id": "301017",
+      "title": "Dr. Fred E. Harris",
+      "latitude": 41.37437134,
+      "longitude": -81.85078826,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301017",
+      "photo_urls": []
+    },
+    {
+      "id": "301018",
+      "title": "Alfred Bryan Bonds, Jr.",
+      "latitude": 41.37437064,
+      "longitude": -81.85079619,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301018",
+      "photo_urls": []
+    },
+    {
+      "id": "301019",
+      "title": "Fletcher Hulet",
+      "latitude": 41.37437136,
+      "longitude": -81.85080497,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301019",
+      "photo_urls": []
+    },
+    {
+      "id": "301020",
+      "title": "Harry Ridenour",
+      "latitude": 41.3743669,
+      "longitude": -81.85078678,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301020",
+      "photo_urls": []
+    },
+    {
+      "id": "301021",
+      "title": "Marjorie Hower",
+      "latitude": 41.37436562,
+      "longitude": -81.85079858,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301021",
+      "photo_urls": []
+    },
+    {
+      "id": "301022",
+      "title": "John F. Gregg",
+      "latitude": 41.37436432,
+      "longitude": -81.85080559,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301022",
+      "photo_urls": []
+    },
+    {
+      "id": "301024",
+      "title": "Frances Foster Mills",
+      "latitude": 41.37436095,
+      "longitude": -81.85078637,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301024",
+      "photo_urls": []
+    },
+    {
+      "id": "301025",
+      "title": "Dr. W. Grayson Lappert",
+      "latitude": 41.37435972,
+      "longitude": -81.85079599,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301025",
+      "photo_urls": []
+    },
+    {
+      "id": "301026",
+      "title": "Dr. Lawrence W. Hartzell '65",
+      "latitude": 41.37435974,
+      "longitude": -81.8508098,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301026",
+      "photo_urls": []
+    },
+    {
+      "id": "301027",
+      "title": "Paul \"Sparky\" Adams '43",
+      "latitude": 41.37435828,
+      "longitude": -81.85078441,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301027",
+      "photo_urls": []
+    },
+    {
+      "id": "301028",
+      "title": "Edward L. Fullmer",
+      "latitude": 41.37435577,
+      "longitude": -81.85079624,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301028",
+      "photo_urls": []
+    },
+    {
+      "id": "301029",
+      "title": "Dr. Wray Stickford",
+      "latitude": 41.37435634,
+      "longitude": -81.85080791,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301029",
+      "photo_urls": []
+    },
+    {
+      "id": "301030",
+      "title": "Dr Aaron H. Schuyler",
+      "latitude": 41.37435197,
+      "longitude": -81.85078424,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301030",
+      "photo_urls": []
+    },
+    {
+      "id": "301031",
+      "title": "Glenn W. Peterjohn",
+      "latitude": 41.37435297,
+      "longitude": -81.85079698,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301031",
+      "photo_urls": []
+    },
+    {
+      "id": "301032",
+      "title": "Louise Kiefer '42",
+      "latitude": 41.3743527,
+      "longitude": -81.85080694,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301032",
+      "photo_urls": []
+    },
+    {
+      "id": "301033",
+      "title": "Dr. Albert Boynton Storms",
+      "latitude": 41.37434708,
+      "longitude": -81.85078192,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301033",
+      "photo_urls": []
+    },
+    {
+      "id": "301034",
+      "title": "Jess J. Petty '31",
+      "latitude": 41.37434904,
+      "longitude": -81.85079483,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301034",
+      "photo_urls": []
+    },
+    {
+      "id": "301035",
+      "title": "Dr. Delo Corydon Grover",
+      "latitude": 41.37435108,
+      "longitude": -81.85080864,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301035",
+      "photo_urls": []
+    },
+    {
+      "id": "301053",
+      "title": "Carl S. Bechberger",
+      "latitude": 41.37434476,
+      "longitude": -81.85077486,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301053",
+      "photo_urls": []
+    },
+    {
+      "id": "301055",
+      "title": "Gerald S. Wellman",
+      "latitude": 41.37434518,
+      "longitude": -81.85077923,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301055",
+      "photo_urls": []
+    },
+    {
+      "id": "301057",
+      "title": "Dieter Wassen",
+      "latitude": 41.37434429,
+      "longitude": -81.85078588,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301057",
+      "photo_urls": []
+    },
+    {
+      "id": "301058",
+      "title": "Kenneth E. Steingass",
+      "latitude": 41.37434055,
+      "longitude": -81.85077557,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301058",
+      "photo_urls": []
+    },
+    {
+      "id": "301061",
+      "title": "Dr. Ernest Knautz",
+      "latitude": 41.37433994,
+      "longitude": -81.85077936,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301061",
+      "photo_urls": []
+    },
+    {
+      "id": "301062",
+      "title": "Edwin A. Riemenschneider '30",
+      "latitude": 41.37433943,
+      "longitude": -81.85078486,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301062",
+      "photo_urls": []
+    },
+    {
+      "id": "301063",
+      "title": "John F. Ernsthausen",
+      "latitude": 41.37433732,
+      "longitude": -81.85077548,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301063",
+      "photo_urls": []
+    },
+    {
+      "id": "301065",
+      "title": "Edward Leo Finnigan",
+      "latitude": 41.37433844,
+      "longitude": -81.85077908,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301065",
+      "photo_urls": []
+    },
+    {
+      "id": "301066",
+      "title": "Elizabeth Marting Treuhaft",
+      "latitude": 41.37433547,
+      "longitude": -81.85078764,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301066",
+      "photo_urls": []
+    },
+    {
+      "id": "301081",
+      "title": "Dr. Arthur V. Wilker '06",
+      "latitude": 41.37432927,
+      "longitude": -81.85077641,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301081",
+      "photo_urls": []
+    },
+    {
+      "id": "301082",
+      "title": "Dr. Cecil W. Munk",
+      "latitude": 41.37432563,
+      "longitude": -81.85078192,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301082",
+      "photo_urls": []
+    },
+    {
+      "id": "301083",
+      "title": "Orie J. Vande Visse '47",
+      "latitude": 41.37432494,
+      "longitude": -81.85079302,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301083",
+      "photo_urls": []
+    },
+    {
+      "id": "301093",
+      "title": "Harry E. Wells '28",
+      "latitude": 41.37432174,
+      "longitude": -81.8507757,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301093",
+      "photo_urls": []
+    },
+    {
+      "id": "301094",
+      "title": "Dr. Dean L. Robb",
+      "latitude": 41.37432246,
+      "longitude": -81.85078177,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301094",
+      "photo_urls": []
+    },
+    {
+      "id": "301095",
+      "title": "Dr. Paul R. Annear",
+      "latitude": 41.37432265,
+      "longitude": -81.8507908,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301095",
+      "photo_urls": []
+    },
+    {
+      "id": "301096",
+      "title": "Carl G. Schluer / Margaret Murray Schluer, 1939",
+      "latitude": 41.37431467,
+      "longitude": -81.85077515,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301096",
+      "photo_urls": []
+    },
+    {
+      "id": "301097",
+      "title": "Dr. Delbert M. Beswick, 1931",
+      "latitude": 41.37431702,
+      "longitude": -81.85078055,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301097",
+      "photo_urls": []
+    },
+    {
+      "id": "301098",
+      "title": "James E. Yingst",
+      "latitude": 41.37431753,
+      "longitude": -81.85079067,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301098",
+      "photo_urls": []
+    },
+    {
+      "id": "301111",
+      "title": "Philura Gould Baldwin",
+      "latitude": 41.37431263,
+      "longitude": -81.85078553,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301111",
+      "photo_urls": []
+    },
+    {
+      "id": "301112",
+      "title": "Dr. G. A. Reeder",
+      "latitude": 41.37431376,
+      "longitude": -81.85079529,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301112",
+      "photo_urls": []
+    },
+    {
+      "id": "301113",
+      "title": "Dr. Julius O. Berr",
+      "latitude": 41.37431255,
+      "longitude": -81.85080316,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301113",
+      "photo_urls": []
+    },
+    {
+      "id": "301114",
+      "title": "Dr.Victor Wilker",
+      "latitude": 41.37430894,
+      "longitude": -81.85078696,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301114",
+      "photo_urls": []
+    },
+    {
+      "id": "301115",
+      "title": "Dr. John Wheeler",
+      "latitude": 41.37430859,
+      "longitude": -81.85079665,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301115",
+      "photo_urls": []
+    },
+    {
+      "id": "301117",
+      "title": "Dr. Herman Herzer",
+      "latitude": 41.37430895,
+      "longitude": -81.85080842,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301117",
+      "photo_urls": []
+    },
+    {
+      "id": "301118",
+      "title": "Dr. Elisha Scott Loomis",
+      "latitude": 41.37430193,
+      "longitude": -81.85078825,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301118",
+      "photo_urls": []
+    },
+    {
+      "id": "301119",
+      "title": "Dr. Carl Friedrich Paulus",
+      "latitude": 41.3743021,
+      "longitude": -81.85079836,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301119",
+      "photo_urls": []
+    },
+    {
+      "id": "301120",
+      "title": "Fletcher De Lay Ward",
+      "latitude": 41.37429917,
+      "longitude": -81.85080724,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301120",
+      "photo_urls": []
+    },
+    {
+      "id": "301121",
+      "title": "The Reverend William Nast, D.D.",
+      "latitude": 41.37429209,
+      "longitude": -81.85078754,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301121",
+      "photo_urls": []
+    },
+    {
+      "id": "301122",
+      "title": "Dr. Karl Riemenschneider",
+      "latitude": 41.37429221,
+      "longitude": -81.85079607,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301122",
+      "photo_urls": []
+    },
+    {
+      "id": "301123",
+      "title": "The Reverend Joseph Edward Stubbs",
+      "latitude": 41.37429308,
+      "longitude": -81.85080478,
+      "directions": "On Beech Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301123",
+      "photo_urls": []
+    },
+    {
+      "id": "301127",
+      "title": "134 D Artillery Memorial",
+      "latitude": 39.78587259,
+      "longitude": -84.20051657,
+      "directions": "On Ridge Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301127",
+      "photo_urls": []
+    },
+    {
+      "id": "301136",
+      "title": "D Battery 134th Field Artillery-37th Division encamped at Triangle Park - July 15th 1917",
+      "latitude": 39.78273554,
+      "longitude": -84.20225302,
+      "directions": "On Ridge Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301136",
+      "photo_urls": []
+    },
+    {
+      "id": "301145",
+      "title": "Wrights Rest at Woodland",
+      "latitude": 39.74290258,
+      "longitude": -84.1788687,
+      "directions": "On Woodland Avenue, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301145",
+      "photo_urls": []
+    },
+    {
+      "id": "301146",
+      "title": "T. C. Lindsey Gun",
+      "latitude": 39.74356455,
+      "longitude": -84.17741423,
+      "directions": "On Civil War Road, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301146",
+      "photo_urls": []
+    },
+    {
+      "id": "301148",
+      "title": "J. C. Cline Gun",
+      "latitude": 39.74376757,
+      "longitude": -84.17753985,
+      "directions": "On Civil War Road, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301148",
+      "photo_urls": []
+    },
+    {
+      "id": "301149",
+      "title": "Dayton Soldiers and Sailors Memorial",
+      "latitude": 39.74366605,
+      "longitude": -84.17754937,
+      "directions": "On Civil War Road, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301149",
+      "photo_urls": []
+    },
+    {
+      "id": "301150",
+      "title": "Louis Wm. Rieker, Sr. Memorial",
+      "latitude": 39.7437342,
+      "longitude": -84.17747275,
+      "directions": "On Civil War Road, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301150",
+      "photo_urls": []
+    },
+    {
+      "id": "301177",
+      "title": "Adena Culture",
+      "latitude": 39.28733056,
+      "longitude": -82.395125,
+      "directions": "On Forestry Street, Zaleski, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301177",
+      "photo_urls": []
+    },
+    {
+      "id": "301347",
+      "title": "Magee Marsh Wildlife Area",
+      "latitude": 41.611574,
+      "longitude": -83.188466,
+      "directions": "Near Park Road 1, near Oak Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301347",
+      "photo_urls": []
+    },
+    {
+      "id": "301348",
+      "title": "Adolphus Kraemer",
+      "latitude": 41.50829136,
+      "longitude": -83.14758561,
+      "directions": "On North Church Street (Local Route 134) , Oak Harbor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301348",
+      "photo_urls": []
+    },
+    {
+      "id": "301351",
+      "title": "Johnson's Island Prison",
+      "latitude": 41.50081667,
+      "longitude": -82.73008333,
+      "directions": "On Confederate Drive, Johnson&#39;s Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301351",
+      "photo_urls": []
+    },
+    {
+      "id": "301383",
+      "title": "Braceville Township World War II Memorial",
+      "latitude": 41.22476591,
+      "longitude": -80.95760727,
+      "directions": "On Braceville Cemetery Road, Braceville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301383",
+      "photo_urls": []
+    },
+    {
+      "id": "301386",
+      "title": "World War Veterans Memorial",
+      "latitude": 41.22937505,
+      "longitude": -80.95411826,
+      "directions": "On Saintrte 82 Southwest (State Route 82) , Braceville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301386",
+      "photo_urls": []
+    },
+    {
+      "id": "301664",
+      "title": "The Vietnam Combat Veterans' Moving Wall",
+      "latitude": 41.47259157,
+      "longitude": -83.29346043,
+      "directions": "On Fremont Street, Elmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301664",
+      "photo_urls": []
+    },
+    {
+      "id": "301665",
+      "title": "Wolcott Cemetery",
+      "latitude": 41.51768993,
+      "longitude": -82.74057468,
+      "directions": "On East Huron Trail, Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301665",
+      "photo_urls": []
+    },
+    {
+      "id": "301666",
+      "title": "Revolutionary War Patriots",
+      "latitude": 41.51781606,
+      "longitude": -82.74036747,
+      "directions": "On East Huron Trail, Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301666",
+      "photo_urls": []
+    },
+    {
+      "id": "301667",
+      "title": "Johnson's Island Prison",
+      "latitude": 41.5008232,
+      "longitude": -82.73010307,
+      "directions": "On Confederate Drive, Johnson&#39;s Island, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301667",
+      "photo_urls": []
+    },
+    {
+      "id": "301668",
+      "title": "All Gave Some, Some Gave All",
+      "latitude": 40.90501762,
+      "longitude": -84.29625875,
+      "directions": "On North Water Street (Route 190) , Fort Jennings, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301668",
+      "photo_urls": []
+    },
+    {
+      "id": "301669",
+      "title": "All Gave Some Some Gave All",
+      "latitude": 41.52439429,
+      "longitude": -82.80611917,
+      "directions": "On Church Road, Lakeside Marblehead, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301669",
+      "photo_urls": []
+    },
+    {
+      "id": "301670",
+      "title": "\"All Gave Some - Some Gave All\"",
+      "latitude": 41.55725255,
+      "longitude": -82.83865551,
+      "directions": "On East Cemetery Road, Catawba Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301670",
+      "photo_urls": []
+    },
+    {
+      "id": "301671",
+      "title": "Veterans Memorial",
+      "latitude": 41.51130525,
+      "longitude": -82.95112145,
+      "directions": "On West 3rd Street, Port Clinton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301671",
+      "photo_urls": []
+    },
+    {
+      "id": "301672",
+      "title": "Roose Cemetery Veterans Memorial",
+      "latitude": 41.49423695,
+      "longitude": -83.12663291,
+      "directions": "On West Oak Harbor Southeast Road, Oak Harbor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301672",
+      "photo_urls": []
+    },
+    {
+      "id": "301673",
+      "title": "Clay Township Veterans Memorial",
+      "latitude": 41.50903269,
+      "longitude": -83.31845109,
+      "directions": "On West Fulkert Road, Genoa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301673",
+      "photo_urls": []
+    },
+    {
+      "id": "301675",
+      "title": "New Washington Veterans Memorial Park",
+      "latitude": 40.96243882,
+      "longitude": -82.85372134,
+      "directions": "On West Mansfield Street, New Washington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301675",
+      "photo_urls": []
+    },
+    {
+      "id": "301714",
+      "title": "Veterans Memorial",
+      "latitude": 40.42759449,
+      "longitude": -83.29739742,
+      "directions": "On North Franklin Street, Richwood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301714",
+      "photo_urls": []
+    },
+    {
+      "id": "301728",
+      "title": "Jerome Township Veterans Wall of Honor",
+      "latitude": 40.15597804,
+      "longitude": -83.23726379,
+      "directions": "On U.S. 42, New California, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301728",
+      "photo_urls": []
+    },
+    {
+      "id": "301800",
+      "title": "Chagrin Falls Township Hall",
+      "latitude": 41.43193418,
+      "longitude": -81.39258876,
+      "directions": "On North Main Street, Chagrin Falls, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301800",
+      "photo_urls": []
+    },
+    {
+      "id": "301801",
+      "title": "Jerome Township Civil War Memorial",
+      "latitude": 40.156261,
+      "longitude": -83.23666,
+      "directions": "On U.S. 42, New California, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301801",
+      "photo_urls": []
+    },
+    {
+      "id": "301826",
+      "title": "Milford Center Civil War Honor Roll",
+      "latitude": 40.1774665,
+      "longitude": -83.42962944,
+      "directions": "On East State Street, Milford Center, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301826",
+      "photo_urls": []
+    },
+    {
+      "id": "301828",
+      "title": "Union Township Civil War Monument",
+      "latitude": 40.177387,
+      "longitude": -83.429751,
+      "directions": "On Middleburg-Plain City Rd (County Route 57) , near Milford Center, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301828",
+      "photo_urls": []
+    },
+    {
+      "id": "301830",
+      "title": "American Legion Union Post No. 79 Memorial Building",
+      "latitude": 40.24000992,
+      "longitude": -83.38339653,
+      "directions": "On Park Avenue, Marysville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301830",
+      "photo_urls": []
+    },
+    {
+      "id": "301833",
+      "title": "United Spanish War Veterans Memorial",
+      "latitude": 40.24000473,
+      "longitude": -83.38314974,
+      "directions": "On Park Avenue, Marysville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301833",
+      "photo_urls": []
+    },
+    {
+      "id": "301835",
+      "title": "Veterans Memorial",
+      "latitude": 40.24006088,
+      "longitude": -83.38322449,
+      "directions": "On Park Avenue, Marysville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301835",
+      "photo_urls": []
+    },
+    {
+      "id": "301868",
+      "title": "Joseph Stoneman House",
+      "latitude": 41.43250314,
+      "longitude": -81.39181576,
+      "directions": "On East Orange Street, Chagrin Falls, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301868",
+      "photo_urls": []
+    },
+    {
+      "id": "301913",
+      "title": "John E. Gunckel (1846–1915)",
+      "latitude": 41.68223707,
+      "longitude": -83.57580054,
+      "directions": "On Central Avenue, Toledo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301913",
+      "photo_urls": []
+    },
+    {
+      "id": "301916",
+      "title": "Toledo Civil War Memorial",
+      "latitude": 41.68178717,
+      "longitude": -83.57894205,
+      "directions": "Near Central Avenue, Toledo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301916",
+      "photo_urls": []
+    },
+    {
+      "id": "301917",
+      "title": "Veterans Memorial",
+      "latitude": 41.67898327,
+      "longitude": -83.5838524,
+      "directions": "On Jackman Road, Toledo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301917",
+      "photo_urls": []
+    },
+    {
+      "id": "301939",
+      "title": "The Fight for Freedom / Marietta College Activism",
+      "latitude": 39.41804832,
+      "longitude": -81.45006734,
+      "directions": "On Putnam Street, Marietta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301939",
+      "photo_urls": []
+    },
+    {
+      "id": "302078",
+      "title": "Caeser Creek Schoolhouse",
+      "latitude": 39.48545307,
+      "longitude": -84.03896555,
+      "directions": "On Pioneer Village Road, near Wellman, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302078",
+      "photo_urls": []
+    },
+    {
+      "id": "302102",
+      "title": "Founders' Walk",
+      "latitude": 41.46679073,
+      "longitude": -81.88302009,
+      "directions": "On Clague Road, Westlake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302102",
+      "photo_urls": []
+    },
+    {
+      "id": "302112",
+      "title": "Woodland Cemetery Civil War Memorial",
+      "latitude": 41.48865631,
+      "longitude": -81.64213218,
+      "directions": "On Woodland Cemetery, Cleveland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302112",
+      "photo_urls": []
+    },
+    {
+      "id": "302126",
+      "title": "23rd Ohio Volunteer Infantry Monument",
+      "latitude": 41.4886508,
+      "longitude": -81.64179384,
+      "directions": "On Woodlawn Cemetery, Cleveland, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302126",
+      "photo_urls": []
+    },
+    {
+      "id": "302130",
+      "title": "Bain Park Cabin",
+      "latitude": 41.43988148,
+      "longitude": -81.85436396,
+      "directions": "On North Park Drive, Parkview, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302130",
+      "photo_urls": []
+    },
+    {
+      "id": "302131",
+      "title": "City of Berea Veterans Memorial",
+      "latitude": 41.37305306,
+      "longitude": -81.86153124,
+      "directions": "On North Rocky River Drive, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302131",
+      "photo_urls": []
+    },
+    {
+      "id": "302138",
+      "title": "Ohio Native Plants",
+      "latitude": 39.93971548,
+      "longitude": -83.53168158,
+      "directions": "On Interstate 70, near Summerford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302138",
+      "photo_urls": []
+    },
+    {
+      "id": "302145",
+      "title": "Berea And Middleburg Township World War Honor Roll",
+      "latitude": 41.36646127,
+      "longitude": -81.85349785,
+      "directions": "On Riverside Drive, Berea, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302145",
+      "photo_urls": []
+    },
+    {
+      "id": "302148",
+      "title": "Berea Veterans Honor Roll",
+      "latitude": 41.36652304,
+      "longitude": -81.85341193,
+      "directions": "On Front Street, Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302148",
+      "photo_urls": []
+    },
+    {
+      "id": "302151",
+      "title": "An Eternal Memorial",
+      "latitude": 41.41137897,
+      "longitude": -81.52569597,
+      "directions": "On Northfield Road (State Route 8) , Bedford Heights, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302151",
+      "photo_urls": []
+    },
+    {
+      "id": "302154",
+      "title": "In Remembrance Veterans of World War I",
+      "latitude": 41.39030326,
+      "longitude": -81.53458278,
+      "directions": "On Broadway Avenue, Bedford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302154",
+      "photo_urls": []
+    },
+    {
+      "id": "302156",
+      "title": "Bedford Civil War Memorial",
+      "latitude": 41.39043141,
+      "longitude": -81.53470761,
+      "directions": "On Broadway Avenue (Route 14) , Bedford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302156",
+      "photo_urls": []
+    },
+    {
+      "id": "302160",
+      "title": "Delaware Mausoleum",
+      "latitude": 40.28652822,
+      "longitude": -83.06901395,
+      "directions": "On South Sandusky Street, Delaware, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302160",
+      "photo_urls": []
+    },
+    {
+      "id": "302187",
+      "title": "Dempsey-Willard Fight",
+      "latitude": 41.6931111,
+      "longitude": -83.48188054,
+      "directions": "On North Summit Street, Toledo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302187",
+      "photo_urls": []
+    },
+    {
+      "id": "302213",
+      "title": "Ohio Native Plants",
+      "latitude": 39.93972646,
+      "longitude": -83.53210716,
+      "directions": "On Interstate 70, near Summerford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302213",
+      "photo_urls": []
+    },
+    {
+      "id": "302218",
+      "title": "Ohio Native Plants",
+      "latitude": 39.93975371,
+      "longitude": -83.53239746,
+      "directions": "On Interstate 70, near Summerford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302218",
+      "photo_urls": []
+    },
+    {
+      "id": "302222",
+      "title": "Ohio Buckeye Tree",
+      "latitude": 39.93975841,
+      "longitude": -83.53241459,
+      "directions": "On Interstate 70, near Summerford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302222",
+      "photo_urls": []
+    },
+    {
+      "id": "302226",
+      "title": "Ohio's Physiographic Regions",
+      "latitude": 39.93975837,
+      "longitude": -83.53231328,
+      "directions": "On Interstate 70, near Summerford, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302226",
+      "photo_urls": []
+    },
+    {
+      "id": "302239",
+      "title": "The Former Site of Crystal Beach Park",
+      "latitude": 41.42654751,
+      "longitude": -82.35009065,
+      "directions": "On Nantucket Place, Vermilion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302239",
+      "photo_urls": []
+    },
+    {
+      "id": "302240",
+      "title": "The Thriller / The Tumble Bug / The Miniature Train",
+      "latitude": 41.42659092,
+      "longitude": -82.3501084,
+      "directions": "On Nantucket Place, Vermilion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302240",
+      "photo_urls": []
+    },
+    {
+      "id": "302241",
+      "title": "Frederick William Wakefield / Harbor View",
+      "latitude": 41.42453769,
+      "longitude": -82.36617963,
+      "directions": "On Main Street, Vermilion, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302241",
+      "photo_urls": []
+    },
+    {
+      "id": "302242",
+      "title": "The Legacy of Otto Schoepfle",
+      "latitude": 41.32972021,
+      "longitude": -82.35057008,
+      "directions": "On Mills Street, Birmingham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302242",
+      "photo_urls": []
+    },
+    {
+      "id": "302243",
+      "title": "Schoepfle Rose Garden: Dedicated to Richard W. McGinnis",
+      "latitude": 41.3287645,
+      "longitude": -82.35089863,
+      "directions": "On Mill Street, Birmingham, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302243",
+      "photo_urls": []
+    },
+    {
+      "id": "302270",
+      "title": "History of Old Woman Creek",
+      "latitude": 41.37776242,
+      "longitude": -82.50883757,
+      "directions": "On Cleveland Road East (U.S. 6) , Ceylon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302270",
+      "photo_urls": []
+    },
+    {
+      "id": "302275",
+      "title": "Invasives",
+      "latitude": 41.3772515,
+      "longitude": -82.51006922,
+      "directions": "On Cleveland Road East (U.S. 6) , Ceylon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302275",
+      "photo_urls": []
+    },
+    {
+      "id": "302277",
+      "title": "The Value of Wetlands",
+      "latitude": 41.3772862,
+      "longitude": -82.51007652,
+      "directions": "On Cleveland Road East (U.S. 6) , Ceylon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302277",
+      "photo_urls": []
+    },
+    {
+      "id": "302279",
+      "title": "Ohio Department of Natural Resources Division of Natural Areas and Preserves",
+      "latitude": 41.40864844,
+      "longitude": -82.60276394,
+      "directions": "On Cleveland Road West (U.S. 6) , Huron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302279",
+      "photo_urls": []
+    },
+    {
+      "id": "302280",
+      "title": "Bedford Railroad Depot",
+      "latitude": 41.39024472,
+      "longitude": -81.53528136,
+      "directions": "Near South Park Street, Bedford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302280",
+      "photo_urls": []
+    },
+    {
+      "id": "302281",
+      "title": "Cedar Point in the Civil War",
+      "latitude": 41.48811773,
+      "longitude": -82.69363049,
+      "directions": "On Lighthouse Point, Sandusky, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302281",
+      "photo_urls": []
+    },
+    {
+      "id": "302282",
+      "title": "Lighthouse Point",
+      "latitude": 41.48814259,
+      "longitude": -82.69337247,
+      "directions": "On Beacon Byway, Sandusky, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302282",
+      "photo_urls": []
+    },
+    {
+      "id": "302295",
+      "title": "LakeView House",
+      "latitude": 41.45828042,
+      "longitude": -82.70894064,
+      "directions": "On East Water Street, Sandusky, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302295",
+      "photo_urls": []
+    },
+    {
+      "id": "302296",
+      "title": "Castalia",
+      "latitude": 41.39886845,
+      "longitude": -82.80822842,
+      "directions": "On South Washington Street, Castalia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302296",
+      "photo_urls": []
+    },
+    {
+      "id": "302495",
+      "title": "First Members of the Society of Mary in North America in 1849",
+      "latitude": 39.73913857,
+      "longitude": -84.17775954,
+      "directions": "On University Circle, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302495",
+      "photo_urls": []
+    },
+    {
+      "id": "302496",
+      "title": "Blessed",
+      "latitude": 39.73922557,
+      "longitude": -84.17536483,
+      "directions": "On Alumni Lane, Dayton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302496",
+      "photo_urls": []
+    },
+    {
+      "id": "302497",
+      "title": "Our Lady of the Pines",
+      "latitude": 39.73886368,
+      "longitude": -84.17334859,
+      "directions": "On Marycrest Lane, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302497",
+      "photo_urls": []
+    },
+    {
+      "id": "302502",
+      "title": "Campaign for the University of Dayton",
+      "latitude": 39.74008052,
+      "longitude": -84.17627362,
+      "directions": "On Alumni Lane, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302502",
+      "photo_urls": []
+    },
+    {
+      "id": "302503",
+      "title": "National Pan-Hellenic Council, Inc.",
+      "latitude": 39.74019297,
+      "longitude": -84.17622597,
+      "directions": "On Zehler Avenue, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302503",
+      "photo_urls": []
+    },
+    {
+      "id": "302512",
+      "title": "North Dayton Patriots Memorial",
+      "latitude": 39.76975143,
+      "longitude": -84.17664468,
+      "directions": "On Valley Street, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302512",
+      "photo_urls": []
+    },
+    {
+      "id": "302514",
+      "title": "Tony Stein Memorial Bridge",
+      "latitude": 39.76954628,
+      "longitude": -84.17651448,
+      "directions": "On Valley Street, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302514",
+      "photo_urls": []
+    },
+    {
+      "id": "302516",
+      "title": "Old North Dayton",
+      "latitude": 39.769514,
+      "longitude": -84.17648233,
+      "directions": "On Valley Street, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302516",
+      "photo_urls": []
+    },
+    {
+      "id": "302518",
+      "title": "The 1913 Flood - The Flood Gate - Remember the Promise Made in the Attic",
+      "latitude": 39.76959448,
+      "longitude": -84.17583189,
+      "directions": "On Valley Street, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302518",
+      "photo_urls": []
+    },
+    {
+      "id": "302527",
+      "title": "Veterans Memorial",
+      "latitude": 39.70091819,
+      "longitude": -84.3953958,
+      "directions": "On South Clayton Road, Farmersville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302527",
+      "photo_urls": []
+    },
+    {
+      "id": "302537",
+      "title": "Great Miami Turnpike",
+      "latitude": 39.69127522,
+      "longitude": -84.21517393,
+      "directions": "On South Dixie Drive, Moraine, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302537",
+      "photo_urls": []
+    },
+    {
+      "id": "302539",
+      "title": "The Miami-Erie Canal",
+      "latitude": 39.67995433,
+      "longitude": -84.23441307,
+      "directions": "On Marina Drive, West Carrollton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302539",
+      "photo_urls": []
+    },
+    {
+      "id": "302544",
+      "title": "Veterans of Foreign Wars Veterans Memorial",
+      "latitude": 39.68135713,
+      "longitude": -84.23160148,
+      "directions": "On Marina Drive, Wast Carrollton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302544",
+      "photo_urls": []
+    },
+    {
+      "id": "302547",
+      "title": "Vietnam Veterans Memorial",
+      "latitude": 39.68139374,
+      "longitude": -84.23158158,
+      "directions": "On Marina Drive, Wast Carrollton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302547",
+      "photo_urls": []
+    },
+    {
+      "id": "302548",
+      "title": "Veterans of Foreign Wars Hammond Memorial Post 3438",
+      "latitude": 39.68129276,
+      "longitude": -84.23166345,
+      "directions": "On Marina Drive, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302548",
+      "photo_urls": []
+    },
+    {
+      "id": "302552",
+      "title": "The Bandstand (Building 113)",
+      "latitude": 39.74171595,
+      "longitude": -84.25741125,
+      "directions": "On New York Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302552",
+      "photo_urls": []
+    },
+    {
+      "id": "302554",
+      "title": "The Grotto",
+      "latitude": 39.74228151,
+      "longitude": -84.25653311,
+      "directions": "On Kentucky Avenue, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302554",
+      "photo_urls": []
+    },
+    {
+      "id": "302555",
+      "title": "In Memoriam",
+      "latitude": 39.74235743,
+      "longitude": -84.25761686,
+      "directions": "On Kentucky Avenue, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302555",
+      "photo_urls": []
+    },
+    {
+      "id": "302556",
+      "title": "Lincoln's Promise",
+      "latitude": 39.74254901,
+      "longitude": -84.25818936,
+      "directions": "On Kentucky Avenue, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302556",
+      "photo_urls": []
+    },
+    {
+      "id": "302559",
+      "title": "Patient Library (Building 121)",
+      "latitude": 39.74277777,
+      "longitude": -84.25796174,
+      "directions": "On New Hampshire Avenue, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302559",
+      "photo_urls": []
+    },
+    {
+      "id": "302560",
+      "title": "The Protestant Chapel (Building 118)",
+      "latitude": 39.74322031,
+      "longitude": -84.25781983,
+      "directions": "On New Hampshire Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302560",
+      "photo_urls": []
+    },
+    {
+      "id": "302561",
+      "title": "Catholic Chapel (Building 119)",
+      "latitude": 39.74404525,
+      "longitude": -84.25835597,
+      "directions": "On Pennsylvania Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302561",
+      "photo_urls": []
+    },
+    {
+      "id": "302562",
+      "title": "Private Fair",
+      "latitude": 39.74203231,
+      "longitude": -84.26450071,
+      "directions": "On Kentucky Avenue, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302562",
+      "photo_urls": []
+    },
+    {
+      "id": "302567",
+      "title": "Native American Indians Veterans Memorial",
+      "latitude": 39.74764888,
+      "longitude": -84.25563414,
+      "directions": "On New Mexico Place, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302567",
+      "photo_urls": []
+    },
+    {
+      "id": "302568",
+      "title": "Freemasons of Ohio",
+      "latitude": 39.74762508,
+      "longitude": -84.25568704,
+      "directions": "On New Mexico Place, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302568",
+      "photo_urls": []
+    },
+    {
+      "id": "302569",
+      "title": "Navy Seabees",
+      "latitude": 39.74761868,
+      "longitude": -84.25572057,
+      "directions": "On New Mexico Place, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302569",
+      "photo_urls": []
+    },
+    {
+      "id": "302570",
+      "title": "\"A Promise Made - A Commitment Kept\"",
+      "latitude": 39.74697902,
+      "longitude": -84.25754674,
+      "directions": "On Wisconsin Avenue, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302570",
+      "photo_urls": []
+    },
+    {
+      "id": "302571",
+      "title": "AMVETS Carillon",
+      "latitude": 39.74667314,
+      "longitude": -84.25952132,
+      "directions": "On McMahon Avenue, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302571",
+      "photo_urls": []
+    },
+    {
+      "id": "302572",
+      "title": "A National Cemetery System",
+      "latitude": 39.74675283,
+      "longitude": -84.25984975,
+      "directions": "On Monument Avenue, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302572",
+      "photo_urls": []
+    },
+    {
+      "id": "302573",
+      "title": "Dayton National Cemetery Civil War Memorial",
+      "latitude": 39.7470045,
+      "longitude": -84.26018723,
+      "directions": "On Monument Avenue, Dayton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302573",
+      "photo_urls": []
+    },
+    {
+      "id": "302574",
+      "title": "Veterans Memorial",
+      "latitude": 39.74683404,
+      "longitude": -84.26063375,
+      "directions": "On Monument Avenue, Dayton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302574",
+      "photo_urls": []
+    },
+    {
+      "id": "302575",
+      "title": "Infantry Massachusetts 1st Cavalry",
+      "latitude": 39.74790293,
+      "longitude": -84.25956197,
+      "directions": "On McMahon Avenue, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302575",
+      "photo_urls": []
+    },
+    {
+      "id": "302577",
+      "title": "Rising to the Challenge",
+      "latitude": 39.75777778,
+      "longitude": -84.21916667,
+      "directions": "On Edison Street, Dayton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302577",
+      "photo_urls": []
+    },
+    {
+      "id": "302578",
+      "title": "America and Greece Veterans Memorial",
+      "latitude": 39.76664447,
+      "longitude": -84.20294697,
+      "directions": "On Belmonte Park North, Dayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302578",
       "photo_urls": []
     },
     {
@@ -96173,12 +99737,1470 @@
       "photo_urls": []
     },
     {
+      "id": "302620",
+      "title": "Welcome to Village of Hiram",
+      "latitude": 41.30303399,
+      "longitude": -81.14387994,
+      "directions": "On Twinsburg-Warren Road (State Route 700) , Hiram, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302620",
+      "photo_urls": []
+    },
+    {
+      "id": "302621",
+      "title": "Andrew Squire Homestead Site",
+      "latitude": 41.31110677,
+      "longitude": -81.14328808,
+      "directions": "On Garfield Road, Hiram, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302621",
+      "photo_urls": []
+    },
+    {
+      "id": "302622",
+      "title": "The Hiram College Arboretum",
+      "latitude": 41.31119234,
+      "longitude": -81.14395546,
+      "directions": "On Garfield Road, Hiram, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302622",
+      "photo_urls": []
+    },
+    {
+      "id": "302625",
+      "title": "Black Lives Matter installation",
+      "latitude": 41.31140207,
+      "longitude": -81.14428297,
+      "directions": "On Garfield Road, Hiram, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302625",
+      "photo_urls": []
+    },
+    {
+      "id": "302626",
+      "title": "Bowery Site",
+      "latitude": 41.29586883,
+      "longitude": -81.16766862,
+      "directions": "On Pioneer Trail, near Hiram, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302626",
+      "photo_urls": []
+    },
+    {
+      "id": "302629",
+      "title": "Union Soldiers of the Grand Army of the Republic of Ohio Memorial",
+      "latitude": 41.02192479,
+      "longitude": -81.14844376,
+      "directions": "On State Route 183, Atwater, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302629",
+      "photo_urls": []
+    },
+    {
+      "id": "302630",
+      "title": "Atwater Center Veterans & Firefighters Memorial",
+      "latitude": 41.02160507,
+      "longitude": -81.14845888,
+      "directions": "On State Route 183, Atwater Center, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302630",
+      "photo_urls": []
+    },
+    {
+      "id": "302631",
+      "title": "Atwater Cemetery Veterans Memorial",
+      "latitude": 41.02019989,
+      "longitude": -81.14826453,
+      "directions": "On State Route 183, Atwater Center, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302631",
+      "photo_urls": []
+    },
+    {
+      "id": "302632",
+      "title": "Aurora Veterans Memorial",
+      "latitude": 41.31773086,
+      "longitude": -81.34702671,
+      "directions": "On West Garfield Road, Aurora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302632",
+      "photo_urls": []
+    },
+    {
+      "id": "302633",
+      "title": "City of Aurora Veterans Memorial",
+      "latitude": 41.31782292,
+      "longitude": -81.34717705,
+      "directions": "On West Garfield Road, Aurora, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302633",
+      "photo_urls": []
+    },
+    {
+      "id": "302636",
+      "title": "The New Milford Post Office",
+      "latitude": 41.09800697,
+      "longitude": -81.24168304,
+      "directions": "On Cook Road, Rootstown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302636",
+      "photo_urls": []
+    },
+    {
+      "id": "302638",
+      "title": "James Russell 106 ft",
+      "latitude": 41.14937366,
+      "longitude": -81.3440895,
+      "directions": "On Midway Drive, Kent, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302638",
+      "photo_urls": []
+    },
+    {
+      "id": "302639",
+      "title": "Thomas M. Grace 163 ft",
+      "latitude": 41.15007886,
+      "longitude": -81.34356756,
+      "directions": "On Midway Drive, Kent, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302639",
+      "photo_urls": []
+    },
+    {
+      "id": "302640",
+      "title": "Alan Canfora 176 ft",
+      "latitude": 41.1500367,
+      "longitude": -81.34347841,
+      "directions": "On Midway Drive, Kent, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302640",
+      "photo_urls": []
+    },
+    {
+      "id": "302641",
+      "title": "Kent State Shootings Memorial",
+      "latitude": 41.15098012,
+      "longitude": -81.34380246,
+      "directions": "On Prentice Drive, Kent, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302641",
+      "photo_urls": []
+    },
+    {
+      "id": "302642",
+      "title": "Kent State Shootings Memorial",
+      "latitude": 41.15028062,
+      "longitude": -81.34328539,
+      "directions": "On Midway Drive, Kent, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302642",
+      "photo_urls": []
+    },
+    {
+      "id": "302643",
+      "title": "The Ebenezer-Sheldon Deed House Project",
+      "latitude": 41.31237829,
+      "longitude": -81.34462388,
+      "directions": "On East Pioneer Trail, Aurora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302643",
+      "photo_urls": []
+    },
+    {
+      "id": "302646",
+      "title": "Barn Foundation Stones",
+      "latitude": 41.31219741,
+      "longitude": -81.34452123,
+      "directions": "On East Pioneer Trail, Aurora, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302646",
+      "photo_urls": []
+    },
+    {
+      "id": "302647",
+      "title": "Veterans Memorial",
+      "latitude": 41.04772441,
+      "longitude": -81.39300193,
+      "directions": "On South Cleveland Avenue, Mogadore, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302647",
+      "photo_urls": []
+    },
+    {
+      "id": "302648",
+      "title": "Lest We Forget",
+      "latitude": 41.31017472,
+      "longitude": -81.24832308,
+      "directions": "On Twinsburg-Warren Road (State Route 82) , Mantua Center, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302648",
+      "photo_urls": []
+    },
+    {
+      "id": "302649",
+      "title": "Mantua Veterans Memorial",
+      "latitude": 41.30955297,
+      "longitude": -81.24442573,
+      "directions": "On Twinsburg-Warren Road (Route 82) , Mantua Center, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302649",
+      "photo_urls": []
+    },
+    {
+      "id": "302651",
+      "title": "Mantua Center Historic District on the National Register of Historic Places",
+      "latitude": 41.30943808,
+      "longitude": -81.24440693,
+      "directions": "On Twinsburg-Warrend Road (State Route 82) , Mantua Center, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302651",
+      "photo_urls": []
+    },
+    {
+      "id": "302656",
+      "title": "Mantua Center Christian Church",
+      "latitude": 41.30929562,
+      "longitude": -81.24393263,
+      "directions": "On Twinsburg-Warren Road, near Mantua Center, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302656",
+      "photo_urls": []
+    },
+    {
+      "id": "302657",
+      "title": "Mantua Township Hall",
+      "latitude": 41.30954497,
+      "longitude": -81.24365297,
+      "directions": "On Twinsburg-Warren Road (State Route 82) , Mantua Center, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302657",
+      "photo_urls": []
+    },
+    {
+      "id": "302659",
+      "title": "In Memoriam",
+      "latitude": 41.31388151,
+      "longitude": -81.73117721,
+      "directions": "On Royalton Road (State Route 82) , near North Royalton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302659",
+      "photo_urls": []
+    },
+    {
+      "id": "302660",
+      "title": "American Legion Post No. 11 Veterans Memorial",
+      "latitude": 39.70735114,
+      "longitude": -82.59683312,
+      "directions": "On Canal Street, Lancaster, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302660",
+      "photo_urls": []
+    },
+    {
+      "id": "302661",
+      "title": "Overland Inn",
+      "latitude": 40.98967162,
+      "longitude": -83.26039431,
+      "directions": "On Clay Street (U.S. 53) , McCutchenville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302661",
+      "photo_urls": []
+    },
+    {
+      "id": "302663",
+      "title": "These Cannons",
+      "latitude": 41.55937822,
+      "longitude": -83.6331849,
+      "directions": "On West Front Street, Perrysburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302663",
+      "photo_urls": []
+    },
+    {
+      "id": "302664",
+      "title": "The Story of the Riverside Park Cannons",
+      "latitude": 41.5593655,
+      "longitude": -83.63320483,
+      "directions": "On West Front Street, Perrysburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302664",
+      "photo_urls": []
+    },
+    {
+      "id": "302668",
+      "title": "East Akron Cemetery Veterans Memorial",
+      "latitude": 41.06813898,
+      "longitude": -81.48136385,
+      "directions": "On East Market Street (State Route 18) , Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302668",
+      "photo_urls": []
+    },
+    {
+      "id": "302672",
+      "title": "Site of the Public Square of Middlebury",
+      "latitude": 41.07090948,
+      "longitude": -81.4890619,
+      "directions": "On East Market Street (State Route 18) , Akron, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302672",
+      "photo_urls": []
+    },
+    {
+      "id": "302674",
+      "title": "Middlebury American Revolution Memorial",
+      "latitude": 41.07301274,
+      "longitude": -81.47812551,
+      "directions": "On Newton Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302674",
+      "photo_urls": []
+    },
+    {
+      "id": "302680",
+      "title": "Preserving \"The Jewel of the Canal\"",
+      "latitude": 41.09204875,
+      "longitude": -81.51811079,
+      "directions": "On West North Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302680",
+      "photo_urls": []
+    },
+    {
+      "id": "302681",
+      "title": "Jack E. Gieck",
+      "latitude": 41.09173735,
+      "longitude": -81.51854629,
+      "directions": "On West North Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302681",
+      "photo_urls": []
+    },
+    {
+      "id": "302682",
+      "title": "Robert Bruce Norton",
+      "latitude": 41.09175389,
+      "longitude": -81.51857805,
+      "directions": "On West North Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302682",
+      "photo_urls": []
+    },
+    {
+      "id": "302684",
+      "title": "Lynn Rodeman Metzger",
+      "latitude": 41.09179527,
+      "longitude": -81.51859043,
+      "directions": "On West North Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302684",
+      "photo_urls": []
+    },
+    {
+      "id": "302685",
+      "title": "Freitag Garden",
+      "latitude": 41.0915951,
+      "longitude": -81.51803562,
+      "directions": "On West North Street, Akron, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302685",
+      "photo_urls": []
+    },
+    {
+      "id": "302687",
+      "title": "Schumacher's Akron",
+      "latitude": 41.09028292,
+      "longitude": -81.51702555,
+      "directions": "On West North Street, Akron, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302687",
+      "photo_urls": []
+    },
+    {
+      "id": "302692",
+      "title": "Artists in the Plaza",
+      "latitude": 41.08599327,
+      "longitude": -81.51455535,
+      "directions": "On North High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302692",
+      "photo_urls": []
+    },
+    {
+      "id": "302711",
+      "title": "Tree For Life",
+      "latitude": 41.0799924,
+      "longitude": -81.51724706,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302711",
+      "photo_urls": []
+    },
+    {
+      "id": "302712",
+      "title": "Summit County Service Members Memorial",
+      "latitude": 41.07995489,
+      "longitude": -81.51724291,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302712",
+      "photo_urls": []
+    },
+    {
+      "id": "302713",
+      "title": "Summit County Vietnam Veterans Memorial",
+      "latitude": 41.07992632,
+      "longitude": -81.51725426,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302713",
+      "photo_urls": []
+    },
+    {
+      "id": "302714",
+      "title": "Summit County Korean War Killed in Action",
+      "latitude": 41.07989643,
+      "longitude": -81.5172732,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302714",
+      "photo_urls": []
+    },
+    {
+      "id": "302715",
+      "title": "Summit County World War II Veterans Memorial",
+      "latitude": 41.07979982,
+      "longitude": -81.51734012,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302715",
+      "photo_urls": []
+    },
+    {
+      "id": "302716",
+      "title": "Summit County World War II Veterans Memorial",
+      "latitude": 41.07977351,
+      "longitude": -81.51738022,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302716",
+      "photo_urls": []
+    },
+    {
+      "id": "302717",
+      "title": "Akron Alumni Memorial Stadium",
+      "latitude": 41.07974355,
+      "longitude": -81.51736589,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302717",
+      "photo_urls": []
+    },
+    {
+      "id": "302719",
+      "title": "The Akron Industrial Leaders Of The Past",
+      "latitude": 41.07989301,
+      "longitude": -81.51785164,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302719",
+      "photo_urls": []
+    },
+    {
+      "id": "302720",
+      "title": "Charles Goodyear",
+      "latitude": 41.08005743,
+      "longitude": -81.51734666,
+      "directions": "On South High Street, Akron, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302720",
+      "photo_urls": []
+    },
+    {
+      "id": "302745",
+      "title": "Twinsburgh Civil War Memorial",
+      "latitude": 41.312311,
+      "longitude": -81.441103,
+      "directions": "On Darrow Road (State Route 91) , Twinsburg, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302745",
+      "photo_urls": []
+    },
+    {
+      "id": "302748",
+      "title": "\"Peace and Joy\"",
+      "latitude": 41.13025425,
+      "longitude": -81.4835045,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302748",
+      "photo_urls": []
+    },
+    {
+      "id": "302750",
+      "title": "Harold E. Brust",
+      "latitude": 41.14266678,
+      "longitude": -81.4382,
+      "directions": "On North Main Street, Munroe Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302750",
+      "photo_urls": []
+    },
+    {
+      "id": "302751",
+      "title": "Hudson World War Memorial",
+      "latitude": 41.23953919,
+      "longitude": -81.44067217,
+      "directions": "On North Main Street, Hudson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302751",
+      "photo_urls": []
+    },
+    {
+      "id": "302752",
+      "title": "WRA Alumni War Memorial",
+      "latitude": 41.24534117,
+      "longitude": -81.43662985,
+      "directions": "On College Street, Hudson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302752",
+      "photo_urls": []
+    },
+    {
+      "id": "302753",
+      "title": "Seymour Hall",
+      "latitude": 41.24505655,
+      "longitude": -81.43642961,
+      "directions": "On College Street, Hudson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302753",
+      "photo_urls": []
+    },
+    {
+      "id": "302756",
+      "title": "History of the Cuyahoga Falls Fire Bell",
+      "latitude": 41.13271634,
+      "longitude": -81.48349994,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302756",
+      "photo_urls": []
+    },
+    {
+      "id": "302760",
+      "title": "Crossroads",
+      "latitude": 41.13404493,
+      "longitude": -81.48314996,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302760",
+      "photo_urls": []
+    },
+    {
+      "id": "302761",
+      "title": "Pilgrim Church",
+      "latitude": 41.13404551,
+      "longitude": -81.48312164,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302761",
+      "photo_urls": []
+    },
+    {
+      "id": "302762",
+      "title": "A Brief History of The Clock",
+      "latitude": 41.13408604,
+      "longitude": -81.48309553,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302762",
+      "photo_urls": []
+    },
+    {
+      "id": "302763",
+      "title": "Veterans Memorial",
+      "latitude": 41.13385914,
+      "longitude": -81.48357081,
+      "directions": "On Broad Boulevard, Cuyahoga Falls, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302763",
+      "photo_urls": []
+    },
+    {
+      "id": "302764",
+      "title": "Cuyahoga Falls Veterans Memorial",
+      "latitude": 41.13389822,
+      "longitude": -81.48389802,
+      "directions": "On Broad Boulevard, Cuyahoga Falls, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302764",
+      "photo_urls": []
+    },
+    {
+      "id": "302769",
+      "title": "Freedom Is Not Free",
+      "latitude": 41.13402838,
+      "longitude": -81.48501263,
+      "directions": "On Broad Boulevard, Cuyahoga Falls, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302769",
+      "photo_urls": []
+    },
+    {
+      "id": "302770",
+      "title": "Welcome To Cuyahoga Falls",
+      "latitude": 41.13489218,
+      "longitude": -81.48292894,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302770",
+      "photo_urls": []
+    },
+    {
+      "id": "302771",
+      "title": "Front Street",
+      "latitude": 41.13613054,
+      "longitude": -81.48279006,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302771",
+      "photo_urls": []
+    },
+    {
+      "id": "302772",
+      "title": "The History of Downtown Cuyahoga Falls",
+      "latitude": 41.13780423,
+      "longitude": -81.48263404,
+      "directions": "On Front Street, Cuyahoga Falls, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302772",
+      "photo_urls": []
+    },
+    {
+      "id": "302773",
+      "title": "Veterans Mmeorial",
+      "latitude": 41.31320357,
+      "longitude": -81.44168104,
+      "directions": "On Ravenna Road, Twinsburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302773",
+      "photo_urls": []
+    },
+    {
+      "id": "302774",
+      "title": "The Cost of Freedom Monument",
+      "latitude": 41.31323398,
+      "longitude": -81.44157645,
+      "directions": "On Ravenna Road, Twinsburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302774",
+      "photo_urls": []
+    },
+    {
+      "id": "302775",
+      "title": "In Memoriam World War II",
+      "latitude": 41.31205958,
+      "longitude": -81.44069286,
+      "directions": "On Ravenna Road, Twinsburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302775",
+      "photo_urls": []
+    },
+    {
+      "id": "302776",
+      "title": "Vietnam War Memorial",
+      "latitude": 41.31204576,
+      "longitude": -81.44065413,
+      "directions": "On Ravenna Road, Twinsburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302776",
+      "photo_urls": []
+    },
+    {
+      "id": "302777",
+      "title": "World War II and Korean Conflict Memorial",
+      "latitude": 41.31203072,
+      "longitude": -81.4406917,
+      "directions": "On Ravenna Road, Twinsburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302777",
+      "photo_urls": []
+    },
+    {
+      "id": "302778",
+      "title": "West Richfield Veterans Memorial",
+      "latitude": 41.24665237,
+      "longitude": -81.65810379,
+      "directions": "On Broadview Road, West Richfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302778",
+      "photo_urls": []
+    },
+    {
+      "id": "302779",
+      "title": "Captain Elijah Welton",
+      "latitude": 41.24668516,
+      "longitude": -81.65815666,
+      "directions": "On Broadview Road, West Richfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302779",
+      "photo_urls": []
+    },
+    {
+      "id": "302780",
+      "title": "West Richfield World War II Veterans Memorial",
+      "latitude": 41.2465833,
+      "longitude": -81.65808815,
+      "directions": "On Broadview Road, West Richfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302780",
+      "photo_urls": []
+    },
+    {
+      "id": "302781",
+      "title": "Purple Heart",
+      "latitude": 41.23985163,
+      "longitude": -81.65507301,
+      "directions": "On West Streetsboro Road (State Route 303) , West Richfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302781",
+      "photo_urls": []
+    },
+    {
+      "id": "302783",
+      "title": "Employee Military Veterans Non-Residents",
+      "latitude": 41.23996326,
+      "longitude": -81.65521147,
+      "directions": "On Broadview Road, West Richfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302783",
+      "photo_urls": []
+    },
+    {
+      "id": "302798",
+      "title": "Ohio Department of Natural Resources 75th Anniversary",
+      "latitude": 40.86743284,
+      "longitude": -84.60668965,
+      "directions": "On Leeson Avenue, Van Wert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302798",
+      "photo_urls": []
+    },
+    {
+      "id": "302804",
+      "title": "Van Wert County Wourld War II Veterans Memorial",
+      "latitude": 40.87120166,
+      "longitude": -84.59058587,
+      "directions": "On West Main Street, Van Wert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302804",
+      "photo_urls": []
+    },
+    {
+      "id": "302805",
+      "title": "Operation Desert Storm Veterans Memorial",
+      "latitude": 40.8712294,
+      "longitude": -84.59068434,
+      "directions": "On West Main Street, Van Wert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302805",
+      "photo_urls": []
+    },
+    {
+      "id": "302807",
+      "title": "Ohio National Guard",
+      "latitude": 40.87128326,
+      "longitude": -84.59061259,
+      "directions": "On West Main Street, Van Wert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302807",
+      "photo_urls": []
+    },
+    {
+      "id": "302809",
+      "title": "This Flag",
+      "latitude": 40.87131119,
+      "longitude": -84.59077582,
+      "directions": "On West Main Street, Van Wert, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302809",
+      "photo_urls": []
+    },
+    {
+      "id": "302812",
+      "title": "Hiestand Woods Park And Preserve Est. 1945",
+      "latitude": 40.85046835,
+      "longitude": -84.57348661,
+      "directions": "On Hospital Drive, Van Wert, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302812",
+      "photo_urls": []
+    },
+    {
+      "id": "302820",
+      "title": "William 'Shep' Sheppard",
+      "latitude": 39.41796347,
+      "longitude": -81.44968718,
+      "directions": "Near Putnam Street, Marietta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302820",
+      "photo_urls": []
+    },
+    {
+      "id": "302825",
+      "title": "In Honor of Those Who Served",
+      "latitude": 39.37100481,
+      "longitude": -84.21424026,
+      "directions": "On Broadway Street, South Lebanon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302825",
+      "photo_urls": []
+    },
+    {
+      "id": "302826",
+      "title": "South Lebanon Veterans Memorial",
+      "latitude": 39.37089958,
+      "longitude": -84.21428474,
+      "directions": "On Broadway Street, South Lebanon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302826",
+      "photo_urls": []
+    },
+    {
+      "id": "302827",
+      "title": "Kash D. Amburgy Park",
+      "latitude": 39.37347014,
+      "longitude": -84.21488177,
+      "directions": "On North High Street, South Lebanon, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302827",
+      "photo_urls": []
+    },
+    {
+      "id": "302828",
+      "title": "Marble Hall",
+      "latitude": 39.44500257,
+      "longitude": -84.27890077,
+      "directions": "On Lower Market Street (Route 741) , Otterbein, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302828",
+      "photo_urls": []
+    },
+    {
+      "id": "302830",
+      "title": "McKinney Media Center",
+      "latitude": 39.41794957,
+      "longitude": -81.44964279,
+      "directions": "Near Putnam Street, Marietta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302830",
+      "photo_urls": []
+    },
+    {
+      "id": "302831",
+      "title": "Charlotte Ferrell Vail",
+      "latitude": 39.54693761,
+      "longitude": -84.32026031,
+      "directions": "On Hamilton-Middletown Road, Franklin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302831",
+      "photo_urls": []
+    },
+    {
+      "id": "302834",
+      "title": "Carlisle School Buildings Memorial",
+      "latitude": 39.58783107,
+      "longitude": -84.32202408,
+      "directions": "On Jamaica Road, Carlisle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302834",
+      "photo_urls": []
+    },
+    {
+      "id": "302838",
+      "title": "Carlisle Centralized School",
+      "latitude": 39.5877781,
+      "longitude": -84.32201688,
+      "directions": "On Jamaica Road, Carlisle, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302838",
+      "photo_urls": []
+    },
+    {
+      "id": "302846",
+      "title": "Western Union Memorial",
+      "latitude": 41.38472148,
+      "longitude": -82.01807329,
+      "directions": "On Bainbridge Road, North Ridgeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302846",
+      "photo_urls": []
+    },
+    {
+      "id": "302852",
+      "title": "Lorain World War Memorial",
+      "latitude": 41.46510568,
+      "longitude": -82.18839655,
+      "directions": "On West 5th Street, Lorain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302852",
+      "photo_urls": []
+    },
+    {
+      "id": "302853",
+      "title": "Eaton Township Veterans Memorial",
+      "latitude": 41.34132644,
+      "longitude": -82.04721114,
+      "directions": "On Butternut Ridge Road, North Ridgeville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302853",
+      "photo_urls": []
+    },
+    {
+      "id": "302864",
+      "title": "Liberty & Justice For All",
+      "latitude": 40.14601092,
+      "longitude": -81.06792309,
+      "directions": "On Morristown Street (State Route 149) , Flushing, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302864",
+      "photo_urls": []
+    },
+    {
+      "id": "302865",
+      "title": "Spirit of Finland",
+      "latitude": 41.75549225,
+      "longitude": -81.27726646,
+      "directions": "On High Street, Fairport Harbor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302865",
+      "photo_urls": []
+    },
+    {
+      "id": "302869",
+      "title": "Swamp White Oak (Quercus bicolor)",
+      "latitude": 41.50996593,
+      "longitude": -82.94079542,
+      "directions": "On Madison Street, Port Clinton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302869",
+      "photo_urls": []
+    },
+    {
+      "id": "302879",
+      "title": "Beren Memorial Plaza",
+      "latitude": 39.41448755,
+      "longitude": -81.44867307,
+      "directions": "On 4th Street, Marietta, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302879",
+      "photo_urls": []
+    },
+    {
+      "id": "302893",
+      "title": "The Tuscarawas River",
+      "latitude": 40.84555,
+      "longitude": -81.52849,
+      "directions": "On Erie Avenue Northwest, near Massillon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302893",
+      "photo_urls": []
+    },
+    {
+      "id": "302923",
+      "title": "Battelle Walls of Honor and Remembrance",
+      "latitude": 40.00466304,
+      "longitude": -83.01753226,
+      "directions": "On Tuttle Park Place, Columbus, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302923",
+      "photo_urls": []
+    },
+    {
       "id": "30297",
       "title": "Pontiac Park",
       "latitude": 41.28938333,
       "longitude": -84.35845,
       "directions": "On East River Road (State Route 424) , Defiance, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30297",
+      "photo_urls": []
+    },
+    {
+      "id": "302980",
+      "title": "Memorial Circle",
+      "latitude": 41.50702093,
+      "longitude": -83.15791399,
+      "directions": "On West Water Street (State Route 105) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302980",
+      "photo_urls": []
+    },
+    {
+      "id": "302981",
+      "title": "This Boulder",
+      "latitude": 41.50701815,
+      "longitude": -83.15794376,
+      "directions": "On West Water Street (State Route 105) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302981",
+      "photo_urls": []
+    },
+    {
+      "id": "302998",
+      "title": "Civil War",
+      "latitude": 41.50699147,
+      "longitude": -83.15810493,
+      "directions": "Near West Water Street (State Route 105) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302998",
+      "photo_urls": []
+    },
+    {
+      "id": "303020",
+      "title": "Veterans Memorial",
+      "latitude": 39.951769,
+      "longitude": -82.79976405,
+      "directions": "On Lancaster Avenue (State Route 256) , Reynoldsburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303020",
+      "photo_urls": []
+    },
+    {
+      "id": "303021",
+      "title": "Civil War Memorial",
+      "latitude": 39.95177629,
+      "longitude": -82.79980715,
+      "directions": "Near Lancaster Avenue (State Route 256) , Reynoldsburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303021",
+      "photo_urls": []
+    },
+    {
+      "id": "303043",
+      "title": "Call to Duty Salute",
+      "latitude": 41.51408697,
+      "longitude": -82.74384854,
+      "directions": "On East Bayshore Road (County Route 135) , Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303043",
+      "photo_urls": []
+    },
+    {
+      "id": "303044",
+      "title": "Call to Duty Salute",
+      "latitude": 41.5564565,
+      "longitude": -82.84024192,
+      "directions": "On East Cemetery Road (County Route 144) , Catawba Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303044",
+      "photo_urls": []
+    },
+    {
+      "id": "303045",
+      "title": "Call to Duty Salute",
+      "latitude": 41.55719007,
+      "longitude": -82.83869264,
+      "directions": "On East Cemetery Road (County Route 144) , Catawba Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303045",
+      "photo_urls": []
+    },
+    {
+      "id": "303046",
+      "title": "Call to Duty Salute",
+      "latitude": 41.50876464,
+      "longitude": -82.8858558,
+      "directions": "On East State Road (County Route 8) , Gypsum, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303046",
+      "photo_urls": []
+    },
+    {
+      "id": "303047",
+      "title": "Call to Duty Salute",
+      "latitude": 41.51138794,
+      "longitude": -83.31966613,
+      "directions": "On South Opfer-Lentz Road (County Route 214) , Genoa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303047",
+      "photo_urls": []
+    },
+    {
+      "id": "303053",
+      "title": "Call to Duty Salute",
+      "latitude": 41.54095123,
+      "longitude": -82.7210597,
+      "directions": "On Lake Shore Drive, Lakeside Marblehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303053",
+      "photo_urls": []
+    },
+    {
+      "id": "303055",
+      "title": "Call to Duty Salute",
+      "latitude": 41.54115135,
+      "longitude": -82.72160298,
+      "directions": "On Lake Shore Drive, Lakeside Marblehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303055",
+      "photo_urls": []
+    },
+    {
+      "id": "303058",
+      "title": "Call to Duty Salute",
+      "latitude": 41.50079009,
+      "longitude": -82.7300965,
+      "directions": "On Memorial Shorway Drive, Johnson&#39;s Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303058",
+      "photo_urls": []
+    },
+    {
+      "id": "303060",
+      "title": "Civil War Memorial",
+      "latitude": 39.95177685,
+      "longitude": -82.79972915,
+      "directions": "On Lancaster Avenue (State Route 256) , Reynoldsburg, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303060",
+      "photo_urls": []
+    },
+    {
+      "id": "303063",
+      "title": "Call to Duty Salute",
+      "latitude": 41.58061416,
+      "longitude": -83.39716206,
+      "directions": "On North Billman Road (County Route 54) , Clay Center, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303063",
+      "photo_urls": []
+    },
+    {
+      "id": "303064",
+      "title": "Call to Duty Salute",
+      "latitude": 41.50722566,
+      "longitude": -82.85614895,
+      "directions": "On East State Road (County Route 8) , Gypsum, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303064",
+      "photo_urls": []
+    },
+    {
+      "id": "303065",
+      "title": "Lewis W. Krumm",
+      "latitude": 39.95216889,
+      "longitude": -82.79935626,
+      "directions": "Near Lancaster Avenue, Reynoldsburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303065",
+      "photo_urls": []
+    },
+    {
+      "id": "303067",
+      "title": "Call to Duty Salute",
+      "latitude": 41.54290343,
+      "longitude": -83.27444005,
+      "directions": "On Frederick Road, Elliston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303067",
+      "photo_urls": []
+    },
+    {
+      "id": "303071",
+      "title": "Heroes Not Forgotten",
+      "latitude": 40.17438178,
+      "longitude": -82.99142148,
+      "directions": "On Old State Road (County Route 10) , Orange Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303071",
+      "photo_urls": []
+    },
+    {
+      "id": "303075",
+      "title": "Call to Duty Salute",
+      "latitude": 41.47408347,
+      "longitude": -83.27839638,
+      "directions": "On Schults-Portage Road (County Route 47) , Elmore, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303075",
+      "photo_urls": []
+    },
+    {
+      "id": "303076",
+      "title": "Call to Duty Salute",
+      "latitude": 41.47278114,
+      "longitude": -83.27843193,
+      "directions": "On East Elmore Eastern Road (County Route 6) , Elmore, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303076",
+      "photo_urls": []
+    },
+    {
+      "id": "303078",
+      "title": "Call to Duty Salute",
+      "latitude": 41.46297564,
+      "longitude": -83.04914049,
+      "directions": "On South Paulsen Road (County Route 114) , Lacarne, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303078",
+      "photo_urls": []
+    },
+    {
+      "id": "303079",
+      "title": "\"Ohio Barn\"",
+      "latitude": 39.8421055,
+      "longitude": -82.80438227,
+      "directions": "On Waterloo Street, Canal Winchester, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303079",
+      "photo_urls": []
+    },
+    {
+      "id": "303080",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53662672,
+      "longitude": -83.03508767,
+      "directions": "On North Tettau Road (County Route 14) , Lacarne, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303080",
+      "photo_urls": []
+    },
+    {
+      "id": "303081",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53678718,
+      "longitude": -83.03382859,
+      "directions": "On West Lakeshore Drive, Lacarne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303081",
+      "photo_urls": []
+    },
+    {
+      "id": "303083",
+      "title": "Call to Duty Salute",
+      "latitude": 41.51056141,
+      "longitude": -82.95096367,
+      "directions": "On West 3rd Street, Port Clinton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303083",
+      "photo_urls": []
+    },
+    {
+      "id": "303085",
+      "title": "Call to Duty Salute",
+      "latitude": 41.51131927,
+      "longitude": -82.95106801,
+      "directions": "On Cemetery Lane, Port Clinton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303085",
+      "photo_urls": []
+    },
+    {
+      "id": "303086",
+      "title": "Call to Duty Salute",
+      "latitude": 41.55181205,
+      "longitude": -83.21649492,
+      "directions": "On West Toussaint North Road (County Route 62) , Limestone, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303086",
+      "photo_urls": []
+    },
+    {
+      "id": "303088",
+      "title": "Call to Duty Salute",
+      "latitude": 41.5959054,
+      "longitude": -83.10596475,
+      "directions": "On West Duff-Washa Road (County Route 24) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303088",
+      "photo_urls": []
+    },
+    {
+      "id": "303089",
+      "title": "Call to Duty Salute",
+      "latitude": 41.5096659,
+      "longitude": -82.9604898,
+      "directions": "On West Rose Lane, Port Clinton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303089",
+      "photo_urls": []
+    },
+    {
+      "id": "303091",
+      "title": "Call to Duty Salute",
+      "latitude": 41.493957,
+      "longitude": -83.1260743,
+      "directions": "On Grandview Drive (County Route 211) , Oak Harbor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303091",
+      "photo_urls": []
+    },
+    {
+      "id": "303092",
+      "title": "Call to Duty Salute",
+      "latitude": 41.4945863,
+      "longitude": -83.12656963,
+      "directions": "On Grandview Drive (County Route 211) , Oak Harbor, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303092",
+      "photo_urls": []
+    },
+    {
+      "id": "303093",
+      "title": "Call to Duty Salute",
+      "latitude": 41.56890765,
+      "longitude": -83.08680806,
+      "directions": "On North Toussaint South Road (County Route 104) , Oak Harbor, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303093",
+      "photo_urls": []
+    },
+    {
+      "id": "303095",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53412671,
+      "longitude": -82.7372274,
+      "directions": "On Two Cemeteries, Lakeside Marblehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303095",
+      "photo_urls": []
+    },
+    {
+      "id": "303096",
+      "title": "Call to Duty Salute",
+      "latitude": 41.48327135,
+      "longitude": -83.28755275,
+      "directions": "On State Route 105, Elmore, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303096",
+      "photo_urls": []
+    },
+    {
+      "id": "303118",
+      "title": "Ohio Native Plants",
+      "latitude": 39.63665833,
+      "longitude": -83.57419352,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303118",
+      "photo_urls": []
+    },
+    {
+      "id": "303146",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53130766,
+      "longitude": -82.7871154,
+      "directions": "On East Harbor Road (State Route 163) , Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303146",
+      "photo_urls": []
+    },
+    {
+      "id": "303147",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53029488,
+      "longitude": -82.78680863,
+      "directions": "On East Harbor Road (State Route 163) , Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303147",
+      "photo_urls": []
+    },
+    {
+      "id": "303148",
+      "title": "Call to Duty Salute",
+      "latitude": 41.53600738,
+      "longitude": -82.73892772,
+      "directions": "On Two Cemeteries, Lakeside Marblehead, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303148",
+      "photo_urls": []
+    },
+    {
+      "id": "303149",
+      "title": "Call to Duty Salute",
+      "latitude": 41.58760346,
+      "longitude": -83.16388277,
+      "directions": "On West Duff-Washa Road (County Route 24) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303149",
+      "photo_urls": []
+    },
+    {
+      "id": "303150",
+      "title": "Call to Duty Salute",
+      "latitude": 41.54085054,
+      "longitude": -82.72274418,
+      "directions": "On East Main Street (State Route 163) , Lakeside Marblehead, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303150",
+      "photo_urls": []
+    },
+    {
+      "id": "303151",
+      "title": "Call to Duty Salute",
+      "latitude": 41.52434511,
+      "longitude": -82.8060949,
+      "directions": "On Church Road (County Route 127) , Lakeside Marblehead, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303151",
+      "photo_urls": []
+    },
+    {
+      "id": "303156",
+      "title": "Ohio Native Plants",
+      "latitude": 39.63672852,
+      "longitude": -83.57423362,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303156",
+      "photo_urls": []
+    },
+    {
+      "id": "303159",
+      "title": "Call to Duty Salute",
+      "latitude": 41.52109774,
+      "longitude": -82.87604393,
+      "directions": "On East Harbor Road (State Route 163) , Gypsum, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303159",
+      "photo_urls": []
+    },
+    {
+      "id": "303160",
+      "title": "Call to Duty Salute",
+      "latitude": 41.50765188,
+      "longitude": -83.15636925,
+      "directions": "On West Water Street (State Route 105) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303160",
+      "photo_urls": []
+    },
+    {
+      "id": "303162",
+      "title": "Call to Duty Salute",
+      "latitude": 41.5056195,
+      "longitude": -83.15691428,
+      "directions": "On West Water Street (State Route 105) , Oak Harbor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303162",
+      "photo_urls": []
+    },
+    {
+      "id": "303169",
+      "title": "Call to Duty Salute",
+      "latitude": 41.50883716,
+      "longitude": -83.15604132,
+      "directions": "On West Water Street (State Route 105) , Oak Harbor, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303169",
+      "photo_urls": []
+    },
+    {
+      "id": "303173",
+      "title": "Ohio Native Plants",
+      "latitude": 39.63679278,
+      "longitude": -83.57411498,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303173",
+      "photo_urls": []
+    },
+    {
+      "id": "303177",
+      "title": "Call to Duty Salute",
+      "latitude": 41.60896568,
+      "longitude": -83.33822161,
+      "directions": "On North Martin Williston Road (County Route 7) , Willston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303177",
+      "photo_urls": []
+    },
+    {
+      "id": "303178",
+      "title": "Ohio Native Plants",
+      "latitude": 39.63682078,
+      "longitude": -83.5739753,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303178",
+      "photo_urls": []
+    },
+    {
+      "id": "303179",
+      "title": "Call to Duty Salute",
+      "latitude": 41.51763244,
+      "longitude": -82.74045401,
+      "directions": "On East Huron Trail, Lakeside Marblehead, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303179",
+      "photo_urls": []
+    },
+    {
+      "id": "303183",
+      "title": "Ohio's Physiographic Regions",
+      "latitude": 39.63682957,
+      "longitude": -83.5741418,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303183",
+      "photo_urls": []
+    },
+    {
+      "id": "303184",
+      "title": "Ohio Native Plants",
+      "latitude": 39.63690219,
+      "longitude": -83.5735847,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303184",
+      "photo_urls": []
+    },
+    {
+      "id": "303189",
+      "title": "Ohio Buckeye Tree",
+      "latitude": 39.63703181,
+      "longitude": -83.57371626,
+      "directions": "On Interstate 71, near Jeffersonville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303189",
+      "photo_urls": []
+    },
+    {
+      "id": "303193",
+      "title": "World War II Memorial",
+      "latitude": 39.2839055,
+      "longitude": -83.59249934,
+      "directions": "On U.S. 62, Samantha, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303193",
+      "photo_urls": []
+    },
+    {
+      "id": "303197",
+      "title": "The Oliver Plaza",
+      "latitude": 41.31097902,
+      "longitude": -81.14509014,
+      "directions": "Near Dean Street, Hiram, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303197",
+      "photo_urls": []
+    },
+    {
+      "id": "303198",
+      "title": "Bessie Coleman",
+      "latitude": 41.31132136,
+      "longitude": -81.14344324,
+      "directions": "On Garfield Road (State Route 700) , Hiram, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303198",
+      "photo_urls": []
+    },
+    {
+      "id": "303199",
+      "title": "The Paul E. Martin Common",
+      "latitude": 41.3110734,
+      "longitude": -81.14374039,
+      "directions": "On Garfield Road (State Route 700) , Hiram, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303199",
+      "photo_urls": []
+    },
+    {
+      "id": "303215",
+      "title": "Columbus Limestone / Kelleys Island Lime & Transport Co.",
+      "latitude": 41.61765611,
+      "longitude": -82.70576477,
+      "directions": "Near Division Street, Kelleys Island, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303215",
+      "photo_urls": []
+    },
+    {
+      "id": "303240",
+      "title": "Veterans Memorial Tree",
+      "latitude": 40.04815098,
+      "longitude": -84.2050119,
+      "directions": "On Riverside Drive, Troy, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303240",
+      "photo_urls": []
+    },
+    {
+      "id": "303241",
+      "title": "Veterans Memorial",
+      "latitude": 40.04814963,
+      "longitude": -84.20512269,
+      "directions": "On Riverside Drive, Troy, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303241",
+      "photo_urls": []
+    },
+    {
+      "id": "303243",
+      "title": "Leesburg Historic Buildings",
+      "latitude": 39.34506244,
+      "longitude": -83.55507592,
+      "directions": "On Main Street (State Route 28) , Leesburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303243",
+      "photo_urls": []
+    },
+    {
+      "id": "303284",
+      "title": "Leesburg American Legion Post 568 Charter Membership Roll",
+      "latitude": 39.34542932,
+      "longitude": -83.55502554,
+      "directions": "On Main Street (State Route 62) , Leesburg, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303284",
+      "photo_urls": []
+    },
+    {
+      "id": "303296",
+      "title": "Circa 1900",
+      "latitude": 41.31090867,
+      "longitude": -81.14566175,
+      "directions": "On Hayden Street, Hiram, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303296",
       "photo_urls": []
     },
     {
