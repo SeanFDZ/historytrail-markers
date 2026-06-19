@@ -3,9 +3,9 @@
   "region_name": "Illinois",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-22T06:04:31.517Z",
-  "source_timestamp": "2026-05-22T06:04:31.517Z",
-  "marker_count": 6200,
+  "generated": "2026-06-19T06:04:11.059Z",
+  "source_timestamp": "2026-06-19T06:04:11.059Z",
+  "marker_count": 6324,
   "markers": [
     {
       "id": "100606",
@@ -30772,9 +30772,9 @@
     {
       "id": "249926",
       "title": "The John Marshall Residence",
-      "latitude": 37.69416135,
-      "longitude": -88.13635826,
-      "directions": "On Main St., Old Shawneetown, (On the left when traveling south)",
+      "latitude": 37.69409218,
+      "longitude": -88.13636119,
+      "directions": "Near Main Street, Old Shawneetown, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=249926",
       "photo_urls": []
     },
@@ -34410,7 +34410,7 @@
       "title": "Welcome to Spring Valley",
       "latitude": 42.02741787,
       "longitude": -88.0514663,
-      "directions": "Near East Schaumburg Road, Schaumburg, (On the right when traveling east)",
+      "directions": "Near Schaumburg Road (County Route A66) , Schaumburg, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=259992",
       "photo_urls": []
     },
@@ -41583,7 +41583,7 @@
       "title": "Glenn R. Warning",
       "latitude": 41.498556,
       "longitude": -87.85230964,
-      "directions": "On Kansas Street, Frankfort, (On the right",
+      "directions": "On Kansas Street, Frankfort, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=279012",
       "photo_urls": []
     },
@@ -48024,7 +48024,7 @@
     },
     {
       "id": "299266",
-      "title": "Parados para Triunfar",
+      "title": "Unidos para Triunfar",
       "latitude": 41.90340289,
       "longitude": -87.67984311,
       "directions": "On North Hoyne Street, Chicago, (On the left when traveling north)",
@@ -48344,6 +48344,15 @@
       "longitude": -88.27620168,
       "directions": "On Wellington Street, Elgin, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299892",
+      "photo_urls": []
+    },
+    {
+      "id": "299895",
+      "title": "Adam’s Road Patrol #4",
+      "latitude": 38.45034839,
+      "longitude": -90.22909467,
+      "directions": "Near Bluff Road (County Route 6) , Columbia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299895",
       "photo_urls": []
     },
     {
@@ -48824,12 +48833,1119 @@
       "photo_urls": []
     },
     {
+      "id": "300194",
+      "title": "Oscar DePriest",
+      "latitude": 41.83465278,
+      "longitude": -87.61720278,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300194",
+      "photo_urls": []
+    },
+    {
+      "id": "300195",
+      "title": "Bishop Louis Henry Ford",
+      "latitude": 41.83419732,
+      "longitude": -87.61758609,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300195",
+      "photo_urls": []
+    },
+    {
+      "id": "300197",
+      "title": "Claude Albert Barnett / Etta Moten Barnett",
+      "latitude": 41.83324444,
+      "longitude": -87.61758333,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300197",
+      "photo_urls": []
+    },
+    {
+      "id": "300199",
+      "title": "Richard Wright",
+      "latitude": 41.83183611,
+      "longitude": -87.61751667,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300199",
+      "photo_urls": []
+    },
+    {
+      "id": "300200",
+      "title": "Fannie Barrier Williams",
+      "latitude": 41.83182222,
+      "longitude": -87.61754722,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300200",
+      "photo_urls": []
+    },
+    {
+      "id": "300201",
+      "title": "Lorraine Hansberry",
+      "latitude": 41.83182222,
+      "longitude": -87.61754722,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300201",
+      "photo_urls": []
+    },
+    {
+      "id": "300202",
+      "title": "Vivian Harsh",
+      "latitude": 41.83184444,
+      "longitude": -87.61754722,
+      "directions": "On South King Drive, Chicago, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300202",
+      "photo_urls": []
+    },
+    {
+      "id": "300203",
+      "title": "Earl “Fatha” Hines",
+      "latitude": 41.83101727,
+      "longitude": -87.61747077,
+      "directions": "On South Dr. Martin Luther King Drive, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300203",
+      "photo_urls": []
+    },
+    {
+      "id": "300409",
+      "title": "Jackson/Thomas House",
+      "latitude": 42.01035885,
+      "longitude": -87.68220957,
+      "directions": "On North Ridge Boulevard, Chicago, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300409",
+      "photo_urls": []
+    },
+    {
       "id": "30042",
       "title": "The Chatsworth Wreck",
       "latitude": 40.7476724,
       "longitude": -88.24007392,
       "directions": "On E 800 North Road (U.S. 24) , near Chatsworth, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30042",
+      "photo_urls": []
+    },
+    {
+      "id": "300474",
+      "title": "Devorah Leah Campus",
+      "latitude": 41.9973184,
+      "longitude": -87.70580686,
+      "directions": "On North Whipple Street, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300474",
+      "photo_urls": []
+    },
+    {
+      "id": "300501",
+      "title": "Site of First Log School",
+      "latitude": 42.03800794,
+      "longitude": -87.68784715,
+      "directions": "On Ridge Avenue, Evanston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300501",
+      "photo_urls": []
+    },
+    {
+      "id": "300503",
+      "title": "The Black House",
+      "latitude": 42.0526,
+      "longitude": -87.67743611,
+      "directions": "On Sheridan Road, Evanston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300503",
+      "photo_urls": []
+    },
+    {
+      "id": "300504",
+      "title": "Commemorative Trees",
+      "latitude": 42.02324167,
+      "longitude": -87.70008056,
+      "directions": "Near Mulford STreet, Evanston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300504",
+      "photo_urls": []
+    },
+    {
+      "id": "300633",
+      "title": "Veterans Memorial",
+      "latitude": 38.70136983,
+      "longitude": -90.14524849,
+      "directions": "On Niedringhaus Avenue, Granite City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300633",
+      "photo_urls": []
+    },
+    {
+      "id": "300852",
+      "title": "Fairy Tales of Hans Christian Andersen",
+      "latitude": 41.90081337,
+      "longitude": -87.7788549,
+      "directions": "On Hayes Avenue, Oak Park, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300852",
+      "photo_urls": []
+    },
+    {
+      "id": "300853",
+      "title": "The Life of Hans Christian Andersen",
+      "latitude": 41.90069284,
+      "longitude": -87.77883232,
+      "directions": "On Hayes Avenue, Oak Park, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300853",
+      "photo_urls": []
+    },
+    {
+      "id": "300855",
+      "title": "Origins of the Literary Fairy Tale",
+      "latitude": 41.90090556,
+      "longitude": -87.77887778,
+      "directions": "On Hayes Avenue, Oak Park, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300855",
+      "photo_urls": []
+    },
+    {
+      "id": "301109",
+      "title": "Pope Leo XIV",
+      "latitude": 41.83055867,
+      "longitude": -87.6339814,
+      "directions": "Near West 35th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301109",
+      "photo_urls": []
+    },
+    {
+      "id": "301254",
+      "title": "Nancy Faust Organist Booth",
+      "latitude": 41.83043191,
+      "longitude": -87.63468378,
+      "directions": "Near West 35th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301254",
+      "photo_urls": []
+    },
+    {
+      "id": "301429",
+      "title": "What Is a \"Chicago Style\" Hot Dog?",
+      "latitude": 41.82932839,
+      "longitude": -87.63287637,
+      "directions": "Near West 35th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301429",
+      "photo_urls": []
+    },
+    {
+      "id": "301434",
+      "title": "Mark Buerhle",
+      "latitude": 41.8290572,
+      "longitude": -87.63358322,
+      "directions": "On West 35th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301434",
+      "photo_urls": []
+    },
+    {
+      "id": "301436",
+      "title": "Old Comiskey Park Shower",
+      "latitude": 41.82982304,
+      "longitude": -87.6324396,
+      "directions": "Near West 35th Street, Chicago, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301436",
+      "photo_urls": []
+    },
+    {
+      "id": "301442",
+      "title": "Bourbonnais Veterans Memorial",
+      "latitude": 41.15949115,
+      "longitude": -87.88815361,
+      "directions": "On Main Street NW (State Route 102) , Bourbonnais, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301442",
+      "photo_urls": []
+    },
+    {
+      "id": "301443",
+      "title": "History of Bird Park Quarry",
+      "latitude": 41.12026282,
+      "longitude": -87.87778218,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301443",
+      "photo_urls": []
+    },
+    {
+      "id": "301445",
+      "title": "Let Freedom Ring Garden",
+      "latitude": 41.11280801,
+      "longitude": -87.87848632,
+      "directions": "On 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301445",
+      "photo_urls": []
+    },
+    {
+      "id": "301463",
+      "title": "Memorial Day Order",
+      "latitude": 41.11282752,
+      "longitude": -87.87849693,
+      "directions": "On 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301463",
+      "photo_urls": []
+    },
+    {
+      "id": "301473",
+      "title": "Columns of the Eastern Illinois Trust and Savings Bank",
+      "latitude": 41.11296944,
+      "longitude": -87.87899722,
+      "directions": "On South 8th Avenue, Kankakee, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301473",
+      "photo_urls": []
+    },
+    {
+      "id": "301477",
+      "title": "Baker School Bell",
+      "latitude": 41.11273056,
+      "longitude": -87.87894444,
+      "directions": "On South 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301477",
+      "photo_urls": []
+    },
+    {
+      "id": "301482",
+      "title": "Central School Bell",
+      "latitude": 41.11273056,
+      "longitude": -87.8788,
+      "directions": "Near 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301482",
+      "photo_urls": []
+    },
+    {
+      "id": "301581",
+      "title": "Taylor One-Room Schoolhouse",
+      "latitude": 41.11263855,
+      "longitude": -87.87897881,
+      "directions": "Near 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301581",
+      "photo_urls": []
+    },
+    {
+      "id": "301582",
+      "title": "Governor Len Small",
+      "latitude": 41.11238611,
+      "longitude": -87.87858611,
+      "directions": "On 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301582",
+      "photo_urls": []
+    },
+    {
+      "id": "301583",
+      "title": "Historical and Arts Building Governor Small Memorial",
+      "latitude": 41.11240278,
+      "longitude": -87.87860833,
+      "directions": "On 8th Avenue, Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301583",
+      "photo_urls": []
+    },
+    {
+      "id": "301585",
+      "title": "Lennington Small",
+      "latitude": 41.11976478,
+      "longitude": -87.86093915,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301585",
+      "photo_urls": []
+    },
+    {
+      "id": "301586",
+      "title": "Samuel Shapiro",
+      "latitude": 41.11973889,
+      "longitude": -87.86096944,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301586",
+      "photo_urls": []
+    },
+    {
+      "id": "301587",
+      "title": "George Ryan",
+      "latitude": 41.11974248,
+      "longitude": -87.86095727,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301587",
+      "photo_urls": []
+    },
+    {
+      "id": "301622",
+      "title": "Veterans Memorial Flag",
+      "latitude": 41.11977654,
+      "longitude": -87.86064495,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301622",
+      "photo_urls": []
+    },
+    {
+      "id": "301627",
+      "title": "Kankakee County Civil War Memorial",
+      "latitude": 41.11969537,
+      "longitude": -87.86066099,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301627",
+      "photo_urls": []
+    },
+    {
+      "id": "301678",
+      "title": "Gettysburg Address",
+      "latitude": 41.11941667,
+      "longitude": -87.86054167,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301678",
+      "photo_urls": []
+    },
+    {
+      "id": "301717",
+      "title": "Memorial Day Order",
+      "latitude": 41.11941944,
+      "longitude": -87.86049722,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301717",
+      "photo_urls": []
+    },
+    {
+      "id": "301734",
+      "title": "Kankakee County Veterans Memorial",
+      "latitude": 41.11969397,
+      "longitude": -87.86029097,
+      "directions": "On Court Street (State Route 17) , Kankakee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301734",
+      "photo_urls": []
+    },
+    {
+      "id": "301736",
+      "title": "Last Camping Ground of the Potawatomie Indians",
+      "latitude": 41.11925954,
+      "longitude": -87.86005325,
+      "directions": "On Harrison Avenue (State Route 50) , Kankakee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301736",
+      "photo_urls": []
+    },
+    {
+      "id": "301746",
+      "title": "Donald H. and Faith N. Bell West Campus",
+      "latitude": 41.14915917,
+      "longitude": -87.87668394,
+      "directions": "On Main Street (U.S. 45/52) , Bourbonnais, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301746",
+      "photo_urls": []
+    },
+    {
+      "id": "301764",
+      "title": "Wayne Michael Hayes Freedom Garden",
+      "latitude": 41.14933333,
+      "longitude": -87.87573889,
+      "directions": "On Main Street (U.S. 45/52) , Bourbonnais, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301764",
+      "photo_urls": []
+    },
+    {
+      "id": "301765",
+      "title": "The Freedom Sign",
+      "latitude": 41.14933333,
+      "longitude": -87.87574722,
+      "directions": "On Main Street (U.S. 45/52) , Bourbonnais, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301765",
+      "photo_urls": []
+    },
+    {
+      "id": "301767",
+      "title": "Chief Shawannassee",
+      "latitude": 41.21886,
+      "longitude": -87.98090279,
+      "directions": "Near 5000W (County Route 7) , Bourbonnais, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301767",
+      "photo_urls": []
+    },
+    {
+      "id": "301771",
+      "title": "The Israel Blodgett House",
+      "latitude": 41.79246389,
+      "longitude": -88.005425,
+      "directions": "On Maple Avenue, Downers Grove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301771",
+      "photo_urls": []
+    },
+    {
+      "id": "301772",
+      "title": "Heritage Garden",
+      "latitude": 41.79195,
+      "longitude": -88.00516389,
+      "directions": "On Maple Avenue, Downers Grove, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301772",
+      "photo_urls": []
+    },
+    {
+      "id": "301773",
+      "title": "Downer Family Well",
+      "latitude": 41.805375,
+      "longitude": -88.02178889,
+      "directions": "On Seeley Avenue, Downers Grove, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301773",
+      "photo_urls": []
+    },
+    {
+      "id": "301776",
+      "title": "Missionary Franciscan Sisters of the Immaculate Conception",
+      "latitude": 41.85857053,
+      "longitude": -87.90478252,
+      "directions": "On Wolf Road, Hillside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301776",
+      "photo_urls": []
+    },
+    {
+      "id": "301780",
+      "title": "At Peace Memorial",
+      "latitude": 41.85834167,
+      "longitude": -87.90499167,
+      "directions": "On Wolf Road, Hillside, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301780",
+      "photo_urls": []
+    },
+    {
+      "id": "301792",
+      "title": "Our Lady of the Angels School Fire Memorial",
+      "latitude": 41.8582255,
+      "longitude": -87.90950324,
+      "directions": "Near Wolf Road, Hillside, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301792",
+      "photo_urls": []
+    },
+    {
+      "id": "301990",
+      "title": "Thiruvalluvar",
+      "latitude": 42.02533333,
+      "longitude": -88.06527778,
+      "directions": "On Schaumburg Court, Schaumburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301990",
+      "photo_urls": []
+    },
+    {
+      "id": "302019",
+      "title": "Pointe Du Hoc",
+      "latitude": 38.96817024,
+      "longitude": -90.4220189,
+      "directions": "On Great River Road (State Route 100) , Grafton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302019",
+      "photo_urls": []
+    },
+    {
+      "id": "302134",
+      "title": "The Archaeological Conservancy",
+      "latitude": 39.69803318,
+      "longitude": -90.9613629,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302134",
+      "photo_urls": []
+    },
+    {
+      "id": "302147",
+      "title": "Woodland Area",
+      "latitude": 42.02526111,
+      "longitude": -88.06548333,
+      "directions": "Near Schaumburg Road (County Route A66) , Schaumburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302147",
+      "photo_urls": []
+    },
+    {
+      "id": "302159",
+      "title": "Welcome to Spring Valley",
+      "latitude": 42.02493333,
+      "longitude": -88.05774722,
+      "directions": "Near Schaumburg Road (County Route A66) , Schaumburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302159",
+      "photo_urls": []
+    },
+    {
+      "id": "302162",
+      "title": "A Cabin in the Woods",
+      "latitude": 42.02475833,
+      "longitude": -88.05456667,
+      "directions": "Near Schaumburg Road (County Route A66) , Schaumburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302162",
+      "photo_urls": []
+    },
+    {
+      "id": "302163",
+      "title": "Merkle Homestead",
+      "latitude": 42.02501389,
+      "longitude": -88.05502222,
+      "directions": "Near Schaumburg Road (County Route A66) , Schaumburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302163",
+      "photo_urls": []
+    },
+    {
+      "id": "302164",
+      "title": "Letting in the Light",
+      "latitude": 42.02459722,
+      "longitude": -88.05574722,
+      "directions": "Near Plum Grove Road, Schaumburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302164",
+      "photo_urls": []
+    },
+    {
+      "id": "302165",
+      "title": "Heritage Hot Dog Garden",
+      "latitude": 42.02435859,
+      "longitude": -88.05861423,
+      "directions": "Near Plum Grove Road, Schaumburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302165",
+      "photo_urls": []
+    },
+    {
+      "id": "302166",
+      "title": "Welcome to the Farm!",
+      "latitude": 42.02436389,
+      "longitude": -88.05638056,
+      "directions": "Near Plum Grove Road, Schaumburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302166",
+      "photo_urls": []
+    },
+    {
+      "id": "302167",
+      "title": "Welcome to the Farm!",
+      "latitude": 42.02421111,
+      "longitude": -88.06003611,
+      "directions": "On Plum Grove Road, Schaumburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302167",
+      "photo_urls": []
+    },
+    {
+      "id": "302168",
+      "title": "Welcome to Spring Valley",
+      "latitude": 42.0235451,
+      "longitude": -88.05975454,
+      "directions": "On Plum Grove Road, Schaumburg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302168",
+      "photo_urls": []
+    },
+    {
+      "id": "302169",
+      "title": "Into the Cubs Archives",
+      "latitude": 41.94880424,
+      "longitude": -87.6544433,
+      "directions": "Near North Sheffield Avenue, Chicago, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302169",
+      "photo_urls": []
+    },
+    {
+      "id": "302229",
+      "title": "Saint Joseph-Ogden High School Veterans Memorial",
+      "latitude": 40.11337726,
+      "longitude": -88.04231201,
+      "directions": "On Warren Street (U.S. 150) , Saint Joseph, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302229",
+      "photo_urls": []
+    },
+    {
+      "id": "302259",
+      "title": "Great River Road Illinois",
+      "latitude": 36.98792204,
+      "longitude": -89.15083871,
+      "directions": "On Ohio River Scenic Byway (U.S. 60/62) , Cairo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302259",
+      "photo_urls": []
+    },
+    {
+      "id": "302307",
+      "title": "Free Frank and Free Lucy McWorter",
+      "latitude": 39.69787832,
+      "longitude": -90.96141754,
+      "directions": "Near 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302307",
+      "photo_urls": []
+    },
+    {
+      "id": "302323",
+      "title": "Spaulding and Ann Burdick",
+      "latitude": 39.69764363,
+      "longitude": -90.96138648,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302323",
+      "photo_urls": []
+    },
+    {
+      "id": "302351",
+      "title": "David A. Kittle",
+      "latitude": 39.69784126,
+      "longitude": -90.96138295,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302351",
+      "photo_urls": []
+    },
+    {
+      "id": "302354",
+      "title": "Blacksmith Shop",
+      "latitude": 39.69764225,
+      "longitude": -90.96134248,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302354",
+      "photo_urls": []
+    },
+    {
+      "id": "302364",
+      "title": "John Bixler and Kezia Clark",
+      "latitude": 39.69742556,
+      "longitude": -90.96134993,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302364",
+      "photo_urls": []
+    },
+    {
+      "id": "302365",
+      "title": "Hadley Station",
+      "latitude": 39.69745866,
+      "longitude": -90.96130652,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302365",
+      "photo_urls": []
+    },
+    {
+      "id": "302366",
+      "title": "Rev. Christopher Sanborn Luce",
+      "latitude": 39.6974006,
+      "longitude": -90.96098738,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302366",
+      "photo_urls": []
+    },
+    {
+      "id": "302367",
+      "title": "The Deal Brothers",
+      "latitude": 37.76440861,
+      "longitude": -89.34177956,
+      "directions": "On Walnut Street (U.S. 149) , Murphysboro, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302367",
+      "photo_urls": []
+    },
+    {
+      "id": "302410",
+      "title": "Free Frank and Free Lucy McWorter Homestead",
+      "latitude": 39.69743962,
+      "longitude": -90.96091904,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302410",
+      "photo_urls": []
+    },
+    {
+      "id": "302411",
+      "title": "New Philadelphia Post Office",
+      "latitude": 39.69700681,
+      "longitude": -90.96094338,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302411",
+      "photo_urls": []
+    },
+    {
+      "id": "302413",
+      "title": "Squire and Louisa McWorter Homestead",
+      "latitude": 39.69658425,
+      "longitude": -90.96092656,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302413",
+      "photo_urls": []
+    },
+    {
+      "id": "302414",
+      "title": "New Philadelphia Landscape and McWorter Family Cemetery",
+      "latitude": 39.6965413,
+      "longitude": -90.96034402,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302414",
+      "photo_urls": []
+    },
+    {
+      "id": "302415",
+      "title": "James Washington (1855-1950)",
+      "latitude": 39.69668892,
+      "longitude": -90.96032953,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302415",
+      "photo_urls": []
+    },
+    {
+      "id": "302431",
+      "title": "Ft. Gage Village",
+      "latitude": 37.96103494,
+      "longitude": -89.90607182,
+      "directions": "On Kaskaskia Street (County Route 6) , Ellis Grove, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302431",
+      "photo_urls": []
+    },
+    {
+      "id": "302457",
+      "title": "LeMoyne Washington (1913-1998)",
+      "latitude": 39.69671971,
+      "longitude": -90.96033436,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302457",
+      "photo_urls": []
+    },
+    {
+      "id": "302467",
+      "title": "Martin and George Kimbro",
+      "latitude": 39.69683838,
+      "longitude": -90.96034406,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302467",
+      "photo_urls": []
+    },
+    {
+      "id": "302472",
+      "title": "Pike County Historic Structures",
+      "latitude": 39.69728515,
+      "longitude": -90.96046037,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302472",
+      "photo_urls": []
+    },
+    {
+      "id": "302475",
+      "title": "Welcome to New Philadelphia",
+      "latitude": 39.69792302,
+      "longitude": -90.96139225,
+      "directions": "On 306th Lane/Broad Street (County Route 2159E) , near Barry, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302475",
+      "photo_urls": []
+    },
+    {
+      "id": "302476",
+      "title": "Free Frank and Free Lucy McWorter",
+      "latitude": 39.6980672,
+      "longitude": -90.96132784,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302476",
+      "photo_urls": []
+    },
+    {
+      "id": "302477",
+      "title": "New Philadelphia: The Town, The Community",
+      "latitude": 39.69806996,
+      "longitude": -90.96129592,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302477",
+      "photo_urls": []
+    },
+    {
+      "id": "302480",
+      "title": "New Philadelphia",
+      "latitude": 39.69805949,
+      "longitude": -90.96126798,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302480",
+      "photo_urls": []
+    },
+    {
+      "id": "302485",
+      "title": "New Philadelphia and the Underground Railroad",
+      "latitude": 39.69804558,
+      "longitude": -90.96125074,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302485",
+      "photo_urls": []
+    },
+    {
+      "id": "302487",
+      "title": "New Philadelphia in the Civil War Era",
+      "latitude": 39.69801837,
+      "longitude": -90.96125301,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302487",
+      "photo_urls": []
+    },
+    {
+      "id": "302489",
+      "title": "How Many People Lived in New Philadelphia?",
+      "latitude": 39.6979982,
+      "longitude": -90.96128042,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302489",
+      "photo_urls": []
+    },
+    {
+      "id": "302491",
+      "title": "The Burdick Families of New Philadelphia",
+      "latitude": 39.69799755,
+      "longitude": -90.96130871,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302491",
+      "photo_urls": []
+    },
+    {
+      "id": "302493",
+      "title": "New Philadelphia Town Site",
+      "latitude": 39.69803677,
+      "longitude": -90.96129891,
+      "directions": "On County Route 2, near Barry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302493",
+      "photo_urls": []
+    },
+    {
+      "id": "302580",
+      "title": "Chicago & Eastern Illinois Railroad Water Column",
+      "latitude": 40.05505126,
+      "longitude": -88.55906301,
+      "directions": "Near Iron Horse Place, Monticello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302580",
+      "photo_urls": []
+    },
+    {
+      "id": "302637",
+      "title": "Lombard Baseball League",
+      "latitude": 41.87070727,
+      "longitude": -88.00429306,
+      "directions": "Near Harrison Road, Lombard, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302637",
+      "photo_urls": []
+    },
+    {
+      "id": "302721",
+      "title": "Canadian National 102",
+      "latitude": 40.05570746,
+      "longitude": -88.55812231,
+      "directions": "Near Iron Horse Place, Monticello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302721",
+      "photo_urls": []
+    },
+    {
+      "id": "302727",
+      "title": "Lincoln Sand & Gravel No. 44",
+      "latitude": 40.05549509,
+      "longitude": -88.55848463,
+      "directions": "Near Iron Horse Place, Monticello, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302727",
+      "photo_urls": []
+    },
+    {
+      "id": "302734",
+      "title": "Edwin Watts Southwind Park",
+      "latitude": 39.73222515,
+      "longitude": -89.6555215,
+      "directions": "Near South 2nd Street, Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302734",
+      "photo_urls": []
+    },
+    {
+      "id": "302786",
+      "title": "Selvaggio Historic Arches",
+      "latitude": 39.73221565,
+      "longitude": -89.65628771,
+      "directions": "Near South 2nd Street, Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302786",
+      "photo_urls": []
+    },
+    {
+      "id": "302821",
+      "title": "Original Dairy Queen Sign",
+      "latitude": 41.88386983,
+      "longitude": -88.01810281,
+      "directions": "On Maple Street, Lombard, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302821",
+      "photo_urls": []
+    },
+    {
+      "id": "302836",
+      "title": "Downtown Public Art Program",
+      "latitude": 41.88698889,
+      "longitude": -88.01851667,
+      "directions": "On Saint Charles Road, Lombard, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302836",
+      "photo_urls": []
+    },
+    {
+      "id": "302855",
+      "title": "Thomas B. Duffy Jr.",
+      "latitude": 41.87774167,
+      "longitude": -88.06144722,
+      "directions": "On Crescent Boulevard, Glen Ellyn, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302855",
+      "photo_urls": []
+    },
+    {
+      "id": "302856",
+      "title": "John F. Scull Jr.",
+      "latitude": 41.87771111,
+      "longitude": -88.06155278,
+      "directions": "On Crescent Boulevard, Glen Ellyn, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302856",
+      "photo_urls": []
+    },
+    {
+      "id": "302857",
+      "title": "Robert F. Morgan",
+      "latitude": 41.87763611,
+      "longitude": -88.06161389,
+      "directions": "On Crescent Boulevard, Glen Ellyn, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302857",
+      "photo_urls": []
+    },
+    {
+      "id": "302858",
+      "title": "Bruce Capel",
+      "latitude": 41.87755833,
+      "longitude": -88.06173056,
+      "directions": "On Crescent Boulevard, Glen Ellyn, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302858",
+      "photo_urls": []
+    },
+    {
+      "id": "302859",
+      "title": "Gold Star Mothers",
+      "latitude": 41.87746944,
+      "longitude": -88.06178333,
+      "directions": "On Crescent Boulevard, Glen Ellyn, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302859",
+      "photo_urls": []
+    },
+    {
+      "id": "302875",
+      "title": "Rotary Centennial Sundial Garden",
+      "latitude": 39.73170596,
+      "longitude": -89.65588554,
+      "directions": "Near South 2nd Street, Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302875",
+      "photo_urls": []
+    },
+    {
+      "id": "302889",
+      "title": "Veterans Memorial",
+      "latitude": 39.72950569,
+      "longitude": -89.65511798,
+      "directions": "Near South 2nd Street, Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302889",
+      "photo_urls": []
+    },
+    {
+      "id": "302891",
+      "title": "Benjamin Henderson",
+      "latitude": 39.73920619,
+      "longitude": -90.21174628,
+      "directions": "Near Myrtle Street, Jacksonville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302891",
+      "photo_urls": []
+    },
+    {
+      "id": "302900",
+      "title": "The Lincoln Highway - The nation’s first coast-to-coast highway!",
+      "latitude": 41.93140372,
+      "longitude": -88.96454835,
+      "directions": "On North Main Street, Creston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302900",
+      "photo_urls": []
+    },
+    {
+      "id": "302977",
+      "title": "Illinois Lincoln Highway",
+      "latitude": 41.93140563,
+      "longitude": -88.96452239,
+      "directions": "On North Main Street, Creston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302977",
+      "photo_urls": []
+    },
+    {
+      "id": "303004",
+      "title": "Illinois Lincoln Highway",
+      "latitude": 41.93137584,
+      "longitude": -88.9645194,
+      "directions": "On North Main Street, Creston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303004",
+      "photo_urls": []
+    },
+    {
+      "id": "303035",
+      "title": "Lincoln Highway",
+      "latitude": 41.93136984,
+      "longitude": -88.96454657,
+      "directions": "On North Main Street, Creston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303035",
+      "photo_urls": []
+    },
+    {
+      "id": "303049",
+      "title": "Maple Lake Makeover",
+      "latitude": 41.96191309,
+      "longitude": -88.07153358,
+      "directions": "On Circle Avenue, Bloomingdale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303049",
+      "photo_urls": []
+    },
+    {
+      "id": "303077",
+      "title": "The History of Headons",
+      "latitude": 41.93093726,
+      "longitude": -88.96495161,
+      "directions": "On North Main Street, Creston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303077",
+      "photo_urls": []
+    },
+    {
+      "id": "303100",
+      "title": "Veterans Memorial",
+      "latitude": 41.95742347,
+      "longitude": -88.06780205,
+      "directions": "On East Lake Street (U.S. 20) , Bloomingdale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303100",
+      "photo_urls": []
+    },
+    {
+      "id": "303101",
+      "title": "Roselle Veterans Memorial",
+      "latitude": 41.98362096,
+      "longitude": -88.07660665,
+      "directions": "On Irving Park Road (State Route 19) , Roselle, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303101",
+      "photo_urls": []
+    },
+    {
+      "id": "303125",
+      "title": "The Water Fountain and Mile Marker Below",
+      "latitude": 41.93093487,
+      "longitude": -88.964951,
+      "directions": "On North Main Street, Creston, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303125",
+      "photo_urls": []
+    },
+    {
+      "id": "303138",
+      "title": "1884 City and Town Hall",
+      "latitude": 41.92259438,
+      "longitude": -89.06731769,
+      "directions": "On 4th Avenue, Rochelle, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303138",
+      "photo_urls": []
+    },
+    {
+      "id": "303172",
+      "title": "Wm. H. Holcomb House",
+      "latitude": 41.92470199,
+      "longitude": -89.06907394,
+      "directions": "On North 7th Street (State Route 38/251) , Rochelle, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303172",
+      "photo_urls": []
+    },
+    {
+      "id": "303211",
+      "title": "World War II Honor Roll Memorial",
+      "latitude": 37.12385147,
+      "longitude": -88.62774661,
+      "directions": "On Paducah-Brookport Road (U.S. 45) , Brookport, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303211",
+      "photo_urls": []
+    },
+    {
+      "id": "303212",
+      "title": "Ruben Mendoza",
+      "latitude": 38.70162385,
+      "longitude": -90.15159813,
+      "directions": "On Niedringhaus Avenue, Granite City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303212",
+      "photo_urls": []
+    },
+    {
+      "id": "303217",
+      "title": "You Are Not Forgotten",
+      "latitude": 37.4683436,
+      "longitude": -88.1662876,
+      "directions": "On Canal Street (State Route 1) , Cave-In-Rock, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303217",
+      "photo_urls": []
+    },
+    {
+      "id": "303219",
+      "title": "You Are Not Forgotten",
+      "latitude": 37.44713163,
+      "longitude": -88.3049638,
+      "directions": "On Main Street, Elizabethtown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303219",
       "photo_urls": []
     },
     {
@@ -53218,8 +54334,8 @@
     {
       "id": "60312",
       "title": "Marshall House",
-      "latitude": 37.69404983,
-      "longitude": -88.13650514,
+      "latitude": 37.69416212,
+      "longitude": -88.13653489,
       "directions": "On Main Street, Old Shawneetown, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=60312",
       "photo_urls": []
