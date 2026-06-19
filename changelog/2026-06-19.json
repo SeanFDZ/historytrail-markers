@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-19",
+  "run_id": 171,
+  "cycle_day": 2,
+  "regions_processed": [
+    "us-fl"
+  ],
+  "changes": {
+    "us-fl": {
+      "added": 7807,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 42119,
+  "total_removed": 0,
+  "total_modified": 0
+}
