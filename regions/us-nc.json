@@ -3,9 +3,9 @@
   "region_name": "North Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-23T06:03:55.885Z",
-  "source_timestamp": "2026-05-23T06:03:55.885Z",
-  "marker_count": 6611,
+  "generated": "2026-06-20T06:03:27.171Z",
+  "source_timestamp": "2026-06-20T06:03:27.171Z",
+  "marker_count": 6679,
   "markers": [
     {
       "id": "100040",
@@ -17301,7 +17301,7 @@
       "title": "Federal Line of March",
       "latitude": 35.468304,
       "longitude": -78.38486,
-      "directions": "On U.S. 301, near Smithfield, (On the right when traveling north)",
+      "directions": "On South Lakeside Drive (U.S. 301) , Four Oaks, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=222858",
       "photo_urls": []
     },
@@ -45242,6 +45242,24 @@
       "photo_urls": []
     },
     {
+      "id": "299548",
+      "title": "Davidson Alumni World War II Memorial",
+      "latitude": 35.5007667,
+      "longitude": -80.8465945,
+      "directions": "Near North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299548",
+      "photo_urls": []
+    },
+    {
+      "id": "299554",
+      "title": "Davidson College War Memorial",
+      "latitude": 35.5007801,
+      "longitude": -80.8465909,
+      "directions": "Near North Main Street (State Route 115) , Davidson, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299554",
+      "photo_urls": []
+    },
+    {
       "id": "299594",
       "title": "Judge Hiram H. Ward",
       "latitude": 35.63419406,
@@ -45251,12 +45269,57 @@
       "photo_urls": []
     },
     {
+      "id": "299601",
+      "title": "Joseph Knox Building, 1922",
+      "latitude": 35.4985386,
+      "longitude": -80.8489036,
+      "directions": "On South Main Street (State Route 115) , Davidson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299601",
+      "photo_urls": []
+    },
+    {
+      "id": "299603",
+      "title": "Davidson 1901 Fire",
+      "latitude": 35.4989498,
+      "longitude": -80.848694,
+      "directions": "On South Main Street (State Route 115) , Davidson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299603",
+      "photo_urls": []
+    },
+    {
+      "id": "299606",
+      "title": "Davidson Town Well",
+      "latitude": 35.4993644,
+      "longitude": -80.8485095,
+      "directions": "On North Main Street (State Route 115) , Davidson, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299606",
+      "photo_urls": []
+    },
+    {
+      "id": "299615",
+      "title": "Davidson Veterans Monument",
+      "latitude": 35.4995565,
+      "longitude": -80.8486315,
+      "directions": "On North Main Street (State Route 115) , Davidson, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299615",
+      "photo_urls": []
+    },
+    {
       "id": "299616",
       "title": "America’s Favorite Drive",
       "latitude": 35.56573611,
       "longitude": -82.48650278,
       "directions": "Near Hemphill Knob Road, near Asheville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299616",
+      "photo_urls": []
+    },
+    {
+      "id": "299628",
+      "title": "Helper Hotel",
+      "latitude": 35.50058352,
+      "longitude": -80.84802477,
+      "directions": "Near North Main Street (State Route 115) , Davidson, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299628",
       "photo_urls": []
     },
     {
@@ -45332,6 +45395,15 @@
       "photo_urls": []
     },
     {
+      "id": "299795",
+      "title": "Maudell's Garden",
+      "latitude": 35.2266182,
+      "longitude": -80.8466563,
+      "directions": "On South Church Street, Charlotte, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299795",
+      "photo_urls": []
+    },
+    {
       "id": "299928",
       "title": "The Octagon House",
       "latitude": 35.48492783,
@@ -45350,12 +45422,30 @@
       "photo_urls": []
     },
     {
+      "id": "299934",
+      "title": "An American Classic",
+      "latitude": 35.27331667,
+      "longitude": -82.44521389,
+      "directions": "Near Little River Road, Flat Rock, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299934",
+      "photo_urls": []
+    },
+    {
       "id": "29995",
       "title": "Pioneer Plant",
       "latitude": 36.087479,
       "longitude": -79.415208,
       "directions": "On Graham Street, Burlington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29995",
+      "photo_urls": []
+    },
+    {
+      "id": "299950",
+      "title": "A Mountain Farm",
+      "latitude": 35.27091111,
+      "longitude": -82.44856389,
+      "directions": "On Carl Sandburg Lane, Flat Rock, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299950",
       "photo_urls": []
     },
     {
@@ -45386,6 +45476,231 @@
       "photo_urls": []
     },
     {
+      "id": "300400",
+      "title": "Buck Spring Lodge",
+      "latitude": 35.41509167,
+      "longitude": -82.74853611,
+      "directions": "On Blue Ridge Parkway, near Canton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300400",
+      "photo_urls": []
+    },
+    {
+      "id": "300401",
+      "title": "A Shifting Shoreline, An Imperiled Lighthouse",
+      "latitude": 35.25328611,
+      "longitude": -75.52361389,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300401",
+      "photo_urls": []
+    },
+    {
+      "id": "300464",
+      "title": "Jim Abbott",
+      "latitude": 36.0913311,
+      "longitude": -80.2555961,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300464",
+      "photo_urls": []
+    },
+    {
+      "id": "300467",
+      "title": "Tim Anderson",
+      "latitude": 36.0913311,
+      "longitude": -80.2555961,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300467",
+      "photo_urls": []
+    },
+    {
+      "id": "300469",
+      "title": "Eddy Alvarez",
+      "latitude": 36.0913475,
+      "longitude": -80.2556283,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300469",
+      "photo_urls": []
+    },
+    {
+      "id": "300471",
+      "title": "Dylan Cease",
+      "latitude": 36.0913564,
+      "longitude": -80.2556816,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300471",
+      "photo_urls": []
+    },
+    {
+      "id": "300472",
+      "title": "Aaron Boone",
+      "latitude": 36.0913564,
+      "longitude": -80.2556816,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300472",
+      "photo_urls": []
+    },
+    {
+      "id": "300473",
+      "title": "Wade Boggs",
+      "latitude": 36.0913564,
+      "longitude": -80.2556816,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300473",
+      "photo_urls": []
+    },
+    {
+      "id": "300520",
+      "title": "Inching Inland",
+      "latitude": 35.25188889,
+      "longitude": -75.52608611,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300520",
+      "photo_urls": []
+    },
+    {
+      "id": "300537",
+      "title": "Lighthouse Move Path",
+      "latitude": 35.25302222,
+      "longitude": -75.52397222,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300537",
+      "photo_urls": []
+    },
+    {
+      "id": "300583",
+      "title": "Veterans Memorial",
+      "latitude": 35.59753056,
+      "longitude": -78.12573889,
+      "directions": "On West 2nd Street (State Route 222) , Kenly, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300583",
+      "photo_urls": []
+    },
+    {
+      "id": "300584",
+      "title": "Federal Line of March",
+      "latitude": 35.46834444,
+      "longitude": -78.38486389,
+      "directions": "On South Lakeside Drive (U.S. 301) , Four Oaks, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300584",
+      "photo_urls": []
+    },
+    {
+      "id": "300682",
+      "title": "Doug Glanville",
+      "latitude": 36.0914397,
+      "longitude": -80.2558661,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300682",
+      "photo_urls": []
+    },
+    {
+      "id": "300685",
+      "title": "Joe Girardi",
+      "latitude": 36.0914163,
+      "longitude": -80.255851,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300685",
+      "photo_urls": []
+    },
+    {
+      "id": "300690",
+      "title": "Jon Garland",
+      "latitude": 36.0914163,
+      "longitude": -80.255851,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300690",
+      "photo_urls": []
+    },
+    {
+      "id": "300694",
+      "title": "Luis Robert",
+      "latitude": 36.0918319,
+      "longitude": -80.2561035,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300694",
+      "photo_urls": []
+    },
+    {
+      "id": "300727",
+      "title": "Carlos Rodon",
+      "latitude": 36.0918299,
+      "longitude": -80.2561031,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300727",
+      "photo_urls": []
+    },
+    {
+      "id": "300733",
+      "title": "Aaron Rowand",
+      "latitude": 36.0918297,
+      "longitude": -80.2561009,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300733",
+      "photo_urls": []
+    },
+    {
+      "id": "300736",
+      "title": "Chris Sale",
+      "latitude": 36.0918314,
+      "longitude": -80.2560992,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300736",
+      "photo_urls": []
+    },
+    {
+      "id": "300740",
+      "title": "Marcus Semien",
+      "latitude": 36.0918336,
+      "longitude": -80.256096,
+      "directions": "Near 951 Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300740",
+      "photo_urls": []
+    },
+    {
+      "id": "300743",
+      "title": "Gavin Sheets",
+      "latitude": 36.0918191,
+      "longitude": -80.2560713,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300743",
+      "photo_urls": []
+    },
+    {
+      "id": "300746",
+      "title": "Nick Madrigal",
+      "latitude": 36.0917679,
+      "longitude": -80.2560658,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300746",
+      "photo_urls": []
+    },
+    {
+      "id": "300802",
+      "title": "Student Sit In",
+      "latitude": 35.78366211,
+      "longitude": -80.88828617,
+      "directions": "On South Center Street, Statesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300802",
+      "photo_urls": []
+    },
+    {
+      "id": "301152",
+      "title": "Salem Moravian Graveyard",
+      "latitude": 36.08959838,
+      "longitude": -80.24164193,
+      "directions": "Near South Church Street, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301152",
+      "photo_urls": []
+    },
+    {
+      "id": "301153",
+      "title": "Salem Moravian Graveyard",
+      "latitude": 36.0892398,
+      "longitude": -80.2416129,
+      "directions": "On South Church Street, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301153",
+      "photo_urls": []
+    },
+    {
       "id": "30120",
       "title": "Ashe Monument",
       "latitude": 35.59523,
@@ -45395,12 +45710,246 @@
       "photo_urls": []
     },
     {
+      "id": "301267",
+      "title": "The Little Red Factory",
+      "latitude": 36.09549167,
+      "longitude": -80.24154167,
+      "directions": "On North Chestnut Street, Winston-Salem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301267",
+      "photo_urls": []
+    },
+    {
+      "id": "301373",
+      "title": "Raiders in Lenoir",
+      "latitude": 35.913733,
+      "longitude": -81.53928,
+      "directions": "On Harper Avenue Northwest, Lenoir, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301373",
+      "photo_urls": []
+    },
+    {
+      "id": "301374",
+      "title": "Raiders in Lenoir",
+      "latitude": 35.91372,
+      "longitude": -81.53931,
+      "directions": "On Harper Avenue Southwest, Lenoir, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301374",
+      "photo_urls": []
+    },
+    {
+      "id": "301385",
+      "title": "Millstone from Thomas C. Thatham Mill",
+      "latitude": 35.0867169,
+      "longitude": -84.0331338,
+      "directions": "Near Peachtree Street, Murphy, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301385",
+      "photo_urls": []
+    },
+    {
+      "id": "301393",
+      "title": "Tsali",
+      "latitude": 35.08681457,
+      "longitude": -84.03299451,
+      "directions": "Near Peachtree Street, Murphy, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301393",
+      "photo_urls": []
+    },
+    {
+      "id": "301398",
+      "title": "Cherokee War",
+      "latitude": 35.087552,
+      "longitude": -84.034184,
+      "directions": "On Peachtree Street, Murphy, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301398",
+      "photo_urls": []
+    },
+    {
+      "id": "301405",
+      "title": "In Memory of the Servicemen of Cherokee County",
+      "latitude": 35.0869208,
+      "longitude": -84.0332464,
+      "directions": "On Peachtree Street, Murphy, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301405",
+      "photo_urls": []
+    },
+    {
+      "id": "301458",
+      "title": "Dwight Evans",
+      "latitude": 36.0917268,
+      "longitude": -80.2560779,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301458",
+      "photo_urls": []
+    },
+    {
+      "id": "301461",
+      "title": "Cecil Cooper",
+      "latitude": 36.0917268,
+      "longitude": -80.2560779,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301461",
+      "photo_urls": []
+    },
+    {
+      "id": "301464",
+      "title": "George Kissel",
+      "latitude": 36.0917336,
+      "longitude": -80.2560791,
+      "directions": "On Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301464",
+      "photo_urls": []
+    },
+    {
+      "id": "301465",
+      "title": "Lighthouse Move Path",
+      "latitude": 35.25292778,
+      "longitude": -75.52426944,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301465",
+      "photo_urls": []
+    },
+    {
+      "id": "301466",
+      "title": "Eloy Jimenez",
+      "latitude": 36.091741,
+      "longitude": -80.2560787,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301466",
+      "photo_urls": []
+    },
+    {
+      "id": "301468",
+      "title": "Jamie Moyer",
+      "latitude": 36.0917503,
+      "longitude": -80.2560779,
+      "directions": "Near Ballpark Way, Winston-Salem, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301468",
+      "photo_urls": []
+    },
+    {
       "id": "30151",
       "title": "Young Men’s Institute",
       "latitude": 35.5951,
       "longitude": -82.55037,
       "directions": "On S. Market St., Asheville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30151",
+      "photo_urls": []
+    },
+    {
+      "id": "301532",
+      "title": "North Carolina",
+      "latitude": 35.26649167,
+      "longitude": -78.67195833,
+      "directions": "On State Route 82, near Dunn, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301532",
+      "photo_urls": []
+    },
+    {
+      "id": "301566",
+      "title": "Confederate Women's Home",
+      "latitude": 35.26613333,
+      "longitude": -78.67220278,
+      "directions": "On State Route 82, near Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301566",
+      "photo_urls": []
+    },
+    {
+      "id": "301567",
+      "title": "North Carolina State Flag of 1861-1865",
+      "latitude": 35.26609722,
+      "longitude": -78.67221111,
+      "directions": "On Route 82, near Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301567",
+      "photo_urls": []
+    },
+    {
+      "id": "301568",
+      "title": "National Flag of the Confederacy",
+      "latitude": 35.26608333,
+      "longitude": -78.67220278,
+      "directions": "On State Route 82, Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301568",
+      "photo_urls": []
+    },
+    {
+      "id": "301569",
+      "title": "United States Flag of 1864",
+      "latitude": 35.266075,
+      "longitude": -78.67219444,
+      "directions": "On State Route 82, near Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301569",
+      "photo_urls": []
+    },
+    {
+      "id": "301570",
+      "title": "Dunn High School Sit-Ins",
+      "latitude": 35.31110278,
+      "longitude": -78.61718056,
+      "directions": "On West Cumberland Street (U.S. 421) , Dunn, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301570",
+      "photo_urls": []
+    },
+    {
+      "id": "301571",
+      "title": "Hickory Elks Patriots Pole",
+      "latitude": 35.7323076,
+      "longitude": -81.3443212,
+      "directions": "On Main Avenue Northwest, Hickory, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301571",
+      "photo_urls": []
+    },
+    {
+      "id": "301573",
+      "title": "Lighthouse Move Path",
+      "latitude": 35.25248611,
+      "longitude": -75.5251,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301573",
+      "photo_urls": []
+    },
+    {
+      "id": "301574",
+      "title": "Light House Move Path",
+      "latitude": 35.25133889,
+      "longitude": -75.52691667,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301574",
+      "photo_urls": []
+    },
+    {
+      "id": "301575",
+      "title": "Lighthouse Move Path",
+      "latitude": 35.25138056,
+      "longitude": -75.52684722,
+      "directions": "Near Lighthouse Road, Buxton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301575",
+      "photo_urls": []
+    },
+    {
+      "id": "301660",
+      "title": "Confederate Commanders at Averasboro / Union Commanders at Averasboro",
+      "latitude": 35.26664722,
+      "longitude": -78.67201111,
+      "directions": "On State Route 82, Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301660",
+      "photo_urls": []
+    },
+    {
+      "id": "301674",
+      "title": "Underground Barn Quilt Trail",
+      "latitude": 35.26676667,
+      "longitude": -78.67188889,
+      "directions": "On State Route 82, near Dunn, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301674",
+      "photo_urls": []
+    },
+    {
+      "id": "301906",
+      "title": "Knotts Island Salt Works",
+      "latitude": 36.50793333,
+      "longitude": -75.920775,
+      "directions": "Near Brumley Road, Knotts Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301906",
       "photo_urls": []
     },
     {
@@ -45422,12 +45971,75 @@
       "photo_urls": []
     },
     {
+      "id": "302076",
+      "title": "Mackay Island National Wildlife Refuge",
+      "latitude": 36.51746389,
+      "longitude": -75.92537778,
+      "directions": "On Knotts Island Road, Knotts Island, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302076",
+      "photo_urls": []
+    },
+    {
+      "id": "302077",
+      "title": "Partnership in Wildlife Management",
+      "latitude": 36.51739167,
+      "longitude": -75.92533056,
+      "directions": "On MacKay Island Road, Knotts Island, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302077",
+      "photo_urls": []
+    },
+    {
       "id": "30224",
       "title": "Historic Hilltop",
       "latitude": 35.59613,
       "longitude": -82.55628,
       "directions": "Near Page Avenue, Asheville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30224",
+      "photo_urls": []
+    },
+    {
+      "id": "302417",
+      "title": "Long Island N.C.",
+      "latitude": 35.67747,
+      "longitude": -80.98128,
+      "directions": "On Long Island Road, Catawba, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302417",
+      "photo_urls": []
+    },
+    {
+      "id": "302423",
+      "title": "Hickory Regional Airport",
+      "latitude": 35.74325,
+      "longitude": -81.38689,
+      "directions": "On 9th Avenue Drive Northwest, Hickory, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302423",
+      "photo_urls": []
+    },
+    {
+      "id": "302425",
+      "title": "Dunroy Quarry",
+      "latitude": 35.28539,
+      "longitude": -82.45828,
+      "directions": "On Dunroy Drive, near Hendersonville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302425",
+      "photo_urls": []
+    },
+    {
+      "id": "302426",
+      "title": "Dunroy Home",
+      "latitude": 35.28836,
+      "longitude": -82.45581,
+      "directions": "On Dunroy Drive, near Hendersonville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302426",
+      "photo_urls": []
+    },
+    {
+      "id": "302427",
+      "title": "Buncombe Turnpike",
+      "latitude": 35.28961,
+      "longitude": -82.45356,
+      "directions": "On Dunroy Drive, near Hendersonville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302427",
       "photo_urls": []
     },
     {
