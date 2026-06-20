@@ -3,9 +3,9 @@
   "region_name": "Michigan",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-23T06:03:55.835Z",
-  "source_timestamp": "2026-05-23T06:03:55.835Z",
-  "marker_count": 4140,
+  "generated": "2026-06-20T06:03:27.123Z",
+  "source_timestamp": "2026-06-20T06:03:27.123Z",
+  "marker_count": 4151,
   "markers": [
     {
       "id": "100032",
@@ -29199,7 +29199,7 @@
       "title": "A Moment in Time c.1939",
       "latitude": 42.78474767,
       "longitude": -83.23901139,
-      "directions": "On East Flint Street, Lake Orion, (On the left when traveling east)",
+      "directions": "On Flint Street, Lake Orion, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=271812",
       "photo_urls": []
     },
@@ -32243,6 +32243,105 @@
       "longitude": -84.93338903,
       "directions": "On State Route 75, Walloon Lake, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298517",
+      "photo_urls": []
+    },
+    {
+      "id": "299421",
+      "title": "The Anchor",
+      "latitude": 42.81826111,
+      "longitude": -85.62877778,
+      "directions": "Near Kalamazoo Avenue Southeast, Byron Center, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299421",
+      "photo_urls": []
+    },
+    {
+      "id": "301191",
+      "title": "The Indian Agency / Treaty of Washington of 1836",
+      "latitude": 45.85086111,
+      "longitude": -84.61538056,
+      "directions": "On Main Street (State Route 185) , Mackinac Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301191",
+      "photo_urls": []
+    },
+    {
+      "id": "301205",
+      "title": "The Indian Dormitory",
+      "latitude": 45.85053611,
+      "longitude": -84.61715,
+      "directions": "On Fort Street, Mackinac Island, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301205",
+      "photo_urls": []
+    },
+    {
+      "id": "301216",
+      "title": "Original Buildings of John Jacob Astor’s American Fur Company",
+      "latitude": 45.849525,
+      "longitude": -84.61885833,
+      "directions": "On Market Street, Mackinac Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301216",
+      "photo_urls": []
+    },
+    {
+      "id": "301285",
+      "title": "Mackinac Island War Memorial",
+      "latitude": 45.85005956,
+      "longitude": -84.61821811,
+      "directions": "On Market Street, Mackinac Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301285",
+      "photo_urls": []
+    },
+    {
+      "id": "301440",
+      "title": "Grand Hotel Golf Course",
+      "latitude": 45.85224167,
+      "longitude": -84.62319167,
+      "directions": "Near Grand Avenue, Mackinac Island, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301440",
+      "photo_urls": []
+    },
+    {
+      "id": "301444",
+      "title": "The Legacy of Jerry Matthews and Grand Hotel",
+      "latitude": 45.85201944,
+      "longitude": -84.62229167,
+      "directions": "Near Grand Avenue, Mackinac Island, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301444",
+      "photo_urls": []
+    },
+    {
+      "id": "301467",
+      "title": "Woodfill Park",
+      "latitude": 45.84903333,
+      "longitude": -84.62306111,
+      "directions": "On Cadotte Avenue, Mackinac Island, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301467",
+      "photo_urls": []
+    },
+    {
+      "id": "301704",
+      "title": "Civil War Veterans Memorial",
+      "latitude": 45.8500292,
+      "longitude": -84.61818928,
+      "directions": "On Market Street, Mackinac Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301704",
+      "photo_urls": []
+    },
+    {
+      "id": "301705",
+      "title": "War of 1812 Memorial",
+      "latitude": 45.85001667,
+      "longitude": -84.618225,
+      "directions": "On Market Street, Mackinac Island, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301705",
+      "photo_urls": []
+    },
+    {
+      "id": "302369",
+      "title": "Brace Beemer",
+      "latitude": 42.80987947,
+      "longitude": -83.27841213,
+      "directions": "Near Polly Ann Trail, Oxford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302369",
       "photo_urls": []
     },
     {
