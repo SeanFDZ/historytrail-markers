@@ -3,9 +3,9 @@
   "region_name": "Georgia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-23T06:03:55.687Z",
-  "source_timestamp": "2026-05-23T06:03:55.687Z",
-  "marker_count": 7590,
+  "generated": "2026-06-20T06:03:26.959Z",
+  "source_timestamp": "2026-06-20T06:03:26.959Z",
+  "marker_count": 7622,
   "markers": [
     {
       "id": "10000",
@@ -5608,9 +5608,9 @@
     {
       "id": "112195",
       "title": "The Fabulous Fifty of 1906 / The Delegates",
-      "latitude": 32.44852806,
-      "longitude": -81.78038523,
-      "directions": "On Railroad Street, Statesboro, (On the right when traveling north)",
+      "latitude": 32.4487515,
+      "longitude": -81.78149391,
+      "directions": "On East Main Street, Statesboro, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=112195",
       "photo_urls": []
     },
@@ -36694,9 +36694,9 @@
     {
       "id": "238239",
       "title": "The Introduction of the Soybean to North America",
-      "latitude": 31.5917,
-      "longitude": -81.0119,
-      "directions": "On Ocean Science Circle, Savannah, (On the left when traveling north)",
+      "latitude": 31.98751498,
+      "longitude": -81.02359218,
+      "directions": "On Ocean Science Circle, Skidaway Island, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=238239",
       "photo_urls": []
     },
@@ -36705,7 +36705,7 @@
       "title": "St. Pius X High School",
       "latitude": 32.0334,
       "longitude": -81.0516,
-      "directions": "On East Anderson Street, Savannah, (On the right when traveling east)",
+      "directions": "On East Anderson Street, Thunderbolt, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=238240",
       "photo_urls": []
     },
@@ -36984,7 +36984,7 @@
       "title": "The Railroad War",
       "latitude": 33.98554547,
       "longitude": -84.58211431,
-      "directions": "On Old 41 Highway NW, near Kennesaw, (On the right when traveling east)",
+      "directions": "On U.S. Old 41, near Kennesaw, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=241463",
       "photo_urls": []
     },
@@ -46502,6 +46502,240 @@
       "photo_urls": []
     },
     {
+      "id": "300458",
+      "title": "Cook & Brother Confederate Armory",
+      "latitude": 33.95858333,
+      "longitude": -83.366,
+      "directions": "On East Broad Street, Athens, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300458",
+      "photo_urls": []
+    },
+    {
+      "id": "301001",
+      "title": "Porter Memorial Gymnasium",
+      "latitude": 33.57230191,
+      "longitude": -83.89643533,
+      "directions": "On Main Street (State Route 81) , Porterdale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301001",
+      "photo_urls": []
+    },
+    {
+      "id": "301239",
+      "title": "World War II Memorial, \"A World Apart\"",
+      "latitude": 32.08207778,
+      "longitude": -81.09208611,
+      "directions": "Near West River Street, Savannah, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301239",
+      "photo_urls": []
+    },
+    {
+      "id": "301240",
+      "title": "Gray's Reef National Marine Sanctuary",
+      "latitude": 32.08150833,
+      "longitude": -81.08958333,
+      "directions": "Near East River Street, Savannah, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301240",
+      "photo_urls": []
+    },
+    {
+      "id": "301241",
+      "title": "Lafayette's Tour",
+      "latitude": 32.07980278,
+      "longitude": -81.09133056,
+      "directions": "On Bull Street, Savannah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301241",
+      "photo_urls": []
+    },
+    {
+      "id": "301242",
+      "title": "Colonel William Bull",
+      "latitude": 32.07978889,
+      "longitude": -81.09160556,
+      "directions": "Near East Congress Street, Savannah, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301242",
+      "photo_urls": []
+    },
+    {
+      "id": "301243",
+      "title": "Nathanael Greene Monument",
+      "latitude": 32.0799152,
+      "longitude": -81.09158694,
+      "directions": "On East Bryan Street, Savannah, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301243",
+      "photo_urls": []
+    },
+    {
+      "id": "301246",
+      "title": "Pete Liakakis Government Building",
+      "latitude": 32.07792222,
+      "longitude": -81.09598611,
+      "directions": "On West Oglethorpe Avenue, Savannah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301246",
+      "photo_urls": []
+    },
+    {
+      "id": "301247",
+      "title": "Saint Philip A.M.E. Church",
+      "latitude": 32.07035556,
+      "longitude": -81.10118056,
+      "directions": "On Martin Luther King Junior Boulevard, Savannah, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301247",
+      "photo_urls": []
+    },
+    {
+      "id": "301250",
+      "title": "Byrd Cookie Company",
+      "latitude": 32.00938056,
+      "longitude": -81.09971667,
+      "directions": "On Waters Avenue, Savannah, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301250",
+      "photo_urls": []
+    },
+    {
+      "id": "301252",
+      "title": "Coastal Georgia Barrier Islands",
+      "latitude": 32.04763333,
+      "longitude": -81.02036944,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301252",
+      "photo_urls": []
+    },
+    {
+      "id": "301292",
+      "title": "Ossabaw Island Hog",
+      "latitude": 32.04994167,
+      "longitude": -81.02220278,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301292",
+      "photo_urls": []
+    },
+    {
+      "id": "301294",
+      "title": "Delk-Dawson Heritage Homestead",
+      "latitude": 32.05130278,
+      "longitude": -81.01982222,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301294",
+      "photo_urls": []
+    },
+    {
+      "id": "301297",
+      "title": "Cane Grinder",
+      "latitude": 32.05135833,
+      "longitude": -81.01966944,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301297",
+      "photo_urls": []
+    },
+    {
+      "id": "301299",
+      "title": "Cane Boiler",
+      "latitude": 32.05131944,
+      "longitude": -81.01955278,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301299",
+      "photo_urls": []
+    },
+    {
+      "id": "301300",
+      "title": "The Delk Cabin",
+      "latitude": 32.05149722,
+      "longitude": -81.01949444,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301300",
+      "photo_urls": []
+    },
+    {
+      "id": "301301",
+      "title": "EF-1 Tornado Strikes!",
+      "latitude": 32.05182778,
+      "longitude": -81.01982222,
+      "directions": "Near Barley Drive, Savannah, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301301",
+      "photo_urls": []
+    },
+    {
+      "id": "301302",
+      "title": "EF-1 Tornado Strikes!",
+      "latitude": 32.05235278,
+      "longitude": -81.02064444,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301302",
+      "photo_urls": []
+    },
+    {
+      "id": "301303",
+      "title": "Great Egret / Snowy Egret",
+      "latitude": 32.05263889,
+      "longitude": -81.02039444,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301303",
+      "photo_urls": []
+    },
+    {
+      "id": "301304",
+      "title": "Gray Wolf",
+      "latitude": 32.05186111,
+      "longitude": -81.02225556,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301304",
+      "photo_urls": []
+    },
+    {
+      "id": "301305",
+      "title": "The American Bison",
+      "latitude": 32.0505,
+      "longitude": -81.02391111,
+      "directions": "Near Barley Drive, Whitemarsh Island, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301305",
+      "photo_urls": []
+    },
+    {
+      "id": "301306",
+      "title": "The Story of the American Bison",
+      "latitude": 32.05033611,
+      "longitude": -81.02389444,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301306",
+      "photo_urls": []
+    },
+    {
+      "id": "301308",
+      "title": "American Bison",
+      "latitude": 32.05031111,
+      "longitude": -81.02385833,
+      "directions": "Near Barley Drive, Whitemarsh Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301308",
+      "photo_urls": []
+    },
+    {
+      "id": "301310",
+      "title": "Oglethorpe Lane Building",
+      "latitude": 32.07786667,
+      "longitude": -81.09787778,
+      "directions": "On West Oglethorpe Avenue, Savannah, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301310",
+      "photo_urls": []
+    },
+    {
+      "id": "301338",
+      "title": "Marion Footman Wilson",
+      "latitude": 33.77463783,
+      "longitude": -84.29620287,
+      "directions": "Near East Trinity Place, Decatur, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301338",
+      "photo_urls": []
+    },
+    {
+      "id": "301342",
+      "title": "Baron DeKalb",
+      "latitude": 33.77549018,
+      "longitude": -84.2968233,
+      "directions": "On East Ponce de Leon Avenue, Decatur, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301342",
+      "photo_urls": []
+    },
+    {
       "id": "30167",
       "title": "Cannon's Point Plantation",
       "latitude": 31.253387,
@@ -46517,6 +46751,33 @@
       "longitude": -85.10286389,
       "directions": "On U.S. 41, near Ringgold, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30189",
+      "photo_urls": []
+    },
+    {
+      "id": "302380",
+      "title": "Eleanor Rosalynn Smith Carter",
+      "latitude": 32.04412349,
+      "longitude": -84.38094885,
+      "directions": "On U.S. 280, near Plains, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302380",
+      "photo_urls": []
+    },
+    {
+      "id": "302429",
+      "title": "William L. Scruggs L.L.D.",
+      "latitude": 33.7485094,
+      "longitude": -84.44790806,
+      "directions": "Near Westview Drive Southwest (State Route 139) , Atlanta, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302429",
+      "photo_urls": []
+    },
+    {
+      "id": "302510",
+      "title": "God's Acre / Rest Haven",
+      "latitude": 33.74584877,
+      "longitude": -84.444509,
+      "directions": "Near Westview Drive Southwest (State Route 139) , Atlanta, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302510",
       "photo_urls": []
     },
     {
@@ -46538,6 +46799,24 @@
       "photo_urls": []
     },
     {
+      "id": "302696",
+      "title": "\"Dancing Monarchs\"",
+      "latitude": 32.0311978,
+      "longitude": -84.39142345,
+      "directions": "On South Bond Street (State Route 45) , Plains, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302696",
+      "photo_urls": []
+    },
+    {
+      "id": "302799",
+      "title": "Old Indian Trail",
+      "latitude": 33.80770594,
+      "longitude": -84.15000054,
+      "directions": "Near Walk Up Mountain Trail, Stone Mountain, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302799",
+      "photo_urls": []
+    },
+    {
       "id": "30280",
       "title": "\"Oakton\"",
       "latitude": 33.966616,
@@ -46553,6 +46832,15 @@
       "longitude": -82.6548,
       "directions": "On South Smyrna Church Road, near Washington, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30309",
+      "photo_urls": []
+    },
+    {
+      "id": "303113",
+      "title": "Fort Scott",
+      "latitude": 30.769133,
+      "longitude": -84.73441,
+      "directions": "On Hutchinson Ferry Road (State Route Spur 97) , near Bainbridge, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303113",
       "photo_urls": []
     },
     {
@@ -54478,9 +54766,9 @@
     {
       "id": "5537",
       "title": "Savannah Historic District",
-      "latitude": 32.08021,
-      "longitude": -81.09145,
-      "directions": "On W. Bryan Street, Savannah, (On the left when traveling west)",
+      "latitude": 32.08014917,
+      "longitude": -81.09149026,
+      "directions": "On West Bryan Street, Savannah, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=5537",
       "photo_urls": []
     },
