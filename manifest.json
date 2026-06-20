@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-19T06:04:33.878Z",
+  "generated": "2026-06-20T06:03:40.596Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73432,
+  "total_markers": 73464,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -526,12 +526,12 @@
       "type": "state",
       "country": "United States",
       "file": "regions/us-ga.json",
-      "markers": 7590,
-      "size_bytes": 2347439,
-      "updated": "2026-05-23",
+      "markers": 7622,
+      "size_bytes": 2357449,
+      "updated": "2026-06-20",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 7580,
+        "added": 7607,
         "removed": 0,
         "modified": 0
       }
