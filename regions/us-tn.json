@@ -3,9 +3,9 @@
   "region_name": "Tennessee",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-26T06:03:14.614Z",
-  "source_timestamp": "2026-04-26T06:03:14.614Z",
-  "marker_count": 8519,
+  "generated": "2026-06-21T06:03:10.918Z",
+  "source_timestamp": "2026-06-21T06:03:10.918Z",
+  "marker_count": 8571,
   "markers": [
     {
       "id": "100111",
@@ -42220,9 +42220,9 @@
     {
       "id": "22847",
       "title": "First Abolition Publications",
-      "latitude": 36.2932,
-      "longitude": -82.47633333,
-      "directions": "On North 2nd Avenue, Jonesborough, ",
+      "latitude": 36.293774,
+      "longitude": -82.474735,
+      "directions": "On West Main Street (State Route Old 34) , Jonesborough, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=22847",
       "photo_urls": []
     },
@@ -55241,6 +55241,42 @@
       "photo_urls": []
     },
     {
+      "id": "298445",
+      "title": "George Haynes Cabin",
+      "latitude": 36.2941969,
+      "longitude": -82.3343202,
+      "directions": "Near South Rowan Road, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298445",
+      "photo_urls": []
+    },
+    {
+      "id": "298483",
+      "title": "Smokehouse",
+      "latitude": 36.29409717,
+      "longitude": -82.33440002,
+      "directions": "Near South Rowan Road, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298483",
+      "photo_urls": []
+    },
+    {
+      "id": "298485",
+      "title": "Necessary",
+      "latitude": 36.2942589,
+      "longitude": -82.3346332,
+      "directions": "Near South Rowan Road, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298485",
+      "photo_urls": []
+    },
+    {
+      "id": "298488",
+      "title": "Vernacular Domestic Outbuildings",
+      "latitude": 36.2943032,
+      "longitude": -82.3347466,
+      "directions": "On South Rowan Road, Johnson City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298488",
+      "photo_urls": []
+    },
+    {
       "id": "29872",
       "title": "Willie Blount",
       "latitude": 36.464851,
@@ -55250,12 +55286,444 @@
       "photo_urls": []
     },
     {
+      "id": "298760",
+      "title": "Indigenous People",
+      "latitude": 36.34743125,
+      "longitude": -81.74112485,
+      "directions": "Near Modock Road, Trade, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298760",
+      "photo_urls": []
+    },
+    {
+      "id": "298763",
+      "title": "Daniel Boone's Trail",
+      "latitude": 36.34745596,
+      "longitude": -81.74118474,
+      "directions": "Near Modock Road, Trade, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298763",
+      "photo_urls": []
+    },
+    {
+      "id": "298765",
+      "title": "G.B. Grayson",
+      "latitude": 36.47455532,
+      "longitude": -81.80401535,
+      "directions": "On East Main Street, Mountain City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298765",
+      "photo_urls": []
+    },
+    {
+      "id": "298767",
+      "title": "Little Ragged Joe 1947",
+      "latitude": 36.47453968,
+      "longitude": -81.80395499,
+      "directions": "On East Main Street, Mountain City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298767",
+      "photo_urls": []
+    },
+    {
+      "id": "298855",
+      "title": "Clarence \"Tom\" Ashley",
+      "latitude": 36.47363611,
+      "longitude": -81.80471111,
+      "directions": "On South Church Street, Mountain City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298855",
+      "photo_urls": []
+    },
+    {
+      "id": "299465",
+      "title": "Etowah Carnegie Library",
+      "latitude": 35.32427518,
+      "longitude": -84.52622309,
+      "directions": "On Ohio Avenue, Etowah, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299465",
+      "photo_urls": []
+    },
+    {
+      "id": "299467",
+      "title": "The City of Etowah Fire Department",
+      "latitude": 35.3239162,
+      "longitude": -84.52621571,
+      "directions": "On 8th Street, Etowah, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299467",
+      "photo_urls": []
+    },
+    {
+      "id": "299468",
+      "title": "Historic Etowah",
+      "latitude": 35.32233561,
+      "longitude": -84.52639995,
+      "directions": "On 9th Street, Etowah, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299468",
+      "photo_urls": []
+    },
+    {
+      "id": "299501",
+      "title": "Memphis Municiple Employees Federal Credit Union",
+      "latitude": 35.13635696,
+      "longitude": -90.04235815,
+      "directions": "On Doctor Martin Luther King Junior Avenue, Memphis, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299501",
+      "photo_urls": []
+    },
+    {
+      "id": "299658",
+      "title": "Civil Rights Memorial",
+      "latitude": 36.17218513,
+      "longitude": -86.78891121,
+      "directions": "On 7th Avenue North, Nashville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299658",
+      "photo_urls": []
+    },
+    {
+      "id": "299659",
+      "title": "The Reliquary",
+      "latitude": 36.17128582,
+      "longitude": -86.78724758,
+      "directions": "Near 6th Avenue North, Nashville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299659",
+      "photo_urls": []
+    },
+    {
+      "id": "299701",
+      "title": "The Broadway Bell",
+      "latitude": 35.75752773,
+      "longitude": -83.96981612,
+      "directions": "On East Broadway Avenue, Maryville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299701",
+      "photo_urls": []
+    },
+    {
+      "id": "299702",
+      "title": "The New Broadway Bell",
+      "latitude": 35.75736591,
+      "longitude": -83.97003611,
+      "directions": "On East Broadway Avenue, Maryville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299702",
+      "photo_urls": []
+    },
+    {
+      "id": "299703",
+      "title": "Founders Park",
+      "latitude": 35.75707146,
+      "longitude": -83.9700751,
+      "directions": "On East Broadway Avenue, Maryville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299703",
+      "photo_urls": []
+    },
+    {
+      "id": "299720",
+      "title": "Thank You",
+      "latitude": 35.62029902,
+      "longitude": -87.03456955,
+      "directions": "On North Garden Street, Columbia, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299720",
+      "photo_urls": []
+    },
+    {
+      "id": "299722",
+      "title": "Memorial to Black Maury County Citizens",
+      "latitude": 35.61346911,
+      "longitude": -87.03300298,
+      "directions": "On East 8th Street, Columbia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299722",
+      "photo_urls": []
+    },
+    {
+      "id": "299726",
+      "title": "Lillie Mae Glover",
+      "latitude": 35.61346854,
+      "longitude": -87.03265742,
+      "directions": "On W 8th Street, Columbia, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299726",
+      "photo_urls": []
+    },
+    {
+      "id": "299727",
+      "title": "Life in the Shadows of Freedom",
+      "latitude": 35.61335494,
+      "longitude": -87.03422041,
+      "directions": "On South Main Street, Columbia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299727",
+      "photo_urls": []
+    },
+    {
+      "id": "299733",
+      "title": "A Legacy of Justice",
+      "latitude": 35.61333632,
+      "longitude": -87.0340121,
+      "directions": "On South Main Street, Columbia, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299733",
+      "photo_urls": []
+    },
+    {
+      "id": "299735",
+      "title": "A Turning Point",
+      "latitude": 35.61362595,
+      "longitude": -87.03395327,
+      "directions": "On South Main Street, Columbia, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299735",
+      "photo_urls": []
+    },
+    {
+      "id": "299736",
+      "title": "The Defendants of 1946",
+      "latitude": 35.61363646,
+      "longitude": -87.03416567,
+      "directions": "On South Main Street, Columbia, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299736",
+      "photo_urls": []
+    },
+    {
+      "id": "299920",
+      "title": "Hurrah!",
+      "latitude": 35.59981769,
+      "longitude": -84.46267494,
+      "directions": "On West Walnut Street, Sweetwater, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299920",
+      "photo_urls": []
+    },
+    {
+      "id": "300013",
+      "title": "In Honor of Our United States Military",
+      "latitude": 35.46485289,
+      "longitude": -88.15586545,
+      "directions": "On State Hwy 114 W, Bath Springs, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300013",
+      "photo_urls": []
+    },
+    {
+      "id": "300016",
+      "title": "The \"Pea Vine\" A Ghost Railroad / Parsons A Railroad Town",
+      "latitude": 35.6493,
+      "longitude": -88.12692,
+      "directions": "On South Tennessee Avenue (State Route 69) , Parsons, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300016",
+      "photo_urls": []
+    },
+    {
+      "id": "300052",
+      "title": "Cherokee Farmstead",
+      "latitude": 34.99299986,
+      "longitude": -84.94485464,
+      "directions": "On Red Clay Park Road Southwest, Cleveland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300052",
+      "photo_urls": []
+    },
+    {
+      "id": "300055",
+      "title": "Dr. Lloyd C. Elam",
+      "latitude": 36.16610808,
+      "longitude": -86.80789238,
+      "directions": "On Albion Street, Nashville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300055",
+      "photo_urls": []
+    },
+    {
+      "id": "300226",
+      "title": "Gem",
+      "latitude": 35.32449299,
+      "longitude": -84.52493512,
+      "directions": "On Tennessee Avenue (U.S. 411) , Etowah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300226",
+      "photo_urls": []
+    },
+    {
+      "id": "300228",
+      "title": "The Balcony",
+      "latitude": 35.32449532,
+      "longitude": -84.52494822,
+      "directions": "On Tennessee Avenue (U.S. 411) , Etowah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300228",
+      "photo_urls": []
+    },
+    {
+      "id": "300229",
+      "title": "The Lights",
+      "latitude": 35.32450079,
+      "longitude": -84.52495694,
+      "directions": "On Tennessee Avenue (U.S. 411) , Etowah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300229",
+      "photo_urls": []
+    },
+    {
+      "id": "300230",
+      "title": "Gem",
+      "latitude": 35.32449468,
+      "longitude": -84.52492988,
+      "directions": "On Tennessee Avenue (U.S. 411) , Etowah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300230",
+      "photo_urls": []
+    },
+    {
+      "id": "300356",
+      "title": "Poe's Tavern",
+      "latitude": 35.24667,
+      "longitude": -85.18839,
+      "directions": "On Dayton Pike, Soddy-Daisy, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300356",
+      "photo_urls": []
+    },
+    {
+      "id": "300358",
+      "title": "Wagner's Advanced Line",
+      "latitude": 35.91565194,
+      "longitude": -86.87399204,
+      "directions": "On Columbia Avenue (U.S. Business 31) , Franklin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300358",
+      "photo_urls": []
+    },
+    {
+      "id": "300360",
+      "title": "Stewart's Corps on the Eastern Flank",
+      "latitude": 35.91547214,
+      "longitude": -86.87424525,
+      "directions": "On Columbia Avenue (U.S. Business 31) , Franklin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300360",
+      "photo_urls": []
+    },
+    {
+      "id": "300362",
+      "title": "Brown's Attack",
+      "latitude": 35.91581611,
+      "longitude": -86.87435645,
+      "directions": "On Columbia Avenue, Franklin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300362",
+      "photo_urls": []
+    },
+    {
+      "id": "300363",
+      "title": "Brown's Attack",
+      "latitude": 35.91581424,
+      "longitude": -86.87433403,
+      "directions": "On Columbia Avenue (U.S. Business 31) , Franklin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300363",
+      "photo_urls": []
+    },
+    {
+      "id": "300444",
+      "title": "The Battle of Franklin",
+      "latitude": 35.90916456,
+      "longitude": -86.85592366,
+      "directions": "On Lewisburg Pike (U.S. Business 431) , Franklin, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300444",
+      "photo_urls": []
+    },
+    {
+      "id": "300449",
+      "title": "A Lost Battlefield is Reclaimed",
+      "latitude": 35.91613772,
+      "longitude": -86.87411496,
+      "directions": "On Columbia Avenue (U.S. Business 31) , Franklin, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300449",
+      "photo_urls": []
+    },
+    {
       "id": "30054",
       "title": "Fort Negley Site",
       "latitude": 36.14294444,
       "longitude": -86.77586944,
       "directions": "On Ft. Negley Boulevard, Nashville, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30054",
+      "photo_urls": []
+    },
+    {
+      "id": "300809",
+      "title": "The West Plant / A Plant and A Community",
+      "latitude": 35.79272937,
+      "longitude": -83.98098983,
+      "directions": "On Faraday Street, Alcoa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300809",
+      "photo_urls": []
+    },
+    {
+      "id": "300810",
+      "title": "Early Springbrook Home Construction",
+      "latitude": 35.79735117,
+      "longitude": -83.97871869,
+      "directions": "On Dalton Street, Alcoa, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300810",
+      "photo_urls": []
+    },
+    {
+      "id": "300812",
+      "title": "The North Plant",
+      "latitude": 35.81364933,
+      "longitude": -83.97733097,
+      "directions": "On North Wright Road, Alcoa, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300812",
+      "photo_urls": []
+    },
+    {
+      "id": "301721",
+      "title": "106 Highway 114 South",
+      "latitude": 35.51538347,
+      "longitude": -88.24553602,
+      "directions": "On State Highway 114, Scotts Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301721",
+      "photo_urls": []
+    },
+    {
+      "id": "301723",
+      "title": "110 Highway 114 South",
+      "latitude": 35.51541029,
+      "longitude": -88.2455771,
+      "directions": "On State Highway 114 (State Route 114) , Scotts Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301723",
+      "photo_urls": []
+    },
+    {
+      "id": "301803",
+      "title": "Murfreesboro During the Civil War",
+      "latitude": 35.84718422,
+      "longitude": -86.40113633,
+      "directions": "On West Main Street, Murfreesboro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301803",
+      "photo_urls": []
+    },
+    {
+      "id": "301804",
+      "title": "The Railroad & Fortress Rosecrans",
+      "latitude": 35.84707259,
+      "longitude": -86.40123234,
+      "directions": "On West Main Street, Murfreesboro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301804",
+      "photo_urls": []
+    },
+    {
+      "id": "301805",
+      "title": "First Masonic Hall",
+      "latitude": 36.16341907,
+      "longitude": -86.77974752,
+      "directions": "On Church Street, Nashville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301805",
+      "photo_urls": []
+    },
+    {
+      "id": "302363",
+      "title": "Gordon Chapel / Gordon Memorial United Methodist Church",
+      "latitude": 36.16231925,
+      "longitude": -86.81078149,
+      "directions": "On Herman Street, Nashville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302363",
+      "photo_urls": []
+    },
+    {
+      "id": "302436",
+      "title": "Centennial Celebration of Scarritt in Nashville",
+      "latitude": 36.14592153,
+      "longitude": -86.79539067,
+      "directions": "On 18th Avenue South, Nashville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302436",
+      "photo_urls": []
+    },
+    {
+      "id": "303291",
+      "title": "Confederate Fort & Batteries",
+      "latitude": 36.44348388,
+      "longitude": -89.47761834,
+      "directions": "On New Markham Road, near Tiptonville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303291",
       "photo_urls": []
     },
     {
@@ -55938,7 +56406,7 @@
       "title": "Lincoln and Cumberland Gap",
       "latitude": 36.580537,
       "longitude": -83.65738,
-      "directions": "On University Boulevard (Mars-DeBusk Parkway), Harrogate, (On the right when traveling west)",
+      "directions": "On Mars-Debusk Parkway, Harrogate, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=35761",
       "photo_urls": []
     },
@@ -73047,7 +73515,7 @@
       "title": "Daniel Boone",
       "latitude": 36.38251667,
       "longitude": -82.4091,
-      "directions": "On Bart Green Street, Johnson City, (On the left when traveling north)",
+      "directions": "On North Roan Street (State Route 36) , Johnson City, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=83060",
       "photo_urls": []
     },
