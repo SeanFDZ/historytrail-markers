@@ -3,9 +3,9 @@
   "region_name": "Missouri",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-26T06:03:14.498Z",
-  "source_timestamp": "2026-04-26T06:03:14.498Z",
-  "marker_count": 4865,
+  "generated": "2026-06-21T06:03:10.793Z",
+  "source_timestamp": "2026-06-21T06:03:10.793Z",
+  "marker_count": 4919,
   "markers": [
     {
       "id": "100375",
@@ -4050,7 +4050,7 @@
     },
     {
       "id": "132899",
-      "title": "#5441",
+      "title": "St. Joe Mining Corporation Ore Train #5441",
       "latitude": 38.57260556,
       "longitude": -90.46378333,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4068,7 +4068,7 @@
     },
     {
       "id": "132905",
-      "title": "#662",
+      "title": "Panama Canal #662",
       "latitude": 38.571725,
       "longitude": -90.46321111,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4086,7 +4086,7 @@
     },
     {
       "id": "132911",
-      "title": "#2 Laclede Christy",
+      "title": "Laclede Christy #2",
       "latitude": 38.57245278,
       "longitude": -90.46196667,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4158,7 +4158,7 @@
     },
     {
       "id": "132925",
-      "title": "#551",
+      "title": "Chicago & Illinois Midland #551",
       "latitude": 38.57167778,
       "longitude": -90.46265278,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4176,7 +4176,7 @@
     },
     {
       "id": "132928",
-      "title": "#1942",
+      "title": "Chicago, Burlington & Quincy #1942",
       "latitude": 38.57151111,
       "longitude": -90.462875,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4203,7 +4203,7 @@
     },
     {
       "id": "132931",
-      "title": "#1582",
+      "title": "Chicago, Burlington & Quincy #1582",
       "latitude": 38.57136111,
       "longitude": -90.46305,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4230,7 +4230,7 @@
     },
     {
       "id": "132934",
-      "title": "#6117",
+      "title": "Chicago, Burlington & Quincy #6117",
       "latitude": 38.57123056,
       "longitude": -90.46323333,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4239,7 +4239,7 @@
     },
     {
       "id": "132935",
-      "title": "#1082",
+      "title": "Northern Pacific #1082",
       "latitude": 38.57119722,
       "longitude": -90.46331667,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4248,7 +4248,7 @@
     },
     {
       "id": "132936",
-      "title": "#13889",
+      "title": "Missouri Pacific #13889",
       "latitude": 38.57112222,
       "longitude": -90.46338611,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4257,7 +4257,7 @@
     },
     {
       "id": "132937",
-      "title": "#724",
+      "title": "Georgia Railroad #724",
       "latitude": 38.57105556,
       "longitude": -90.46341667,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4266,7 +4266,7 @@
     },
     {
       "id": "132938",
-      "title": "#884",
+      "title": "Spokane, Portland & Seattle #884",
       "latitude": 38.57095833,
       "longitude": -90.46334722,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4275,7 +4275,7 @@
     },
     {
       "id": "132939",
-      "title": "#1149",
+      "title": "U.S. Army Transportation Corps #1149",
       "latitude": 38.57099444,
       "longitude": -90.46334167,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4284,7 +4284,7 @@
     },
     {
       "id": "132940",
-      "title": "#1",
+      "title": "City of St. Louis Water Division #1",
       "latitude": 38.57105278,
       "longitude": -90.46327222,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4293,7 +4293,7 @@
     },
     {
       "id": "132941",
-      "title": "#1057",
+      "title": "General American Pfaulder Corporation Milk Car #1057",
       "latitude": 38.57106111,
       "longitude": -90.46321944,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4311,7 +4311,7 @@
     },
     {
       "id": "132943",
-      "title": "#E-2",
+      "title": "Chicago, Milwaukee, St. Paul & Pacific #E-2",
       "latitude": 38.57114722,
       "longitude": -90.46309722,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4329,7 +4329,7 @@
     },
     {
       "id": "132945",
-      "title": "#1575",
+      "title": "Illinois Terminal #1575",
       "latitude": 38.57124722,
       "longitude": -90.46302778,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4338,7 +4338,7 @@
     },
     {
       "id": "132946",
-      "title": "SL-SF#3000",
+      "title": "SL-SF #3000",
       "latitude": 38.57126667,
       "longitude": -90.46304444,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4347,7 +4347,7 @@
     },
     {
       "id": "132947",
-      "title": "#113",
+      "title": "New York Central & Hudson River #113",
       "latitude": 38.57133056,
       "longitude": -90.46295278,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4356,7 +4356,7 @@
     },
     {
       "id": "132948",
-      "title": "#2003",
+      "title": "Joplin - Pittsburg #2003",
       "latitude": 38.57137778,
       "longitude": -90.46283611,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4365,7 +4365,7 @@
     },
     {
       "id": "132949",
-      "title": "#50",
+      "title": "Baltimore & Ohio #50",
       "latitude": 38.57143889,
       "longitude": -90.46274444,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4374,7 +4374,7 @@
     },
     {
       "id": "132950",
-      "title": "#96500",
+      "title": "General American Transportation Company #96500",
       "latitude": 38.5715,
       "longitude": -90.46266111,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4383,7 +4383,7 @@
     },
     {
       "id": "132951",
-      "title": "#1621",
+      "title": "St. Louis - San Francisco #1621",
       "latitude": 38.57163611,
       "longitude": -90.46255556,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4392,7 +4392,7 @@
     },
     {
       "id": "132952",
-      "title": "#408",
+      "title": "Sabine River & Northern #408",
       "latitude": 38.57166667,
       "longitude": -90.46251667,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4401,7 +4401,7 @@
     },
     {
       "id": "132953",
-      "title": "#573",
+      "title": "Wabash #573",
       "latitude": 38.57121389,
       "longitude": -90.46237222,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4419,7 +4419,7 @@
     },
     {
       "id": "132955",
-      "title": "#1595",
+      "title": "Illinois Terminal #1595",
       "latitude": 38.57101111,
       "longitude": -90.46294444,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4428,7 +4428,7 @@
     },
     {
       "id": "132957",
-      "title": "#1365",
+      "title": "Brooklyn Rapid Transit #1365",
       "latitude": 38.57046389,
       "longitude": -90.46362222,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4437,7 +4437,7 @@
     },
     {
       "id": "132958",
-      "title": "#4916",
+      "title": "Amtrak #4916",
       "latitude": 38.57049167,
       "longitude": -90.46363056,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4446,7 +4446,7 @@
     },
     {
       "id": "132960",
-      "title": "#4700",
+      "title": "Pennsylvania #4700",
       "latitude": 38.57038056,
       "longitude": -90.46374444,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4455,7 +4455,7 @@
     },
     {
       "id": "132968",
-      "title": "#39 \"Marmora\"",
+      "title": "Boston & Albany #39 \"Marmora\"",
       "latitude": 38.57035556,
       "longitude": -90.46393611,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4464,7 +4464,7 @@
     },
     {
       "id": "132969",
-      "title": "#274",
+      "title": "Chicago and Northwestern #274",
       "latitude": 38.57035833,
       "longitude": -90.46379722,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4473,7 +4473,7 @@
     },
     {
       "id": "132970",
-      "title": "#5529",
+      "title": "Canadian National #5529",
       "latitude": 38.57079722,
       "longitude": -90.46330278,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4491,7 +4491,7 @@
     },
     {
       "id": "132974",
-      "title": "#311",
+      "title": "Missouri-Kansas-Texas #311",
       "latitude": 38.57044167,
       "longitude": -90.46388333,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4518,7 +4518,7 @@
     },
     {
       "id": "132978",
-      "title": "#4502",
+      "title": "Missouri Pacific #4502",
       "latitude": 38.57167778,
       "longitude": -90.46172222,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4617,7 +4617,7 @@
     },
     {
       "id": "132993",
-      "title": "#30",
+      "title": "Illinois Central #30",
       "latitude": 38.57209722,
       "longitude": -90.46078611,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4626,7 +4626,7 @@
     },
     {
       "id": "132994",
-      "title": "#2804",
+      "title": "Union Pacific #2804",
       "latitude": 38.57217778,
       "longitude": -90.46063333,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4635,7 +4635,7 @@
     },
     {
       "id": "132995",
-      "title": "#750",
+      "title": "Missouri Pacific #750",
       "latitude": 38.57218056,
       "longitude": -90.46048611,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4644,7 +4644,7 @@
     },
     {
       "id": "132996",
-      "title": "#9",
+      "title": "\"Charles H.\" - Lake Street Elevated #9",
       "latitude": 38.5722,
       "longitude": -90.46045556,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4743,7 +4743,7 @@
     },
     {
       "id": "133017",
-      "title": "#4006",
+      "title": "Union Pacific \"Big Boy\" #4006",
       "latitude": 38.57208889,
       "longitude": -90.46122778,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4752,7 +4752,7 @@
     },
     {
       "id": "133019",
-      "title": "#900081",
+      "title": "Union Pacific #900081",
       "latitude": 38.57221111,
       "longitude": -90.46106667,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4761,7 +4761,7 @@
     },
     {
       "id": "133020",
-      "title": "#6944",
+      "title": "Union Pacific #6944",
       "latitude": 38.57215,
       "longitude": -90.46130278,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -4770,7 +4770,7 @@
     },
     {
       "id": "133021",
-      "title": "#95589",
+      "title": "St. Louis Southwestern Maintenance of Way #95589",
       "latitude": 38.57207222,
       "longitude": -90.46156389,
       "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
@@ -28164,7 +28164,7 @@
       "title": "Jefferson Barracks Historic Site",
       "latitude": 38.50619444,
       "longitude": -90.27941944,
-      "directions": "Near Hancock Avenue, near St. Louis, (On the right when traveling west)",
+      "directions": "Near Hancock Avenue, Lemay, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=254972",
       "photo_urls": []
     },
@@ -28173,7 +28173,7 @@
       "title": "Jefferson Barracks Historic Site - Parade Ground",
       "latitude": 38.50631111,
       "longitude": -90.27941944,
-      "directions": "Near Hancock Avenue, near St. Louis, (On the right when traveling west)",
+      "directions": "Near Hancock Avenue, Lemay, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=254975",
       "photo_urls": []
     },
@@ -28182,7 +28182,7 @@
       "title": "A National Cemetery System",
       "latitude": 38.50075818,
       "longitude": -90.28813304,
-      "directions": "Near Jefferson Boulevard, near St. Louis, (On the right when traveling south)",
+      "directions": "Near Jefferson Boulevard, Lemay, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=254979",
       "photo_urls": []
     },
@@ -31062,7 +31062,7 @@
       "title": "American Legion Memorial",
       "latitude": 37.97166903,
       "longitude": -90.04770041,
-      "directions": "On Park Drive, St. Genvieve, (On the left when traveling west)",
+      "directions": "On Park Drive, Ste. Genevieve, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=279416",
       "photo_urls": []
     },
@@ -31071,7 +31071,7 @@
       "title": "\"All Gave Some - Some Gave All\"",
       "latitude": 37.97142032,
       "longitude": -90.04752875,
-      "directions": "On South 4th Street, St. Genvieve, (On the right when traveling south)",
+      "directions": "On Park Drive, Ste. Genevieve, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=279419",
       "photo_urls": []
     },
@@ -31143,7 +31143,7 @@
       "title": "Army, Navy, Air Force, Marines, Coast Guard",
       "latitude": 38.54331488,
       "longitude": -90.27334782,
-      "directions": "On Military Rd., St. Louis, (On the left when traveling north)",
+      "directions": "On Military Rd., Lemay, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280311",
       "photo_urls": []
     },
@@ -31971,7 +31971,7 @@
       "title": "First Through Train Over the Wabash",
       "latitude": 38.57315556,
       "longitude": -90.46302778,
-      "directions": "Near Barrett Station Road, St. Louis, (On the right when traveling west)",
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=289520",
       "photo_urls": []
     },
@@ -32705,12 +32705,498 @@
       "photo_urls": []
     },
     {
+      "id": "298214",
+      "title": "(Original) Dutzow / St Vincent de Paul Catholic Church",
+      "latitude": 38.592688,
+      "longitude": -90.9836608,
+      "directions": "On State Route 94, near Augusta, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298214",
+      "photo_urls": []
+    },
+    {
+      "id": "298237",
+      "title": "Central Wesleyan College World War I Dedication Marker",
+      "latitude": 38.8155508,
+      "longitude": -91.1608041,
+      "directions": "Near Booneslick Road (State Route MM) , Warrenton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298237",
+      "photo_urls": []
+    },
+    {
+      "id": "298725",
+      "title": "Legion Square",
+      "latitude": 36.87705941,
+      "longitude": -89.58847251,
+      "directions": "On East Front Street, Sikeston, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298725",
+      "photo_urls": []
+    },
+    {
+      "id": "298964",
+      "title": "First Baptist Church of Clayton",
+      "latitude": 38.64708321,
+      "longitude": -90.34173165,
+      "directions": "On South Brentwood Boulevard, Clayton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298964",
+      "photo_urls": []
+    },
+    {
+      "id": "298973",
+      "title": "In Memoriam",
+      "latitude": 38.57050455,
+      "longitude": -90.35845898,
+      "directions": "On South Elm Avenue, Webster Groves, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298973",
+      "photo_urls": []
+    },
+    {
+      "id": "298984",
+      "title": "The Meramec Highlands Quarry at Dee Koestering Park",
+      "latitude": 38.56627989,
+      "longitude": -90.43932135,
+      "directions": "Near Marshall Road, Kirkwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298984",
+      "photo_urls": []
+    },
+    {
+      "id": "299010",
+      "title": "President Abraham Lincoln",
+      "latitude": 38.50640809,
+      "longitude": -90.28406502,
+      "directions": "On Worth Road, Lemay, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299010",
+      "photo_urls": []
+    },
+    {
+      "id": "299140",
+      "title": "The Kingdom Comes to Callaway",
+      "latitude": 38.94559447,
+      "longitude": -91.94230579,
+      "directions": "Near Dunn Drive, Kingdom City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299140",
+      "photo_urls": []
+    },
+    {
+      "id": "299218",
+      "title": "Major Amos Stoddard",
+      "latitude": 36.88452528,
+      "longitude": -89.92933349,
+      "directions": "On South Prairie Street (County Route AA) , Bloomfield, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299218",
+      "photo_urls": []
+    },
+    {
+      "id": "299360",
+      "title": "Watch Our Conservation Efforts Grow!",
+      "latitude": 38.63452425,
+      "longitude": -90.29020533,
+      "directions": "Near Wells Drive, St. Louis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299360",
+      "photo_urls": []
+    },
+    {
+      "id": "299555",
+      "title": "Veterans Memorial",
+      "latitude": 36.62646396,
+      "longitude": -90.80499133,
+      "directions": "On Ball Park Road (Local Route 160 E-4) , Doniphan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299555",
+      "photo_urls": []
+    },
+    {
+      "id": "299558",
+      "title": "The Eads Bridge",
+      "latitude": 38.62942059,
+      "longitude": -90.18334788,
+      "directions": "On North 1st Street, St. Louis, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299558",
+      "photo_urls": []
+    },
+    {
+      "id": "300049",
+      "title": "VFW Centennial Plaza",
+      "latitude": 39.067128,
+      "longitude": -94.590432,
+      "directions": "On Broadway Boulevard, Kansas City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300049",
+      "photo_urls": []
+    },
+    {
+      "id": "300567",
+      "title": "Kit Bond Chestnut Grove",
+      "latitude": 38.69482982,
+      "longitude": -90.22885433,
+      "directions": "Near West Florissant Avenue, St. Louis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300567",
+      "photo_urls": []
+    },
+    {
+      "id": "300568",
+      "title": "Ellen Taggart McMahon",
+      "latitude": 38.69997133,
+      "longitude": -90.23193905,
+      "directions": "Near West Florissant Avenue, St. Louis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300568",
+      "photo_urls": []
+    },
+    {
+      "id": "300784",
+      "title": "Liver Dumplings",
+      "latitude": 37.97886243,
+      "longitude": -90.04602575,
+      "directions": "On 3rd Street, Ste. Genevieve, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300784",
+      "photo_urls": []
+    },
+    {
+      "id": "301343",
+      "title": "Illinois Terminal Neon Sign",
+      "latitude": 38.57188697,
+      "longitude": -90.4610388,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301343",
+      "photo_urls": []
+    },
+    {
+      "id": "301680",
+      "title": "Atchison, Topeka & Santa Fe #5011",
+      "latitude": 38.57192792,
+      "longitude": -90.46114371,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301680",
+      "photo_urls": []
+    },
+    {
+      "id": "301681",
+      "title": "Boston & Providence \"Daniel Nason\"",
+      "latitude": 38.57185444,
+      "longitude": -90.46113562,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301681",
+      "photo_urls": []
+    },
+    {
+      "id": "301682",
+      "title": "Chesapeake & Ohio #2727",
+      "latitude": 38.57200769,
+      "longitude": -90.46096294,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301682",
+      "photo_urls": []
+    },
+    {
+      "id": "301683",
+      "title": "General Motors #103",
+      "latitude": 38.57195113,
+      "longitude": -90.46096979,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301683",
+      "photo_urls": []
+    },
+    {
+      "id": "301684",
+      "title": "Erie-Lackawanna #3607",
+      "latitude": 38.57180006,
+      "longitude": -90.46185026,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301684",
+      "photo_urls": []
+    },
+    {
+      "id": "301686",
+      "title": "American Steel Foundries #8",
+      "latitude": 38.57150829,
+      "longitude": -90.46190865,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301686",
+      "photo_urls": []
+    },
+    {
+      "id": "301687",
+      "title": "New York Central #2933",
+      "latitude": 38.57168452,
+      "longitude": -90.46169615,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301687",
+      "photo_urls": []
+    },
+    {
+      "id": "301711",
+      "title": "Neighborhood Gardens Apartments",
+      "latitude": 38.63618774,
+      "longitude": -90.18859654,
+      "directions": "On North 7th Street, St. Louis, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301711",
+      "photo_urls": []
+    },
+    {
+      "id": "301785",
+      "title": "Terminal Railroad Association of St. Louis #318",
+      "latitude": 38.57164697,
+      "longitude": -90.46100672,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301785",
+      "photo_urls": []
+    },
+    {
+      "id": "301786",
+      "title": "St. Louis - San Francisco #1522",
+      "latitude": 38.57168467,
+      "longitude": -90.46103001,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301786",
+      "photo_urls": []
+    },
+    {
+      "id": "301787",
+      "title": "Illinois Terminal Railbus #206",
+      "latitude": 38.5717146,
+      "longitude": -90.46104964,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301787",
+      "photo_urls": []
+    },
+    {
+      "id": "301788",
+      "title": "St. Louis - Southwestern #71",
+      "latitude": 38.57176773,
+      "longitude": -90.46105696,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301788",
+      "photo_urls": []
+    },
+    {
+      "id": "301789",
+      "title": "Arkansas & Missouri #102",
+      "latitude": 38.57180009,
+      "longitude": -90.46108091,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301789",
+      "photo_urls": []
+    },
+    {
+      "id": "301790",
+      "title": "Delaware, Lackawanna & Western #952",
+      "latitude": 38.57183505,
+      "longitude": -90.46109705,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301790",
+      "photo_urls": []
+    },
+    {
+      "id": "301795",
+      "title": "\"Black Diamond\"",
+      "latitude": 38.57188583,
+      "longitude": -90.46091579,
+      "directions": "Near Barrett Station Road, near Kirkwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301795",
+      "photo_urls": []
+    },
+    {
+      "id": "301802",
+      "title": "Laclede-Christy Clau Products Company #2",
+      "latitude": 38.57242366,
+      "longitude": -90.46197534,
+      "directions": "On Barrett Station Road, near Kirkwood, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301802",
+      "photo_urls": []
+    },
+    {
+      "id": "302066",
+      "title": "The Dinah Robinson Courtyard",
+      "latitude": 39.41198648,
+      "longitude": -94.90154919,
+      "directions": "On Main Street, Weston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302066",
+      "photo_urls": []
+    },
+    {
+      "id": "302067",
+      "title": "Weston Burley House #1",
+      "latitude": 39.41014893,
+      "longitude": -94.90276852,
+      "directions": "On Main Street, Weston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302067",
+      "photo_urls": []
+    },
+    {
+      "id": "302070",
+      "title": "Weston, Missouri",
+      "latitude": 39.40662505,
+      "longitude": -94.88119338,
+      "directions": "On County Route JJ, near Weston, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302070",
+      "photo_urls": []
+    },
+    {
+      "id": "302072",
+      "title": "Kiwanis Park",
+      "latitude": 39.7106583,
+      "longitude": -91.35452174,
+      "directions": "On Broadway, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302072",
+      "photo_urls": []
+    },
+    {
+      "id": "302082",
+      "title": "Admiral Coontz",
+      "latitude": 39.71087496,
+      "longitude": -91.35578511,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302082",
+      "photo_urls": []
+    },
+    {
+      "id": "302084",
+      "title": "Marie Ruoff Byrum",
+      "latitude": 39.71092376,
+      "longitude": -91.35580422,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302084",
+      "photo_urls": []
+    },
+    {
+      "id": "302087",
+      "title": "Ukelele Ike",
+      "latitude": 39.71095349,
+      "longitude": -91.35583264,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302087",
+      "photo_urls": []
+    },
+    {
+      "id": "302088",
+      "title": "Gideon's Trumpet",
+      "latitude": 39.71097121,
+      "longitude": -91.35584774,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302088",
+      "photo_urls": []
+    },
+    {
+      "id": "302107",
+      "title": "Gaba's Girls",
+      "latitude": 39.71102024,
+      "longitude": -91.35588985,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302107",
+      "photo_urls": []
+    },
+    {
+      "id": "302110",
+      "title": "Eagle Eye Beckley",
+      "latitude": 39.71105428,
+      "longitude": -91.35590771,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302110",
+      "photo_urls": []
+    },
+    {
+      "id": "302111",
+      "title": "Bill Lear",
+      "latitude": 39.71108635,
+      "longitude": -91.3559254,
+      "directions": "On Center Street, Hannibal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302111",
+      "photo_urls": []
+    },
+    {
+      "id": "302115",
+      "title": "Murphy-Blair National Historic District",
+      "latitude": 38.65096808,
+      "longitude": -90.1989601,
+      "directions": "On Blair Avenue, St. Louis, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302115",
+      "photo_urls": []
+    },
+    {
+      "id": "302268",
+      "title": "The Siege of New Madrid",
+      "latitude": 36.589494,
+      "longitude": -89.55405,
+      "directions": "Near Blomfield Road, New Madrid, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302268",
+      "photo_urls": []
+    },
+    {
+      "id": "302662",
+      "title": "Masonic Temple",
+      "latitude": 36.58640556,
+      "longitude": -89.52874722,
+      "directions": "On Powell Avenue, New Madrid, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302662",
+      "photo_urls": []
+    },
+    {
+      "id": "302666",
+      "title": "Civil War Cannon Ball",
+      "latitude": 36.5864,
+      "longitude": -89.52646667,
+      "directions": "On Mill Street, New Madrid, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302666",
+      "photo_urls": []
+    },
+    {
+      "id": "302673",
+      "title": "Mark Twain",
+      "latitude": 36.58351111,
+      "longitude": -89.53039444,
+      "directions": "On Levee Road, New Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302673",
+      "photo_urls": []
+    },
+    {
+      "id": "302675",
+      "title": "President Theodore Roosevelt",
+      "latitude": 36.5835,
+      "longitude": -89.53031111,
+      "directions": "On Levee Road, New Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302675",
+      "photo_urls": []
+    },
+    {
+      "id": "302677",
+      "title": "The New Madrid Earthquake & The Steamship New Orleans",
+      "latitude": 36.58349722,
+      "longitude": -89.53021944,
+      "directions": "On Levee Road, New Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302677",
+      "photo_urls": []
+    },
+    {
+      "id": "302909",
+      "title": "Hannibal & St. Joseph Railroad",
+      "latitude": 39.6529678,
+      "longitude": -91.73447504,
+      "directions": "On Main Street (U.S. 24) , Monroe City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302909",
+      "photo_urls": []
+    },
+    {
       "id": "30291",
       "title": "Battle of the Big Blue",
       "latitude": 39.01283333,
       "longitude": -94.57151667,
       "directions": "On 63rd Street, Kansas City, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30291",
+      "photo_urls": []
+    },
+    {
+      "id": "302924",
+      "title": "Thomas F. Hunter Memorial",
+      "latitude": 36.58637222,
+      "longitude": -89.526475,
+      "directions": "On Mill Street, New Madrid, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302924",
+      "photo_urls": []
+    },
+    {
+      "id": "302925",
+      "title": "World War II Memorial",
+      "latitude": 36.58639444,
+      "longitude": -89.52646667,
+      "directions": "On Mill Street, New Madrid, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302925",
       "photo_urls": []
     },
     {
