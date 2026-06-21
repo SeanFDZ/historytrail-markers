@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-20T06:03:40.596Z",
+  "generated": "2026-06-21T06:03:23.910Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73464,
+  "total_markers": 73555,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -606,12 +606,12 @@
       "type": "state",
       "country": "United States",
       "file": "regions/us-ma.json",
-      "markers": 3530,
-      "size_bytes": 1075521,
-      "updated": "2026-04-26",
+      "markers": 3621,
+      "size_bytes": 1103979,
+      "updated": "2026-06-21",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 3490,
+        "added": 3545,
         "removed": 0,
         "modified": 0
       }
