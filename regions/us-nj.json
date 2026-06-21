@@ -3,9 +3,9 @@
   "region_name": "New Jersey",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-04-26T06:03:14.556Z",
-  "source_timestamp": "2026-04-26T06:03:14.556Z",
-  "marker_count": 4871,
+  "generated": "2026-06-21T06:03:10.854Z",
+  "source_timestamp": "2026-06-21T06:03:10.854Z",
+  "marker_count": 4910,
   "markers": [
     {
       "id": "10010",
@@ -2269,8 +2269,8 @@
     {
       "id": "127787",
       "title": "Swedish Cabin",
-      "latitude": 39.508279,
-      "longitude": -75.45996,
+      "latitude": 39.50808596,
+      "longitude": -75.46022956,
       "directions": "On Locust Island Road (County Route 658) , Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=127787",
       "photo_urls": []
@@ -2278,8 +2278,8 @@
     {
       "id": "127788",
       "title": "The Alloway Creek Watershed",
-      "latitude": 39.508695,
-      "longitude": -75.460748,
+      "latitude": 39.50871521,
+      "longitude": -75.46089524,
       "directions": "On Poplar Street (County Route 606) , Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=127788",
       "photo_urls": []
@@ -17209,8 +17209,8 @@
     {
       "id": "21591",
       "title": "Hancock House",
-      "latitude": 39.507902,
-      "longitude": -75.459664,
+      "latitude": 39.50789211,
+      "longitude": -75.459892,
       "directions": "On Locust Island Road, Hancocks Bridge, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21591",
       "photo_urls": []
@@ -17218,8 +17218,8 @@
     {
       "id": "21592",
       "title": "Patriots Massacred in the Hancock House",
-      "latitude": 39.508395,
-      "longitude": -75.46034,
+      "latitude": 39.50818172,
+      "longitude": -75.46047947,
       "directions": "On Front Street, Hancocks Bridge, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21592",
       "photo_urls": []
@@ -17236,8 +17236,8 @@
     {
       "id": "21604",
       "title": "Hancock House Massacre",
-      "latitude": 39.507671,
-      "longitude": -75.459734,
+      "latitude": 39.50784128,
+      "longitude": -75.46004266,
       "directions": "On New Street, Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21604",
       "photo_urls": []
@@ -17245,8 +17245,8 @@
     {
       "id": "21606",
       "title": "Old Bridges at this Location",
-      "latitude": 39.508763,
-      "longitude": -75.460641,
+      "latitude": 39.50875564,
+      "longitude": -75.46078391,
       "directions": "On Front Street, Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21606",
       "photo_urls": []
@@ -17317,8 +17317,8 @@
     {
       "id": "21703",
       "title": "Patterned Brick Houses",
-      "latitude": 39.507836,
-      "longitude": -75.46026,
+      "latitude": 39.50780544,
+      "longitude": -75.46043593,
       "directions": "On Locust Island Road, Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=21703",
       "photo_urls": []
@@ -24434,12 +24434,75 @@
       "photo_urls": []
     },
     {
+      "id": "298137",
+      "title": "The Montclair YWCA for Black Women and Girls",
+      "latitude": 40.81208452,
+      "longitude": -74.22277388,
+      "directions": "On Orange Road, Montclair, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298137",
+      "photo_urls": []
+    },
+    {
       "id": "298173",
       "title": "Welcome to the 1761 Brearley House",
       "latitude": 40.292413,
       "longitude": -74.700754,
       "directions": "Near Meadow Road, Lawrence Township, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298173",
+      "photo_urls": []
+    },
+    {
+      "id": "298201",
+      "title": "South Orange War Memorial",
+      "latitude": 40.745378,
+      "longitude": -74.25718997,
+      "directions": "On South Orange Avenue (County Route 510) , South Orange, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298201",
+      "photo_urls": []
+    },
+    {
+      "id": "298219",
+      "title": "Lafayette’s Tour",
+      "latitude": 40.75858611,
+      "longitude": -74.41506111,
+      "directions": "On Waverly Place (State Route 124) , Madison, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298219",
+      "photo_urls": []
+    },
+    {
+      "id": "298446",
+      "title": "Amatol",
+      "latitude": 39.60345124,
+      "longitude": -74.74761377,
+      "directions": "On Moss Mill Road (County Route 561) , Mullica Township, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298446",
+      "photo_urls": []
+    },
+    {
+      "id": "298456",
+      "title": "Fort Elfsborg",
+      "latitude": 39.5492536,
+      "longitude": -75.521011,
+      "directions": "On Fort Elfsborg-Salem Road (County Route 625) , Elsinboro Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298456",
+      "photo_urls": []
+    },
+    {
+      "id": "298506",
+      "title": "The New Jersey School of Conservation",
+      "latitude": 41.06427237,
+      "longitude": -74.59014445,
+      "directions": "On Hawthorne Lake Road, Sparta Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298506",
+      "photo_urls": []
+    },
+    {
+      "id": "298769",
+      "title": "The Cultivated Blueberry Industry",
+      "latitude": 39.73661379,
+      "longitude": -74.57920253,
+      "directions": "Near Hawkins Bridge Road, Washington Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298769",
       "photo_urls": []
     },
     {
@@ -24458,6 +24521,24 @@
       "longitude": -74.085169,
       "directions": "On Chestnut Ridge Road, Saddle River, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29878",
+      "photo_urls": []
+    },
+    {
+      "id": "298794",
+      "title": "Wistarburg Glass Works - Alloway",
+      "latitude": 39.5693854,
+      "longitude": -75.3396644,
+      "directions": "On Commissioners Pike (County Route 581) , Alloway Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298794",
+      "photo_urls": []
+    },
+    {
+      "id": "298810",
+      "title": "Absecon Lighthouse",
+      "latitude": 39.36625647,
+      "longitude": -74.41368195,
+      "directions": "On Pacific Avenue, Atlantic City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=298810",
       "photo_urls": []
     },
     {
@@ -24542,6 +24623,24 @@
       "photo_urls": []
     },
     {
+      "id": "299064",
+      "title": "Berrien City Historic Neighborhood",
+      "latitude": 40.31254556,
+      "longitude": -74.62444882,
+      "directions": "On Alexander Road, West Windsor Township, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299064",
+      "photo_urls": []
+    },
+    {
+      "id": "299273",
+      "title": "Weymouth Church",
+      "latitude": 39.51233279,
+      "longitude": -74.78038075,
+      "directions": "On Deep Run Road, Hamilton Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299273",
+      "photo_urls": []
+    },
+    {
       "id": "29933",
       "title": "Between Two Brooks – The Wortendyke Barn",
       "latitude": 41.028603,
@@ -24566,6 +24665,258 @@
       "longitude": -74.045419,
       "directions": "On Pascack Road, Park Ridge, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29938",
+      "photo_urls": []
+    },
+    {
+      "id": "299393",
+      "title": "The Van Kirk Homestead",
+      "latitude": 41.05550105,
+      "longitude": -74.61170235,
+      "directions": "On Main Street (County Route 517) , Sparta Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299393",
+      "photo_urls": []
+    },
+    {
+      "id": "299401",
+      "title": "Van Kirk Homestead and Museum",
+      "latitude": 41.05547247,
+      "longitude": -74.61173475,
+      "directions": "On Main Street (County Route 517) , Sparta Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299401",
+      "photo_urls": []
+    },
+    {
+      "id": "300178",
+      "title": "Bicentennial of the Birth of George Washington",
+      "latitude": 40.308236,
+      "longitude": -74.78574197,
+      "directions": "On Blackwell Road (County Route 546) , Pennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300178",
+      "photo_urls": []
+    },
+    {
+      "id": "300183",
+      "title": "Washington Township Korea & Vietnam War Memorial",
+      "latitude": 40.241798,
+      "longitude": -74.581956,
+      "directions": "On South Main Street, Robbinsville Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300183",
+      "photo_urls": []
+    },
+    {
+      "id": "300329",
+      "title": "Tuckerton",
+      "latitude": 39.60349978,
+      "longitude": -74.33837247,
+      "directions": "On East Main Street (U.S. 9) , Tuckerton, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300329",
+      "photo_urls": []
+    },
+    {
+      "id": "300352",
+      "title": "Cornelia Hancock",
+      "latitude": 39.52339817,
+      "longitude": -75.44939375,
+      "directions": "On New Bridge Road (County Route 623) , near Salem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300352",
+      "photo_urls": []
+    },
+    {
+      "id": "300463",
+      "title": "The John Estell House (circa 1750)",
+      "latitude": 39.39610334,
+      "longitude": -74.74740763,
+      "directions": "On Walkers Forge Road, Estell Manor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300463",
+      "photo_urls": []
+    },
+    {
+      "id": "300470",
+      "title": "Atlantic City Railroad Cape May Branch",
+      "latitude": 39.58918321,
+      "longitude": -74.85759703,
+      "directions": "On 12th Street (State Route 54) , Hammonton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300470",
+      "photo_urls": []
+    },
+    {
+      "id": "300561",
+      "title": "Tales of the Rails",
+      "latitude": 40.24170035,
+      "longitude": -74.58213364,
+      "directions": "On South Main Street, Robbinsville Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300561",
+      "photo_urls": []
+    },
+    {
+      "id": "300608",
+      "title": "Tales of the Rails",
+      "latitude": 40.2416637,
+      "longitude": -74.58213844,
+      "directions": "On South Main Street, Robbinsville Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300608",
+      "photo_urls": []
+    },
+    {
+      "id": "300825",
+      "title": "Summit Downtown Historic District",
+      "latitude": 40.71681111,
+      "longitude": -74.35769722,
+      "directions": "On Union Place, Summit, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300825",
+      "photo_urls": []
+    },
+    {
+      "id": "300906",
+      "title": "New Johnson Hall",
+      "latitude": 39.57322211,
+      "longitude": -75.46626808,
+      "directions": "On Market Street (State Route 45) , Salem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300906",
+      "photo_urls": []
+    },
+    {
+      "id": "301068",
+      "title": "1713 East Jersey Cottage",
+      "latitude": 40.293064,
+      "longitude": -74.546164,
+      "directions": "On Old Trenton Road (County Route 535) , Cranbury, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301068",
+      "photo_urls": []
+    },
+    {
+      "id": "301248",
+      "title": "Tales of the Rails",
+      "latitude": 40.24166,
+      "longitude": -74.58205997,
+      "directions": "On South Main Street, Robbinsville Township, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301248",
+      "photo_urls": []
+    },
+    {
+      "id": "301363",
+      "title": "Crossing the Canal at Washington Road",
+      "latitude": 40.339162,
+      "longitude": -74.647609,
+      "directions": "On Washington Road (County Route 526) , Princeton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301363",
+      "photo_urls": []
+    },
+    {
+      "id": "301691",
+      "title": "The Princeton Battle Monument",
+      "latitude": 40.348018,
+      "longitude": -74.665921,
+      "directions": "On Stockton Street (U.S. 206) , Princeton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301691",
+      "photo_urls": []
+    },
+    {
+      "id": "302094",
+      "title": "Slavery in Maidenhead: Two Paths to Freedom",
+      "latitude": 40.315941,
+      "longitude": -74.697236,
+      "directions": "On Province Line Road, near Princeton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302094",
+      "photo_urls": []
+    },
+    {
+      "id": "302348",
+      "title": "Second Presbyterian Church of Cranbury",
+      "latitude": 40.31397497,
+      "longitude": -74.51385397,
+      "directions": "On Westminster Place, Cranbury, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302348",
+      "photo_urls": []
+    },
+    {
+      "id": "302378",
+      "title": "Slavery at the Farmstead",
+      "latitude": 40.27690799,
+      "longitude": -74.59110119,
+      "directions": "Near Southfield Road, West Windsor Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302378",
+      "photo_urls": []
+    },
+    {
+      "id": "302729",
+      "title": "Princeton Pike",
+      "latitude": 40.29020797,
+      "longitude": -74.70950997,
+      "directions": "On Princeton Pike (County Route 583) , Lawrence Township, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302729",
+      "photo_urls": []
+    },
+    {
+      "id": "302837",
+      "title": "Soldiers' and Sailors' Monument",
+      "latitude": 40.71781217,
+      "longitude": -74.043589,
+      "directions": "On Grove Street, Jersey City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302837",
+      "photo_urls": []
+    },
+    {
+      "id": "302842",
+      "title": "World War II Memorial",
+      "latitude": 40.71535556,
+      "longitude": -74.03881111,
+      "directions": "On Grand Street, Jersey City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302842",
+      "photo_urls": []
+    },
+    {
+      "id": "302848",
+      "title": "William Mercado",
+      "latitude": 40.72143983,
+      "longitude": -74.04603341,
+      "directions": "On Newark Avenue (County Route 639) , Jersey City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302848",
+      "photo_urls": []
+    },
+    {
+      "id": "302850",
+      "title": "Jose Protacio Rizal",
+      "latitude": 40.72212004,
+      "longitude": -74.05099595,
+      "directions": "On Christopher Columbus Drive, Jersey City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302850",
+      "photo_urls": []
+    },
+    {
+      "id": "302854",
+      "title": "Knights of Rizal",
+      "latitude": 40.72217355,
+      "longitude": -74.05101365,
+      "directions": "On Christopher Columbus Drive, Jersey City, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302854",
+      "photo_urls": []
+    },
+    {
+      "id": "302986",
+      "title": "Lewisville Road",
+      "latitude": 40.290368,
+      "longitude": -74.72031597,
+      "directions": "On Lewisville Road, Lawrence Township, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302986",
+      "photo_urls": []
+    },
+    {
+      "id": "303066",
+      "title": "Johnson Trolley Line",
+      "latitude": 40.29721597,
+      "longitude": -74.73267697,
+      "directions": "On Craven Lane, Lawrence Township, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303066",
+      "photo_urls": []
+    },
+    {
+      "id": "303072",
+      "title": "Spring Grove",
+      "latitude": 40.292372,
+      "longitude": -74.709158,
+      "directions": "On Lewisville Road, Lawrence Township, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303072",
       "photo_urls": []
     },
     {
@@ -30133,8 +30484,8 @@
     {
       "id": "44026",
       "title": "Waving Acres of Grass",
-      "latitude": 39.508761,
-      "longitude": -75.460759,
+      "latitude": 39.50875243,
+      "longitude": -75.46094886,
       "directions": "On Poplar Street (County Route 606) , Hancocks Bridge, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=44026",
       "photo_urls": []
@@ -32130,7 +32481,7 @@
     },
     {
       "id": "5220",
-      "title": "National Guard Armory",
+      "title": "Site of the National Guard Armory",
       "latitude": 40.568343,
       "longitude": -74.609361,
       "directions": "On Grove Street, Somerville, (On the left when traveling south)",
@@ -40789,8 +41140,8 @@
     {
       "id": "8896",
       "title": "Washington’s Route from Princeton to Morristown",
-      "latitude": 40.646467,
-      "longitude": -74.639928,
+      "latitude": 40.64685056,
+      "longitude": -74.64015885,
       "directions": "On U.S. 202, Pluckemin, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=8896",
       "photo_urls": []
