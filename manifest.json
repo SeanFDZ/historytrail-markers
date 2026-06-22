@@ -1,9 +1,9 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-06-21T06:03:23.910Z",
+  "generated": "2026-06-22T06:07:13.030Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
-  "total_markers": 73555,
+  "total_markers": 73574,
   "total_regions": 44,
   "cycle_days": 28,
   "last_region_discovery": null,
@@ -574,12 +574,12 @@
       "type": "state",
       "country": "United States",
       "file": "regions/us-ky.json",
-      "markers": 4463,
-      "size_bytes": 1392746,
-      "updated": "2026-05-25",
+      "markers": 4482,
+      "size_bytes": 1398649,
+      "updated": "2026-06-22",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 4464,
+        "added": 4480,
         "removed": 0,
         "modified": 0
       }
