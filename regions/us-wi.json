@@ -3,9 +3,9 @@
   "region_name": "Wisconsin",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-25T06:03:41.241Z",
-  "source_timestamp": "2026-05-25T06:03:41.241Z",
-  "marker_count": 3512,
+  "generated": "2026-06-22T06:06:59.768Z",
+  "source_timestamp": "2026-06-22T06:06:59.768Z",
+  "marker_count": 3518,
   "markers": [
     {
       "id": "10026",
@@ -12797,6 +12797,24 @@
       "photo_urls": []
     },
     {
+      "id": "300235",
+      "title": "Chief Highknocker",
+      "latitude": 43.84236,
+      "longitude": -88.96575,
+      "directions": "On South Lawson Drive, Green Lake, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300235",
+      "photo_urls": []
+    },
+    {
+      "id": "301105",
+      "title": "White Oak",
+      "latitude": 44.949737,
+      "longitude": -91.772167,
+      "directions": "Near 730th Avenue, near Colfax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301105",
+      "photo_urls": []
+    },
+    {
       "id": "30121",
       "title": "Lizard Mound Park",
       "latitude": 43.46472222,
@@ -12842,6 +12860,24 @@
       "photo_urls": []
     },
     {
+      "id": "302245",
+      "title": "Wisconsin's Oak Savanna",
+      "latitude": 44.907047,
+      "longitude": -91.907156,
+      "directions": "On Interstate 94, near Menomonie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302245",
+      "photo_urls": []
+    },
+    {
+      "id": "302246",
+      "title": "\"Fine Meadows Where… Droves of Buffaloes and Elks were Feeding\"",
+      "latitude": 44.906984,
+      "longitude": -91.907059,
+      "directions": "Near Interstate 94, near Menomonie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302246",
+      "photo_urls": []
+    },
+    {
       "id": "30248",
       "title": "Shorewood High School",
       "latitude": 43.0888,
@@ -12869,12 +12905,30 @@
       "photo_urls": []
     },
     {
+      "id": "302790",
+      "title": "The Gilman Mounds",
+      "latitude": 43.025297,
+      "longitude": -89.350629,
+      "directions": "On the Capitol City Trail, Madison, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302790",
+      "photo_urls": []
+    },
+    {
       "id": "30351",
       "title": "Birthplace of the American League",
       "latitude": 43.041867,
       "longitude": -87.914658,
       "directions": "On North Old World 3rd Street, Milwaukee, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30351",
+      "photo_urls": []
+    },
+    {
+      "id": "303534",
+      "title": "White Pine",
+      "latitude": 44.946959,
+      "longitude": -91.768995,
+      "directions": "Near 730th Avenue, near Colfax, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303534",
       "photo_urls": []
     },
     {
