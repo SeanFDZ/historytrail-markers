@@ -3,9 +3,9 @@
   "region_name": "Kentucky",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-25T06:03:41.032Z",
-  "source_timestamp": "2026-05-25T06:03:41.032Z",
-  "marker_count": 4463,
+  "generated": "2026-06-22T06:06:59.528Z",
+  "source_timestamp": "2026-06-22T06:06:59.528Z",
+  "marker_count": 4482,
   "markers": [
     {
       "id": "100711",
@@ -18019,8 +18019,8 @@
     {
       "id": "18519",
       "title": "Union Supply Base",
-      "latitude": 36.95561477,
-      "longitude": -89.09115493,
+      "latitude": 36.95509052,
+      "longitude": -89.09139791,
       "directions": "On Westvaco Road (U.S. 51/62) , near Wickliffe, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=18519",
       "photo_urls": []
@@ -27667,8 +27667,8 @@
     {
       "id": "278110",
       "title": "Flags! Flags! Flags!",
-      "latitude": 36.955437,
-      "longitude": -89.091769,
+      "latitude": 36.95546681,
+      "longitude": -89.09175583,
       "directions": "On Fort Jefferson Hill Road (U.S. 51/62) , Wickliffe, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=278110",
       "photo_urls": []
@@ -29597,6 +29597,177 @@
       "longitude": -83.73315811,
       "directions": "On North Main Cross Street (State Route 57) , Flemingsburg, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30016",
+      "photo_urls": []
+    },
+    {
+      "id": "300598",
+      "title": "The Battle of Richmond",
+      "latitude": 37.70026,
+      "longitude": -84.26435,
+      "directions": "On Duncannon Road, near Richmond, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300598",
+      "photo_urls": []
+    },
+    {
+      "id": "300599",
+      "title": "Kentucky - September 1861",
+      "latitude": 37.26472,
+      "longitude": -84.20011,
+      "directions": "Near Old Wilderness Road, East Bernstadt, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300599",
+      "photo_urls": []
+    },
+    {
+      "id": "300971",
+      "title": "Propelling The Water",
+      "latitude": 37.0150207,
+      "longitude": -88.2688631,
+      "directions": "On Kentucky Dam Road, Grand Rivers, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300971",
+      "photo_urls": []
+    },
+    {
+      "id": "300992",
+      "title": "The TVA System of Multi-Purpose Dams",
+      "latitude": 37.0101808,
+      "longitude": -88.2729425,
+      "directions": "On Kentucky Dam Road, Calvert City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300992",
+      "photo_urls": []
+    },
+    {
+      "id": "301008",
+      "title": "Kentucky Dam",
+      "latitude": 37.0141518,
+      "longitude": -88.2684206,
+      "directions": "On Kentucky Dam Road, Grand Rivers, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301008",
+      "photo_urls": []
+    },
+    {
+      "id": "301212",
+      "title": "Green Mill",
+      "latitude": 37.58833917,
+      "longitude": -86.55328082,
+      "directions": "On Jenny Green Road, Falls of Rough, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301212",
+      "photo_urls": []
+    },
+    {
+      "id": "301230",
+      "title": "Trace Branch United Methodist Church",
+      "latitude": 36.90384051,
+      "longitude": -83.86213327,
+      "directions": "On State Route 11, Heidrick, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301230",
+      "photo_urls": []
+    },
+    {
+      "id": "301235",
+      "title": "Site of Boyhood Home of Red Foley / Clyde Julian \"Red\" Foley",
+      "latitude": 37.58888659,
+      "longitude": -84.30073838,
+      "directions": "On Walnut Meadow Road (State Route 595) , Berea, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301235",
+      "photo_urls": []
+    },
+    {
+      "id": "301237",
+      "title": "Middletown Consolidated School",
+      "latitude": 37.58612466,
+      "longitude": -84.29844759,
+      "directions": "On Walnut Meadow Road (State Route 595) , Berea, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301237",
+      "photo_urls": []
+    },
+    {
+      "id": "301390",
+      "title": "County Named, 1819",
+      "latitude": 38.53604054,
+      "longitude": -84.83728483,
+      "directions": "On Seminary Street (State Route 22) , Owenton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301390",
+      "photo_urls": []
+    },
+    {
+      "id": "301403",
+      "title": "Washington County",
+      "latitude": 37.63155377,
+      "longitude": -85.25672288,
+      "directions": "On Springfield Road (State Route 55) , Springfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301403",
+      "photo_urls": []
+    },
+    {
+      "id": "301884",
+      "title": "County Named, 1806",
+      "latitude": 37.32725213,
+      "longitude": -84.91919361,
+      "directions": "On North Wallace Wilkinson Boulevard (U.S. 127) , Liberty, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301884",
+      "photo_urls": []
+    },
+    {
+      "id": "301970",
+      "title": "Civil War Crossroads / Martin's Creek Skirmish, 1863",
+      "latitude": 37.31802165,
+      "longitude": -84.94054719,
+      "directions": "On KY-70, Liberty, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301970",
+      "photo_urls": []
+    },
+    {
+      "id": "302399",
+      "title": "Barlow Veterans Memorial",
+      "latitude": 37.05152585,
+      "longitude": -89.03982889,
+      "directions": "On Broadway Street (U.S. 60) , Barlow, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302399",
+      "photo_urls": []
+    },
+    {
+      "id": "303094",
+      "title": "Patriot Burials",
+      "latitude": 37.08547904,
+      "longitude": -88.619833,
+      "directions": "On Park Avenue, Paducah, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303094",
+      "photo_urls": []
+    },
+    {
+      "id": "303097",
+      "title": "Linn Boyd",
+      "latitude": 37.08701819,
+      "longitude": -88.62400421,
+      "directions": "Near Park Avenue (Interstate Business 24) , Paducah, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303097",
+      "photo_urls": []
+    },
+    {
+      "id": "303098",
+      "title": "The Hotel Metropolitan",
+      "latitude": 37.07942971,
+      "longitude": -88.5991123,
+      "directions": "On Oscar Cross Avenue, Paducah, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303098",
+      "photo_urls": []
+    },
+    {
+      "id": "303190",
+      "title": "Berea – A Birthplace of the Handicraft Revival",
+      "latitude": 37.59651852,
+      "longitude": -84.31192107,
+      "directions": "On Artisan Way, Berea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303190",
+      "photo_urls": []
+    },
+    {
+      "id": "303192",
+      "title": "Kentucky's Earliest Artforms",
+      "latitude": 37.59653036,
+      "longitude": -84.31184206,
+      "directions": "On Artisan Way, Berea, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303192",
       "photo_urls": []
     },
     {
@@ -31699,8 +31870,8 @@
     {
       "id": "47217",
       "title": "Irvin S. Cobb",
-      "latitude": 37.08637672,
-      "longitude": -88.62232089,
+      "latitude": 37.08579614,
+      "longitude": -88.62141589,
       "directions": "Near Park Avenue (U.S. Business 60) , Paducah, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=47217",
       "photo_urls": []
