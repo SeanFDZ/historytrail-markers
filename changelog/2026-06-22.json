@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-22",
+  "run_id": 174,
+  "cycle_day": 5,
+  "regions_processed": [
+    "us-ky"
+  ],
+  "changes": {
+    "us-ky": {
+      "added": 4480,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 21694,
+  "total_removed": 0,
+  "total_modified": 0
+}
