@@ -3,9 +3,9 @@
   "region_name": "Maryland",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-25T06:03:41.088Z",
-  "source_timestamp": "2026-05-25T06:03:41.088Z",
-  "marker_count": 8326,
+  "generated": "2026-06-22T06:06:59.590Z",
+  "source_timestamp": "2026-06-22T06:06:59.590Z",
+  "marker_count": 8377,
   "markers": [
     {
       "id": "100",
@@ -43572,7 +43572,7 @@
       "title": "Federal Hill",
       "latitude": 39.2803,
       "longitude": -76.60811667,
-      "directions": "Near Warren Avenue, Baltimore, ",
+      "directions": "Near Warren Avenue, Baltimore, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=2560",
       "photo_urls": []
     },
@@ -44443,8 +44443,8 @@
     {
       "id": "260455",
       "title": "William Penn",
-      "latitude": 38.84339113,
-      "longitude": -76.54210606,
+      "latitude": 38.84345747,
+      "longitude": -76.5420262,
       "directions": "On Galesville Road, near Galesville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260455",
       "photo_urls": []
@@ -52505,6 +52505,123 @@
       "photo_urls": []
     },
     {
+      "id": "301042",
+      "title": "Revolutionary War Patriots",
+      "latitude": 38.98016331,
+      "longitude": -76.48678823,
+      "directions": "On King George Street, Annapolis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301042",
+      "photo_urls": []
+    },
+    {
+      "id": "301044",
+      "title": "Shiplap House",
+      "latitude": 38.97855744,
+      "longitude": -76.48739913,
+      "directions": "On Pinkney Street, Annapolis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301044",
+      "photo_urls": []
+    },
+    {
+      "id": "301046",
+      "title": "Gresham",
+      "latitude": 38.90596834,
+      "longitude": -76.52964573,
+      "directions": "On Central Avenue, Edgewater, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301046",
+      "photo_urls": []
+    },
+    {
+      "id": "301047",
+      "title": "Primrose Hill",
+      "latitude": 38.960625,
+      "longitude": -76.50346389,
+      "directions": "On Primrose Hill Lane, Annapolis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301047",
+      "photo_urls": []
+    },
+    {
+      "id": "301052",
+      "title": "Galesville's Waterfront",
+      "latitude": 38.84295,
+      "longitude": -76.53977222,
+      "directions": "On Riverside Drive, Galesville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301052",
+      "photo_urls": []
+    },
+    {
+      "id": "301054",
+      "title": "Maritime Industry on Tenthouse Creek",
+      "latitude": 38.84500556,
+      "longitude": -76.54511944,
+      "directions": "On Maryland 255, Galesville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301054",
+      "photo_urls": []
+    },
+    {
+      "id": "301056",
+      "title": "Farming in Galesville: Montell Farm",
+      "latitude": 38.84679722,
+      "longitude": -76.55090278,
+      "directions": "On Anchors Way, Galesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301056",
+      "photo_urls": []
+    },
+    {
+      "id": "301059",
+      "title": "Remembering Congressman Parren J. Mitchell",
+      "latitude": 38.96284731,
+      "longitude": -76.504373,
+      "directions": "On Hilltop Lane, Annapolis, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301059",
+      "photo_urls": []
+    },
+    {
+      "id": "301064",
+      "title": "West Benning Road Historic District",
+      "latitude": 38.84778776,
+      "longitude": -76.54999263,
+      "directions": "On Benning Road, Galesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301064",
+      "photo_urls": []
+    },
+    {
+      "id": "301067",
+      "title": "The Heart of Galesville's Black Community",
+      "latitude": 38.84779421,
+      "longitude": -76.55002804,
+      "directions": "On Benning Road, Galesville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301067",
+      "photo_urls": []
+    },
+    {
+      "id": "301069",
+      "title": "Property-Owning Pioneers",
+      "latitude": 38.84796581,
+      "longitude": -76.55234052,
+      "directions": "Near Galesville Road, Galesville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301069",
+      "photo_urls": []
+    },
+    {
+      "id": "301072",
+      "title": "Let's Play Ball!",
+      "latitude": 38.84845278,
+      "longitude": -76.55249722,
+      "directions": "On Galesville Road, Galesville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301072",
+      "photo_urls": []
+    },
+    {
+      "id": "301163",
+      "title": "Heffner Park and Community Center",
+      "latitude": 38.98534722,
+      "longitude": -77.00936111,
+      "directions": "On Oswego Avenue, Takoma Park, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301163",
+      "photo_urls": []
+    },
+    {
       "id": "3013",
       "title": "Headquarters Second Corps Army of the Potomac",
       "latitude": 39.59415,
@@ -52541,6 +52658,15 @@
       "photo_urls": []
     },
     {
+      "id": "301685",
+      "title": "Lynching in America / The Lynching of James Taylor",
+      "latitude": 39.20993611,
+      "longitude": -76.06592222,
+      "directions": "On North Cross Street, Chestertown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301685",
+      "photo_urls": []
+    },
+    {
       "id": "3018",
       "title": "Western Maryland Railway Honor Roll",
       "latitude": 39.57061667,
@@ -52550,12 +52676,75 @@
       "photo_urls": []
     },
     {
+      "id": "301926",
+      "title": "Pocomoke Nation Tribal Homelands",
+      "latitude": 38.00493889,
+      "longitude": -75.54358611,
+      "directions": "Near Ocean Highway (U.S. 13) , near Pocomoke City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301926",
+      "photo_urls": []
+    },
+    {
+      "id": "301927",
+      "title": "Pocomoke Tribal Homelands",
+      "latitude": 38.00489444,
+      "longitude": -75.54357222,
+      "directions": "Near Ocean Highway (U.S. 13) , near Pocomoke City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301927",
+      "photo_urls": []
+    },
+    {
       "id": "3020",
       "title": "Strawbridge Log Meeting House Site",
       "latitude": 39.51181667,
       "longitude": -77.10563333,
       "directions": "On Marston Road (State Route 407) , New Windsor, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3020",
+      "photo_urls": []
+    },
+    {
+      "id": "302034",
+      "title": "Welcome…this is Ewell",
+      "latitude": 37.99508168,
+      "longitude": -76.0313338,
+      "directions": "On Caleb Jones Road, Smith Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302034",
+      "photo_urls": []
+    },
+    {
+      "id": "302036",
+      "title": "The Waterman's Way of Life",
+      "latitude": 38.57486389,
+      "longitude": -76.07175556,
+      "directions": "On High Street, Cambridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302036",
+      "photo_urls": []
+    },
+    {
+      "id": "302037",
+      "title": "The Last Skipjack to Be Built",
+      "latitude": 38.57487778,
+      "longitude": -76.07176944,
+      "directions": "On High Street, Cambridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302037",
+      "photo_urls": []
+    },
+    {
+      "id": "302038",
+      "title": "From Wild Ponies to the Boardwalk",
+      "latitude": 38.00473333,
+      "longitude": -75.54341944,
+      "directions": "Near Ocean Highway (U.S. 13) , Pocomoke City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302038",
+      "photo_urls": []
+    },
+    {
+      "id": "302048",
+      "title": "War Along the Chesapeake",
+      "latitude": 38.00466111,
+      "longitude": -75.54337222,
+      "directions": "Near Ocean Highway (U.S. 13) , near Pocomoke City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302048",
       "photo_urls": []
     },
     {
@@ -52577,6 +52766,33 @@
       "photo_urls": []
     },
     {
+      "id": "302219",
+      "title": "Washington Baptist Seminary",
+      "latitude": 38.94413296,
+      "longitude": -76.9744266,
+      "directions": "On Eastern Avenue, near Mount Ranier, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302219",
+      "photo_urls": []
+    },
+    {
+      "id": "302221",
+      "title": "Washington International Theological Seminary",
+      "latitude": 38.94413627,
+      "longitude": -76.97442435,
+      "directions": "On Eastern Avenue, near Mount Rainier, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302221",
+      "photo_urls": []
+    },
+    {
+      "id": "302224",
+      "title": "Medhane Alem Eritrean Orthodox Church",
+      "latitude": 38.93773194,
+      "longitude": -76.94387811,
+      "directions": "On Bladensburg Road (U.S. Alternate 1) , Colmar Manor, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302224",
+      "photo_urls": []
+    },
+    {
       "id": "3023",
       "title": "The First Complete County Rural Free Delivery Service",
       "latitude": 39.57351667,
@@ -52595,12 +52811,255 @@
       "photo_urls": []
     },
     {
+      "id": "302402",
+      "title": "The History of Seat Belts",
+      "latitude": 39.19740831,
+      "longitude": -76.61292933,
+      "directions": "On Governor Ritchie Highway, Glen Burnie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302402",
+      "photo_urls": []
+    },
+    {
+      "id": "302404",
+      "title": "Veterans Memorial",
+      "latitude": 39.19757074,
+      "longitude": -76.61282984,
+      "directions": "On Governor Ritchie Highway, Glen Burnie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302404",
+      "photo_urls": []
+    },
+    {
+      "id": "302549",
+      "title": "Federal Hill",
+      "latitude": 39.28047,
+      "longitude": -76.60813,
+      "directions": "Near Covington Street, Baltimore, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302549",
+      "photo_urls": []
+    },
+    {
+      "id": "302611",
+      "title": "Federal Hill",
+      "latitude": 39.28042112,
+      "longitude": -76.60929919,
+      "directions": "Near Warren Avenue, Baltimore, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302611",
+      "photo_urls": []
+    },
+    {
+      "id": "302616",
+      "title": "Federal Hill",
+      "latitude": 39.27929167,
+      "longitude": -76.60873056,
+      "directions": "Near Warren Avenue, Baltimore, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302616",
+      "photo_urls": []
+    },
+    {
+      "id": "302652",
+      "title": "Revolutionary War Patriots",
+      "latitude": 39.28016497,
+      "longitude": -76.60865922,
+      "directions": "On Warren Avenue, Baltimore, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302652",
+      "photo_urls": []
+    },
+    {
+      "id": "302792",
+      "title": "A Beacon on the Choptank",
+      "latitude": 38.57667331,
+      "longitude": -76.07071444,
+      "directions": "On High Street, Cambridge, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302792",
+      "photo_urls": []
+    },
+    {
+      "id": "302794",
+      "title": "Robbin's Heritage Center",
+      "latitude": 38.56645833,
+      "longitude": -76.05908333,
+      "directions": "On Greenway Drive, Cambridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302794",
+      "photo_urls": []
+    },
+    {
+      "id": "302795",
+      "title": "Plantation Garden",
+      "latitude": 38.56666111,
+      "longitude": -76.05947778,
+      "directions": "On Greenway Drive, Cambridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302795",
+      "photo_urls": []
+    },
+    {
+      "id": "302797",
+      "title": "Goldsborough Stable",
+      "latitude": 38.56640278,
+      "longitude": -76.05976111,
+      "directions": "On Smith Street, Cambridge, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302797",
+      "photo_urls": []
+    },
+    {
+      "id": "302816",
+      "title": "LaGrange Plantation",
+      "latitude": 38.566475,
+      "longitude": -76.06005833,
+      "directions": "On Smith Street, Cambridge, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302816",
+      "photo_urls": []
+    },
+    {
+      "id": "302817",
+      "title": "The Stronghouse",
+      "latitude": 38.56650833,
+      "longitude": -76.05950278,
+      "directions": "On Greenway Drive, Cambridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302817",
+      "photo_urls": []
+    },
+    {
+      "id": "302819",
+      "title": "The Meredith House",
+      "latitude": 38.56676146,
+      "longitude": -76.05978361,
+      "directions": "On Greenway Drive, Cambridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302819",
+      "photo_urls": []
+    },
+    {
+      "id": "302822",
+      "title": "Archaeology at the Asbury United Methodist Church",
+      "latitude": 38.77344926,
+      "longitude": -76.06986213,
+      "directions": "On South Higgins Street, Easton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302822",
+      "photo_urls": []
+    },
+    {
+      "id": "302835",
+      "title": "Archaeology at the Civil War and Buffalo Soldier House",
+      "latitude": 38.77259167,
+      "longitude": -76.070075,
+      "directions": "On South Street, Easton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302835",
+      "photo_urls": []
+    },
+    {
+      "id": "302841",
+      "title": "Bethel African Methodist Episcopal Church",
+      "latitude": 39.21365833,
+      "longitude": -76.07048056,
+      "directions": "On North College Avenue, Chestertown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302841",
+      "photo_urls": []
+    },
+    {
+      "id": "302847",
+      "title": "Henry Highland Garnet Elementary School",
+      "latitude": 39.21261667,
+      "longitude": -76.06988611,
+      "directions": "On Calvert Street, Chestertown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302847",
+      "photo_urls": []
+    },
+    {
+      "id": "302849",
+      "title": "New Yarmouth",
+      "latitude": 39.06817782,
+      "longitude": -76.22491329,
+      "directions": "On Eastern Neck Road (State Route 445) , near Rock Hall, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302849",
+      "photo_urls": []
+    },
+    {
+      "id": "302851",
+      "title": "Red Nun #6",
+      "latitude": 39.13678611,
+      "longitude": -76.25606667,
+      "directions": "On Beach Road, Rock Hall, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302851",
+      "photo_urls": []
+    },
+    {
+      "id": "302860",
+      "title": "Veterans Memorial",
+      "latitude": 39.13840529,
+      "longitude": -76.23507279,
+      "directions": "On Rock Hall Avenue, Rock Hall, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302860",
+      "photo_urls": []
+    },
+    {
+      "id": "302861",
+      "title": "Gateway Park",
+      "latitude": 39.21868889,
+      "longitude": -76.08142778,
+      "directions": "On High Street (State Route 20) , Chestertown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302861",
+      "photo_urls": []
+    },
+    {
+      "id": "302862",
+      "title": "Emmanuel Episcopal Church Slavery Acknowledgement",
+      "latitude": 39.20926792,
+      "longitude": -76.06617263,
+      "directions": "On North Cross Street, Chestertown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302862",
+      "photo_urls": []
+    },
+    {
+      "id": "302866",
+      "title": "First Methodist Episcopal Church",
+      "latitude": 39.20984544,
+      "longitude": -76.06703083,
+      "directions": "On Spring Avenue, Chestertown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302866",
+      "photo_urls": []
+    },
+    {
+      "id": "302884",
+      "title": "Save Haven in the Face of Segregation",
+      "latitude": 38.89905833,
+      "longitude": -76.91342222,
+      "directions": "On 60th Place, Fairmount Heights, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302884",
+      "photo_urls": []
+    },
+    {
+      "id": "302886",
+      "title": "Original Town Hall and Municipal Center",
+      "latitude": 38.89905833,
+      "longitude": -76.91335278,
+      "directions": "On 60th Place, Fairmount Heights, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302886",
+      "photo_urls": []
+    },
+    {
+      "id": "302888",
+      "title": "Fairmount Elementary School",
+      "latitude": 38.89945278,
+      "longitude": -76.91201667,
+      "directions": "On 61st Avenue, Fairmount Heights, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302888",
+      "photo_urls": []
+    },
+    {
       "id": "303",
       "title": "The Clara Barton House",
       "latitude": 38.969048,
       "longitude": -77.139333,
       "directions": "On MacArthur Boulevard, Glen Echo, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=303",
+      "photo_urls": []
+    },
+    {
+      "id": "303410",
+      "title": "Confederate Forces",
+      "latitude": 39.39732,
+      "longitude": -77.635467,
+      "directions": "On Gapland Road / West Main Street, Burkittsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303410",
       "photo_urls": []
     },
     {
@@ -61156,8 +61615,8 @@
     {
       "id": "6201",
       "title": "Welcome to Galesville",
-      "latitude": 38.843579,
-      "longitude": -76.541932,
+      "latitude": 38.84350444,
+      "longitude": -76.54215552,
       "directions": "On Main Street, Galesville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6201",
       "photo_urls": []
@@ -61174,8 +61633,8 @@
     {
       "id": "6203",
       "title": "Steamboat Landing",
-      "latitude": 38.843571,
-      "longitude": -76.541728,
+      "latitude": 38.84358322,
+      "longitude": -76.54194528,
       "directions": "Near Main Street, Galesville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6203",
       "photo_urls": []
@@ -61183,8 +61642,8 @@
     {
       "id": "6204",
       "title": "Native Plants",
-      "latitude": 38.843698,
-      "longitude": -76.541749,
+      "latitude": 38.84359095,
+      "longitude": -76.5417938,
       "directions": "Near Main Street, Galesville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6204",
       "photo_urls": []
@@ -69192,7 +69651,7 @@
     },
     {
       "id": "78737",
-      "title": "Long Wharf",
+      "title": "The River",
       "latitude": 38.5756,
       "longitude": -76.0717,
       "directions": "On High Street at Choptank River, Cambridge, ",
