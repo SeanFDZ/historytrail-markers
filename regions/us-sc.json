@@ -3,9 +3,9 @@
   "region_name": "South Carolina",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-25T06:03:41.183Z",
-  "source_timestamp": "2026-05-25T06:03:41.183Z",
-  "marker_count": 5199,
+  "generated": "2026-06-22T06:06:59.697Z",
+  "source_timestamp": "2026-06-22T06:06:59.697Z",
+  "marker_count": 5360,
   "markers": [
     {
       "id": "10001",
@@ -3240,7 +3240,7 @@
     },
     {
       "id": "11519",
-      "title": "The Town Of Brunson",
+      "title": "The Town of Brunson",
       "latitude": 32.927524,
       "longitude": -81.19125,
       "directions": "On U.S. 278, Brunson, (On the right when traveling west)",
@@ -6078,7 +6078,7 @@
       "title": "Bart's Corner",
       "latitude": 33.39238833,
       "longitude": -80.54133277,
-      "directions": "On Old State Road (U.S. 176) , Providence Community, Holly Hill, (On the right when traveling west)",
+      "directions": "On Old State Road (U.S. 176) , near Holly Hill, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=134426",
       "photo_urls": []
     },
@@ -8271,10 +8271,10 @@
     },
     {
       "id": "15398",
-      "title": "\" The Frampton Line \"",
+      "title": "\"The Frampton Line\"",
       "latitude": 32.631731,
       "longitude": -80.872046,
-      "directions": "On Lowcountry Lane, Pocotaligo, ",
+      "directions": "On Low Country Lane, Yemassee, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=15398",
       "photo_urls": []
     },
@@ -12339,7 +12339,7 @@
     },
     {
       "id": "19665",
-      "title": "Col. Othneil Beale's House",
+      "title": "99 - 101 East Bay",
       "latitude": 32.77567909,
       "longitude": -79.92745489,
       "directions": "On East Bay, Charleston, ",
@@ -12576,7 +12576,7 @@
       "title": "All Wars Memorial",
       "latitude": 32.866404,
       "longitude": -81.109598,
-      "directions": "On Jackson Street, Hampton, (In the median)",
+      "directions": "On 1st Street West (U.S. 601) , Hampton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=19814",
       "photo_urls": []
     },
@@ -13311,7 +13311,7 @@
     },
     {
       "id": "199865",
-      "title": "Pearson Family Homesite/<i> Pearson V. Clarendon Co. </i>",
+      "title": "Pearson Family Homesite / <i>Pearson V. Clarendon Co. </i>",
       "latitude": 33.59340278,
       "longitude": -80.24504167,
       "directions": "On L and H Pearson Road, Manning, (On the right when traveling south)",
@@ -14877,7 +14877,7 @@
     },
     {
       "id": "21827",
-      "title": "Battle of Eutaw Springs",
+      "title": "Victory in Defeat / A Close and Deadly Clash of Veteran Troops",
       "latitude": 33.40733,
       "longitude": -80.298659,
       "directions": "On Old Number Six Highway (State Route 6 / 45) , Eutawville, (On the left when traveling east)",
@@ -14976,7 +14976,7 @@
     },
     {
       "id": "218662",
-      "title": "Cyrus Garvin/Cyrus Garvin House",
+      "title": "Cyrus Garvin / Cyrus Garvin House",
       "latitude": 32.23230833,
       "longitude": -80.86760833,
       "directions": "On Wharf Street, Bluffton, (On the right when traveling south)",
@@ -15471,7 +15471,7 @@
     },
     {
       "id": "22057",
-      "title": "Battle of Eutaw Springs",
+      "title": "A Determined Defense by a Brave Commander",
       "latitude": 33.407478,
       "longitude": -80.298584,
       "directions": "Near Old Number Six Highway ( SC-6, SC-45), Eutawville, (On the left when traveling east)",
@@ -17724,7 +17724,7 @@
       "title": "Stony Landing House",
       "latitude": 33.192875,
       "longitude": -79.969944,
-      "directions": "Near Old Stony Landing Road, Moncks Corner, ",
+      "directions": "Near Stony Landing Road, Moncks Corner, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23088",
       "photo_urls": []
     },
@@ -22474,9 +22474,9 @@
     {
       "id": "26368",
       "title": "The Frampton Lines / John Edward Frampton House",
-      "latitude": 32.637288,
-      "longitude": -80.863237,
-      "directions": "On Kings Highway (U.S. 17/21) , near Pocotaligo, (On the right when traveling east)",
+      "latitude": 32.63299711,
+      "longitude": -80.87319213,
+      "directions": "On Kings Highway (U.S. 17) , near Yemassee, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=26368",
       "photo_urls": []
     },
@@ -23851,8 +23851,8 @@
     {
       "id": "269785",
       "title": "The Water Trough",
-      "latitude": 33.36582,
-      "longitude": -79.28242,
+      "latitude": 33.36591496,
+      "longitude": -79.28237987,
       "directions": "On Front Street, Georgetown, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=269785",
       "photo_urls": []
@@ -30689,12 +30689,273 @@
       "photo_urls": []
     },
     {
+      "id": "300616",
+      "title": "Anderson Brothers Bank",
+      "latitude": 34.41726627,
+      "longitude": -79.37198138,
+      "directions": "On North Macarthur Avenue, Dillon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300616",
+      "photo_urls": []
+    },
+    {
+      "id": "300618",
+      "title": "Mayors of Dillon",
+      "latitude": 34.41743333,
+      "longitude": -79.37231389,
+      "directions": "On North Railroad Avenue (State Route 34) , Dillon, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300618",
+      "photo_urls": []
+    },
+    {
+      "id": "300620",
+      "title": "106 North MacArthur Avenue",
+      "latitude": 34.41744167,
+      "longitude": -79.37184167,
+      "directions": "On North Macarthur Avenue, Dillon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300620",
+      "photo_urls": []
+    },
+    {
+      "id": "300622",
+      "title": "112 North MacArthur Avenue",
+      "latitude": 34.41753017,
+      "longitude": -79.37175946,
+      "directions": "On North Macarthur Avenue, Dillon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300622",
+      "photo_urls": []
+    },
+    {
+      "id": "300623",
+      "title": "Dillon Theatre",
+      "latitude": 34.41760212,
+      "longitude": -79.37166527,
+      "directions": "On North Macarthur Avenue, Dillon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300623",
+      "photo_urls": []
+    },
+    {
+      "id": "300626",
+      "title": "William Wallace Harllee / Florence Henning Harllee",
+      "latitude": 34.128625,
+      "longitude": -79.62343611,
+      "directions": "On Old River Road (State Route S-21-57) , near Florence, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300626",
+      "photo_urls": []
+    },
+    {
+      "id": "300627",
+      "title": "Salem United Methodist Church",
+      "latitude": 34.12393611,
+      "longitude": -79.61290833,
+      "directions": "On Old River Road (State Route S-21-57) , near Florence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300627",
+      "photo_urls": []
+    },
+    {
       "id": "30063",
       "title": "Table Rock State Park",
       "latitude": 35.02475556,
       "longitude": -82.70472222,
       "directions": "On TR Campground Road, Pickens, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30063",
+      "photo_urls": []
+    },
+    {
+      "id": "300630",
+      "title": "Willow Creek Baptist Church",
+      "latitude": 34.10489722,
+      "longitude": -79.59044722,
+      "directions": "On North Old River Road (State Route S-21-57) , near Pamplico, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300630",
+      "photo_urls": []
+    },
+    {
+      "id": "300632",
+      "title": "Masonic Hall",
+      "latitude": 34.09421231,
+      "longitude": -79.73613171,
+      "directions": "On Poor Farm Road (State Route 21-552) , Effingham, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300632",
+      "photo_urls": []
+    },
+    {
+      "id": "300635",
+      "title": "Schoolhouse Bar-B-Que and the BBQ Trail",
+      "latitude": 33.92365,
+      "longitude": -79.74605556,
+      "directions": "On U.S. 52, Scranton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300635",
+      "photo_urls": []
+    },
+    {
+      "id": "300636",
+      "title": "Tim McElveen",
+      "latitude": 33.87414167,
+      "longitude": -79.75430278,
+      "directions": "On North Acline Street (State Route S-21-32) , Lake City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300636",
+      "photo_urls": []
+    },
+    {
+      "id": "300641",
+      "title": "128 North Acline Avenue",
+      "latitude": 33.87393611,
+      "longitude": -79.75434167,
+      "directions": "On State Road S-21-806, Lake City, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300641",
+      "photo_urls": []
+    },
+    {
+      "id": "300646",
+      "title": "126 North Acline Avenue",
+      "latitude": 33.87383611,
+      "longitude": -79.75439444,
+      "directions": "On North Acline Avenue (State Route S-21-32) , Lake City, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300646",
+      "photo_urls": []
+    },
+    {
+      "id": "300717",
+      "title": "139 & 141 E. Main St.",
+      "latitude": 33.8718683,
+      "longitude": -79.75344776,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300717",
+      "photo_urls": []
+    },
+    {
+      "id": "300718",
+      "title": "137 East Main Street",
+      "latitude": 33.87191365,
+      "longitude": -79.75350099,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300718",
+      "photo_urls": []
+    },
+    {
+      "id": "300720",
+      "title": "133 East Main Street",
+      "latitude": 33.87197797,
+      "longitude": -79.75358228,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300720",
+      "photo_urls": []
+    },
+    {
+      "id": "300721",
+      "title": "115 & 117 E. Main St.",
+      "latitude": 33.87228317,
+      "longitude": -79.7539816,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300721",
+      "photo_urls": []
+    },
+    {
+      "id": "300728",
+      "title": "111 East Main Street",
+      "latitude": 33.87236174,
+      "longitude": -79.75408404,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300728",
+      "photo_urls": []
+    },
+    {
+      "id": "300729",
+      "title": "Huey Cooper 1873 - 1978",
+      "latitude": 33.872875,
+      "longitude": -79.75431111,
+      "directions": "On North Acline Street (Route 21-264) , Lake City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300729",
+      "photo_urls": []
+    },
+    {
+      "id": "300730",
+      "title": "102 East Main Street",
+      "latitude": 33.87238857,
+      "longitude": -79.75530728,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300730",
+      "photo_urls": []
+    },
+    {
+      "id": "300731",
+      "title": "104 & 106 East Main Street",
+      "latitude": 33.87269167,
+      "longitude": -79.75422778,
+      "directions": "On East Main Street (U.S. 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300731",
+      "photo_urls": []
+    },
+    {
+      "id": "300732",
+      "title": "116 East Main Street",
+      "latitude": 33.87246235,
+      "longitude": -79.7539474,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300732",
+      "photo_urls": []
+    },
+    {
+      "id": "300734",
+      "title": "118 East Main Street",
+      "latitude": 33.87242778,
+      "longitude": -79.75393611,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300734",
+      "photo_urls": []
+    },
+    {
+      "id": "300735",
+      "title": "124 East Main Street",
+      "latitude": 33.87223056,
+      "longitude": -79.75363889,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300735",
+      "photo_urls": []
+    },
+    {
+      "id": "300737",
+      "title": "130 East Main Street",
+      "latitude": 33.87215824,
+      "longitude": -79.75353928,
+      "directions": "On East Main Street (U.S. Business 378) , Lake City, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300737",
+      "photo_urls": []
+    },
+    {
+      "id": "300738",
+      "title": "Lake City",
+      "latitude": 33.87135945,
+      "longitude": -79.75274789,
+      "directions": "On South Church Street, Lake City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300738",
+      "photo_urls": []
+    },
+    {
+      "id": "300741",
+      "title": "St. John School",
+      "latitude": 33.85937778,
+      "longitude": -79.8414,
+      "directions": "On McKenzie Loop, near Lake City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300741",
+      "photo_urls": []
+    },
+    {
+      "id": "300745",
+      "title": "Home of Dr. JoAnn Wright Haysbert",
+      "latitude": 33.70300556,
+      "longitude": -79.81507778,
+      "directions": "On Williamsburg County Highway (U.S. 52) , Kingstree, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300745",
+      "photo_urls": []
+    },
+    {
+      "id": "300749",
+      "title": "Union School",
+      "latitude": 33.57085,
+      "longitude": -79.90489167,
+      "directions": "On Union Church Road (County Route 45-167) , Salters, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300749",
       "photo_urls": []
     },
     {
@@ -30707,12 +30968,1173 @@
       "photo_urls": []
     },
     {
+      "id": "300752",
+      "title": "Murray's Ferry - Santee River",
+      "latitude": 33.49241667,
+      "longitude": -79.96208056,
+      "directions": "On U.S. 52, Lane, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300752",
+      "photo_urls": []
+    },
+    {
+      "id": "300755",
+      "title": "Old Santee Canal Park",
+      "latitude": 33.19367222,
+      "longitude": -79.97076389,
+      "directions": "On Stony Landing Road, Moncks Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300755",
+      "photo_urls": []
+    },
+    {
+      "id": "300762",
+      "title": "Stony Landing House",
+      "latitude": 33.19289722,
+      "longitude": -79.96990278,
+      "directions": "Near Stony Landing Road, Moncks Corner, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300762",
+      "photo_urls": []
+    },
+    {
+      "id": "300763",
+      "title": "From Plantation to Fort",
+      "latitude": 33.19284167,
+      "longitude": -79.97219167,
+      "directions": "On Stony Landing Road, Moncks Corner, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300763",
+      "photo_urls": []
+    },
+    {
+      "id": "300770",
+      "title": "Ehrhardt Hall",
+      "latitude": 33.092382,
+      "longitude": -81.014085,
+      "directions": "On Broxton Bridge Road (U.S. 601) , Ehrhardt, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300770",
+      "photo_urls": []
+    },
+    {
+      "id": "300785",
+      "title": "Preserving the Past for the Future",
+      "latitude": 33.19258889,
+      "longitude": -79.97203889,
+      "directions": "Near Stony Landing Road, Moncks Corner, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300785",
+      "photo_urls": []
+    },
+    {
+      "id": "300787",
+      "title": "Santee Cooper Hydroelectric & Navigation Project",
+      "latitude": 33.19314444,
+      "longitude": -79.97261111,
+      "directions": "On Stony Landing Road, Moncks Corner, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300787",
+      "photo_urls": []
+    },
+    {
+      "id": "300788",
+      "title": "The Roman Catholic Cathedral of Saint John the Baptist",
+      "latitude": 32.77625,
+      "longitude": -79.93430278,
+      "directions": "On Broad Street, Charleston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300788",
+      "photo_urls": []
+    },
+    {
+      "id": "300789",
+      "title": "The Unitarian Churchyard",
+      "latitude": 32.77843056,
+      "longitude": -79.93455556,
+      "directions": "On Archdale Street, Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300789",
+      "photo_urls": []
+    },
+    {
+      "id": "300793",
+      "title": "Gustave Bernardt Marle House",
+      "latitude": 32.77854442,
+      "longitude": -79.92832236,
+      "directions": "On Queen Street, Charleston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300793",
+      "photo_urls": []
+    },
+    {
+      "id": "300803",
+      "title": "Slave Auctions of the Domestic Slave Trade",
+      "latitude": 32.77685658,
+      "longitude": -79.92810182,
+      "directions": "On Broad Street, Charleston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300803",
+      "photo_urls": []
+    },
+    {
+      "id": "300805",
+      "title": "Smith-Gordon-People's Building",
+      "latitude": 32.77672095,
+      "longitude": -79.92782912,
+      "directions": "On Broad Street, Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300805",
+      "photo_urls": []
+    },
+    {
+      "id": "300807",
+      "title": "Inglis Arch House",
+      "latitude": 32.77571122,
+      "longitude": -79.92725068,
+      "directions": "On East Bay Street, Charleston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300807",
+      "photo_urls": []
+    },
+    {
+      "id": "300866",
+      "title": "The Drayton House",
+      "latitude": 32.77183889,
+      "longitude": -79.92797778,
+      "directions": "On East Battery Street, Charleston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300866",
+      "photo_urls": []
+    },
+    {
+      "id": "300868",
+      "title": "Stevens-Lather House / Birthplace of Preservation",
+      "latitude": 32.77044121,
+      "longitude": -79.93088295,
+      "directions": "On South Battery Street, Charleston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300868",
+      "photo_urls": []
+    },
+    {
+      "id": "300870",
+      "title": "Magwood-Moreland House",
+      "latitude": 32.77051667,
+      "longitude": -79.93259444,
+      "directions": "On South Battery Street, Charleston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300870",
+      "photo_urls": []
+    },
+    {
+      "id": "300874",
+      "title": "The Cleland Kinlock Huger House",
+      "latitude": 32.77222778,
+      "longitude": -79.93383889,
+      "directions": "On Legare Street, Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300874",
+      "photo_urls": []
+    },
+    {
+      "id": "300877",
+      "title": "The William C. Bee House",
+      "latitude": 32.77430278,
+      "longitude": -79.93475278,
+      "directions": "On Tradd Street, Charleston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300877",
+      "photo_urls": []
+    },
+    {
+      "id": "300880",
+      "title": "Keith School",
+      "latitude": 32.92893889,
+      "longitude": -79.85513333,
+      "directions": "On Clements Ferry Road (State Route S-8-33) , Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300880",
+      "photo_urls": []
+    },
+    {
+      "id": "300882",
+      "title": "St. Stephen A.M.E. Church",
+      "latitude": 33.37361073,
+      "longitude": -79.29834518,
+      "directions": "On Winyah Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300882",
+      "photo_urls": []
+    },
+    {
+      "id": "300884",
+      "title": "William Doyle Morgan",
+      "latitude": 33.35449167,
+      "longitude": -79.27848889,
+      "directions": "On East Bay Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300884",
+      "photo_urls": []
+    },
+    {
+      "id": "300886",
+      "title": "Morgan Park",
+      "latitude": 33.35450833,
+      "longitude": -79.27864167,
+      "directions": "On East Bay Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300886",
+      "photo_urls": []
+    },
+    {
+      "id": "300909",
+      "title": "Winyah Indigo Society",
+      "latitude": 33.36513298,
+      "longitude": -79.27917979,
+      "directions": "On Prince Street, Georgetown, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300909",
+      "photo_urls": []
+    },
+    {
+      "id": "300910",
+      "title": "Ward-Bull House",
+      "latitude": 33.36640843,
+      "longitude": -79.28054608,
+      "directions": "On Prince Street, Georgetown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300910",
+      "photo_urls": []
+    },
+    {
+      "id": "300911",
+      "title": "Joseph Hayne Rainey",
+      "latitude": 33.36811389,
+      "longitude": -79.28603333,
+      "directions": "On Front Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300911",
+      "photo_urls": []
+    },
+    {
+      "id": "300912",
+      "title": "The Charters of Freedom",
+      "latitude": 33.36789444,
+      "longitude": -79.28637778,
+      "directions": "On Harborwalk, Georgetown, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300912",
+      "photo_urls": []
+    },
+    {
+      "id": "300913",
+      "title": "The HUB",
+      "latitude": 33.36897222,
+      "longitude": -79.28544722,
+      "directions": "On King Street, Georgetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300913",
+      "photo_urls": []
+    },
+    {
+      "id": "300914",
+      "title": "Old Market Building",
+      "latitude": 33.36455137,
+      "longitude": -79.28096366,
+      "directions": "On Front Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300914",
+      "photo_urls": []
+    },
+    {
+      "id": "300935",
+      "title": "British Headquarters",
+      "latitude": 33.36660361,
+      "longitude": -79.28331485,
+      "directions": "On Broad Street, Georgetown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300935",
+      "photo_urls": []
+    },
+    {
+      "id": "300938",
+      "title": "Ship's Propeller",
+      "latitude": 33.36625159,
+      "longitude": -79.28343578,
+      "directions": "On Front Street, Georgetown, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300938",
+      "photo_urls": []
+    },
+    {
+      "id": "300942",
+      "title": "The Kaminski House",
+      "latitude": 33.36665714,
+      "longitude": -79.28361333,
+      "directions": "On Front Street, Georgetown, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300942",
+      "photo_urls": []
+    },
+    {
+      "id": "300948",
+      "title": "Siege of Fort Watson, April 16-23, 1781",
+      "latitude": 33.6080338,
+      "longitude": -80.3496442,
+      "directions": "On South Dukes Street, Summerton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300948",
+      "photo_urls": []
+    },
+    {
+      "id": "300950",
+      "title": "St. Mary Catholic Church",
+      "latitude": 33.61035556,
+      "longitude": -80.35091389,
+      "directions": "On North Cantey Street, Summerton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300950",
+      "photo_urls": []
+    },
+    {
+      "id": "300951",
+      "title": "Veterans Memorial",
+      "latitude": 33.61103587,
+      "longitude": -80.35119538,
+      "directions": "On Carson Street, Summerton, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300951",
+      "photo_urls": []
+    },
+    {
+      "id": "300952",
+      "title": "The Magnolia Houses",
+      "latitude": 32.87627778,
+      "longitude": -80.08347222,
+      "directions": "On Magnolia Plantation Road, Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300952",
+      "photo_urls": []
+    },
+    {
+      "id": "300953",
+      "title": "Azaleas",
+      "latitude": 32.87696944,
+      "longitude": -80.08467222,
+      "directions": "Near Magnolia Plantation Road, Charleston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300953",
+      "photo_urls": []
+    },
+    {
+      "id": "300958",
+      "title": "Camellias: Up on a Pedestal",
+      "latitude": 32.87830833,
+      "longitude": -80.08396111,
+      "directions": "Near Magnolia Plantation Road, North Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300958",
+      "photo_urls": []
+    },
+    {
+      "id": "300963",
+      "title": "William Henry Drayton",
+      "latitude": 32.87738333,
+      "longitude": -80.08278611,
+      "directions": "Near Magnolia Plantation Road, Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300963",
+      "photo_urls": []
+    },
+    {
+      "id": "300966",
+      "title": "The Earthquake of 1886",
+      "latitude": 32.87732778,
+      "longitude": -80.08271667,
+      "directions": "Near Magnolia Plantation Road, Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300966",
+      "photo_urls": []
+    },
+    {
+      "id": "300969",
+      "title": "The Ashley River",
+      "latitude": 32.87704167,
+      "longitude": -80.082275,
+      "directions": "Near Magnolia Plantation Road, Charleston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300969",
+      "photo_urls": []
+    },
+    {
+      "id": "300973",
+      "title": "British Attack 1780",
+      "latitude": 32.87678611,
+      "longitude": -80.08204722,
+      "directions": "Near Magnolia Plantation Road, North Charleston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300973",
+      "photo_urls": []
+    },
+    {
+      "id": "300976",
+      "title": "Magnolia at War",
+      "latitude": 32.876675,
+      "longitude": -80.08206944,
+      "directions": "Near Magnolia Plantation Road, North Charleston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300976",
+      "photo_urls": []
+    },
+    {
+      "id": "300978",
+      "title": "Henry Woodward",
+      "latitude": 32.87644444,
+      "longitude": -80.08207778,
+      "directions": "Near Magnolia Plantation Road, North Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300978",
+      "photo_urls": []
+    },
+    {
+      "id": "300980",
+      "title": "Excursion Up the Ashley",
+      "latitude": 32.87611389,
+      "longitude": -80.08191667,
+      "directions": "Near Magnolia Plantation Road, North Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300980",
+      "photo_urls": []
+    },
+    {
+      "id": "300981",
+      "title": "Loading Zone",
+      "latitude": 32.94766944,
+      "longitude": -80.16908333,
+      "directions": "Near County Route 18-373, Summerville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300981",
+      "photo_urls": []
+    },
+    {
+      "id": "300985",
+      "title": "Designed for Defense",
+      "latitude": 32.9472,
+      "longitude": -80.17016667,
+      "directions": "On Shop Road, Summerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300985",
+      "photo_urls": []
+    },
+    {
+      "id": "300986",
+      "title": "Dorchester's Merchants: Middlemen on the Road to Riches",
+      "latitude": 32.94726111,
+      "longitude": -80.16982222,
+      "directions": "On Shop Road, Summerville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300986",
+      "photo_urls": []
+    },
+    {
+      "id": "300987",
+      "title": "Siege of Fort Watson",
+      "latitude": 33.607927,
+      "longitude": -80.349766,
+      "directions": "On West Main Street (U.S. 301) , Summerton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300987",
+      "photo_urls": []
+    },
+    {
+      "id": "300988",
+      "title": "Fort Watson",
+      "latitude": 33.538976,
+      "longitude": -80.436761,
+      "directions": "On Fort Watson Road (State Route 14-803) , Summerton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300988",
+      "photo_urls": []
+    },
+    {
+      "id": "301135",
+      "title": "A Concrete Solution",
+      "latitude": 32.94711389,
+      "longitude": -80.17004444,
+      "directions": "On Shop Road, Summerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301135",
+      "photo_urls": []
+    },
+    {
+      "id": "301139",
+      "title": "In the Path of War",
+      "latitude": 32.94818611,
+      "longitude": -80.17092778,
+      "directions": "On Shop Road, Summerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301139",
+      "photo_urls": []
+    },
+    {
+      "id": "301141",
+      "title": "Welcome to Colonial Dorchester State Historic Site",
+      "latitude": 32.94818611,
+      "longitude": -80.16937222,
+      "directions": "On County Route 18-373, Summerville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301141",
+      "photo_urls": []
+    },
+    {
+      "id": "301143",
+      "title": "Constructed for Commerce",
+      "latitude": 32.94811667,
+      "longitude": -80.16857778,
+      "directions": "Near County Route 18-373, Summerville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301143",
+      "photo_urls": []
+    },
+    {
+      "id": "301144",
+      "title": "Lincolnville",
+      "latitude": 33.01046667,
+      "longitude": -80.15710556,
+      "directions": "On Lincoln Avenue (State Route 10-881) , Lincolnville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301144",
+      "photo_urls": []
+    },
+    {
+      "id": "301147",
+      "title": "Summerville Water Works",
+      "latitude": 33.01971111,
+      "longitude": -80.17443056,
+      "directions": "On East Doty Avenue, Summerville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301147",
+      "photo_urls": []
+    },
+    {
+      "id": "301160",
+      "title": "Murray United Methodist Church",
+      "latitude": 33.03264722,
+      "longitude": -80.24565833,
+      "directions": "On Orangeburg Road (County Route S-18-22) , Summerville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301160",
+      "photo_urls": []
+    },
+    {
+      "id": "301161",
+      "title": "Carnes Crossroads",
+      "latitude": 33.05528889,
+      "longitude": -80.10290556,
+      "directions": "On Parish Farms Drive, Goose Creek, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301161",
+      "photo_urls": []
+    },
+    {
+      "id": "301166",
+      "title": "Lafayette's Tour",
+      "latitude": 32.9796438,
+      "longitude": -80.07305043,
+      "directions": "On Charleston Southern Boulevard, North Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301166",
+      "photo_urls": []
+    },
+    {
+      "id": "301168",
+      "title": "Louie Tenement",
+      "latitude": 32.88165556,
+      "longitude": -79.99920556,
+      "directions": "On Luella Avenue, North Charleston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301168",
+      "photo_urls": []
+    },
+    {
+      "id": "301171",
+      "title": "St. Peter's A.M.E. Church",
+      "latitude": 32.87781944,
+      "longitude": -79.99385833,
+      "directions": "On Sanders Avenue, North Charleston, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301171",
+      "photo_urls": []
+    },
+    {
+      "id": "301172",
+      "title": "St. Peter's A.M.E. Church",
+      "latitude": 32.87776166,
+      "longitude": -79.99377696,
+      "directions": "On Sanders Avenue, North Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301172",
+      "photo_urls": []
+    },
+    {
+      "id": "301180",
+      "title": "Port Royal Agricultural School / Beaufort County Training School",
+      "latitude": 32.46337294,
+      "longitude": -80.74351798,
+      "directions": "On Shanklin Road (State Route S-7-86) , near Beaufort, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301180",
+      "photo_urls": []
+    },
+    {
+      "id": "301184",
+      "title": "Port Royal Agricultural and Industrial School",
+      "latitude": 32.46604444,
+      "longitude": -80.739525,
+      "directions": "On Spanish Moss Trail, near Beaufort, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301184",
+      "photo_urls": []
+    },
+    {
+      "id": "301189",
+      "title": "World War II POW Camp",
+      "latitude": 32.44373333,
+      "longitude": -80.67208056,
+      "directions": "On Pigeon Point Road, Beaufort, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301189",
+      "photo_urls": []
+    },
+    {
+      "id": "301190",
+      "title": "University of South Carolina Beaufort",
+      "latitude": 32.43666925,
+      "longitude": -80.66923065,
+      "directions": "On Carteret Street, Beaufort, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301190",
+      "photo_urls": []
+    },
+    {
+      "id": "301217",
+      "title": "Beaufort Colored School",
+      "latitude": 32.43703889,
+      "longitude": -80.66973889,
+      "directions": "On Carteret Street (U.S. Business 21) , Beaufort, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301217",
+      "photo_urls": []
+    },
+    {
+      "id": "301221",
+      "title": "Carteret Street United Methodist Church",
+      "latitude": 32.43345824,
+      "longitude": -80.6700459,
+      "directions": "On Carteret Street, Beaufort, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301221",
+      "photo_urls": []
+    },
+    {
+      "id": "301222",
+      "title": "United When the Impossible Suddenly Became Possible",
+      "latitude": 32.43254722,
+      "longitude": -80.67078333,
+      "directions": "On Craven Street, Beaufort, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301222",
+      "photo_urls": []
+    },
+    {
+      "id": "301225",
+      "title": "Lafayette's Tour",
+      "latitude": 32.43082778,
+      "longitude": -80.67098333,
+      "directions": "On Bay Street, Beaufort, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301225",
+      "photo_urls": []
+    },
+    {
+      "id": "301226",
+      "title": "Freedmen's Bank Building",
+      "latitude": 32.43098579,
+      "longitude": -80.67207407,
+      "directions": "On Bay Street, Beaufort, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301226",
+      "photo_urls": []
+    },
+    {
+      "id": "301229",
+      "title": "The William Levin Building",
+      "latitude": 32.4312903,
+      "longitude": -80.67186008,
+      "directions": "On West Street, Beaufort, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301229",
+      "photo_urls": []
+    },
+    {
+      "id": "301231",
+      "title": "Old Fort Plantation",
+      "latitude": 32.38819167,
+      "longitude": -80.68554722,
+      "directions": "On Pinkney Blvd, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301231",
+      "photo_urls": []
+    },
+    {
+      "id": "301232",
+      "title": "The Scheper-Keyserling Building",
+      "latitude": 32.43085,
+      "longitude": -80.67122778,
+      "directions": "On Bay Street, Beaufort, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301232",
+      "photo_urls": []
+    },
+    {
+      "id": "301233",
+      "title": "The Roberts Building",
+      "latitude": 32.43145833,
+      "longitude": -80.67004444,
+      "directions": "On Carteret Street (U.S. Business 21) , Beaufort, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301233",
+      "photo_urls": []
+    },
+    {
+      "id": "301234",
+      "title": "Lady's Island Oyster Factory",
+      "latitude": 32.4249935,
+      "longitude": -80.64612051,
+      "directions": "On Sunset Boulevard, near Beaufort, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301234",
+      "photo_urls": []
+    },
+    {
+      "id": "301236",
+      "title": "Town of Bluffton, South Carolina",
+      "latitude": 32.23444444,
+      "longitude": -80.86132778,
+      "directions": "On Boundary Street, Bluffton, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301236",
+      "photo_urls": []
+    },
+    {
+      "id": "301238",
+      "title": "Town of Bluffton, South Carolina",
+      "latitude": 32.23738056,
+      "longitude": -80.86083333,
+      "directions": "On May River Road, Bluffton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301238",
+      "photo_urls": []
+    },
+    {
+      "id": "301268",
+      "title": "Camp Saxton",
+      "latitude": 32.38820556,
+      "longitude": -80.68558611,
+      "directions": "On Pinkney Blvd, Port Royal, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301268",
+      "photo_urls": []
+    },
+    {
+      "id": "301269",
+      "title": "Emancipation Day",
+      "latitude": 32.3882,
+      "longitude": -80.68556111,
+      "directions": "Near Pinckney Boulevard, Port Royal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301269",
+      "photo_urls": []
+    },
+    {
+      "id": "301270",
+      "title": "First South Carolina Infantry",
+      "latitude": 32.38819167,
+      "longitude": -80.6855,
+      "directions": "Near Pinckney Boulevard, Port Royal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301270",
+      "photo_urls": []
+    },
+    {
+      "id": "301271",
+      "title": "\"The Year of Jubilee Has Come!\"",
+      "latitude": 32.3882,
+      "longitude": -80.68547778,
+      "directions": "Near Pinckney Boulevard, Port Royal, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301271",
+      "photo_urls": []
+    },
+    {
+      "id": "301272",
+      "title": "Camp Saxton",
+      "latitude": 32.38427778,
+      "longitude": -80.68184722,
+      "directions": "On Old Fort Road, Port Royal, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301272",
+      "photo_urls": []
+    },
+    {
+      "id": "301273",
+      "title": "Dawn of a Revolution: The Penn School",
+      "latitude": 32.38763333,
+      "longitude": -80.57741667,
+      "directions": "Near Penn Center Circle East, Saint Helena Island, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301273",
+      "photo_urls": []
+    },
+    {
+      "id": "301274",
+      "title": "Water — A Way Home, A Way of Life",
+      "latitude": 32.38757222,
+      "longitude": -80.58110833,
+      "directions": "On Holland Court, Saint Helena Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301274",
+      "photo_urls": []
+    },
+    {
+      "id": "301275",
+      "title": "Trailblazers at Penn Center National Historic Landmark District",
+      "latitude": 32.38703056,
+      "longitude": -80.58048333,
+      "directions": "On Holland Court, Saint Helena Island, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301275",
+      "photo_urls": []
+    },
+    {
+      "id": "301277",
+      "title": "A Relic of Reconstruction: Darrah Hall",
+      "latitude": 32.38723889,
+      "longitude": -80.57856111,
+      "directions": "On Holland Court, Saint Helena Island, (On the right",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301277",
+      "photo_urls": []
+    },
+    {
+      "id": "301314",
+      "title": "Purrysburg Township",
+      "latitude": 32.28688786,
+      "longitude": -81.11765144,
+      "directions": "On Millstone Landing Road, Hardeeville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301314",
+      "photo_urls": []
+    },
+    {
+      "id": "301315",
+      "title": "Battle of Purrysburg",
+      "latitude": 32.28686389,
+      "longitude": -81.11773611,
+      "directions": "On Millstone Landing Road, Hardeeville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301315",
+      "photo_urls": []
+    },
+    {
+      "id": "301316",
+      "title": "Maroons of the Savannah River During the Revolutionary War",
+      "latitude": 32.28682222,
+      "longitude": -81.11778333,
+      "directions": "On Millstone Landing Road, Hardeeville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301316",
+      "photo_urls": []
+    },
+    {
+      "id": "301318",
+      "title": "Sherman's Troops in Purrysburg During the Civil War",
+      "latitude": 32.28681667,
+      "longitude": -81.11786667,
+      "directions": "On Millstone Landing Road, Hardeeville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301318",
+      "photo_urls": []
+    },
+    {
       "id": "30132",
       "title": "Santee National Wildlife Refuge",
       "latitude": 33.53902,
       "longitude": -80.436557,
       "directions": "On Fort Watson Road (State Route 14-803) , Summerton, (In the median)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30132",
+      "photo_urls": []
+    },
+    {
+      "id": "301320",
+      "title": "Savannah National Wildlife Refuge",
+      "latitude": 32.28666944,
+      "longitude": -81.11836111,
+      "directions": "On Millstone Landing Road, Hardeeville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301320",
+      "photo_urls": []
+    },
+    {
+      "id": "301321",
+      "title": "Nearby Skirmish",
+      "latitude": 32.28794722,
+      "longitude": -81.11717222,
+      "directions": "On Millstone Landing Road, Hardeeville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301321",
+      "photo_urls": []
+    },
+    {
+      "id": "301322",
+      "title": "Clementa Carlos Pinckney",
+      "latitude": 32.46088333,
+      "longitude": -81.06082778,
+      "directions": "On Tillman Road, Ridgeland, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301322",
+      "photo_urls": []
+    },
+    {
+      "id": "301325",
+      "title": "The Beginning",
+      "latitude": 32.63180556,
+      "longitude": -80.87206389,
+      "directions": "Near Kings Highway (U.S. 17) , Yemassee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301325",
+      "photo_urls": []
+    },
+    {
+      "id": "301326",
+      "title": "African American Troops at Honey Hill",
+      "latitude": 32.631775,
+      "longitude": -80.87208611,
+      "directions": "Near Kings Highway (U.S. 17) , Yemassee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301326",
+      "photo_urls": []
+    },
+    {
+      "id": "301329",
+      "title": "Frampton Line",
+      "latitude": 32.63148611,
+      "longitude": -80.87223056,
+      "directions": "Near Low Country Lane, Yemassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301329",
+      "photo_urls": []
+    },
+    {
+      "id": "301331",
+      "title": "The Lowcountry",
+      "latitude": 32.63155833,
+      "longitude": -80.87239167,
+      "directions": "Near Low Country Lane, Yemassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301331",
+      "photo_urls": []
+    },
+    {
+      "id": "301339",
+      "title": "Live Oak",
+      "latitude": 32.63189444,
+      "longitude": -80.87233611,
+      "directions": "On Low Country Lane, Yemassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301339",
+      "photo_urls": []
+    },
+    {
+      "id": "301340",
+      "title": "Cabbage Palmetto",
+      "latitude": 32.63184722,
+      "longitude": -80.872475,
+      "directions": "On Low Country Lane, Yemassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301340",
+      "photo_urls": []
+    },
+    {
+      "id": "301350",
+      "title": "This is Jim Wescott's Wishing Well",
+      "latitude": 32.63187778,
+      "longitude": -80.872375,
+      "directions": "On Low Country Lane, Yemassee, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301350",
+      "photo_urls": []
+    },
+    {
+      "id": "301352",
+      "title": "Yemassee Rosenwald School / Fennell Elementary School",
+      "latitude": 32.6932,
+      "longitude": -80.85585,
+      "directions": "On Yemassee Highway (State Route 68) , Yemassee, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301352",
+      "photo_urls": []
+    },
+    {
+      "id": "301354",
+      "title": "Vietnam War Memorial",
+      "latitude": 32.86650556,
+      "longitude": -81.10958056,
+      "directions": "On 1st Street West (U.S. 601) , Hampton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301354",
+      "photo_urls": []
+    },
+    {
+      "id": "301356",
+      "title": "Supreme Sacrifice Memorial",
+      "latitude": 32.86650092,
+      "longitude": -81.10961893,
+      "directions": "On 1st Street West (U.S. 601) , Hampton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301356",
+      "photo_urls": []
+    },
+    {
+      "id": "301357",
+      "title": "POW-MIA Memorial",
+      "latitude": 32.86650833,
+      "longitude": -81.10959722,
+      "directions": "On 1st Street West (U.S. 601) , Hampton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301357",
+      "photo_urls": []
+    },
+    {
+      "id": "301358",
+      "title": "Hampton County Jail",
+      "latitude": 32.86533333,
+      "longitude": -81.11116111,
+      "directions": "On 1st Street West, Hampton, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301358",
+      "photo_urls": []
+    },
+    {
+      "id": "301360",
+      "title": "Huspah Baptist Church and School",
+      "latitude": 32.87464167,
+      "longitude": -81.1158,
+      "directions": "On Hoover Street South (U.S. 601) , Hampton, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301360",
+      "photo_urls": []
+    },
+    {
+      "id": "301365",
+      "title": "Swallow Savannah Methodist Church",
+      "latitude": 33.00838748,
+      "longitude": -81.31155323,
+      "directions": "On Walnut Street West, Allendale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301365",
+      "photo_urls": []
+    },
+    {
+      "id": "301367",
+      "title": "Allendale Co. Jail / Chain Gangs",
+      "latitude": 33.01108889,
+      "longitude": -81.30324444,
+      "directions": "On Court Circle (Route S-3-81) , Allendale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301367",
+      "photo_urls": []
+    },
+    {
+      "id": "301368",
+      "title": "Veterans Memorial",
+      "latitude": 33.29702778,
+      "longitude": -81.03527778,
+      "directions": "On Heritage Highway (U.S. 78) , Bamberg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301368",
+      "photo_urls": []
+    },
+    {
+      "id": "301370",
+      "title": "Bamberg County Veterans Park",
+      "latitude": 33.29633333,
+      "longitude": -81.03571944,
+      "directions": "On Moore Street, Bamberg, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301370",
+      "photo_urls": []
+    },
+    {
+      "id": "301371",
+      "title": "Bamberg County Veterans Memorial Walkway",
+      "latitude": 33.29588333,
+      "longitude": -81.03008333,
+      "directions": "On Heritage Highway (U.S. 78) , Bamberg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301371",
+      "photo_urls": []
+    },
+    {
+      "id": "301412",
+      "title": "Ruffin Rosenwald School / Ruffin Equalization Schools",
+      "latitude": 33.01253156,
+      "longitude": -80.80914167,
+      "directions": "On Smyly Road, Williams, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301412",
+      "photo_urls": []
+    },
+    {
+      "id": "301413",
+      "title": "Colleton Rural Fire Department Charter Members",
+      "latitude": 32.90203056,
+      "longitude": -80.662025,
+      "directions": "On Hampton Street (State Route 63) , Walterboro, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301413",
+      "photo_urls": []
+    },
+    {
+      "id": "301415",
+      "title": "Colleton Training School / Gruber Street USO",
+      "latitude": 32.90890833,
+      "longitude": -80.6512,
+      "directions": "On Gruber Street, Walterboro, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301415",
+      "photo_urls": []
+    },
+    {
+      "id": "301416",
+      "title": "Eutawville Railroad / Holly Hill Train Depot",
+      "latitude": 33.32186389,
+      "longitude": -80.41195556,
+      "directions": "On Old State Road (U.S. 176) , Holly Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301416",
+      "photo_urls": []
+    },
+    {
+      "id": "301417",
+      "title": "Revolutionary War Patriots",
+      "latitude": 33.40724167,
+      "longitude": -80.29894167,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301417",
+      "photo_urls": []
+    },
+    {
+      "id": "301475",
+      "title": "The Continentals Close In",
+      "latitude": 33.407275,
+      "longitude": -80.29883611,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301475",
+      "photo_urls": []
+    },
+    {
+      "id": "301481",
+      "title": "Battle of Eutaw Springs",
+      "latitude": 33.40729444,
+      "longitude": -80.29876667,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301481",
+      "photo_urls": []
+    },
+    {
+      "id": "301484",
+      "title": "The British Caught by Surprise",
+      "latitude": 33.40728889,
+      "longitude": -80.29869722,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301484",
+      "photo_urls": []
+    },
+    {
+      "id": "301485",
+      "title": "Who Won?",
+      "latitude": 33.40729167,
+      "longitude": -80.29851667,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301485",
+      "photo_urls": []
+    },
+    {
+      "id": "301487",
+      "title": "A Bastion of Brick",
+      "latitude": 33.40740556,
+      "longitude": -80.29848611,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301487",
+      "photo_urls": []
+    },
+    {
+      "id": "301489",
+      "title": "The Quest for Freedom",
+      "latitude": 33.4077,
+      "longitude": -80.29852222,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301489",
+      "photo_urls": []
+    },
+    {
+      "id": "301492",
+      "title": "Marjoribanks Makes a Stand",
+      "latitude": 33.40762778,
+      "longitude": -80.29884444,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301492",
+      "photo_urls": []
+    },
+    {
+      "id": "301495",
+      "title": "Greene Attacks",
+      "latitude": 33.40738333,
+      "longitude": -80.29890556,
+      "directions": "On Old Number Six Highway (State Route 6/45) , Eutawville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301495",
+      "photo_urls": []
+    },
+    {
+      "id": "301500",
+      "title": "Butler Cemetery / Butler School",
+      "latitude": 33.52976944,
+      "longitude": -80.37281667,
+      "directions": "On Liberty Hill Road (State Route 140373) , Summerton, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301500",
+      "photo_urls": []
+    },
+    {
+      "id": "301504",
+      "title": "Jehovah Baptist Church",
+      "latitude": 33.90586115,
+      "longitude": -80.33926568,
+      "directions": "On South Harvin Street, Sumter, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301504",
+      "photo_urls": []
+    },
+    {
+      "id": "301511",
+      "title": "B.T. Williams House",
+      "latitude": 33.91738889,
+      "longitude": -80.34818333,
+      "directions": "On West Bartlette Street, Sumter, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301511",
+      "photo_urls": []
+    },
+    {
+      "id": "301515",
+      "title": "Community Hospital",
+      "latitude": 33.94071667,
+      "longitude": -80.36527222,
+      "directions": "On Broad Street (U.S. Business 76) , Sumter, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301515",
+      "photo_urls": []
+    },
+    {
+      "id": "301523",
+      "title": "Sumter Dry Goods Co.",
+      "latitude": 33.92015395,
+      "longitude": -80.34147469,
+      "directions": "On East Liberty Street (U.S. 76) , Sumter, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301523",
       "photo_urls": []
     },
     {
@@ -30734,12 +32156,39 @@
       "photo_urls": []
     },
     {
+      "id": "301720",
+      "title": "G.F. \"Moonie\" Brown & Brown's Parkway",
+      "latitude": 32.78184105,
+      "longitude": -79.93518927,
+      "directions": "On Saint Philip Street, Charleston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301720",
+      "photo_urls": []
+    },
+    {
+      "id": "301725",
+      "title": "In memory of PFC Dennis E. LaPage",
+      "latitude": 32.78696696,
+      "longitude": -79.93871394,
+      "directions": "On Saint Philip Street, Charleston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301725",
+      "photo_urls": []
+    },
+    {
       "id": "30192",
       "title": "Camp Johnson",
       "latitude": 34.077403,
       "longitude": -80.957651,
       "directions": "On Parklane Road, Dentsville, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30192",
+      "photo_urls": []
+    },
+    {
+      "id": "301930",
+      "title": "Fort Watson",
+      "latitude": 33.532765,
+      "longitude": -80.431831,
+      "directions": "On Fort Watson Road (State Route 14-803) , Summerton, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301930",
       "photo_urls": []
     },
     {
@@ -32493,7 +33942,7 @@
       "title": "Berkeley County",
       "latitude": 33.49241667,
       "longitude": -79.96198333,
-      "directions": "On U.S. 52, near St. Stephen, (On the right when traveling south)",
+      "directions": "On U.S. 52, near Lane, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=33448",
       "photo_urls": []
     },
@@ -36912,7 +38361,7 @@
       "title": "Providence Methodist Church",
       "latitude": 33.392085,
       "longitude": -80.540954,
-      "directions": "On Old State Road (U.S. 176) , Providence Community, Holly Hill, (On the right when traveling west)",
+      "directions": "On Old State Road (U.S. 176) , near Holly Hill, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=46946",
       "photo_urls": []
     },
@@ -36990,7 +38439,7 @@
     },
     {
       "id": "47473",
-      "title": "Thirteen - Inch Mortar",
+      "title": "Thirteen-Inch Mortar",
       "latitude": 32.76944444,
       "longitude": -79.93,
       "directions": "On Murray Boulevard, Charleston, (On the left when traveling east)",
@@ -37566,7 +39015,7 @@
     },
     {
       "id": "47964",
-      "title": "Casper Christian Schutt House",
+      "title": "51 East Bay Street",
       "latitude": 32.77388889,
       "longitude": -79.92722222,
       "directions": "On East Bay Street (U.S. 52) , Charleston, (On the left when traveling north)",
@@ -37980,7 +39429,7 @@
     },
     {
       "id": "48287",
-      "title": "Toomer- Purse House",
+      "title": "Toomer-Purse House",
       "latitude": 32.772673,
       "longitude": -79.934002,
       "directions": "On Legare Street, Charleston, (On the right when traveling south)",
@@ -38736,7 +40185,7 @@
     },
     {
       "id": "50240",
-      "title": "Parker Drayton House",
+      "title": "Parker-Drayton House",
       "latitude": 32.771947,
       "longitude": -79.934954,
       "directions": "On Gibbes Street, Charleston, (On the left when traveling east)",
@@ -40680,7 +42129,7 @@
     },
     {
       "id": "54771",
-      "title": "Williamsburgh",
+      "title": "Williamsburgh Revolutionary War Memorial",
       "latitude": 33.66364823,
       "longitude": -79.83051717,
       "directions": "On West Main Street, Kingstree, (On the left when traveling west)",
@@ -41463,7 +42912,7 @@
     },
     {
       "id": "5785",
-      "title": "Sheldon Union Academy",
+      "title": "Sheldon Union Academy / Sheldon School",
       "latitude": 32.6041,
       "longitude": -80.80307,
       "directions": "On Trask Parkway (U.S. 17 / 21) , Sheldon, ",
@@ -42042,7 +43491,7 @@
       "title": "General Robert E. Lee / Fighting Near Coosawhatchie",
       "latitude": 32.63125,
       "longitude": -80.87761667,
-      "directions": "On Frontage road, Yemassee, (On the right when traveling east)",
+      "directions": "On Frontage Road, Yemassee, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=6195",
       "photo_urls": []
     },
@@ -42094,9 +43543,9 @@
     {
       "id": "62552",
       "title": "The Walled City of Charles Town",
-      "latitude": 32.773563,
-      "longitude": -79.927227,
-      "directions": "On U.S. 52, Charleston, (On the right when traveling north)",
+      "latitude": 32.77499485,
+      "longitude": -79.92712038,
+      "directions": "On East Bay Street (U.S. 52) , Charleston, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62552",
       "photo_urls": []
     },
@@ -42372,7 +43821,7 @@
     },
     {
       "id": "65197",
-      "title": "Plywoods - Plastics Corporation / Westinghouse Micarta Division",
+      "title": "Plywoods-Plastics Corporation / Westinghouse Micarta Division",
       "latitude": 32.877044,
       "longitude": -81.114375,
       "directions": "On Hoover Street North (U.S. 601) , Hampton, (On the right when traveling north)",
@@ -42715,9 +44164,9 @@
     {
       "id": "67434",
       "title": "In Search of the Walled City",
-      "latitude": 32.773611,
-      "longitude": -79.927225,
-      "directions": "On E Bay Street, Charleston, (On the right when traveling north)",
+      "latitude": 32.77509506,
+      "longitude": -79.92710816,
+      "directions": "On East Bay Street, Charleston, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=67434",
       "photo_urls": []
     },
@@ -43552,9 +45001,9 @@
     {
       "id": "7094",
       "title": "1st SC Infantry Of African Descent",
-      "latitude": 32.439649,
-      "longitude": -80.67892,
-      "directions": "On Boundary Street (U.S. 21) , Beaufort, (On the right when traveling west)",
+      "latitude": 32.441196,
+      "longitude": -80.69779,
+      "directions": "On Boundary Street (U.S. Business 21) , Beaufort, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=7094",
       "photo_urls": []
     },
@@ -44235,7 +45684,7 @@
     },
     {
       "id": "7764",
-      "title": "Major C. Spencer Guerry",
+      "title": "Dedicated to the Memory of Major C. Spencer Guerry",
       "latitude": 33.36645,
       "longitude": -79.28374,
       "directions": "On Front Street, Georgetown, (On the left when traveling west)",
@@ -44811,7 +46260,7 @@
     },
     {
       "id": "84713",
-      "title": "C.S.S. <i>David</i>",
+      "title": "C.S.S. <i>David</i> / Little David Replica",
       "latitude": 33.193386,
       "longitude": -79.972562,
       "directions": "On Stoney Landing Road, Moncks Corner, (On the right when traveling east)",
@@ -45435,7 +46884,7 @@
       "title": "Southern Live Oak Tree",
       "latitude": 32.631731,
       "longitude": -80.872046,
-      "directions": "Near Lowcountry Lane, Yemassee, ",
+      "directions": "Near Low Country Lane, Yemassee, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=90442",
       "photo_urls": []
     },
