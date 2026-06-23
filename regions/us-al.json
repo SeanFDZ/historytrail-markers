@@ -3,9 +3,9 @@
   "region_name": "Alabama",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-26T06:03:27.210Z",
-  "source_timestamp": "2026-05-26T06:03:27.210Z",
-  "marker_count": 4506,
+  "generated": "2026-06-23T06:03:28.568Z",
+  "source_timestamp": "2026-06-23T06:03:28.568Z",
+  "marker_count": 4536,
   "markers": [
     {
       "id": "100028",
@@ -22386,7 +22386,7 @@
       "title": "Sister Springs Baptist Church",
       "latitude": 32.32261892,
       "longitude": -86.87734812,
-      "directions": "Near County Route 457, Tyler, ",
+      "directions": "Near County Route 457, near Tyler, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=286977",
       "photo_urls": []
     },
@@ -24380,12 +24380,282 @@
       "photo_urls": []
     },
     {
+      "id": "300442",
+      "title": "Historic Reeves Grove Baptist Church and Cemetery",
+      "latitude": 33.87045907,
+      "longitude": -86.30782322,
+      "directions": "On Main Street, Whitney, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300442",
+      "photo_urls": []
+    },
+    {
+      "id": "300443",
+      "title": "Reeves Grove Baptist Church and Cemetery",
+      "latitude": 33.87037707,
+      "longitude": -86.30778619,
+      "directions": "On Main Street, Whitney, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300443",
+      "photo_urls": []
+    },
+    {
+      "id": "300445",
+      "title": "The Pelican Girls",
+      "latitude": 30.689126,
+      "longitude": -88.039643,
+      "directions": "On South Royal Street, Mobile, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300445",
+      "photo_urls": []
+    },
+    {
+      "id": "300493",
+      "title": "Lynching in America / The Lynching of James Lewis",
+      "latitude": 30.747931,
+      "longitude": -88.098049,
+      "directions": "On N Rebel Road, Prichard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300493",
+      "photo_urls": []
+    },
+    {
+      "id": "300509",
+      "title": "Lynching in America / The Lynching of Zacharia Graham",
+      "latitude": 30.755257,
+      "longitude": -88.106808,
+      "directions": "Near West Turner Road, Prichard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300509",
+      "photo_urls": []
+    },
+    {
+      "id": "300538",
+      "title": "Old Whistler Railroad Depot",
+      "latitude": 30.755674,
+      "longitude": -88.106369,
+      "directions": "On West Turner Road, Prichard, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300538",
+      "photo_urls": []
+    },
+    {
+      "id": "300897",
+      "title": "Gadsden Times-News Building",
+      "latitude": 34.01213154,
+      "longitude": -86.00370081,
+      "directions": "On 411 South 4th Street, Gadsden, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300897",
+      "photo_urls": []
+    },
+    {
+      "id": "301103",
+      "title": "Tom Sims",
+      "latitude": 33.99426088,
+      "longitude": -86.00142252,
+      "directions": "On River Road, Gadsden, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301103",
+      "photo_urls": []
+    },
+    {
+      "id": "301298",
+      "title": "Antioch Primitive Baptist Church",
+      "latitude": 31.59602661,
+      "longitude": -86.13570947,
+      "directions": "On County Route 306, near Glenwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301298",
+      "photo_urls": []
+    },
+    {
+      "id": "301594",
+      "title": "Daily Mountain Eagle",
+      "latitude": 33.83455556,
+      "longitude": -87.26086389,
+      "directions": "On Viking Drive, Jasper, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301594",
+      "photo_urls": []
+    },
+    {
+      "id": "301814",
+      "title": "Clayton Cemetery",
+      "latitude": 34.0313442,
+      "longitude": -86.0403444,
+      "directions": "On Dwight Avenue, Gadsden, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301814",
+      "photo_urls": []
+    },
+    {
+      "id": "301821",
+      "title": "Whites Chapel Cemetery",
+      "latitude": 34.05919736,
+      "longitude": -85.92369347,
+      "directions": "On Whites Chapel Road, Gadsden, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301821",
+      "photo_urls": []
+    },
+    {
+      "id": "302013",
+      "title": "Courtland Colored School / Central High School / R.A. Hubbard School",
+      "latitude": 34.68097778,
+      "longitude": -87.30904444,
+      "directions": "On Jessie Jackson Parkway, North Courtland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302013",
+      "photo_urls": []
+    },
+    {
+      "id": "302394",
+      "title": "Newsome Family Cemetery",
+      "latitude": 32.49200253,
+      "longitude": -85.05337439,
+      "directions": "On Newsome Road, Phenix City, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302394",
+      "photo_urls": []
+    },
+    {
+      "id": "302424",
+      "title": "Mt. Olive School",
+      "latitude": 32.3596183,
+      "longitude": -85.03152446,
+      "directions": "On State Route 165, Fort Mitchell, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302424",
+      "photo_urls": []
+    },
+    {
+      "id": "302481",
+      "title": "Bethelonia Missionary Baptist Church",
+      "latitude": 32.22837821,
+      "longitude": -86.18349346,
+      "directions": "On Woodley Road (County Route 39) , Montgomery, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302481",
+      "photo_urls": []
+    },
+    {
+      "id": "302617",
+      "title": "Lamar County Training School",
+      "latitude": 33.7298821,
+      "longitude": -88.1726307,
+      "directions": "On Murray Todd Loop, Vernon, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302617",
+      "photo_urls": []
+    },
+    {
+      "id": "302618",
+      "title": "Hale & Murdock Iron Furnaces",
+      "latitude": 33.74736371,
+      "longitude": -88.1407208,
+      "directions": "On State Route 18, Vernon, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302618",
+      "photo_urls": []
+    },
+    {
+      "id": "302619",
+      "title": "Roxy Theatre/ Fayette's Newspapers",
+      "latitude": 33.68409523,
+      "longitude": -87.83086367,
+      "directions": "On Temple Avenue South, Fayette, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302619",
+      "photo_urls": []
+    },
+    {
+      "id": "302623",
+      "title": "The Pastime Theatre",
+      "latitude": 33.92908454,
+      "longitude": -87.8172744,
+      "directions": "On 164 Bankhead Hwy (U.S. 43) , Winfield, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302623",
+      "photo_urls": []
+    },
+    {
+      "id": "302739",
+      "title": "Old Bethany Cemetery",
+      "latitude": 33.04888104,
+      "longitude": -88.12558303,
+      "directions": "On Vienna Road, Vienna, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302739",
+      "photo_urls": []
+    },
+    {
+      "id": "302928",
+      "title": "Pleasant Hill Baptist Church Cemetery",
+      "latitude": 31.10945556,
+      "longitude": -85.61739444,
+      "directions": "On Pleasent Hill Road, Slocomb, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302928",
+      "photo_urls": []
+    },
+    {
+      "id": "302929",
+      "title": "New Providence Primitive Baptist Church and Rhoades Cemetery",
+      "latitude": 31.26333905,
+      "longitude": -86.1619795,
+      "directions": "On Alabama 189, near Kinston, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302929",
+      "photo_urls": []
+    },
+    {
+      "id": "302965",
+      "title": "Sergeant William Jasper",
+      "latitude": 33.83194151,
+      "longitude": -87.27741055,
+      "directions": "On 3rd Avenue, Jasper, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302965",
+      "photo_urls": []
+    },
+    {
+      "id": "302972",
+      "title": "First Baptist Church",
+      "latitude": 31.80991909,
+      "longitude": -85.97329578,
+      "directions": "On West College Street, Troy, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302972",
+      "photo_urls": []
+    },
+    {
+      "id": "302973",
+      "title": "Camp Ground Methodist Church",
+      "latitude": 31.77730288,
+      "longitude": -86.20316438,
+      "directions": "On Turkey Creek Road, Luverne, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302973",
+      "photo_urls": []
+    },
+    {
+      "id": "302988",
+      "title": "Historic Freemon Family Home",
+      "latitude": 31.88646439,
+      "longitude": -86.20602756,
+      "directions": "On Rising Star Road, near Petrey, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302988",
+      "photo_urls": []
+    },
+    {
       "id": "30306",
       "title": "Boll Weevil Monument",
       "latitude": 31.314424,
       "longitude": -85.853852,
       "directions": "On Main Street (U.S. 84) , Enterprise, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30306",
+      "photo_urls": []
+    },
+    {
+      "id": "303061",
+      "title": "Eldridge Mallard Toll Booth",
+      "latitude": 33.93147562,
+      "longitude": -87.60810468,
+      "directions": "On Byler Road (County Route 1) , near Eldridge, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303061",
+      "photo_urls": []
+    },
+    {
+      "id": "303068",
+      "title": "Union Chapel Methodist Episcopal Church Cemetery",
+      "latitude": 33.81631181,
+      "longitude": -87.18116388,
+      "directions": "On Buttermilk Road, Cordova, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303068",
+      "photo_urls": []
+    },
+    {
+      "id": "303069",
+      "title": "Union Chapel Cemetery",
+      "latitude": 33.81666599,
+      "longitude": -87.18103316,
+      "directions": "On Buttermilk Road, Cordova, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303069",
       "photo_urls": []
     },
     {
@@ -29790,7 +30060,7 @@
     },
     {
       "id": "64436",
-      "title": "Major General James Harrison Wilson, USV",
+      "title": "Major General James Harrison Wilson, USV / Wilson's Raiders",
       "latitude": 32.381518,
       "longitude": -86.345325,
       "directions": "On Ash Street, Maxwell Air Force Base, (On the right when traveling west)",
