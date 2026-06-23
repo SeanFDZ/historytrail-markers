@@ -3,9 +3,9 @@
   "region_name": "Louisiana",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-26T06:03:27.306Z",
-  "source_timestamp": "2026-05-26T06:03:27.306Z",
-  "marker_count": 3634,
+  "generated": "2026-06-23T06:03:28.702Z",
+  "source_timestamp": "2026-06-23T06:03:28.702Z",
+  "marker_count": 3636,
   "markers": [
     {
       "id": "100001",
@@ -13233,7 +13233,7 @@
       "title": "Parish of Jefferson",
       "latitude": 29.97345,
       "longitude": -90.14061667,
-      "directions": "On Airline Drive (U.S. 61) , Metarie, (On the right when traveling west)",
+      "directions": "On Airline Drive (U.S. 61) , Metairie, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=170474",
       "photo_urls": []
     },
@@ -24431,6 +24431,24 @@
       "longitude": -92.0166,
       "directions": "Near Girard Park Drive, Lafayette, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299713",
+      "photo_urls": []
+    },
+    {
+      "id": "301401",
+      "title": "Vienna",
+      "latitude": 32.58739185,
+      "longitude": -92.64816423,
+      "directions": "On U.S. 167/63, Vienna, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301401",
+      "photo_urls": []
+    },
+    {
+      "id": "302522",
+      "title": "Bonnet Carré Spillway",
+      "latitude": 30.00080987,
+      "longitude": -90.42911334,
+      "directions": "Near River Road, Norco, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302522",
       "photo_urls": []
     },
     {
