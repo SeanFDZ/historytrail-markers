@@ -3,9 +3,9 @@
   "region_name": "Colorado",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-26T06:03:27.278Z",
-  "source_timestamp": "2026-05-26T06:03:27.278Z",
-  "marker_count": 2496,
+  "generated": "2026-06-23T06:03:28.667Z",
+  "source_timestamp": "2026-06-23T06:03:28.667Z",
+  "marker_count": 2499,
   "markers": [
     {
       "id": "100196",
@@ -19355,6 +19355,33 @@
       "longitude": -107.311895,
       "directions": "On Gunnison Avenue (State Route 149) , Lake City, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298179",
+      "photo_urls": []
+    },
+    {
+      "id": "301724",
+      "title": "Gunnison Stone Quarries",
+      "latitude": 38.54572222,
+      "longitude": -106.92671111,
+      "directions": "On North Main Street, Gunnison, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301724",
+      "photo_urls": []
+    },
+    {
+      "id": "301745",
+      "title": "The Old Spanish Trail",
+      "latitude": 37.325672,
+      "longitude": -108.132913,
+      "directions": "On U.S. 160, near Hesperus, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301745",
+      "photo_urls": []
+    },
+    {
+      "id": "303429",
+      "title": "Early History and Railroad Development",
+      "latitude": 37.81287778,
+      "longitude": -107.906875,
+      "directions": "Near TransAmerica Trail, Colorado 145, Durango, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303429",
       "photo_urls": []
     },
     {
