@@ -3,9 +3,9 @@
   "region_name": "Minnesota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-26T06:03:27.347Z",
-  "source_timestamp": "2026-05-26T06:03:27.347Z",
-  "marker_count": 2718,
+  "generated": "2026-06-23T06:03:28.751Z",
+  "source_timestamp": "2026-06-23T06:03:28.751Z",
+  "marker_count": 2735,
   "markers": [
     {
       "id": "100670",
@@ -17468,6 +17468,15 @@
       "photo_urls": []
     },
     {
+      "id": "300455",
+      "title": "Middle Creek Brave Settler Monument",
+      "latitude": 44.63715235,
+      "longitude": -95.14763903,
+      "directions": "On County Route 21, near Renville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300455",
+      "photo_urls": []
+    },
+    {
       "id": "300553",
       "title": "Preston Public Library",
       "latitude": 43.670087,
@@ -17486,12 +17495,156 @@
       "photo_urls": []
     },
     {
+      "id": "300864",
+      "title": "Pvt. John O. Dolson",
+      "latitude": 44.886334,
+      "longitude": -93.266925,
+      "directions": "Near Portland Avenue, Richfield, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300864",
+      "photo_urls": []
+    },
+    {
+      "id": "301182",
+      "title": "Currie Veterans Memorial",
+      "latitude": 44.07472339,
+      "longitude": -95.66560893,
+      "directions": "On Mill Street, Currie, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301182",
+      "photo_urls": []
+    },
+    {
+      "id": "301328",
+      "title": "Example of Timberwork Along the Main Shaft",
+      "latitude": 46.534917,
+      "longitude": -93.972528,
+      "directions": "Near Milford Lake Drive, near Wolford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301328",
+      "photo_urls": []
+    },
+    {
+      "id": "301330",
+      "title": "Milford Miners Memorial",
+      "latitude": 46.534889,
+      "longitude": -93.970139,
+      "directions": "Near Milford Lake Drive, near Wolford, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301330",
+      "photo_urls": []
+    },
+    {
+      "id": "301530",
+      "title": "Ogechie Wetlands",
+      "latitude": 46.146056,
+      "longitude": -93.773167,
+      "directions": "Near the road to Ogechie Campground, near Onamia, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301530",
+      "photo_urls": []
+    },
+    {
+      "id": "301648",
+      "title": "Mashkodiisiminag",
+      "latitude": 46.176201,
+      "longitude": -93.755876,
+      "directions": "Near Oodena Drive (U.S. 169) , Vineland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301648",
+      "photo_urls": []
+    },
+    {
+      "id": "301778",
+      "title": "Masonic Temple Building",
+      "latitude": 44.979024,
+      "longitude": -93.273625,
+      "directions": "On Hennepin Avenue, Minneapolis, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301778",
+      "photo_urls": []
+    },
+    {
+      "id": "302020",
+      "title": "Buffalo Nation/&#7788;a&#7789;a&#331;ka Oyate",
+      "latitude": 43.726702,
+      "longitude": -92.588326,
+      "directions": "Near 730th Avenue, near Grand Meadow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302020",
+      "photo_urls": []
+    },
+    {
+      "id": "302132",
+      "title": "North St. Paul Veterans Memorial",
+      "latitude": 45.016327,
+      "longitude": -92.991928,
+      "directions": "On Margaret Street N., North St. Paul, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302132",
+      "photo_urls": []
+    },
+    {
+      "id": "302256",
+      "title": "The Historical Events of the Korea War",
+      "latitude": 44.952214,
+      "longitude": -93.101255,
+      "directions": "Near Cedar Street, Saint Paul, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302256",
+      "photo_urls": []
+    },
+    {
+      "id": "302460",
+      "title": "Steve McAllister",
+      "latitude": 44.950389,
+      "longitude": -93.084961,
+      "directions": "Near Broadway Street, Saint Paul, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302460",
+      "photo_urls": []
+    },
+    {
+      "id": "302983",
+      "title": "The Morrisons",
+      "latitude": 46.27255,
+      "longitude": -94.336639,
+      "directions": "Near State Park Road (County Route 27) , Crow Wing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302983",
+      "photo_urls": []
+    },
+    {
+      "id": "302987",
+      "title": "Morrison Residence",
+      "latitude": 46.2725,
+      "longitude": -94.33664,
+      "directions": "Near State Park Road (County Route 27) , Crow Wing, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302987",
+      "photo_urls": []
+    },
+    {
       "id": "3031",
       "title": "The 1918 Fire",
       "latitude": 46.4873558,
       "longitude": -92.87729559,
       "directions": "On Main Street (State Route 73) , Kettle River, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3031",
+      "photo_urls": []
+    },
+    {
+      "id": "303116",
+      "title": "Let's Have \"Harmony\"",
+      "latitude": 43.555157,
+      "longitude": -92.009929,
+      "directions": "On Main Avenue N. (County Route 44) , Harmony, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303116",
+      "photo_urls": []
+    },
+    {
+      "id": "303266",
+      "title": "Jesse Potter Nehring",
+      "latitude": 43.670029,
+      "longitude": -92.083511,
+      "directions": "On St. Paul Street SW, Preston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303266",
+      "photo_urls": []
+    },
+    {
+      "id": "303351",
+      "title": "Forestville Gristmill",
+      "latitude": 43.641329,
+      "longitude": -92.218368,
+      "directions": "Near County Route 118, near Preston, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303351",
       "photo_urls": []
     },
     {
@@ -19054,8 +19207,8 @@
     {
       "id": "57566",
       "title": "The Honoring All Veterans Memorial",
-      "latitude": 44.886233,
-      "longitude": -93.266911,
+      "latitude": 44.886191,
+      "longitude": -93.266904,
       "directions": "Near Portland Avenue, Richfield, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=57566",
       "photo_urls": []
@@ -21655,8 +21808,8 @@
     {
       "id": "73063",
       "title": "World War Memorial",
-      "latitude": 44.88635,
-      "longitude": -93.266945,
+      "latitude": 44.886306,
+      "longitude": -93.266929,
       "directions": "Near Portland Avenue, Richfield, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73063",
       "photo_urls": []
@@ -21664,8 +21817,8 @@
     {
       "id": "73111",
       "title": "The First Flag Raised Over Iwo Jima",
-      "latitude": 44.886235,
-      "longitude": -93.266891,
+      "latitude": 44.88619,
+      "longitude": -93.266879,
       "directions": "Near Portland Avenue, Richfield, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73111",
       "photo_urls": []
