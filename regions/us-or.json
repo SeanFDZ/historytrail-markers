@@ -3,9 +3,9 @@
   "region_name": "Oregon",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-27T06:02:44.864Z",
-  "source_timestamp": "2026-05-27T06:02:44.864Z",
-  "marker_count": 1344,
+  "generated": "2026-06-24T06:02:52.792Z",
+  "source_timestamp": "2026-06-24T06:02:52.792Z",
+  "marker_count": 1354,
   "markers": [
     {
       "id": "100202",
@@ -10850,6 +10850,96 @@
       "longitude": -123.80411,
       "directions": "On Astoria Riverwalk, Astoria, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299559",
+      "photo_urls": []
+    },
+    {
+      "id": "300475",
+      "title": "Whitman Route Oregon Trail 1843-1847",
+      "latitude": 45.7668297,
+      "longitude": -118.56277765,
+      "directions": "On North Main Street, Adams, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300475",
+      "photo_urls": []
+    },
+    {
+      "id": "301323",
+      "title": "Umatilla Veterans Memorial",
+      "latitude": 45.91631311,
+      "longitude": -119.34996907,
+      "directions": "On 6th Street (U.S. 730) , Umatilla, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301323",
+      "photo_urls": []
+    },
+    {
+      "id": "301951",
+      "title": "The Fremont Trail",
+      "latitude": 45.89975538,
+      "longitude": -118.33367352,
+      "directions": "On Walla Walla River Road, near Milton-Freewater, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301951",
+      "photo_urls": []
+    },
+    {
+      "id": "302230",
+      "title": "Union Motor Company",
+      "latitude": 45.32814854,
+      "longitude": -118.09205537,
+      "directions": "On Jefferson Avenue, La Grande, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302230",
+      "photo_urls": []
+    },
+    {
+      "id": "302951",
+      "title": "Stand By Me (1986)",
+      "latitude": 44.3935905,
+      "longitude": -122.98374763,
+      "directions": "On Park Avenue, Brownsville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302951",
+      "photo_urls": []
+    },
+    {
+      "id": "303539",
+      "title": "The Tillamook Burn",
+      "latitude": 45.61990192,
+      "longitude": -123.38190521,
+      "directions": "On Wilson River Highway (State Route 6) , near Gaston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303539",
+      "photo_urls": []
+    },
+    {
+      "id": "303543",
+      "title": "United Methodist Church",
+      "latitude": 42.92710601,
+      "longitude": -123.28014776,
+      "directions": "On Northwest Pine Street, Canyonville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303543",
+      "photo_urls": []
+    },
+    {
+      "id": "303676",
+      "title": "Arlington Hotel",
+      "latitude": 45.742449,
+      "longitude": -119.196423,
+      "directions": "On West Main Street, Echo, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303676",
+      "photo_urls": []
+    },
+    {
+      "id": "303679",
+      "title": "Umatilla Masonic Lodge #40",
+      "latitude": 45.74172669,
+      "longitude": -119.1963923,
+      "directions": "On South Dupont Street, Echo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303679",
+      "photo_urls": []
+    },
+    {
+      "id": "303682",
+      "title": "U.S. Mint",
+      "latitude": 45.5986341,
+      "longitude": -121.17657421,
+      "directions": "On East 2nd Street, The Dalles, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303682",
       "photo_urls": []
     },
     {
