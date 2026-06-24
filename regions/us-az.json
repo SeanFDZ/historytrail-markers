@@ -3,9 +3,9 @@
   "region_name": "Arizona",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-27T06:02:44.817Z",
-  "source_timestamp": "2026-05-27T06:02:44.817Z",
-  "marker_count": 1837,
+  "generated": "2026-06-24T06:02:52.744Z",
+  "source_timestamp": "2026-06-24T06:02:52.744Z",
+  "marker_count": 1839,
   "markers": [
     {
       "id": "100022",
@@ -9266,6 +9266,24 @@
       "longitude": -110.158157,
       "directions": "On West Arizona Street, Holbrook, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30158",
+      "photo_urls": []
+    },
+    {
+      "id": "301708",
+      "title": "It's a rare couple who open their backyard to strangers in search of rare birds.",
+      "latitude": 31.53935,
+      "longitude": -110.76033611,
+      "directions": "On Pennsylvania Avenue, Patagonia, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301708",
+      "photo_urls": []
+    },
+    {
+      "id": "302098",
+      "title": "Two \"M\"s in Lemmon?",
+      "latitude": 32.44049719,
+      "longitude": -110.78552778,
+      "directions": "Near East Ski Run Road, near Summerhaven, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302098",
       "photo_urls": []
     },
     {
