@@ -3,9 +3,9 @@
   "region_name": "Oklahoma",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-27T06:02:44.840Z",
-  "source_timestamp": "2026-05-27T06:02:44.840Z",
-  "marker_count": 2054,
+  "generated": "2026-06-24T06:02:52.769Z",
+  "source_timestamp": "2026-06-24T06:02:52.769Z",
+  "marker_count": 2055,
   "markers": [
     {
       "id": "100131",
@@ -15512,6 +15512,15 @@
       "longitude": -95.436355,
       "directions": "On U.S. 270, near Wilburton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=29928",
+      "photo_urls": []
+    },
+    {
+      "id": "300602",
+      "title": "End of the Journey",
+      "latitude": 35.82194545,
+      "longitude": -94.64198411,
+      "directions": "On Cemetery Road, Stilwell, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300602",
       "photo_urls": []
     },
     {
