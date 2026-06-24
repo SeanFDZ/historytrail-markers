@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-24",
+  "run_id": 176,
+  "cycle_day": 7,
+  "regions_processed": [
+    "us-az"
+  ],
+  "changes": {
+    "us-az": {
+      "added": 1836,
+      "removed": 0,
+      "modified": 0
+    }
+  },
+  "total_added": 6614,
+  "total_removed": 0,
+  "total_modified": 0
+}
