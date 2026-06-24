@@ -3,9 +3,9 @@
   "region_name": "Washington",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-27T06:02:44.882Z",
-  "source_timestamp": "2026-05-27T06:02:44.882Z",
-  "marker_count": 1358,
+  "generated": "2026-06-24T06:02:52.805Z",
+  "source_timestamp": "2026-06-24T06:02:52.805Z",
+  "marker_count": 1412,
   "markers": [
     {
       "id": "102488",
@@ -5842,8 +5842,8 @@
     {
       "id": "234641",
       "title": "Fort Eaton",
-      "latitude": 46.9855485,
-      "longitude": -122.7383115,
+      "latitude": 46.98574936,
+      "longitude": -122.73828629,
       "directions": "On Yelm Highway Southeast, Olympia, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=234641",
       "photo_urls": []
@@ -9923,6 +9923,492 @@
       "longitude": -119.55313325,
       "directions": "On C Street Northwest, Ephrata, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300387",
+      "photo_urls": []
+    },
+    {
+      "id": "301253",
+      "title": "Willamette Meridian",
+      "latitude": 46.98575303,
+      "longitude": -122.73861076,
+      "directions": "On Meridian Road Southeast, Olympia, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301253",
+      "photo_urls": []
+    },
+    {
+      "id": "301392",
+      "title": "The Thorp Grist Mill",
+      "latitude": 47.07430485,
+      "longitude": -120.68379151,
+      "directions": "On Thorp Highway North, Thorp, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301392",
+      "photo_urls": []
+    },
+    {
+      "id": "301748",
+      "title": "Tumwater Brewery Kettle",
+      "latitude": 46.98490215,
+      "longitude": -122.91198611,
+      "directions": "On Israel Road Southwest, Tumwater, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301748",
+      "photo_urls": []
+    },
+    {
+      "id": "301779",
+      "title": "Tumwater",
+      "latitude": 47.01306534,
+      "longitude": -122.90359379,
+      "directions": "On 3788 Capitol Blvd SE, Tumwater, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301779",
+      "photo_urls": []
+    },
+    {
+      "id": "301954",
+      "title": "Sam Hill Country",
+      "latitude": 45.69573503,
+      "longitude": -120.80564492,
+      "directions": "On Stonehenge Drive, near Goldendale, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301954",
+      "photo_urls": []
+    },
+    {
+      "id": "302149",
+      "title": "San Juan County Jail",
+      "latitude": 48.53264877,
+      "longitude": -123.02508723,
+      "directions": "Near Price Street, Friday Harbor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302149",
+      "photo_urls": []
+    },
+    {
+      "id": "302152",
+      "title": "James F. King Farmhouse",
+      "latitude": 48.53258221,
+      "longitude": -123.02454318,
+      "directions": "On Price Street, Friday Harbor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302152",
+      "photo_urls": []
+    },
+    {
+      "id": "302153",
+      "title": "Stone Store House",
+      "latitude": 48.53261824,
+      "longitude": -123.02483835,
+      "directions": "Near Price Street, Friday Harbor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302153",
+      "photo_urls": []
+    },
+    {
+      "id": "302210",
+      "title": "Oldest House in Oysterville",
+      "latitude": 46.54516265,
+      "longitude": -124.02906844,
+      "directions": "On Territory Road, Oysterville, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302210",
+      "photo_urls": []
+    },
+    {
+      "id": "302215",
+      "title": "Milk House",
+      "latitude": 48.53256801,
+      "longitude": -123.02501361,
+      "directions": "Near Price Street, Friday Harbor, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302215",
+      "photo_urls": []
+    },
+    {
+      "id": "302220",
+      "title": "English Camp",
+      "latitude": 48.58655655,
+      "longitude": -123.14704663,
+      "directions": "On West Valley Road, Roche Harbor, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302220",
+      "photo_urls": []
+    },
+    {
+      "id": "302223",
+      "title": "H. Lloyd Miller - 1883-1963",
+      "latitude": 46.32342222,
+      "longitude": -120.01332222,
+      "directions": "On East Ediston Avenue, Sunnyside, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302223",
+      "photo_urls": []
+    },
+    {
+      "id": "302225",
+      "title": "Chesaw",
+      "latitude": 48.94500436,
+      "longitude": -119.05137677,
+      "directions": "On Chesaw Road (County Route 9480) , Chesaw, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302225",
+      "photo_urls": []
+    },
+    {
+      "id": "302227",
+      "title": "Bodie",
+      "latitude": 48.83440668,
+      "longitude": -118.89682556,
+      "directions": "On Toroda Creek Road (County Route 9495) , Wauconda, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302227",
+      "photo_urls": []
+    },
+    {
+      "id": "302228",
+      "title": "Centennial Square",
+      "latitude": 46.32346389,
+      "longitude": -120.01341944,
+      "directions": "On East Edison Avenue, Sunnyside, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302228",
+      "photo_urls": []
+    },
+    {
+      "id": "302231",
+      "title": "Jerry Taylor Veterans Plaza",
+      "latitude": 46.32364524,
+      "longitude": -120.00862262,
+      "directions": "On East Edison Avenue, Sunnyside, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302231",
+      "photo_urls": []
+    },
+    {
+      "id": "302232",
+      "title": "St. Matthew's Episcopal Church",
+      "latitude": 46.20829716,
+      "longitude": -119.77191383,
+      "directions": "On 7th Street, Prosser, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302232",
+      "photo_urls": []
+    },
+    {
+      "id": "302233",
+      "title": "Wauconda Community Hall",
+      "latitude": 48.73497052,
+      "longitude": -118.99089674,
+      "directions": "On Toroda Creek Road, Wauconda, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302233",
+      "photo_urls": []
+    },
+    {
+      "id": "302234",
+      "title": "Johnson Bridge",
+      "latitude": 46.12219775,
+      "longitude": -118.64993091,
+      "directions": "On Touchet River North Road, Touchet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302234",
+      "photo_urls": []
+    },
+    {
+      "id": "302236",
+      "title": "Oysterville Schoolhouse",
+      "latitude": 46.54654568,
+      "longitude": -124.02996311,
+      "directions": "On School Road, Oysterville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302236",
+      "photo_urls": []
+    },
+    {
+      "id": "302237",
+      "title": "Oysterville Courthouse",
+      "latitude": 46.54643128,
+      "longitude": -124.03020246,
+      "directions": "On School Road, Oysterville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302237",
+      "photo_urls": []
+    },
+    {
+      "id": "302746",
+      "title": "Memorial to All Veterans",
+      "latitude": 48.28021478,
+      "longitude": -117.69501375,
+      "directions": "On Flowery Trail Road, Chewelah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302746",
+      "photo_urls": []
+    },
+    {
+      "id": "302926",
+      "title": "Golden Spike",
+      "latitude": 47.66126,
+      "longitude": -117.42719,
+      "directions": "On North Monroe Street, Spokane, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302926",
+      "photo_urls": []
+    },
+    {
+      "id": "302935",
+      "title": "Tomb of the Unknown Soldier",
+      "latitude": 47.62759584,
+      "longitude": -117.22617718,
+      "directions": "On East 32nd Avenue, Spokane, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302935",
+      "photo_urls": []
+    },
+    {
+      "id": "303137",
+      "title": "Whatcom County Parks & Recreation Dept",
+      "latitude": 49.00204199,
+      "longitude": -123.08925477,
+      "directions": "On Marine Drive, Point Roberts, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303137",
+      "photo_urls": []
+    },
+    {
+      "id": "303152",
+      "title": "Segis Pietertje Prospect",
+      "latitude": 47.67629062,
+      "longitude": -121.95290265,
+      "directions": "On Northeast Carnation Farm Road, Carnation, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303152",
+      "photo_urls": []
+    },
+    {
+      "id": "303154",
+      "title": "Tolt Oddfellows Hall",
+      "latitude": 47.64417237,
+      "longitude": -121.91533198,
+      "directions": "On Tolt Avenue, Carnation, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303154",
+      "photo_urls": []
+    },
+    {
+      "id": "303155",
+      "title": "Pacific Telephone and Telegraph Company (1920)",
+      "latitude": 47.19461562,
+      "longitude": -120.93510312,
+      "directions": "On East 1st Street, Cle Elum, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303155",
+      "photo_urls": []
+    },
+    {
+      "id": "303157",
+      "title": "First Chelan County Courthouse and Jail",
+      "latitude": 47.42110983,
+      "longitude": -120.30840971,
+      "directions": "On South Wenatchee Avenue, Wenatchee, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303157",
+      "photo_urls": []
+    },
+    {
+      "id": "303158",
+      "title": "Ritzville Public Library 1907",
+      "latitude": 47.12623025,
+      "longitude": -118.38193887,
+      "directions": "On West Main Avenue, Ritzville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303158",
+      "photo_urls": []
+    },
+    {
+      "id": "303161",
+      "title": "N. H. Greene Building",
+      "latitude": 47.1269242,
+      "longitude": -118.38054702,
+      "directions": "On West Main Avenue, Ritzville, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303161",
+      "photo_urls": []
+    },
+    {
+      "id": "303163",
+      "title": "H.E. Gritman Building",
+      "latitude": 47.12705919,
+      "longitude": -118.38077628,
+      "directions": "On West Main Avenue, Ritzville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303163",
+      "photo_urls": []
+    },
+    {
+      "id": "303164",
+      "title": "The Ritz Theatre",
+      "latitude": 47.12776541,
+      "longitude": -118.37995458,
+      "directions": "On East Main Avenue, Ritzville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303164",
+      "photo_urls": []
+    },
+    {
+      "id": "303165",
+      "title": "E.D. Gilson Building",
+      "latitude": 47.12589834,
+      "longitude": -118.38069294,
+      "directions": "On West Railroad Street, Ritzville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303165",
+      "photo_urls": []
+    },
+    {
+      "id": "303168",
+      "title": "Adams County Bank",
+      "latitude": 47.12606252,
+      "longitude": -118.38157611,
+      "directions": "On West Main Avenue, Ritzville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303168",
+      "photo_urls": []
+    },
+    {
+      "id": "303171",
+      "title": "Pioneer State Bank",
+      "latitude": 47.12770825,
+      "longitude": -118.37997489,
+      "directions": "On East Main Avenue, Ritzville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303171",
+      "photo_urls": []
+    },
+    {
+      "id": "303174",
+      "title": "Washtucna Sheriff's Office/Jail -- Outhouse",
+      "latitude": 46.75767376,
+      "longitude": -118.30970921,
+      "directions": "On Main Street, Washtucna, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303174",
+      "photo_urls": []
+    },
+    {
+      "id": "303269",
+      "title": "Horn School Rest Area",
+      "latitude": 47.18212898,
+      "longitude": -117.37708412,
+      "directions": "On U.S. 195, near Rosalia, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303269",
+      "photo_urls": []
+    },
+    {
+      "id": "303285",
+      "title": "Ranald MacDonald",
+      "latitude": 48.93529987,
+      "longitude": -118.75450373,
+      "directions": "On Kettle River Road, near Curlew, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303285",
+      "photo_urls": []
+    },
+    {
+      "id": "303455",
+      "title": "Battle of Walla Walla",
+      "latitude": 46.04598926,
+      "longitude": -118.48750327,
+      "directions": "On Old Highway 12, near Walla Walla, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303455",
+      "photo_urls": []
+    },
+    {
+      "id": "303492",
+      "title": "Conconully Lake History",
+      "latitude": 48.55935519,
+      "longitude": -119.75066186,
+      "directions": "On North Main Street, Conconully, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303492",
+      "photo_urls": []
+    },
+    {
+      "id": "303495",
+      "title": "1919- Baines Building",
+      "latitude": 48.36405308,
+      "longitude": -119.58072513,
+      "directions": "On 2nd Avenue North, Okanogan, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303495",
+      "photo_urls": []
+    },
+    {
+      "id": "303497",
+      "title": "Chesaw 4th of July Rodeo",
+      "latitude": 48.94536563,
+      "longitude": -119.05107216,
+      "directions": "On Chesaw Road, Chesaw, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303497",
+      "photo_urls": []
+    },
+    {
+      "id": "303498",
+      "title": "The Molson School",
+      "latitude": 48.97896956,
+      "longitude": -119.20122838,
+      "directions": "On County Route 4777, Molson, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303498",
+      "photo_urls": []
+    },
+    {
+      "id": "303499",
+      "title": "1925 - Cariboo Hotel",
+      "latitude": 48.36355551,
+      "longitude": -119.58220462,
+      "directions": "On Queen Street, Okanogan, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303499",
+      "photo_urls": []
+    },
+    {
+      "id": "303502",
+      "title": "Methow",
+      "latitude": 48.13001139,
+      "longitude": -120.00426508,
+      "directions": "On Methow Highway (State Route 153) , Methow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303502",
+      "photo_urls": []
+    },
+    {
+      "id": "303506",
+      "title": "High Line Ditch",
+      "latitude": 48.31650512,
+      "longitude": -120.05334714,
+      "directions": "On Methow Valley Highway (State Route 153) , Twisp, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303506",
+      "photo_urls": []
+    },
+    {
+      "id": "303508",
+      "title": "Silver",
+      "latitude": 48.31653427,
+      "longitude": -120.05334451,
+      "directions": "On Methow Valley Highway (State Route 153) , Twisp, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303508",
+      "photo_urls": []
+    },
+    {
+      "id": "303512",
+      "title": "Concrete Historic Byway",
+      "latitude": 48.53900307,
+      "longitude": -121.75000225,
+      "directions": "On Main Street, Concrete, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303512",
+      "photo_urls": []
+    },
+    {
+      "id": "303514",
+      "title": "The Historic Clinker Club",
+      "latitude": 48.53858011,
+      "longitude": -121.75701535,
+      "directions": "On Main Street, Concrete, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303514",
+      "photo_urls": []
+    },
+    {
+      "id": "303515",
+      "title": "Byles House",
+      "latitude": 46.98125168,
+      "longitude": -123.60174959,
+      "directions": "On West Broadway Avenue, Montesano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303515",
+      "photo_urls": []
+    },
+    {
+      "id": "303517",
+      "title": "The Vidette",
+      "latitude": 46.97994126,
+      "longitude": -123.60153973,
+      "directions": "On Marcy Avenue West, Montesano, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303517",
+      "photo_urls": []
+    },
+    {
+      "id": "303518",
+      "title": "Old Telephone Bldg.",
+      "latitude": 46.97997026,
+      "longitude": -123.60189437,
+      "directions": "On Marcy Ave W, Montesano, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303518",
+      "photo_urls": []
+    },
+    {
+      "id": "303577",
+      "title": "Chewelah Cemetery",
+      "latitude": 48.28021862,
+      "longitude": -117.69390414,
+      "directions": "On Flowery Trail Road, Chewelah, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303577",
       "photo_urls": []
     },
     {
