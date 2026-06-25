@@ -3,9 +3,9 @@
   "region_name": "Arkansas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-28T06:02:35.550Z",
-  "source_timestamp": "2026-05-28T06:02:35.550Z",
-  "marker_count": 2025,
+  "generated": "2026-06-25T06:03:14.003Z",
+  "source_timestamp": "2026-06-25T06:03:14.003Z",
+  "marker_count": 2032,
   "markers": [
     {
       "id": "100703",
@@ -14723,6 +14723,15 @@
       "photo_urls": []
     },
     {
+      "id": "299927",
+      "title": "Snow Lake Station",
+      "latitude": 34.06026361,
+      "longitude": -91.02279003,
+      "directions": "On AR - 44, Snow Lake, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=299927",
+      "photo_urls": []
+    },
+    {
       "id": "299929",
       "title": "Lake View Community",
       "latitude": 34.41651636,
@@ -14738,6 +14747,60 @@
       "longitude": -94.113607,
       "directions": "On South Old Wire Road (County Route 83) , near Rogers, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300185",
+      "photo_urls": []
+    },
+    {
+      "id": "301087",
+      "title": "Confederate Memorial",
+      "latitude": 36.37258333,
+      "longitude": -94.20856667,
+      "directions": "On Southwest F Street, Bentonville, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301087",
+      "photo_urls": []
+    },
+    {
+      "id": "301369",
+      "title": "The Spring",
+      "latitude": 35.97538889,
+      "longitude": -94.31524722,
+      "directions": "Near East Buchanan Street (U.S. Business 62) , Prairie Grove, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301369",
+      "photo_urls": []
+    },
+    {
+      "id": "302362",
+      "title": "Hermannsburg-Dutch Mills",
+      "latitude": 35.87611111,
+      "longitude": -94.49111111,
+      "directions": "Near Dutch Mills Road North, Lincoln, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302362",
+      "photo_urls": []
+    },
+    {
+      "id": "302949",
+      "title": "R. L. Leach Grocery Store",
+      "latitude": 35.87625528,
+      "longitude": -94.49129118,
+      "directions": "Near Dutch Mills Road North (County Route 419) , Lincoln, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302949",
+      "photo_urls": []
+    },
+    {
+      "id": "303130",
+      "title": "Dedicated to Miss Willie K. Hocker",
+      "latitude": 34.2299034,
+      "longitude": -92.00369869,
+      "directions": "On West Barraque Street, Pine Bluff, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303130",
+      "photo_urls": []
+    },
+    {
+      "id": "303568",
+      "title": "Memorial Hall",
+      "latitude": 36.18657362,
+      "longitude": -94.13004887,
+      "directions": "On East Johnson Avenue, Springdale, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303568",
       "photo_urls": []
     },
     {
