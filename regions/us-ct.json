@@ -3,9 +3,9 @@
   "region_name": "Connecticut",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-28T06:02:35.577Z",
-  "source_timestamp": "2026-05-28T06:02:35.577Z",
-  "marker_count": 2995,
+  "generated": "2026-06-25T06:03:14.029Z",
+  "source_timestamp": "2026-06-25T06:03:14.029Z",
+  "marker_count": 3035,
   "markers": [
     {
       "id": "100091",
@@ -3540,7 +3540,7 @@
       "title": "Matthew Furlong",
       "latitude": 41.76955278,
       "longitude": -72.67350833,
-      "directions": "Near Main Street (U.S. 44) , East Hartford, (On the left when traveling north)",
+      "directions": "Near Main Street (U.S. 44) , Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151919",
       "photo_urls": []
     },
@@ -3549,7 +3549,7 @@
       "title": "New Ross, County Wexford Park",
       "latitude": 41.76960833,
       "longitude": -72.67329444,
-      "directions": "On Main Street (U.S. 44) , East Hartford, (On the left when traveling north)",
+      "directions": "On Main Street (U.S. 44) , Hartford, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=151920",
       "photo_urls": []
     },
@@ -4941,7 +4941,7 @@
     },
     {
       "id": "195570",
-      "title": "Persian Gulf   Operation Desert Storm",
+      "title": "Operation Desert Storm",
       "latitude": 41.984051,
       "longitude": -71.896446,
       "directions": "On Riverside Drive, Thompson, (On the right when traveling south)",
@@ -8607,7 +8607,7 @@
       "title": "James Goodwin Batterson",
       "latitude": 41.76725738,
       "longitude": -72.67300266,
-      "directions": "On Main Street, East Hartford, (On the right when traveling north)",
+      "directions": "On State House Square, Hartford, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230409",
       "photo_urls": []
     },
@@ -18359,12 +18359,66 @@
       "photo_urls": []
     },
     {
+      "id": "300365",
+      "title": "On the Frontline of the Pandemic",
+      "latitude": 41.311773,
+      "longitude": -72.923741,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300365",
+      "photo_urls": []
+    },
+    {
+      "id": "300371",
+      "title": "Turning Friends into Brothers",
+      "latitude": 41.311774,
+      "longitude": -72.923718,
+      "directions": "On Hillhouse Avenue, New Haven, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300371",
+      "photo_urls": []
+    },
+    {
+      "id": "300374",
+      "title": "Branford Soldiers Garden",
+      "latitude": 41.26736738,
+      "longitude": -72.81041654,
+      "directions": "On Melrose Avenue, Branford, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300374",
+      "photo_urls": []
+    },
+    {
+      "id": "300402",
+      "title": "John B. Sliney",
+      "latitude": 41.26654542,
+      "longitude": -72.80631654,
+      "directions": "Near Melrose Avenue, Branford, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300402",
+      "photo_urls": []
+    },
+    {
       "id": "300410",
       "title": "Valour Memorial Green",
       "latitude": 41.60552726,
       "longitude": -72.64760285,
       "directions": "On Main Street, Cromwell, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300410",
+      "photo_urls": []
+    },
+    {
+      "id": "300418",
+      "title": "An Historic Timeline - Dividend Pond Archaeological District",
+      "latitude": 41.64685,
+      "longitude": -72.63427,
+      "directions": "On Old Forge Road, Rocky Hill, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300418",
+      "photo_urls": []
+    },
+    {
+      "id": "300425",
+      "title": "Welles & Wilcox Manufacturing",
+      "latitude": 41.64703,
+      "longitude": -72.63387,
+      "directions": "Near Old Forge Road, Rocky Hill, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300425",
       "photo_urls": []
     },
     {
@@ -18431,6 +18485,87 @@
       "photo_urls": []
     },
     {
+      "id": "301376",
+      "title": "Entrance to Edward Bulkeley Homestead",
+      "latitude": 41.647,
+      "longitude": -72.63328,
+      "directions": "Near Old Forge Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301376",
+      "photo_urls": []
+    },
+    {
+      "id": "301379",
+      "title": "Reverend Gershom Bulkeley's Corne/Grist Mill",
+      "latitude": 41.64587,
+      "longitude": -72.63175,
+      "directions": "Near Dividend Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301379",
+      "photo_urls": []
+    },
+    {
+      "id": "301384",
+      "title": "C. E. Billings Manufacturing Co.",
+      "latitude": 41.64593,
+      "longitude": -72.63356,
+      "directions": "Near Old Forge Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301384",
+      "photo_urls": []
+    },
+    {
+      "id": "301388",
+      "title": "Butler and Sugden Dam and Sluiceway",
+      "latitude": 41.64163,
+      "longitude": -72.64148,
+      "directions": "Near Old Forge Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301388",
+      "photo_urls": []
+    },
+    {
+      "id": "301391",
+      "title": "Butler Grist Mill",
+      "latitude": 41.64076,
+      "longitude": -72.64531,
+      "directions": "Near Pleasant Valley Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301391",
+      "photo_urls": []
+    },
+    {
+      "id": "301394",
+      "title": "Butler Saw Mill",
+      "latitude": 41.63954,
+      "longitude": -72.64621,
+      "directions": "Near Pleasant Valley Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301394",
+      "photo_urls": []
+    },
+    {
+      "id": "301396",
+      "title": "Butler and Sugden Shear Factory",
+      "latitude": 41.64297,
+      "longitude": -72.64036,
+      "directions": "Near Pleasant Valley Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301396",
+      "photo_urls": []
+    },
+    {
+      "id": "301399",
+      "title": "Bulkeley Mill Dam",
+      "latitude": 41.64598,
+      "longitude": -72.63429,
+      "directions": "Near Old Forge Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301399",
+      "photo_urls": []
+    },
+    {
+      "id": "301402",
+      "title": "Bulkeley's New Corne Mill",
+      "latitude": 41.64625,
+      "longitude": -72.63403,
+      "directions": "Near Old Forge Road, Rocky Hill, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301402",
+      "photo_urls": []
+    },
+    {
       "id": "30182",
       "title": "McCall Foundation",
       "latitude": 41.803053,
@@ -18482,6 +18617,195 @@
       "longitude": -73.170573,
       "directions": "On John Brown Road, Torrington, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30187",
+      "photo_urls": []
+    },
+    {
+      "id": "301991",
+      "title": "Center Cemetery Memorial",
+      "latitude": 41.66048933,
+      "longitude": -72.63898818,
+      "directions": "On Main Street, Rocky Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301991",
+      "photo_urls": []
+    },
+    {
+      "id": "301992",
+      "title": "Rocky Hill World War II Monument",
+      "latitude": 41.661712,
+      "longitude": -72.638862,
+      "directions": "On Main Street (State Route 99) , Rocky Hill, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301992",
+      "photo_urls": []
+    },
+    {
+      "id": "301993",
+      "title": "Wethersfield",
+      "latitude": 41.71160725,
+      "longitude": -72.66418854,
+      "directions": "On Church Street, Wethersfield, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301993",
+      "photo_urls": []
+    },
+    {
+      "id": "301995",
+      "title": "Hebron",
+      "latitude": 41.658435,
+      "longitude": -72.36397,
+      "directions": "On Main Street (State Route 66) , Hebron, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301995",
+      "photo_urls": []
+    },
+    {
+      "id": "301996",
+      "title": "Ellington",
+      "latitude": 41.903891,
+      "longitude": -72.471532,
+      "directions": "On Main Street (State Route 286) , Ellington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301996",
+      "photo_urls": []
+    },
+    {
+      "id": "301997",
+      "title": "Enfield",
+      "latitude": 41.977058,
+      "longitude": -72.592178,
+      "directions": "On Enfield Street (U.S. 5) , Enfield, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301997",
+      "photo_urls": []
+    },
+    {
+      "id": "301999",
+      "title": "Canterbury",
+      "latitude": 41.697514,
+      "longitude": -71.971407,
+      "directions": "On S Canterbury Road (State Route 169) , Canterbury, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301999",
+      "photo_urls": []
+    },
+    {
+      "id": "302001",
+      "title": "Sprague",
+      "latitude": 41.616419,
+      "longitude": -72.084237,
+      "directions": "On Main Street (State Route 97) , Sprague, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302001",
+      "photo_urls": []
+    },
+    {
+      "id": "302002",
+      "title": "Lisbon",
+      "latitude": 41.60464,
+      "longitude": -72.017803,
+      "directions": "On South Burnham Hwy (State Route 169) , Lisbon, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302002",
+      "photo_urls": []
+    },
+    {
+      "id": "302003",
+      "title": "Preston",
+      "latitude": 41.531451,
+      "longitude": -71.971992,
+      "directions": "On Jewitt City Road (State Route 164) , Preston, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302003",
+      "photo_urls": []
+    },
+    {
+      "id": "302004",
+      "title": "Salem",
+      "latitude": 41.491252,
+      "longitude": -72.27623,
+      "directions": "On Hartford Road (State Route 85) , Salem, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302004",
+      "photo_urls": []
+    },
+    {
+      "id": "302005",
+      "title": "Old Lyme",
+      "latitude": 41.317581,
+      "longitude": -72.32973,
+      "directions": "On Lyme Street, Old Lyme, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302005",
+      "photo_urls": []
+    },
+    {
+      "id": "302006",
+      "title": "Middlefield",
+      "latitude": 41.518554,
+      "longitude": -72.713157,
+      "directions": "On Jackson Hill Road, Middlefield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302006",
+      "photo_urls": []
+    },
+    {
+      "id": "302007",
+      "title": "Granby",
+      "latitude": 41.945962,
+      "longitude": -72.790767,
+      "directions": "On Salmon Brook Street (State Route 10) , Granby, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302007",
+      "photo_urls": []
+    },
+    {
+      "id": "302008",
+      "title": "Suffield",
+      "latitude": 41.982202,
+      "longitude": -72.650806,
+      "directions": "On North Main Street (State Route 75) , Suffield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302008",
+      "photo_urls": []
+    },
+    {
+      "id": "302010",
+      "title": "Comstock, Ferre & Co.",
+      "latitude": 41.71354383,
+      "longitude": -72.65295941,
+      "directions": "On Main Street, Wethersfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302010",
+      "photo_urls": []
+    },
+    {
+      "id": "302024",
+      "title": "Trinity Parish",
+      "latitude": 41.71482914,
+      "longitude": -72.65246799,
+      "directions": "Near Main Street, Wethersfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302024",
+      "photo_urls": []
+    },
+    {
+      "id": "302055",
+      "title": "The Cradle of American Seed Companies",
+      "latitude": 41.71528324,
+      "longitude": -72.65246402,
+      "directions": "On Main Street, Wethersfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302055",
+      "photo_urls": []
+    },
+    {
+      "id": "302057",
+      "title": "The Stillman Tavern",
+      "latitude": 41.71564684,
+      "longitude": -72.65244656,
+      "directions": "On Main Street, Wethersfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302057",
+      "photo_urls": []
+    },
+    {
+      "id": "302060",
+      "title": "Hanmer Park",
+      "latitude": 41.71902607,
+      "longitude": -72.6524627,
+      "directions": "On Main Street, Wethersfield, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302060",
+      "photo_urls": []
+    },
+    {
+      "id": "302062",
+      "title": "Cove Park",
+      "latitude": 41.72300151,
+      "longitude": -72.65354307,
+      "directions": "On Main Street, Wethersfield, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302062",
       "photo_urls": []
     },
     {
@@ -18563,6 +18887,42 @@
       "longitude": -73.09199,
       "directions": "Near Burr Mountain Road, Torrington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30242",
+      "photo_urls": []
+    },
+    {
+      "id": "302430",
+      "title": "Early Settlement of Wethersfield",
+      "latitude": 41.72301116,
+      "longitude": -72.65355329,
+      "directions": "On Main Street, Wethersfield, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302430",
+      "photo_urls": []
+    },
+    {
+      "id": "302454",
+      "title": "Roger Sherman",
+      "latitude": 41.14642613,
+      "longitude": -73.25599909,
+      "directions": "On I-95 Fairfield Ct Service Plaza, Fairfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302454",
+      "photo_urls": []
+    },
+    {
+      "id": "303144",
+      "title": "Stonington Founders Monument",
+      "latitude": 41.359773,
+      "longitude": -71.876636,
+      "directions": "On Palmer Neck Road, Stonington, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303144",
+      "photo_urls": []
+    },
+    {
+      "id": "303804",
+      "title": "Fallen Workers Memorial",
+      "latitude": 41.1463567,
+      "longitude": -73.2562196,
+      "directions": "Near I-95 North Service Plaza, Fairfield, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303804",
       "photo_urls": []
     },
     {
