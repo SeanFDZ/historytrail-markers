@@ -3,9 +3,9 @@
   "region_name": "Mississippi",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-28T06:02:35.639Z",
-  "source_timestamp": "2026-05-28T06:02:35.640Z",
-  "marker_count": 3268,
+  "generated": "2026-06-25T06:03:14.079Z",
+  "source_timestamp": "2026-06-25T06:03:14.079Z",
+  "marker_count": 3272,
   "markers": [
     {
       "id": "10058",
@@ -22910,6 +22910,42 @@
       "longitude": -90.56374137,
       "directions": "On Desoto Avenue, Clarksdale, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299931",
+      "photo_urls": []
+    },
+    {
+      "id": "301849",
+      "title": "Senator James O. Eastland Memorial Highway",
+      "latitude": 33.1864526,
+      "longitude": -89.8371969,
+      "directions": "Near Interstate 55 (Interstate 55) , West, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301849",
+      "photo_urls": []
+    },
+    {
+      "id": "301852",
+      "title": "Governor Cliff Finch",
+      "latitude": 34.2484975,
+      "longitude": -89.9250657,
+      "directions": "On Interstate 55, Courtland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301852",
+      "photo_urls": []
+    },
+    {
+      "id": "302509",
+      "title": "Significant Events in African-American History in Oktibbeha County",
+      "latitude": 33.464174,
+      "longitude": -88.816706,
+      "directions": "On Dr. Douglas L. Conner Drive, Starkville, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302509",
+      "photo_urls": []
+    },
+    {
+      "id": "302520",
+      "title": "Queen City Hotel and 7th Avenue",
+      "latitude": 33.503035,
+      "longitude": -88.417057,
+      "directions": "On 7th Avenue, Columbus, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302520",
       "photo_urls": []
     },
     {
