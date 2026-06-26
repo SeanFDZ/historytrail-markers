@@ -3,9 +3,9 @@
   "region_name": "Nebraska",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-29T06:03:05.428Z",
-  "source_timestamp": "2026-05-29T06:03:05.429Z",
-  "marker_count": 1332,
+  "generated": "2026-06-26T06:03:53.673Z",
+  "source_timestamp": "2026-06-26T06:03:53.673Z",
+  "marker_count": 1338,
   "markers": [
     {
       "id": "101391",
@@ -7358,6 +7358,60 @@
       "longitude": -95.8684634,
       "directions": "On West Street, Julian, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299624",
+      "photo_urls": []
+    },
+    {
+      "id": "303300",
+      "title": "Brownville, Nebraska Historical Society Heritage Tree",
+      "latitude": 40.39734618,
+      "longitude": -95.65720911,
+      "directions": "On Main Street, Brownville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303300",
+      "photo_urls": []
+    },
+    {
+      "id": "303399",
+      "title": "Humboldt, NE.",
+      "latitude": 40.16372406,
+      "longitude": -95.94599311,
+      "directions": "On 4th Street, Humboldt, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303399",
+      "photo_urls": []
+    },
+    {
+      "id": "303439",
+      "title": "Roll of Honor",
+      "latitude": 40.16313985,
+      "longitude": -95.94715375,
+      "directions": "On 3rd Street, Humboldt, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303439",
+      "photo_urls": []
+    },
+    {
+      "id": "303474",
+      "title": "Ft. McPherson Trail",
+      "latitude": 40.54074918,
+      "longitude": -100.32544794,
+      "directions": "On State Route 18, near Stockville, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303474",
+      "photo_urls": []
+    },
+    {
+      "id": "303505",
+      "title": "Historic Red Willow School",
+      "latitude": 40.23513448,
+      "longitude": -100.50686408,
+      "directions": "On Drive 391, Indianola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303505",
+      "photo_urls": []
+    },
+    {
+      "id": "303620",
+      "title": "Pawnee City",
+      "latitude": 40.10895556,
+      "longitude": -96.14196882,
+      "directions": "Near 7th Street (State Route 8/50) , Pawnee City, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303620",
       "photo_urls": []
     },
     {
