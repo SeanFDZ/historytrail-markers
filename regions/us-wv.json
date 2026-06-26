@@ -3,9 +3,9 @@
   "region_name": "West Virginia",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-29T06:03:05.462Z",
-  "source_timestamp": "2026-05-29T06:03:05.462Z",
-  "marker_count": 4030,
+  "generated": "2026-06-26T06:03:53.704Z",
+  "source_timestamp": "2026-06-26T06:03:53.704Z",
+  "marker_count": 4071,
   "markers": [
     {
       "id": "100004",
@@ -4359,7 +4359,7 @@
       "title": "Doddridge County / Ritchie County",
       "latitude": 39.277324,
       "longitude": -80.909341,
-      "directions": "On Northwest Turnpike, near Pennsboro, (On the right when traveling east)",
+      "directions": "On Northwest Turnpike (County Route 50/40) , near Pennsboro, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=142407",
       "photo_urls": []
     },
@@ -29696,6 +29696,375 @@
       "longitude": -81.22988326,
       "directions": "On Lizemore Road, Bomont, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299135",
+      "photo_urls": []
+    },
+    {
+      "id": "301159",
+      "title": "Sardis Baptist Church Cemetery Memorial",
+      "latitude": 39.33530615,
+      "longitude": -80.41837143,
+      "directions": "On Branch of Lick Run (County Route 7/7) , Sardis, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301159",
+      "photo_urls": []
+    },
+    {
+      "id": "301178",
+      "title": "Doddridge County / Harrison County",
+      "latitude": 39.30559551,
+      "longitude": -80.58548658,
+      "directions": "On Dempsey Road North (State Route 23) , near Salem, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301178",
+      "photo_urls": []
+    },
+    {
+      "id": "301213",
+      "title": "Tyler County / Doddridge County",
+      "latitude": 39.34998481,
+      "longitude": -80.81633946,
+      "directions": "On State Route 18, near West Union, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301213",
+      "photo_urls": []
+    },
+    {
+      "id": "301311",
+      "title": "Pleasants County / Ritchie County",
+      "latitude": 39.32673361,
+      "longitude": -81.09664736,
+      "directions": "On Pike Road (State Route 16) , near Ellenboro, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301311",
+      "photo_urls": []
+    },
+    {
+      "id": "301333",
+      "title": "Ritchie County Courthouse",
+      "latitude": 39.21004176,
+      "longitude": -81.05167043,
+      "directions": "On North Court Street, Harrisville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301333",
+      "photo_urls": []
+    },
+    {
+      "id": "301372",
+      "title": "Raiders In Harrisville",
+      "latitude": 39.20964881,
+      "longitude": -81.05419963,
+      "directions": "On West Main Street (County Route 5) , Harrisville, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301372",
+      "photo_urls": []
+    },
+    {
+      "id": "301474",
+      "title": "Unusual Architecture",
+      "latitude": 39.2084443,
+      "longitude": -81.15643068,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301474",
+      "photo_urls": []
+    },
+    {
+      "id": "301649",
+      "title": "The Federal Log Cabin",
+      "latitude": 39.00120556,
+      "longitude": -79.14081667,
+      "directions": "Near Mulligan Drive, Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301649",
+      "photo_urls": []
+    },
+    {
+      "id": "301653",
+      "title": "Pendleton County / Grant County",
+      "latitude": 38.86824722,
+      "longitude": -79.21677222,
+      "directions": "On Nine Mile Pike, Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301653",
+      "photo_urls": []
+    },
+    {
+      "id": "301701",
+      "title": "Ritchie County Veterans Memorial",
+      "latitude": 39.20819628,
+      "longitude": -81.1556103,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301701",
+      "photo_urls": []
+    },
+    {
+      "id": "301783",
+      "title": "Ritchie County Veterans Memorial",
+      "latitude": 39.20809138,
+      "longitude": -81.15569635,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301783",
+      "photo_urls": []
+    },
+    {
+      "id": "301854",
+      "title": "Town Square",
+      "latitude": 39.20866333,
+      "longitude": -81.15643067,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301854",
+      "photo_urls": []
+    },
+    {
+      "id": "301857",
+      "title": "Bethel Presbyterian Church",
+      "latitude": 39.33262055,
+      "longitude": -81.42150812,
+      "directions": "On Old St Marys Pike (County Route 16/7) , near Waverly, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301857",
+      "photo_urls": []
+    },
+    {
+      "id": "301886",
+      "title": "Many Uses Under One Roof!",
+      "latitude": 39.20853382,
+      "longitude": -81.15632165,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301886",
+      "photo_urls": []
+    },
+    {
+      "id": "301943",
+      "title": "Cairo",
+      "latitude": 39.20900941,
+      "longitude": -81.15615528,
+      "directions": "On Railroad Street, Cairo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301943",
+      "photo_urls": []
+    },
+    {
+      "id": "301946",
+      "title": "West Virginia Pollinators",
+      "latitude": 39.3896479,
+      "longitude": -81.4429605,
+      "directions": "On Highland Avenue (State Route 14) , Williamstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301946",
+      "photo_urls": []
+    },
+    {
+      "id": "301980",
+      "title": "Looking Back in Time",
+      "latitude": 39.20885735,
+      "longitude": -81.15740934,
+      "directions": "On Main Street (State Route 31) , Cairo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301980",
+      "photo_urls": []
+    },
+    {
+      "id": "302065",
+      "title": "Airborne/Paratrooper Memorial",
+      "latitude": 39.38975559,
+      "longitude": -81.44319672,
+      "directions": "On Highland Avenue (State Route 14) , Williamstown, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302065",
+      "photo_urls": []
+    },
+    {
+      "id": "302211",
+      "title": "Gold Star Families Memorial Monument",
+      "latitude": 39.32793803,
+      "longitude": -81.55498663,
+      "directions": "On River Road, Vienna, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302211",
+      "photo_urls": []
+    },
+    {
+      "id": "302257",
+      "title": "B&O No. C-2222 Caboose",
+      "latitude": 39.32560624,
+      "longitude": -81.53804015,
+      "directions": "On 34th Street, Vienna, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302257",
+      "photo_urls": []
+    },
+    {
+      "id": "302262",
+      "title": "Veterans Memorial",
+      "latitude": 39.32543786,
+      "longitude": -81.53737486,
+      "directions": "On Jackson Park Drive, Vienna, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302262",
+      "photo_urls": []
+    },
+    {
+      "id": "302263",
+      "title": "F-84F Thunderstreak",
+      "latitude": 39.3253845,
+      "longitude": -81.53730355,
+      "directions": "On Jackson Park Drive, Vienna, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302263",
+      "photo_urls": []
+    },
+    {
+      "id": "302328",
+      "title": "Thornhill in the 1920s",
+      "latitude": 39.22670732,
+      "longitude": -81.30069419,
+      "directions": "Near Volcano Road (County Route 2/8) , near Deerwalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302328",
+      "photo_urls": []
+    },
+    {
+      "id": "302329",
+      "title": "Thornhill",
+      "latitude": 39.22664755,
+      "longitude": -81.30073267,
+      "directions": "Near Volcano Road (County Route 2/8) , near Deerwalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302329",
+      "photo_urls": []
+    },
+    {
+      "id": "302352",
+      "title": "William Cooper Stiles, Jr.",
+      "latitude": 39.22662262,
+      "longitude": -81.30064975,
+      "directions": "Near Volcano Road (County Route 2/8) , near Deerwalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302352",
+      "photo_urls": []
+    },
+    {
+      "id": "302358",
+      "title": "Steps to Volcano / Cellar",
+      "latitude": 39.22656964,
+      "longitude": -81.30067682,
+      "directions": "Near Volcano Road (County Route 2/8) , near Deerwalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302358",
+      "photo_urls": []
+    },
+    {
+      "id": "302379",
+      "title": "Mountwood Park",
+      "latitude": 39.2432981,
+      "longitude": -81.30223509,
+      "directions": "On Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302379",
+      "photo_urls": []
+    },
+    {
+      "id": "302388",
+      "title": "Women of Volcano",
+      "latitude": 39.2432866,
+      "longitude": -81.30135637,
+      "directions": "On Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302388",
+      "photo_urls": []
+    },
+    {
+      "id": "302408",
+      "title": "Derrick",
+      "latitude": 39.24313874,
+      "longitude": -81.30063874,
+      "directions": "On Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302408",
+      "photo_urls": []
+    },
+    {
+      "id": "302409",
+      "title": "Wheels Of The Endless Cable",
+      "latitude": 39.24330054,
+      "longitude": -81.30113999,
+      "directions": "On Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302409",
+      "photo_urls": []
+    },
+    {
+      "id": "302428",
+      "title": "Darrell B. Dotson",
+      "latitude": 39.32370601,
+      "longitude": -81.52735382,
+      "directions": "On Jackson Park Drive, Vienna, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302428",
+      "photo_urls": []
+    },
+    {
+      "id": "302469",
+      "title": "Wooden Oil Storage Tank",
+      "latitude": 39.24331171,
+      "longitude": -81.30133795,
+      "directions": "On Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302469",
+      "photo_urls": []
+    },
+    {
+      "id": "302471",
+      "title": "The Endless Cable System",
+      "latitude": 39.24325586,
+      "longitude": -81.30112805,
+      "directions": "Near Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302471",
+      "photo_urls": []
+    },
+    {
+      "id": "302484",
+      "title": "Oil Pump",
+      "latitude": 39.24325069,
+      "longitude": -81.30115844,
+      "directions": "Near Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302484",
+      "photo_urls": []
+    },
+    {
+      "id": "302486",
+      "title": "Sixteen Horsepower Gas Engine",
+      "latitude": 39.24326827,
+      "longitude": -81.3011048,
+      "directions": "Near Volcano Road (County Route 5) , near Deerwalk, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302486",
+      "photo_urls": []
+    },
+    {
+      "id": "303395",
+      "title": "Confederate Artillery",
+      "latitude": 39.54716532,
+      "longitude": -77.92016383,
+      "directions": "On Saint Andrews Drive (County Route 3/1) , near Falling Waters, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303395",
+      "photo_urls": []
+    },
+    {
+      "id": "303402",
+      "title": "Federals Cross the Potomac",
+      "latitude": 39.54761924,
+      "longitude": -77.9193577,
+      "directions": "Near Saint Andrews Drive, Falling Waters, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303402",
+      "photo_urls": []
+    },
+    {
+      "id": "303404",
+      "title": "Advance to Battle",
+      "latitude": 39.54770365,
+      "longitude": -77.91875371,
+      "directions": "Near Saint Andrews Drive, Falling Waters, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303404",
+      "photo_urls": []
+    },
+    {
+      "id": "303406",
+      "title": "The Fighting Grows",
+      "latitude": 39.54779008,
+      "longitude": -77.91864628,
+      "directions": "Near Saint Andrews Drive (County Route 3/1) , Falling Waters, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303406",
+      "photo_urls": []
+    },
+    {
+      "id": "303407",
+      "title": "Skirmishers Pull Back",
+      "latitude": 39.547266,
+      "longitude": -77.91870919,
+      "directions": "Near Saint Andrews Drive, Falling Waters, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303407",
+      "photo_urls": []
+    },
+    {
+      "id": "303488",
+      "title": "Fort New Salem",
+      "latitude": 39.2893877,
+      "longitude": -80.56581702,
+      "directions": "On Settlers Lane, Salem, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303488",
       "photo_urls": []
     },
     {
