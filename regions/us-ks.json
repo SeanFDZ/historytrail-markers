@@ -3,9 +3,9 @@
   "region_name": "Kansas",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-29T06:03:05.393Z",
-  "source_timestamp": "2026-05-29T06:03:05.393Z",
-  "marker_count": 2770,
+  "generated": "2026-06-26T06:03:53.639Z",
+  "source_timestamp": "2026-06-26T06:03:53.639Z",
+  "marker_count": 2785,
   "markers": [
     {
       "id": "100063",
@@ -5882,6 +5882,141 @@
       "longitude": -94.91763155,
       "directions": "On 5th Avenue, Leavenworth, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=294837",
+      "photo_urls": []
+    },
+    {
+      "id": "300004",
+      "title": "The Potawatomi Indians Trail of Death",
+      "latitude": 38.57225543,
+      "longitude": -94.87806264,
+      "directions": "On Pearl Street, Paola, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300004",
+      "photo_urls": []
+    },
+    {
+      "id": "301426",
+      "title": "Smoky Hill Trail",
+      "latitude": 38.789085,
+      "longitude": -100.762929,
+      "directions": "On County Route 16, near Gove City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301426",
+      "photo_urls": []
+    },
+    {
+      "id": "302046",
+      "title": "Merritt Insley House",
+      "latitude": 39.31964005,
+      "longitude": -94.91756491,
+      "directions": "On Seneca Street, Leavenworth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302046",
+      "photo_urls": []
+    },
+    {
+      "id": "302047",
+      "title": "St. Joseph Catholic Church",
+      "latitude": 39.32014571,
+      "longitude": -94.9216547,
+      "directions": "On Broadway Street, Leavenworth, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302047",
+      "photo_urls": []
+    },
+    {
+      "id": "302051",
+      "title": "Unsung Heroes in American History",
+      "latitude": 39.32527108,
+      "longitude": -94.91560074,
+      "directions": "On Kiowa Street, Leavenworth, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302051",
+      "photo_urls": []
+    },
+    {
+      "id": "302300",
+      "title": "The Founding of St. John, Kansas",
+      "latitude": 38.0007319,
+      "longitude": -98.76188133,
+      "directions": "On North Main Street, Saint John, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302300",
+      "photo_urls": []
+    },
+    {
+      "id": "302405",
+      "title": "Moseley Memorial Fountain",
+      "latitude": 38.00191637,
+      "longitude": -98.76102595,
+      "directions": "On North Main Street, Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302405",
+      "photo_urls": []
+    },
+    {
+      "id": "302511",
+      "title": "Lt. Zebulon Pike, 1806",
+      "latitude": 38.36102614,
+      "longitude": -98.75603508,
+      "directions": "On Frey Street, Great Bend, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302511",
+      "photo_urls": []
+    },
+    {
+      "id": "302595",
+      "title": "Santa Fe Trail",
+      "latitude": 38.36127275,
+      "longitude": -98.75619039,
+      "directions": "On 10th Street (U.S. 56) , Great Bend, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302595",
+      "photo_urls": []
+    },
+    {
+      "id": "302596",
+      "title": "Santa Fe Trail",
+      "latitude": 38.36116186,
+      "longitude": -98.75598339,
+      "directions": "On Frey Street, Great Bend, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302596",
+      "photo_urls": []
+    },
+    {
+      "id": "302597",
+      "title": "Prey and Play",
+      "latitude": 38.361183,
+      "longitude": -98.76034358,
+      "directions": "On 10th Street (U.S. 56) , Great Bend, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302597",
+      "photo_urls": []
+    },
+    {
+      "id": "302598",
+      "title": "Post Rock & Black Gold",
+      "latitude": 38.36117878,
+      "longitude": -98.76035664,
+      "directions": "On 10th Street (U.S. 56) , Great Bend, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302598",
+      "photo_urls": []
+    },
+    {
+      "id": "302599",
+      "title": "The Arkansas River's Great Bend",
+      "latitude": 38.34834977,
+      "longitude": -98.76551261,
+      "directions": "On U.S. 281, Great Bend, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302599",
+      "photo_urls": []
+    },
+    {
+      "id": "302600",
+      "title": "People of the Plains",
+      "latitude": 38.34833787,
+      "longitude": -98.76553852,
+      "directions": "On U.S. 281, Great Bend, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302600",
+      "photo_urls": []
+    },
+    {
+      "id": "302743",
+      "title": "Wild West Superhighway",
+      "latitude": 38.3648751,
+      "longitude": -98.76427297,
+      "directions": "On Kansas Avenue, Great Bend, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302743",
       "photo_urls": []
     },
     {
