@@ -3,9 +3,9 @@
   "region_name": "New Mexico",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-29T06:03:05.442Z",
-  "source_timestamp": "2026-05-29T06:03:05.442Z",
-  "marker_count": 1573,
+  "generated": "2026-06-26T06:03:53.686Z",
+  "source_timestamp": "2026-06-26T06:03:53.686Z",
+  "marker_count": 1576,
   "markers": [
     {
       "id": "100422",
@@ -10484,6 +10484,24 @@
       "photo_urls": []
     },
     {
+      "id": "300920",
+      "title": "Lincoln - Jackson School",
+      "latitude": 34.40057034,
+      "longitude": -103.22554674,
+      "directions": "On Alphon Street, Clovis, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300920",
+      "photo_urls": []
+    },
+    {
+      "id": "300921",
+      "title": "Buffalo Soldier Hill",
+      "latitude": 33.75933221,
+      "longitude": -103.06290507,
+      "directions": "On New Mexico 114, Causey, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300921",
+      "photo_urls": []
+    },
+    {
       "id": "300922",
       "title": "Artesia",
       "latitude": 32.722611,
@@ -10508,6 +10526,15 @@
       "longitude": -103.34853333,
       "directions": "On West 2nd Street (U.S. 70) , Portales, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300924",
+      "photo_urls": []
+    },
+    {
+      "id": "301295",
+      "title": "Carlsbad Irrigation Flume",
+      "latitude": 32.44492896,
+      "longitude": -104.25765447,
+      "directions": "On Westridge Drive (U.S. 285) , Carlsbad, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301295",
       "photo_urls": []
     },
     {
