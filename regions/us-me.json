@@ -3,9 +3,9 @@
   "region_name": "Maine",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-30T06:02:49.350Z",
-  "source_timestamp": "2026-05-30T06:02:49.350Z",
-  "marker_count": 1209,
+  "generated": "2026-06-27T06:02:14.992Z",
+  "source_timestamp": "2026-06-27T06:02:14.992Z",
+  "marker_count": 1210,
   "markers": [
     {
       "id": "102285",
@@ -8258,6 +8258,15 @@
       "longitude": -68.33260299,
       "directions": "On Main Street, Madawaska, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=296651",
+      "photo_urls": []
+    },
+    {
+      "id": "303905",
+      "title": "U.S Army at Fort Williams",
+      "latitude": 43.62639118,
+      "longitude": -70.21405887,
+      "directions": "Near no nearby street, Cape Elizabeth, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303905",
       "photo_urls": []
     },
     {
