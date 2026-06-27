@@ -3,9 +3,9 @@
   "region_name": "New Hampshire",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-30T06:02:49.362Z",
-  "source_timestamp": "2026-05-30T06:02:49.362Z",
-  "marker_count": 948,
+  "generated": "2026-06-27T06:02:15.009Z",
+  "source_timestamp": "2026-06-27T06:02:15.009Z",
+  "marker_count": 950,
   "markers": [
     {
       "id": "100671",
@@ -6269,6 +6269,24 @@
       "longitude": -72.42418889,
       "directions": "On Main Street (State Route 12) , Charlestown, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298330",
+      "photo_urls": []
+    },
+    {
+      "id": "301702",
+      "title": "Birthplace of Horace Greeley",
+      "latitude": 42.89664991,
+      "longitude": -71.60440327,
+      "directions": "On State Route 101, Amherst, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301702",
+      "photo_urls": []
+    },
+    {
+      "id": "301703",
+      "title": "The Old Court House",
+      "latitude": 42.86454758,
+      "longitude": -71.62916543,
+      "directions": "On Foundry Street, Amherst, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301703",
       "photo_urls": []
     },
     {
