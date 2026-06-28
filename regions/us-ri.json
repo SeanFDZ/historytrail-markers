@@ -3,9 +3,9 @@
   "region_name": "Rhode Island",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-31T06:05:20.860Z",
-  "source_timestamp": "2026-05-31T06:05:20.860Z",
-  "marker_count": 846,
+  "generated": "2026-06-28T06:02:36.735Z",
+  "source_timestamp": "2026-06-28T06:02:36.735Z",
+  "marker_count": 866,
   "markers": [
     {
       "id": "106872",
@@ -5804,12 +5804,192 @@
       "photo_urls": []
     },
     {
+      "id": "301005",
+      "title": "Little Neck Cemetery",
+      "latitude": 41.76598296,
+      "longitude": -71.35403656,
+      "directions": "On Penrod Avenue, East Providence, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301005",
+      "photo_urls": []
+    },
+    {
+      "id": "301158",
+      "title": "Thomas Willett 1610-1674",
+      "latitude": 41.76568706,
+      "longitude": -71.35434108,
+      "directions": "On Penrod Avenue, East Providence, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301158",
+      "photo_urls": []
+    },
+    {
+      "id": "301162",
+      "title": "Elizabeth Tilley Howland",
+      "latitude": 41.76570236,
+      "longitude": -71.35439204,
+      "directions": "On Penrod Avenue, East Providence, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301162",
+      "photo_urls": []
+    },
+    {
+      "id": "301430",
+      "title": "Early Warren and the start of King Philip's War",
+      "latitude": 41.73038072,
+      "longitude": -71.25934787,
+      "directions": "On Child Street (State Route 103) , Warren, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301430",
+      "photo_urls": []
+    },
+    {
+      "id": "301431",
+      "title": "Mount Hope",
+      "latitude": 41.66944971,
+      "longitude": -71.25695944,
+      "directions": "Near Metacom Avenue (State Route 136) , Bristol, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301431",
+      "photo_urls": []
+    },
+    {
+      "id": "301435",
+      "title": "Warren, RI",
+      "latitude": 41.72906944,
+      "longitude": -71.28211111,
+      "directions": "On Main Street (State Route 114) , Warren, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301435",
+      "photo_urls": []
+    },
+    {
+      "id": "301597",
+      "title": "Here Were Bvried",
+      "latitude": 41.58331158,
+      "longitude": -71.45704952,
+      "directions": "Near Richard Smith Drive, North Kingston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301597",
+      "photo_urls": []
+    },
+    {
+      "id": "301598",
+      "title": "Captain John Gallup",
+      "latitude": 41.58325372,
+      "longitude": -71.45710315,
+      "directions": "Near Richard Smith Drive, North Kingston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301598",
+      "photo_urls": []
+    },
+    {
+      "id": "302521",
+      "title": "Roger Williams Spring",
+      "latitude": 41.83871813,
+      "longitude": -71.36293956,
+      "directions": "On Roger Williams Avenue, East Providence, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302521",
+      "photo_urls": []
+    },
+    {
+      "id": "302523",
+      "title": "Roger Williams National Memorial",
+      "latitude": 41.82908,
+      "longitude": -71.41007833,
+      "directions": "Near North Main Street (U.S. 1) , Providence, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302523",
+      "photo_urls": []
+    },
+    {
+      "id": "302524",
+      "title": "The Landing Place of Roger Williams",
+      "latitude": 41.82342222,
+      "longitude": -71.39046389,
+      "directions": "On Gano Street, Providence, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302524",
+      "photo_urls": []
+    },
+    {
+      "id": "302525",
+      "title": "Roger Williams Landing 1636",
+      "latitude": 41.817867,
+      "longitude": -71.388085,
+      "directions": "Near India Street, Providence, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302525",
+      "photo_urls": []
+    },
+    {
+      "id": "302789",
+      "title": "Gilbert Stuart Birthplace",
+      "latitude": 41.51998691,
+      "longitude": -71.44452323,
+      "directions": "On Gilbert Stuart Road, North Kingstown, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302789",
+      "photo_urls": []
+    },
+    {
       "id": "30314",
       "title": "Former site of the Bethel A.M.E. Church",
       "latitude": 41.82904972,
       "longitude": -71.40205622,
       "directions": "Near Meeting Street, Providence, (On the left",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=30314",
+      "photo_urls": []
+    },
+    {
+      "id": "303663",
+      "title": "Pierce Park and Riverwalk",
+      "latitude": 41.894733,
+      "longitude": -71.382774,
+      "directions": "On High Street, Central Falls, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303663",
+      "photo_urls": []
+    },
+    {
+      "id": "303759",
+      "title": "Baptist Church in Warren, R.I.",
+      "latitude": 41.73091389,
+      "longitude": -71.2828,
+      "directions": "On Main Street (State Route 114) , Warren, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303759",
+      "photo_urls": []
+    },
+    {
+      "id": "303823",
+      "title": "In the Miery Swamp",
+      "latitude": 41.672115,
+      "longitude": -71.244508,
+      "directions": "Near Tower Street, Bristol, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303823",
+      "photo_urls": []
+    },
+    {
+      "id": "303838",
+      "title": "In Memory of Hugh Cole",
+      "latitude": 41.72624623,
+      "longitude": -71.26175396,
+      "directions": "Near Asylum Road, Warren, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303838",
+      "photo_urls": []
+    },
+    {
+      "id": "303902",
+      "title": "New Meadow Neck",
+      "latitude": 41.73766389,
+      "longitude": -71.29446389,
+      "directions": "On East Bay Bike Path, Barrington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303902",
+      "photo_urls": []
+    },
+    {
+      "id": "303903",
+      "title": "Barrington Center",
+      "latitude": 41.73753086,
+      "longitude": -71.3036251,
+      "directions": "On East Bay Bike Path, Barrington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303903",
+      "photo_urls": []
+    },
+    {
+      "id": "303904",
+      "title": "The Warren Bridge",
+      "latitude": 41.73750483,
+      "longitude": -71.28788528,
+      "directions": "On North Main Street (State Route 114) , Warren, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303904",
       "photo_urls": []
     },
     {
