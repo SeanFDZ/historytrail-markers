@@ -3,9 +3,9 @@
   "region_name": "Idaho",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-05-31T06:05:20.819Z",
-  "source_timestamp": "2026-05-31T06:05:20.819Z",
-  "marker_count": 1208,
+  "generated": "2026-06-28T06:02:36.690Z",
+  "source_timestamp": "2026-06-28T06:02:36.690Z",
+  "marker_count": 1209,
   "markers": [
     {
       "id": "103591",
@@ -9320,6 +9320,15 @@
       "longitude": -111.907518,
       "directions": "Near U.S. 91, near Preston, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=290991",
+      "photo_urls": []
+    },
+    {
+      "id": "303268",
+      "title": "The Early Years in Nez Perce County",
+      "latitude": 46.41841522,
+      "longitude": -117.0163191,
+      "directions": "On Main Street, Lewiston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303268",
       "photo_urls": []
     },
     {
