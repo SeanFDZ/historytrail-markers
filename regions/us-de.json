@@ -3,9 +3,9 @@
   "region_name": "Delaware",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-01T06:02:22.461Z",
-  "source_timestamp": "2026-06-01T06:02:22.461Z",
-  "marker_count": 1887,
+  "generated": "2026-06-29T06:04:41.497Z",
+  "source_timestamp": "2026-06-29T06:04:41.497Z",
+  "marker_count": 1898,
   "markers": [
     {
       "id": "100344",
@@ -118,9 +118,9 @@
     {
       "id": "10307",
       "title": "Odessa",
-      "latitude": 39.46041667,
-      "longitude": -75.65848333,
-      "directions": "On North 6th Street (U.S. 13) , Odessa, (In the median)",
+      "latitude": 39.45404186,
+      "longitude": -75.65633193,
+      "directions": "On Main Street, Odessa, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=10307",
       "photo_urls": []
     },
@@ -13602,7 +13602,7 @@
       "title": "A Place of the Siconese",
       "latitude": 38.7640622,
       "longitude": -75.17037645,
-      "directions": "On Joel Lane, Lewes, (On the right when traveling west)",
+      "directions": "On New Road, Lewes, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=301077",
       "photo_urls": []
     },
@@ -13611,8 +13611,17 @@
       "title": "Tower Hill",
       "latitude": 38.76401944,
       "longitude": -75.17046389,
-      "directions": "On Joel Lane, Lewes, (On the right when traveling west)",
+      "directions": "On New Road, Lewes, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=301078",
+      "photo_urls": []
+    },
+    {
+      "id": "302382",
+      "title": "First Meeting House Marker",
+      "latitude": 39.75247147,
+      "longitude": -75.66001159,
+      "directions": "Near McKennans Church Road, Wilmington, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302382",
       "photo_urls": []
     },
     {
@@ -13622,6 +13631,96 @@
       "longitude": -75.05495201,
       "directions": "On 146th Street, Fenwick Island, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3027",
+      "photo_urls": []
+    },
+    {
+      "id": "302725",
+      "title": "Nugget Hollow & G.P. Mining Co.",
+      "latitude": 38.51875556,
+      "longitude": -75.13520833,
+      "directions": "On Peppers Corner Road, Frankford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302725",
+      "photo_urls": []
+    },
+    {
+      "id": "302731",
+      "title": "Learning Garden",
+      "latitude": 38.56368333,
+      "longitude": -75.22056667,
+      "directions": "Near Piney Neck Road, near Dagsboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302731",
+      "photo_urls": []
+    },
+    {
+      "id": "302732",
+      "title": "The Inland Dunes",
+      "latitude": 38.56350833,
+      "longitude": -75.22064167,
+      "directions": "Near Piney Neck Road, near Dagsboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302732",
+      "photo_urls": []
+    },
+    {
+      "id": "302733",
+      "title": "A Partnership to Mitigate Inland Bays Wetland Loss",
+      "latitude": 38.56138333,
+      "longitude": -75.22070278,
+      "directions": "Near Piney Neck Road, near Dagsboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302733",
+      "photo_urls": []
+    },
+    {
+      "id": "302735",
+      "title": "Restoring Tidal Wetlands with Living Shorelines—an Edge at a Time",
+      "latitude": 38.56118056,
+      "longitude": -75.22091667,
+      "directions": "Near Piney Neck Road, Dagsboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302735",
+      "photo_urls": []
+    },
+    {
+      "id": "302736",
+      "title": "The Rhyne Garden",
+      "latitude": 38.56317222,
+      "longitude": -75.22297778,
+      "directions": "Near Piney Neck Road, near Dagsboro, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302736",
+      "photo_urls": []
+    },
+    {
+      "id": "302738",
+      "title": "Millsboro's Oldest Commercial Structure: The Benjamin Burton Store, a part of the town's history",
+      "latitude": 38.59186643,
+      "longitude": -75.29152709,
+      "directions": "On State Street (County Route 326) , Millsboro, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302738",
+      "photo_urls": []
+    },
+    {
+      "id": "302788",
+      "title": "The Making and Meaning of the Seaford Volunteer Fire Department Tribute",
+      "latitude": 38.64507898,
+      "longitude": -75.62975156,
+      "directions": "On West Stein Highway (State Route 20) , Seaford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302788",
+      "photo_urls": []
+    },
+    {
+      "id": "302791",
+      "title": "The Kiwanis Park Veterans Memorial Monument",
+      "latitude": 38.64543056,
+      "longitude": -75.62821111,
+      "directions": "On Farms Street, Seaford, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302791",
+      "photo_urls": []
+    },
+    {
+      "id": "302960",
+      "title": "A-10C",
+      "latitude": 39.1171,
+      "longitude": -75.45643611,
+      "directions": "Near Reno Street, Dover, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302960",
       "photo_urls": []
     },
     {
@@ -15778,17 +15877,17 @@
     {
       "id": "4993",
       "title": "Stein Highway",
-      "latitude": 38.64535,
-      "longitude": -75.630215,
-      "directions": "On Stein Highway (State Route 20) , Seaford, (On the right when traveling east)",
+      "latitude": 38.64519921,
+      "longitude": -75.63003872,
+      "directions": "On West Stein Highway (State Route 20) , Seaford, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=4993",
       "photo_urls": []
     },
     {
       "id": "4994",
       "title": "Seaford Veterans Memorial",
-      "latitude": 38.64577,
-      "longitude": -75.62777,
+      "latitude": 38.64548318,
+      "longitude": -75.62814801,
       "directions": "On Stein Highway (State Route 20) , Seaford, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=4994",
       "photo_urls": []
