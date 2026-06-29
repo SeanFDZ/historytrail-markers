@@ -3,9 +3,9 @@
   "region_name": "North Dakota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-01T06:02:22.485Z",
-  "source_timestamp": "2026-06-01T06:02:22.485Z",
-  "marker_count": 773,
+  "generated": "2026-06-29T06:04:41.521Z",
+  "source_timestamp": "2026-06-29T06:04:41.521Z",
+  "marker_count": 776,
   "markers": [
     {
       "id": "100836",
@@ -6287,6 +6287,33 @@
       "longitude": -103.19802613,
       "directions": "On 2nd Avenue Northeast, Belfield, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299600",
+      "photo_urls": []
+    },
+    {
+      "id": "303298",
+      "title": "A Taste of North Dakota / A Thoroughly Modern Farm",
+      "latitude": 47.03700568,
+      "longitude": -98.00271838,
+      "directions": "On 118th Avenue Southeast (County Route 21) , Valley City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303298",
+      "photo_urls": []
+    },
+    {
+      "id": "304087",
+      "title": "High Water Mark",
+      "latitude": 48.23469847,
+      "longitude": -101.27773037,
+      "directions": "Near East Burdick Expressway (U.S. Business 2) , Minot, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304087",
+      "photo_urls": []
+    },
+    {
+      "id": "304098",
+      "title": "The First Fire & Curfew Bell",
+      "latitude": 47.82160159,
+      "longitude": -101.29349164,
+      "directions": "On 2nd Avenue, Max, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304098",
       "photo_urls": []
     },
     {
