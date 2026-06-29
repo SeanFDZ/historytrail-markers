@@ -3,9 +3,9 @@
   "region_name": "South Dakota",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-01T06:02:22.492Z",
-  "source_timestamp": "2026-06-01T06:02:22.492Z",
-  "marker_count": 1826,
+  "generated": "2026-06-29T06:04:41.528Z",
+  "source_timestamp": "2026-06-29T06:04:41.528Z",
+  "marker_count": 1857,
   "markers": [
     {
       "id": "100821",
@@ -15677,6 +15677,15 @@
       "photo_urls": []
     },
     {
+      "id": "300571",
+      "title": "Rune Stones",
+      "latitude": 44.04833936,
+      "longitude": -103.29887509,
+      "directions": "Near Chapel Lane, Rapid City, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300571",
+      "photo_urls": []
+    },
+    {
       "id": "300576",
       "title": "Edward Nielsen",
       "latitude": 44.04833574,
@@ -15692,6 +15701,276 @@
       "longitude": -102.24226107,
       "directions": "On Main St., Wall, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300605",
+      "photo_urls": []
+    },
+    {
+      "id": "300606",
+      "title": "Mitakuye Oyasin",
+      "latitude": 44.08116467,
+      "longitude": -103.22683967,
+      "directions": "On 6th Street, Rapid City, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300606",
+      "photo_urls": []
+    },
+    {
+      "id": "300811",
+      "title": "Veterans Flag Memorial",
+      "latitude": 44.3768739,
+      "longitude": -103.72708015,
+      "directions": "On Mt. Moriah Drive, Deadwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=300811",
+      "photo_urls": []
+    },
+    {
+      "id": "301524",
+      "title": "Sharing an Experience",
+      "latitude": 44.39821192,
+      "longitude": -103.7141862,
+      "directions": "On Tatanka Drive, Deadwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301524",
+      "photo_urls": []
+    },
+    {
+      "id": "301540",
+      "title": "vision to reality",
+      "latitude": 44.39821192,
+      "longitude": -103.7141862,
+      "directions": "On Tatanka Drive, Deadwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301540",
+      "photo_urls": []
+    },
+    {
+      "id": "302146",
+      "title": "Scale Model of Crazy Horse",
+      "latitude": 43.82883194,
+      "longitude": -103.63068833,
+      "directions": "On Avenue of the Chiefs, Crazy Horse, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302146",
+      "photo_urls": []
+    },
+    {
+      "id": "303693",
+      "title": "Tex Fletcher, the \"Singing Cowboy\"",
+      "latitude": 45.58094011,
+      "longitude": -103.54640665,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303693",
+      "photo_urls": []
+    },
+    {
+      "id": "303694",
+      "title": "Sky Ranch for Boys",
+      "latitude": 45.580935,
+      "longitude": -103.54640665,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303694",
+      "photo_urls": []
+    },
+    {
+      "id": "303695",
+      "title": "Battle of the Crow Buttes",
+      "latitude": 45.58092258,
+      "longitude": -103.54638,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303695",
+      "photo_urls": []
+    },
+    {
+      "id": "303696",
+      "title": "Battle of the Slim Buttes",
+      "latitude": 45.580917,
+      "longitude": -103.54638,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303696",
+      "photo_urls": []
+    },
+    {
+      "id": "303697",
+      "title": "The Custer Black Hills Expedition of 1874",
+      "latitude": 45.58091059,
+      "longitude": -103.54635,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303697",
+      "photo_urls": []
+    },
+    {
+      "id": "303698",
+      "title": "Ludlow Cave",
+      "latitude": 45.580905,
+      "longitude": -103.54635,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303698",
+      "photo_urls": []
+    },
+    {
+      "id": "303699",
+      "title": "Medora - Deadwood Stage Line",
+      "latitude": 45.58091465,
+      "longitude": -103.5463148,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303699",
+      "photo_urls": []
+    },
+    {
+      "id": "303813",
+      "title": "The Homesteaders",
+      "latitude": 45.58092,
+      "longitude": -103.5463148,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303813",
+      "photo_urls": []
+    },
+    {
+      "id": "303871",
+      "title": "Cattle Ranching in Harding County",
+      "latitude": 45.58095,
+      "longitude": -103.54629,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303871",
+      "photo_urls": []
+    },
+    {
+      "id": "303906",
+      "title": "The Buffalo \"Paints Himself Red\"",
+      "latitude": 45.580956,
+      "longitude": -103.54629,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303906",
+      "photo_urls": []
+    },
+    {
+      "id": "303923",
+      "title": "Energy Production in Harding County",
+      "latitude": 45.58094766,
+      "longitude": -103.54625,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303923",
+      "photo_urls": []
+    },
+    {
+      "id": "303930",
+      "title": "Bridgewater Cemetery Veterans Memorial",
+      "latitude": 43.55489947,
+      "longitude": -97.50581,
+      "directions": "On East 7th Street, Bridgewater, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303930",
+      "photo_urls": []
+    },
+    {
+      "id": "303932",
+      "title": "Our Lady of Perpetual Help (St. Mary's) Catholic Church",
+      "latitude": 43.43720394,
+      "longitude": -97.25957148,
+      "directions": "On 447th Avenue (County Route 17) , near Marion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303932",
+      "photo_urls": []
+    },
+    {
+      "id": "303940",
+      "title": "Marion Veterans Memorial",
+      "latitude": 43.42109477,
+      "longitude": -97.26029936,
+      "directions": "On South Broadway Avenue, Marion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303940",
+      "photo_urls": []
+    },
+    {
+      "id": "303950",
+      "title": "Marion School",
+      "latitude": 43.42166947,
+      "longitude": -97.258994,
+      "directions": "On South Cedar Avenue, Marion, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303950",
+      "photo_urls": []
+    },
+    {
+      "id": "303969",
+      "title": "Parker Civil War Monument",
+      "latitude": 43.39446026,
+      "longitude": -97.1369848,
+      "directions": "On Main Avenue, Parker, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303969",
+      "photo_urls": []
+    },
+    {
+      "id": "303982",
+      "title": "The Original GAR Monument",
+      "latitude": 43.39438157,
+      "longitude": -97.13694036,
+      "directions": "On Main Avenue, Parker, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303982",
+      "photo_urls": []
+    },
+    {
+      "id": "303984",
+      "title": "The Establishment of Harding County",
+      "latitude": 45.58094267,
+      "longitude": -103.54625,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303984",
+      "photo_urls": []
+    },
+    {
+      "id": "303995",
+      "title": "Centennial Park",
+      "latitude": 45.5809404,
+      "longitude": -103.54621232,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303995",
+      "photo_urls": []
+    },
+    {
+      "id": "303996",
+      "title": "Tipperary",
+      "latitude": 45.58094867,
+      "longitude": -103.54617016,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303996",
+      "photo_urls": []
+    },
+    {
+      "id": "303997",
+      "title": "Three-Toes, The Wolf",
+      "latitude": 45.580943,
+      "longitude": -103.54617016,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303997",
+      "photo_urls": []
+    },
+    {
+      "id": "303998",
+      "title": "Harding County, South Dakota",
+      "latitude": 45.58109212,
+      "longitude": -103.54622658,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303998",
+      "photo_urls": []
+    },
+    {
+      "id": "303999",
+      "title": "Harding County Post Offices",
+      "latitude": 45.58110567,
+      "longitude": -103.54631773,
+      "directions": "Near Theodore Roosevelt Expressway (CanAm Highway) (U.S. 85) , Buffalo, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303999",
+      "photo_urls": []
+    },
+    {
+      "id": "304193",
+      "title": "Parker Veterans Memorial",
+      "latitude": 43.39976002,
+      "longitude": -97.12708823,
+      "directions": "On 4th Street (State Route 44) , Parker, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304193",
+      "photo_urls": []
+    },
+    {
+      "id": "304200",
+      "title": "Chancellor American Legion Memorial",
+      "latitude": 43.37303495,
+      "longitude": -96.98681742,
+      "directions": "On Main Street, Chancellor, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304200",
       "photo_urls": []
     },
     {
