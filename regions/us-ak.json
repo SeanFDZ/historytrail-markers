@@ -3,9 +3,9 @@
   "region_name": "Alaska",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-01T06:02:22.447Z",
-  "source_timestamp": "2026-06-01T06:02:22.447Z",
-  "marker_count": 752,
+  "generated": "2026-06-29T06:04:41.484Z",
+  "source_timestamp": "2026-06-29T06:04:41.484Z",
+  "marker_count": 761,
   "markers": [
     {
       "id": "112038",
@@ -6098,6 +6098,87 @@
       "longitude": -151.83304816,
       "directions": "On Old Sterling Highway, Anchor Point, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=299225",
+      "photo_urls": []
+    },
+    {
+      "id": "301447",
+      "title": "United States Post Office and Customs House",
+      "latitude": 56.47238662,
+      "longitude": -132.38724168,
+      "directions": "On Federal Way, Wrangell, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301447",
+      "photo_urls": []
+    },
+    {
+      "id": "301486",
+      "title": "19 Fram Street",
+      "latitude": 56.81252466,
+      "longitude": -132.95633635,
+      "directions": "On Fram Street, Petersburg, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301486",
+      "photo_urls": []
+    },
+    {
+      "id": "301488",
+      "title": "Petersburg Lutheran Church",
+      "latitude": 56.81316738,
+      "longitude": -132.95136631,
+      "directions": "On Excel Street, Petersburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301488",
+      "photo_urls": []
+    },
+    {
+      "id": "301493",
+      "title": "Sons of Norway, Fedrelandet",
+      "latitude": 56.81065977,
+      "longitude": -132.95932519,
+      "directions": "On Sing Lee Alley, Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301493",
+      "photo_urls": []
+    },
+    {
+      "id": "301496",
+      "title": "18 S. Sing Lee Alley",
+      "latitude": 56.81092036,
+      "longitude": -132.95892051,
+      "directions": "On Sing Lee Alley, Petersburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301496",
+      "photo_urls": []
+    },
+    {
+      "id": "301499",
+      "title": "Enge Building",
+      "latitude": 56.81121196,
+      "longitude": -132.95855073,
+      "directions": "On Sing Lee Alley, Petersburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301499",
+      "photo_urls": []
+    },
+    {
+      "id": "301502",
+      "title": "13 N. Sing Lee Alley",
+      "latitude": 56.8115894,
+      "longitude": -132.9583118,
+      "directions": "On Sing Lee Alley, Petersburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301502",
+      "photo_urls": []
+    },
+    {
+      "id": "301505",
+      "title": "15 N. Sing Lee Alley",
+      "latitude": 56.81166524,
+      "longitude": -132.95815308,
+      "directions": "On Sing Lee Alley, Petersburg, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301505",
+      "photo_urls": []
+    },
+    {
+      "id": "302811",
+      "title": "Russian-American Company Magazin",
+      "latitude": 57.7875969,
+      "longitude": -152.40328859,
+      "directions": "On East Marine Way, Kodiak, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302811",
       "photo_urls": []
     },
     {
