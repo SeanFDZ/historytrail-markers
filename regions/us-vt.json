@@ -3,9 +3,9 @@
   "region_name": "Vermont",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-02T06:02:11.106Z",
-  "source_timestamp": "2026-06-02T06:02:11.106Z",
-  "marker_count": 1070,
+  "generated": "2026-06-30T06:02:18.598Z",
+  "source_timestamp": "2026-06-30T06:02:18.598Z",
+  "marker_count": 1127,
   "markers": [
     {
       "id": "100958",
@@ -21,16 +21,16 @@
       "title": "Chester Depot",
       "latitude": 43.2678674,
       "longitude": -72.5898,
-      "directions": "On State Route 103, Chester, (On the left when traveling north)",
+      "directions": "On Depot Street (State Route 103) , Chester, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=101220",
       "photo_urls": []
     },
     {
       "id": "102422",
-      "title": "Veteran’s Memorial",
+      "title": "Veterans Memorial",
       "latitude": 43.396884,
       "longitude": -72.69586,
-      "directions": "On State Route 103, Ludlow, (On the right when traveling west)",
+      "directions": "On Gleascott Avenue, Ludlow, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=102422",
       "photo_urls": []
     },
@@ -81,10 +81,10 @@
     },
     {
       "id": "103814",
-      "title": "Scott Nearing & Helen Knothe Nearing",
+      "title": "Scott Nearing / Helen Knothe Nearing",
       "latitude": 43.114435,
       "longitude": -72.87892,
-      "directions": "On Upper Taylor Hill Road, Windhall, (On the left when traveling south)",
+      "directions": "On Upper Taylor Hill Road, Winhall, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=103814",
       "photo_urls": []
     },
@@ -714,7 +714,7 @@
       "title": "Canada Geese",
       "latitude": 44.085253,
       "longitude": -73.336777,
-      "directions": "On State Route 17W, near Addison, (On the left when traveling west)",
+      "directions": "On State Route 17W, Addison, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=109247",
       "photo_urls": []
     },
@@ -1092,7 +1092,7 @@
       "title": "Railroad Station",
       "latitude": 42.93224667,
       "longitude": -73.24236833,
-      "directions": "Near Buckley Road (State Route 67) , North Bennington, (On the right when traveling north)",
+      "directions": "Near Buckley Road (State Route 67) , Bennington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=116755",
       "photo_urls": []
     },
@@ -1488,7 +1488,7 @@
       "title": "Bennington Battle Monument",
       "latitude": 42.884589,
       "longitude": -73.213599,
-      "directions": "On Monument Ave., Old Bennington, (On the left when traveling north)",
+      "directions": "On Monument Avenue, Bennington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=13600",
       "photo_urls": []
     },
@@ -1542,7 +1542,7 @@
       "title": "West Rupert Veterans Memorial",
       "latitude": 43.238012,
       "longitude": -73.239369,
-      "directions": "On East Street, West Rupert, (On the left when traveling east)",
+      "directions": "On East Street, Rupert, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=136192",
       "photo_urls": []
     },
@@ -1821,7 +1821,7 @@
       "title": "The International Boundary is Settled / La frontière internationale est définie",
       "latitude": 44.98636667,
       "longitude": -73.29563889,
-      "directions": "Near North Main Street (U.S. 2) , near Alburg, (On the left when traveling east)",
+      "directions": "Near North Main Street (U.S. 2) , near Alburgh, (On the left when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=140028",
       "photo_urls": []
     },
@@ -2028,7 +2028,7 @@
       "title": "Continental Storehouse Site",
       "latitude": 42.88912,
       "longitude": -73.216297,
-      "directions": "On Monument Circle, Old Bennington, (On the right when traveling south)",
+      "directions": "On Monument Circle, Bennington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=14828",
       "photo_urls": []
     },
@@ -2253,7 +2253,7 @@
       "title": "Ye Olde Tavern",
       "latitude": 43.178199,
       "longitude": -73.051289,
-      "directions": "On Main Street (State Route 7A) , Manchester Center, (On the right when traveling south)",
+      "directions": "On Main Street (State Route 7A) , Manchester, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155037",
       "photo_urls": []
     },
@@ -2271,7 +2271,7 @@
       "title": "Noyes House Museum",
       "latitude": 44.56145022,
       "longitude": -72.60060061,
-      "directions": "On Lower Main Street (State Route 100) , Morrisville, (On the right when traveling south)",
+      "directions": "On Lower Main Street (State Route 100) , Morristown, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=155274",
       "photo_urls": []
     },
@@ -2586,7 +2586,7 @@
       "title": "Mount Mansfield Natural Area",
       "latitude": 44.52965974,
       "longitude": -72.81715096,
-      "directions": "Near Mount Mansfield Auto Toll Road, near Stowe, ",
+      "directions": "Near Mount Mansfield Auto Toll Road, near Underhill, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=160995",
       "photo_urls": []
     },
@@ -2838,7 +2838,7 @@
       "title": "Green Mountain Supermarket",
       "latitude": 44.418746,
       "longitude": -72.015816,
-      "directions": "On Railroad Street, St Johnsbury, (On the left when traveling north)",
+      "directions": "On Railroad Street, St. Johnsbury, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180717",
       "photo_urls": []
     },
@@ -2847,7 +2847,7 @@
       "title": "Eugene “Geno” McDonough",
       "latitude": 44.418623,
       "longitude": -72.02119,
-      "directions": "On Main Street, St Johnsbury, (On the right when traveling south)",
+      "directions": "On Main Street, St. Johnsbury, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180782",
       "photo_urls": []
     },
@@ -2856,7 +2856,7 @@
       "title": "St Johnsbury Civil War Memorial",
       "latitude": 44.418391,
       "longitude": -72.020325,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180784",
       "photo_urls": []
     },
@@ -2865,7 +2865,7 @@
       "title": "Parrot Gun No. 126",
       "latitude": 44.418363,
       "longitude": -72.020448,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180785",
       "photo_urls": []
     },
@@ -2874,7 +2874,7 @@
       "title": "Parrot Gun No. 107",
       "latitude": 44.418394,
       "longitude": -72.020197,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180787",
       "photo_urls": []
     },
@@ -2883,7 +2883,7 @@
       "title": "St Johnsbury World War I Memorial",
       "latitude": 44.418235,
       "longitude": -72.020598,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180789",
       "photo_urls": []
     },
@@ -2892,7 +2892,7 @@
       "title": "St Johnsbury World War II Memorial",
       "latitude": 44.417962,
       "longitude": -72.020433,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180791",
       "photo_urls": []
     },
@@ -2901,7 +2901,7 @@
       "title": "Newell Hall",
       "latitude": 44.417594,
       "longitude": -72.020141,
-      "directions": "On Main Street (U.S. 2) , St Johnsbury, (On the right when traveling north)",
+      "directions": "On Main Street (U.S. 2) , St. Johnsbury, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=180793",
       "photo_urls": []
     },
@@ -3027,7 +3027,7 @@
       "title": "Seth Warner House",
       "latitude": 42.91042143,
       "longitude": -73.25365798,
-      "directions": "On Murphy Road, North Bennington, (On the right when traveling south)",
+      "directions": "On Murphy Road, Bennington, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=193183",
       "photo_urls": []
     },
@@ -3045,7 +3045,7 @@
       "title": "Hub of History",
       "latitude": 42.91251062,
       "longitude": -73.25433883,
-      "directions": "On River Road, North Bennington, (On the left when traveling west)",
+      "directions": "On River Road, Bennington, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=193190",
       "photo_urls": []
     },
@@ -3054,7 +3054,7 @@
       "title": "McWaters Park",
       "latitude": 42.91261227,
       "longitude": -73.25391167,
-      "directions": "On River Road, North Bennington, (On the left when traveling west)",
+      "directions": "On River Road, Bennington, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=193197",
       "photo_urls": []
     },
@@ -3063,7 +3063,7 @@
       "title": "The Paper Mill Village Bridge",
       "latitude": 42.91252919,
       "longitude": -73.23369783,
-      "directions": "On Murphy Road, North Bennington, (On the right when traveling north)",
+      "directions": "On Murphy Road, Bennington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=193203",
       "photo_urls": []
     },
@@ -3072,7 +3072,7 @@
       "title": "Paper Mill History / Covered Bridges Span Rivers And Time",
       "latitude": 42.91251002,
       "longitude": -73.23419621,
-      "directions": "On Murphy Road, North Bennington, (On the left when traveling north)",
+      "directions": "On Murphy Road, Bennington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=193206",
       "photo_urls": []
     },
@@ -3189,7 +3189,7 @@
       "title": "Grand Isle 9/11 Memorial",
       "latitude": 44.62886343,
       "longitude": -73.24851244,
-      "directions": "On Roosevelt Highway (U.S. 2) , South Hero, (On the left when traveling west)",
+      "directions": "On Roosevelt Highway (U.S. 2) , Milton, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=195441",
       "photo_urls": []
     },
@@ -3432,7 +3432,7 @@
       "title": "The Fisk Trophy Race of 1937",
       "latitude": 43.6613,
       "longitude": -72.5485,
-      "directions": "Near Gully Road, South Pomfret, ",
+      "directions": "Near Gully Road, Pomfret, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=201074",
       "photo_urls": []
     },
@@ -4206,7 +4206,7 @@
       "title": "War Memorial",
       "latitude": 43.54128981,
       "longitude": -72.39946895,
-      "directions": "On State Route 12, Hartland, (On the right when traveling west)",
+      "directions": "On Quechee Road (State Route 12) , Hartland, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=230038",
       "photo_urls": []
     },
@@ -4492,8 +4492,8 @@
     {
       "id": "23165",
       "title": "Weston Korean War – Vietnam War Monument",
-      "latitude": 43.29133333,
-      "longitude": -72.79385,
+      "latitude": 43.29136993,
+      "longitude": -72.79387606,
       "directions": "On Lawrence Hill Road, Weston, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23165",
       "photo_urls": []
@@ -4501,9 +4501,9 @@
     {
       "id": "23166",
       "title": "Weston Village Historic District",
-      "latitude": 43.2921,
-      "longitude": -72.79356667,
-      "directions": "On Park Street, Weston, (On the right when traveling south)",
+      "latitude": 43.29241763,
+      "longitude": -72.79257808,
+      "directions": "On Main Street (State Route 100) , Weston, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23166",
       "photo_urls": []
     },
@@ -4512,7 +4512,7 @@
       "title": "Bridgewater World War I Monument",
       "latitude": 43.587836,
       "longitude": -72.624591,
-      "directions": "On U.S. 4, Bridgewater, (On the right when traveling east)",
+      "directions": "On North Bridgewater Road (U.S. 4) , Bridgewater, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23167",
       "photo_urls": []
     },
@@ -4530,7 +4530,7 @@
       "title": "Bridgewater Veterans Memorial",
       "latitude": 43.587737,
       "longitude": -72.623513,
-      "directions": "On U.S. 4, Bridgewater, (On the right when traveling east)",
+      "directions": "On Southgate Loop (U.S. 4) , Bridgewater, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23179",
       "photo_urls": []
     },
@@ -4539,7 +4539,7 @@
       "title": "Chester Civil War Memorial",
       "latitude": 43.26446667,
       "longitude": -72.5985,
-      "directions": "On State Route 11, Chester, (On the right when traveling west)",
+      "directions": "On Main Street (State Route 11) , Chester, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=23189",
       "photo_urls": []
     },
@@ -4899,7 +4899,7 @@
       "title": "Col. Seth Warner and Capt. Remember Baker",
       "latitude": 44.90187348,
       "longitude": -73.34457534,
-      "directions": "On Shrine Road, Isle la Motte, (On the right when traveling east)",
+      "directions": "On Shrine Road, Isle La Motte, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=255682",
       "photo_urls": []
     },
@@ -5007,7 +5007,7 @@
       "title": "Civil War Soldiers Memorial",
       "latitude": 43.31056381,
       "longitude": -72.49783663,
-      "directions": "On River St (Route 106) , Springfield, (On the right when traveling north)",
+      "directions": "On River Street (Route 106) , Springfield, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=260810",
       "photo_urls": []
     },
@@ -5097,7 +5097,7 @@
       "title": "Joseph Smith Birthplace Memorial",
       "latitude": 43.82380878,
       "longitude": -72.4724577,
-      "directions": "On LDS Lane, Royalton, ",
+      "directions": "On LDS Lane, Sharon, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=261262",
       "photo_urls": []
     },
@@ -5943,7 +5943,7 @@
       "title": "Orris C. Manning Memorial",
       "latitude": 43.97516824,
       "longitude": -73.03668207,
-      "directions": "On State Route 125, Ripton, (On the right when traveling west)",
+      "directions": "On State Route 125, Bristol, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=274135",
       "photo_urls": []
     },
@@ -6159,7 +6159,7 @@
       "title": "Colonel Henry C. Cobb Jr.",
       "latitude": 43.37181582,
       "longitude": -72.5162424,
-      "directions": "On State Route 106, Perkinsville, (On the right when traveling south)",
+      "directions": "On State Route 106, Weathersfield, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280397",
       "photo_urls": []
     },
@@ -6168,7 +6168,7 @@
       "title": "The Crown Point Road",
       "latitude": 43.37183018,
       "longitude": -72.51629127,
-      "directions": "On State Route 106, Perkinsville, (On the right when traveling south)",
+      "directions": "On State Route 106, Weathersfield, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280398",
       "photo_urls": []
     },
@@ -6177,7 +6177,7 @@
       "title": "Weathersfield Roll of Honor",
       "latitude": 43.37182431,
       "longitude": -72.51626945,
-      "directions": "On State Route 106, Perkinsville, (On the right when traveling south)",
+      "directions": "On High Street (State Route 106) , Weathersfield, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280403",
       "photo_urls": []
     },
@@ -6186,7 +6186,7 @@
       "title": "Veterans Eternal Burning Flame Memorial",
       "latitude": 43.37177468,
       "longitude": -72.51629521,
-      "directions": "On State Route 106, Perkinsville, (On the right when traveling south)",
+      "directions": "On State Route 106, Weathersfield, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=280407",
       "photo_urls": []
     },
@@ -6654,7 +6654,7 @@
       "title": "Vermont's Colonial Shrine",
       "latitude": 42.8835,
       "longitude": -73.212869,
-      "directions": "Near Monument Ave., Bennington, (On the left when traveling south)",
+      "directions": "Near Monument Avenue, Bennington, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=28223",
       "photo_urls": []
     },
@@ -6717,7 +6717,7 @@
       "title": "Remember Baker",
       "latitude": 43.060151,
       "longitude": -73.140777,
-      "directions": "On Old Mill Road, East Arlington, (On the right when traveling east)",
+      "directions": "On Old Mill Road, Arlington, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=285974",
       "photo_urls": []
     },
@@ -6816,7 +6816,7 @@
       "title": "Town of Cavendish WW1 Honor Roll",
       "latitude": 43.38259444,
       "longitude": -72.63881111,
-      "directions": "On Main Street (State Route 131) , Proctorsville, (On the right",
+      "directions": "On Main Street (State Route 131) , Cavendish, (On the right",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=293680",
       "photo_urls": []
     },
@@ -7127,6 +7127,519 @@
       "photo_urls": []
     },
     {
+      "id": "302022",
+      "title": "Site of the American House",
+      "latitude": 44.47576,
+      "longitude": -73.21376,
+      "directions": "On Main Street (U.S. 2) , Burlington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302022",
+      "photo_urls": []
+    },
+    {
+      "id": "303765",
+      "title": "Cambridge-Jeffersonville Veterans Monument",
+      "latitude": 44.643731,
+      "longitude": -72.829602,
+      "directions": "On Church Street (State Route 108) , Cambridge, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303765",
+      "photo_urls": []
+    },
+    {
+      "id": "303896",
+      "title": "Norton-Fenton House",
+      "latitude": 42.87926111,
+      "longitude": -73.19413056,
+      "directions": "On Pleasant Street, Bennington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303896",
+      "photo_urls": []
+    },
+    {
+      "id": "303897",
+      "title": "Luther Park House",
+      "latitude": 42.87921389,
+      "longitude": -73.19216111,
+      "directions": "On Pleasant Street, Bennington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303897",
+      "photo_urls": []
+    },
+    {
+      "id": "303933",
+      "title": "Gibney Block",
+      "latitude": 42.87815984,
+      "longitude": -73.1937558,
+      "directions": "On Main Street (Route 9) , Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303933",
+      "photo_urls": []
+    },
+    {
+      "id": "303935",
+      "title": "Bennington",
+      "latitude": 42.87817778,
+      "longitude": -73.196975,
+      "directions": "On Main Street (State Route 9) , Bennington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303935",
+      "photo_urls": []
+    },
+    {
+      "id": "303942",
+      "title": "General John Stark's \"Live Free or Die\" Letter",
+      "latitude": 42.878125,
+      "longitude": -73.196975,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303942",
+      "photo_urls": []
+    },
+    {
+      "id": "303944",
+      "title": "Marshall's Garage",
+      "latitude": 42.87699167,
+      "longitude": -73.19711389,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303944",
+      "photo_urls": []
+    },
+    {
+      "id": "303945",
+      "title": "The Graded School Fountain",
+      "latitude": 42.87688889,
+      "longitude": -73.19747222,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303945",
+      "photo_urls": []
+    },
+    {
+      "id": "303947",
+      "title": "9/11 Memorial",
+      "latitude": 42.87698611,
+      "longitude": -73.19740278,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303947",
+      "photo_urls": []
+    },
+    {
+      "id": "303951",
+      "title": "9/11 Memorial",
+      "latitude": 42.87696389,
+      "longitude": -73.19731111,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303951",
+      "photo_urls": []
+    },
+    {
+      "id": "303952",
+      "title": "Veterans Memorial",
+      "latitude": 42.87721389,
+      "longitude": -73.19731944,
+      "directions": "On South Street (U.S. 7) , Bennington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303952",
+      "photo_urls": []
+    },
+    {
+      "id": "303954",
+      "title": "History",
+      "latitude": 42.87808889,
+      "longitude": -73.19793056,
+      "directions": "On Franklin Lane, Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303954",
+      "photo_urls": []
+    },
+    {
+      "id": "303957",
+      "title": "Recreation",
+      "latitude": 42.87805833,
+      "longitude": -73.19789167,
+      "directions": "On Franklin Street, Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303957",
+      "photo_urls": []
+    },
+    {
+      "id": "303959",
+      "title": "Arts & Culture",
+      "latitude": 42.87808889,
+      "longitude": -73.19793056,
+      "directions": "Near Franklin Lane, Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303959",
+      "photo_urls": []
+    },
+    {
+      "id": "303962",
+      "title": "The National Bank Building",
+      "latitude": 42.87868889,
+      "longitude": -73.19755556,
+      "directions": "On Main Street (State Route 9) , Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303962",
+      "photo_urls": []
+    },
+    {
+      "id": "303963",
+      "title": "Textile Mill Office",
+      "latitude": 42.87902646,
+      "longitude": -73.1972518,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303963",
+      "photo_urls": []
+    },
+    {
+      "id": "303965",
+      "title": "Veterans Memorial",
+      "latitude": 42.87938333,
+      "longitude": -73.19695278,
+      "directions": "On North Street (Route 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303965",
+      "photo_urls": []
+    },
+    {
+      "id": "303966",
+      "title": "Veterans Memorial",
+      "latitude": 42.87958611,
+      "longitude": -73.19696111,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303966",
+      "photo_urls": []
+    },
+    {
+      "id": "303967",
+      "title": "Revolutionary War Patriots",
+      "latitude": 42.88919444,
+      "longitude": -73.21615556,
+      "directions": "On Monument Circle, Bennington, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303967",
+      "photo_urls": []
+    },
+    {
+      "id": "303968",
+      "title": "Seth Warner",
+      "latitude": 42.88858889,
+      "longitude": -73.21542222,
+      "directions": "On Monument Circle, Bennington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303968",
+      "photo_urls": []
+    },
+    {
+      "id": "303971",
+      "title": "Veterans Memorial",
+      "latitude": 42.90093889,
+      "longitude": -73.21175278,
+      "directions": "On Northside Drive (State Route 7A) , Bennington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303971",
+      "photo_urls": []
+    },
+    {
+      "id": "303975",
+      "title": "The Old Mill",
+      "latitude": 42.94997277,
+      "longitude": -73.21146522,
+      "directions": "On State Route 7A, Shaftsbury, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303975",
+      "photo_urls": []
+    },
+    {
+      "id": "303977",
+      "title": "Welcome to Arlington",
+      "latitude": 43.04541389,
+      "longitude": -73.16631389,
+      "directions": "On State Route 7A, Arlington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303977",
+      "photo_urls": []
+    },
+    {
+      "id": "303981",
+      "title": "Grist Mill",
+      "latitude": 43.05992222,
+      "longitude": -73.13993056,
+      "directions": "On Old Mill Road, Arlington, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303981",
+      "photo_urls": []
+    },
+    {
+      "id": "304021",
+      "title": "The Battenkill: The Early Years",
+      "latitude": 43.17641111,
+      "longitude": -73.056,
+      "directions": "On Depot Street (State Route 11/30) , Manchester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304021",
+      "photo_urls": []
+    },
+    {
+      "id": "304049",
+      "title": "Manchester: Our Place in American History",
+      "latitude": 43.17627222,
+      "longitude": -73.05659444,
+      "directions": "On Depot Street (State Route 11/30) , Manchester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304049",
+      "photo_urls": []
+    },
+    {
+      "id": "304059",
+      "title": "Veterans Memorial",
+      "latitude": 43.17624722,
+      "longitude": -73.05667778,
+      "directions": "On Depot Street (State Route 11/30) , Manchester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304059",
+      "photo_urls": []
+    },
+    {
+      "id": "304060",
+      "title": "September 11, 2001 Memorial",
+      "latitude": 43.17611667,
+      "longitude": -73.056525,
+      "directions": "On Depot Street (State Route 11/30) , Manchester, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304060",
+      "photo_urls": []
+    },
+    {
+      "id": "304066",
+      "title": "Manchester",
+      "latitude": 43.17743611,
+      "longitude": -73.05546667,
+      "directions": "On Main Street (State Route 7A) , Manchester, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304066",
+      "photo_urls": []
+    },
+    {
+      "id": "304068",
+      "title": "Seth Warner Memorial Highway",
+      "latitude": 43.17719833,
+      "longitude": -73.05688021,
+      "directions": "On Bonnet Street (State Route 30) , Manchester, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304068",
+      "photo_urls": []
+    },
+    {
+      "id": "304069",
+      "title": "Wait Block",
+      "latitude": 43.17691475,
+      "longitude": -73.05646962,
+      "directions": "On Main Street (State Route 7A) , Manchester, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304069",
+      "photo_urls": []
+    },
+    {
+      "id": "304072",
+      "title": "Dr. Charles Caverly",
+      "latitude": 43.60817778,
+      "longitude": -72.97806667,
+      "directions": "On West Street (U.S. Business 4) , Rutland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304072",
+      "photo_urls": []
+    },
+    {
+      "id": "304073",
+      "title": "Tom Fagan",
+      "latitude": 43.60798611,
+      "longitude": -72.97969722,
+      "directions": "On West Street (U.S. Business 4) , Rutland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304073",
+      "photo_urls": []
+    },
+    {
+      "id": "304074",
+      "title": "Rutland Jewish Center",
+      "latitude": 43.61252656,
+      "longitude": -72.98102618,
+      "directions": "On Grove Street, Rutland, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304074",
+      "photo_urls": []
+    },
+    {
+      "id": "304077",
+      "title": "Redfield Proctor",
+      "latitude": 43.60811565,
+      "longitude": -72.98076266,
+      "directions": "On Merchants Row, Rutland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304077",
+      "photo_urls": []
+    },
+    {
+      "id": "304080",
+      "title": "Long Trail Lodge",
+      "latitude": 43.66365556,
+      "longitude": -72.83269444,
+      "directions": "On U.S. 4, Killington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304080",
+      "photo_urls": []
+    },
+    {
+      "id": "304081",
+      "title": "World War II Veterans Honor Roll",
+      "latitude": 43.53515278,
+      "longitude": -72.74283611,
+      "directions": "On Town Office Road, Plymouth, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304081",
+      "photo_urls": []
+    },
+    {
+      "id": "304091",
+      "title": "Okemo Valley Information",
+      "latitude": 43.40091389,
+      "longitude": -72.70675,
+      "directions": "On Pond Street (State Route 100/103) , Ludlow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304091",
+      "photo_urls": []
+    },
+    {
+      "id": "304094",
+      "title": "Events & Things To Do",
+      "latitude": 43.4011,
+      "longitude": -72.70670278,
+      "directions": "Near Pond Street (State Route 100/103) , Ludlow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304094",
+      "photo_urls": []
+    },
+    {
+      "id": "304125",
+      "title": "Veterans Memmorial",
+      "latitude": 43.396825,
+      "longitude": -72.69588333,
+      "directions": "On Gleascott Avenue, Ludlow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304125",
+      "photo_urls": []
+    },
+    {
+      "id": "304126",
+      "title": "Veterans Memorial",
+      "latitude": 43.39682778,
+      "longitude": -72.69586944,
+      "directions": "On Gleascott Avenue, Ludlow, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304126",
+      "photo_urls": []
+    },
+    {
+      "id": "304128",
+      "title": "G.A.R. Memorial",
+      "latitude": 43.39690974,
+      "longitude": -72.69502789,
+      "directions": "On Main Street (State Route 103) , Ludlow, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304128",
+      "photo_urls": []
+    },
+    {
+      "id": "304134",
+      "title": "Killington Communities",
+      "latitude": 43.66784777,
+      "longitude": -72.80427784,
+      "directions": "On U.S. 4, Killington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304134",
+      "photo_urls": []
+    },
+    {
+      "id": "304135",
+      "title": "Welcome to Weston's unique Village Green",
+      "latitude": 43.29173611,
+      "longitude": -72.79318333,
+      "directions": "On Main Street (State Route 100) , Weston, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304135",
+      "photo_urls": []
+    },
+    {
+      "id": "304136",
+      "title": "Cold Spring Brook Memorial Park",
+      "latitude": 43.29174722,
+      "longitude": -72.7956,
+      "directions": "On Lawrence Hill Road, Weston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304136",
+      "photo_urls": []
+    },
+    {
+      "id": "304139",
+      "title": "John Wilder House",
+      "latitude": 43.29183379,
+      "longitude": -72.79508057,
+      "directions": "On Lawrence Hill Road, Weston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304139",
+      "photo_urls": []
+    },
+    {
+      "id": "304141",
+      "title": "The Church on the Hill",
+      "latitude": 43.29216791,
+      "longitude": -72.79554347,
+      "directions": "On Lawrence Hill Road, Weston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304141",
+      "photo_urls": []
+    },
+    {
+      "id": "304144",
+      "title": "The Cone House",
+      "latitude": 43.29237996,
+      "longitude": -72.79581522,
+      "directions": "On Lawrence Hill Road, Weston, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304144",
+      "photo_urls": []
+    },
+    {
+      "id": "304146",
+      "title": "Honor Roll",
+      "latitude": 43.29225203,
+      "longitude": -72.79601184,
+      "directions": "On Lawrence Hill Road, Weston, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304146",
+      "photo_urls": []
+    },
+    {
+      "id": "304147",
+      "title": "Wilder Memorial Library",
+      "latitude": 43.29153056,
+      "longitude": -72.79475278,
+      "directions": "On Lawrence Hill Road, Weston, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304147",
+      "photo_urls": []
+    },
+    {
+      "id": "304156",
+      "title": "Honor Roll",
+      "latitude": 43.22671389,
+      "longitude": -72.80763333,
+      "directions": "On North Main Street (State Route 11) , Londonderry, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304156",
+      "photo_urls": []
+    },
+    {
+      "id": "304158",
+      "title": "Gold Star Mothers Memorial",
+      "latitude": 42.88659167,
+      "longitude": -73.19690833,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304158",
+      "photo_urls": []
+    },
+    {
+      "id": "304162",
+      "title": "Medal of Honor",
+      "latitude": 42.88654722,
+      "longitude": -73.1969,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304162",
+      "photo_urls": []
+    },
+    {
+      "id": "304163",
+      "title": "Vermont Veterans' Home Monument",
+      "latitude": 42.88648333,
+      "longitude": -73.19690833,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304163",
+      "photo_urls": []
+    },
+    {
+      "id": "304164",
+      "title": "The Silver Rose",
+      "latitude": 42.88642778,
+      "longitude": -73.1969,
+      "directions": "On North Street (U.S. 7) , Bennington, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304164",
+      "photo_urls": []
+    },
+    {
+      "id": "304252",
+      "title": "Early Black Settlers",
+      "latitude": 44.32096667,
+      "longitude": -73.07336667,
+      "directions": "On Lincoln Hill Road, near Hinesburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304252",
+      "photo_urls": []
+    },
+    {
       "id": "32118",
       "title": "Samuel Morey",
       "latitude": 43.906663,
@@ -7176,7 +7689,7 @@
       "title": "Vermont",
       "latitude": 43.650109,
       "longitude": -72.32254,
-      "directions": "On North Main Street, White River Junction, (On the right when traveling east)",
+      "directions": "On North Main Street, Hartford, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=32193",
       "photo_urls": []
     },
@@ -7203,7 +7716,7 @@
       "title": "The \"Corkscrew\" Railroad",
       "latitude": 42.88304,
       "longitude": -73.20898,
-      "directions": "On West Main Street (State Route 9) , Bennington, (On the right when traveling east)",
+      "directions": "On Main Street (State Route 9) , Bennington, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=36902",
       "photo_urls": []
     },
@@ -7212,7 +7725,7 @@
       "title": "Fisher Bridge",
       "latitude": 44.5328,
       "longitude": -72.42765,
-      "directions": "On State Route 15, near Wolcott, (On the right when traveling east)",
+      "directions": "On State Route 15, near Hardwick, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=36934",
       "photo_urls": []
     },
@@ -7248,7 +7761,7 @@
       "title": "Joseph Smith Monument",
       "latitude": 43.8127,
       "longitude": -72.50604,
-      "directions": "On Route 14 (State Route 14) , near South Royalton, (On the right when traveling north)",
+      "directions": "On Dairy Hill Road (State Route 14) , near Royalton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=37198",
       "photo_urls": []
     },
@@ -7329,7 +7842,7 @@
       "title": "House Where Lt .Colonel Baum Died",
       "latitude": 42.93698333,
       "longitude": -73.26936667,
-      "directions": "On U.S. 67, North Bennington, (On the right when traveling east)",
+      "directions": "On U.S. 67, Shaftsbury, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=58451",
       "photo_urls": []
     },
@@ -7392,7 +7905,7 @@
       "title": "Ethan Allen",
       "latitude": 42.884251,
       "longitude": -73.213255,
-      "directions": "On W. Main St. (State Route 9) , Bennington, (On the right when traveling east)",
+      "directions": "On West Main Street (State Route 9) , Bennington, (On the right when traveling east)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=61279",
       "photo_urls": []
     },
@@ -7437,7 +7950,7 @@
       "title": "Calvin Coolidge Homestead",
       "latitude": 43.5353,
       "longitude": -72.7208,
-      "directions": "On Calvin Coolidge Memorial Road, Plymouth Notch, ",
+      "directions": "On Calvin Coolidge Memorial Road, Plymouth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=62155",
       "photo_urls": []
     },
@@ -7581,7 +8094,7 @@
       "title": "Harmon's Mint",
       "latitude": 43.28098,
       "longitude": -73.1257,
-      "directions": "On State Route 30, East Rupert, (On the right when traveling north)",
+      "directions": "On State Route 30, Dorset, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73639",
       "photo_urls": []
     },
@@ -7608,7 +8121,7 @@
       "title": "Jessie LaFountain Bigwood",
       "latitude": 43.822,
       "longitude": -72.52,
-      "directions": "On Chelsea Street (State Route 110) , South Royalton, (On the right when traveling south)",
+      "directions": "On Chelsea Street (State Route 110) , Royalton, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=73938",
       "photo_urls": []
     },
@@ -7617,7 +8130,7 @@
       "title": "George Washington Henderson",
       "latitude": 44.74821667,
       "longitude": -72.70083333,
-      "directions": "On State Route 109, Belvidere Center, (On the left when traveling west)",
+      "directions": "On State Route 109, Belvidere, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=74259",
       "photo_urls": []
     },
@@ -7716,7 +8229,7 @@
       "title": "Calvin Coolidge",
       "latitude": 43.53548333,
       "longitude": -72.72158333,
-      "directions": "On State Route 100A, Plymouth Notch, ",
+      "directions": "On State Route 100A, Plymouth, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=74473",
       "photo_urls": []
     },
@@ -8193,7 +8706,7 @@
       "title": "Birthplace of Vermont",
       "latitude": 42.909546,
       "longitude": -73.249517,
-      "directions": "On Murphy Road, Old Bennington, (On the right when traveling west)",
+      "directions": "On Murphy Road, Bennington, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77019",
       "photo_urls": []
     },
@@ -8202,7 +8715,7 @@
       "title": "Anthony Haswell",
       "latitude": 42.88939,
       "longitude": -73.215249,
-      "directions": "On Monument Circle, Old Bennington, ",
+      "directions": "On Monument Circle, Bennington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77021",
       "photo_urls": []
     },
@@ -8211,7 +8724,7 @@
       "title": "New Hampshire at the Battle of Bennington",
       "latitude": 42.889047,
       "longitude": -73.21615,
-      "directions": "Near Monument Circle, Old Bennington, ",
+      "directions": "Near Monument Circle, Bennington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77022",
       "photo_urls": []
     },
@@ -8220,7 +8733,7 @@
       "title": "Colonel Seth Warner",
       "latitude": 42.888619,
       "longitude": -73.215336,
-      "directions": "On Monument Circle, Old Bennington, ",
+      "directions": "On Monument Circle, Bennington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77023",
       "photo_urls": []
     },
@@ -8229,7 +8742,7 @@
       "title": "Before the Battle Monument",
       "latitude": 42.888465,
       "longitude": -73.215502,
-      "directions": "On Monument Circle, Old Bennington, ",
+      "directions": "On Monument Circle, Bennington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77051",
       "photo_urls": []
     },
@@ -8238,7 +8751,7 @@
       "title": "Captain Samuel Robinson",
       "latitude": 42.886083,
       "longitude": -73.213882,
-      "directions": "On Monument Avenue, Old Bennington, (On the right when traveling north)",
+      "directions": "On Monument Avenue, Bennington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77052",
       "photo_urls": []
     },
@@ -8247,7 +8760,7 @@
       "title": "Site of the Catamount Tavern - 1767",
       "latitude": 42.884777,
       "longitude": -73.213461,
-      "directions": "On Monument Avenue, Old Bennington, ",
+      "directions": "On Monument Avenue, Bennington, ",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77053",
       "photo_urls": []
     },
@@ -8265,7 +8778,7 @@
       "title": "Henry Covered Bridge",
       "latitude": 42.912331,
       "longitude": -73.254839,
-      "directions": "On Murphy Road, Old Bennington, (On the left when traveling north)",
+      "directions": "On Murphy Road, Bennington, (On the left when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77062",
       "photo_urls": []
     },
@@ -8310,7 +8823,7 @@
       "title": "The Dorset Field Club",
       "latitude": 43.25619,
       "longitude": -73.1004,
-      "directions": "On State Route 30, Dorset, (On the right when traveling south)",
+      "directions": "On State Route 30, Pawlet, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=77585",
       "photo_urls": []
     },
@@ -8706,7 +9219,7 @@
       "title": "Randolph State Normal School",
       "latitude": 43.94026,
       "longitude": -72.60689,
-      "directions": "On Main Street, Randolph Center, (On the right when traveling north)",
+      "directions": "On Main Street, Randolph, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79924",
       "photo_urls": []
     },
@@ -8715,7 +9228,7 @@
       "title": "Randolph",
       "latitude": 43.939694,
       "longitude": -72.60683,
-      "directions": "On Main Street, Randolph Center, (On the left when traveling south)",
+      "directions": "On Main Street, Randolph, (On the left when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=79946",
       "photo_urls": []
     },
@@ -8823,7 +9336,7 @@
       "title": "Wagon Wheels Farm",
       "latitude": 43.83498333,
       "longitude": -72.51211667,
-      "directions": "On State Route 110, South Royalton, (On the right when traveling north)",
+      "directions": "On State Route 110, Royalton, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=85971",
       "photo_urls": []
     },
@@ -9156,7 +9669,7 @@
       "title": "Bomber Crash on Hawks Mountain / Crew of B-29A #44-62228 Crashed Perkinsville, Vermont 15 June 1947",
       "latitude": 43.37205,
       "longitude": -72.516,
-      "directions": "On State Route 106, Perkinsville, (On the right when traveling south)",
+      "directions": "On State Route 106, Weathersfield, (On the right when traveling south)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=90100",
       "photo_urls": []
     },
@@ -9327,7 +9840,7 @@
       "title": "Dorothy Thompson Memorial Common",
       "latitude": 43.7281,
       "longitude": -72.618898,
-      "directions": "On State Route 12, Barnard, (On the right when traveling north)",
+      "directions": "On State Route 12, Woodstock, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=94488",
       "photo_urls": []
     },
@@ -9372,7 +9885,7 @@
       "title": "Jonathan Peckham Miller",
       "latitude": 43.93909382,
       "longitude": -72.60671716,
-      "directions": "On East Bethel Road, Randolph Center, (On the right when traveling north)",
+      "directions": "On East Bethel Road, Randolph, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=95450",
       "photo_urls": []
     },
@@ -9552,7 +10065,7 @@
       "title": "Morrisville Depot",
       "latitude": 44.56405,
       "longitude": -72.59825,
-      "directions": "On Portland Street, Morrisville, (On the right when traveling north)",
+      "directions": "On Portland Street, Morristown, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=97752",
       "photo_urls": []
     },
