@@ -3,9 +3,9 @@
   "region_name": "District of Columbia",
   "region_type": "district",
   "country": "United States",
-  "generated": "2026-06-02T06:02:11.072Z",
-  "source_timestamp": "2026-06-02T06:02:11.072Z",
-  "marker_count": 2827,
+  "generated": "2026-06-30T06:02:18.562Z",
+  "source_timestamp": "2026-06-30T06:02:18.562Z",
+  "marker_count": 2845,
   "markers": [
     {
       "id": "100155",
@@ -20834,12 +20834,174 @@
       "photo_urls": []
     },
     {
+      "id": "302216",
+      "title": "Great Expectations",
+      "latitude": 38.91341111,
+      "longitude": -77.01398333,
+      "directions": "On Randolph Place Northwest, Northwest Washington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302216",
+      "photo_urls": []
+    },
+    {
       "id": "3028",
       "title": "Fort Stevens",
       "latitude": 38.96386122,
       "longitude": -77.02956223,
       "directions": "On 13th Street Northwest, Northwest Washington, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=3028",
+      "photo_urls": []
+    },
+    {
+      "id": "303408",
+      "title": "Howard University Law School Graduates",
+      "latitude": 38.90243611,
+      "longitude": -77.01840278,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303408",
+      "photo_urls": []
+    },
+    {
+      "id": "303409",
+      "title": "Minor Normal School",
+      "latitude": 38.90242778,
+      "longitude": -77.01846389,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303409",
+      "photo_urls": []
+    },
+    {
+      "id": "303411",
+      "title": "Dunbar High School",
+      "latitude": 38.90245,
+      "longitude": -77.01835556,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303411",
+      "photo_urls": []
+    },
+    {
+      "id": "303412",
+      "title": "National Training School for Women and Girls",
+      "latitude": 38.90262778,
+      "longitude": -77.01835,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303412",
+      "photo_urls": []
+    },
+    {
+      "id": "303413",
+      "title": "Dunbar High School Basketball",
+      "latitude": 38.90238889,
+      "longitude": -77.01788333,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303413",
+      "photo_urls": []
+    },
+    {
+      "id": "303414",
+      "title": "Birney School May Day",
+      "latitude": 38.90241667,
+      "longitude": -77.0178,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303414",
+      "photo_urls": []
+    },
+    {
+      "id": "303415",
+      "title": "Anacostia High School",
+      "latitude": 38.90240278,
+      "longitude": -77.01783611,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303415",
+      "photo_urls": []
+    },
+    {
+      "id": "303416",
+      "title": "Dunbar High School",
+      "latitude": 38.90241111,
+      "longitude": -77.01777778,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303416",
+      "photo_urls": []
+    },
+    {
+      "id": "303417",
+      "title": "Armstrong Technical High School",
+      "latitude": 38.90236389,
+      "longitude": -77.01773056,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303417",
+      "photo_urls": []
+    },
+    {
+      "id": "303450",
+      "title": "Wilson High School",
+      "latitude": 38.90253056,
+      "longitude": -77.017425,
+      "directions": "On K Street Northwest, Northwest Washington, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303450",
+      "photo_urls": []
+    },
+    {
+      "id": "303451",
+      "title": "Shaw Junior High School",
+      "latitude": 38.90241944,
+      "longitude": -77.01727222,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303451",
+      "photo_urls": []
+    },
+    {
+      "id": "303453",
+      "title": "Ballou High School",
+      "latitude": 38.90243611,
+      "longitude": -77.01710556,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303453",
+      "photo_urls": []
+    },
+    {
+      "id": "303454",
+      "title": "Adams Elementary School",
+      "latitude": 38.90243056,
+      "longitude": -77.01706667,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303454",
+      "photo_urls": []
+    },
+    {
+      "id": "303898",
+      "title": "Banneker Junior High School",
+      "latitude": 38.902375,
+      "longitude": -77.01690556,
+      "directions": "On K Street Northwest, Northwest Washington, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303898",
+      "photo_urls": []
+    },
+    {
+      "id": "303899",
+      "title": "Civics at School, 1976",
+      "latitude": 38.901875,
+      "longitude": -77.01776944,
+      "directions": "On Prather Court Northwest, Northwest Washington, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303899",
+      "photo_urls": []
+    },
+    {
+      "id": "303900",
+      "title": "Black History Month, 1976",
+      "latitude": 38.90193611,
+      "longitude": -77.01776944,
+      "directions": "On Prather Court Northwest, Northwest Washington, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303900",
+      "photo_urls": []
+    },
+    {
+      "id": "303901",
+      "title": "Birth of Go-Go, 1976",
+      "latitude": 38.902,
+      "longitude": -77.01775278,
+      "directions": "On 4 1/2 Street Northwest, Northwest Washington, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303901",
       "photo_urls": []
     },
     {
