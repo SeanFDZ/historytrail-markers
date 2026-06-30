@@ -3,9 +3,9 @@
   "region_name": "Wyoming",
   "region_type": "state",
   "country": "United States",
-  "generated": "2026-06-02T06:02:11.121Z",
-  "source_timestamp": "2026-06-02T06:02:11.121Z",
-  "marker_count": 1437,
+  "generated": "2026-06-30T06:02:18.609Z",
+  "source_timestamp": "2026-06-30T06:02:18.609Z",
+  "marker_count": 1445,
   "markers": [
     {
       "id": "100065",
@@ -2687,6 +2687,78 @@
       "longitude": -109.04148708,
       "directions": "On Greybull Hwy., Cody, (On the right when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=300892",
+      "photo_urls": []
+    },
+    {
+      "id": "301085",
+      "title": "The Title - United States Marine Memorial",
+      "latitude": 44.5124102,
+      "longitude": -109.04014049,
+      "directions": "On Greybull Highway, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301085",
+      "photo_urls": []
+    },
+    {
+      "id": "301173",
+      "title": "Service * Sacrifice",
+      "latitude": 44.51297518,
+      "longitude": -109.04053354,
+      "directions": "On Greybull Highway, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301173",
+      "photo_urls": []
+    },
+    {
+      "id": "301183",
+      "title": "Wyoming Army National Guard",
+      "latitude": 44.51282778,
+      "longitude": -109.04093889,
+      "directions": "Near Greybull Highway, Cody, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301183",
+      "photo_urls": []
+    },
+    {
+      "id": "301658",
+      "title": "Wonderfully Grand",
+      "latitude": 43.75264891,
+      "longitude": -110.72418507,
+      "directions": "On Teton Park Road, Moose/Grand Tetons, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301658",
+      "photo_urls": []
+    },
+    {
+      "id": "301823",
+      "title": "State of Wyoming WWII Memorial",
+      "latitude": 44.51237342,
+      "longitude": -109.039911,
+      "directions": "On Greybull Hwy./U.S. 85, Cody, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301823",
+      "photo_urls": []
+    },
+    {
+      "id": "301887",
+      "title": "Jackson Hole Veterans Monument",
+      "latitude": 43.47996227,
+      "longitude": -110.76178908,
+      "directions": "On East Broadway Avenue, Jackson Hole, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301887",
+      "photo_urls": []
+    },
+    {
+      "id": "301892",
+      "title": "Silent Saddle Monument",
+      "latitude": 43.48176228,
+      "longitude": -110.76224125,
+      "directions": "On N. Cache Avenue, Jackson Hole, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301892",
+      "photo_urls": []
+    },
+    {
+      "id": "302238",
+      "title": "An Unmapped Range",
+      "latitude": 43.75171893,
+      "longitude": -110.72525795,
+      "directions": "On S Jenny Lake Walkway, Grand Tetons, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302238",
       "photo_urls": []
     },
     {
