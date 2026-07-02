@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated": "2026-07-01T06:08:10.342Z",
+  "generated": "2026-07-02T06:13:41.848Z",
   "source": "HMdb.org",
   "attribution": "Data from The Historical Marker Database (HMdb.org). Used with attribution per their terms.",
   "total_markers": 73657,
@@ -80,10 +80,10 @@
       "file": "regions/ba-toufor.json",
       "markers": 21,
       "size_bytes": 6499,
-      "updated": "2026-06-04",
+      "updated": "2026-07-02",
       "checksum": "sha256:undefined",
       "changes_since_last": {
-        "added": 21,
+        "added": 30,
         "removed": 0,
         "modified": 0
       }
