@@ -3,9 +3,9 @@
   "region_name": "Jewish American Society for Historic Preservation.",
   "region_type": "state",
   "country": "Sint Eustatius",
-  "generated": "2026-06-05T06:07:15.593Z",
-  "source_timestamp": "2026-06-05T06:07:15.593Z",
-  "marker_count": 111,
+  "generated": "2026-07-03T06:06:19.332Z",
+  "source_timestamp": "2026-07-03T06:06:19.332Z",
+  "marker_count": 115,
   "markers": [
     {
       "id": "13167",
@@ -968,6 +968,42 @@
       "longitude": -87.66033,
       "directions": "On North Clark Street, Chicago, (On the right when traveling north)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=298989",
+      "photo_urls": []
+    },
+    {
+      "id": "303523",
+      "title": "In Memory of the Jewish Community in Mongolia",
+      "latitude": 47.93156,
+      "longitude": 106.97083,
+      "directions": "On , Ulaanbaatar, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303523",
+      "photo_urls": []
+    },
+    {
+      "id": "303643",
+      "title": "The \"Football\" Memorial",
+      "latitude": 33.26484273,
+      "longitude": 35.76399982,
+      "directions": "On County Route 98, Majdal Shams, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303643",
+      "photo_urls": []
+    },
+    {
+      "id": "303822",
+      "title": "Sgt. Issy Smith, VC",
+      "latitude": 51.54826626,
+      "longitude": -0.06275864,
+      "directions": "On Dalston Lane, Hackney, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303822",
+      "photo_urls": []
+    },
+    {
+      "id": "304359",
+      "title": "Borscht Belt - Ferndale",
+      "latitude": 41.77426944,
+      "longitude": -74.73648056,
+      "directions": "On Ferndale Road, Liberty, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304359",
       "photo_urls": []
     },
     {
