@@ -3,9 +3,9 @@
   "region_name": "Canada",
   "region_type": "country",
   "country": "Canada",
-  "generated": "2026-06-05T06:07:15.589Z",
-  "source_timestamp": "2026-06-05T06:07:15.589Z",
-  "marker_count": 126,
+  "generated": "2026-07-03T06:06:19.325Z",
+  "source_timestamp": "2026-07-03T06:06:19.325Z",
+  "marker_count": 282,
   "markers": [
     {
       "id": "297203",
@@ -1061,6 +1061,15 @@
       "photo_urls": []
     },
     {
+      "id": "301759",
+      "title": "The Freeman Memorial Fountain",
+      "latitude": 43.37166111,
+      "longitude": -80.98243056,
+      "directions": "On Ontario Street, Stratford, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301759",
+      "photo_urls": []
+    },
+    {
       "id": "301760",
       "title": "The Freeland Fountain",
       "latitude": 43.37160833,
@@ -1139,6 +1148,1401 @@
       "longitude": -112.46682667,
       "directions": "On 2 Avenue, Bassano, (On the left when traveling west)",
       "hmdb_url": "https://www.hmdb.org/m.asp?m=301834",
+      "photo_urls": []
+    },
+    {
+      "id": "301874",
+      "title": "First Railway in Western Canada / Le Premier Chemin de Fer de L'Ouest du Canada",
+      "latitude": 49.14234717,
+      "longitude": -97.15597317,
+      "directions": "On Centennial Drive, Dominion City, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301874",
+      "photo_urls": []
+    },
+    {
+      "id": "301882",
+      "title": "Sergeant Wilde and Charcoal",
+      "latitude": 49.43940437,
+      "longitude": -113.92543018,
+      "directions": "On Alberta 6, Pincher Creek, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301882",
+      "photo_urls": []
+    },
+    {
+      "id": "301907",
+      "title": "Built in 1911",
+      "latitude": 50.78755865,
+      "longitude": -112.46916959,
+      "directions": "On 2 Avenue, Bassano, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301907",
+      "photo_urls": []
+    },
+    {
+      "id": "301974",
+      "title": "Brooks Aqueduct / L'Aqueduc de Brooks",
+      "latitude": 50.53182852,
+      "longitude": -111.83782043,
+      "directions": "On Range Road 142, near Brooks, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=301974",
+      "photo_urls": []
+    },
+    {
+      "id": "302332",
+      "title": "Mackenzie House",
+      "latitude": 43.65580499,
+      "longitude": -79.37848259,
+      "directions": "On Bond Street, Toronto, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302332",
+      "photo_urls": []
+    },
+    {
+      "id": "302334",
+      "title": "Oakham House",
+      "latitude": 43.65807085,
+      "longitude": -79.37807042,
+      "directions": "On Gould Street, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302334",
+      "photo_urls": []
+    },
+    {
+      "id": "302335",
+      "title": "Oakham House",
+      "latitude": 43.65797025,
+      "longitude": -79.37831888,
+      "directions": "On Gould Street, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302335",
+      "photo_urls": []
+    },
+    {
+      "id": "302463",
+      "title": "St. Mary’s School",
+      "latitude": 43.44735833,
+      "longitude": -79.66268056,
+      "directions": "On King Street, Oakville, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302463",
+      "photo_urls": []
+    },
+    {
+      "id": "302466",
+      "title": "St. Andrew’s Parish",
+      "latitude": 43.44686944,
+      "longitude": -79.66320833,
+      "directions": "On King Street, Oakville, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302466",
+      "photo_urls": []
+    },
+    {
+      "id": "302479",
+      "title": "Massey Hall",
+      "latitude": 43.65422319,
+      "longitude": -79.378989,
+      "directions": "On Shuter Street, Toronto, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302479",
+      "photo_urls": []
+    },
+    {
+      "id": "302553",
+      "title": "Tinsmith Shop / L'atelier du ferblantier",
+      "latitude": 44.94553376,
+      "longitude": -75.06600702,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302553",
+      "photo_urls": []
+    },
+    {
+      "id": "302558",
+      "title": "Shoemaker's House / La maison du fabricant de chaussures",
+      "latitude": 44.94565832,
+      "longitude": -75.06609042,
+      "directions": "Near County Road 2, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302558",
+      "photo_urls": []
+    },
+    {
+      "id": "302563",
+      "title": "Masonic Lodge / Loge maçonnique",
+      "latitude": 44.94574313,
+      "longitude": -75.0661656,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302563",
+      "photo_urls": []
+    },
+    {
+      "id": "302566",
+      "title": "Robertson Stable / Écurie Robertson",
+      "latitude": 44.94689171,
+      "longitude": -75.06692521,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302566",
+      "photo_urls": []
+    },
+    {
+      "id": "302697",
+      "title": "Municipal Building and Auditorium / Immeuble Municipal et Auditorium",
+      "latitude": 49.84912229,
+      "longitude": -100.93160582,
+      "directions": "On Wellington Street West, Virden, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302697",
+      "photo_urls": []
+    },
+    {
+      "id": "302700",
+      "title": "Ross Farm House / La maison de la ferme des Ross",
+      "latitude": 44.94796289,
+      "longitude": -75.06592881,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302700",
+      "photo_urls": []
+    },
+    {
+      "id": "302706",
+      "title": "Hired Man's House / Maison de l'homme engagé",
+      "latitude": 44.94758524,
+      "longitude": -75.06343986,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302706",
+      "photo_urls": []
+    },
+    {
+      "id": "302722",
+      "title": "Tilley House / Maison Tilley",
+      "latitude": 45.78462013,
+      "longitude": -66.14423174,
+      "directions": "On Front Street, Gagetown, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302722",
+      "photo_urls": []
+    },
+    {
+      "id": "302723",
+      "title": "Sir Samuel Leonard Tilley",
+      "latitude": 45.78447432,
+      "longitude": -66.14424206,
+      "directions": "On Front Street, Gagetown, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302723",
+      "photo_urls": []
+    },
+    {
+      "id": "302728",
+      "title": "Loucks Farm House / Maison de la ferme des Loucks",
+      "latitude": 44.94723205,
+      "longitude": -75.06325697,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302728",
+      "photo_urls": []
+    },
+    {
+      "id": "302730",
+      "title": "Saint John County Court House / Le Palais de Justice de Saint-Jean",
+      "latitude": 45.27372429,
+      "longitude": -66.05705713,
+      "directions": "On Sydney Street, Saint John, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302730",
+      "photo_urls": []
+    },
+    {
+      "id": "302813",
+      "title": "Mère Élisabeth Bruyère : une femme inspirante",
+      "latitude": 45.43112032,
+      "longitude": -75.71083427,
+      "directions": "On Rue Notre-Dame-de-l&#39;île, Gatineau, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302813",
+      "photo_urls": []
+    },
+    {
+      "id": "302818",
+      "title": "Gordon-Marshall House 1884",
+      "latitude": 42.98921093,
+      "longitude": -79.24688215,
+      "directions": "On Hellems Avenue, Welland, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302818",
+      "photo_urls": []
+    },
+    {
+      "id": "302823",
+      "title": "Bridgetender's House c.1855",
+      "latitude": 42.99566186,
+      "longitude": -79.25099438,
+      "directions": "On Merritt Street, Welland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302823",
+      "photo_urls": []
+    },
+    {
+      "id": "302824",
+      "title": "Jeanne D'Arc Institute / Institut Jeanne d'Arc",
+      "latitude": 45.42750318,
+      "longitude": -75.69486976,
+      "directions": "On York Street, Ottawa, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302824",
+      "photo_urls": []
+    },
+    {
+      "id": "302832",
+      "title": "1855 The Bridgetender's House",
+      "latitude": 42.99566186,
+      "longitude": -79.25099438,
+      "directions": "On Merritt Street, Welland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302832",
+      "photo_urls": []
+    },
+    {
+      "id": "302845",
+      "title": "The Brick Archways 1913",
+      "latitude": 43.00088625,
+      "longitude": -79.2530027,
+      "directions": "On Parkway, Welland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302845",
+      "photo_urls": []
+    },
+    {
+      "id": "302863",
+      "title": "The Hooker House 1856",
+      "latitude": 42.98990621,
+      "longitude": -79.25357099,
+      "directions": "On Maple Avenue, Welland, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302863",
+      "photo_urls": []
+    },
+    {
+      "id": "302867",
+      "title": "Mizpah Mission/Italian Pentecostal Church 1917",
+      "latitude": 42.98345147,
+      "longitude": -79.25104435,
+      "directions": "On King Street, Welland, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302867",
+      "photo_urls": []
+    },
+    {
+      "id": "302876",
+      "title": "Ukrainian Labour Temple 2005",
+      "latitude": 42.9745439,
+      "longitude": -79.24560874,
+      "directions": "On Ontario Road, Welland, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302876",
+      "photo_urls": []
+    },
+    {
+      "id": "302877",
+      "title": "Mother Marie Thomas D'Aquin 1877-1963",
+      "latitude": 45.4277815,
+      "longitude": -75.6947908,
+      "directions": "Near Jeanne d’Arc Court, Ottawa, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302877",
+      "photo_urls": []
+    },
+    {
+      "id": "302878",
+      "title": "Wainfleet Cenotaph",
+      "latitude": 42.92241396,
+      "longitude": -79.37534864,
+      "directions": "On Park Street, Wainfleet, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302878",
+      "photo_urls": []
+    },
+    {
+      "id": "302882",
+      "title": "Wainfleet Township Hall, Circa 1880",
+      "latitude": 42.92256723,
+      "longitude": -79.37489016,
+      "directions": "On Hwy 3, Wainfleet, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302882",
+      "photo_urls": []
+    },
+    {
+      "id": "302883",
+      "title": "Cook's Tavern / Taverne Cook",
+      "latitude": 44.94658834,
+      "longitude": -75.06693895,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302883",
+      "photo_urls": []
+    },
+    {
+      "id": "302887",
+      "title": "Tessouat",
+      "latitude": 45.42884675,
+      "longitude": -75.70756386,
+      "directions": "Near Rue Laurier, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302887",
+      "photo_urls": []
+    },
+    {
+      "id": "302890",
+      "title": "Roxham",
+      "latitude": 45.42811167,
+      "longitude": -75.71820265,
+      "directions": "On Rue Leduc, Gatineau, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302890",
+      "photo_urls": []
+    },
+    {
+      "id": "302896",
+      "title": "Église et dévotion à Masson",
+      "latitude": 45.54405467,
+      "longitude": -75.41954079,
+      "directions": "On Rue Donat-Saint-Amour, Gatineau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302896",
+      "photo_urls": []
+    },
+    {
+      "id": "302897",
+      "title": "Le sentier récréatif du boulevard Fournier",
+      "latitude": 45.4477446,
+      "longitude": -75.71259402,
+      "directions": "On Boulevard Fournier, Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302897",
+      "photo_urls": []
+    },
+    {
+      "id": "302898",
+      "title": "Fondation de la municipalité de Masson",
+      "latitude": 45.54565828,
+      "longitude": -75.42192661,
+      "directions": "Near Chemin de Masson (State Route 315) , Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302898",
+      "photo_urls": []
+    },
+    {
+      "id": "302899",
+      "title": "Dompter la rivière, créer des industries",
+      "latitude": 45.54550541,
+      "longitude": -75.42186311,
+      "directions": "Near Chemin de Masson (State Route 315) , Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302899",
+      "photo_urls": []
+    },
+    {
+      "id": "302908",
+      "title": "Canby Implement Shed circa 1898",
+      "latitude": 42.92072446,
+      "longitude": -79.37771382,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302908",
+      "photo_urls": []
+    },
+    {
+      "id": "302912",
+      "title": "Patron's Of Industry Hall circa 1893",
+      "latitude": 42.92068394,
+      "longitude": -79.37783965,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302912",
+      "photo_urls": []
+    },
+    {
+      "id": "302917",
+      "title": "This Bell Originally Housed In The Bell Tower Of Emmanuel United Church At Wellandport",
+      "latitude": 42.92086888,
+      "longitude": -79.37784369,
+      "directions": "Near Side Road 20, Wainfleet, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302917",
+      "photo_urls": []
+    },
+    {
+      "id": "302930",
+      "title": "S.S. No. 11 circa 1866",
+      "latitude": 42.9211229,
+      "longitude": -79.37786665,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302930",
+      "photo_urls": []
+    },
+    {
+      "id": "302931",
+      "title": "Vivian Flour Mill circa 1841",
+      "latitude": 42.9214934,
+      "longitude": -79.37798467,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302931",
+      "photo_urls": []
+    },
+    {
+      "id": "302958",
+      "title": "Jones & Palcso Wagonmaker Blacksmith Shop circa 1865",
+      "latitude": 42.92152768,
+      "longitude": -79.37788611,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302958",
+      "photo_urls": []
+    },
+    {
+      "id": "302959",
+      "title": "Dean Sawmill circa 1883",
+      "latitude": 42.92151121,
+      "longitude": -79.37776938,
+      "directions": "Near Side Road 20, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302959",
+      "photo_urls": []
+    },
+    {
+      "id": "302961",
+      "title": "Neff Morgan Cabin circa 1841",
+      "latitude": 42.92155835,
+      "longitude": -79.37748573,
+      "directions": "Near Park Street, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302961",
+      "photo_urls": []
+    },
+    {
+      "id": "302962",
+      "title": "Neff-Morgan Cabin",
+      "latitude": 42.92156829,
+      "longitude": -79.37750597,
+      "directions": "Near Park Street, Wainfleet, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302962",
+      "photo_urls": []
+    },
+    {
+      "id": "302964",
+      "title": "Prisoner of War Camp August 1943 - November 1945",
+      "latitude": 42.90997214,
+      "longitude": -79.29596406,
+      "directions": "On Erie Peat Road, Wainfleet, (In the median)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302964",
+      "photo_urls": []
+    },
+    {
+      "id": "302967",
+      "title": "Le commerce de proximité à Masson",
+      "latitude": 45.54383331,
+      "longitude": -75.41949328,
+      "directions": "On Chemin de Montréal Est, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302967",
+      "photo_urls": []
+    },
+    {
+      "id": "302968",
+      "title": "Augustine House",
+      "latitude": 42.9006994,
+      "longitude": -79.25002711,
+      "directions": "On Main Street West, Port Colborne, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302968",
+      "photo_urls": []
+    },
+    {
+      "id": "302970",
+      "title": "Safety Follows Wisdom",
+      "latitude": 42.88042445,
+      "longitude": -79.2556109,
+      "directions": "On Sugarloaf Street, Port Colborne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302970",
+      "photo_urls": []
+    },
+    {
+      "id": "302974",
+      "title": "D-Day",
+      "latitude": 42.88046689,
+      "longitude": -79.25608133,
+      "directions": "Near Sugarloaf Street, Port Colborne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302974",
+      "photo_urls": []
+    },
+    {
+      "id": "302975",
+      "title": "Port Colborne War Memorial Cenotaph",
+      "latitude": 42.8804357,
+      "longitude": -79.25624061,
+      "directions": "On Sugarloaf Street, Port Colborne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302975",
+      "photo_urls": []
+    },
+    {
+      "id": "302979",
+      "title": "Farran's Point / La pointe Farran",
+      "latitude": 44.94585365,
+      "longitude": -75.06940431,
+      "directions": "Near County Road 2, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302979",
+      "photo_urls": []
+    },
+    {
+      "id": "302985",
+      "title": "In memory of our sisters (Montreal Dec 6 1989)",
+      "latitude": 42.88035828,
+      "longitude": -79.25642419,
+      "directions": "On Sugarloaf Street, Port Colborne, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302985",
+      "photo_urls": []
+    },
+    {
+      "id": "302992",
+      "title": "The War of 1812 in the Sugarloaf Settlement",
+      "latitude": 42.88041535,
+      "longitude": -79.25708298,
+      "directions": "On Sugarloaf Street, Port Colborne, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=302992",
+      "photo_urls": []
+    },
+    {
+      "id": "303039",
+      "title": "“The Moccasin” / « Le Moccasin »",
+      "latitude": 44.94582182,
+      "longitude": -75.06944243,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303039",
+      "photo_urls": []
+    },
+    {
+      "id": "303042",
+      "title": "Rotary Reflecting Pool",
+      "latitude": 43.15767076,
+      "longitude": -79.24214224,
+      "directions": "Near McGuire St, St. Catharines, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303042",
+      "photo_urls": []
+    },
+    {
+      "id": "303048",
+      "title": "Carol Disher - April 20, 1950 to August 10, 2015",
+      "latitude": 43.14615003,
+      "longitude": -79.22786799,
+      "directions": "Near Edgedale Road, St. Catharines, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303048",
+      "photo_urls": []
+    },
+    {
+      "id": "303052",
+      "title": "Tenant Farm House / La maison de la métairie (ferme louée)",
+      "latitude": 44.94662514,
+      "longitude": -75.06232429,
+      "directions": "Near County Road 2, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303052",
+      "photo_urls": []
+    },
+    {
+      "id": "303139",
+      "title": "The Camel Barn",
+      "latitude": 50.69458957,
+      "longitude": -121.93238641,
+      "directions": "On Main Street, Lillooet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303139",
+      "photo_urls": []
+    },
+    {
+      "id": "303140",
+      "title": "District of Lillooet Office",
+      "latitude": 50.69391833,
+      "longitude": -121.93368462,
+      "directions": "On Main Street, Lillooet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303140",
+      "photo_urls": []
+    },
+    {
+      "id": "303141",
+      "title": "Post Office",
+      "latitude": 50.69347213,
+      "longitude": -121.93424996,
+      "directions": "On Main Street, Lillooet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303141",
+      "photo_urls": []
+    },
+    {
+      "id": "303142",
+      "title": "The Bridge of the 23 Camels",
+      "latitude": 50.68296745,
+      "longitude": -121.93164376,
+      "directions": "On Duffey Lake Road, Lillooet, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303142",
+      "photo_urls": []
+    },
+    {
+      "id": "303143",
+      "title": "Christ Church",
+      "latitude": 49.38100884,
+      "longitude": -121.44428795,
+      "directions": "On Fraser Avenue, Hope, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303143",
+      "photo_urls": []
+    },
+    {
+      "id": "303145",
+      "title": "Chilliwack City Hall / Hotel de Ville de Chilliwack",
+      "latitude": 49.16904971,
+      "longitude": -121.95656876,
+      "directions": "On Spadina Avenue, Chilliwack, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303145",
+      "photo_urls": []
+    },
+    {
+      "id": "303182",
+      "title": "Schoharie Barns / Les granges Schoharie",
+      "latitude": 44.94762203,
+      "longitude": -75.06260987,
+      "directions": "Near no nearby street, Morrisburg, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303182",
+      "photo_urls": []
+    },
+    {
+      "id": "303186",
+      "title": "L'industrie du mica",
+      "latitude": 45.54578081,
+      "longitude": -75.42183612,
+      "directions": "Near Chemin de Masson (State Route 315) , Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303186",
+      "photo_urls": []
+    },
+    {
+      "id": "303191",
+      "title": "L'hôtellerie à Masson",
+      "latitude": 45.54586948,
+      "longitude": -75.4215682,
+      "directions": "Near Chemin de Masson (State Route 315) , Gatineau, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303191",
+      "photo_urls": []
+    },
+    {
+      "id": "303195",
+      "title": "Maison Chauvet",
+      "latitude": 45.65018089,
+      "longitude": -74.94505752,
+      "directions": "On Rue Notre Dame (State Route 148) , Montebello, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303195",
+      "photo_urls": []
+    },
+    {
+      "id": "303196",
+      "title": "Les Servantes de Jésus-Marie",
+      "latitude": 45.54404551,
+      "longitude": -75.41967004,
+      "directions": "On Rue Donat-Saint-Amour, Gatineau, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303196",
+      "photo_urls": []
+    },
+    {
+      "id": "303200",
+      "title": "District of Assiniboia, 1882",
+      "latitude": 50.33808494,
+      "longitude": -111.37973137,
+      "directions": "On Trans-Canada Highway (State Route 1) , Alderson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303200",
+      "photo_urls": []
+    },
+    {
+      "id": "303270",
+      "title": "Fort Steele",
+      "latitude": 49.61737005,
+      "longitude": -115.63228891,
+      "directions": "On Main Street, Windermere, (On the left when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303270",
+      "photo_urls": []
+    },
+    {
+      "id": "303271",
+      "title": "Chantecler Chicken",
+      "latitude": 49.61511314,
+      "longitude": -115.6320951,
+      "directions": "Near Highway 93/95, Fort Steele, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303271",
+      "photo_urls": []
+    },
+    {
+      "id": "303273",
+      "title": "St Joseph Roman Catholic Church / L'eglise Catholique Romaine St Joseph",
+      "latitude": 51.3956328,
+      "longitude": -116.48738265,
+      "directions": "On 1st Avenue, Field, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303273",
+      "photo_urls": []
+    },
+    {
+      "id": "303275",
+      "title": "Old Revelstoke Post Office",
+      "latitude": 51.00022931,
+      "longitude": -118.19795072,
+      "directions": "On 1 Street West, Revelstoke, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303275",
+      "photo_urls": []
+    },
+    {
+      "id": "303276",
+      "title": "Saint Peter's -- Revelstoke's Pioneer Church",
+      "latitude": 51.00196779,
+      "longitude": -118.20196198,
+      "directions": "On 2 Street West, Revelstoke, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303276",
+      "photo_urls": []
+    },
+    {
+      "id": "303278",
+      "title": "Nakusp Courthouse",
+      "latitude": 50.23924768,
+      "longitude": -117.80371235,
+      "directions": "On Broadway Street West, Nakusp, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303278",
+      "photo_urls": []
+    },
+    {
+      "id": "303280",
+      "title": "Our Lady of Lourdes Catholic Church",
+      "latitude": 50.23994861,
+      "longitude": -117.80403227,
+      "directions": "On 5 Avenue Northwest, Nakusp, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303280",
+      "photo_urls": []
+    },
+    {
+      "id": "303282",
+      "title": "Lodges Ice Cream Parlour",
+      "latitude": 50.23873185,
+      "longitude": -117.80160402,
+      "directions": "On Broadway Street West, Nakusp, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303282",
+      "photo_urls": []
+    },
+    {
+      "id": "303283",
+      "title": "Masonic Building",
+      "latitude": 50.23905776,
+      "longitude": -117.80254401,
+      "directions": "On Broadway Street West, Nakusp, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303283",
+      "photo_urls": []
+    },
+    {
+      "id": "303297",
+      "title": "Sentier Jean-Lapointe (1913-1977)",
+      "latitude": 45.54371416,
+      "longitude": -75.41915088,
+      "directions": "On Chemin de Montréal Est, Gatineau, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303297",
+      "photo_urls": []
+    },
+    {
+      "id": "303393",
+      "title": "District of Alberta, 1882",
+      "latitude": 50.33808886,
+      "longitude": -111.37973879,
+      "directions": "On Trans-Canada Highway (State Route 1) , Alderson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303393",
+      "photo_urls": []
+    },
+    {
+      "id": "303398",
+      "title": "The Development of an Irrigation District",
+      "latitude": 50.33811954,
+      "longitude": -111.37974363,
+      "directions": "On Trans-Canada Highway (State Route 1) , Alderson, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303398",
+      "photo_urls": []
+    },
+    {
+      "id": "303400",
+      "title": "Past / Present",
+      "latitude": 49.85046504,
+      "longitude": -100.92907301,
+      "directions": "On 6 Avenue South, Virden, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303400",
+      "photo_urls": []
+    },
+    {
+      "id": "303678",
+      "title": "Physician's House / La maison du médecin",
+      "latitude": 44.94738508,
+      "longitude": -75.06477016,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303678",
+      "photo_urls": []
+    },
+    {
+      "id": "303739",
+      "title": "North Nissouri United Church",
+      "latitude": 43.20202222,
+      "longitude": -81.18908611,
+      "directions": "On Fairview Road, near Thorndale, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303739",
+      "photo_urls": []
+    },
+    {
+      "id": "303740",
+      "title": "The Tracy House",
+      "latitude": 43.25482802,
+      "longitude": -81.1409476,
+      "directions": "On Church Street South, Saint Marys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303740",
+      "photo_urls": []
+    },
+    {
+      "id": "303749",
+      "title": "St. Marys Cement Plant",
+      "latitude": 43.247525,
+      "longitude": -81.15083333,
+      "directions": "On Water Street South, Saint Marys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303749",
+      "photo_urls": []
+    },
+    {
+      "id": "303756",
+      "title": "The Quarry",
+      "latitude": 43.24909368,
+      "longitude": -81.14917674,
+      "directions": "On Water Street South, Saint Marys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303756",
+      "photo_urls": []
+    },
+    {
+      "id": "303791",
+      "title": "Dr. Edmund John Zavitz 1895-1968",
+      "latitude": 42.90404142,
+      "longitude": -79.04111409,
+      "directions": "On Garrison Road, Fort Erie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303791",
+      "photo_urls": []
+    },
+    {
+      "id": "303792",
+      "title": "Memorial Ridge Mausoleum",
+      "latitude": 42.90399854,
+      "longitude": -79.03919755,
+      "directions": "On Garrison Road, Fort Erie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303792",
+      "photo_urls": []
+    },
+    {
+      "id": "303794",
+      "title": "356 Ridge Road",
+      "latitude": 42.88453029,
+      "longitude": -79.05174789,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303794",
+      "photo_urls": []
+    },
+    {
+      "id": "303805",
+      "title": "Stonetown Insurance",
+      "latitude": 43.25713333,
+      "longitude": -81.14318889,
+      "directions": "On Water Street South, Saint Marys, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303805",
+      "photo_urls": []
+    },
+    {
+      "id": "303806",
+      "title": "The Armouries",
+      "latitude": 43.25859647,
+      "longitude": -81.14348163,
+      "directions": "On Water Street South, Saint Marys, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303806",
+      "photo_urls": []
+    },
+    {
+      "id": "303808",
+      "title": "St. Marys Opera House",
+      "latitude": 43.25870032,
+      "longitude": -81.1434961,
+      "directions": "On Water Street South, Saint Marys, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303808",
+      "photo_urls": []
+    },
+    {
+      "id": "303809",
+      "title": "315 Ridge Road",
+      "latitude": 42.88335949,
+      "longitude": -79.05213339,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303809",
+      "photo_urls": []
+    },
+    {
+      "id": "303812",
+      "title": "Mill Wheel",
+      "latitude": 43.25905783,
+      "longitude": -81.14406738,
+      "directions": "On Riverview Walkway, Saint Marys, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303812",
+      "photo_urls": []
+    },
+    {
+      "id": "303815",
+      "title": "314 Ridge Road",
+      "latitude": 42.88334105,
+      "longitude": -79.05191576,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303815",
+      "photo_urls": []
+    },
+    {
+      "id": "303816",
+      "title": "307 Ridge Road",
+      "latitude": 42.88315261,
+      "longitude": -79.05213004,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303816",
+      "photo_urls": []
+    },
+    {
+      "id": "303817",
+      "title": "282 Ridge Road",
+      "latitude": 42.88247199,
+      "longitude": -79.0518956,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303817",
+      "photo_urls": []
+    },
+    {
+      "id": "303820",
+      "title": "264 Ridge Road",
+      "latitude": 42.88193332,
+      "longitude": -79.05166382,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303820",
+      "photo_urls": []
+    },
+    {
+      "id": "303824",
+      "title": "264 Ridge Road North",
+      "latitude": 42.88193286,
+      "longitude": -79.05167087,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303824",
+      "photo_urls": []
+    },
+    {
+      "id": "303830",
+      "title": "209 Ridge Road",
+      "latitude": 42.88050265,
+      "longitude": -79.05212946,
+      "directions": "On Ridge Road North, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303830",
+      "photo_urls": []
+    },
+    {
+      "id": "303872",
+      "title": "Ridgeway - Crystal Beach Cenotaph",
+      "latitude": 42.87626634,
+      "longitude": -79.05953034,
+      "directions": "On Ridgeway Road, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303872",
+      "photo_urls": []
+    },
+    {
+      "id": "303873",
+      "title": "Bobby Burd Memorial",
+      "latitude": 42.86589327,
+      "longitude": -79.06119925,
+      "directions": "On Queens Circle, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303873",
+      "photo_urls": []
+    },
+    {
+      "id": "303874",
+      "title": "In Memory of Bishop John Winger",
+      "latitude": 42.94097673,
+      "longitude": -79.10086331,
+      "directions": "On Church Road, Fort Erie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303874",
+      "photo_urls": []
+    },
+    {
+      "id": "303875",
+      "title": "To honour the memory of the pioneer Brethren in Christ (Tunker) Anabaptist believers",
+      "latitude": 42.94093924,
+      "longitude": -79.10081495,
+      "directions": "On Church Road, Fort Erie, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303875",
+      "photo_urls": []
+    },
+    {
+      "id": "303876",
+      "title": "Traditional Site of the first Brethren in Christ Sunday School",
+      "latitude": 42.9409406,
+      "longitude": -79.1008976,
+      "directions": "On Church Road, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303876",
+      "photo_urls": []
+    },
+    {
+      "id": "303887",
+      "title": "Stevensville Conservation Area",
+      "latitude": 42.94342116,
+      "longitude": -79.07335153,
+      "directions": "Near Ott Road, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303887",
+      "photo_urls": []
+    },
+    {
+      "id": "303888",
+      "title": "Well's Mill Millstone",
+      "latitude": 42.9444786,
+      "longitude": -79.0700914,
+      "directions": "On Ott Road, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303888",
+      "photo_urls": []
+    },
+    {
+      "id": "303895",
+      "title": "Stevensville War Memorial",
+      "latitude": 42.94318422,
+      "longitude": -79.05441315,
+      "directions": "On Stevensville Road, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303895",
+      "photo_urls": []
+    },
+    {
+      "id": "303908",
+      "title": "Mill Race",
+      "latitude": 43.25928611,
+      "longitude": -81.14415,
+      "directions": "On Riverview Walkway, Saint Marys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303908",
+      "photo_urls": []
+    },
+    {
+      "id": "303911",
+      "title": "The Hutton-MacPherson Block",
+      "latitude": 43.25934722,
+      "longitude": -81.14365278,
+      "directions": "On Queen Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303911",
+      "photo_urls": []
+    },
+    {
+      "id": "303918",
+      "title": "Coloured Cemetery",
+      "latitude": 42.93766741,
+      "longitude": -79.00360014,
+      "directions": "On Curtis Road, Fort Erie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303918",
+      "photo_urls": []
+    },
+    {
+      "id": "303919",
+      "title": "John McDonald Block",
+      "latitude": 43.25945727,
+      "longitude": -81.14279933,
+      "directions": "On Queen Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303919",
+      "photo_urls": []
+    },
+    {
+      "id": "303921",
+      "title": "Andrews Jeweller",
+      "latitude": 43.25954444,
+      "longitude": -81.14186944,
+      "directions": "On Queen Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303921",
+      "photo_urls": []
+    },
+    {
+      "id": "303924",
+      "title": "Crossing of the River Brethren",
+      "latitude": 42.95576465,
+      "longitude": -78.97677805,
+      "directions": "On Niagara River Parkway, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303924",
+      "photo_urls": []
+    },
+    {
+      "id": "303925",
+      "title": "Robert Eaton Building",
+      "latitude": 43.2595853,
+      "longitude": -81.14149392,
+      "directions": "On Queen Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303925",
+      "photo_urls": []
+    },
+    {
+      "id": "303926",
+      "title": "Millstone from Joseph Well's Grist Mill (1870's - 1890's)",
+      "latitude": 42.94710523,
+      "longitude": -78.94422949,
+      "directions": "Near Thompson Road, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303926",
+      "photo_urls": []
+    },
+    {
+      "id": "303931",
+      "title": "The A. Workman Building",
+      "latitude": 43.2595706,
+      "longitude": -81.141596,
+      "directions": "On Queen Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303931",
+      "photo_urls": []
+    },
+    {
+      "id": "303936",
+      "title": "202 Dufferin Street",
+      "latitude": 42.93078598,
+      "longitude": -78.91941813,
+      "directions": "On Dufferin Street, Fort Erie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303936",
+      "photo_urls": []
+    },
+    {
+      "id": "303937",
+      "title": "Sir Casimir Gzowski",
+      "latitude": 42.92834926,
+      "longitude": -78.9135841,
+      "directions": "On Niagara Boulevard, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303937",
+      "photo_urls": []
+    },
+    {
+      "id": "303946",
+      "title": "The Mentholatum Company of Canada, Ltd.",
+      "latitude": 42.92744794,
+      "longitude": -78.91548772,
+      "directions": "On Lewis Street, Fort Erie, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303946",
+      "photo_urls": []
+    },
+    {
+      "id": "303949",
+      "title": "B-1 Grand Trunk Station",
+      "latitude": 42.92266076,
+      "longitude": -78.91752662,
+      "directions": "Near Central Avenue, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303949",
+      "photo_urls": []
+    },
+    {
+      "id": "303953",
+      "title": "CN Locomotive No. 6218 (1942)",
+      "latitude": 42.9227255,
+      "longitude": -78.91724369,
+      "directions": "On Central Avenue, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303953",
+      "photo_urls": []
+    },
+    {
+      "id": "303964",
+      "title": "Ridgeway Station c. 1900",
+      "latitude": 42.92314299,
+      "longitude": -78.91751489,
+      "directions": "Near Central Avenue, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303964",
+      "photo_urls": []
+    },
+    {
+      "id": "303970",
+      "title": "R.C.A.F. \"Red Knight\" T-33 Jet Aircraft",
+      "latitude": 42.92235777,
+      "longitude": -78.91827853,
+      "directions": "On Central Avenue, Fort Erie, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303970",
+      "photo_urls": []
+    },
+    {
+      "id": "303985",
+      "title": "36 Concession Road",
+      "latitude": 42.91885701,
+      "longitude": -78.92859463,
+      "directions": "On Concession Rd, Fort Erie, (On the right when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303985",
+      "photo_urls": []
+    },
+    {
+      "id": "303988",
+      "title": "The Niagara Movement - Laying the Groundwork for the NAACP",
+      "latitude": 42.88401229,
+      "longitude": -78.93962663,
+      "directions": "On Helena Street, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303988",
+      "photo_urls": []
+    },
+    {
+      "id": "303994",
+      "title": "Erie Beach Park",
+      "latitude": 42.88379826,
+      "longitude": -78.93903409,
+      "directions": "Near Helena Street, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=303994",
+      "photo_urls": []
+    },
+    {
+      "id": "304001",
+      "title": "The View from the Dance Hall",
+      "latitude": 42.88380415,
+      "longitude": -78.93905755,
+      "directions": "Near Helena Street, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304001",
+      "photo_urls": []
+    },
+    {
+      "id": "304002",
+      "title": "Entertainment at Erie Beach",
+      "latitude": 42.88381201,
+      "longitude": -78.93908236,
+      "directions": "Near Helena Street, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304002",
+      "photo_urls": []
+    },
+    {
+      "id": "304003",
+      "title": "Arriving at Erie Beach",
+      "latitude": 42.88381643,
+      "longitude": -78.93909712,
+      "directions": "Near Helena Street, Fort Erie, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304003",
+      "photo_urls": []
+    },
+    {
+      "id": "304023",
+      "title": "John Grieve Lind (1867-1947) - Contributions to St. Marys",
+      "latitude": 43.2588,
+      "longitude": -81.14040278,
+      "directions": "On Church Street South, Saint Marys, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304023",
+      "photo_urls": []
+    },
+    {
+      "id": "304056",
+      "title": "Arthur Meighen",
+      "latitude": 43.25888056,
+      "longitude": -81.14009722,
+      "directions": "On Reynolds Street East, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304056",
+      "photo_urls": []
+    },
+    {
+      "id": "304096",
+      "title": "The Historic Banks of Trout Creek",
+      "latitude": 43.26081111,
+      "longitude": -81.14293611,
+      "directions": "On Parkview Drive, Saint Marys, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304096",
+      "photo_urls": []
+    },
+    {
+      "id": "304097",
+      "title": "Shannon's Bridge",
+      "latitude": 44.49871976,
+      "longitude": -80.20012844,
+      "directions": "On Hume Street, Collingwood, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304097",
+      "photo_urls": []
+    },
+    {
+      "id": "304099",
+      "title": "Steam Hammer",
+      "latitude": 44.50741822,
+      "longitude": -80.21807085,
+      "directions": "Near Heritage Drive, Collingwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304099",
+      "photo_urls": []
+    },
+    {
+      "id": "304100",
+      "title": "All Saints' Anglican Church",
+      "latitude": 44.50030928,
+      "longitude": -80.21507682,
+      "directions": "On Elgin Street, Collingwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304100",
+      "photo_urls": []
+    },
+    {
+      "id": "304103",
+      "title": "Water Street Bridge",
+      "latitude": 43.26061075,
+      "longitude": -81.14383591,
+      "directions": "On Parkview Drive, Saint Marys, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304103",
+      "photo_urls": []
+    },
+    {
+      "id": "304272",
+      "title": "The Aftermath of the Great Fire of 1881",
+      "latitude": 44.4965916,
+      "longitude": -80.20945524,
+      "directions": "On Hume Street, Collingwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304272",
+      "photo_urls": []
+    },
+    {
+      "id": "304286",
+      "title": "Pride Flag",
+      "latitude": 44.50123752,
+      "longitude": -80.21540864,
+      "directions": "On Saint Marie Street, Collingwood, (On the left when traveling south)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304286",
+      "photo_urls": []
+    },
+    {
+      "id": "304294",
+      "title": "Simcoe Street - Late 1890's",
+      "latitude": 44.50123698,
+      "longitude": -80.21466831,
+      "directions": "On Simcoe Street, Collingwood, (On the left when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304294",
+      "photo_urls": []
+    },
+    {
+      "id": "304295",
+      "title": "Collingwood - An Overview / Collingwood Elevators",
+      "latitude": 44.50341659,
+      "longitude": -80.2142979,
+      "directions": "On Huron Street (State Route 26) , Collingwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304295",
+      "photo_urls": []
+    },
+    {
+      "id": "304296",
+      "title": "A Harbour in Need of a Lighthouse / Un phare pour le port de Collingwood",
+      "latitude": 44.51239506,
+      "longitude": -80.22378098,
+      "directions": "Near Heritage Drive, Collingwood, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304296",
+      "photo_urls": []
+    },
+    {
+      "id": "304297",
+      "title": "Steam Engine",
+      "latitude": 44.50721161,
+      "longitude": -80.21757667,
+      "directions": "Near Heritage Drive, Collingwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304297",
+      "photo_urls": []
+    },
+    {
+      "id": "304298",
+      "title": "Enclosed Steam Winch",
+      "latitude": 44.50738779,
+      "longitude": -80.21796418,
+      "directions": "Near Heritage Drive, Collingwood, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304298",
+      "photo_urls": []
+    },
+    {
+      "id": "304299",
+      "title": "Water Transportation via Collingwood 1854-1900",
+      "latitude": 44.50342463,
+      "longitude": -80.21424866,
+      "directions": "On Huron Street (State Route 26) , Collingwood, (On the right when traveling east)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304299",
+      "photo_urls": []
+    },
+    {
+      "id": "304300",
+      "title": "O'Hare-Chant House",
+      "latitude": 44.1661487,
+      "longitude": -77.38004035,
+      "directions": "On John Street, Belleville, (On the right when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304300",
+      "photo_urls": []
+    },
+    {
+      "id": "304546",
+      "title": "281 Barton Street East",
+      "latitude": 43.26103595,
+      "longitude": -79.85303057,
+      "directions": "On Barton Street East, Hamilton, (On the right when traveling west)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304546",
+      "photo_urls": []
+    },
+    {
+      "id": "304561",
+      "title": "Dressmaker's Shop",
+      "latitude": 44.94746297,
+      "longitude": -75.06441011,
+      "directions": "Near Upper Canada Village, Morrisburg, ",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304561",
+      "photo_urls": []
+    },
+    {
+      "id": "304592",
+      "title": "Millionaires Row / Le Rang des Millionaires",
+      "latitude": 47.45518894,
+      "longitude": -79.63635283,
+      "directions": "On Lakeshore Road South, Haileybury, (On the left when traveling north)",
+      "hmdb_url": "https://www.hmdb.org/m.asp?m=304592",
       "photo_urls": []
     }
   ]
